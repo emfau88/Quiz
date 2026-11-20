@@ -1,0 +1,4770 @@
+[
+  {
+    "id": "k-chronik-vienna-congress",
+    "fact_key": "chronik.vienna.congress",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher Kongress ordnete Europa nach dem Sieg über Napoleon neu?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Wiener Kongress"
+      },
+      {
+        "id": "b",
+        "text": "Der Berliner Kongress"
+      },
+      {
+        "id": "c",
+        "text": "Der Wiener Ärzte-Kongress"
+      },
+      {
+        "id": "d",
+        "text": "Der Haager Friedenskongress"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "1814 und 1815 verhandelten die europäischen Mächte in Wien über die politische Neuordnung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1815",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1815.html",
+        "verified_claim": "1814 und 1815 verhandelten die europäischen Mächte in Wien über die politische Neuordnung.",
+        "checked_at": "2026-11-20T01:32:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-adler-route",
+    "fact_key": "chronik.adler.route",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche beiden Städte verband 1835 die erste öffentliche deutsche Eisenbahnstrecke mit Dampfbetrieb?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nürnberg und Fürth"
+      },
+      {
+        "id": "b",
+        "text": "Leipzig und Dresden"
+      },
+      {
+        "id": "c",
+        "text": "Berlin und Hamburg"
+      },
+      {
+        "id": "d",
+        "text": "Köln und Aachen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die neue Strecke verband die beiden fränkischen Nachbarstädte Nürnberg und Fürth.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1835",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1835.html",
+        "verified_claim": "Die neue Strecke verband die beiden fränkischen Nachbarstädte Nürnberg und Fürth.",
+        "checked_at": "2026-11-20T01:32:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-paulskirche-parliament",
+    "fact_key": "chronik.paulskirche.parliament",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In welchem Gebäude in Frankfurt trat 1848 die deutsche Nationalversammlung zusammen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In der Paulskirche"
+      },
+      {
+        "id": "b",
+        "text": "Im Kölner Dom"
+      },
+      {
+        "id": "c",
+        "text": "In der Wartburg"
+      },
+      {
+        "id": "d",
+        "text": "Im Schloss Sanssouci"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In der Frankfurter Paulskirche tagte zunächst das Vorparlament und dann die gewählte Nationalversammlung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1848",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1848.html",
+        "verified_claim": "In der Frankfurter Paulskirche tagte zunächst das Vorparlament und dann die gewählte Nationalversammlung.",
+        "checked_at": "2026-11-20T01:32:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-kaiserkrone-1849",
+    "fact_key": "chronik.kaiserkrone.1849",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Wem bot die Frankfurter Nationalversammlung 1849 die deutsche Kaiserkrone an?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Friedrich Wilhelm IV. von Preußen"
+      },
+      {
+        "id": "b",
+        "text": "Franz Joseph I. von Österreich"
+      },
+      {
+        "id": "c",
+        "text": "Ludwig I. von Bayern"
+      },
+      {
+        "id": "d",
+        "text": "Otto von Bismarck"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Parlament wählte den preußischen König im März 1849 zum Kaiser. Er nahm die Krone nicht an.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1849",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1849.html",
+        "verified_claim": "Das Parlament wählte den preußischen König im März 1849 zum Kaiser. Er nahm die Krone nicht an.",
+        "checked_at": "2026-11-20T01:32:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-versailles-empire",
+    "fact_key": "chronik.versailles.empire",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wo wurde Wilhelm I. im Januar 1871 zum Deutschen Kaiser ausgerufen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Im Spiegelsaal von Versailles"
+      },
+      {
+        "id": "b",
+        "text": "In der Frankfurter Paulskirche"
+      },
+      {
+        "id": "c",
+        "text": "Im Aachener Dom"
+      },
+      {
+        "id": "d",
+        "text": "Auf der Wartburg"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Kaiserproklamation fand im Spiegelsaal des französischen Schlosses von Versailles statt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1871",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1871.html",
+        "verified_claim": "Die Kaiserproklamation fand im Spiegelsaal des französischen Schlosses von Versailles statt.",
+        "checked_at": "2026-11-20T01:32:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-bismarck-insurance",
+    "fact_key": "chronik.bismarck.insurance",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welche Sozialversicherung beschloss der Reichstag 1883 zuerst in Bismarcks Sozialgesetzgebung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Krankenversicherung"
+      },
+      {
+        "id": "b",
+        "text": "Die Arbeitslosenversicherung"
+      },
+      {
+        "id": "c",
+        "text": "Die Pflegeversicherung"
+      },
+      {
+        "id": "d",
+        "text": "Die Rentenversicherung"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der erste Teil der Sozialgesetzgebung führte die Krankenversicherung für Arbeiter ein.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1883",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1883.html",
+        "verified_claim": "Der erste Teil der Sozialgesetzgebung führte die Krankenversicherung für Arbeiter ein.",
+        "checked_at": "2026-11-20T01:32:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-kaiser-1888",
+    "fact_key": "chronik.kaiser.1888",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher deutsche Kaiser regierte im Dreikaiserjahr 1888 nur 99 Tage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Friedrich III."
+      },
+      {
+        "id": "b",
+        "text": "Wilhelm I."
+      },
+      {
+        "id": "c",
+        "text": "Wilhelm II."
+      },
+      {
+        "id": "d",
+        "text": "Friedrich Wilhelm IV."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nach dem kurzen Regierungsjahr Friedrichs III. folgte sein Sohn Wilhelm II.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1888",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1888.html",
+        "verified_claim": "Nach dem kurzen Regierungsjahr Friedrichs III. folgte sein Sohn Wilhelm II.",
+        "checked_at": "2026-11-20T01:32:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-motorbus-route",
+    "fact_key": "chronik.motorbus.route",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Auf welcher Strecke verkehrte 1895 ein früher benzinbetriebener Linienomnibus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Siegen–Netphen–Deuz"
+      },
+      {
+        "id": "b",
+        "text": "Nürnberg–Fürth"
+      },
+      {
+        "id": "c",
+        "text": "Berlin–Potsdam"
+      },
+      {
+        "id": "d",
+        "text": "Leipzig–Dresden"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die im Deutschen Historischen Museum dokumentierte Strecke im Siegerland war rund 15 Kilometer lang.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1895",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1895.html",
+        "verified_claim": "Die im Deutschen Historischen Museum dokumentierte Strecke im Siegerland war rund 15 Kilometer lang.",
+        "checked_at": "2026-11-20T01:32:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-wright-location",
+    "fact_key": "chronik.wright.location",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "In welchem US-Bundesstaat gelangen den Brüdern Wright 1903 ihre ersten kurzen Motorflüge?",
+    "options": [
+      {
+        "id": "a",
+        "text": "North Carolina"
+      },
+      {
+        "id": "b",
+        "text": "Kalifornien"
+      },
+      {
+        "id": "c",
+        "text": "Texas"
+      },
+      {
+        "id": "d",
+        "text": "Florida"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Versuche fanden bei Kitty Hawk statt. Beteiligt waren Orville und Wilbur Wright.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1903",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1903.html",
+        "verified_claim": "Die Versuche fanden bei Kitty Hawk statt. Beteiligt waren Orville und Wilbur Wright.",
+        "checked_at": "2026-11-20T01:32:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-titanic-collision",
+    "fact_key": "chronik.titanic.collision",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Womit stieß die „Titanic“ auf ihrer Jungfernfahrt zusammen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit einem Eisberg"
+      },
+      {
+        "id": "b",
+        "text": "Mit einem Frachtschiff"
+      },
+      {
+        "id": "c",
+        "text": "Mit einem Korallenriff"
+      },
+      {
+        "id": "d",
+        "text": "Mit einem Leuchtturm"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Passagierschiff war 1912 auf dem Weg nach New York, als es im Nordatlantik sank.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1912",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1912.html",
+        "verified_claim": "Das Passagierschiff war 1912 auf dem Weg nach New York, als es im Nordatlantik sank.",
+        "checked_at": "2026-11-20T01:32:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-stockholm-olympics",
+    "fact_key": "chronik.stockholm.olympics",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Welche Hauptstadt richtete 1912 die Olympischen Sommerspiele aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stockholm"
+      },
+      {
+        "id": "b",
+        "text": "Paris"
+      },
+      {
+        "id": "c",
+        "text": "Amsterdam"
+      },
+      {
+        "id": "d",
+        "text": "Helsinki"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die fünften Olympischen Spiele der Neuzeit wurden in Stockholm eröffnet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1912",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1912.html",
+        "verified_claim": "Die fünften Olympischen Spiele der Neuzeit wurden in Stockholm eröffnet.",
+        "checked_at": "2026-11-20T01:32:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-sarajevo-1914",
+    "fact_key": "chronik.sarajevo.1914",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In welcher Stadt wurde Erzherzog Franz Ferdinand im Juni 1914 ermordet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sarajevo"
+      },
+      {
+        "id": "b",
+        "text": "Wien"
+      },
+      {
+        "id": "c",
+        "text": "Prag"
+      },
+      {
+        "id": "d",
+        "text": "Budapest"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Attentat löste die Julikrise aus. Im Sommer 1914 begann der Erste Weltkrieg.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1914",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1914.html",
+        "verified_claim": "Das Attentat löste die Julikrise aus. Im Sommer 1914 begann der Erste Weltkrieg.",
+        "checked_at": "2026-11-20T01:32:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-nicholas-abdication",
+    "fact_key": "chronik.nicholas.abdication",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher russische Zar dankte 1917 ab?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nikolaus II."
+      },
+      {
+        "id": "b",
+        "text": "Alexander I."
+      },
+      {
+        "id": "c",
+        "text": "Peter I."
+      },
+      {
+        "id": "d",
+        "text": "Iwan IV."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Abdankung Nikolaus’ II. fiel in die russische Revolution von 1917.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1917",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1917.html",
+        "verified_claim": "Die Abdankung Nikolaus’ II. fiel in die russische Revolution von 1917.",
+        "checked_at": "2026-11-20T01:32:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-republic-scheidemann",
+    "fact_key": "chronik.republic.scheidemann",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher Sozialdemokrat rief am 9. November 1918 am Berliner Reichstag die Republik aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Philipp Scheidemann"
+      },
+      {
+        "id": "b",
+        "text": "Konrad Adenauer"
+      },
+      {
+        "id": "c",
+        "text": "Gustav Stresemann"
+      },
+      {
+        "id": "d",
+        "text": "Theodor Heuss"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Scheidemanns Ausrufung der Republik fiel mit dem Ende der Monarchie in Deutschland zusammen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1918",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1918.html",
+        "verified_claim": "Scheidemanns Ausrufung der Republik fiel mit dem Ende der Monarchie in Deutschland zusammen.",
+        "checked_at": "2026-11-20T01:32:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-weimar-place",
+    "fact_key": "chronik.weimar.place",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In welcher Stadt tagte ab Februar 1919 die verfassunggebende deutsche Nationalversammlung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Weimar"
+      },
+      {
+        "id": "b",
+        "text": "Bonn"
+      },
+      {
+        "id": "c",
+        "text": "Potsdam"
+      },
+      {
+        "id": "d",
+        "text": "Erfurt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Tagungsort gab der Weimarer Republik ihren Namen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1919",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1919.html",
+        "verified_claim": "Der Tagungsort gab der Weimarer Republik ihren Namen.",
+        "checked_at": "2026-11-20T01:32:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-inflation-rentenmark",
+    "fact_key": "chronik.inflation.rentenmark",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welche Währung half 1923, die deutsche Hyperinflation zu beenden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Rentenmark"
+      },
+      {
+        "id": "b",
+        "text": "Die D-Mark"
+      },
+      {
+        "id": "c",
+        "text": "Der Euro"
+      },
+      {
+        "id": "d",
+        "text": "Der Vereinstaler"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Rentenmark wurde im November 1923 während der Währungsstabilisierung eingeführt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1923",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1923.html",
+        "verified_claim": "Die Rentenmark wurde im November 1923 während der Währungsstabilisierung eingeführt.",
+        "checked_at": "2026-11-20T01:32:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-lindbergh-atlantic",
+    "fact_key": "chronik.lindbergh.atlantic",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher Pilot überquerte 1927 mit der „Spirit of St. Louis“ allein und ohne Zwischenlandung den Nordatlantik?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Charles Lindbergh"
+      },
+      {
+        "id": "b",
+        "text": "Louis Blériot"
+      },
+      {
+        "id": "c",
+        "text": "Otto Lilienthal"
+      },
+      {
+        "id": "d",
+        "text": "Hugo Junkers"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Lindbergh flog die einmotorige Maschine in rund 33,5 Stunden von Westen nach Osten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1927",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1927.html",
+        "verified_claim": "Lindbergh flog die einmotorige Maschine in rund 33,5 Stunden von Westen nach Osten.",
+        "checked_at": "2026-11-20T01:32:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-aturk-secular",
+    "fact_key": "chronik.aturk.secular",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welche Trennung beschloss die türkische Nationalversammlung 1928 unter Atatürk?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die von Staat und Religion"
+      },
+      {
+        "id": "b",
+        "text": "Die von Europa und Asien"
+      },
+      {
+        "id": "c",
+        "text": "Die von Stadt und Land"
+      },
+      {
+        "id": "d",
+        "text": "Die von Regierung und Militärdienst"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eine Verfassungsänderung verankerte die Trennung von Staat und Religion.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1928",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1928.html",
+        "verified_claim": "Eine Verfassungsänderung verankerte die Trennung von Staat und Religion.",
+        "checked_at": "2026-11-20T01:32:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-newyork-crash",
+    "fact_key": "chronik.newyork.crash",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "An welcher Börse steht der Kurssturz vom Oktober 1929 symbolisch für den Beginn der Weltwirtschaftskrise?",
+    "options": [
+      {
+        "id": "a",
+        "text": "New York"
+      },
+      {
+        "id": "b",
+        "text": "Zürich"
+      },
+      {
+        "id": "c",
+        "text": "Madrid"
+      },
+      {
+        "id": "d",
+        "text": "Stockholm"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Kurseinbrüche in New York im Oktober 1929 markieren einen Wendepunkt der damaligen Wirtschaftsgeschichte.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1929",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1929.html",
+        "verified_claim": "Die Kurseinbrüche in New York im Oktober 1929 markieren einen Wendepunkt der damaligen Wirtschaftsgeschichte.",
+        "checked_at": "2026-11-20T01:32:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-wintergames-1936",
+    "fact_key": "chronik.wintergames.1936",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Wo fanden 1936 die Olympischen Winterspiele statt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Garmisch-Partenkirchen"
+      },
+      {
+        "id": "b",
+        "text": "Innsbruck"
+      },
+      {
+        "id": "c",
+        "text": "St. Moritz"
+      },
+      {
+        "id": "d",
+        "text": "Chamonix"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Garmisch-Partenkirchen war der Austragungsort der vierten Olympischen Winterspiele.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1936",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1936.html",
+        "verified_claim": "Garmisch-Partenkirchen war der Austragungsort der vierten Olympischen Winterspiele.",
+        "checked_at": "2026-11-20T01:32:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-potsdam-conference",
+    "fact_key": "chronik.potsdam.conference",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Wer löste Winston Churchill während der Potsdamer Konferenz 1945 als britischer Premierminister ab?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Clement Attlee"
+      },
+      {
+        "id": "b",
+        "text": "Neville Chamberlain"
+      },
+      {
+        "id": "c",
+        "text": "Anthony Eden"
+      },
+      {
+        "id": "d",
+        "text": "Harold Wilson"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die britische Labour Party hatte die Wahl gewonnen. Attlee nahm anschließend an den Verhandlungen teil.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1945",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1945.html",
+        "verified_claim": "Die britische Labour Party hatte die Wahl gewonnen. Attlee nahm anschließend an den Verhandlungen teil.",
+        "checked_at": "2026-11-20T01:32:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-berlin-airlift-bell",
+    "fact_key": "chronik.berlin.airlift.bell",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "In welchem Berliner Rathaus wurde 1950 die Freiheitsglocke eingeweiht?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Im Rathaus Schöneberg"
+      },
+      {
+        "id": "b",
+        "text": "Im Roten Rathaus"
+      },
+      {
+        "id": "c",
+        "text": "Im Rathaus Spandau"
+      },
+      {
+        "id": "d",
+        "text": "Im Rathaus Neukölln"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Einweihung erinnerte an die Luftbrücke von 1948/49.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1950",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1950.html",
+        "verified_claim": "Die Einweihung erinnerte an die Luftbrücke von 1948/49.",
+        "checked_at": "2026-11-20T01:11:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-schuman-plan",
+    "fact_key": "chronik.schuman.plan",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welcher französische Außenminister schlug 1950 die westeuropäische Montanunion vor?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Robert Schuman"
+      },
+      {
+        "id": "b",
+        "text": "Charles de Gaulle"
+      },
+      {
+        "id": "c",
+        "text": "François Mitterrand"
+      },
+      {
+        "id": "d",
+        "text": "Georges Pompidou"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Schumans Vorschlag wurde zu einem wichtigen Schritt der europäischen Zusammenarbeit nach dem Krieg.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1950",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1950.html",
+        "verified_claim": "Schumans Vorschlag wurde zu einem wichtigen Schritt der europäischen Zusammenarbeit nach dem Krieg.",
+        "checked_at": "2026-11-20T01:11:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-gdr-june1953",
+    "fact_key": "chronik.gdr.june1953",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "An welchem Datum kam es 1953 in der DDR zum Volksaufstand?",
+    "options": [
+      {
+        "id": "a",
+        "text": "17. Juni"
+      },
+      {
+        "id": "b",
+        "text": "3. Oktober"
+      },
+      {
+        "id": "c",
+        "text": "9. November"
+      },
+      {
+        "id": "d",
+        "text": "1. Mai"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Volksaufstand vom 17. Juni erfasste Ost-Berlin und viele weitere Orte der DDR.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1953",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1953.html",
+        "verified_claim": "Der Volksaufstand vom 17. Juni erfasste Ost-Berlin und viele weitere Orte der DDR.",
+        "checked_at": "2026-11-20T01:11:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-everest-first",
+    "fact_key": "chronik.everest.first",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wer stand 1953 zusammen mit Edmund Hillary auf dem Gipfel des Mount Everest?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tenzing Norgay"
+      },
+      {
+        "id": "b",
+        "text": "Reinhold Messner"
+      },
+      {
+        "id": "c",
+        "text": "Luis Trenker"
+      },
+      {
+        "id": "d",
+        "text": "Heinrich Harrer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Hillary und Tenzing Norgay gelang gemeinsam die erste bestätigte Besteigung des Everest.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1953",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1953.html",
+        "verified_claim": "Hillary und Tenzing Norgay gelang gemeinsam die erste bestätigte Besteigung des Everest.",
+        "checked_at": "2026-11-20T01:11:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-stalin-death",
+    "fact_key": "chronik.stalin.death",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher sowjetische Staats- und Parteichef starb im März 1953 in Moskau?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Josef Stalin"
+      },
+      {
+        "id": "b",
+        "text": "Nikita Chruschtschow"
+      },
+      {
+        "id": "c",
+        "text": "Leonid Breschnew"
+      },
+      {
+        "id": "d",
+        "text": "Michail Gorbatschow"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Stalin starb 1953 nach einem Schlaganfall.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1953",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1953.html",
+        "verified_claim": "Stalin starb 1953 nach einem Schlaganfall.",
+        "checked_at": "2026-11-20T01:11:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-heuss-office",
+    "fact_key": "chronik.heuss.office",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In welches Amt wurde Theodor Heuss 1954 erneut gewählt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bundespräsident"
+      },
+      {
+        "id": "b",
+        "text": "Bundeskanzler"
+      },
+      {
+        "id": "c",
+        "text": "Bundestagspräsident"
+      },
+      {
+        "id": "d",
+        "text": "Berliner Bürgermeister"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Bundesversammlung bestätigte Heuss in West-Berlin für eine zweite Amtszeit.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1954",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1954.html",
+        "verified_claim": "Die Bundesversammlung bestätigte Heuss in West-Berlin für eine zweite Amtszeit.",
+        "checked_at": "2026-11-20T01:11:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-warsawpact-rival",
+    "fact_key": "chronik.warsawpact.rival",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Zu welchem westlichen Bündnis bildete der Warschauer Pakt ein Gegengewicht?",
+    "options": [
+      {
+        "id": "a",
+        "text": "NATO"
+      },
+      {
+        "id": "b",
+        "text": "EFTA"
+      },
+      {
+        "id": "c",
+        "text": "EWG"
+      },
+      {
+        "id": "d",
+        "text": "Benelux"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mehrere osteuropäische Staaten und die Sowjetunion schlossen 1955 den Warschauer Pakt.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1955",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1955.html",
+        "verified_claim": "Mehrere osteuropäische Staaten und die Sowjetunion schlossen 1955 den Warschauer Pakt.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-hungary-1956",
+    "fact_key": "chronik.hungary.1956",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In welcher Hauptstadt schlugen sowjetische Truppen 1956 einen Volksaufstand nieder?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Budapest"
+      },
+      {
+        "id": "b",
+        "text": "Prag"
+      },
+      {
+        "id": "c",
+        "text": "Bukarest"
+      },
+      {
+        "id": "d",
+        "text": "Warschau"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der ungarische Aufstand richtete sich gegen das stalinistische Regime und forderte Reformen.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1956",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1956.html",
+        "verified_claim": "Der ungarische Aufstand richtete sich gegen das stalinistische Regime und forderte Reformen.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-suez-1956",
+    "fact_key": "chronik.suez.1956",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Die Verstaatlichung welcher Wasserstraße stand 1956 im Zentrum einer internationalen Krise?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Suezkanal"
+      },
+      {
+        "id": "b",
+        "text": "Panamakanal"
+      },
+      {
+        "id": "c",
+        "text": "Nord-Ostsee-Kanal"
+      },
+      {
+        "id": "d",
+        "text": "Kanal von Korinth"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ägyptens Verstaatlichung des Suezkanals löste die Suezkrise aus.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1956",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1956.html",
+        "verified_claim": "Ägyptens Verstaatlichung des Suezkanals löste die Suezkrise aus.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-rome-treaties",
+    "fact_key": "chronik.rome.treaties",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Mit welchen Verträgen wurde 1957 die Europäische Wirtschaftsgemeinschaft gegründet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit den Römischen Verträgen"
+      },
+      {
+        "id": "b",
+        "text": "Mit dem Versailler Vertrag"
+      },
+      {
+        "id": "c",
+        "text": "Mit dem Vertrag von Maastricht"
+      },
+      {
+        "id": "d",
+        "text": "Mit den Verträgen von Locarno"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die sechs beteiligten Staaten vereinbarten in Rom auch die Gründung von Euratom.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1957",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1957.html",
+        "verified_claim": "Die sechs beteiligten Staaten vereinbarten in Rom auch die Gründung von Euratom.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-berlin-wall-year",
+    "fact_key": "chronik.berlin.wall.year",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In welchem Jahr begann der Bau der Berliner Mauer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1961"
+      },
+      {
+        "id": "b",
+        "text": "1949"
+      },
+      {
+        "id": "c",
+        "text": "1953"
+      },
+      {
+        "id": "d",
+        "text": "1971"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Im August 1961 riegelten DDR-Kräfte die Grenze zwischen Ost- und West-Berlin ab.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1961",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1961.html",
+        "verified_claim": "Im August 1961 riegelten DDR-Kräfte die Grenze zwischen Ost- und West-Berlin ab.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-eichmann-trial",
+    "fact_key": "chronik.eichmann.trial",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "In welcher Stadt begann 1961 der Prozess gegen Adolf Eichmann?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jerusalem"
+      },
+      {
+        "id": "b",
+        "text": "Nürnberg"
+      },
+      {
+        "id": "c",
+        "text": "Den Haag"
+      },
+      {
+        "id": "d",
+        "text": "Tel Aviv"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Prozess gegen den früheren SS-Funktionär fand vor einem israelischen Gericht in Jerusalem statt.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1961",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1961.html",
+        "verified_claim": "Der Prozess gegen den früheren SS-Funktionär fand vor einem israelischen Gericht in Jerusalem statt.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-kennedy-berlin",
+    "fact_key": "chronik.kennedy.berlin",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher US-Präsident hielt 1963 die bekannte Rede vor dem Rathaus Schöneberg in West-Berlin?",
+    "options": [
+      {
+        "id": "a",
+        "text": "John F. Kennedy"
+      },
+      {
+        "id": "b",
+        "text": "Richard Nixon"
+      },
+      {
+        "id": "c",
+        "text": "Jimmy Carter"
+      },
+      {
+        "id": "d",
+        "text": "Dwight D. Eisenhower"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kennedy besuchte die geteilte Stadt während seiner Deutschlandreise und bekräftigte die Unterstützung für West-Berlin.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1963",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1963.html",
+        "verified_claim": "Kennedy besuchte die geteilte Stadt während seiner Deutschlandreise und bekräftigte die Unterstützung für West-Berlin.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-berlin-passes",
+    "fact_key": "chronik.berlin.passes",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Was ermöglichte das erste Berliner Passierscheinabkommen von 1963?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Besuche von West-Berlinern in Ost-Berlin"
+      },
+      {
+        "id": "b",
+        "text": "Die freie Reise aller DDR-Bürger nach Westen"
+      },
+      {
+        "id": "c",
+        "text": "Die Abschaffung beider Stadtverwaltungen"
+      },
+      {
+        "id": "d",
+        "text": "Die Einführung einer gemeinsamen Währung"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Abkommen erlaubte Besuche über Weihnachten und Silvester, obwohl die Stadt weiterhin geteilt war.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1963",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1963.html",
+        "verified_claim": "Das Abkommen erlaubte Besuche über Weihnachten und Silvester, obwohl die Stadt weiterhin geteilt war.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-bonn-erhard",
+    "fact_key": "chronik.bonn.erhard",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wer folgte 1963 auf Konrad Adenauer als Bundeskanzler?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ludwig Erhard"
+      },
+      {
+        "id": "b",
+        "text": "Willy Brandt"
+      },
+      {
+        "id": "c",
+        "text": "Kurt Georg Kiesinger"
+      },
+      {
+        "id": "d",
+        "text": "Helmut Schmidt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Bundestag wählte Ludwig Erhard. Die Regierung stützte sich weiterhin auf CDU, CSU und FDP.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1963",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1963.html",
+        "verified_claim": "Der Bundestag wählte Ludwig Erhard. Die Regierung stützte sich weiterhin auf CDU, CSU und FDP.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-luxembourg-compromise",
+    "fact_key": "chronik.luxembourg.compromise",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Welches Land kehrte 1966 nach dem Luxemburger Kompromiss an den Ratstisch der EWG zurück?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Frankreich"
+      },
+      {
+        "id": "b",
+        "text": "Italien"
+      },
+      {
+        "id": "c",
+        "text": "Belgien"
+      },
+      {
+        "id": "d",
+        "text": "Luxemburg"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Frankreich hatte die Ratssitzungen zuvor mehrere Monate lang boykottiert.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1966",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1966.html",
+        "verified_claim": "Frankreich hatte die Ratssitzungen zuvor mehrere Monate lang boykottiert.",
+        "checked_at": "2026-11-20T01:11:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-warsaw-kniefall",
+    "fact_key": "chronik.warsaw.kniefall",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In welcher Stadt kniete Willy Brandt 1970 bei einer Gedenkveranstaltung nieder?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Warschau"
+      },
+      {
+        "id": "b",
+        "text": "Berlin"
+      },
+      {
+        "id": "c",
+        "text": "Dresden"
+      },
+      {
+        "id": "d",
+        "text": "Prag"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Sein Kniefall am Denkmal für den Warschauer Ghettoaufstand wurde zu einer Geste des Gedenkens und der Aussöhnung.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1970",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1970.html",
+        "verified_claim": "Sein Kniefall am Denkmal für den Warschauer Ghettoaufstand wurde zu einer Geste des Gedenkens und der Aussöhnung.",
+        "checked_at": "2026-11-20T01:11:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-china-nixon",
+    "fact_key": "chronik.china.nixon",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher US-Präsident reiste 1972 zu einem historischen Staatsbesuch in die Volksrepublik China?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Richard Nixon"
+      },
+      {
+        "id": "b",
+        "text": "John F. Kennedy"
+      },
+      {
+        "id": "c",
+        "text": "Ronald Reagan"
+      },
+      {
+        "id": "d",
+        "text": "Gerald Ford"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nixon sprach in China unter anderem mit Mao Zedong. Der Besuch sollte Spannungen abbauen.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1972",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1972.html",
+        "verified_claim": "Nixon sprach in China unter anderem mit Mao Zedong. Der Besuch sollte Spannungen abbauen.",
+        "checked_at": "2026-11-20T01:11:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-oil-carfree",
+    "fact_key": "chronik.oil.carfree",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Was gab in der Bundesrepublik 1973 den Anlass für autofreie Sonntage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Ölkrise"
+      },
+      {
+        "id": "b",
+        "text": "Die Währungsreform"
+      },
+      {
+        "id": "c",
+        "text": "Die Einführung des Euro"
+      },
+      {
+        "id": "d",
+        "text": "Der Bau der Berliner Mauer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Während der Ölkrise beschränkte die Bundesrepublik zeitweise den Kraftfahrzeugverkehr.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1973",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1973.html",
+        "verified_claim": "Während der Ölkrise beschränkte die Bundesrepublik zeitweise den Kraftfahrzeugverkehr.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-guillaume-agent",
+    "fact_key": "chronik.guillaume.agent",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Für welchen Staat arbeitete der Kanzleramtsmitarbeiter Günter Guillaume heimlich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "DDR"
+      },
+      {
+        "id": "b",
+        "text": "Frankreich"
+      },
+      {
+        "id": "c",
+        "text": "USA"
+      },
+      {
+        "id": "d",
+        "text": "Großbritannien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "1974 wurde Guillaume wegen des Verdachts auf Spionage für die DDR festgenommen.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1974",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1974.html",
+        "verified_claim": "1974 wurde Guillaume wegen des Verdachts auf Spionage für die DDR festgenommen.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-watergate-president",
+    "fact_key": "chronik.watergate.president",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher US-Präsident trat 1974 im Zusammenhang mit der Watergate-Affäre zurück?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Richard Nixon"
+      },
+      {
+        "id": "b",
+        "text": "Jimmy Carter"
+      },
+      {
+        "id": "c",
+        "text": "Lyndon B. Johnson"
+      },
+      {
+        "id": "d",
+        "text": "Gerald Ford"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nixon legte sein Amt während der Watergate-Affäre nieder.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1974",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1974.html",
+        "verified_claim": "Nixon legte sein Amt während der Watergate-Affäre nieder.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-ksze-final",
+    "fact_key": "chronik.ksze.final",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "In welcher Stadt wurde 1975 die Schlussakte der KSZE unterzeichnet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Helsinki"
+      },
+      {
+        "id": "b",
+        "text": "Stockholm"
+      },
+      {
+        "id": "c",
+        "text": "Oslo"
+      },
+      {
+        "id": "d",
+        "text": "Kopenhagen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Konferenz über Sicherheit und Zusammenarbeit in Europa schloss ihre Verhandlungen in Helsinki ab.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1975",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1975.html",
+        "verified_claim": "Die Konferenz über Sicherheit und Zusammenarbeit in Europa schloss ihre Verhandlungen in Helsinki ab.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-sigmund-jaehn",
+    "fact_key": "chronik.sigmund.jaehn",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher deutsche Kosmonaut flog 1978 ins All?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sigmund Jähn"
+      },
+      {
+        "id": "b",
+        "text": "Ulf Merbold"
+      },
+      {
+        "id": "c",
+        "text": "Thomas Reiter"
+      },
+      {
+        "id": "d",
+        "text": "Alexander Gerst"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Jähn startete als Bürger der DDR zu einem sowjetischen Raumflug.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1978",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1978.html",
+        "verified_claim": "Jähn startete als Bürger der DDR zu einem sowjetischen Raumflug.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-iran-shah",
+    "fact_key": "chronik.iran.shah",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "In welchem Land endete 1979 die Herrschaft des Schahs Mohammad Reza Pahlavi?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Iran"
+      },
+      {
+        "id": "b",
+        "text": "Irak"
+      },
+      {
+        "id": "c",
+        "text": "Ägypten"
+      },
+      {
+        "id": "d",
+        "text": "Jordanien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Schah verließ das Land im Januar 1979. Wenig später setzte sich die Revolution durch.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1979",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1979.html",
+        "verified_claim": "Der Schah verließ das Land im Januar 1979. Wenig später setzte sich die Revolution durch.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-solidarity-union",
+    "fact_key": "chronik.solidarity.union",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wie hieß die polnische Gewerkschaft, die 1980 nach dem Danziger Abkommen gegründet wurde?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Solidarność"
+      },
+      {
+        "id": "b",
+        "text": "Ver.di"
+      },
+      {
+        "id": "c",
+        "text": "Charta 77"
+      },
+      {
+        "id": "d",
+        "text": "Neues Forum"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die unabhängige Gewerkschaft Solidarność wurde zu einem Zentrum der polnischen Opposition.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1980",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1980.html",
+        "verified_claim": "Die unabhängige Gewerkschaft Solidarność wurde zu einem Zentrum der polnischen Opposition.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-shuttle-columbia",
+    "fact_key": "chronik.shuttle.columbia",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welche US-Raumfähre unternahm 1981 den ersten Weltraumflug im Space-Shuttle-Programm?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Columbia"
+      },
+      {
+        "id": "b",
+        "text": "Atlantis"
+      },
+      {
+        "id": "c",
+        "text": "Discovery"
+      },
+      {
+        "id": "d",
+        "text": "Endeavour"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die wiederverwendbare Raumfähre Columbia eröffnete den bemannten Flugbetrieb des Shuttle-Programms.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1981",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1981.html",
+        "verified_claim": "Die wiederverwendbare Raumfähre Columbia eröffnete den bemannten Flugbetrieb des Shuttle-Programms.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-walesa-office",
+    "fact_key": "chronik.walesa.office",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wer war der 1982 aus der Internierung entlassene Vorsitzende der polnischen Solidarność?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lech Wałęsa"
+      },
+      {
+        "id": "b",
+        "text": "Václav Havel"
+      },
+      {
+        "id": "c",
+        "text": "Alexander Dubček"
+      },
+      {
+        "id": "d",
+        "text": "Tadeusz Mazowiecki"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wałęsa war elf Monate lang interniert. Seine Gewerkschaft war zu diesem Zeitpunkt verboten.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1982",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1982.html",
+        "verified_claim": "Wałęsa war elf Monate lang interniert. Seine Gewerkschaft war zu diesem Zeitpunkt verboten.",
+        "checked_at": "2026-11-20T01:11:34+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-liechtenstein-vote",
+    "fact_key": "chronik.liechtenstein.vote",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "In welchem europäischen Fürstentum wurde das Frauenwahlrecht auf Landesebene 1984 eingeführt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Liechtenstein"
+      },
+      {
+        "id": "b",
+        "text": "Monaco"
+      },
+      {
+        "id": "c",
+        "text": "Andorra"
+      },
+      {
+        "id": "d",
+        "text": "Luxemburg"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In Liechtenstein votierte 1984 eine knappe Mehrheit der damals stimmberechtigten Männer dafür.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1984",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1984.html",
+        "verified_claim": "In Liechtenstein votierte 1984 eine knappe Mehrheit der damals stimmberechtigten Männer dafür.",
+        "checked_at": "2026-11-20T01:11:34+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-schengen-border",
+    "fact_key": "chronik.schengen.border",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Was sollte das 1985 vereinbarte Schengener Abkommen schrittweise abbauen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Personenkontrollen an den Binnengrenzen"
+      },
+      {
+        "id": "b",
+        "text": "Alle europäischen Landesparlamente"
+      },
+      {
+        "id": "c",
+        "text": "Die nationalen Eisenbahnnetze"
+      },
+      {
+        "id": "d",
+        "text": "Das Wahlrecht bei Kommunalwahlen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Fünf Staaten vereinbarten den Abbau der Kontrollen an ihren gemeinsamen Grenzen.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1985",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1985.html",
+        "verified_claim": "Fünf Staaten vereinbarten den Abbau der Kontrollen an ihren gemeinsamen Grenzen.",
+        "checked_at": "2026-11-20T01:11:34+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-chernobyl-year",
+    "fact_key": "chronik.chernobyl.year",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In welchem Jahr ereignete sich die Reaktorkatastrophe von Tschernobyl?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1986"
+      },
+      {
+        "id": "b",
+        "text": "1979"
+      },
+      {
+        "id": "c",
+        "text": "1991"
+      },
+      {
+        "id": "d",
+        "text": "2001"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Im April 1986 kam es im Kernkraftwerk nördlich von Kiew zu einer Kernschmelze.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1986",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1986.html",
+        "verified_claim": "Im April 1986 kam es im Kernkraftwerk nördlich von Kiew zu einer Kernschmelze.",
+        "checked_at": "2026-11-20T01:11:35+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-bhutto-country",
+    "fact_key": "chronik.bhutto.country",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "In welchem Land wurde Benazir Bhutto 1988 Regierungschefin?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pakistan"
+      },
+      {
+        "id": "b",
+        "text": "Indien"
+      },
+      {
+        "id": "c",
+        "text": "Bangladesch"
+      },
+      {
+        "id": "d",
+        "text": "Nepal"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bhuttos Partei gewann die Parlamentswahlen. Im Dezember wurde sie zur Ministerpräsidentin ernannt.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1988",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1988.html",
+        "verified_claim": "Bhuttos Partei gewann die Parlamentswahlen. Im Dezember wurde sie zur Ministerpräsidentin ernannt.",
+        "checked_at": "2026-11-20T01:11:35+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-schabowski-press",
+    "fact_key": "chronik.schabowski.press",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wer verlas am 9. November 1989 vor laufenden Kameras die neue DDR-Reiseregelung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Günter Schabowski"
+      },
+      {
+        "id": "b",
+        "text": "Hans Modrow"
+      },
+      {
+        "id": "c",
+        "text": "Walter Ulbricht"
+      },
+      {
+        "id": "d",
+        "text": "Lothar de Maizière"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Schabowskis Auskunft auf der Pressekonferenz ging der Öffnung der Grenzübergänge am selben Abend voraus.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1989",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1989.html",
+        "verified_claim": "Schabowskis Auskunft auf der Pressekonferenz ging der Öffnung der Grenzübergänge am selben Abend voraus.",
+        "checked_at": "2026-11-20T01:11:35+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-havel-president",
+    "fact_key": "chronik.havel.president",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welcher Schriftsteller wurde Ende 1989 Präsident der Tschechoslowakei?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Václav Havel"
+      },
+      {
+        "id": "b",
+        "text": "Milan Kundera"
+      },
+      {
+        "id": "c",
+        "text": "Bohumil Hrabal"
+      },
+      {
+        "id": "d",
+        "text": "Jaroslav Seifert"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Havel wurde im Dezember nach dem politischen Umbruch zum Staatspräsidenten gewählt.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1989",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1989.html",
+        "verified_claim": "Havel wurde im Dezember nach dem politischen Umbruch zum Staatspräsidenten gewählt.",
+        "checked_at": "2026-11-20T01:11:35+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-mandela-detention",
+    "fact_key": "chronik.mandela.detention",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Ungefähr wie lange war Nelson Mandela vor seiner Freilassung 1990 inhaftiert?",
+    "options": [
+      {
+        "id": "a",
+        "text": "27 Jahre"
+      },
+      {
+        "id": "b",
+        "text": "3 Jahre"
+      },
+      {
+        "id": "c",
+        "text": "9 Jahre"
+      },
+      {
+        "id": "d",
+        "text": "14 Jahre"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mandela wurde im Februar 1990 nach mehr als 27 Jahren Haft freigelassen.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1990",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1990.html",
+        "verified_claim": "Mandela wurde im Februar 1990 nach mehr als 27 Jahren Haft freigelassen.",
+        "checked_at": "2026-11-20T01:11:36+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-two-plus-four",
+    "fact_key": "chronik.two_plus_four",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welche zwei Staaten waren mit der „Zwei“ in den Zwei-plus-Vier-Verhandlungen gemeint?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Bundesrepublik Deutschland und die DDR"
+      },
+      {
+        "id": "b",
+        "text": "Frankreich und Großbritannien"
+      },
+      {
+        "id": "c",
+        "text": "Die USA und die Sowjetunion"
+      },
+      {
+        "id": "d",
+        "text": "Polen und die Tschechoslowakei"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die beiden deutschen Staaten verhandelten mit den vier Siegermächten über die äußeren Fragen der deutschen Einheit.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1990",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1990.html",
+        "verified_claim": "Die beiden deutschen Staaten verhandelten mit den vier Siegermächten über die äußeren Fragen der deutschen Einheit.",
+        "checked_at": "2026-11-20T01:11:36+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-regierungssitz1991",
+    "fact_key": "chronik.regierungssitz1991",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Für welche Stadt entschied sich der Bundestag 1991 als künftigen Regierungssitz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Berlin"
+      },
+      {
+        "id": "b",
+        "text": "Bonn"
+      },
+      {
+        "id": "c",
+        "text": "Frankfurt am Main"
+      },
+      {
+        "id": "d",
+        "text": "Leipzig"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Beschluss fiel mit 338 zu 320 Stimmen für Berlin.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1991",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1991.html",
+        "verified_claim": "Der Beschluss fiel mit 338 zu 320 Stimmen für Berlin.",
+        "checked_at": "2026-11-20T01:11:36+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-baltic-states",
+    "fact_key": "chronik.baltic.states",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche drei baltischen Staaten erhielten 1991 die Anerkennung ihrer Unabhängigkeit durch die Sowjetunion?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Estland, Lettland und Litauen"
+      },
+      {
+        "id": "b",
+        "text": "Polen, Tschechien und Ungarn"
+      },
+      {
+        "id": "c",
+        "text": "Finnland, Schweden und Norwegen"
+      },
+      {
+        "id": "d",
+        "text": "Georgien, Armenien und Aserbaidschan"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Estland, Lettland und Litauen hatten als Sowjetrepubliken zur UdSSR gehört.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1991",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1991.html",
+        "verified_claim": "Estland, Lettland und Litauen hatten als Sowjetrepubliken zur UdSSR gehört.",
+        "checked_at": "2026-11-20T01:11:36+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-gauck-archive",
+    "fact_key": "chronik.gauck.archive",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Wer wurde nach der deutschen Einheit als Sonderbeauftragter für die Stasi-Unterlagen bekannt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Joachim Gauck"
+      },
+      {
+        "id": "b",
+        "text": "Richard von Weizsäcker"
+      },
+      {
+        "id": "c",
+        "text": "Roman Herzog"
+      },
+      {
+        "id": "d",
+        "text": "Johannes Rau"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Stasi-Unterlagengesetz eröffnete Betroffenen den Zugang zu den über sie geführten Akten.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1992",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1992.html",
+        "verified_claim": "Das Stasi-Unterlagengesetz eröffnete Betroffenen den Zugang zu den über sie geführten Akten.",
+        "checked_at": "2026-11-20T01:11:36+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-maastricht-union",
+    "fact_key": "chronik.maastricht.union",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher 1992 unterzeichnete Vertrag legte die Grundlage für die Europäische Union?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vertrag von Maastricht"
+      },
+      {
+        "id": "b",
+        "text": "Vertrag von Versailles"
+      },
+      {
+        "id": "c",
+        "text": "Warschauer Vertrag"
+      },
+      {
+        "id": "d",
+        "text": "Aachener Vertrag"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit Maastricht vereinbarten die Mitgliedstaaten unter anderem den Weg zu einer gemeinsamen Währung.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1992",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1992.html",
+        "verified_claim": "Mit Maastricht vereinbarten die Mitgliedstaaten unter anderem den Weg zu einer gemeinsamen Währung.",
+        "checked_at": "2026-11-20T01:11:36+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-simonis-schleswig",
+    "fact_key": "chronik.simonis.schleswig",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "In welchem Bundesland wurde Heide Simonis 1993 Ministerpräsidentin?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schleswig-Holstein"
+      },
+      {
+        "id": "b",
+        "text": "Niedersachsen"
+      },
+      {
+        "id": "c",
+        "text": "Hamburg"
+      },
+      {
+        "id": "d",
+        "text": "Bremen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Sie folgte Björn Engholm und war die erste Frau an der Spitze eines deutschen Bundeslandes.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1993",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1993.html",
+        "verified_claim": "Sie folgte Björn Engholm und war die erste Frau an der Spitze eines deutschen Bundeslandes.",
+        "checked_at": "2026-11-20T01:11:36+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-channel-tunnel",
+    "fact_key": "chronik.channel.tunnel",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Länder verbindet der 1994 eröffnete Eurotunnel unter dem Ärmelkanal?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Frankreich und Großbritannien"
+      },
+      {
+        "id": "b",
+        "text": "Spanien und Portugal"
+      },
+      {
+        "id": "c",
+        "text": "Dänemark und Schweden"
+      },
+      {
+        "id": "d",
+        "text": "Norwegen und Deutschland"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Eisenbahntunnel wurde auf der französischen Seite in Calais eröffnet und führt nach England.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1994",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1994.html",
+        "verified_claim": "Der Eisenbahntunnel wurde auf der französischen Seite in Calais eröffnet und führt nach England.",
+        "checked_at": "2026-11-20T01:11:36+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-hongkong-transfer",
+    "fact_key": "chronik.hongkong.transfer",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "An welchen Staat übergab Großbritannien 1997 die Hoheit über Hongkong?",
+    "options": [
+      {
+        "id": "a",
+        "text": "China"
+      },
+      {
+        "id": "b",
+        "text": "Japan"
+      },
+      {
+        "id": "c",
+        "text": "Singapur"
+      },
+      {
+        "id": "d",
+        "text": "Malaysia"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Hongkong wurde nach der Übergabe eine chinesische Sonderverwaltungszone.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1997",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1997.html",
+        "verified_claim": "Hongkong wurde nach der Übergabe eine chinesische Sonderverwaltungszone.",
+        "checked_at": "2026-11-20T01:11:37+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-swiss-president",
+    "fact_key": "chronik.swiss.president",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Wer wurde 1998 als erste Frau zur Schweizer Bundespräsidentin für das folgende Jahr gewählt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ruth Dreifuss"
+      },
+      {
+        "id": "b",
+        "text": "Doris Leuthard"
+      },
+      {
+        "id": "c",
+        "text": "Micheline Calmy-Rey"
+      },
+      {
+        "id": "d",
+        "text": "Eveline Widmer-Schlumpf"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ruth Dreifuss wurde im Dezember 1998 gewählt und übernahm das Amt für 1999.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1998",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1998.html",
+        "verified_claim": "Ruth Dreifuss wurde im Dezember 1998 gewählt und übernahm das Amt für 1999.",
+        "checked_at": "2026-11-20T01:11:37+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-chronik-postal1993",
+    "fact_key": "chronik.postal1993",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wie viele Ziffern hatten die 1993 neu eingeführten deutschen Postleitzahlen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fünf"
+      },
+      {
+        "id": "b",
+        "text": "Drei"
+      },
+      {
+        "id": "c",
+        "text": "Vier"
+      },
+      {
+        "id": "d",
+        "text": "Sechs"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nach der Wiedervereinigung löste das fünfstellige System die zuvor verwendeten vierstelligen Postleitzahlen ab.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1993",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1993.html",
+        "verified_claim": "Nach der Wiedervereinigung löste das fünfstellige System die zuvor verwendeten vierstelligen Postleitzahlen ab.",
+        "checked_at": "2026-11-20T01:11:36+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

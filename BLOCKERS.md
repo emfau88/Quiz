@@ -1,5 +1,7 @@
 # Externe Abhängigkeiten
 
+Der Auftraggeber hat bestätigt, dass diese externen Voraussetzungen noch fehlen. Vorrang hat der vollständige lokale Test. Erst danach entscheidet er über eine Veröffentlichung. Es wurden keine Play-Console-Aktionen beauftragt oder ausgeführt.
+
 | Bereich | Benötigter Beitrag | Bis dahin möglich |
 | --- | --- | --- |
 | Play-Identität und Einmalkauf | Endgültige Paket-ID, zugehöriger öffentlicher Play-Lizenzschlüssel, Zugang zur App im internen Track, eingerichtetes Produkt quizsalon_plus und Lizenztestkonto | Vorschau-APK, echte Bibliothek, Signaturprüfung und technische Tests |

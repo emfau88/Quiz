@@ -1,0 +1,76 @@
+{
+  "version": "de-157799cc6237",
+  "sha256": "157799cc6237f745d2af6e16b5940656fbbc6745f3ba5c1453db0a34c19b4b15",
+  "active": 24,
+  "facts": 24,
+  "starter": 24,
+  "reference": 24,
+  "categories": {
+    "nature_animals": [
+      2,
+      2,
+      0
+    ],
+    "geography_travel": [
+      2,
+      1,
+      1
+    ],
+    "everyday_technology": [
+      2,
+      2,
+      0
+    ],
+    "history_discoveries": [
+      2,
+      2,
+      0
+    ],
+    "entertainment": [
+      3,
+      1,
+      0
+    ],
+    "language_culture": [
+      3,
+      1,
+      0
+    ]
+  },
+  "reference_categories": {
+    "nature_animals": [
+      2,
+      2,
+      0
+    ],
+    "geography_travel": [
+      2,
+      1,
+      1
+    ],
+    "everyday_technology": [
+      2,
+      2,
+      0
+    ],
+    "history_discoveries": [
+      2,
+      2,
+      0
+    ],
+    "entertainment": [
+      3,
+      1,
+      0
+    ],
+    "language_culture": [
+      3,
+      1,
+      0
+    ]
+  },
+  "reference_complete": false,
+  "release_distribution_complete": false,
+  "corrections": 0,
+  "human_observations": 0
+}

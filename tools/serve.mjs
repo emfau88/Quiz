@@ -10,6 +10,12 @@ export function serve(port = 0) {
   const server = createServer(async (request,response) => {
     try {
       const url = new URL(request.url,'http://localhost');
+      if (url.pathname === '/lokaltest.html') {
+        const html = await readFile(new URL('../release/Quizsalon-Lokaltest.html',import.meta.url));
+        response.writeHead(200,{'Content-Type':types['.html'],'Cache-Control':'no-store'});
+        response.end(html);
+        return;
+      }
       const file = path.resolve(root,'.' + decodeURIComponent(url.pathname === '/' ? '/index.html' : url.pathname));
       const relative = path.relative(root,file);
       if (relative.startsWith('..') || path.isAbsolute(relative) || !(await stat(file)).isFile()) throw Error();

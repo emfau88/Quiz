@@ -1,0 +1,12 @@
+{
+  "run": "2026-11-20T01:49:49.813Z",
+  "pkg": "de.quizsalon.vorschau",
+  "api": "34",
+  "checks": [
+    "Android BackupManager hat die Play-Vorschau im lokalen Systemtransport tatsächlich gesichert",
+    "Echte Deinstallation, Neuinstallation und System-Restore erhalten die Spielstanddatenbank bytegenau",
+    "Installationskennung und künstlicher Kontrollmarker im ausgeschlossenen no_backup-Bereich fehlen nach Restore",
+    "Der neu gestartete Host erzeugt eine neue Installationskennung bei erhaltenem Spielstand"
+  ],
+  "ok": true
+}

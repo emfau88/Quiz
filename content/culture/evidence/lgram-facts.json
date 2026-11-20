@@ -1,0 +1,106 @@
+{
+  "gram.indef.article": {
+    "fingerprint": "64c8ed7dcd901ad0e0f7df79ed29c81e59734b7f2da22772c31c9b6f445f2dd2",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.def.article": {
+    "fingerprint": "81f434a34fb55edd69118778554c881e92bcd11b30c865472da15b7c0ec06fcf",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.pronoun": {
+    "fingerprint": "15481c9b68307e6bed46b7d25f4ce96559fad4799e7003e5c709552426f39957",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.verb": {
+    "fingerprint": "9a993acabcbb4bf1ca4505adc3f9d122aa642774f27544adefb79ae089ebeffb",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.conjugation": {
+    "fingerprint": "00ecdd67ac054a6de31b2e00455ffaeec0aaaa194e762e7ed0211ead3b3e7f7f",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.auxiliary": {
+    "fingerprint": "8589653b4b1390c3d0f0c5227cb87dbd1597d1080728af48b1c2f419f710e11e",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.modal": {
+    "fingerprint": "3bd78e0b4579ab0116575669d1e3171a1f2ade12017d057b50a1bdd3bd8141f3",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.preposition": {
+    "fingerprint": "41e7f4158e9623ba432d3361efde5334fcb622e95cfb6c2c490a22a8339036a1",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.interjection": {
+    "fingerprint": "71fc49928af4bcbf466b701d9600e3d8a44ecc4a2df6e90c689b892fe70aeab1",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.case": {
+    "fingerprint": "f2f840e39cddb127b807bbebbe5513de8bf4001340c2b345ae84c5d087c6840b",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.number": {
+    "fingerprint": "7d5b52f84226a3f74b97a2c2b2f75260cc3db0a57019c4302cac2839fac97996",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.gender": {
+    "fingerprint": "5ae7de19ed414fdbade3a9158190942f5506bf01a17c278074e2ce3d62231462",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.imperative": {
+    "fingerprint": "ec749d0e3401152449773264a61476f5601c5924f2ca4ef6993a7a1999c15fc4",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.active": {
+    "fingerprint": "6b02da16f678099b39d3889eebccf76b2d183aa3db0382b0a03a22451212f691",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.passive": {
+    "fingerprint": "533d6547aebc427dd0abd3c764385fd98a2f90f83143df8e868749daab03abc4",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.infinitive": {
+    "fingerprint": "7352c93091b5132343c8192198b5ab8dbd7c230a3d9e5076f0c0ba7d2160e0f8",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.composition": {
+    "fingerprint": "d9136334038df44247b0c4f094d72935927590700fb8259ace4f1c3b4522b0c7",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.derivation": {
+    "fingerprint": "770a62b77b38b0e1d86b5d2cb384c377997d256dcc6a0d5953f5209010da8101",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.nominalisation": {
+    "fingerprint": "bcd8f48b721057bb97303a2e5d5c2ec27ef61afe2dc7466bb97dc55700a0ab8b",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.compound_sentence": {
+    "fingerprint": "c5ed6a9656d322807409d193cd483d2b2c0f66d3ab87a563a13053940ea7f556",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.subordinate": {
+    "fingerprint": "b63d61fd930d67cec6b2f5e9a77d69d38caa77e78112b50675afc8df8160689a",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.ellipsis": {
+    "fingerprint": "137ac39ccc7f2a49985a101ff63de1b289f69bb8dbcc6d2e5c692d2af25ce5a7",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.attribute": {
+    "fingerprint": "45233f0651911ea6f8d1338cd7d00ea02e5e18eee8709ce80847aeb77ff5399e",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.subjunctive": {
+    "fingerprint": "ad349415b4256e27a8c59bac387aca6648bbaa8f7fe97446c1c93b4ff7c5086b",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.declination": {
+    "fingerprint": "f6c7d8e3e7fa32375118738de376ab633021b2fe12c79f4e26c8779ccd3e26c4",
+    "at": "2026-11-20T01:42:58+00:00"
+  },
+  "gram.punctuation": {
+    "fingerprint": "502c51da3660d52a8822a6834f37f8a6330968cb8cb676fdc8a756abc13eaafb",
+    "at": "2026-11-20T01:42:58+00:00"
+  }
+}

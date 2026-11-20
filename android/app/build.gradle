@@ -1,0 +1,111 @@
+apply plugin: 'com.android.application'
+
+def setting = { String key -> providers.environmentVariable(key).orElse('').get().trim() }
+def finalId = setting('QUIZSALON_APPLICATION_ID')
+def playKey = setting('QUIZSALON_PLAY_PUBLIC_KEY').replaceAll(/\s+/, '')
+def uploadPath = setting('QUIZSALON_KEYSTORE')
+def uploadAlias = setting('QUIZSALON_KEY_ALIAS')
+def storePasswordValue = setting('QUIZSALON_STORE_PASSWORD')
+def keyPasswordValue = setting('QUIZSALON_KEY_PASSWORD')
+def javaString = { String text -> groovy.json.JsonOutput.toJson(text) }
+if (playKey && !(playKey ==~ /[a-zA-Z0-9+\/=]+/)) {
+    throw new GradleException('Der Play-Lizenzschlüssel muss als Base64-kodierter öffentlicher RSA-Schlüssel vorliegen.')
+}
+android {
+    namespace 'de.quizsalon.app'
+    compileSdk 36
+    defaultConfig {
+        applicationId finalId ?: 'de.quizsalon.vorschau'
+        minSdk 24
+        targetSdk 36
+        versionCode 1
+        versionName '0.1.0'
+        resValue 'string', 'app_name', 'Quizsalon'
+        buildConfigField 'boolean', 'USE_PLAY_STORE', 'true'
+        buildConfigField 'String', 'PLAY_PUBLIC_KEY', '"' + playKey + '"'
+        buildConfigField 'String', 'OPERATOR', '""'
+        buildConfigField 'String', 'SUPPORT_EMAIL', '""'
+        buildConfigField 'String', 'PRIVACY_URL', '""'
+        testInstrumentationRunner 'de.quizsalon.app.NativeChecks'
+    }
+    sourceSets.main.assets.srcDirs = [rootProject.file('../web')]
+    buildFeatures { buildConfig true }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    signingConfigs {
+        release {
+            if (uploadPath) {
+                storeFile file(uploadPath)
+                keyAlias uploadAlias
+                storePassword storePasswordValue
+                keyPassword keyPasswordValue
+            }
+        }
+    }
+    buildTypes {
+        localTest {
+            initWith debug
+            matchingFallbacks = ['debug']
+            resValue 'string', 'app_name', 'Quizsalon Lokaltest'
+            buildConfigField 'boolean', 'USE_PLAY_STORE', 'false'
+        }
+        release {
+            signingConfig signingConfigs.release
+            buildConfigField 'String', 'OPERATOR', javaString(setting('QUIZSALON_OPERATOR'))
+            buildConfigField 'String', 'SUPPORT_EMAIL', javaString(setting('QUIZSALON_SUPPORT_EMAIL'))
+            buildConfigField 'String', 'PRIVACY_URL', javaString(setting('QUIZSALON_PRIVACY_URL'))
+        }
+    }
+}
+androidComponents {
+    onVariants(selector().withBuildType('localTest')) { variant ->
+        variant.applicationId.set('de.quizsalon.lokaltest')
+    }
+}
+def localAssetDirectory = layout.buildDirectory.dir('generated/local-theme-assets')
+def prepareLocalThemes = tasks.register('prepareLocalTestThemeAssets', Sync) {
+    from(rootProject.file('../tests/local-theme-access.js')) {
+        into 'js'
+        rename { 'access.js' }
+    }
+    into localAssetDirectory
+    doFirst {
+        if (!rootProject.file('../tests/local-theme-access.js').isFile()) {
+            throw new GradleException('Das getrennte Zugangsmodul der lokalen Erprobung fehlt.')
+        }
+    }
+}
+android.sourceSets.localTest.assets.srcDir(localAssetDirectory)
+tasks.matching { it.name == 'mergeLocalTestAssets' }.configureEach { dependsOn prepareLocalThemes }
+dependencies {
+    implementation 'com.android.billingclient:billing:8.0.0'
+}
+
+tasks.register('checkReleaseIdentity') {
+    doLast {
+        if (!finalId || finalId in ['de.quizsalon.vorschau', 'de.quizsalon.lokaltest'] || !playKey ||
+            !uploadPath || !uploadAlias || !storePasswordValue || !keyPasswordValue) {
+            throw new GradleException('Für einen Release fehlen endgültige App-ID, Play-Lizenzschlüssel oder Upload-Signierung. Siehe android/README.md.')
+        }
+        def rsaKey = java.security.KeyFactory.getInstance('RSA').generatePublic(
+            new java.security.spec.X509EncodedKeySpec(Base64.decoder.decode(playKey)))
+        if (rsaKey.modulus.bitLength() < 2048) {
+            throw new GradleException('Der konfigurierte Play-Lizenzschlüssel ist zu kurz.')
+        }
+        def privacy = new URI(setting('QUIZSALON_PRIVACY_URL'))
+        if (!setting('QUIZSALON_OPERATOR') || !(setting('QUIZSALON_SUPPORT_EMAIL') ==~ /[^@\s]+@[^@\s]+\.[^@\s]+/) ||
+                privacy.scheme != 'https' || !privacy.host || privacy.userInfo) {
+            throw new GradleException('Gültige Betreiberangabe, Support-E-Mail und öffentliche HTTPS-Datenschutzadresse fehlen.')
+        }
+    }
+}
+tasks.register('checkReleaseCatalog', Exec) {
+    mustRunAfter 'checkReleaseIdentity'
+    workingDir rootProject.file('..')
+    commandLine(setting('QUIZSALON_PYTHON') ?: 'python', 'tools/android-release-check.py')
+}
+tasks.matching { it.name == 'preReleaseBuild' }.configureEach {
+    dependsOn 'checkReleaseIdentity', 'checkReleaseCatalog'
+}

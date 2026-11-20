@@ -1,0 +1,3098 @@
+[
+  {
+    "id": "k-cldr-fr-territory-de",
+    "fact_key": "cldr.fr.territory.de",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welches Land heißt im Französischen „Allemagne“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deutschland"
+      },
+      {
+        "id": "b",
+        "text": "Italien"
+      },
+      {
+        "id": "c",
+        "text": "Finnland"
+      },
+      {
+        "id": "d",
+        "text": "Ungarn"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Allemagne“ ist im Französischen die Bezeichnung für „Deutschland“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale fr",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/fr.xml",
+        "verified_claim": "„Allemagne“ ist im Französischen die Bezeichnung für „Deutschland“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-it-territory-at",
+    "fact_key": "cldr.it.territory.at",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welches Land heißt im Italienischen „Austria“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Österreich"
+      },
+      {
+        "id": "b",
+        "text": "Deutschland"
+      },
+      {
+        "id": "c",
+        "text": "Italien"
+      },
+      {
+        "id": "d",
+        "text": "Frankreich"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Austria“ ist im Italienischen die Bezeichnung für „Österreich“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale it",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/it.xml",
+        "verified_claim": "„Austria“ ist im Italienischen die Bezeichnung für „Österreich“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-en-territory-ch",
+    "fact_key": "cldr.en.territory.ch",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welches Land heißt im Englischen „Switzerland“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schweiz"
+      },
+      {
+        "id": "b",
+        "text": "Dänemark"
+      },
+      {
+        "id": "c",
+        "text": "Polen"
+      },
+      {
+        "id": "d",
+        "text": "Griechenland"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Switzerland“ ist im Englischen die Bezeichnung für „Schweiz“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale en",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/en.xml",
+        "verified_claim": "„Switzerland“ ist im Englischen die Bezeichnung für „Schweiz“.",
+        "checked_at": "2026-11-20T01:13:46+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-es-territory-de",
+    "fact_key": "cldr.es.territory.de",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welches Land heißt im Spanischen „Alemania“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deutschland"
+      },
+      {
+        "id": "b",
+        "text": "Niederlande"
+      },
+      {
+        "id": "c",
+        "text": "Polen"
+      },
+      {
+        "id": "d",
+        "text": "Schweden"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Alemania“ ist im Spanischen die Bezeichnung für „Deutschland“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale es",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/es.xml",
+        "verified_claim": "„Alemania“ ist im Spanischen die Bezeichnung für „Deutschland“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-fi-territory-fi",
+    "fact_key": "cldr.fi.territory.fi",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welches Land heißt im Finnischen „Suomi“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Finnland"
+      },
+      {
+        "id": "b",
+        "text": "Ungarn"
+      },
+      {
+        "id": "c",
+        "text": "Norwegen"
+      },
+      {
+        "id": "d",
+        "text": "Portugal"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Suomi“ ist im Finnischen die Bezeichnung für „Finnland“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale fi",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/fi.xml",
+        "verified_claim": "„Suomi“ ist im Finnischen die Bezeichnung für „Finnland“.",
+        "checked_at": "2026-11-20T01:13:47+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-nl-territory-nl",
+    "fact_key": "cldr.nl.territory.nl",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welches Land heißt im Niederländischen „Nederland“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Niederlande"
+      },
+      {
+        "id": "b",
+        "text": "Deutschland"
+      },
+      {
+        "id": "c",
+        "text": "Griechenland"
+      },
+      {
+        "id": "d",
+        "text": "Schweiz"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Nederland“ ist im Niederländischen die Bezeichnung für „Niederlande“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale nl",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/nl.xml",
+        "verified_claim": "„Nederland“ ist im Niederländischen die Bezeichnung für „Niederlande“.",
+        "checked_at": "2026-11-20T01:13:47+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-el-territory-gr",
+    "fact_key": "cldr.el.territory.gr",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Welches Land heißt im Griechischen „Ελλάδα“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Griechenland"
+      },
+      {
+        "id": "b",
+        "text": "Finnland"
+      },
+      {
+        "id": "c",
+        "text": "Schweiz"
+      },
+      {
+        "id": "d",
+        "text": "Italien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Ελλάδα“ ist im Griechischen die Bezeichnung für „Griechenland“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale el",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/el.xml",
+        "verified_claim": "„Ελλάδα“ ist im Griechischen die Bezeichnung für „Griechenland“.",
+        "checked_at": "2026-11-20T01:13:46+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-pl-territory-de",
+    "fact_key": "cldr.pl.territory.de",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Welches Land heißt im Polnischen „Niemcy“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deutschland"
+      },
+      {
+        "id": "b",
+        "text": "Island"
+      },
+      {
+        "id": "c",
+        "text": "Niederlande"
+      },
+      {
+        "id": "d",
+        "text": "Schweden"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Niemcy“ ist im Polnischen die Bezeichnung für „Deutschland“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale pl",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/pl.xml",
+        "verified_claim": "„Niemcy“ ist im Polnischen die Bezeichnung für „Deutschland“.",
+        "checked_at": "2026-11-20T01:13:47+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-hu-territory-hu",
+    "fact_key": "cldr.hu.territory.hu",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welches Land heißt im Ungarischen „Magyarország“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ungarn"
+      },
+      {
+        "id": "b",
+        "text": "Dänemark"
+      },
+      {
+        "id": "c",
+        "text": "Spanien"
+      },
+      {
+        "id": "d",
+        "text": "Deutschland"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Magyarország“ ist im Ungarischen die Bezeichnung für „Ungarn“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale hu",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/hu.xml",
+        "verified_claim": "„Magyarország“ ist im Ungarischen die Bezeichnung für „Ungarn“.",
+        "checked_at": "2026-11-20T01:13:49+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-fr-language-nl",
+    "fact_key": "cldr.fr.language.nl",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welche Sprache heißt im Französischen „néerlandais“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Niederländisch"
+      },
+      {
+        "id": "b",
+        "text": "Ungarisch"
+      },
+      {
+        "id": "c",
+        "text": "Walisisch"
+      },
+      {
+        "id": "d",
+        "text": "Deutsch"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„néerlandais“ ist im Französischen die Bezeichnung für „Niederländisch“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale fr",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/fr.xml",
+        "verified_claim": "„néerlandais“ ist im Französischen die Bezeichnung für „Niederländisch“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-en-language-cy",
+    "fact_key": "cldr.en.language.cy",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welche Sprache heißt im Englischen „Welsh“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Walisisch"
+      },
+      {
+        "id": "b",
+        "text": "Niederländisch"
+      },
+      {
+        "id": "c",
+        "text": "Norwegisch"
+      },
+      {
+        "id": "d",
+        "text": "Schwedisch"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Welsh“ ist im Englischen die Bezeichnung für „Walisisch“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale en",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/en.xml",
+        "verified_claim": "„Welsh“ ist im Englischen die Bezeichnung für „Walisisch“.",
+        "checked_at": "2026-11-20T01:13:46+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-it-language-es",
+    "fact_key": "cldr.it.language.es",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welche Sprache heißt im Italienischen „spagnolo“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spanisch"
+      },
+      {
+        "id": "b",
+        "text": "Walisisch"
+      },
+      {
+        "id": "c",
+        "text": "Norwegisch"
+      },
+      {
+        "id": "d",
+        "text": "Estnisch"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„spagnolo“ ist im Italienischen die Bezeichnung für „Spanisch“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale it",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/it.xml",
+        "verified_claim": "„spagnolo“ ist im Italienischen die Bezeichnung für „Spanisch“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-es-language-fr",
+    "fact_key": "cldr.es.language.fr",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welche Sprache heißt im Spanischen „francés“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Französisch"
+      },
+      {
+        "id": "b",
+        "text": "Ungarisch"
+      },
+      {
+        "id": "c",
+        "text": "Deutsch"
+      },
+      {
+        "id": "d",
+        "text": "Niederländisch"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„francés“ ist im Spanischen die Bezeichnung für „Französisch“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale es",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/es.xml",
+        "verified_claim": "„francés“ ist im Spanischen die Bezeichnung für „Französisch“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-pt-language-de",
+    "fact_key": "cldr.pt.language.de",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welche Sprache heißt im Portugiesischen „alemão“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deutsch"
+      },
+      {
+        "id": "b",
+        "text": "Walisisch"
+      },
+      {
+        "id": "c",
+        "text": "Schwedisch"
+      },
+      {
+        "id": "d",
+        "text": "Spanisch"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„alemão“ ist im Portugiesischen die Bezeichnung für „Deutsch“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale pt",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/pt.xml",
+        "verified_claim": "„alemão“ ist im Portugiesischen die Bezeichnung für „Deutsch“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-da-language-sv",
+    "fact_key": "cldr.da.language.sv",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welche Sprache heißt im Dänischen „svensk“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schwedisch"
+      },
+      {
+        "id": "b",
+        "text": "Französisch"
+      },
+      {
+        "id": "c",
+        "text": "Deutsch"
+      },
+      {
+        "id": "d",
+        "text": "Spanisch"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„svensk“ ist im Dänischen die Bezeichnung für „Schwedisch“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale da",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/da.xml",
+        "verified_claim": "„svensk“ ist im Dänischen die Bezeichnung für „Schwedisch“.",
+        "checked_at": "2026-11-20T01:13:47+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-fr-month-8",
+    "fact_key": "cldr.fr.month.8",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welcher Monat heißt im Französischen „août“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "August"
+      },
+      {
+        "id": "b",
+        "text": "Februar"
+      },
+      {
+        "id": "c",
+        "text": "Juli"
+      },
+      {
+        "id": "d",
+        "text": "Oktober"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„août“ bezeichnet den 8. Monat des Jahres, also den August.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale fr",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/fr.xml",
+        "verified_claim": "„août“ bezeichnet den 8. Monat des Jahres, also den August.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-it-month-1",
+    "fact_key": "cldr.it.month.1",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welcher Monat heißt im Italienischen „gennaio“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Januar"
+      },
+      {
+        "id": "b",
+        "text": "Oktober"
+      },
+      {
+        "id": "c",
+        "text": "April"
+      },
+      {
+        "id": "d",
+        "text": "September"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„gennaio“ bezeichnet den 1. Monat des Jahres, also den Januar.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale it",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/it.xml",
+        "verified_claim": "„gennaio“ bezeichnet den 1. Monat des Jahres, also den Januar.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-es-month-12",
+    "fact_key": "cldr.es.month.12",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welcher Monat heißt im Spanischen „diciembre“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dezember"
+      },
+      {
+        "id": "b",
+        "text": "Januar"
+      },
+      {
+        "id": "c",
+        "text": "August"
+      },
+      {
+        "id": "d",
+        "text": "März"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„diciembre“ bezeichnet den 12. Monat des Jahres, also den Dezember.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale es",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/es.xml",
+        "verified_claim": "„diciembre“ bezeichnet den 12. Monat des Jahres, also den Dezember.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-pt-month-5",
+    "fact_key": "cldr.pt.month.5",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welcher Monat heißt im Portugiesischen „maio“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mai"
+      },
+      {
+        "id": "b",
+        "text": "Dezember"
+      },
+      {
+        "id": "c",
+        "text": "Februar"
+      },
+      {
+        "id": "d",
+        "text": "April"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„maio“ bezeichnet den 5. Monat des Jahres, also den Mai.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale pt",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/pt.xml",
+        "verified_claim": "„maio“ bezeichnet den 5. Monat des Jahres, also den Mai.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-ro-month-10",
+    "fact_key": "cldr.ro.month.10",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welcher Monat heißt im Rumänischen „octombrie“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Oktober"
+      },
+      {
+        "id": "b",
+        "text": "November"
+      },
+      {
+        "id": "c",
+        "text": "September"
+      },
+      {
+        "id": "d",
+        "text": "Dezember"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„octombrie“ bezeichnet den 10. Monat des Jahres, also den Oktober.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale ro",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/ro.xml",
+        "verified_claim": "„octombrie“ bezeichnet den 10. Monat des Jahres, also den Oktober.",
+        "checked_at": "2026-11-20T01:13:47+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-fr-day-fri",
+    "fact_key": "cldr.fr.day.fri",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welcher Wochentag heißt im Französischen „vendredi“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Freitag"
+      },
+      {
+        "id": "b",
+        "text": "Dienstag"
+      },
+      {
+        "id": "c",
+        "text": "Mittwoch"
+      },
+      {
+        "id": "d",
+        "text": "Donnerstag"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Auf einem Kalender entspricht „vendredi“ dem deutschen „Freitag“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale fr",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/fr.xml",
+        "verified_claim": "Auf einem Kalender entspricht „vendredi“ dem deutschen „Freitag“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-en-day-wed",
+    "fact_key": "cldr.en.day.wed",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welcher Wochentag heißt im Englischen „Wednesday“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mittwoch"
+      },
+      {
+        "id": "b",
+        "text": "Samstag"
+      },
+      {
+        "id": "c",
+        "text": "Montag"
+      },
+      {
+        "id": "d",
+        "text": "Sonntag"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Auf einem Kalender entspricht „Wednesday“ dem deutschen „Mittwoch“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale en",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/en.xml",
+        "verified_claim": "Auf einem Kalender entspricht „Wednesday“ dem deutschen „Mittwoch“.",
+        "checked_at": "2026-11-20T01:13:46+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-es-day-sat",
+    "fact_key": "cldr.es.day.sat",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welcher Wochentag heißt im Spanischen „sábado“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Samstag"
+      },
+      {
+        "id": "b",
+        "text": "Mittwoch"
+      },
+      {
+        "id": "c",
+        "text": "Dienstag"
+      },
+      {
+        "id": "d",
+        "text": "Donnerstag"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Auf einem Kalender entspricht „sábado“ dem deutschen „Samstag“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale es",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/es.xml",
+        "verified_claim": "Auf einem Kalender entspricht „sábado“ dem deutschen „Samstag“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-nl-day-sun",
+    "fact_key": "cldr.nl.day.sun",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welcher Wochentag heißt im Niederländischen „zondag“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sonntag"
+      },
+      {
+        "id": "b",
+        "text": "Samstag"
+      },
+      {
+        "id": "c",
+        "text": "Mittwoch"
+      },
+      {
+        "id": "d",
+        "text": "Donnerstag"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Auf einem Kalender entspricht „zondag“ dem deutschen „Sonntag“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale nl",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/nl.xml",
+        "verified_claim": "Auf einem Kalender entspricht „zondag“ dem deutschen „Sonntag“.",
+        "checked_at": "2026-11-20T01:13:47+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-sv-day-mon",
+    "fact_key": "cldr.sv.day.mon",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welcher Wochentag heißt im Schwedischen „måndag“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Montag"
+      },
+      {
+        "id": "b",
+        "text": "Samstag"
+      },
+      {
+        "id": "c",
+        "text": "Donnerstag"
+      },
+      {
+        "id": "d",
+        "text": "Dienstag"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Auf einem Kalender entspricht „måndag“ dem deutschen „Montag“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale sv",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/sv.xml",
+        "verified_claim": "Auf einem Kalender entspricht „måndag“ dem deutschen „Montag“.",
+        "checked_at": "2026-11-20T01:13:47+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-fr-relative--1",
+    "fact_key": "cldr.fr.relative.-1",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Was bedeutet „hier“ im Französischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "gestern"
+      },
+      {
+        "id": "b",
+        "text": "übermorgen"
+      },
+      {
+        "id": "c",
+        "text": "morgen"
+      },
+      {
+        "id": "d",
+        "text": "heute"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„hier“ ist im Französischen die Bezeichnung für „gestern“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale fr",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/fr.xml",
+        "verified_claim": "„hier“ ist im Französischen die Bezeichnung für „gestern“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-it-relative-1",
+    "fact_key": "cldr.it.relative.1",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Was bedeutet „domani“ im Italienischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "morgen"
+      },
+      {
+        "id": "b",
+        "text": "gestern"
+      },
+      {
+        "id": "c",
+        "text": "übermorgen"
+      },
+      {
+        "id": "d",
+        "text": "vorgestern"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„domani“ ist im Italienischen die Bezeichnung für „morgen“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale it",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/it.xml",
+        "verified_claim": "„domani“ ist im Italienischen die Bezeichnung für „morgen“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-es-relative-0",
+    "fact_key": "cldr.es.relative.0",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Was bedeutet „hoy“ im Spanischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "heute"
+      },
+      {
+        "id": "b",
+        "text": "vorgestern"
+      },
+      {
+        "id": "c",
+        "text": "gestern"
+      },
+      {
+        "id": "d",
+        "text": "morgen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„hoy“ ist im Spanischen die Bezeichnung für „heute“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale es",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/es.xml",
+        "verified_claim": "„hoy“ ist im Spanischen die Bezeichnung für „heute“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-pt-relative--1",
+    "fact_key": "cldr.pt.relative.-1",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Was bedeutet „ontem“ im Portugiesischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "gestern"
+      },
+      {
+        "id": "b",
+        "text": "vorgestern"
+      },
+      {
+        "id": "c",
+        "text": "morgen"
+      },
+      {
+        "id": "d",
+        "text": "heute"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„ontem“ ist im Portugiesischen die Bezeichnung für „gestern“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale pt",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/pt.xml",
+        "verified_claim": "„ontem“ ist im Portugiesischen die Bezeichnung für „gestern“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-no-relative-1",
+    "fact_key": "cldr.no.relative.1",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Was bedeutet „i morgen“ im Norwegischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "morgen"
+      },
+      {
+        "id": "b",
+        "text": "heute"
+      },
+      {
+        "id": "c",
+        "text": "gestern"
+      },
+      {
+        "id": "d",
+        "text": "vorgestern"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„i morgen“ ist im Norwegischen die Bezeichnung für „morgen“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale no",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/no.xml",
+        "verified_claim": "„i morgen“ ist im Norwegischen die Bezeichnung für „morgen“.",
+        "checked_at": "2026-11-20T01:13:50+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-fr-unit-duration-hour",
+    "fact_key": "cldr.fr.unit.duration-hour",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welche Zeiteinheit bezeichnet „heures“ im Französischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stunden"
+      },
+      {
+        "id": "b",
+        "text": "Jahre"
+      },
+      {
+        "id": "c",
+        "text": "Monate"
+      },
+      {
+        "id": "d",
+        "text": "Minuten"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„heures“ ist im Französischen die Bezeichnung für „Stunden“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale fr",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/fr.xml",
+        "verified_claim": "„heures“ ist im Französischen die Bezeichnung für „Stunden“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-en-unit-duration-minute",
+    "fact_key": "cldr.en.unit.duration-minute",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welche Zeiteinheit bezeichnet „minutes“ im Englischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Minuten"
+      },
+      {
+        "id": "b",
+        "text": "Stunden"
+      },
+      {
+        "id": "c",
+        "text": "Sekunden"
+      },
+      {
+        "id": "d",
+        "text": "Wochen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„minutes“ ist im Englischen die Bezeichnung für „Minuten“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale en",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/en.xml",
+        "verified_claim": "„minutes“ ist im Englischen die Bezeichnung für „Minuten“.",
+        "checked_at": "2026-11-20T01:13:46+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-es-unit-duration-second",
+    "fact_key": "cldr.es.unit.duration-second",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welche Zeiteinheit bezeichnet „segundos“ im Spanischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sekunden"
+      },
+      {
+        "id": "b",
+        "text": "Minuten"
+      },
+      {
+        "id": "c",
+        "text": "Stunden"
+      },
+      {
+        "id": "d",
+        "text": "Jahre"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„segundos“ ist im Spanischen die Bezeichnung für „Sekunden“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale es",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/es.xml",
+        "verified_claim": "„segundos“ ist im Spanischen die Bezeichnung für „Sekunden“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-it-unit-length-kilometer",
+    "fact_key": "cldr.it.unit.length-kilometer",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Was bedeutet „chilometri“ im Italienischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kilometer"
+      },
+      {
+        "id": "b",
+        "text": "Zentimeter"
+      },
+      {
+        "id": "c",
+        "text": "Meter"
+      },
+      {
+        "id": "d",
+        "text": "Meilen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„chilometri“ ist im Italienischen die Bezeichnung für „Kilometer“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale it",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/it.xml",
+        "verified_claim": "„chilometri“ ist im Italienischen die Bezeichnung für „Kilometer“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-pl-field-day",
+    "fact_key": "cldr.pl.field.day",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welche Zeiteinheit bezeichnet „dzień“ im Polnischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tag"
+      },
+      {
+        "id": "b",
+        "text": "Stunde"
+      },
+      {
+        "id": "c",
+        "text": "Monat"
+      },
+      {
+        "id": "d",
+        "text": "Minute"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„dzień“ ist im Polnischen die Bezeichnung für „Tag“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale pl",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/pl.xml",
+        "verified_claim": "„dzień“ ist im Polnischen die Bezeichnung für „Tag“.",
+        "checked_at": "2026-11-20T01:13:47+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-nl-field-week",
+    "fact_key": "cldr.nl.field.week",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welche Zeiteinheit bezeichnet „week“ im Niederländischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Woche"
+      },
+      {
+        "id": "b",
+        "text": "Tag"
+      },
+      {
+        "id": "c",
+        "text": "Jahr"
+      },
+      {
+        "id": "d",
+        "text": "Monat"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„week“ ist im Niederländischen die Bezeichnung für „Woche“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale nl",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/nl.xml",
+        "verified_claim": "„week“ ist im Niederländischen die Bezeichnung für „Woche“.",
+        "checked_at": "2026-11-20T01:13:47+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-en-field-year",
+    "fact_key": "cldr.en.field.year",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welche Zeiteinheit bezeichnet „year“ im Englischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jahr"
+      },
+      {
+        "id": "b",
+        "text": "Monat"
+      },
+      {
+        "id": "c",
+        "text": "Minute"
+      },
+      {
+        "id": "d",
+        "text": "Sekunde"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„year“ ist im Englischen die Bezeichnung für „Jahr“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale en",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/en.xml",
+        "verified_claim": "„year“ ist im Englischen die Bezeichnung für „Jahr“.",
+        "checked_at": "2026-11-20T01:13:46+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-fr-field-month",
+    "fact_key": "cldr.fr.field.month",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welche Zeiteinheit bezeichnet „mois“ im Französischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Monat"
+      },
+      {
+        "id": "b",
+        "text": "Minute"
+      },
+      {
+        "id": "c",
+        "text": "Sekunde"
+      },
+      {
+        "id": "d",
+        "text": "Jahr"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„mois“ ist im Französischen die Bezeichnung für „Monat“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale fr",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/fr.xml",
+        "verified_claim": "„mois“ ist im Französischen die Bezeichnung für „Monat“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-es-field-hour",
+    "fact_key": "cldr.es.field.hour",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welche Zeiteinheit bezeichnet „hora“ im Spanischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stunde"
+      },
+      {
+        "id": "b",
+        "text": "Minute"
+      },
+      {
+        "id": "c",
+        "text": "Jahr"
+      },
+      {
+        "id": "d",
+        "text": "Woche"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„hora“ ist im Spanischen die Bezeichnung für „Stunde“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale es",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/es.xml",
+        "verified_claim": "„hora“ ist im Spanischen die Bezeichnung für „Stunde“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-it-field-week",
+    "fact_key": "cldr.it.field.week",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welche Zeiteinheit bezeichnet „settimana“ im Italienischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Woche"
+      },
+      {
+        "id": "b",
+        "text": "Monat"
+      },
+      {
+        "id": "c",
+        "text": "Stunde"
+      },
+      {
+        "id": "d",
+        "text": "Minute"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„settimana“ ist im Italienischen die Bezeichnung für „Woche“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale it",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/it.xml",
+        "verified_claim": "„settimana“ ist im Italienischen die Bezeichnung für „Woche“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-da-field-year",
+    "fact_key": "cldr.da.field.year",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welche Zeiteinheit bezeichnet „år“ im Dänischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jahr"
+      },
+      {
+        "id": "b",
+        "text": "Stunde"
+      },
+      {
+        "id": "c",
+        "text": "Minute"
+      },
+      {
+        "id": "d",
+        "text": "Monat"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„år“ ist im Dänischen die Bezeichnung für „Jahr“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale da",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/da.xml",
+        "verified_claim": "„år“ ist im Dänischen die Bezeichnung für „Jahr“.",
+        "checked_at": "2026-11-20T01:13:47+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-pt-field-second",
+    "fact_key": "cldr.pt.field.second",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welche Zeiteinheit bezeichnet „segundo“ im Portugiesischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sekunde"
+      },
+      {
+        "id": "b",
+        "text": "Woche"
+      },
+      {
+        "id": "c",
+        "text": "Stunde"
+      },
+      {
+        "id": "d",
+        "text": "Monat"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„segundo“ ist im Portugiesischen die Bezeichnung für „Sekunde“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale pt",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/pt.xml",
+        "verified_claim": "„segundo“ ist im Portugiesischen die Bezeichnung für „Sekunde“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cldr-tr-field-month",
+    "fact_key": "cldr.tr.field.month",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Welche Zeiteinheit bezeichnet „ay“ im Türkischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Monat"
+      },
+      {
+        "id": "b",
+        "text": "Stunde"
+      },
+      {
+        "id": "c",
+        "text": "Minute"
+      },
+      {
+        "id": "d",
+        "text": "Woche"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„ay“ ist im Türkischen die Bezeichnung für „Monat“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale tr",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/tr.xml",
+        "verified_claim": "„ay“ ist im Türkischen die Bezeichnung für „Monat“.",
+        "checked_at": "2026-11-20T01:13:48+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:42+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:55+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:55+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

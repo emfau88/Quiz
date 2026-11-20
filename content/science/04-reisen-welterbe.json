@@ -1,0 +1,3318 @@
+[
+  {
+    "id": "qs-dubrovnik-meer",
+    "fact_key": "dubrovnik-meer",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "An welchem Meer liegt die Altstadt von Dubrovnik?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Adria"
+      },
+      {
+        "id": "b",
+        "text": "Ostsee"
+      },
+      {
+        "id": "c",
+        "text": "Nordsee"
+      },
+      {
+        "id": "d",
+        "text": "Schwarzes Meer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Dubrovnik liegt an der dalmatinischen Adriaküste. Im Mittelalter war die Stadt eine bedeutende Seemacht.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Old City of Dubrovnik - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/95",
+        "verified_claim": "Dubrovnik liegt an der dalmatinischen Adriaküste. Im Mittelalter war die Stadt eine bedeutende Seemacht.",
+        "checked_at": "2026-11-20T01:24:23.857Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-split-diokletian",
+    "fact_key": "split-diokletian",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "In welcher kroatischen Stadt kann man durch den einstigen Palast des Kaisers Diokletian spazieren?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Split"
+      },
+      {
+        "id": "b",
+        "text": "Zagreb"
+      },
+      {
+        "id": "c",
+        "text": "Pula"
+      },
+      {
+        "id": "d",
+        "text": "Rijeka"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In Split sind die Bauteile des antiken Palastes in das spätere Stadtzentrum hineingewachsen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Historical Complex of Split with the Palace of Diocletian - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/97",
+        "verified_claim": "In Split sind die Bauteile des antiken Palastes in das spätere Stadtzentrum hineingewachsen.",
+        "checked_at": "2026-11-20T01:24:22.357Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-plitvice-barrieren",
+    "fact_key": "plitvice-barrieren",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Wie entstanden die natürlichen Stufen zwischen den Plitvicer Seen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Durch Kalkablagerungen"
+      },
+      {
+        "id": "b",
+        "text": "Durch alte Stadtmauern"
+      },
+      {
+        "id": "c",
+        "text": "Durch Lavaströme"
+      },
+      {
+        "id": "d",
+        "text": "Durch Sanddünen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das fließende Wasser lagert Kalk ab. Über lange Zeit entstehen so Barrieren aus Travertin, die das Wasser aufstauen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Plitvice Lakes National Park - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/98",
+        "verified_claim": "Das fließende Wasser lagert Kalk ab. Über lange Zeit entstehen so Barrieren aus Travertin, die das Wasser aufstauen.",
+        "checked_at": "2026-11-20T01:24:22.357Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-durmitor-tara",
+    "fact_key": "durmitor-tara",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welcher Fluss hat den großen Canyon im Durmitor-Nationalpark geprägt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tara"
+      },
+      {
+        "id": "b",
+        "text": "Po"
+      },
+      {
+        "id": "c",
+        "text": "Ebro"
+      },
+      {
+        "id": "d",
+        "text": "Loire"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Tara-Canyon gehört zur Landschaft des Durmitor. Der Nationalpark umfasst außerdem Seen und Wälder.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Durmitor National Park - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/100",
+        "verified_claim": "Der Tara-Canyon gehört zur Landschaft des Durmitor. Der Nationalpark umfasst außerdem Seen und Wälder.",
+        "checked_at": "2026-11-20T01:24:22.357Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kotor-montenegro",
+    "fact_key": "kotor-montenegro",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "In welchem Staat an der Adria liegt die alte Hafenstadt Kotor?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Montenegro"
+      },
+      {
+        "id": "b",
+        "text": "Griechenland"
+      },
+      {
+        "id": "c",
+        "text": "Slowenien"
+      },
+      {
+        "id": "d",
+        "text": "Albanien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kotor liegt in Montenegro an einem natürlichen Hafen. Im Mittelalter war die Stadt ein Handels- und Kunstzentrum.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Natural and Culturo-Historical Region of Kotor - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/125",
+        "verified_claim": "Kotor liegt in Montenegro an einem natürlichen Hafen. Im Mittelalter war die Stadt ein Handels- und Kunstzentrum.",
+        "checked_at": "2026-11-20T01:24:22.357Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-copan-maya",
+    "fact_key": "copan-maya",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welcher Kultur gehören die Ruinen von Copán in Mittelamerika an?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Maya"
+      },
+      {
+        "id": "b",
+        "text": "Inka"
+      },
+      {
+        "id": "c",
+        "text": "Minoer"
+      },
+      {
+        "id": "d",
+        "text": "Etrusker"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Zitadelle und die großen Plätze von Copán sind Hinterlassenschaften der Maya.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Maya Site of Copan - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/129",
+        "verified_claim": "Die Zitadelle und die großen Plätze von Copán sind Hinterlassenschaften der Maya.",
+        "checked_at": "2026-11-20T01:24:22.357Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-valletta-malta",
+    "fact_key": "valletta-malta",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Mittelmeerinsel hat Valletta als Hauptstadt ihres gleichnamigen Staates?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Malta"
+      },
+      {
+        "id": "b",
+        "text": "Zypern"
+      },
+      {
+        "id": "c",
+        "text": "Kreta"
+      },
+      {
+        "id": "d",
+        "text": "Sizilien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Valletta ist die Hauptstadt Maltas. Die Geschichte der Stadt ist eng mit dem Johanniterorden verbunden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "City of Valletta - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/131",
+        "verified_claim": "Valletta ist die Hauptstadt Maltas. Die Geschichte der Stadt ist eng mit dem Johanniterorden verbunden.",
+        "checked_at": "2026-11-20T01:24:22.357Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ggantija-gozo",
+    "fact_key": "ggantija-gozo",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Auf welcher Insel liegen die megalithischen Tempel von Ġgantija?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gozo"
+      },
+      {
+        "id": "b",
+        "text": "Malta"
+      },
+      {
+        "id": "c",
+        "text": "Comino"
+      },
+      {
+        "id": "d",
+        "text": "Pantelleria"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ġgantija liegt auf Gozo. Weitere Tempelanlagen wie Ħaġar Qim liegen auf der Hauptinsel Malta.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Megalithic Temples of Malta - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/132",
+        "verified_claim": "Ġgantija liegt auf Gozo. Weitere Tempelanlagen wie Ħaġar Qim liegen auf der Hauptinsel Malta.",
+        "checked_at": "2026-11-20T01:24:22.357Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-portobelo-panamaseite",
+    "fact_key": "portobelo-panamaseite",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "An welcher Seite Panamas liegt die historische Festungsanlage von Portobelo?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An der Karibik"
+      },
+      {
+        "id": "b",
+        "text": "Am Pazifik"
+      },
+      {
+        "id": "c",
+        "text": "Am Golf von Kalifornien"
+      },
+      {
+        "id": "d",
+        "text": "Am Rio de la Plata"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Portobelo und San Lorenzo schützten spanische Handelswege auf der karibischen Seite Panamas.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Fortifications on the Caribbean Side of Panama: Portobelo-San Lorenzo - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/135",
+        "verified_claim": "Portobelo und San Lorenzo schützten spanische Handelswege auf der karibischen Seite Panamas.",
+        "checked_at": "2026-11-20T01:24:22.357Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-garamba-staat",
+    "fact_key": "garamba-staat",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "In welchem Staat liegt der Garamba-Nationalpark mit seinem Mosaik aus Wald und Savanne?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Demokratische Republik Kongo"
+      },
+      {
+        "id": "b",
+        "text": "Senegal"
+      },
+      {
+        "id": "c",
+        "text": "Namibia"
+      },
+      {
+        "id": "d",
+        "text": "Marokko"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Garamba liegt im Nordosten der Demokratischen Republik Kongo am Übergang verschiedener afrikanischer Vegetationszonen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Garamba National Park - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/136",
+        "verified_claim": "Garamba liegt im Nordosten der Demokratischen Republik Kongo am Übergang verschiedener afrikanischer Vegetationszonen.",
+        "checked_at": "2026-11-20T01:24:22.357Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-fernando-brasilien",
+    "fact_key": "fernando-brasilien",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Vor welchem Land liegt die Atlantikinselgruppe Fernando de Noronha?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Brasilien"
+      },
+      {
+        "id": "b",
+        "text": "Spanien"
+      },
+      {
+        "id": "c",
+        "text": "Marokko"
+      },
+      {
+        "id": "d",
+        "text": "Kanada"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Fernando de Noronha und das Rocas-Atoll liegen vor der Küste Brasiliens. Die Gipfel eines untermeerischen Rückens ragen dort aus dem Atlantik.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Brazilian Atlantic Islands: Fernando de Noronha and Atol das Rocas Reserves - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1000",
+        "verified_claim": "Fernando de Noronha und das Rocas-Atoll liegen vor der Küste Brasiliens. Die Gipfel eines untermeerischen Rückens ragen dort aus dem Atlantik.",
+        "checked_at": "2026-11-20T01:24:22.131Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-yungang-china",
+    "fact_key": "yungang-china",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "In welchem Land besucht man die buddhistischen Yungang-Grotten bei Datong?",
+    "options": [
+      {
+        "id": "a",
+        "text": "China"
+      },
+      {
+        "id": "b",
+        "text": "Indien"
+      },
+      {
+        "id": "c",
+        "text": "Vietnam"
+      },
+      {
+        "id": "d",
+        "text": "Japan"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Grotten von Yungang liegen in der Provinz Shanxi. Ihre Skulpturen zeugen von früher buddhistischer Höhlenkunst in China.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Yungang Grottoes - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1039",
+        "verified_claim": "Die Grotten von Yungang liegen in der Provinz Shanxi. Ihre Skulpturen zeugen von früher buddhistischer Höhlenkunst in China.",
+        "checked_at": "2026-11-20T01:24:22.131Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-bam-iran",
+    "fact_key": "bam-iran",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Am Rand welches Hochlands liegt die historische Oasenstadt Bam?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Iranisches Hochland"
+      },
+      {
+        "id": "b",
+        "text": "Hochland von Äthiopien"
+      },
+      {
+        "id": "c",
+        "text": "Hochland von Tibet"
+      },
+      {
+        "id": "d",
+        "text": "Hochland von Mexiko"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bam liegt am Südrand des iranischen Hochlands und verdankte seinen Aufstieg bedeutenden Handelswegen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bam and its Cultural Landscape - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1208",
+        "verified_claim": "Bam liegt am Südrand des iranischen Hochlands und verdankte seinen Aufstieg bedeutenden Handelswegen.",
+        "checked_at": "2026-11-20T01:24:22.131Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-tramuntana-mallorca",
+    "fact_key": "tramuntana-mallorca",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Auf welcher Insel erhebt sich die Serra de Tramuntana?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mallorca"
+      },
+      {
+        "id": "b",
+        "text": "Korsika"
+      },
+      {
+        "id": "c",
+        "text": "Madeira"
+      },
+      {
+        "id": "d",
+        "text": "Sardinien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Gebirge verläuft parallel zur Nordwestküste Mallorcas. Die Landwirtschaft hat seine Hänge über lange Zeit geprägt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Cultural Landscape of the Serra de Tramuntana - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1371",
+        "verified_claim": "Das Gebirge verläuft parallel zur Nordwestküste Mallorcas. Die Landwirtschaft hat seine Hänge über lange Zeit geprägt.",
+        "checked_at": "2026-11-20T01:24:22.131Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-speicherstadt-hamburg",
+    "fact_key": "speicherstadt-hamburg",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "In welcher deutschen Hafenstadt liegt das Welterbe Speicherstadt mit Kontorhausviertel und Chilehaus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hamburg"
+      },
+      {
+        "id": "b",
+        "text": "Bremen"
+      },
+      {
+        "id": "c",
+        "text": "Kiel"
+      },
+      {
+        "id": "d",
+        "text": "Rostock"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Hamburger Speicherstadt entstand auf schmalen Inseln in der Elbe. In unmittelbarer Nachbarschaft liegt das Kontorhausviertel.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Speicherstadt and Kontorhaus District with Chilehaus - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1467",
+        "verified_claim": "Die Hamburger Speicherstadt entstand auf schmalen Inseln in der Elbe. In unmittelbarer Nachbarschaft liegt das Kontorhausviertel.",
+        "checked_at": "2026-11-20T01:24:22.131Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-sikkim-himalaya",
+    "fact_key": "sikkim-himalaya",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "In welchem Gebirge liegt der Khangchendzonga-Nationalpark im indischen Sikkim?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Himalaya"
+      },
+      {
+        "id": "b",
+        "text": "Ural"
+      },
+      {
+        "id": "c",
+        "text": "Kaukasus"
+      },
+      {
+        "id": "d",
+        "text": "Atlas"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Nationalpark liegt im Himalaya. Er umfasst unter anderem Gletscher, Bergseen und den hohen Gipfel Khangchendzonga.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Khangchendzonga National Park - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1513",
+        "verified_claim": "Der Nationalpark liegt im Himalaya. Er umfasst unter anderem Gletscher, Bergseen und den hohen Gipfel Khangchendzonga.",
+        "checked_at": "2026-11-20T01:24:22.131Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-arc-et-senans-salz",
+    "fact_key": "arc-et-senans-salz",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welches Produkt gab der historischen Anlage von Arc-et-Senans bei Besançon ihren Zweck?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Salz"
+      },
+      {
+        "id": "b",
+        "text": "Porzellan"
+      },
+      {
+        "id": "c",
+        "text": "Seide"
+      },
+      {
+        "id": "d",
+        "text": "Zucker"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Arc-et-Senans ist eine ehemalige königliche Saline. Die ab 1775 gebaute Anlage wurde von Claude Nicolas Ledoux entworfen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "From the Great Saltworks of Salins-les-Bains to the Royal Saltworks of Arc-et-Senans, the Production of Open-pan Salt - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/203",
+        "verified_claim": "Arc-et-Senans ist eine ehemalige königliche Saline. Die ab 1775 gebaute Anlage wurde von Claude Nicolas Ledoux entworfen.",
+        "checked_at": "2026-11-20T01:24:22.183Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-amistad-laender",
+    "fact_key": "amistad-laender",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche Staaten teilen sich das Schutzgebiet La Amistad in Mittelamerika?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Costa Rica und Panama"
+      },
+      {
+        "id": "b",
+        "text": "Chile und Argentinien"
+      },
+      {
+        "id": "c",
+        "text": "Ecuador und Peru"
+      },
+      {
+        "id": "d",
+        "text": "Spanien und Portugal"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "La Amistad verbindet Gebiete Costa Ricas und Panamas. Tropische Regenwälder bedecken den größten Teil.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Talamanca Range-La Amistad Reserves / La Amistad National Park - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/205",
+        "verified_claim": "La Amistad verbindet Gebiete Costa Ricas und Panamas. Tropische Regenwälder bedecken den größten Teil.",
+        "checked_at": "2026-11-20T01:24:22.183Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-jam-bauwerk",
+    "fact_key": "jam-bauwerk",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Was ist das berühmte hohe Backsteinbauwerk von Jam?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Minarett"
+      },
+      {
+        "id": "b",
+        "text": "Ein Leuchtturm"
+      },
+      {
+        "id": "c",
+        "text": "Ein Wasserturm"
+      },
+      {
+        "id": "d",
+        "text": "Ein Glockenturm"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Minarett von Jam stammt aus dem 12. Jahrhundert. Sein oberer Teil trägt eine blaue Inschrift.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Minaret and Archaeological Remains of Jam - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/211",
+        "verified_claim": "Das Minarett von Jam stammt aus dem 12. Jahrhundert. Sein oberer Teil trägt eine blaue Inschrift.",
+        "checked_at": "2026-11-20T01:24:22.183Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-rila-bulgarien",
+    "fact_key": "rila-bulgarien",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "In welchem Land liegt das orthodoxe Rila-Kloster?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bulgarien"
+      },
+      {
+        "id": "b",
+        "text": "Rumänien"
+      },
+      {
+        "id": "c",
+        "text": "Ungarn"
+      },
+      {
+        "id": "d",
+        "text": "Slowakei"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Rila-Kloster spielte im mittelalterlichen Bulgarien eine wichtige religiöse und gesellschaftliche Rolle.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rila Monastery - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/216",
+        "verified_claim": "Das Rila-Kloster spielte im mittelalterlichen Bulgarien eine wichtige religiöse und gesellschaftliche Rolle.",
+        "checked_at": "2026-11-20T01:24:22.183Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-pirin-landschaft",
+    "fact_key": "pirin-landschaft",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche Landschaft erwartet dich im bulgarischen Pirin-Nationalpark?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gebirge mit Gletscherseen"
+      },
+      {
+        "id": "b",
+        "text": "Sandwüste am Roten Meer"
+      },
+      {
+        "id": "c",
+        "text": "Korallenriff in den Tropen"
+      },
+      {
+        "id": "d",
+        "text": "Marschland am Atlantik"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Pirin-Gebirge im Südwesten Bulgariens ist unter anderem durch Bergseen, Wasserfälle und Nadelwälder geprägt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pirin National Park - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/225",
+        "verified_claim": "Das Pirin-Gebirge im Südwesten Bulgariens ist unter anderem durch Bergseen, Wasserfälle und Nadelwälder geprägt.",
+        "checked_at": "2026-11-20T01:24:22.183Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-avignon-rhone",
+    "fact_key": "avignon-rhone",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Über welchen Fluss führte die berühmte Brücke von Avignon?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rhône"
+      },
+      {
+        "id": "b",
+        "text": "Seine"
+      },
+      {
+        "id": "c",
+        "text": "Loire"
+      },
+      {
+        "id": "d",
+        "text": "Garonne"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In Avignon sind Teile einer mittelalterlichen Brücke über die Rhône erhalten. Der Papstpalast überragt die Altstadt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/228",
+        "verified_claim": "In Avignon sind Teile einer mittelalterlichen Brücke über die Rhône erhalten. Der Papstpalast überragt die Altstadt.",
+        "checked_at": "2026-11-20T01:24:22.183Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-humayun-delhi",
+    "fact_key": "humayun-delhi",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "In welcher Stadt liegt das Gartengrabmal des Mogulkaisers Humayun?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Delhi"
+      },
+      {
+        "id": "b",
+        "text": "Mumbai"
+      },
+      {
+        "id": "c",
+        "text": "Kolkata"
+      },
+      {
+        "id": "d",
+        "text": "Chennai"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Humayuns Grabmal in Delhi verbindet einen Garten mit einem monumentalen Grabbau. Es beeinflusste spätere Anlagen wie das Taj Mahal.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Humayun's Tomb, Delhi - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/232",
+        "verified_claim": "Humayuns Grabmal in Delhi verbindet einen Garten mit einem monumentalen Grabbau. Es beeinflusste spätere Anlagen wie das Taj Mahal.",
+        "checked_at": "2026-11-20T01:24:22.183Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-goa-portugal",
+    "fact_key": "goa-portugal",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche europäische Kolonialmacht prägte die historischen Kirchen von Goa in Indien?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Portugal"
+      },
+      {
+        "id": "b",
+        "text": "Dänemark"
+      },
+      {
+        "id": "c",
+        "text": "Niederlande"
+      },
+      {
+        "id": "d",
+        "text": "Großbritannien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Goa war die Hauptstadt Portugiesisch-Indiens. Kirchen und Klöster erinnern an diese Zeit.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Churches and Convents of Goa - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/234",
+        "verified_claim": "Goa war die Hauptstadt Portugiesisch-Indiens. Kirchen und Klöster erinnern an diese Zeit.",
+        "checked_at": "2026-11-20T01:24:22.183Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-jaipur-rajasthan",
+    "fact_key": "jaipur-rajasthan",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "In welchem indischen Bundesstaat liegen die Bergfestungen von Jaipur und Jaisalmer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rajasthan"
+      },
+      {
+        "id": "b",
+        "text": "Kerala"
+      },
+      {
+        "id": "c",
+        "text": "Punjab"
+      },
+      {
+        "id": "d",
+        "text": "Assam"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beide Städte gehören zu Rajasthan. Ihre Festungen sind Teile einer gemeinsamen Welterbestätte.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Hill Forts of Rajasthan - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/247",
+        "verified_claim": "Beide Städte gehören zu Rajasthan. Ihre Festungen sind Teile einer gemeinsamen Welterbestätte.",
+        "checked_at": "2026-11-20T01:24:22.535Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-belem-lissabon",
+    "fact_key": "belem-lissabon",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "An der Hafeneinfahrt welcher Stadt steht der Turm von Belém?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lissabon"
+      },
+      {
+        "id": "b",
+        "text": "Porto"
+      },
+      {
+        "id": "c",
+        "text": "Faro"
+      },
+      {
+        "id": "d",
+        "text": "Setúbal"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Turm von Belém und das nahe Hieronymitenkloster liegen an der historischen Hafeneinfahrt Lissabons.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Monastery of the Hieronymites and Tower of Belém in Lisbon - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/263",
+        "verified_claim": "Der Turm von Belém und das nahe Hieronymitenkloster liegen an der historischen Hafeneinfahrt Lissabons.",
+        "checked_at": "2026-11-20T01:24:22.535Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-batalha-sieg",
+    "fact_key": "batalha-sieg",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Woran sollte das portugiesische Kloster Batalha bei seiner Gründung erinnern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An einen Sieg in einer Schlacht"
+      },
+      {
+        "id": "b",
+        "text": "An die Gründung einer Universität"
+      },
+      {
+        "id": "c",
+        "text": "An einen Vulkanausbruch"
+      },
+      {
+        "id": "d",
+        "text": "An die Erfindung des Buchdrucks"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Batalha erinnert an den portugiesischen Sieg über Kastilien bei Aljubarrota im Jahr 1385.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Monastery of Batalha - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/264",
+        "verified_claim": "Batalha erinnert an den portugiesischen Sieg über Kastilien bei Aljubarrota im Jahr 1385.",
+        "checked_at": "2026-11-20T01:24:22.535Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-san-juan-festungen",
+    "fact_key": "san-juan-festungen",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Was schützten die historischen Festungen von San Juan auf Puerto Rico?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Stadt und ihre Hafenbucht"
+      },
+      {
+        "id": "b",
+        "text": "Ein Binnengebirge mit Bergwerken"
+      },
+      {
+        "id": "c",
+        "text": "Eine Wüste mit Salzseen"
+      },
+      {
+        "id": "d",
+        "text": "Einen Pass über einen Gletscher"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen dem 16. und dem 20. Jahrhundert entstanden Befestigungen zum Schutz der Stadt und der Bucht von San Juan.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "La Fortaleza and San Juan National Historic Site in Puerto Rico - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/266",
+        "verified_claim": "Zwischen dem 16. und dem 20. Jahrhundert entstanden Befestigungen zum Schutz der Stadt und der Bucht von San Juan.",
+        "checked_at": "2026-11-20T01:24:22.535Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-wieskirche-bayern",
+    "fact_key": "wieskirche-bayern",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welcher Stil prägt die Wieskirche in den bayerischen Voralpen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rokoko"
+      },
+      {
+        "id": "b",
+        "text": "Romanik"
+      },
+      {
+        "id": "c",
+        "text": "Bauhaus"
+      },
+      {
+        "id": "d",
+        "text": "Gotik"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Wieskirche entstand im 18. Jahrhundert nach einem Entwurf von Dominikus Zimmermann und gehört zum bayerischen Rokoko.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pilgrimage Church of Wies - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/271",
+        "verified_claim": "Die Wieskirche entstand im 18. Jahrhundert nach einem Entwurf von Dominikus Zimmermann und gehört zum bayerischen Rokoko.",
+        "checked_at": "2026-11-20T01:24:22.535Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-luebeck-hanse",
+    "fact_key": "luebeck-hanse",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Mit welchem Städtebund ist die Handelsgeschichte Lübecks besonders verbunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hanse"
+      },
+      {
+        "id": "b",
+        "text": "Schmalkaldischer Bund"
+      },
+      {
+        "id": "c",
+        "text": "Rheinbund"
+      },
+      {
+        "id": "d",
+        "text": "Delischer Seebund"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Lübeck war ein führendes Zentrum der Hanse und pflegte enge Handelsbeziehungen im Norden Europas.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Hanseatic City of Lübeck - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/272",
+        "verified_claim": "Lübeck war ein führendes Zentrum der Hanse und pflegte enge Handelsbeziehungen im Norden Europas.",
+        "checked_at": "2026-11-20T01:24:22.535Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:52:07.300Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:52:25.505Z"
+      },
+      "approved_at": "2026-11-20T01:52:25.505Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-guarani-missionen-laender",
+    "fact_key": "guarani-missionen-laender",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "In welchen beiden Staaten liegen die fünf zusammengefassten UNESCO-Missionsruinen im Land der Guaraní?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Brasilien und Argentinien"
+      },
+      {
+        "id": "b",
+        "text": "Mexiko und Belize"
+      },
+      {
+        "id": "c",
+        "text": "Peru und Ecuador"
+      },
+      {
+        "id": "d",
+        "text": "Chile und Bolivien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "São Miguel das Missões liegt in Brasilien. San Ignacio Miní und drei weitere Orte dieser gemeinsamen Welterbestätte liegen in Argentinien.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jesuit Missions of the Guaranis: San Ignacio Mini, Santa Ana, Nuestra Señora de Loreto and Santa Maria Mayor (Argentina), Ruins of Sao Miguel das Missoes (Brazil) - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/275",
+        "verified_claim": "São Miguel das Missões liegt in Brasilien. San Ignacio Miní und drei weitere Orte dieser gemeinsamen Welterbestätte liegen in Argentinien.",
+        "checked_at": "2026-11-20T01:24:22.535Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-babylon-bagdad",
+    "fact_key": "babylon-bagdad",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Südlich welcher heutigen Hauptstadt liegen die Ruinen von Babylon?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bagdad"
+      },
+      {
+        "id": "b",
+        "text": "Kairo"
+      },
+      {
+        "id": "c",
+        "text": "Damaskus"
+      },
+      {
+        "id": "d",
+        "text": "Teheran"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die antike Stadt liegt rund 85 Kilometer südlich von Bagdad. Dort sind unter anderem Reste von Palästen und Stadtmauern erhalten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Babylon - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/278",
+        "verified_claim": "Die antike Stadt liegt rund 85 Kilometer südlich von Bagdad. Dort sind unter anderem Reste von Palästen und Stadtmauern erhalten.",
+        "checked_at": "2026-11-20T01:24:22.604Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-chitwan-tiere",
+    "fact_key": "chitwan-tiere",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welchem großen Säugetier bietet der Chitwan-Nationalpark am Fuß des Himalaya einen Lebensraum?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Panzernashorn"
+      },
+      {
+        "id": "b",
+        "text": "Eisbär"
+      },
+      {
+        "id": "c",
+        "text": "Afrikanischer Elefant"
+      },
+      {
+        "id": "d",
+        "text": "Moschusochse"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Chitwan schützt die Terai-Landschaft. Hier leben unter anderem einhörnige Asiatische Nashörner und Bengaltiger.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Chitwan National Park - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/284",
+        "verified_claim": "Chitwan schützt die Terai-Landschaft. Hier leben unter anderem einhörnige Asiatische Nashörner und Bengaltiger.",
+        "checked_at": "2026-11-20T01:24:22.604Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-cartagena-karibik",
+    "fact_key": "cartagena-karibik",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "An welchem Meer liegt die kolumbianische Hafenstadt Cartagena de Indias?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Karibisches Meer"
+      },
+      {
+        "id": "b",
+        "text": "Rotes Meer"
+      },
+      {
+        "id": "c",
+        "text": "Ostsee"
+      },
+      {
+        "id": "d",
+        "text": "Mittelmeer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Cartagena liegt in einer Bucht der Karibik. Die Stadt ist von ausgedehnten historischen Befestigungen geprägt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Port, Fortresses and Group of Monuments, Cartagena - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/285",
+        "verified_claim": "Cartagena liegt in einer Bucht der Karibik. Die Stadt ist von ausgedehnten historischen Befestigungen geprägt.",
+        "checked_at": "2026-11-20T01:24:22.604Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-bruehl-schloesser",
+    "fact_key": "bruehl-schloesser",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welches Schloss bildet mit Falkenlust das UNESCO-Schlösserpaar in Brühl?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Augustusburg"
+      },
+      {
+        "id": "b",
+        "text": "Sanssouci"
+      },
+      {
+        "id": "c",
+        "text": "Nymphenburg"
+      },
+      {
+        "id": "d",
+        "text": "Charlottenburg"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Augustusburg war die Residenz der Kölner Kurfürsten. Falkenlust diente ihnen als Jagdschloss.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Castles of Augustusburg and Falkenlust at Brühl - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/288",
+        "verified_claim": "Augustusburg war die Residenz der Kölner Kurfürsten. Falkenlust diente ihnen als Jagdschloss.",
+        "checked_at": "2026-11-20T01:24:22.604Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-tyros-phoenizier",
+    "fact_key": "tyros-phoenizier",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Mit welchem antiken Seefahrervolk ist die Hafenstadt Tyros besonders verbunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Phönizier"
+      },
+      {
+        "id": "b",
+        "text": "Inka"
+      },
+      {
+        "id": "c",
+        "text": "Etrusker"
+      },
+      {
+        "id": "d",
+        "text": "Azteken"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Tyros war eine bedeutende phönizische Hafenstadt. Von dort gingen Koloniegründungen im Mittelmeerraum aus.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Tyre - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/299",
+        "verified_claim": "Tyros war eine bedeutende phönizische Hafenstadt. Von dort gingen Koloniegründungen im Mittelmeerraum aus.",
+        "checked_at": "2026-11-20T01:24:22.604Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-matobo-simbabwe",
+    "fact_key": "matobo-simbabwe",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "In welchem Land liegen die Matobo-Hügel mit ihren auffälligen Granitfelsen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Simbabwe"
+      },
+      {
+        "id": "b",
+        "text": "Algerien"
+      },
+      {
+        "id": "c",
+        "text": "Kenia"
+      },
+      {
+        "id": "d",
+        "text": "Senegal"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die großen Felsblöcke der Matobo-Hügel bilden natürliche Schutzräume. Einige wurden bereits in der Steinzeit genutzt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Matobo Hills - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/306",
+        "verified_claim": "Die großen Felsblöcke der Matobo-Hügel bilden natürliche Schutzräume. Einige wurden bereits in der Steinzeit genutzt.",
+        "checked_at": "2026-11-20T01:24:22.604Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-freiheitsstatue-hafen",
+    "fact_key": "freiheitsstatue-hafen",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Die Freiheitsstatue begrüßte einst zahlreiche Einwanderer. In welchem Hafen steht sie?",
+    "options": [
+      {
+        "id": "a",
+        "text": "New York"
+      },
+      {
+        "id": "b",
+        "text": "Boston"
+      },
+      {
+        "id": "c",
+        "text": "Philadelphia"
+      },
+      {
+        "id": "d",
+        "text": "Baltimore"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Statue steht an der Einfahrt zum New Yorker Hafen. Frankreich schenkte sie den Vereinigten Staaten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Statue of Liberty - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/307",
+        "verified_claim": "Die Statue steht an der Einfahrt zum New Yorker Hafen. Frankreich schenkte sie den Vereinigten Staaten.",
+        "checked_at": "2026-11-20T01:24:22.604Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gondwana-australien",
+    "fact_key": "gondwana-australien",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "An welcher Seite Australiens liegen die geschützten Gondwana-Regenwälder hauptsächlich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An der Ostseite"
+      },
+      {
+        "id": "b",
+        "text": "An der Westseite"
+      },
+      {
+        "id": "c",
+        "text": "Im wüstenhaften Zentrum"
+      },
+      {
+        "id": "d",
+        "text": "Auf der Insel Tasmanien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Gondwana-Regenwälder erstrecken sich an der großen Geländestufe im Osten Australiens.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Gondwana Rainforests of Australia - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/368",
+        "verified_claim": "Die Gondwana-Regenwälder erstrecken sich an der großen Geländestufe im Osten Australiens.",
+        "checked_at": "2026-11-20T01:24:22.131Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-bojana-sofia",
+    "fact_key": "bojana-sofia",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Bei welcher europäischen Hauptstadt liegt die Kirche von Bojana mit ihren mittelalterlichen Fresken?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sofia"
+      },
+      {
+        "id": "b",
+        "text": "Athen"
+      },
+      {
+        "id": "c",
+        "text": "Warschau"
+      },
+      {
+        "id": "d",
+        "text": "Budapest"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bojana liegt am Rand von Sofia. Ein Teil der bedeutenden Wandmalereien stammt aus dem 13. Jahrhundert.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Boyana Church - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/42",
+        "verified_claim": "Bojana liegt am Rand von Sofia. Ein Teil der bedeutenden Wandmalereien stammt aus dem 13. Jahrhundert.",
+        "checked_at": "2026-11-20T01:24:23.857Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-glacierbay-alaska",
+    "fact_key": "glacierbay-alaska",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "In welchem US-Bundesstaat liegt Glacier Bay?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alaska"
+      },
+      {
+        "id": "b",
+        "text": "Colorado"
+      },
+      {
+        "id": "c",
+        "text": "Maine"
+      },
+      {
+        "id": "d",
+        "text": "Kalifornien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Glacier Bay gehört zu einem grenzüberschreitenden Schutzgebiet mit Gletschern und hohen Gipfeln in Alaska und Kanada.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Kluane / Wrangell-St. Elias / Glacier Bay / Tatshenshini-Alsek - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/72",
+        "verified_claim": "Glacier Bay gehört zu einem grenzüberschreitenden Schutzgebiet mit Gletschern und hohen Gipfeln in Alaska und Kanada.",
+        "checked_at": "2026-11-20T01:24:23.857Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-surtsey-island-kueste",
+    "fact_key": "surtsey-island-kueste",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Vor welcher großen Insel entstand in den 1960er-Jahren durch Vulkanausbrüche die neue Insel Surtsey?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Island"
+      },
+      {
+        "id": "b",
+        "text": "Irland"
+      },
+      {
+        "id": "c",
+        "text": "Korsika"
+      },
+      {
+        "id": "d",
+        "text": "Sardinien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Von 1963 bis 1967 bauten Vulkanausbrüche Surtsey rund 32 Kilometer vor der Südküste Islands auf.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Surtsey - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1267/",
+        "verified_claim": "Von 1963 bis 1967 bauten Vulkanausbrüche Surtsey rund 32 Kilometer vor der Südküste Islands auf.",
+        "checked_at": "2026-11-20T01:47:45.689Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:55:37.089Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:56:24.416Z"
+      },
+      "approved_at": "2026-11-20T01:56:24.416Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-vezelay-pilger",
+    "fact_key": "vezelay-pilger",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Mit welcher Heiligen ist der französische Wallfahrtsort Vézelay besonders verbunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Maria Magdalena"
+      },
+      {
+        "id": "b",
+        "text": "Elisabeth von Thüringen"
+      },
+      {
+        "id": "c",
+        "text": "Hildegard von Bingen"
+      },
+      {
+        "id": "d",
+        "text": "Birgitta von Schweden"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Abtei erlangte als Aufbewahrungsort von Maria Magdalena zugeschriebenen Reliquien Bedeutung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vézelay, Church and Hill - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/84",
+        "verified_claim": "Die Abtei erlangte als Aufbewahrungsort von Maria Magdalena zugeschriebenen Reliquien Bedeutung.",
+        "checked_at": "2026-11-20T01:24:23.857Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-lascaux-malerei",
+    "fact_key": "lascaux-malerei",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Wofür ist die Höhle von Lascaux im Südwesten Frankreichs bekannt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Altsteinzeitliche Wandmalerei"
+      },
+      {
+        "id": "b",
+        "text": "Ein unterirdisches Opernhaus"
+      },
+      {
+        "id": "c",
+        "text": "Römische Glasfenster"
+      },
+      {
+        "id": "d",
+        "text": "Eine antike Bibliothek"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Lascaux gehört zu den geschmückten Höhlen im Tal der Vézère. Die dortigen Malereien stammen aus der Altsteinzeit.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Prehistoric Sites and Decorated Caves of the Vézère Valley - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/85",
+        "verified_claim": "Lascaux gehört zu den geschmückten Höhlen im Tal der Vézère. Die dortigen Malereien stammen aus der Altsteinzeit.",
+        "checked_at": "2026-11-20T01:24:23.857Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-luxor-theben",
+    "fact_key": "luxor-theben",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welcher altägyptischen Stadt gehören die Tempelanlagen von Karnak und Luxor?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Theben"
+      },
+      {
+        "id": "b",
+        "text": "Memphis"
+      },
+      {
+        "id": "c",
+        "text": "Alexandria"
+      },
+      {
+        "id": "d",
+        "text": "Amarna"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die antike Stadt Theben umfasste große Tempel und Paläste. Zum heutigen Welterbe gehören auch die Königsgräber am anderen Nilufer.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Ancient Thebes with its Necropolis - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/87",
+        "verified_claim": "Die antike Stadt Theben umfasste große Tempel und Paläste. Zum heutigen Welterbe gehören auch die Königsgräber am anderen Nilufer.",
+        "checked_at": "2026-11-20T01:24:23.857Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-stari-ras-serbien",
+    "fact_key": "stari-ras-serbien",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Mit der Geschichte welches Staates ist die ehemalige Hauptstadt Stari Ras verbunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Serbien"
+      },
+      {
+        "id": "b",
+        "text": "Ungarn"
+      },
+      {
+        "id": "c",
+        "text": "Polen"
+      },
+      {
+        "id": "d",
+        "text": "Slowenien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Stari Ras gilt als erste Hauptstadt Serbiens. In ihrer Umgebung stehen mittelalterliche Burgen, Kirchen und Klöster.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stari Ras and Sopoćani - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/96",
+        "verified_claim": "Stari Ras gilt als erste Hauptstadt Serbiens. In ihrer Umgebung stehen mittelalterliche Burgen, Kirchen und Klöster.",
+        "checked_at": "2026-11-20T01:24:23.857Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:26:21.273Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.798Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.798Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

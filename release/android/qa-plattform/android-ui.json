@@ -1,0 +1,16 @@
+{
+  "device": "sdk_gphone64_x86_64",
+  "api": "34",
+  "pageSize": "4096",
+  "run": "2026-11-20T01:40:55.242Z",
+  "checks": [
+    "Tatsächliche Ablehnung der Android-Benachrichtigungserlaubnis lässt Erinnerung aus",
+    "Nach aktiver Erlaubnis ist der lokale Alarm im Android-Alarmmanager registriert",
+    "Nach Zeitzonenwechsel und App-Neustart bleibt die lokale Erinnerungszeit erhalten",
+    "Ausschaltaktion löscht den gewählten Erinnerungszeitpunkt"
+  ],
+  "screenshots": [
+    "05-themen.png"
+  ],
+  "ok": true
+}

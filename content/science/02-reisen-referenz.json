@@ -868,7 +868,7 @@
     "fact_key": "gaudi-park-guell",
     "category": "geography_travel",
     "difficulty": "easy",
-    "question": "Wer gestaltete in Barcelona den Park Güell und die Casa Milà?",
+    "question": "Wer gestaltete den Park Güell und die Casa Milà?",
     "options": [
       {
         "id": "a",
@@ -888,9 +888,9 @@
       }
     ],
     "correct_option_id": "a",
-    "explanation": "Park Güell und Casa Milà gehören zu den Werken von Antoni Gaudí in Barcelona.",
+    "explanation": "Beide Werke stammen von Antoni Gaudí. Auch seine Arbeiten an der Geburtsfassade der Sagrada Família gehören zur Welterbestätte.",
     "tags": [],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -899,7 +899,7 @@
         "id": "s1",
         "title": "Works of Antoni Gaudí - UNESCO World Heritage Centre",
         "url": "https://whc.unesco.org/en/list/320",
-        "verified_claim": "Park Güell und Casa Milà gehören zu den Werken von Antoni Gaudí in Barcelona.",
+        "verified_claim": "Beide Werke stammen von Antoni Gaudí. Auch seine Arbeiten an der Geburtsfassade der Sagrada Família gehören zur Welterbestätte.",
         "checked_at": "2026-11-20T01:10:48.038Z"
       }
     ],
@@ -910,10 +910,10 @@
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:12:54.272Z"
+        "at": "2026-11-20T01:49:49.259Z"
       },
       "editorial": {
         "actor_type": "agent",
@@ -921,12 +921,12 @@
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:14:03.375Z"
+        "at": "2026-11-20T01:50:25.450Z"
       },
-      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_at": "2026-11-20T01:50:25.450Z",
       "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
       "issues": [],
       "length_exception": null

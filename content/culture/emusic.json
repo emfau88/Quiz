@@ -1,0 +1,3546 @@
+[
+  {
+    "id": "k-music-abba-winner",
+    "fact_key": "music.abba.winner",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche schwedische Gruppe nahm „The Winner Takes It All“ auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ABBA"
+      },
+      {
+        "id": "b",
+        "text": "Roxette"
+      },
+      {
+        "id": "c",
+        "text": "Ace of Base"
+      },
+      {
+        "id": "d",
+        "text": "Europe"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Titel gehört zu den Aufnahmen von ABBA. Die Gruppe wurde in den 1970er-Jahren international bekannt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · abba",
+        "url": "https://rockhall.com/inductees/abba/",
+        "verified_claim": "Der Titel gehört zu den Aufnahmen von ABBA. Die Gruppe wurde in den 1970er-Jahren international bekannt.",
+        "checked_at": "2026-11-20T01:22:20+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-abba-agnt",
+    "fact_key": "music.abba.agnt",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Zu welcher Gruppe gehörten Agnetha Fältskog und Björn Ulvaeus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ABBA"
+      },
+      {
+        "id": "b",
+        "text": "Fleetwood Mac"
+      },
+      {
+        "id": "c",
+        "text": "The Corrs"
+      },
+      {
+        "id": "d",
+        "text": "The Mamas and the Papas"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die beiden Namen stehen zusammen mit Benny Andersson und Anni-Frid Lyngstad für die vier Mitglieder von ABBA.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · abba",
+        "url": "https://rockhall.com/inductees/abba/",
+        "verified_claim": "Die beiden Namen stehen zusammen mit Benny Andersson und Anni-Frid Lyngstad für die vier Mitglieder von ABBA.",
+        "checked_at": "2026-11-20T01:22:20+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-acdc-highway",
+    "fact_key": "music.acdc.highway",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Band veröffentlichte „Highway to Hell“ und „Back in Black“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "AC/DC"
+      },
+      {
+        "id": "b",
+        "text": "Deep Purple"
+      },
+      {
+        "id": "c",
+        "text": "Scorpions"
+      },
+      {
+        "id": "d",
+        "text": "Europe"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die beiden Titel gehören zum Repertoire der australischen Hardrockband AC/DC.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · acdc",
+        "url": "https://rockhall.com/inductees/acdc/",
+        "verified_claim": "Die beiden Titel gehören zum Repertoire der australischen Hardrockband AC/DC.",
+        "checked_at": "2026-11-20T01:22:24+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-acdc-angus",
+    "fact_key": "music.acdc.angus",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Zu welcher Band gehört der Gitarrist Angus Young?",
+    "options": [
+      {
+        "id": "a",
+        "text": "AC/DC"
+      },
+      {
+        "id": "b",
+        "text": "Led Zeppelin"
+      },
+      {
+        "id": "c",
+        "text": "Black Sabbath"
+      },
+      {
+        "id": "d",
+        "text": "Queen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Angus Young gehört zu den Musikern, die mit AC/DC in die Rock & Roll Hall of Fame aufgenommen wurden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · acdc",
+        "url": "https://rockhall.com/inductees/acdc/",
+        "verified_claim": "Angus Young gehört zu den Musikern, die mit AC/DC in die Rock & Roll Hall of Fame aufgenommen wurden.",
+        "checked_at": "2026-11-20T01:22:24+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-aretha-respect",
+    "fact_key": "music.aretha.respect",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Sängerin machte 1967 ihre Fassung von Otis Reddings „Respect“ zum Soulklassiker?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aretha Franklin"
+      },
+      {
+        "id": "b",
+        "text": "Diana Ross"
+      },
+      {
+        "id": "c",
+        "text": "Tina Turner"
+      },
+      {
+        "id": "d",
+        "text": "Dionne Warwick"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Respect“ stammt von Otis Redding. Aretha Franklin nahm ihre eigene berühmte Fassung auf.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · aretha-franklin",
+        "url": "https://rockhall.com/inductees/aretha-franklin/",
+        "verified_claim": "„Respect“ stammt von Otis Redding. Aretha Franklin nahm ihre eigene berühmte Fassung auf.",
+        "checked_at": "2026-11-20T01:22:24+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-aretha-induction",
+    "fact_key": "music.aretha.induction",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Wer wurde 1987 als erste Frau in die Rock & Roll Hall of Fame aufgenommen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aretha Franklin"
+      },
+      {
+        "id": "b",
+        "text": "Tina Turner"
+      },
+      {
+        "id": "c",
+        "text": "Janis Joplin"
+      },
+      {
+        "id": "d",
+        "text": "Patti Smith"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Aretha Franklin erhielt diese Auszeichnung für ihr Lebenswerk im Soul.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · aretha-franklin",
+        "url": "https://rockhall.com/inductees/aretha-franklin/",
+        "verified_claim": "Aretha Franklin erhielt diese Auszeichnung für ihr Lebenswerk im Soul.",
+        "checked_at": "2026-11-20T01:22:24+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-sabbath-ozzy",
+    "fact_key": "music.sabbath.ozzy",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Bei welcher Band sang Ozzy Osbourne den Klassiker „Iron Man“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Black Sabbath"
+      },
+      {
+        "id": "b",
+        "text": "Deep Purple"
+      },
+      {
+        "id": "c",
+        "text": "Judas Priest"
+      },
+      {
+        "id": "d",
+        "text": "Iron Maiden"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Osbourne war Sänger von Black Sabbath. Die Gruppe prägte die Entwicklung des Heavy Metal.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · black-sabbath",
+        "url": "https://rockhall.com/inductees/black-sabbath/",
+        "verified_claim": "Osbourne war Sänger von Black Sabbath. Die Gruppe prägte die Entwicklung des Heavy Metal.",
+        "checked_at": "2026-11-20T01:22:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-blondie-debbie",
+    "fact_key": "music.blondie.debbie",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche New-Wave-Band wurde mit Sängerin Debbie Harry bekannt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Blondie"
+      },
+      {
+        "id": "b",
+        "text": "Pretenders"
+      },
+      {
+        "id": "c",
+        "text": "Eurythmics"
+      },
+      {
+        "id": "d",
+        "text": "Bananarama"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Blondie verband New Wave und eingängige Popmelodien mit Einflüssen aus verschiedenen Musikrichtungen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · blondie",
+        "url": "https://rockhall.com/inductees/blondie/",
+        "verified_claim": "Blondie verband New Wave und eingängige Popmelodien mit Einflüssen aus verschiedenen Musikrichtungen.",
+        "checked_at": "2026-11-20T01:22:26+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-marley-wailers",
+    "fact_key": "music.marley.wailers",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wie hieß die mit Bob Marley verbundene Reggae-Gruppe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Wailers"
+      },
+      {
+        "id": "b",
+        "text": "The Supremes"
+      },
+      {
+        "id": "c",
+        "text": "The Drifters"
+      },
+      {
+        "id": "d",
+        "text": "The Shadows"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit den Wailers sowie als Solokünstler machte Marley jamaikanischen Reggae international bekannt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · bob-marley",
+        "url": "https://rockhall.com/inductees/bob-marley/",
+        "verified_claim": "Mit den Wailers sowie als Solokünstler machte Marley jamaikanischen Reggae international bekannt.",
+        "checked_at": "2026-11-20T01:22:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-bowie-fame",
+    "fact_key": "music.bowie.fame",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welcher britische Sänger veröffentlichte den Song „Fame“ in den 1970er-Jahren?",
+    "options": [
+      {
+        "id": "a",
+        "text": "David Bowie"
+      },
+      {
+        "id": "b",
+        "text": "Rod Stewart"
+      },
+      {
+        "id": "c",
+        "text": "Elton John"
+      },
+      {
+        "id": "d",
+        "text": "Joe Cocker"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Fame“ gehört zu Bowies Repertoire. Die Rock & Roll Hall of Fame stellt den Titel in ihrem Bowie-Porträt vor.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · david-bowie",
+        "url": "https://rockhall.com/inductees/david-bowie/",
+        "verified_claim": "„Fame“ gehört zu Bowies Repertoire. Die Rock & Roll Hall of Fame stellt den Titel in ihrem Bowie-Porträt vor.",
+        "checked_at": "2026-11-20T01:22:21+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-carl-bluesuede",
+    "fact_key": "music.carl.bluesuede",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Von welchem Rockabilly-Musiker stammt „Blue Suede Shoes“, bevor Elvis Presley es aufnahm?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Carl Perkins"
+      },
+      {
+        "id": "b",
+        "text": "Buddy Holly"
+      },
+      {
+        "id": "c",
+        "text": "Roy Orbison"
+      },
+      {
+        "id": "d",
+        "text": "Eddie Cochran"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Carl Perkins schrieb und sang „Blue Suede Shoes“. Das Stück ist eng mit dem frühen Rockabilly verbunden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · carl-perkins",
+        "url": "https://rockhall.com/inductees/carl-perkins/",
+        "verified_claim": "Carl Perkins schrieb und sang „Blue Suede Shoes“. Das Stück ist eng mit dem frühen Rockabilly verbunden.",
+        "checked_at": "2026-11-20T01:22:24+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-cash-genre",
+    "fact_key": "music.cash.genre",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Mit welcher Musikrichtung ist Johnny Cash besonders eng verbunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Country"
+      },
+      {
+        "id": "b",
+        "text": "Operette"
+      },
+      {
+        "id": "c",
+        "text": "Flamenco"
+      },
+      {
+        "id": "d",
+        "text": "Reggae"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Cash wurde als amerikanischer Country-Erzähler bekannt. Viele seiner Lieder handeln vom Alltag gewöhnlicher Menschen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · johnny-cash",
+        "url": "https://rockhall.com/inductees/johnny-cash/",
+        "verified_claim": "Cash wurde als amerikanischer Country-Erzähler bekannt. Viele seiner Lieder handeln vom Alltag gewöhnlicher Menschen.",
+        "checked_at": "2026-11-20T01:22:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-chuck-instrument",
+    "fact_key": "music.chuck.instrument",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welches Instrument prägte Chuck Berrys Beiträge zum frühen Rock ’n’ Roll?",
+    "options": [
+      {
+        "id": "a",
+        "text": "E-Gitarre"
+      },
+      {
+        "id": "b",
+        "text": "Klarinette"
+      },
+      {
+        "id": "c",
+        "text": "Akkordeon"
+      },
+      {
+        "id": "d",
+        "text": "Harfe"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Berrys Gitarrenspiel beeinflusste unter anderem die Beatles und die Rolling Stones.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · chuck-berry",
+        "url": "https://rockhall.com/inductees/chuck-berry/",
+        "verified_claim": "Berrys Gitarrenspiel beeinflusste unter anderem die Beatles und die Rolling Stones.",
+        "checked_at": "2026-11-20T01:22:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-clapton-cream",
+    "fact_key": "music.clapton.cream",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welcher Gitarrist spielte bei den Yardbirds, bei Cream und bei Derek and the Dominos?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eric Clapton"
+      },
+      {
+        "id": "b",
+        "text": "Jimmy Page"
+      },
+      {
+        "id": "c",
+        "text": "Jeff Beck"
+      },
+      {
+        "id": "d",
+        "text": "Brian May"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Claptons Laufbahn verbindet alle drei Gruppen. Später hatte er auch Erfolg als Solokünstler.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · eric-clapton",
+        "url": "https://rockhall.com/inductees/eric-clapton/",
+        "verified_claim": "Claptons Laufbahn verbindet alle drei Gruppen. Später hatte er auch Erfolg als Solokünstler.",
+        "checked_at": "2026-11-20T01:22:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-clapton-tears",
+    "fact_key": "music.clapton.tears",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welcher Musiker sang „Tears in Heaven“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eric Clapton"
+      },
+      {
+        "id": "b",
+        "text": "Mark Knopfler"
+      },
+      {
+        "id": "c",
+        "text": "Phil Collins"
+      },
+      {
+        "id": "d",
+        "text": "Peter Gabriel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Tears in Heaven“ gehört zu Eric Claptons Solotiteln.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · eric-clapton",
+        "url": "https://rockhall.com/inductees/eric-clapton/",
+        "verified_claim": "„Tears in Heaven“ gehört zu Eric Claptons Solotiteln.",
+        "checked_at": "2026-11-20T01:22:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-depeche-gahan",
+    "fact_key": "music.depeche.gahan",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Dave Gahan ist als Stimme welcher britischen Gruppe bekannt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Depeche Mode"
+      },
+      {
+        "id": "b",
+        "text": "Duran Duran"
+      },
+      {
+        "id": "c",
+        "text": "Pet Shop Boys"
+      },
+      {
+        "id": "d",
+        "text": "Erasure"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Depeche Mode verbanden Gahans Gesang mit elektronischen Klängen und Synthesizern.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · depeche-mode",
+        "url": "https://rockhall.com/inductees/depeche-mode/",
+        "verified_claim": "Depeche Mode verbanden Gahans Gesang mit elektronischen Klängen und Synthesizern.",
+        "checked_at": "2026-11-20T01:22:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-dire-knopfler",
+    "fact_key": "music.dire.knopfler",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Mit welcher Gruppe wurde Mark Knopfler als Gitarrist und Sänger bekannt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dire Straits"
+      },
+      {
+        "id": "b",
+        "text": "Status Quo"
+      },
+      {
+        "id": "c",
+        "text": "The Who"
+      },
+      {
+        "id": "d",
+        "text": "Deep Purple"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Dire Straits kombinierten Rock mit Einflüssen aus Blues und Country.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · dire-straits",
+        "url": "https://rockhall.com/inductees/dire-straits/",
+        "verified_claim": "Die Dire Straits kombinierten Rock mit Einflüssen aus Blues und Country.",
+        "checked_at": "2026-11-20T01:22:24+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-eagles-hotel",
+    "fact_key": "music.eagles.hotel",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer nahm „Hotel California“ und „Take It Easy“ auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eagles"
+      },
+      {
+        "id": "b",
+        "text": "Fleetwood Mac"
+      },
+      {
+        "id": "c",
+        "text": "Kansas"
+      },
+      {
+        "id": "d",
+        "text": "Toto"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Eagles brachten den Countryrock aus Südkalifornien einem großen Publikum näher.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · eagles",
+        "url": "https://rockhall.com/inductees/eagles/",
+        "verified_claim": "Die Eagles brachten den Countryrock aus Südkalifornien einem großen Publikum näher.",
+        "checked_at": "2026-11-20T01:22:21+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-biermann-ausbuergerung",
+    "fact_key": "music.biermann.ausbuergerung",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welchen Liedermacher bürgerte die DDR 1976 während einer Tournee durch die Bundesrepublik aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wolf Biermann"
+      },
+      {
+        "id": "b",
+        "text": "Reinhard Mey"
+      },
+      {
+        "id": "c",
+        "text": "Hannes Wader"
+      },
+      {
+        "id": "d",
+        "text": "Franz Josef Degenhardt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Während Biermann im Westen auftrat, beschloss das DDR-Politbüro seine Ausbürgerung.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1976",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1976.html",
+        "verified_claim": "Während Biermann im Westen auftrat, beschloss das DDR-Politbüro seine Ausbürgerung.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-eurythmics-dreams",
+    "fact_key": "music.eurythmics.dreams",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welches Duo ist mit „Sweet Dreams (Are Made of This)“ verbunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eurythmics"
+      },
+      {
+        "id": "b",
+        "text": "Pet Shop Boys"
+      },
+      {
+        "id": "c",
+        "text": "Erasure"
+      },
+      {
+        "id": "d",
+        "text": "Roxette"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Synthesizerklänge von „Sweet Dreams“ machten Eurythmics in den 1980er-Jahren weithin bekannt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · eurythmics",
+        "url": "https://rockhall.com/inductees/eurythmics/",
+        "verified_claim": "Die Synthesizerklänge von „Sweet Dreams“ machten Eurythmics in den 1980er-Jahren weithin bekannt.",
+        "checked_at": "2026-11-20T01:22:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-eurythmics-annie",
+    "fact_key": "music.eurythmics.annie",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer sang bei Eurythmics an der Seite von Dave Stewart?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Annie Lennox"
+      },
+      {
+        "id": "b",
+        "text": "Alison Moyet"
+      },
+      {
+        "id": "c",
+        "text": "Kim Wilde"
+      },
+      {
+        "id": "d",
+        "text": "Debbie Harry"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Annie Lennox und Dave Stewart bildeten das Duo Eurythmics.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · eurythmics",
+        "url": "https://rockhall.com/inductees/eurythmics/",
+        "verified_claim": "Annie Lennox und Dave Stewart bildeten das Duo Eurythmics.",
+        "checked_at": "2026-11-20T01:22:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-fleetwood-album",
+    "fact_key": "music.fleetwood.album",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Band veröffentlichte 1977 das Album „Rumours“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fleetwood Mac"
+      },
+      {
+        "id": "b",
+        "text": "Pink Floyd"
+      },
+      {
+        "id": "c",
+        "text": "Genesis"
+      },
+      {
+        "id": "d",
+        "text": "Bee Gees"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Rumours“ entstand in der international besonders erfolgreichen Besetzung von Fleetwood Mac.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · fleetwood-mac",
+        "url": "https://rockhall.com/inductees/fleetwood-mac/",
+        "verified_claim": "„Rumours“ entstand in der international besonders erfolgreichen Besetzung von Fleetwood Mac.",
+        "checked_at": "2026-11-20T01:22:23+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-fleetwood-stevie",
+    "fact_key": "music.fleetwood.stevie",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Bei welcher Band waren Stevie Nicks und Christine McVie gemeinsam zu hören?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fleetwood Mac"
+      },
+      {
+        "id": "b",
+        "text": "The Corrs"
+      },
+      {
+        "id": "c",
+        "text": "Heart"
+      },
+      {
+        "id": "d",
+        "text": "The Bangles"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beide Musikerinnen gehörten zu der Besetzung, die unter anderem mit „Rumours“ bekannt wurde.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · fleetwood-mac",
+        "url": "https://rockhall.com/inductees/fleetwood-mac/",
+        "verified_claim": "Beide Musikerinnen gehörten zu der Besetzung, die unter anderem mit „Rumours“ bekannt wurde.",
+        "checked_at": "2026-11-20T01:22:23+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-folk-joan",
+    "fact_key": "music.folk.joan",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welche Sängerin verbindet das Porträt der Rock & Roll Hall of Fame besonders mit der amerikanischen Folkbewegung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Joan Baez"
+      },
+      {
+        "id": "b",
+        "text": "Diana Ross"
+      },
+      {
+        "id": "c",
+        "text": "Donna Summer"
+      },
+      {
+        "id": "d",
+        "text": "Debbie Harry"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Joan Baez wurde mit ihrer Stimme und ihrem politischen Engagement zu einer bekannten Vertreterin der Folkmusik.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · joan-baez",
+        "url": "https://rockhall.com/inductees/joan-baez/",
+        "verified_claim": "Joan Baez wurde mit ihrer Stimme und ihrem politischen Engagement zu einer bekannten Vertreterin der Folkmusik.",
+        "checked_at": "2026-11-20T01:22:26+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-zappa-censorship",
+    "fact_key": "music.zappa.censorship",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Welcher Musiker wandte sich öffentlich gegen die Zensur von Rockmusik und verband Rock, Jazz und klassische Musik?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Frank Zappa"
+      },
+      {
+        "id": "b",
+        "text": "Roy Orbison"
+      },
+      {
+        "id": "c",
+        "text": "Carl Perkins"
+      },
+      {
+        "id": "d",
+        "text": "Hank Williams"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Frank Zappas musikalische Arbeit erstreckte sich über mehrere Genres. Zugleich äußerte er sich öffentlich gegen Zensur.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · frank-zappa",
+        "url": "https://rockhall.com/inductees/frank-zappa/",
+        "verified_claim": "Frank Zappas musikalische Arbeit erstreckte sich über mehrere Genres. Zugleich äußerte er sich öffentlich gegen Zensur.",
+        "checked_at": "2026-11-20T01:22:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-otis-dock",
+    "fact_key": "music.otis.dock",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Soulstimme ist mit „(Sittin’ On) The Dock of the Bay“ verbunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Otis Redding"
+      },
+      {
+        "id": "b",
+        "text": "Ray Charles"
+      },
+      {
+        "id": "c",
+        "text": "James Brown"
+      },
+      {
+        "id": "d",
+        "text": "Marvin Gaye"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Otis Redding begann das Lied tatsächlich am Wasser zu schreiben.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · otis-redding",
+        "url": "https://rockhall.com/inductees/otis-redding/",
+        "verified_claim": "Otis Redding begann das Lied tatsächlich am Wasser zu schreiben.",
+        "checked_at": "2026-11-20T01:22:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-genesis-gabriel",
+    "fact_key": "music.genesis.gabriel",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Band hatte nacheinander Peter Gabriel und Phil Collins als Leadsänger?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Genesis"
+      },
+      {
+        "id": "b",
+        "text": "Yes"
+      },
+      {
+        "id": "c",
+        "text": "Pink Floyd"
+      },
+      {
+        "id": "d",
+        "text": "Supertramp"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Genesis durchlief mit Gabriel und später Collins verschiedene Phasen zwischen Progressive Rock und Pop.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · genesis",
+        "url": "https://rockhall.com/inductees/genesis/",
+        "verified_claim": "Genesis durchlief mit Gabriel und später Collins verschiedene Phasen zwischen Progressive Rock und Pop.",
+        "checked_at": "2026-11-20T01:22:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-donovan-sunshine",
+    "fact_key": "music.donovan.sunshine",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Wer sang den psychedelischen Popklassiker „Sunshine Superman“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Donovan"
+      },
+      {
+        "id": "b",
+        "text": "Cat Stevens"
+      },
+      {
+        "id": "c",
+        "text": "Don McLean"
+      },
+      {
+        "id": "d",
+        "text": "Van Morrison"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Donovan verband in seiner Musik Folk, psychedelische Klänge und östliche Einflüsse.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · donovan",
+        "url": "https://rockhall.com/inductees/donovan/",
+        "verified_claim": "Donovan verband in seiner Musik Folk, psychedelische Klänge und östliche Einflüsse.",
+        "checked_at": "2026-11-20T01:22:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-kraftwerk-founders",
+    "fact_key": "music.kraftwerk.founders",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Mit welcher Band verbindet man Ralf Hütter und Florian Schneider?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kraftwerk"
+      },
+      {
+        "id": "b",
+        "text": "Can"
+      },
+      {
+        "id": "c",
+        "text": "Tangerine Dream"
+      },
+      {
+        "id": "d",
+        "text": "Einstürzende Neubauten"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beide gehören zu den Musikern, die die Rock & Roll Hall of Fame für Kraftwerk aufführt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · kraftwerk",
+        "url": "https://rockhall.com/inductees/kraftwerk/",
+        "verified_claim": "Beide gehören zu den Musikern, die die Rock & Roll Hall of Fame für Kraftwerk aufführt.",
+        "checked_at": "2026-11-20T01:22:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-madonna-virgin",
+    "fact_key": "music.madonna.virgin",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Sängerin machte „Like a Virgin“ zu einem ihrer bekanntesten Popsongs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Madonna"
+      },
+      {
+        "id": "b",
+        "text": "Kylie Minogue"
+      },
+      {
+        "id": "c",
+        "text": "Cyndi Lauper"
+      },
+      {
+        "id": "d",
+        "text": "Cher"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Madonna verband den Titel in ihren Auftritten mit wechselnden Bühnenbildern und Kostümen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · madonna",
+        "url": "https://rockhall.com/inductees/madonna/",
+        "verified_claim": "Madonna verband den Titel in ihren Auftritten mit wechselnden Bühnenbildern und Kostümen.",
+        "checked_at": "2026-11-20T01:22:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-floyd-albums",
+    "fact_key": "music.floyd.albums",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Gruppe veröffentlichte „The Dark Side of the Moon“ und „The Wall“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pink Floyd"
+      },
+      {
+        "id": "b",
+        "text": "Led Zeppelin"
+      },
+      {
+        "id": "c",
+        "text": "Queen"
+      },
+      {
+        "id": "d",
+        "text": "Deep Purple"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Alben erschienen 1973 und 1979 und zählen zu den zentralen Werken von Pink Floyd.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · pink-floyd",
+        "url": "https://rockhall.com/inductees/pink-floyd/",
+        "verified_claim": "Die Alben erschienen 1973 und 1979 und zählen zu den zentralen Werken von Pink Floyd.",
+        "checked_at": "2026-11-20T01:22:20+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-floyd-waters",
+    "fact_key": "music.floyd.waters",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Bei welcher Gruppe spielten Roger Waters und David Gilmour gemeinsam?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pink Floyd"
+      },
+      {
+        "id": "b",
+        "text": "Genesis"
+      },
+      {
+        "id": "c",
+        "text": "The Kinks"
+      },
+      {
+        "id": "d",
+        "text": "Jethro Tull"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beide Musiker gehören zu der in der Rock & Roll Hall of Fame gewürdigten Besetzung von Pink Floyd.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · pink-floyd",
+        "url": "https://rockhall.com/inductees/pink-floyd/",
+        "verified_claim": "Beide Musiker gehören zu der in der Rock & Roll Hall of Fame gewürdigten Besetzung von Pink Floyd.",
+        "checked_at": "2026-11-20T01:22:20+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-prince-purple",
+    "fact_key": "music.prince.purple",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welcher Musiker spielte im Film „Purple Rain“ von 1984 eine Hauptrolle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Prince"
+      },
+      {
+        "id": "b",
+        "text": "Michael Jackson"
+      },
+      {
+        "id": "c",
+        "text": "George Michael"
+      },
+      {
+        "id": "d",
+        "text": "Lionel Richie"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Für diesen Film wurde eine weiße Cloud-Gitarre eigens für Prince gebaut.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · prince",
+        "url": "https://rockhall.com/inductees/prince/",
+        "verified_claim": "Für diesen Film wurde eine weiße Cloud-Gitarre eigens für Prince gebaut.",
+        "checked_at": "2026-11-20T01:22:26+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-ray-genre",
+    "fact_key": "music.ray.genre",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welche beiden Stilrichtungen führte Ray Charles laut seinem Museumsporträt im Soul zusammen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gospel und Blues"
+      },
+      {
+        "id": "b",
+        "text": "Tango und Polka"
+      },
+      {
+        "id": "c",
+        "text": "Ska und Walzer"
+      },
+      {
+        "id": "d",
+        "text": "Techno und Folk"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Rock & Roll Hall of Fame beschreibt diese Verbindung als Kern von Ray Charles’ Soulmusik.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · ray-charles",
+        "url": "https://rockhall.com/inductees/ray-charles/",
+        "verified_claim": "Die Rock & Roll Hall of Fame beschreibt diese Verbindung als Kern von Ray Charles’ Soulmusik.",
+        "checked_at": "2026-11-20T01:22:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-springsteen-usa",
+    "fact_key": "music.springsteen.usa",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer veröffentlichte „Born in the U.S.A.“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bruce Springsteen"
+      },
+      {
+        "id": "b",
+        "text": "Billy Joel"
+      },
+      {
+        "id": "c",
+        "text": "John Mellencamp"
+      },
+      {
+        "id": "d",
+        "text": "Bryan Adams"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Born in the U.S.A.“ gehört zum Repertoire des US-amerikanischen Rockmusikers Bruce Springsteen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · bruce-springsteen",
+        "url": "https://rockhall.com/inductees/bruce-springsteen/",
+        "verified_claim": "„Born in the U.S.A.“ gehört zum Repertoire des US-amerikanischen Rockmusikers Bruce Springsteen.",
+        "checked_at": "2026-11-20T01:22:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-tina-revue",
+    "fact_key": "music.tina.revue",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Mit wem trat Tina Turner vor ihrer erfolgreichen Solokarriere in einer Revue auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ike Turner"
+      },
+      {
+        "id": "b",
+        "text": "Ray Charles"
+      },
+      {
+        "id": "c",
+        "text": "Otis Redding"
+      },
+      {
+        "id": "d",
+        "text": "Sam Cooke"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ihre frühere Formation hieß Ike & Tina Turner Revue. 1976 verließ sie diese Gruppe.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · tina-turner",
+        "url": "https://rockhall.com/inductees/tina-turner/",
+        "verified_claim": "Ihre frühere Formation hieß Ike & Tina Turner Revue. 1976 verließ sie diese Gruppe.",
+        "checked_at": "2026-11-20T01:22:22+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-zeppelin-guitar",
+    "fact_key": "music.zeppelin.guitar",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Wer spielte Gitarre bei Led Zeppelin?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jimmy Page"
+      },
+      {
+        "id": "b",
+        "text": "Brian May"
+      },
+      {
+        "id": "c",
+        "text": "Mark Knopfler"
+      },
+      {
+        "id": "d",
+        "text": "Ritchie Blackmore"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Page war bei Led Zeppelin auch als Produzent tätig.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · led-zeppelin",
+        "url": "https://rockhall.com/inductees/led-zeppelin/",
+        "verified_claim": "Page war bei Led Zeppelin auch als Produzent tätig.",
+        "checked_at": "2026-11-20T01:22:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-zeppelin-stairway",
+    "fact_key": "music.zeppelin.stairway",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Von welcher Band stammt die bekannte Rockaufnahme „Stairway to Heaven“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Led Zeppelin"
+      },
+      {
+        "id": "b",
+        "text": "Deep Purple"
+      },
+      {
+        "id": "c",
+        "text": "Jethro Tull"
+      },
+      {
+        "id": "d",
+        "text": "Yes"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Stairway to Heaven“ gehört zum Werk von Led Zeppelin, die Blues und Folk mit Rock verbanden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · led-zeppelin",
+        "url": "https://rockhall.com/inductees/led-zeppelin/",
+        "verified_claim": "„Stairway to Heaven“ gehört zum Werk von Led Zeppelin, die Blues und Folk mit Rock verbanden.",
+        "checked_at": "2026-11-20T01:22:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-queen-singer",
+    "fact_key": "music.queen.singer",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer war die Stimme von Queen bei „Bohemian Rhapsody“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Freddie Mercury"
+      },
+      {
+        "id": "b",
+        "text": "David Bowie"
+      },
+      {
+        "id": "c",
+        "text": "Robert Plant"
+      },
+      {
+        "id": "d",
+        "text": "Mick Jagger"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mercury verband bei Queen Rockgesang mit einer ausgesprochen theatralischen Bühnenpräsenz.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · Queen",
+        "url": "https://rockhall.com/inductees/queen/",
+        "verified_claim": "Mercury verband bei Queen Rockgesang mit einer ausgesprochen theatralischen Bühnenpräsenz.",
+        "checked_at": "2026-11-20T01:19:21+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-queen-brian",
+    "fact_key": "music.queen.brian",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Zu welcher Band gehörten Brian May und John Deacon?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Queen"
+      },
+      {
+        "id": "b",
+        "text": "The Who"
+      },
+      {
+        "id": "c",
+        "text": "Black Sabbath"
+      },
+      {
+        "id": "d",
+        "text": "Status Quo"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Rock & Roll Hall of Fame nennt beide zusammen mit Freddie Mercury und Roger Taylor als Mitglieder von Queen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · Queen",
+        "url": "https://rockhall.com/inductees/queen/",
+        "verified_claim": "Die Rock & Roll Hall of Fame nennt beide zusammen mit Freddie Mercury und Roger Taylor als Mitglieder von Queen.",
+        "checked_at": "2026-11-20T01:19:21+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-beatles-blackbird",
+    "fact_key": "music.beatles.blackbird",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welche Gruppe veröffentlichte 1968 „Blackbird“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Beatles"
+      },
+      {
+        "id": "b",
+        "text": "The Kinks"
+      },
+      {
+        "id": "c",
+        "text": "The Hollies"
+      },
+      {
+        "id": "d",
+        "text": "The Animals"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das offizielle Songverzeichnis der Beatles datiert diese Aufnahme auf den 22. November 1968.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "The Beatles · Aufnahmen",
+        "url": "https://www.thebeatles.com/songs",
+        "verified_claim": "Das offizielle Songverzeichnis der Beatles datiert diese Aufnahme auf den 22. November 1968.",
+        "checked_at": "2026-11-20T01:19:21+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-beatles-love",
+    "fact_key": "music.beatles.love",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer nahm 1964 „Can’t Buy Me Love“ auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Beatles"
+      },
+      {
+        "id": "b",
+        "text": "The Beach Boys"
+      },
+      {
+        "id": "c",
+        "text": "The Byrds"
+      },
+      {
+        "id": "d",
+        "text": "The Doors"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Lied ist im offiziellen Verzeichnis der Beatles unter den Aufnahmen von 1964 verzeichnet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "The Beatles · Aufnahmen",
+        "url": "https://www.thebeatles.com/songs",
+        "verified_claim": "Das Lied ist im offiziellen Verzeichnis der Beatles unter den Aufnahmen von 1964 verzeichnet.",
+        "checked_at": "2026-11-20T01:19:21+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-lennon-group",
+    "fact_key": "music.lennon.group",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Zu welcher Gruppe gehörte John Lennon vor seiner Solokarriere?",
+    "options": [
+      {
+        "id": "a",
+        "text": "The Beatles"
+      },
+      {
+        "id": "b",
+        "text": "The Rolling Stones"
+      },
+      {
+        "id": "c",
+        "text": "The Searchers"
+      },
+      {
+        "id": "d",
+        "text": "The Hollies"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nach der Auflösung der Beatles arbeitete Lennon als Solokünstler und engagierte sich für den Frieden.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1980",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1980.html",
+        "verified_claim": "Nach der Auflösung der Beatles arbeitete Lennon als Solokünstler und engagierte sich für den Frieden.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-elvis-memphis",
+    "fact_key": "music.elvis.memphis",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "In welcher amerikanischen Stadt starb Elvis Presley 1977?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Memphis"
+      },
+      {
+        "id": "b",
+        "text": "Nashville"
+      },
+      {
+        "id": "c",
+        "text": "New Orleans"
+      },
+      {
+        "id": "d",
+        "text": "Detroit"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Presley starb im August 1977 in Memphis im Bundesstaat Tennessee.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1977",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1977.html",
+        "verified_claim": "Presley starb im August 1977 in Memphis im Bundesstaat Tennessee.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-guildo-band",
+    "fact_key": "music.guildo.band",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Wie hieß die Begleitband von Guildo Horn beim deutschen ESC-Vorentscheid 1998?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Orthopädischen Strümpfe"
+      },
+      {
+        "id": "b",
+        "text": "Die Prinzen"
+      },
+      {
+        "id": "c",
+        "text": "Die fantastischen Vier"
+      },
+      {
+        "id": "d",
+        "text": "Die Toten Hosen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Guildo Horn gewann mit seiner Band den Vorentscheid. Beim internationalen Wettbewerb wurde er Siebter.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1998",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1998.html",
+        "verified_claim": "Guildo Horn gewann mit seiner Band den Vorentscheid. Beim internationalen Wettbewerb wurde er Siebter.",
+        "checked_at": "2026-11-20T01:11:37+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-freddy-bundesrepublik",
+    "fact_key": "music.freddy.bundesrepublik",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Welcher Schlagersänger erhielt 1967 in West-Berlin seine zehnte Goldene Schallplatte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Freddy Quinn"
+      },
+      {
+        "id": "b",
+        "text": "Tony Marshall"
+      },
+      {
+        "id": "c",
+        "text": "Guildo Horn"
+      },
+      {
+        "id": "d",
+        "text": "Howard Carpendale"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Auszeichnung würdigte den Verkaufserfolg der Aufnahmen von Freddy Quinn.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1967",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1967.html",
+        "verified_claim": "Die Auszeichnung würdigte den Verkaufserfolg der Aufnahmen von Freddy Quinn.",
+        "checked_at": "2026-11-20T01:11:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-philharmonie-architekt",
+    "fact_key": "music.philharmonie.architekt",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Wer entwarf die 1963 eingeweihte Berliner Philharmonie?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hans Scharoun"
+      },
+      {
+        "id": "b",
+        "text": "Walter Gropius"
+      },
+      {
+        "id": "c",
+        "text": "Friedensreich Hundertwasser"
+      },
+      {
+        "id": "d",
+        "text": "Le Corbusier"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Konzertsaal in West-Berlin wurde im Oktober 1963 eingeweiht.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1963",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1963.html",
+        "verified_claim": "Der Konzertsaal in West-Berlin wurde im Oktober 1963 eingeweiht.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-beatles-order",
+    "fact_key": "music.beatles.order",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welche Monarchin verlieh den Beatles 1965 einen britischen Orden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Elisabeth II."
+      },
+      {
+        "id": "b",
+        "text": "Victoria"
+      },
+      {
+        "id": "c",
+        "text": "Juliana"
+      },
+      {
+        "id": "d",
+        "text": "Margrethe II."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Beatles erhielten die Auszeichnung des Order of the British Empire.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1965",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1965.html",
+        "verified_claim": "Die Beatles erhielten die Auszeichnung des Order of the British Empire.",
+        "checked_at": "2026-11-20T01:11:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-music-berlin-philharmoniker-1989",
+    "fact_key": "music.berlin.philharmoniker.1989",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Welches Orchester spielte 1989 erstmals seit dem Mauerbau wieder in Ost-Berlin?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Berliner Philharmoniker"
+      },
+      {
+        "id": "b",
+        "text": "Wiener Philharmoniker"
+      },
+      {
+        "id": "c",
+        "text": "Gewandhausorchester Leipzig"
+      },
+      {
+        "id": "d",
+        "text": "London Symphony Orchestra"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Konzert der Berliner Philharmoniker fand noch vor der Öffnung der Grenze statt.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1989",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1989.html",
+        "verified_claim": "Das Konzert der Berliner Philharmoniker fand noch vor der Öffnung der Grenze statt.",
+        "checked_at": "2026-11-20T01:11:35+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

@@ -1,4 +1,229 @@
 {
-  "catalog": "de-706c8536b697",
-  "candidates": []
+  "catalog": "de-7363fcba52a1",
+  "candidates": [
+    {
+      "a": "k-academy-1995-hl",
+      "b": "k-academy-1994-hl",
+      "solution": "tom hanks",
+      "questions": [
+        "Wer gewann für „Forrest Gump“ den Oscar als bester Hauptdarsteller?",
+        "Wer gewann für „Philadelphia“ den Oscar als bester Hauptdarsteller?"
+      ],
+      "overlap": [
+        "bester",
+        "gewann",
+        "hauptdarsteller",
+        "oscar"
+      ]
+    },
+    {
+      "a": "qs-fr-telefonvorwahl",
+      "b": "qs-fr-laenderdomain",
+      "solution": "frankreich",
+      "questions": [
+        "Zu welchem Land gehört die internationale Telefonvorwahl +33 (Stand November 2026)?",
+        "Welchem Land ist die Internet-Länderendung .fr zugeteilt (Stand November 2026)?"
+      ],
+      "overlap": [
+        "2026",
+        "land",
+        "november",
+        "stand"
+      ]
+    },
+    {
+      "a": "k-cldr-en-field-year",
+      "b": "k-cldr-da-field-year",
+      "solution": "jahr",
+      "questions": [
+        "Welche Zeiteinheit bezeichnet „year“ im Englischen?",
+        "Welche Zeiteinheit bezeichnet „år“ im Dänischen?"
+      ],
+      "overlap": [
+        "bezeichnet",
+        "zeiteinheit"
+      ]
+    },
+    {
+      "a": "qs-ch-telefonvorwahl",
+      "b": "qs-ch-laenderdomain",
+      "solution": "schweiz",
+      "questions": [
+        "Zu welchem Land gehört die internationale Telefonvorwahl +41 (Stand November 2026)?",
+        "Welchem Land ist die Internet-Länderendung .ch zugeteilt (Stand November 2026)?"
+      ],
+      "overlap": [
+        "2026",
+        "land",
+        "november",
+        "stand"
+      ]
+    },
+    {
+      "a": "k-cldr-fr-territory-de",
+      "b": "k-cldr-es-territory-de",
+      "solution": "deutschland",
+      "questions": [
+        "Welches Land heißt im Französischen „Allemagne“?",
+        "Welches Land heißt im Spanischen „Alemania“?"
+      ],
+      "overlap": [
+        "heisst",
+        "land"
+      ]
+    },
+    {
+      "a": "k-cldr-pl-territory-de",
+      "b": "k-cldr-es-territory-de",
+      "solution": "deutschland",
+      "questions": [
+        "Welches Land heißt im Polnischen „Niemcy“?",
+        "Welches Land heißt im Spanischen „Alemania“?"
+      ],
+      "overlap": [
+        "heisst",
+        "land"
+      ]
+    },
+    {
+      "a": "k-cldr-pl-territory-de",
+      "b": "k-cldr-fr-territory-de",
+      "solution": "deutschland",
+      "questions": [
+        "Welches Land heißt im Polnischen „Niemcy“?",
+        "Welches Land heißt im Französischen „Allemagne“?"
+      ],
+      "overlap": [
+        "heisst",
+        "land"
+      ]
+    },
+    {
+      "a": "qs-de-telefonvorwahl",
+      "b": "qs-de-laenderdomain",
+      "solution": "deutschland",
+      "questions": [
+        "Zu welchem Land gehört die internationale Telefonvorwahl +49 (Stand November 2026)?",
+        "Welchem Land ist die Internet-Länderendung .de zugeteilt (Stand November 2026)?"
+      ],
+      "overlap": [
+        "2026",
+        "land",
+        "november",
+        "stand"
+      ]
+    },
+    {
+      "a": "k-cldr-tr-field-month",
+      "b": "k-cldr-fr-field-month",
+      "solution": "monat",
+      "questions": [
+        "Welche Zeiteinheit bezeichnet „ay“ im Türkischen?",
+        "Welche Zeiteinheit bezeichnet „mois“ im Französischen?"
+      ],
+      "overlap": [
+        "bezeichnet",
+        "zeiteinheit"
+      ]
+    },
+    {
+      "a": "k-cldr-nl-field-week",
+      "b": "k-cldr-it-field-week",
+      "solution": "woche",
+      "questions": [
+        "Welche Zeiteinheit bezeichnet „week“ im Niederländischen?",
+        "Welche Zeiteinheit bezeichnet „settimana“ im Italienischen?"
+      ],
+      "overlap": [
+        "bezeichnet",
+        "zeiteinheit"
+      ]
+    },
+    {
+      "a": "qs-at-telefonvorwahl",
+      "b": "qs-at-laenderdomain",
+      "solution": "österreich",
+      "questions": [
+        "Zu welchem Land gehört die internationale Telefonvorwahl +43 (Stand November 2026)?",
+        "Welchem Land ist die Internet-Länderendung .at zugeteilt (Stand November 2026)?"
+      ],
+      "overlap": [
+        "2026",
+        "land",
+        "november",
+        "stand"
+      ]
+    },
+    {
+      "a": "k-italian-sunday",
+      "b": "k-cldr-nl-day-sun",
+      "solution": "sonntag",
+      "questions": [
+        "Welcher Wochentag heißt auf Italienisch „domenica“?",
+        "Welcher Wochentag heißt im Niederländischen „zondag“?"
+      ],
+      "overlap": [
+        "heisst",
+        "wochentag"
+      ]
+    },
+    {
+      "a": "qs-brasilia-planstadt",
+      "b": "qs-br-hauptstadt",
+      "solution": "brasília",
+      "questions": [
+        "Welche südamerikanische Hauptstadt entstand im Landesinneren als geplante neue Stadt?",
+        "Welche Stadt ist in Brasilien die Hauptstadt?"
+      ],
+      "overlap": [
+        "hauptstadt",
+        "stadt"
+      ]
+    },
+    {
+      "a": "qs-gb-telefonvorwahl",
+      "b": "qs-gb-laenderdomain",
+      "solution": "vereinigtes königreich",
+      "questions": [
+        "Zu welchem Land gehört die internationale Telefonvorwahl +44 (Stand November 2026)?",
+        "Welchem Land ist die Internet-Länderendung .uk zugeteilt (Stand November 2026)?"
+      ],
+      "overlap": [
+        "2026",
+        "land",
+        "november",
+        "stand"
+      ]
+    },
+    {
+      "a": "qs-it-telefonvorwahl",
+      "b": "qs-it-laenderdomain",
+      "solution": "italien",
+      "questions": [
+        "Zu welchem Land gehört die internationale Telefonvorwahl +39 (Stand November 2026)?",
+        "Welchem Land ist die Internet-Länderendung .it zugeteilt (Stand November 2026)?"
+      ],
+      "overlap": [
+        "2026",
+        "land",
+        "november",
+        "stand"
+      ]
+    },
+    {
+      "a": "qs-mg-weltregion",
+      "b": "qs-lemuren-madagaskar",
+      "solution": [
+        "afrika",
+        "madagaskar"
+      ],
+      "questions": [
+        "Zu welchem Erdteil gehört Madagaskar?",
+        "Auf welcher großen Insel vor Afrika leben zahlreiche Lemurenarten?"
+      ],
+      "overlap": [
+        "wechselseitiger Lösungsbezug"
+      ]
+    }
+  ]
 }

@@ -1,0 +1,5 @@
+<full-backup-content>
+    <include domain="database" path="game.db"/>
+    <include domain="database" path="game.db-journal"/>
+    <include domain="sharedpref" path="reminders.xml"/>
+</full-backup-content>

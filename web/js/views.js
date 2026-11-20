@@ -42,7 +42,7 @@ function weekContent(state, day) {
   }).join('');
   const count = Math.min(days.length, RULES.progress.week_goal);
   return '<div class="panel-line"><h3>Wochenziel</h3><span class="mini-count">' + count + ' / ' + RULES.progress.week_goal +
-    '</span></div><p class="quiet">An vier Tagen eine Tagesrunde spielen.</p><ul class="week" aria-label="Aktivität dieser Woche">' + marks + '</ul>';
+    '</span></div><p class="quiet">An vier Tagen die Tagesrunde abschließen.</p><ul class="week" aria-label="Aktivität dieser Woche">' + marks + '</ul>';
 }
 function levelContent(state) {
   const {xp, level, floor, next} = experience(state);
@@ -111,7 +111,7 @@ export function quizPage({state, session: s, day}) {
     '<div class="two-col"><section class="paper question-card"><div class="question-meta">' + pill(q.category) +
     '<span class="position" id="position">' + count + '</span></div><div class="segments" aria-hidden="true">' + segments + '</div>' + body +
     (finished ? '<div class="question-actions">' + action('next',pos === s.items.length - 1 ? 'Ergebnis ansehen' : 'Nächste Frage','primary','data-pos="' + pos + '"') + '</div>' : '') +
-    '<div class="question-foot">' + (finished ? action('source',icon('book') + 'Quellen','text-btn') : '<span>' + icon('list') + 'Eine Antwort auswählen</span>') +
+    '<div class="question-foot">' + (finished ? action('source',icon('book') + 'Quellen','text-btn') : '<span>' + (item.kind === 'new' ? icon('list') + 'Eine Antwort auswählen' : icon('replay') + 'Wiederholungsfrage') + '</span>') +
     action('report',icon('flag') + 'Frage melden','text-btn') + '</div></section>' + sidePanel(state,day) + '</div>';
 }
 export function resultPage({state, session:s, day}) {
@@ -140,7 +140,7 @@ export function topicsPage({state, billing}) {
       icon(id) + '</span><span class="topic-label"><strong>' + esc(title) + '</strong><small>' + status + '</small></span></button>';
   }).join('');
   return heading('Themenrunden','Deine Themen',action('plus',icon('spark') + esc(billing.label),'quiet-btn'),'topics') +
-    '<p class="intro">Wähle ein Thema. Die erste Kennenlernrunde jeder Kategorie ist kostenlos.</p>' +
+    '<p class="intro">' + (billing.allowed ? 'Wähle ein Thema und die Schwierigkeit für deine nächste Runde.' : 'Wähle ein Thema. Die erste Kennenlernrunde jeder Kategorie ist kostenlos.') + '</p>' +
     (open ? '<section class="paper section-card"><h2>Offene Themenrunde</h2>' + historyRow(open) + '</section>' : '') +
     '<div class="topic-grid">' + cards + '</div>';
 }
@@ -156,10 +156,21 @@ export function knowledgePage({state,catalog,day,tab,filter}) {
       '<div class="history-item">' + historyRow(s) + (s.status === 'active' ? action('abandon','Runde aufgeben','text-btn','data-id="' + esc(s.id) + '"') : '') + '</div>'
     ).join('') : '<p>Noch keine gespielte Runde.</p>');
   } else if (tab === 'stats') {
+    const {level} = experience(state), thresholds = RULES.progress.levels;
+    const steps = Array.from({length:Math.max(thresholds.length,level + 1)},(_,i) => {
+      const needed = thresholds[i] ?? thresholds.at(-1) + (i - thresholds.length + 1) * RULES.progress.later_level_step;
+      return '<li><span>Stufe ' + (i + 1) + '</span><span>' + needed + ' XP' +
+        (i < level ? ' · erreicht' : '') + '</span></li>';
+    }).join('');
     panel = '<h2>Deine Antworten</h2><dl class="stat-list"><div><dt>Erstversuche</dt><dd>' + stats.first.hits + ' von ' + stats.first.total +
       ' richtig</dd></div><div><dt>Wiederholungen</dt><dd>' + stats.repeat.hits + ' von ' + stats.repeat.total +
       ' richtig</dd></div><div><dt>Sicher gewusst</dt><dd>' + Object.keys(state.awards).length + ' Auszeichnungen</dd></div></dl>' +
-      '<p class="quiet">„Sicher gewusst“ erhältst du für zwei richtige Antworten auf dieselbe Frage mit mindestens drei Tagen Abstand.</p>';
+      '<p class="quiet">„Sicher gewusst“ erhältst du für zwei richtige Antworten auf dieselbe Frage mit mindestens drei Tagen Abstand.</p>' +
+      '<details class="rules-detail"><summary><strong>Erfahrungsstufen und Medaillen</strong>' + icon('down') +
+      '</summary><p>Eine abgeschlossene Tagesrunde bringt 20 XP und jede richtige Antwort weitere 10 XP. Themenrunden entwickeln dein Album weiter.</p>' +
+      '<ul class="level-list">' + steps + '</ul><p>Ab acht gültigen Fragen gibt es Bronze für mindestens 50 Prozent richtige Antworten, Silber für 70 und Gold für 90 Prozent.</p></details>' +
+      '<details class="rules-detail"><summary><strong>Wie entsteht „Wiedergewusst“?</strong>' + icon('down') +
+      '</summary><p>War deine letzte Antwort auf eine Frage falsch und erinnerst du dich mindestens drei Kalendertage später richtig, erscheint „Wiedergewusst“.</p></details>';
   } else {
     const filtered = cards.filter(c => filter === 'all' || (filter === 'mastered' ? c.mastered : c.category === filter));
     panel = '<div class="panel-line"><h2>Wissensalbum</h2><span class="mini-count">' + cards.length + (cards.length === 1 ? ' Karte' : ' Karten') +
@@ -169,14 +180,14 @@ export function knowledgePage({state,catalog,day,tab,filter}) {
         '<option value="' + id + '"' + (id===filter?' selected':'') + '>' + esc(name) + '</option>').join('') + '</select></label>';
     }
     panel += filtered.length ? filtered.map(c => '<details class="album-item"><summary><span><small>' + esc(nameOf(c.category)) +
-      (c.mastered ? (c.corrected ? ' · Auszeichnung aus früherer Fassung' : ' · Sicher gewusst') : '') + (c.corrected ? ' · Korrektur' : '') + '</small><strong>' +
+      (c.q?.tags.includes('damals_und_heute') ? ' · Damals und heute' : '') + (c.mastered ? (c.corrected ? ' · Auszeichnung aus früherer Fassung' : ' · Sicher gewusst') : '') + (c.corrected ? ' · Korrektur' : '') + '</small><strong>' +
       esc(c.q?.question || 'Diese Erklärung wird überprüft.') + '</strong></span>' + icon('down') +
       '</summary>' + (c.q ? '<p><b>' + esc(c.q.options.find(o => o.id === c.q.correct_option_id)?.text) + '</b></p><p>' +
         esc(c.q.explanation) + '</p>' + sourceLinks(c.q) : '<p>Eine geprüfte neue Erklärung liegt noch nicht vor.</p>') + '</details>').join('') :
       '<div class="empty">' + icon('book') + '<p>' + (cards.length ? 'Hier gibt es noch keine passenden Karten.' : 'Nach deiner ersten Antwort erscheint hier die erste Karte.') + '</p></div>';
   }
-  return heading('Deine Sammlung','Mein Wissen','','book') + '<div class="subtabs" aria-label="Ansichten in Mein Wissen">' + tabs +
-    '</div><div class="two-col"><section class="paper section-card">' + panel + '</section>' + sidePanel(state,day) + '</div>';
+  return heading('Deine Sammlung','Mein Wissen','','book') + '<nav class="subtabs" aria-label="Ansichten in Mein Wissen">' + tabs +
+    '</nav><div class="two-col"><section class="paper section-card">' + panel + '</section>' + sidePanel(state,day) + '</div>';
 }
 export function sourceLinks(q) {
   return '<ul class="sources">' + q.sources.map(s => '<li><a href="' + esc(s.url) + '" target="_blank" rel="noopener noreferrer">' + esc(s.title) + '</a></li>').join('') + '</ul>';

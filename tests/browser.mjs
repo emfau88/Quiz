@@ -34,7 +34,13 @@ async function read(p=page, scope='quizsalon') {
 }
 async function check(label,rule){await rule();log.push(label);console.log('OK '+label);}
 async function waitFor(selector){await page.locator(selector).first().waitFor({state:'visible'});}
-async function click(selector){await page.locator(selector).filter({visible:true}).first().click();}
+async function click(selector){
+  const link=page.locator(selector).filter({visible:true}).first();
+  const navigation=await link.getAttribute('data-nav');
+  await link.click();
+  const target={today:'.cover',topics:'.topic-grid',knowledge:'.subtabs',settings:'.settings-grid'}[navigation];
+  if(target)await waitFor(target);
+}
 async function shot(name){await page.evaluate(()=>document.fonts.ready);await page.screenshot({path:path.join(out,name+'.png')});}
 const daily=state=>Object.values(state.sessions).find(s=>s.mode==='daily');
 async function respond(index, correct) {
@@ -94,7 +100,7 @@ try {
   });
   await check('Computervergleich über die Einstellungen abschaltbar, echte Albumkarten',async()=>{
     await click('[data-nav=settings]');await page.locator('input[data-setting=comparison]').uncheck();await click('[data-nav=today]');
-    await click('[data-action=daily]');assert.equal(await page.locator('details.virtual').count(),0);
+    await click('[data-action=daily]');await waitFor('.score');assert.equal(await page.locator('details.virtual').count(),0);
     await click('[data-nav=knowledge]');await waitFor('.album-item');assert.equal(await page.locator('.album-item').count(),10);await shot('05-Wissensalbum');
   });
   await click('[data-nav=topics]');await waitFor('.topic-card');await shot('06-Themen');

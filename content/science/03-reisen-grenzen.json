@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "qs-de-pl-landgrenze",
+    "fact_key": "de-pl-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welches Land grenzt auf dem Landweg an Deutschland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Polen"
+      },
+      {
+        "id": "b",
+        "text": "Norwegen"
+      },
+      {
+        "id": "c",
+        "text": "Italien"
+      },
+      {
+        "id": "d",
+        "text": "Spanien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Deutschland und Polen verläuft eine Landgrenze. Beide Länder grenzen außerdem an Tschechien.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Deutschland und Polen verläuft eine Landgrenze. Beide Länder grenzen außerdem an Tschechien.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-at-it-landgrenze",
+    "fact_key": "at-it-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Mit welchem dieser Länder teilt Italien eine Landgrenze?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Österreich"
+      },
+      {
+        "id": "b",
+        "text": "Deutschland"
+      },
+      {
+        "id": "c",
+        "text": "Spanien"
+      },
+      {
+        "id": "d",
+        "text": "Kroatien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Italien und Österreich verläuft eine Landgrenze. Beide Länder grenzen außerdem an Slowenien.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Italien und Österreich verläuft eine Landgrenze. Beide Länder grenzen außerdem an Slowenien.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-es-pt-landgrenze",
+    "fact_key": "es-pt-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Aus welchem dieser Länder kannst du direkt über eine Landgrenze nach Portugal reisen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spanien"
+      },
+      {
+        "id": "b",
+        "text": "Frankreich"
+      },
+      {
+        "id": "c",
+        "text": "Italien"
+      },
+      {
+        "id": "d",
+        "text": "Marokko"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Portugal und Spanien verläuft eine Landgrenze. Spanien ist der einzige Landnachbar Portugals.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Portugal und Spanien verläuft eine Landgrenze. Spanien ist der einzige Landnachbar Portugals.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-de-dk-landgrenze",
+    "fact_key": "de-dk-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Mit welchem der folgenden Länder hat das dänische Festland eine Landgrenze?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deutschland"
+      },
+      {
+        "id": "b",
+        "text": "Schweden"
+      },
+      {
+        "id": "c",
+        "text": "Norwegen"
+      },
+      {
+        "id": "d",
+        "text": "Niederlande"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Dänemark und Deutschland verläuft eine Landgrenze. Kopenhagen und Berlin sind die Hauptstädte der beiden Nachbarländer.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Dänemark und Deutschland verläuft eine Landgrenze. Kopenhagen und Berlin sind die Hauptstädte der beiden Nachbarländer.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gb-ie-landgrenze",
+    "fact_key": "gb-ie-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Mit welchem dieser Länder teilt Irland eine Landgrenze?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vereinigtes Königreich"
+      },
+      {
+        "id": "b",
+        "text": "Norwegen"
+      },
+      {
+        "id": "c",
+        "text": "Island"
+      },
+      {
+        "id": "d",
+        "text": "Dänemark"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Irland und dem Vereinigten Königreich verläuft eine gemeinsame Landgrenze. Die Republik Irland mit der Hauptstadt Dublin hat nur diesen einen Landnachbarn.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Irland und dem Vereinigten Königreich verläuft eine gemeinsame Landgrenze. Die Republik Irland mit der Hauptstadt Dublin hat nur diesen einen Landnachbarn.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-br-uy-landgrenze",
+    "fact_key": "br-uy-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Aus welchem dieser Länder kannst du direkt über eine Landgrenze nach Uruguay reisen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Brasilien"
+      },
+      {
+        "id": "b",
+        "text": "Chile"
+      },
+      {
+        "id": "c",
+        "text": "Peru"
+      },
+      {
+        "id": "d",
+        "text": "Kolumbien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Uruguay und Brasilien verläuft eine Landgrenze. Beide Länder grenzen außerdem an Argentinien.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Uruguay und Brasilien verläuft eine Landgrenze. Beide Länder grenzen außerdem an Argentinien.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-cn-np-landgrenze",
+    "fact_key": "cn-np-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welches Land grenzt auf dem Landweg an Nepal?",
+    "options": [
+      {
+        "id": "a",
+        "text": "China"
+      },
+      {
+        "id": "b",
+        "text": "Thailand"
+      },
+      {
+        "id": "c",
+        "text": "Japan"
+      },
+      {
+        "id": "d",
+        "text": "Myanmar"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Nepal und China verläuft eine Landgrenze. Beide Länder grenzen außerdem an Indien.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Nepal und China verläuft eine Landgrenze. Beide Länder grenzen außerdem an Indien.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kh-vn-landgrenze",
+    "fact_key": "kh-vn-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Mit welchem dieser Länder teilt Kambodscha eine Landgrenze?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vietnam"
+      },
+      {
+        "id": "b",
+        "text": "Malaysia"
+      },
+      {
+        "id": "c",
+        "text": "Bangladesch"
+      },
+      {
+        "id": "d",
+        "text": "Indien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Kambodscha und Vietnam verläuft eine Landgrenze. Beide Länder grenzen außerdem an Laos.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Kambodscha und Vietnam verläuft eine Landgrenze. Beide Länder grenzen außerdem an Laos.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gt-mx-landgrenze",
+    "fact_key": "gt-mx-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Aus welchem dieser Länder kannst du direkt über eine Landgrenze nach Mexiko reisen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Guatemala"
+      },
+      {
+        "id": "b",
+        "text": "Costa Rica"
+      },
+      {
+        "id": "c",
+        "text": "Panama"
+      },
+      {
+        "id": "d",
+        "text": "Kolumbien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Mexiko und Guatemala verläuft eine Landgrenze. Beide Länder grenzen außerdem an Belize.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Mexiko und Guatemala verläuft eine Landgrenze. Beide Länder grenzen außerdem an Belize.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-co-pa-landgrenze",
+    "fact_key": "co-pa-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welches Land grenzt auf dem Landweg an Panama?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kolumbien"
+      },
+      {
+        "id": "b",
+        "text": "Venezuela"
+      },
+      {
+        "id": "c",
+        "text": "Paraguay"
+      },
+      {
+        "id": "d",
+        "text": "Ecuador"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Panama und Kolumbien verläuft eine Landgrenze. Der zweite Landnachbar Panamas ist Costa Rica.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Panama und Kolumbien verläuft eine Landgrenze. Der zweite Landnachbar Panamas ist Costa Rica.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-fi-se-landgrenze",
+    "fact_key": "fi-se-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Mit welchem dieser Länder teilt Finnland eine Landgrenze?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schweden"
+      },
+      {
+        "id": "b",
+        "text": "Dänemark"
+      },
+      {
+        "id": "c",
+        "text": "Deutschland"
+      },
+      {
+        "id": "d",
+        "text": "Estland"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Finnland und Schweden verläuft eine Landgrenze. Beide Länder grenzen außerdem an Norwegen.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Finnland und Schweden verläuft eine Landgrenze. Beide Länder grenzen außerdem an Norwegen.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-fi-no-landgrenze",
+    "fact_key": "fi-no-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Aus welchem dieser Länder kannst du direkt über eine Landgrenze nach Norwegen reisen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Finnland"
+      },
+      {
+        "id": "b",
+        "text": "Island"
+      },
+      {
+        "id": "c",
+        "text": "Litauen"
+      },
+      {
+        "id": "d",
+        "text": "Polen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Norwegen und Finnland verläuft eine Landgrenze. Beide Länder grenzen außerdem an Schweden.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Norwegen und Finnland verläuft eine Landgrenze. Beide Länder grenzen außerdem an Schweden.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ee-lv-landgrenze",
+    "fact_key": "ee-lv-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welches Land grenzt auf dem Landweg an Estland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lettland"
+      },
+      {
+        "id": "b",
+        "text": "Litauen"
+      },
+      {
+        "id": "c",
+        "text": "Finnland"
+      },
+      {
+        "id": "d",
+        "text": "Schweden"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Estland und Lettland verläuft eine Landgrenze. Beide Länder grenzen außerdem an Russland.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Estland und Lettland verläuft eine Landgrenze. Beide Länder grenzen außerdem an Russland.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-lt-pl-landgrenze",
+    "fact_key": "lt-pl-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Mit welchem dieser Länder teilt Litauen eine Landgrenze?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Polen"
+      },
+      {
+        "id": "b",
+        "text": "Finnland"
+      },
+      {
+        "id": "c",
+        "text": "Schweden"
+      },
+      {
+        "id": "d",
+        "text": "Dänemark"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Litauen und Polen verläuft eine Landgrenze. Beide Länder grenzen außerdem an Belarus.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Litauen und Polen verläuft eine Landgrenze. Beide Länder grenzen außerdem an Belarus.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-it-si-landgrenze",
+    "fact_key": "it-si-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Aus welchem dieser Länder kannst du direkt über eine Landgrenze nach Slowenien reisen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Italien"
+      },
+      {
+        "id": "b",
+        "text": "Slowakei"
+      },
+      {
+        "id": "c",
+        "text": "Schweiz"
+      },
+      {
+        "id": "d",
+        "text": "Rumänien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Slowenien und Italien verläuft eine Landgrenze. Beide Länder grenzen außerdem an Österreich.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Slowenien und Italien verläuft eine Landgrenze. Beide Länder grenzen außerdem an Österreich.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-at-hu-landgrenze",
+    "fact_key": "at-hu-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welches Land grenzt auf dem Landweg an Österreich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ungarn"
+      },
+      {
+        "id": "b",
+        "text": "Polen"
+      },
+      {
+        "id": "c",
+        "text": "Rumänien"
+      },
+      {
+        "id": "d",
+        "text": "Kroatien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Österreich und Ungarn verläuft eine Landgrenze. Beide Länder grenzen außerdem an die Slowakei.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Österreich und Ungarn verläuft eine Landgrenze. Beide Länder grenzen außerdem an die Slowakei.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-bg-ro-landgrenze",
+    "fact_key": "bg-ro-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Mit welchem dieser Länder teilt Rumänien eine Landgrenze?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bulgarien"
+      },
+      {
+        "id": "b",
+        "text": "Griechenland"
+      },
+      {
+        "id": "c",
+        "text": "Türkei"
+      },
+      {
+        "id": "d",
+        "text": "Polen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Rumänien und Bulgarien verläuft eine Landgrenze. Beide Länder grenzen außerdem an Serbien.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Rumänien und Bulgarien verläuft eine Landgrenze. Beide Länder grenzen außerdem an Serbien.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gr-tr-landgrenze",
+    "fact_key": "gr-tr-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Aus welchem dieser Länder kannst du direkt über eine Landgrenze nach Griechenland reisen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Türkei"
+      },
+      {
+        "id": "b",
+        "text": "Italien"
+      },
+      {
+        "id": "c",
+        "text": "Ägypten"
+      },
+      {
+        "id": "d",
+        "text": "Zypern"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Griechenland und der Türkei verläuft eine Landgrenze. Beide Länder grenzen außerdem an Bulgarien.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Griechenland und der Türkei verläuft eine Landgrenze. Beide Länder grenzen außerdem an Bulgarien.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-dz-tn-landgrenze",
+    "fact_key": "dz-tn-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welches Land grenzt auf dem Landweg an Algerien?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tunesien"
+      },
+      {
+        "id": "b",
+        "text": "Ägypten"
+      },
+      {
+        "id": "c",
+        "text": "Sudan"
+      },
+      {
+        "id": "d",
+        "text": "Spanien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Algerien und Tunesien verläuft eine Landgrenze. Beide Länder grenzen außerdem an Libyen.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Algerien und Tunesien verläuft eine Landgrenze. Beide Länder grenzen außerdem an Libyen.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ne-ng-landgrenze",
+    "fact_key": "ne-ng-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Mit welchem dieser Länder teilt Nigeria eine Landgrenze?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Niger"
+      },
+      {
+        "id": "b",
+        "text": "Mali"
+      },
+      {
+        "id": "c",
+        "text": "Ghana"
+      },
+      {
+        "id": "d",
+        "text": "Senegal"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Nigeria und Niger verläuft eine Landgrenze. Beide Länder grenzen außerdem an den Tschad.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Nigeria und Niger verläuft eine Landgrenze. Beide Länder grenzen außerdem an den Tschad.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-za-zw-landgrenze",
+    "fact_key": "za-zw-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Aus welchem dieser Länder kannst du direkt über eine Landgrenze nach Simbabwe reisen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Südafrika"
+      },
+      {
+        "id": "b",
+        "text": "Kenia"
+      },
+      {
+        "id": "c",
+        "text": "Tansania"
+      },
+      {
+        "id": "d",
+        "text": "Ruanda"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Simbabwe und Südafrika verläuft eine Landgrenze. Beide Länder grenzen außerdem an Botsuana.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Simbabwe und Südafrika verläuft eine Landgrenze. Beide Länder grenzen außerdem an Botsuana.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-et-ke-landgrenze",
+    "fact_key": "et-ke-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welches Land grenzt auf dem Landweg an Äthiopien?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kenia"
+      },
+      {
+        "id": "b",
+        "text": "Ägypten"
+      },
+      {
+        "id": "c",
+        "text": "Nigeria"
+      },
+      {
+        "id": "d",
+        "text": "Ghana"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Äthiopien und Kenia verläuft eine Landgrenze. Beide Länder grenzen außerdem an den Südsudan.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Äthiopien und Kenia verläuft eine Landgrenze. Beide Länder grenzen außerdem an den Südsudan.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ar-cl-landgrenze",
+    "fact_key": "ar-cl-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Mit welchem dieser Länder teilt Chile eine Landgrenze?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Argentinien"
+      },
+      {
+        "id": "b",
+        "text": "Brasilien"
+      },
+      {
+        "id": "c",
+        "text": "Ecuador"
+      },
+      {
+        "id": "d",
+        "text": "Paraguay"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Chile und Argentinien verläuft eine Landgrenze. Beide Länder grenzen außerdem an Bolivien.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Chile und Argentinien verläuft eine Landgrenze. Beide Länder grenzen außerdem an Bolivien.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-mx-us-landgrenze",
+    "fact_key": "mx-us-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Mit welchem dieser Länder teilen die USA eine Landgrenze?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mexiko"
+      },
+      {
+        "id": "b",
+        "text": "Costa Rica"
+      },
+      {
+        "id": "c",
+        "text": "Belize"
+      },
+      {
+        "id": "d",
+        "text": "Guatemala"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen den USA und Mexiko verläuft eine Landgrenze. Weitere Landgrenzen hat Mexiko mit Guatemala und Belize.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen den USA und Mexiko verläuft eine Landgrenze. Weitere Landgrenzen hat Mexiko mit Guatemala und Belize.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-in-np-landgrenze",
+    "fact_key": "in-np-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welches Land grenzt auf dem Landweg an Indien?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nepal"
+      },
+      {
+        "id": "b",
+        "text": "Sri Lanka"
+      },
+      {
+        "id": "c",
+        "text": "Thailand"
+      },
+      {
+        "id": "d",
+        "text": "Japan"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Indien und Nepal verläuft eine Landgrenze. Beide Länder grenzen außerdem an China.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Indien und Nepal verläuft eine Landgrenze. Beide Länder grenzen außerdem an China.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ec-pe-landgrenze",
+    "fact_key": "ec-pe-landgrenze",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Mit welchem dieser Länder teilt Peru eine Landgrenze?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ecuador"
+      },
+      {
+        "id": "b",
+        "text": "Uruguay"
+      },
+      {
+        "id": "c",
+        "text": "Venezuela"
+      },
+      {
+        "id": "d",
+        "text": "Costa Rica"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen Peru und Ecuador verläuft eine Landgrenze. Beide Länder grenzen außerdem an Kolumbien.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zwischen Peru und Ecuador verläuft eine Landgrenze. Beide Länder grenzen außerdem an Kolumbien.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.253Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

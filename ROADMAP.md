@@ -1,16 +1,19 @@
-# Quizsalon · Roadmap
+# Quizsalon · Roadmap und Nachweise
 
-| Phase | Aufgabe | Status | Abhängigkeit und Nachweis |
+| Phase | Aufgabe | Status | Nachweis oder externe Abhängigkeit |
 | --- | --- | --- | --- |
-| 0 | Bestand und Regeln erfassen | done | Nur fünf Markdown-Anhänge, kein vorheriges Git-Repository und keine AGENTS.md. Regelwerte aus dem Umsetzungsplan in specs/product_rules.json. |
-| 1 | Erste Tagesrunde mit geprüftem Startbestand | in_progress | HTML-App und Starterprüfung |
-| 2 | 150 Referenzfragen und Katalogbau | in_progress | Getrennte Fakten- und Redaktionsprüfung |
-| 3 | Speicherung und Wiederaufnahme | in_progress | Gleiche Regeln in Browser und Android |
-| 4 | Fortschritt, Album und Inhaltskorrekturen | in_progress | Transaktions- und Grenzfalltests |
-| 5 | Themen, Proben und Computergegner | in_progress | Engine und Themenoberfläche |
-| 6 | 1.200 freigegebene Fragen | in_progress | Quellenbasis, Batchprüfungen, Verteilung |
-| 7 | Play-Käufe und Plattformdienste | in_progress | Native Integration, dann realer interner Play-Test |
-| 8 | Nutzung, Zugänglichkeit und Geräte | in_progress | Automatisierte Prüfungen und echte Teilnehmende |
-| 9 | Store-Paket | in_progress | Testartefakte und Betreiberangaben |
-| 10 | Einreichung | blocked_external | Freigaben, Betreiber, Signierung und Console-Zugriff |
-| 11 | Öffentliche Version prüfen | blocked_external | Tatsächlicher öffentlicher Release |
+| 0 | Repository prüfen, Produktregeln und Architektur festhalten | done | Fünf Markdown-Anhänge, kein vorhandener Code und keine AGENTS.md. Regeln aus dem vorliegenden Text rekonstruiert. Siehe DECISIONS.md und specs/. |
+| 1 | Erster vollständiger Durchlauf | done | 24 belegte Fragen, Starter-APK und reale Screenshots unter release/android/ und release/screenshots/starter/. |
+| 2 | 150 Referenzfragen und ausführbarer Katalogcompiler | done | 25 pro Kategorie, Mischung 15/7/3. Referenz-Commit 2675459, release/qa/katalog-referenz.json und release/screenshots/referenz/pruefung.json. |
+| 3 | Tagesauswahl, lokale Transaktionen, Wiederaufnahme | done | Node- und Browserprüfungen, echte App-Prozessabbrüche, SQLite und IndexedDB. Update über den Referenzstand in release/android/qa-upgrade/android-ui.json. |
+| 4 | Fortschritt, Kalender, Album und Inhaltskorrektur | done | Ledger und Wochenziel, vorbereiteter echter Spielstand, neutralisierte offene Position und historisches Ergebnis in release/screenshots/sonderfaelle/. |
+| 5 | Themen, Proben und Computergegner | done | Reguläre Vorschau und isolierte Lokaltestausgabe. Vollständige kostenlose und anspruchsvolle Runden sowie vorab gespeicherte Computerergebnisse geprüft. |
+| 6 | 600 und anschließend 1.200 geprüfte Fragen | done | release/qa/katalog-600.json, web/data/manifest.json, CONTENT_REPORT.md und redaktionelle Einzelprotokolle. |
+| 7a | Play-Integration, Backup und Erinnerungen implementieren | done | Native Bibliothek 8.0.0, Belegprüfung, geschützter Kaufcache, System-Restore und Android-Berechtigungsdialog. Siehe android/ und release/android/qa-plattform/. |
+| 7b | Tatsächliche Play-Lizenzkäufe und Wiederherstellung | blocked_external | Endgültiges Play-Projekt, echtes Produkt, Lizenztester und signierter interner Track fehlen. |
+| 8a | Browser und Android-Emulatoren prüfen | done | QA_REPORT.md, 3.600 Fragenlayouts und tatsächliche Geräteaufnahmen der Emulatoren. |
+| 8b | Physisches Smartphone und Zielgruppe | blocked_external | Echtes Nutzergerät und freiwillige Teilnehmende stehen aus. Erprobungsbogen in docs/ERPROBUNG.md. |
+| 9a | Lokale Übergabe, Store-Texte und Bildmaterial | done | Selbständige HTML-Datei, zwei finale APKs, sechs originale Telefonaufnahmen, Icon, Feature Graphic und lokale Datenschutzunterlagen unter release/. |
+| 9b | Betreiberfreigabe, öffentlicher Datenschutzlink und Release-AAB | blocked_external | Endgültige Betreiberangaben, Paketname und autorisierte Upload-Signierung stehen aus. |
+| 10 | Über öffentliche Veröffentlichung entscheiden und ggf. einreichen | blocked_external | Der Auftraggeber entscheidet nach seinem lokalen Test. Keine Einreichung erfolgt. |
+| 11 | Öffentlichen Stand und tatsächliche Auslieferung prüfen | blocked_external | Nach erfolgter Veröffentlichung möglich. |

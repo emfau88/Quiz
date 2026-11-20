@@ -1,0 +1,1660 @@
+[
+  {
+    "id": "qs-bleistift-graphit",
+    "fact_key": "bleistift-graphit",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welcher Stoff hinterlässt bei einem gewöhnlichen Bleistift den grauen Strich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Graphit"
+      },
+      {
+        "id": "b",
+        "text": "Blei"
+      },
+      {
+        "id": "c",
+        "text": "Zinn"
+      },
+      {
+        "id": "d",
+        "text": "Schiefer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In der Mine steckt Graphit, eine Form des Kohlenstoffs. Daher stammt ihre dunkle Spur.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Carbon - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/6/carbon",
+        "verified_claim": "In der Mine steckt Graphit, eine Form des Kohlenstoffs. Daher stammt ihre dunkle Spur.",
+        "checked_at": "2026-11-20T01:15:05.522Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.371Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-aktivkohle-filter",
+    "fact_key": "aktivkohle-filter",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Aufgabe hat Aktivkohle in vielen Dunstabzugshauben?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Geruchsstoffe aufnehmen"
+      },
+      {
+        "id": "b",
+        "text": "Die Luft erwärmen"
+      },
+      {
+        "id": "c",
+        "text": "Fett zum Kochen bringen"
+      },
+      {
+        "id": "d",
+        "text": "Frischluft erzeugen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Aktivkohle bindet Stoffe aus der durchströmenden Luft. Sie wird deshalb in Filtern eingesetzt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Carbon - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/6/carbon",
+        "verified_claim": "Aktivkohle bindet Stoffe aus der durchströmenden Luft. Sie wird deshalb in Filtern eingesetzt.",
+        "checked_at": "2026-11-20T01:15:05.522Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.371Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-carbonfaser-sport",
+    "fact_key": "carbonfaser-sport",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Was ist ein Vorteil von Carbonfasern in Tennisschlägern und Skiern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hohe Festigkeit bei wenig Gewicht"
+      },
+      {
+        "id": "b",
+        "text": "Hohe Löslichkeit in Wasser"
+      },
+      {
+        "id": "c",
+        "text": "Starke Magnetwirkung"
+      },
+      {
+        "id": "d",
+        "text": "Große Dehnbarkeit wie bei Gummi"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kohlenstofffasern sind leicht und zugleich sehr belastbar. Diese Kombination ist im Sportgerätebau gefragt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Carbon - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/6/carbon",
+        "verified_claim": "Kohlenstofffasern sind leicht und zugleich sehr belastbar. Diese Kombination ist im Sportgerätebau gefragt.",
+        "checked_at": "2026-11-20T01:15:05.522Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.371Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-stickstoff-tiefkuehlen",
+    "fact_key": "stickstoff-tiefkuehlen",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Wofür wird flüssiger Stickstoff in der Lebensmittelverarbeitung eingesetzt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zum schnellen Einfrieren"
+      },
+      {
+        "id": "b",
+        "text": "Zum Bräunen der Kruste"
+      },
+      {
+        "id": "c",
+        "text": "Zum Binden von Soßen"
+      },
+      {
+        "id": "d",
+        "text": "Zum Süßen von Getränken"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Flüssiger Stickstoff ist sehr kalt. Mit ihm lassen sich Lebensmittel rasch durchfrieren.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nitrogen - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/7/nitrogen",
+        "verified_claim": "Flüssiger Stickstoff ist sehr kalt. Mit ihm lassen sich Lebensmittel rasch durchfrieren.",
+        "checked_at": "2026-11-20T01:15:05.522Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.371Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-neon-lichtfarbe",
+    "fact_key": "neon-lichtfarbe",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "In welcher Farbe leuchtet reines Neon in einer klassischen Gasentladungsröhre?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rotorange"
+      },
+      {
+        "id": "b",
+        "text": "Grasgrün"
+      },
+      {
+        "id": "c",
+        "text": "Ultramarinblau"
+      },
+      {
+        "id": "d",
+        "text": "Türkis"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Neon erzeugt ein rötlich-oranges Leuchten. Für andere Farben werden andere Füllgase oder Beschichtungen eingesetzt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Neon - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/10/neon",
+        "verified_claim": "Neon erzeugt ein rötlich-oranges Leuchten. Für andere Farben werden andere Füllgase oder Beschichtungen eingesetzt.",
+        "checked_at": "2026-11-20T01:15:05.522Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.371Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kochsalz-natriumchlorid",
+    "fact_key": "kochsalz-natriumchlorid",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welcher chemische Name steht für gewöhnliches Kochsalz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Natriumchlorid"
+      },
+      {
+        "id": "b",
+        "text": "Calciumcarbonat"
+      },
+      {
+        "id": "c",
+        "text": "Kaliumiodid"
+      },
+      {
+        "id": "d",
+        "text": "Magnesiumsulfat"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kochsalz besteht hauptsächlich aus Natriumchlorid. Derselbe Stoff kommt auch als Streusalz zum Einsatz.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Sodium - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/11/sodium",
+        "verified_claim": "Kochsalz besteht hauptsächlich aus Natriumchlorid. Derselbe Stoff kommt auch als Streusalz zum Einsatz.",
+        "checked_at": "2026-11-20T01:15:05.522Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.371Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-waschsoda-entharten",
+    "fact_key": "waschsoda-entharten",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Was kann Waschsoda bei der Wäsche mit hartem Wasser bewirken?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Wasser enthärten"
+      },
+      {
+        "id": "b",
+        "text": "Das Wasser mit Parfüm versetzen"
+      },
+      {
+        "id": "c",
+        "text": "Die Wäsche trocknen"
+      },
+      {
+        "id": "d",
+        "text": "Den Stoff bügeln"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Waschsoda ist Natriumcarbonat. Es kann als Wasserenthärter eingesetzt werden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Sodium - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/11/sodium",
+        "verified_claim": "Waschsoda ist Natriumcarbonat. Es kann als Wasserenthärter eingesetzt werden.",
+        "checked_at": "2026-11-20T01:15:05.522Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.372Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-erdgas-geruch",
+    "fact_key": "erdgas-geruch",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Warum setzt man Erdgas für Haushalte stark riechende Stoffe zu?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Damit austretendes Gas auffällt"
+      },
+      {
+        "id": "b",
+        "text": "Damit die Flamme heller wird"
+      },
+      {
+        "id": "c",
+        "text": "Damit die Leitungen kühl bleiben"
+      },
+      {
+        "id": "d",
+        "text": "Damit der Gaszähler langsamer läuft"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der auffällige Geruch macht austretendes Gas bemerkbar. Dafür eignen sich unter anderem bestimmte Schwefelverbindungen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Sulfur - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/16/sulfur",
+        "verified_claim": "Der auffällige Geruch macht austretendes Gas bemerkbar. Dafür eignen sich unter anderem bestimmte Schwefelverbindungen.",
+        "checked_at": "2026-11-20T01:15:05.522Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.372Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kautschuk-schwefel",
+    "fact_key": "kautschuk-schwefel",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welches Element verwendet man traditionell beim Vulkanisieren von Kautschuk?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schwefel"
+      },
+      {
+        "id": "b",
+        "text": "Helium"
+      },
+      {
+        "id": "c",
+        "text": "Silber"
+      },
+      {
+        "id": "d",
+        "text": "Calcium"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bei der klassischen Vulkanisation wird Kautschuk mithilfe von Schwefel in widerstandsfähigen Gummi umgewandelt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Sulfur - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/16/sulfur",
+        "verified_claim": "Bei der klassischen Vulkanisation wird Kautschuk mithilfe von Schwefel in widerstandsfähigen Gummi umgewandelt.",
+        "checked_at": "2026-11-20T01:15:05.522Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.372Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-pvc-fenster",
+    "fact_key": "pvc-fenster",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welcher Kunststoff steckt häufig in Fensterrahmen und Vinylböden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "PVC"
+      },
+      {
+        "id": "b",
+        "text": "Naturkautschuk"
+      },
+      {
+        "id": "c",
+        "text": "Zellglas"
+      },
+      {
+        "id": "d",
+        "text": "Bakelit"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "PVC ist Polyvinylchlorid. Es wird unter anderem für Fensterprofile, Fußböden und Wasserrohre verwendet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Chlorine - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/17/chlorine",
+        "verified_claim": "PVC ist Polyvinylchlorid. Es wird unter anderem für Fensterprofile, Fußböden und Wasserrohre verwendet.",
+        "checked_at": "2026-11-20T01:15:05.522Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.372Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-chlor-beckenwasser",
+    "fact_key": "chlor-beckenwasser",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Warum verwendet man Chlorverbindungen im Schwimmbadwasser?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zur Desinfektion"
+      },
+      {
+        "id": "b",
+        "text": "Zur blauen Färbung"
+      },
+      {
+        "id": "c",
+        "text": "Zur Erwärmung"
+      },
+      {
+        "id": "d",
+        "text": "Zur Erhöhung des Auftriebs"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Chlorverbindungen helfen, Keime im Beckenwasser abzutöten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Chlorine - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/17/chlorine",
+        "verified_claim": "Chlorverbindungen helfen, Keime im Beckenwasser abzutöten.",
+        "checked_at": "2026-11-20T01:15:05.522Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.372Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-doppelverglasung-argon",
+    "fact_key": "doppelverglasung-argon",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welches Gas füllt häufig den Scheibenzwischenraum einer Wärmeschutzverglasung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Argon"
+      },
+      {
+        "id": "b",
+        "text": "Wasserstoff"
+      },
+      {
+        "id": "c",
+        "text": "Sauerstoff"
+      },
+      {
+        "id": "d",
+        "text": "Chlor"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bei Doppelverglasungen wird häufig Argon zwischen den Scheiben eingeschlossen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Argon - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/18/argon",
+        "verified_claim": "Bei Doppelverglasungen wird häufig Argon zwischen den Scheiben eingeschlossen.",
+        "checked_at": "2026-11-20T01:15:04.622Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.372Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gluehlampe-schutzgas",
+    "fact_key": "gluehlampe-schutzgas",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Warum kann eine Glühlampe mit dem Edelgas Argon gefüllt sein?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es schützt den heißen Glühdraht."
+      },
+      {
+        "id": "b",
+        "text": "Es färbt das Glas."
+      },
+      {
+        "id": "c",
+        "text": "Es erzeugt den Strom."
+      },
+      {
+        "id": "d",
+        "text": "Es öffnet den Stromkreis."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das reaktionsträge Argon schützt den Glühdraht vor dem Angriff durch Sauerstoff.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Argon - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/18/argon",
+        "verified_claim": "Das reaktionsträge Argon schützt den Glühdraht vor dem Angriff durch Sauerstoff.",
+        "checked_at": "2026-11-20T01:15:04.622Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.372Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kalkstein-calciumcarbonat",
+    "fact_key": "kalkstein-calciumcarbonat",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was ist der chemische Hauptbestandteil von Kalkstein?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Calciumcarbonat"
+      },
+      {
+        "id": "b",
+        "text": "Natriumchlorid"
+      },
+      {
+        "id": "c",
+        "text": "Aluminiumoxid"
+      },
+      {
+        "id": "d",
+        "text": "Kupfersulfat"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kalkstein besteht vor allem aus Calciumcarbonat und wird unmittelbar als Baustein oder als Rohstoff für Zement genutzt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Calcium - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/20/calcium",
+        "verified_claim": "Kalkstein besteht vor allem aus Calciumcarbonat und wird unmittelbar als Baustein oder als Rohstoff für Zement genutzt.",
+        "checked_at": "2026-11-20T01:15:04.622Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.372Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-branntkalk-entwicklung",
+    "fact_key": "branntkalk-entwicklung",
+    "category": "everyday_technology",
+    "difficulty": "hard",
+    "question": "Welches Gas wird frei, wenn Kalkstein zu Branntkalk gebrannt wird?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kohlendioxid"
+      },
+      {
+        "id": "b",
+        "text": "Stickstoff"
+      },
+      {
+        "id": "c",
+        "text": "Argon"
+      },
+      {
+        "id": "d",
+        "text": "Wasserstoff"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Calciumcarbonat zerfällt beim Brennen in Calciumoxid und Kohlendioxid. Calciumoxid nennt man Branntkalk.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Calcium - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/20/calcium",
+        "verified_claim": "Calciumcarbonat zerfällt beim Brennen in Calciumoxid und Kohlendioxid. Calciumoxid nennt man Branntkalk.",
+        "checked_at": "2026-11-20T01:15:04.622Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.372Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-titanoxid-weisspigment",
+    "fact_key": "titanoxid-weisspigment",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welche Farbe verleiht Titandioxid als deckendes Pigment einer Wandfarbe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Weiß"
+      },
+      {
+        "id": "b",
+        "text": "Zinnoberrot"
+      },
+      {
+        "id": "c",
+        "text": "Kobaltblau"
+      },
+      {
+        "id": "d",
+        "text": "Ockergelb"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Titandioxid ist ein weißes Pigment mit hoher Deckkraft. Es kommt auch in Künstlerfarben und Papier vor.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Titanium - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/22/titanium",
+        "verified_claim": "Titandioxid ist ein weißes Pigment mit hoher Deckkraft. Es kommt auch in Künstlerfarben und Papier vor.",
+        "checked_at": "2026-11-20T01:15:04.622Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.372Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-chrom-stossstange",
+    "fact_key": "chrom-stossstange",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welcher Metallüberzug sorgte bei vielen älteren Stoßstangen für Spiegelglanz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Chrom"
+      },
+      {
+        "id": "b",
+        "text": "Zinkstaub"
+      },
+      {
+        "id": "c",
+        "text": "Blei"
+      },
+      {
+        "id": "d",
+        "text": "Magnesium"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eine polierte Chromschicht kann Stahl spiegelnd glänzen lassen. Verchromte Stoßstangen waren früher weit verbreitet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Chromium - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/24/chromium",
+        "verified_claim": "Eine polierte Chromschicht kann Stahl spiegelnd glänzen lassen. Verchromte Stoßstangen waren früher weit verbreitet.",
+        "checked_at": "2026-11-20T01:15:04.622Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.372Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kobalt-blau",
+    "fact_key": "kobalt-blau",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welche Farbe erzeugen Kobaltverbindungen bei traditioneller Porzellanmalerei häufig?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kräftiges Blau"
+      },
+      {
+        "id": "b",
+        "text": "Leuchtendes Gelb"
+      },
+      {
+        "id": "c",
+        "text": "Tiefes Schwarzbraun"
+      },
+      {
+        "id": "d",
+        "text": "Helles Orange"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kobaltverbindungen dienen seit Jahrhunderten als blaue Farbmittel für Porzellan, Glas und Emaille.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Cobalt - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/27/cobalt",
+        "verified_claim": "Kobaltverbindungen dienen seit Jahrhunderten als blaue Farbmittel für Porzellan, Glas und Emaille.",
+        "checked_at": "2026-11-20T01:15:04.622Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.372Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-stahl-eisen",
+    "fact_key": "stahl-eisen",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Auf welchem Metall beruht gewöhnlicher Kohlenstoffstahl?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eisen"
+      },
+      {
+        "id": "b",
+        "text": "Kupfer"
+      },
+      {
+        "id": "c",
+        "text": "Silber"
+      },
+      {
+        "id": "d",
+        "text": "Aluminium"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kohlenstoffstahl ist im Wesentlichen eine Legierung von Eisen mit einem kleinen Anteil Kohlenstoff.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Iron - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/26/iron",
+        "verified_claim": "Kohlenstoffstahl ist im Wesentlichen eine Legierung von Eisen mit einem kleinen Anteil Kohlenstoff.",
+        "checked_at": "2026-11-20T01:15:04.622Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.372Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-nickelchrom-toaster",
+    "fact_key": "nickelchrom-toaster",
+    "category": "everyday_technology",
+    "difficulty": "hard",
+    "question": "Welche Legierung eignet sich als Heizdraht im Toaster?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nickel-Chrom"
+      },
+      {
+        "id": "b",
+        "text": "Gold-Silber"
+      },
+      {
+        "id": "c",
+        "text": "Blei-Zinn"
+      },
+      {
+        "id": "d",
+        "text": "Kupfer-Zink"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nickel-Chrom-Legierungen vertragen hohe Temperaturen und bleiben auch bei Rotglut korrosionsbeständig.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nickel - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/28/nickel",
+        "verified_claim": "Nickel-Chrom-Legierungen vertragen hohe Temperaturen und bleiben auch bei Rotglut korrosionsbeständig.",
+        "checked_at": "2026-11-20T01:15:04.622Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.372Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-germanium-infrarot",
+    "fact_key": "germanium-infrarot",
+    "category": "everyday_technology",
+    "difficulty": "hard",
+    "question": "Für welchen Strahlungsbereich kann massives Germanium als optisches Fenster dienen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Infrarotstrahlung"
+      },
+      {
+        "id": "b",
+        "text": "Ultraviolettstrahlung"
+      },
+      {
+        "id": "c",
+        "text": "Sichtbares blaues Licht"
+      },
+      {
+        "id": "d",
+        "text": "Sichtbares grünes Licht"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Germanium ist für bestimmte Infrarotwellen durchlässig. Das macht es für Infrarotoptik interessant.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Germanium - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/32/germanium",
+        "verified_claim": "Germanium ist für bestimmte Infrarotwellen durchlässig. Das macht es für Infrarotoptik interessant.",
+        "checked_at": "2026-11-20T01:15:04.166Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.372Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-selen-fotowiderstand",
+    "fact_key": "selen-fotowiderstand",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Wie verändert sich der elektrische Widerstand eines fotoleitenden Selenbauteils bei stärkerer Beleuchtung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er sinkt."
+      },
+      {
+        "id": "b",
+        "text": "Er verdoppelt sich stets."
+      },
+      {
+        "id": "c",
+        "text": "Er bleibt völlig gleich."
+      },
+      {
+        "id": "d",
+        "text": "Er wird unbegrenzt groß."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Leitfähigkeit von Selen nimmt bei Beleuchtung zu. Diese Eigenschaft lässt sich in Fotoelementen nutzen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Selenium - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/34/selenium",
+        "verified_claim": "Die Leitfähigkeit von Selen nimmt bei Beleuchtung zu. Diese Eigenschaft lässt sich in Fotoelementen nutzen.",
+        "checked_at": "2026-11-20T01:15:04.166Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:19:31.372Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.889Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.889Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-krypton-meterdefinition",
+    "fact_key": "krypton-meterdefinition",
+    "category": "everyday_technology",
+    "difficulty": "hard",
+    "question": "Welches Edelgas spielte von 1960 bis 1983 eine Rolle bei der Definition des Meters?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Krypton"
+      },
+      {
+        "id": "b",
+        "text": "Neon"
+      },
+      {
+        "id": "c",
+        "text": "Helium"
+      },
+      {
+        "id": "d",
+        "text": "Argon"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die damalige Meterdefinition bezog sich auf die Wellenlänge einer Strahlung des Isotops Krypton-86.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Krypton - Element information, properties and uses | Periodic Table",
+        "url": "https://periodic-table.rsc.org/element/36/krypton",
+        "verified_claim": "Die damalige Meterdefinition bezog sich auf die Wellenlänge einer Strahlung des Isotops Krypton-86.",
+        "checked_at": "2026-11-20T01:15:04.166Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:52:07.300Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:52:25.505Z"
+      },
+      "approved_at": "2026-11-20T01:52:25.505Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

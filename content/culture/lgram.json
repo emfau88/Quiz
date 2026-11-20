@@ -1,0 +1,1874 @@
+[
+  {
+    "id": "k-gram-indef-article",
+    "fact_key": "gram.indef.article",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welcher Ausdruck enthält einen unbestimmten Artikel?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein rotes Tuch"
+      },
+      {
+        "id": "b",
+        "text": "Das rote Tuch"
+      },
+      {
+        "id": "c",
+        "text": "Mein rotes Tuch"
+      },
+      {
+        "id": "d",
+        "text": "Dieses rote Tuch"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Ein“ ist hier der unbestimmte Artikel. Gemeint ist ein noch nicht näher bestimmtes Tuch.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · indefiniter Artikel",
+        "url": "https://grammis.ids-mannheim.de/vggf/2193",
+        "verified_claim": "„Ein“ ist hier der unbestimmte Artikel. Gemeint ist ein noch nicht näher bestimmtes Tuch.",
+        "checked_at": "2026-11-20T01:24:19+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-def-article",
+    "fact_key": "gram.def.article",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welches Wort ist der bestimmte Artikel im Satz „Der Zug kommt pünktlich“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der"
+      },
+      {
+        "id": "b",
+        "text": "Zug"
+      },
+      {
+        "id": "c",
+        "text": "Kommt"
+      },
+      {
+        "id": "d",
+        "text": "Pünktlich"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Der“ gehört zum Nomen „Zug“ und kennzeichnet den Zug als bestimmt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · definiter Artikel",
+        "url": "https://grammis.ids-mannheim.de/vggf/2192",
+        "verified_claim": "„Der“ gehört zum Nomen „Zug“ und kennzeichnet den Zug als bestimmt.",
+        "checked_at": "2026-11-20T01:24:18+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-pronoun",
+    "fact_key": "gram.pronoun",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welches Wort ersetzt im zweiten Satz einen Namen? „Mira winkt. Sie lächelt.“",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie"
+      },
+      {
+        "id": "b",
+        "text": "Mira"
+      },
+      {
+        "id": "c",
+        "text": "Winkt"
+      },
+      {
+        "id": "d",
+        "text": "Lächelt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Sie“ ist ein Personalpronomen. Es verweist in diesem Beispiel auf Mira.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Pronomen",
+        "url": "https://grammis.ids-mannheim.de/vggf/2194",
+        "verified_claim": "„Sie“ ist ein Personalpronomen. Es verweist in diesem Beispiel auf Mira.",
+        "checked_at": "2026-11-20T01:24:19+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-verb",
+    "fact_key": "gram.verb",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welches Wort wird nach Person und Zeit gebeugt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schreiben"
+      },
+      {
+        "id": "b",
+        "text": "Papier"
+      },
+      {
+        "id": "c",
+        "text": "Blau"
+      },
+      {
+        "id": "d",
+        "text": "Neben"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Schreiben“ ist ein Verb. Formen wie „ich schreibe“ und „wir schrieben“ zeigen Person und Zeit.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Verb",
+        "url": "https://grammis.ids-mannheim.de/vggf/2195",
+        "verified_claim": "„Schreiben“ ist ein Verb. Formen wie „ich schreibe“ und „wir schrieben“ zeigen Person und Zeit.",
+        "checked_at": "2026-11-20T01:24:19+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-conjugation",
+    "fact_key": "gram.conjugation",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wie heißt das Beugen eines Verbs, etwa „ich gehe, du gehst“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Konjugation"
+      },
+      {
+        "id": "b",
+        "text": "Deklination"
+      },
+      {
+        "id": "c",
+        "text": "Komposition"
+      },
+      {
+        "id": "d",
+        "text": "Silbentrennung"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Konjugieren wird die Verbform unter anderem an Person und Zahl angepasst.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Konjugation",
+        "url": "https://grammis.ids-mannheim.de/vggf/2196",
+        "verified_claim": "Beim Konjugieren wird die Verbform unter anderem an Person und Zahl angepasst.",
+        "checked_at": "2026-11-20T01:24:19+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-auxiliary",
+    "fact_key": "gram.auxiliary",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welches Wort ist im Satz „Ella hat lange geschlafen“ das Hilfsverb?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hat"
+      },
+      {
+        "id": "b",
+        "text": "Ella"
+      },
+      {
+        "id": "c",
+        "text": "Geschlafen"
+      },
+      {
+        "id": "d",
+        "text": "Lange"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Hat“ ist hier eine Form von „haben“. Zusammen mit „geschlafen“ bildet es das Perfekt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Hilfsverb",
+        "url": "https://grammis.ids-mannheim.de/vggf/2198",
+        "verified_claim": "„Hat“ ist hier eine Form von „haben“. Zusammen mit „geschlafen“ bildet es das Perfekt.",
+        "checked_at": "2026-11-20T01:24:19+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-modal",
+    "fact_key": "gram.modal",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Was drückt das Modalverb in „Mira kann schwimmen“ aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Fähigkeit"
+      },
+      {
+        "id": "b",
+        "text": "Eine Erinnerung"
+      },
+      {
+        "id": "c",
+        "text": "Eine Anrede"
+      },
+      {
+        "id": "d",
+        "text": "Einen Zeitpunkt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Kann“ beschreibt hier, was Mira zu tun vermag. Das Vollverb „schwimmen“ steht im Infinitiv.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Modalverb",
+        "url": "https://grammis.ids-mannheim.de/vggf/2199",
+        "verified_claim": "„Kann“ beschreibt hier, was Mira zu tun vermag. Das Vollverb „schwimmen“ steht im Infinitiv.",
+        "checked_at": "2026-11-20T01:24:19+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-preposition",
+    "fact_key": "gram.preposition",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welches Wort ist in „unter dem alten Baum“ die Präposition?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Unter"
+      },
+      {
+        "id": "b",
+        "text": "Dem"
+      },
+      {
+        "id": "c",
+        "text": "Alten"
+      },
+      {
+        "id": "d",
+        "text": "Baum"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Unter“ drückt hier ein räumliches Verhältnis aus und leitet die Wortgruppe ein.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Präposition",
+        "url": "https://grammis.ids-mannheim.de/vggf/2212",
+        "verified_claim": "„Unter“ drückt hier ein räumliches Verhältnis aus und leitet die Wortgruppe ein.",
+        "checked_at": "2026-11-20T01:24:20+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-interjection",
+    "fact_key": "gram.interjection",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welcher Ausdruck ist eine Interjektion, also ein Ausruf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hurra!"
+      },
+      {
+        "id": "b",
+        "text": "Gestern"
+      },
+      {
+        "id": "c",
+        "text": "Nebenan"
+      },
+      {
+        "id": "d",
+        "text": "Obwohl"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Hurra!“ kann als selbstständiger Ausruf stehen und etwa Freude ausdrücken.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Interjektion",
+        "url": "https://grammis.ids-mannheim.de/vggf/2214",
+        "verified_claim": "„Hurra!“ kann als selbstständiger Ausruf stehen und etwa Freude ausdrücken.",
+        "checked_at": "2026-11-20T01:24:20+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-case",
+    "fact_key": "gram.case",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "In welchem Fall steht „dem Kind“ im Satz „Mara hilft dem Kind“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dativ"
+      },
+      {
+        "id": "b",
+        "text": "Genitiv"
+      },
+      {
+        "id": "c",
+        "text": "Akkusativ"
+      },
+      {
+        "id": "d",
+        "text": "Nominativ"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Auf die Frage „Wem hilft Mara?“ lautet die Antwort „dem Kind“. Das ist der Dativ.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Kasus",
+        "url": "https://grammis.ids-mannheim.de/vggf/2218",
+        "verified_claim": "Auf die Frage „Wem hilft Mara?“ lautet die Antwort „dem Kind“. Das ist der Dativ.",
+        "checked_at": "2026-11-20T01:24:21+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-number",
+    "fact_key": "gram.number",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Was bezeichnet „Numerus“ in der deutschen Grammatik?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einzahl oder Mehrzahl"
+      },
+      {
+        "id": "b",
+        "text": "Vergangenheit oder Zukunft"
+      },
+      {
+        "id": "c",
+        "text": "Frage oder Aussage"
+      },
+      {
+        "id": "d",
+        "text": "Anfang oder Ende"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Deutsche unterscheidet beim Numerus Singular und Plural, etwa „Haus“ und „Häuser“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Numerus",
+        "url": "https://grammis.ids-mannheim.de/vggf/2219",
+        "verified_claim": "Das Deutsche unterscheidet beim Numerus Singular und Plural, etwa „Haus“ und „Häuser“.",
+        "checked_at": "2026-11-20T01:24:21+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-gender",
+    "fact_key": "gram.gender",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welche Eigenschaft eines Nomens bezeichnen die Wörter „maskulin“, „feminin“ und „neutral“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das grammatische Geschlecht"
+      },
+      {
+        "id": "b",
+        "text": "Den Satzbau"
+      },
+      {
+        "id": "c",
+        "text": "Die Silbenzahl"
+      },
+      {
+        "id": "d",
+        "text": "Die Zeitform"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Fachausdruck dafür ist Genus. Beispiele sind „der Tisch“, „die Lampe“ und „das Regal“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Genus",
+        "url": "https://grammis.ids-mannheim.de/vggf/2220",
+        "verified_claim": "Der Fachausdruck dafür ist Genus. Beispiele sind „der Tisch“, „die Lampe“ und „das Regal“.",
+        "checked_at": "2026-11-20T01:24:21+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-imperative",
+    "fact_key": "gram.imperative",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "In welchem Satz steht das Verb im Imperativ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Komm bitte herein!"
+      },
+      {
+        "id": "b",
+        "text": "Er kommt morgen."
+      },
+      {
+        "id": "c",
+        "text": "Sie kam gestern."
+      },
+      {
+        "id": "d",
+        "text": "Wir sind gekommen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Komm“ richtet eine Aufforderung unmittelbar an die angesprochene Person.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Imperativ",
+        "url": "https://grammis.ids-mannheim.de/vggf/2234",
+        "verified_claim": "„Komm“ richtet eine Aufforderung unmittelbar an die angesprochene Person.",
+        "checked_at": "2026-11-20T01:24:23+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-active",
+    "fact_key": "gram.active",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "In welchem Satz ist die handelnde Person das Subjekt eines Aktivsatzes?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lena öffnet die Tür."
+      },
+      {
+        "id": "b",
+        "text": "Die Tür wird geöffnet."
+      },
+      {
+        "id": "c",
+        "text": "Der Brief wird geschrieben."
+      },
+      {
+        "id": "d",
+        "text": "Das Fenster wird geschlossen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Lena“ führt die Handlung aus. Das Verb „öffnet“ steht im Aktiv.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Aktiv",
+        "url": "https://grammis.ids-mannheim.de/vggf/2236",
+        "verified_claim": "„Lena“ führt die Handlung aus. Das Verb „öffnet“ steht im Aktiv.",
+        "checked_at": "2026-11-20T01:24:23+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-passive",
+    "fact_key": "gram.passive",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welcher Satz steht im Vorgangspassiv?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Brot wird gebacken."
+      },
+      {
+        "id": "b",
+        "text": "Das Brot duftet."
+      },
+      {
+        "id": "c",
+        "text": "Das Brot liegt dort."
+      },
+      {
+        "id": "d",
+        "text": "Das Brot schmeckt gut."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Wird“ und das Partizip „gebacken“ bilden gemeinsam das Vorgangspassiv.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Passiv",
+        "url": "https://grammis.ids-mannheim.de/vggf/2237",
+        "verified_claim": "„Wird“ und das Partizip „gebacken“ bilden gemeinsam das Vorgangspassiv.",
+        "checked_at": "2026-11-20T01:24:23+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-infinitive",
+    "fact_key": "gram.infinitive",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welches ist die Grundform des Verbs in „wir lasen“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lesen"
+      },
+      {
+        "id": "b",
+        "text": "Liest"
+      },
+      {
+        "id": "c",
+        "text": "Gelesen"
+      },
+      {
+        "id": "d",
+        "text": "Las"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der reine Infinitiv, hier „lesen“, ist die Nennform eines Verbs.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Infinitiv",
+        "url": "https://grammis.ids-mannheim.de/vggf/2239",
+        "verified_claim": "Der reine Infinitiv, hier „lesen“, ist die Nennform eines Verbs.",
+        "checked_at": "2026-11-20T01:24:24+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-composition",
+    "fact_key": "gram.composition",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wie entsteht das Wort „Haustür“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Durch Zusammensetzung"
+      },
+      {
+        "id": "b",
+        "text": "Durch Abkürzung"
+      },
+      {
+        "id": "c",
+        "text": "Durch eine Zeitform"
+      },
+      {
+        "id": "d",
+        "text": "Durch einen Lautausfall"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Haus“ und „Tür“ bilden zusammen ein neues Wort. In der Grammatik heißt das Komposition.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Komposition",
+        "url": "https://grammis.ids-mannheim.de/vggf/2245",
+        "verified_claim": "„Haus“ und „Tür“ bilden zusammen ein neues Wort. In der Grammatik heißt das Komposition.",
+        "checked_at": "2026-11-20T01:24:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-derivation",
+    "fact_key": "gram.derivation",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Was geschieht bei der Bildung von „Freundschaft“ aus „Freund“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Nachsilbe kommt hinzu."
+      },
+      {
+        "id": "b",
+        "text": "Zwei ganze Sätze werden verbunden."
+      },
+      {
+        "id": "c",
+        "text": "Ein Buchstabe wird verdoppelt."
+      },
+      {
+        "id": "d",
+        "text": "Eine Endung wird gestrichen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Nachsilbe „-schaft“ bildet aus „Freund“ ein neues Nomen. Das ist eine Ableitung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Derivation",
+        "url": "https://grammis.ids-mannheim.de/vggf/2246",
+        "verified_claim": "Die Nachsilbe „-schaft“ bildet aus „Freund“ ein neues Nomen. Das ist eine Ableitung.",
+        "checked_at": "2026-11-20T01:24:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-nominalisation",
+    "fact_key": "gram.nominalisation",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Was ist „Lesen“ im Satz „Das Lesen macht Freude“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein als Nomen verwendetes Verb"
+      },
+      {
+        "id": "b",
+        "text": "Ein Personalpronomen"
+      },
+      {
+        "id": "c",
+        "text": "Eine Präposition"
+      },
+      {
+        "id": "d",
+        "text": "Ein bestimmter Artikel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Aus dem Verb „lesen“ wird hier durch Nominalisierung „das Lesen“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Nominalisierung",
+        "url": "https://grammis.ids-mannheim.de/vggf/2249",
+        "verified_claim": "Aus dem Verb „lesen“ wird hier durch Nominalisierung „das Lesen“.",
+        "checked_at": "2026-11-20T01:24:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-compound-sentence",
+    "fact_key": "gram.compound_sentence",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welches Beispiel verbindet zwei selbstständige Hauptsätze zu einer Satzreihe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es regnet und der Wind weht."
+      },
+      {
+        "id": "b",
+        "text": "Weil es regnet, bleiben wir."
+      },
+      {
+        "id": "c",
+        "text": "Der Wind, der weht, ist kühl."
+      },
+      {
+        "id": "d",
+        "text": "Wenn es regnet, ist es nass."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Es regnet“ und „der Wind weht“ können jeweils allein stehen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Satzreihe",
+        "url": "https://grammis.ids-mannheim.de/vggf/2253",
+        "verified_claim": "„Es regnet“ und „der Wind weht“ können jeweils allein stehen.",
+        "checked_at": "2026-11-20T01:24:26+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-subordinate",
+    "fact_key": "gram.subordinate",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welcher Teil ist im Satz „Lea bleibt, weil sie Zeit hat“ der Nebensatz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Weil sie Zeit hat"
+      },
+      {
+        "id": "b",
+        "text": "Lea bleibt"
+      },
+      {
+        "id": "c",
+        "text": "Lea"
+      },
+      {
+        "id": "d",
+        "text": "Zeit"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Weil“ leitet die Begründung als Nebensatz ein. Das gebeugte Verb „hat“ steht am Ende.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Nebensatz",
+        "url": "https://grammis.ids-mannheim.de/vggf/2256",
+        "verified_claim": "„Weil“ leitet die Begründung als Nebensatz ein. Das gebeugte Verb „hat“ steht am Ende.",
+        "checked_at": "2026-11-20T01:24:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-ellipsis",
+    "fact_key": "gram.ellipsis",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Wie heißt eine Äußerung, in der man aus dem Zusammenhang erkennbare Satzteile weglässt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ellipse"
+      },
+      {
+        "id": "b",
+        "text": "Metapher"
+      },
+      {
+        "id": "c",
+        "text": "Kompositum"
+      },
+      {
+        "id": "d",
+        "text": "Silbe"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Noch einen Kaffee?“ lässt etwa „Möchtest du“ aus. Der Sinn bleibt in der Situation verständlich.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Ellipse",
+        "url": "https://grammis.ids-mannheim.de/vggf/2257",
+        "verified_claim": "„Noch einen Kaffee?“ lässt etwa „Möchtest du“ aus. Der Sinn bleibt in der Situation verständlich.",
+        "checked_at": "2026-11-20T01:24:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-attribute",
+    "fact_key": "gram.attribute",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Welcher Ausdruck ist in „der alte Apfelbaum“ ein Attribut zum Nomen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alte"
+      },
+      {
+        "id": "b",
+        "text": "Der ganze Ausdruck"
+      },
+      {
+        "id": "c",
+        "text": "Apfelbaum"
+      },
+      {
+        "id": "d",
+        "text": "Der Wortteil -baum"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Alte“ bestimmt „Apfelbaum“ näher. Das Attribut ist Teil der Nominalgruppe.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Attribut",
+        "url": "https://grammis.ids-mannheim.de/vggf/2267",
+        "verified_claim": "„Alte“ bestimmt „Apfelbaum“ näher. Das Attribut ist Teil der Nominalgruppe.",
+        "checked_at": "2026-11-20T01:24:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-subjunctive",
+    "fact_key": "gram.subjunctive",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Welche Verbform kennzeichnet die indirekte Rede in „Tina sagt, sie sei müde“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sei"
+      },
+      {
+        "id": "b",
+        "text": "Sagt"
+      },
+      {
+        "id": "c",
+        "text": "Müde"
+      },
+      {
+        "id": "d",
+        "text": "Sie"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Sei“ ist der Konjunktiv I von „sein“. Er kennzeichnet hier Tinas wiedergegebene Aussage.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Konjunktiv",
+        "url": "https://grammis.ids-mannheim.de/vggf/2233",
+        "verified_claim": "„Sei“ ist der Konjunktiv I von „sein“. Er kennzeichnet hier Tinas wiedergegebene Aussage.",
+        "checked_at": "2026-11-20T01:24:22+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-declination",
+    "fact_key": "gram.declination",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Wie heißt die Anpassung der Endung von „gut“, etwa in „mit gutem Rat“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deklination"
+      },
+      {
+        "id": "b",
+        "text": "Konjugation"
+      },
+      {
+        "id": "c",
+        "text": "Worttrennung"
+      },
+      {
+        "id": "d",
+        "text": "Abkürzung"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Adjektive passen ihre Endung an ihre grammatische Umgebung an, hier an die Form der Wortgruppe mit „Rat“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Deklination",
+        "url": "https://grammis.ids-mannheim.de/vggf/2216",
+        "verified_claim": "Adjektive passen ihre Endung an ihre grammatische Umgebung an, hier an die Form der Wortgruppe mit „Rat“.",
+        "checked_at": "2026-11-20T01:24:21+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gram-punctuation",
+    "fact_key": "gram.punctuation",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welches Zeichen steht am Ende einer direkten Frage wie „Wann fährt der Zug“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fragezeichen"
+      },
+      {
+        "id": "b",
+        "text": "Semikolon"
+      },
+      {
+        "id": "c",
+        "text": "Komma"
+      },
+      {
+        "id": "d",
+        "text": "Gedankenstrich"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Fragezeichen kennzeichnet hier das Ende eines Fragesatzes.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · Satzschlusszeichen",
+        "url": "https://grammis.ids-mannheim.de/vggf/2181",
+        "verified_claim": "Das Fragezeichen kennzeichnet hier das Ende eines Fragesatzes.",
+        "checked_at": "2026-11-20T01:24:14+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

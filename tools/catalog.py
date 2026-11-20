@@ -80,7 +80,41 @@ def distribution(rows, categories):
     return {c: [grouped[c, d] for d in LEVELS] for c in categories}
 
 
-def build(stage, output, as_of):
+def revision_stamp(entry):
+    answers = [entry["fact_key"], entry["correct_option_id"], sorted(o["id"] for o in entry["options"])]
+    return {"revision": entry["content_revision"], "semantic_revision": entry["semantic_revision"],
+            "sha256": hashlib.sha256(encode(entry).encode()).hexdigest(),
+            "answer_sha256": hashlib.sha256(encode(answers).encode()).hexdigest()}
+
+
+def check_history(entry, old):
+    current = revision_stamp(entry)
+    require(current["revision"] >= old["revision"] and current["semantic_revision"] >= old["semantic_revision"],
+            f"Revision zurückgesetzt: {entry['id']}")
+    require(current["revision"] > old["revision"] or current["sha256"] == old["sha256"],
+            f"Inhalt ohne Revisionswechsel: {entry['id']}")
+    if "answer_sha256" in old and current["answer_sha256"] != old["answer_sha256"]:
+        require(current["semantic_revision"] > old["semantic_revision"],
+                f"Geänderter Sachverhalt oder Antwortschlüssel ohne neue semantische Revision: {entry['id']}")
+
+
+def public_corrections(records):
+    entries = []
+    for row in records:
+        revision = row["semantic_revision"]
+        require(type(revision) is int and revision > 0, "ungültige zurückgezogene semantische Revision")
+        for key in ("id", "reason"):
+            require(isinstance(row[key], str) and row[key].strip(), f"Rückzugsfeld {key} fehlt")
+        entry = {key: row[key] for key in ("id", "semantic_revision", "reason")}
+        if row.get("replacement_id") is not None:
+            require(isinstance(row["replacement_id"], str) and row["replacement_id"].strip(), "leere Ersatz-ID")
+            entry["replacement_id"] = row["replacement_id"]
+        entries.append(entry)
+    unique([(r["id"], r["semantic_revision"]) for r in entries], "doppelter Rückzug")
+    return entries
+
+
+def build(stage, output, as_of, rules_path=None):
     rules = read(ROOT / "specs/product_rules.json")
     schema = read(ROOT / "specs/question.schema.json")
     validator = Draft202012Validator(schema, format_checker=FormatChecker())
@@ -95,21 +129,29 @@ def build(stage, output, as_of):
                 raise ValueError(f"{path.name} / {q.get('id', '?')}: {e}") from e
         all_rows.extend(batch)
     unique([q["id"] for q in all_rows], "doppelte redaktionelle Frage-ID")
-    corrections = read(ROOT / "content/corrections.json")
+    corrections = public_corrections(read(ROOT / "content/corrections.json"))
     blocked = {(c["id"], c["semantic_revision"]) for c in corrections}
-    require(len(blocked) == len(corrections) and all(c["reason"].strip() for c in corrections), "ungültiges Rückzugsmanifest")
     require(all((q["id"], q["semantic_revision"]) in blocked for q in all_rows if q["status"] == "retired"), "Rückzug ohne Sperrvermerk")
     approved = [q for q in all_rows if q["status"] == "release_approved"
                 and (q["id"], q["semantic_revision"]) not in blocked
                 and (not q["valid_until"] or q["valid_until"] >= as_of)]
     rows = sorted((q for q in approved if stage not in ("starter", "reference") or q.get(stage)), key=lambda q: q["id"])
+    if stage == "half":
+        subset = []
+        for c in rules["categories"]:
+            for difficulty, needed in zip(LEVELS, [60, 30, 10]):
+                pool = sorted((q for q in rows if q["category"] == c and q["difficulty"] == difficulty),
+                              key=lambda q: (not q.get("reference", False), q["id"]))
+                require(len(pool) >= needed, f"600er-Mischung noch offen: {c}/{difficulty} {len(pool)} von {needed}")
+                subset.extend(pool[:needed])
+        rows = sorted(subset, key=lambda q: q["id"])
     unique([normalize(q["fact_key"]) for q in rows], "doppelter aktiver Sachverhalt")
     unique([normalize(q["question"]) for q in rows], "gleichlautender Fragetext")
     mix = distribution(rows, rules["categories"])
     reference = distribution([q for q in rows if q.get("reference")], rules["categories"])
     exact_reference = all(v == rules["catalog"]["reference_mix"] for v in reference.values())
     exact_release = all(v == rules["catalog"]["release_mix"] for v in mix.values())
-    if stage in ("reference", "release"):
+    if stage in ("reference", "half", "release"):
         require(exact_reference, f"Referenzverteilung unvollständig: {reference}")
     if stage == "release":
         require(exact_release, f"Releaseverteilung unvollständig: {mix}")
@@ -123,9 +165,7 @@ def build(stage, output, as_of):
         entry["sources"] = [{k: s[k] for k in ("title", "url")} for s in q["sources"]]
         old = history.get(q["id"])
         if old:
-            digest = hashlib.sha256(encode(entry).encode()).hexdigest()
-            require(q["content_revision"] >= old["revision"], f"Revision zurückgesetzt: {q['id']}")
-            require(q["content_revision"] > old["revision"] or old["sha256"] == digest, f"Inhalt ohne Revisionswechsel: {q['id']}")
+            check_history(entry, old)
         runtime.append(entry)
     content_hash = hashlib.sha256(encode([runtime, corrections]).encode()).hexdigest()
     version = "de-" + content_hash[:12]
@@ -135,28 +175,30 @@ def build(stage, output, as_of):
                 "release_distribution_complete": exact_reference and exact_release, "corrections": len(corrections),
                 "human_observations": sum(len(q["human_test_observations"]) for q in rows)}
     output.mkdir(parents=True, exist_ok=True)
-    (output / "catalog.json").write_text(encode({"version": version, "questions": runtime, "corrections": corrections}) + "\n", encoding="utf-8")
-    (output / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    (ROOT / "web/js/rules.js").write_text("// Generated from specs/product_rules.json.\nexport const RULES = " + json.dumps(rules, ensure_ascii=False, separators=(",", ":")) + ";\n", encoding="utf-8")
+    (output / "catalog.json").write_text(encode({"version": version, "questions": runtime, "corrections": corrections}) + "\n", encoding="utf-8", newline="\n")
+    (output / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
+    rules_path = rules_path or (output.parent / "js/rules.js")
+    rules_path.parent.mkdir(parents=True, exist_ok=True)
+    rules_path.write_text("// Generated from specs/product_rules.json.\nexport const RULES = " + json.dumps(rules, ensure_ascii=False, separators=(",", ":")) + ";\n", encoding="utf-8", newline="\n")
     return manifest
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--stage", choices=["starter", "reference", "batch", "release"], default="batch")
+    parser.add_argument("--stage", choices=["starter", "reference", "half", "batch", "release"], default="batch")
     parser.add_argument("--output", type=Path, default=DATA)
+    parser.add_argument("--rules-output", type=Path, help="optional output path for generated rules.js")
     parser.add_argument("--as-of", type=date.fromisoformat, default=date.today())
     parser.add_argument("--record-history", action="store_true", help="record hashes after editorial acceptance")
     args = parser.parse_args()
     try:
-        result = build(args.stage, args.output, args.as_of.isoformat())
+        result = build(args.stage, args.output, args.as_of.isoformat(), args.rules_output)
         if args.record_history:
             history_path = ROOT / "specs/revision-history.json"
             history = read(history_path) if history_path.exists() else {}
             for entry in read(args.output / "catalog.json")["questions"]:
-                history[entry["id"]] = {"revision": entry["content_revision"], "semantic_revision": entry["semantic_revision"],
-                                        "sha256": hashlib.sha256(encode(entry).encode()).hexdigest()}
-            history_path.write_text(json.dumps(history, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8")
+                history[entry["id"]] = revision_stamp(entry)
+            history_path.write_text(json.dumps(history, ensure_ascii=False, indent=1, sort_keys=True) + "\n", encoding="utf-8", newline="\n")
         print(f"{result['active']} Fragen / {result['facts']} Fakten / {result['reference']} Referenzfragen / {result['version']}")
     except (ValueError, KeyError) as exc:
         sys.exit(str(exc))

@@ -1,0 +1,2738 @@
+[
+  {
+    "id": "qs-lemuren-madagaskar",
+    "fact_key": "lemuren-madagaskar",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Auf welcher großen Insel vor Afrika leben zahlreiche Lemurenarten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Madagaskar"
+      },
+      {
+        "id": "b",
+        "text": "Island"
+      },
+      {
+        "id": "c",
+        "text": "Tasmanien"
+      },
+      {
+        "id": "d",
+        "text": "Neufundland"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Madagaskar ist das Zentrum der natürlichen Verbreitung der Lemuren. Sie gehören zu den Primaten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Lemur | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/lemur",
+        "verified_claim": "Madagaskar ist das Zentrum der natürlichen Verbreitung der Lemuren. Sie gehören zu den Primaten.",
+        "checked_at": "2026-11-20T01:33:40.257Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.435Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kleinpanda-schwanz",
+    "fact_key": "kleinpanda-schwanz",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wofür benutzt der Kleine Panda seinen langen, buschigen Schwanz beim Klettern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zum Ausbalancieren"
+      },
+      {
+        "id": "b",
+        "text": "Zum Hämmern an Bäumen"
+      },
+      {
+        "id": "c",
+        "text": "Zum Fangen von Fischen"
+      },
+      {
+        "id": "d",
+        "text": "Zum Graben von Gängen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kleine Pandas bewegen sich viel in Bäumen. Krallen geben Halt und der buschige Schwanz hilft beim Balancieren.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Red Panda | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/red-panda",
+        "verified_claim": "Kleine Pandas bewegen sich viel in Bäumen. Krallen geben Halt und der buschige Schwanz hilft beim Balancieren.",
+        "checked_at": "2026-11-20T01:33:40.257Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-stachelschwein-warnlaut",
+    "fact_key": "stachelschwein-warnlaut",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wie kann ein Altwelt-Stachelschwein mit seinen Schwanzstacheln warnen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es lässt sie rasseln."
+      },
+      {
+        "id": "b",
+        "text": "Es reibt sie zu feinem Staub."
+      },
+      {
+        "id": "c",
+        "text": "Es bläst Luft wie durch eine Flöte."
+      },
+      {
+        "id": "d",
+        "text": "Es wirft sie in hohem Bogen ab."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Am Schwanz sitzen hohle Stacheln. Beim Schütteln entsteht ein warnendes Rasseln.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Porcupine | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/porcupine",
+        "verified_claim": "Am Schwanz sitzen hohle Stacheln. Beim Schütteln entsteht ein warnendes Rasseln.",
+        "checked_at": "2026-11-20T01:33:40.257Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-tapir-kurzruessel",
+    "fact_key": "tapir-kurzruessel",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Woraus ist der kleine, bewegliche Rüssel eines Tapirs gebildet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aus Nase und Oberlippe"
+      },
+      {
+        "id": "b",
+        "text": "Aus zwei zusammengewachsenen Zähnen"
+      },
+      {
+        "id": "c",
+        "text": "Aus Zunge und Unterkiefer"
+      },
+      {
+        "id": "d",
+        "text": "Aus den verlängerten Ohrmuscheln"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nase und Oberlippe bilden ein Greiforgan. Der Tapir kann damit etwa Blätter abstreifen und Früchte aufnehmen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Tapir | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/tapir",
+        "verified_claim": "Nase und Oberlippe bilden ein Greiforgan. Der Tapir kann damit etwa Blätter abstreifen und Früchte aufnehmen.",
+        "checked_at": "2026-11-20T01:33:40.257Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-tapir-ordnungsverwandtschaft",
+    "fact_key": "tapir-ordnungsverwandtschaft",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Mit welchen Tieren ist der Tapir näher verwandt als mit Schweinen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pferden und Nashörnern"
+      },
+      {
+        "id": "b",
+        "text": "Hirschen und Rehen"
+      },
+      {
+        "id": "c",
+        "text": "Kamelen und Lamas"
+      },
+      {
+        "id": "d",
+        "text": "Flusspferden und Walen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Tapire zählen mit Pferden und Nashörnern zu den Unpaarhufern.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Tapir | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/tapir",
+        "verified_claim": "Tapire zählen mit Pferden und Nashörnern zu den Unpaarhufern.",
+        "checked_at": "2026-11-20T01:33:40.257Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-faultier-baumhaengend",
+    "fact_key": "faultier-baumhaengend",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "In welcher Haltung verbringt ein Zweifingerfaultier viel Zeit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Unter Ästen hängend"
+      },
+      {
+        "id": "b",
+        "text": "Aufrecht über das Gras laufend"
+      },
+      {
+        "id": "c",
+        "text": "Auf dem Meeresgrund liegend"
+      },
+      {
+        "id": "d",
+        "text": "Im Sand eingegraben"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In den Baumkronen frisst und schläft es häufig kopf- beziehungsweise rückenabwärts an Ästen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Two-toed Sloth | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/two-toed-sloth",
+        "verified_claim": "In den Baumkronen frisst und schläft es häufig kopf- beziehungsweise rückenabwärts an Ästen.",
+        "checked_at": "2026-11-20T01:33:40.257Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-nasenbaer-nahrungssuche",
+    "fact_key": "nasenbaer-nahrungssuche",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was hilft einem Nasenbären besonders bei der Futtersuche im Laub?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Seine bewegliche Schnauze"
+      },
+      {
+        "id": "b",
+        "text": "Ein langer Hornschnabel"
+      },
+      {
+        "id": "c",
+        "text": "Sein Geweih"
+      },
+      {
+        "id": "d",
+        "text": "Eine Raspelzunge für Holz"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nasenbären stöbern mit der langen, beweglichen Schnauze am Waldboden nach Insekten und anderer Nahrung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Coati | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/coati",
+        "verified_claim": "Nasenbären stöbern mit der langen, beweglichen Schnauze am Waldboden nach Insekten und anderer Nahrung.",
+        "checked_at": "2026-11-20T01:33:40.257Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-wombat-beuteltier",
+    "fact_key": "wombat-beuteltier",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Zu welcher Tiergruppe gehört der australische Wombat?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Beuteltiere"
+      },
+      {
+        "id": "b",
+        "text": "Nagetiere"
+      },
+      {
+        "id": "c",
+        "text": "Bären"
+      },
+      {
+        "id": "d",
+        "text": "Ameisenbären"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wombats sind mit Koalas und Kängurus verwandt. Die Jungen wachsen im Beutel der Mutter weiter.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wombat | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/wombat",
+        "verified_claim": "Wombats sind mit Koalas und Kängurus verwandt. Die Jungen wachsen im Beutel der Mutter weiter.",
+        "checked_at": "2026-11-20T01:33:40.257Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-wombat-bau-verteidigung",
+    "fact_key": "wombat-bau-verteidigung",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wie kann ein Wombat seinen Bau bei Gefahr versperren?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit seinem robusten Hinterteil"
+      },
+      {
+        "id": "b",
+        "text": "Mit einem Geweih"
+      },
+      {
+        "id": "c",
+        "text": "Mit den ausgebreiteten Ohren"
+      },
+      {
+        "id": "d",
+        "text": "Mit einem großen Blattvorhang"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Wombat flüchtet kopfvoran in seinen Gang und blockiert den Eingang mit dem widerstandsfähigen Hinterkörper.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wombat | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/wombat",
+        "verified_claim": "Der Wombat flüchtet kopfvoran in seinen Gang und blockiert den Eingang mit dem widerstandsfähigen Hinterkörper.",
+        "checked_at": "2026-11-20T01:33:40.257Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-orang-utan-inseln",
+    "fact_key": "orang-utan-inseln",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Auf welchen Inseln leben wilde Orang-Utans?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Borneo und Sumatra"
+      },
+      {
+        "id": "b",
+        "text": "Kreta und Zypern"
+      },
+      {
+        "id": "c",
+        "text": "Island und Grönland"
+      },
+      {
+        "id": "d",
+        "text": "Malta und Gozo"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die südostasiatischen Regen- und Sumpfwälder Borneos und Sumatras sind die Heimat der Orang-Utans.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Orangutan | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/orangutan",
+        "verified_claim": "Die südostasiatischen Regen- und Sumpfwälder Borneos und Sumatras sind die Heimat der Orang-Utans.",
+        "checked_at": "2026-11-20T01:33:40.149Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-orang-utan-wangen",
+    "fact_key": "orang-utan-wangen",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was fällt bei manchen ausgewachsenen Orang-Utan-Männchen im Gesicht besonders auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Große Wangenwülste"
+      },
+      {
+        "id": "b",
+        "text": "Ein knöchernes Stirnhorn"
+      },
+      {
+        "id": "c",
+        "text": "Ein breites Schuppenschild"
+      },
+      {
+        "id": "d",
+        "text": "Leuchtende Federbüschel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bei einem Teil der erwachsenen Männchen bilden sich auffällige Wangenpolster sowie ein Kehlsack.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Orangutan | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/orangutan",
+        "verified_claim": "Bei einem Teil der erwachsenen Männchen bilden sich auffällige Wangenpolster sowie ein Kehlsack.",
+        "checked_at": "2026-11-20T01:33:40.149Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-bonobo-menschenaffe",
+    "fact_key": "bonobo-menschenaffe",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welches dieser Tiere gehört zu den Menschenaffen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bonobo"
+      },
+      {
+        "id": "b",
+        "text": "Pavian"
+      },
+      {
+        "id": "c",
+        "text": "Lemur"
+      },
+      {
+        "id": "d",
+        "text": "Kapuzineraffe"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bonobos gehören wie Orang-Utans, Gorillas und Schimpansen zu den Menschenaffen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bonobo | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/bonobo",
+        "verified_claim": "Bonobos gehören wie Orang-Utans, Gorillas und Schimpansen zu den Menschenaffen.",
+        "checked_at": "2026-11-20T01:33:40.149Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-okapi-beine-streifen",
+    "fact_key": "okapi-beine-streifen",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welches Merkmal passt zum Okapi?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schwarz-weiß gestreifte Beine"
+      },
+      {
+        "id": "b",
+        "text": "Eine schwarze Mähne entlang des ganzen Rückens"
+      },
+      {
+        "id": "c",
+        "text": "Zwei große Höcker am Rücken"
+      },
+      {
+        "id": "d",
+        "text": "Ein breites Schaufelgeweih"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Beine des Okapis sind auffällig gestreift. Dieser Anblick erinnert viele Menschen zunächst an Zebras.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Okapi | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/okapi",
+        "verified_claim": "Die Beine des Okapis sind auffällig gestreift. Dieser Anblick erinnert viele Menschen zunächst an Zebras.",
+        "checked_at": "2026-11-20T01:33:40.149Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-okapi-zunge",
+    "fact_key": "okapi-zunge",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wie hilft dem Okapi seine lange, bewegliche Zunge beim Fressen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie streift Blätter und Knospen ab."
+      },
+      {
+        "id": "b",
+        "text": "Sie filtert Plankton."
+      },
+      {
+        "id": "c",
+        "text": "Sie bricht Nüsse wie eine Zange."
+      },
+      {
+        "id": "d",
+        "text": "Sie bohrt Löcher in Holz."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit der Greifzunge erreicht das Okapi junge Triebe im Unterwuchs des Regenwalds.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Okapi | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/okapi",
+        "verified_claim": "Mit der Greifzunge erreicht das Okapi junge Triebe im Unterwuchs des Regenwalds.",
+        "checked_at": "2026-11-20T01:33:40.149Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-hyaene-verwandtschaft",
+    "fact_key": "hyaene-verwandtschaft",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Mit welcher dieser Tiergruppen sind Hyänen am nächsten verwandt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Katzen"
+      },
+      {
+        "id": "b",
+        "text": "Hunden"
+      },
+      {
+        "id": "c",
+        "text": "Mardern"
+      },
+      {
+        "id": "d",
+        "text": "Robben"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Hyänen gehören zum Zweig der Katzenartigen. Ihre hundeähnliche Erscheinung kann täuschen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Spotted Hyena | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/spotted-hyena",
+        "verified_claim": "Hyänen gehören zum Zweig der Katzenartigen. Ihre hundeähnliche Erscheinung kann täuschen.",
+        "checked_at": "2026-11-20T01:33:40.149Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gepard-sprint",
+    "fact_key": "gepard-sprint",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welches Land-Säugetier erreicht im kurzen Sprint die höchste Geschwindigkeit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gepard"
+      },
+      {
+        "id": "b",
+        "text": "Löwe"
+      },
+      {
+        "id": "c",
+        "text": "Zebra"
+      },
+      {
+        "id": "d",
+        "text": "Gazelle"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Geparden sind an kurze, besonders schnelle Verfolgungen angepasst.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Cheetah | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/cheetah",
+        "verified_claim": "Geparden sind an kurze, besonders schnelle Verfolgungen angepasst.",
+        "checked_at": "2026-11-20T01:33:40.149Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gepard-krallen",
+    "fact_key": "gepard-krallen",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was unterscheidet die Krallen eines Gepards von denen vieler anderer Katzen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie bleiben meist teilweise sichtbar."
+      },
+      {
+        "id": "b",
+        "text": "Sie bestehen aus Federn."
+      },
+      {
+        "id": "c",
+        "text": "Sie sitzen nur an den Hinterpfoten."
+      },
+      {
+        "id": "d",
+        "text": "Sie fallen nach jedem Sprint ab."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Geparden können die Krallen nur begrenzt einziehen. Die schützenden Hauttaschen vieler anderer Katzen fehlen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Cheetah | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/cheetah",
+        "verified_claim": "Geparden können die Krallen nur begrenzt einziehen. Die schützenden Hauttaschen vieler anderer Katzen fehlen.",
+        "checked_at": "2026-11-20T01:33:40.149Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-komodo-groesste-echse",
+    "fact_key": "komodo-groesste-echse",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Echse gilt als die größte heute lebende Echsenart?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Komodowaran"
+      },
+      {
+        "id": "b",
+        "text": "Grüner Leguan"
+      },
+      {
+        "id": "c",
+        "text": "Zauneidechse"
+      },
+      {
+        "id": "d",
+        "text": "Bartagame"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Komodowaran ist eine Waranart aus Indonesien und übertrifft andere lebende Echsenarten an Körpergröße.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Komodo Dragon | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/komodo-dragon",
+        "verified_claim": "Der Komodowaran ist eine Waranart aus Indonesien und übertrifft andere lebende Echsenarten an Körpergröße.",
+        "checked_at": "2026-11-20T01:33:40.149Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-krokodil-zahnwechsel",
+    "fact_key": "krokodil-zahnwechsel",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was passiert bei Krokodilen im Laufe ihres Lebens mit abgenutzten Zähnen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Neue Zähne ersetzen sie."
+      },
+      {
+        "id": "b",
+        "text": "Die Zähne wandeln sich in Barten."
+      },
+      {
+        "id": "c",
+        "text": "Der Kiefer wird für immer zahnlos."
+      },
+      {
+        "id": "d",
+        "text": "Die Zähne wachsen zu einem Schnabel zusammen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Krokodile verfügen wiederholt über nachrückende Zähne. So bleibt ihr Gebiss funktionsfähig.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Crocodilian | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/crocodilian",
+        "verified_claim": "Krokodile verfügen wiederholt über nachrückende Zähne. So bleibt ihr Gebiss funktionsfähig.",
+        "checked_at": "2026-11-20T01:33:40.149Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-krokodil-sinneshaut",
+    "fact_key": "krokodil-sinneshaut",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wobei helfen einem Krokodil empfindliche Sinnesorgane seiner Haut?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bewegungen im Wasser wahrzunehmen"
+      },
+      {
+        "id": "b",
+        "text": "Sonnenlicht wie eine Pflanze zu nutzen"
+      },
+      {
+        "id": "c",
+        "text": "Fellwechsel einzuleiten"
+      },
+      {
+        "id": "d",
+        "text": "Salz zu festen Schuppen zu pressen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Feine Bewegungen in trübem Wasser können über diese Sinnesorgane erkannt werden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Crocodilian | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/crocodilian",
+        "verified_claim": "Feine Bewegungen in trübem Wasser können über diese Sinnesorgane erkannt werden.",
+        "checked_at": "2026-11-20T01:33:40.149Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-chamaeleon-augenbewegung",
+    "fact_key": "chamaeleon-augenbewegung",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was ist an den Augen eines Chamäleons besonders?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie lassen sich unabhängig ausrichten."
+      },
+      {
+        "id": "b",
+        "text": "Sie sitzen beide auf derselben Kopfseite."
+      },
+      {
+        "id": "c",
+        "text": "Sie schließen niemals."
+      },
+      {
+        "id": "d",
+        "text": "Sie werden nach jeder Häutung abgestoßen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein Chamäleon kann zwei verschiedene Richtungen beobachten. Bei der Jagd richtet es beide Augen auf dasselbe Ziel.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Chameleon | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/chameleon",
+        "verified_claim": "Ein Chamäleon kann zwei verschiedene Richtungen beobachten. Bei der Jagd richtet es beide Augen auf dasselbe Ziel.",
+        "checked_at": "2026-11-20T01:33:40.149Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-chamaeleon-greiffuss",
+    "fact_key": "chamaeleon-greiffuss",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wie geben die Zehen eines Chamäleons an einem Ast Halt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie greifen in zwei gegenüberliegenden Gruppen."
+      },
+      {
+        "id": "b",
+        "text": "Sie bilden eine durchgehende Schwimmhaut."
+      },
+      {
+        "id": "c",
+        "text": "Sie bilden eine feste Hufplatte."
+      },
+      {
+        "id": "d",
+        "text": "Sie enden in ausfahrbaren Federn."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die fünf Zehen sind zu zwei Gruppen zusammengefasst. Damit umfasst der Fuß einen Zweig wie eine Zange.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Chameleon | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/chameleon",
+        "verified_claim": "Die fünf Zehen sind zu zwei Gruppen zusammengefasst. Damit umfasst der Fuß einen Zweig wie eine Zange.",
+        "checked_at": "2026-11-20T01:33:40.149Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-schmetterling-puppe",
+    "fact_key": "schmetterling-puppe",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Entwicklungsstufe folgt beim Schmetterling auf die Raupe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Puppe"
+      },
+      {
+        "id": "b",
+        "text": "Das Ei"
+      },
+      {
+        "id": "c",
+        "text": "Der ausgewachsene Falter"
+      },
+      {
+        "id": "d",
+        "text": "Die zweite Eiablage"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bei der vollständigen Verwandlung folgen Ei, Raupe, Puppe und ausgewachsener Falter aufeinander.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Monarch Butterfly | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/monarch-butterfly",
+        "verified_claim": "Bei der vollständigen Verwandlung folgen Ei, Raupe, Puppe und ausgewachsener Falter aufeinander.",
+        "checked_at": "2026-11-20T01:33:42.140Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-monarch-seidenpflanzen",
+    "fact_key": "monarch-seidenpflanzen",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Auf welchen Pflanzen legen nordamerikanische Monarchfalter ihre Eier bevorzugt ab?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Seidenpflanzen"
+      },
+      {
+        "id": "b",
+        "text": "Gräser der Tundra"
+      },
+      {
+        "id": "c",
+        "text": "Wasserlinsen"
+      },
+      {
+        "id": "d",
+        "text": "Nadelbäume"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Seidenpflanzen dienen den geschlüpften Monarchraupen als Futterpflanzen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Monarch Butterfly | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/monarch-butterfly",
+        "verified_claim": "Die Seidenpflanzen dienen den geschlüpften Monarchraupen als Futterpflanzen.",
+        "checked_at": "2026-11-20T01:33:42.140Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-biene-bestaeubung",
+    "fact_key": "biene-bestaeubung",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Aufgabe übernehmen Bienen beim Blütenbesuch häufig für die Pflanzen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie übertragen Blütenpollen."
+      },
+      {
+        "id": "b",
+        "text": "Sie bilden die Wurzeln."
+      },
+      {
+        "id": "c",
+        "text": "Sie ersetzen die Samen."
+      },
+      {
+        "id": "d",
+        "text": "Sie färben die Blütenblätter."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bienen besuchen Blüten wegen Nektar und Pollen. Dabei können sie Pollen von einer Blüte zur nächsten tragen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bee | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/bee",
+        "verified_claim": "Bienen besuchen Blüten wegen Nektar und Pollen. Dabei können sie Pollen von einer Blüte zur nächsten tragen.",
+        "checked_at": "2026-11-20T01:33:42.140Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-solitaerbienen-lebensweise",
+    "fact_key": "solitaerbienen-lebensweise",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wie leben die meisten Bienenarten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einzeln statt in großen Völkern"
+      },
+      {
+        "id": "b",
+        "text": "Als Mitglieder eines einzigen weltweiten Stocks"
+      },
+      {
+        "id": "c",
+        "text": "Dauerhaft in Schwärmen ohne Nester"
+      },
+      {
+        "id": "d",
+        "text": "Nur in Gemeinschaft mit Ameisen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Viele Arten sind Solitärbienen. Ein Weibchen legt eigene Nester an und versorgt seine Brut.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bee | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/bee",
+        "verified_claim": "Viele Arten sind Solitärbienen. Ein Weibchen legt eigene Nester an und versorgt seine Brut.",
+        "checked_at": "2026-11-20T01:33:42.140Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-marienkaefer-blattlaeuse",
+    "fact_key": "marienkaefer-blattlaeuse",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Gartentiere stehen bei vielen Marienkäfern auf dem Speiseplan?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Blattläuse"
+      },
+      {
+        "id": "b",
+        "text": "Regenwürmer"
+      },
+      {
+        "id": "c",
+        "text": "Gehäuseschnecken"
+      },
+      {
+        "id": "d",
+        "text": "Asseln"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Sowohl erwachsene Marienkäfer mancher Arten als auch deren Larven verzehren Blattläuse.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Ladybug | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/ladybug",
+        "verified_claim": "Sowohl erwachsene Marienkäfer mancher Arten als auch deren Larven verzehren Blattläuse.",
+        "checked_at": "2026-11-20T01:33:42.140Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-spinne-acht-beine",
+    "fact_key": "spinne-acht-beine",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wie viele Laufbeine hat eine ausgewachsene Vogelspinne?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Acht"
+      },
+      {
+        "id": "b",
+        "text": "Sechs"
+      },
+      {
+        "id": "c",
+        "text": "Zehn"
+      },
+      {
+        "id": "d",
+        "text": "Vier"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Vogelspinnen haben wie andere Spinnen vier Beinpaare. Die vorderen Tastanhänge sind keine zusätzlichen Laufbeine.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Tarantula | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/tarantula",
+        "verified_claim": "Vogelspinnen haben wie andere Spinnen vier Beinpaare. Die vorderen Tastanhänge sind keine zusätzlichen Laufbeine.",
+        "checked_at": "2026-11-20T01:33:42.140Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-stabschrecke-tarnung",
+    "fact_key": "stabschrecke-tarnung",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was ahmt die Körperform vieler Stabschrecken nach?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einen dünnen Zweig"
+      },
+      {
+        "id": "b",
+        "text": "Eine auffällige Blüte mit Nektar"
+      },
+      {
+        "id": "c",
+        "text": "Einen runden Stein im Bach"
+      },
+      {
+        "id": "d",
+        "text": "Einen Vogelkopf"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die schlanke Gestalt lässt die Tiere zwischen Zweigen leicht übersehen. Manche Verwandte ähneln Blättern.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stick Insect | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/stick-insect",
+        "verified_claim": "Die schlanke Gestalt lässt die Tiere zwischen Zweigen leicht übersehen. Manche Verwandte ähneln Blättern.",
+        "checked_at": "2026-11-20T01:33:42.140Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-stabschrecke-nymphe",
+    "fact_key": "stabschrecke-nymphe",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Wie heißt das junge Stadium einer Stabschrecke nach dem Schlupf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nymphe"
+      },
+      {
+        "id": "b",
+        "text": "Kaulquappe"
+      },
+      {
+        "id": "c",
+        "text": "Made"
+      },
+      {
+        "id": "d",
+        "text": "Engerling"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eine junge Stabschrecke ähnelt bereits dem erwachsenen Tier. Durch mehrere Häutungen wächst sie heran.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stick Insect | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/stick-insect",
+        "verified_claim": "Eine junge Stabschrecke ähnelt bereits dem erwachsenen Tier. Durch mehrere Häutungen wächst sie heran.",
+        "checked_at": "2026-11-20T01:33:42.140Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-brillenpinguin-afrika",
+    "fact_key": "brillenpinguin-afrika",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "In welcher Gegend lebt der Brillenpinguin in freier Natur?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An den Küsten des südlichen Afrika"
+      },
+      {
+        "id": "b",
+        "text": "Am Nordpol"
+      },
+      {
+        "id": "c",
+        "text": "An der deutschen Nordseeküste"
+      },
+      {
+        "id": "d",
+        "text": "An japanischen Gebirgsseen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Brillenpinguine leben unter anderem an felsigen südafrikanischen Küsten. Dort schwimmen sie in kühlen Meeresströmungen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "African Penguin | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/african-penguin",
+        "verified_claim": "Brillenpinguine leben unter anderem an felsigen südafrikanischen Küsten. Dort schwimmen sie in kühlen Meeresströmungen.",
+        "checked_at": "2026-11-20T01:33:41.458Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-papagei-schnabel",
+    "fact_key": "papagei-schnabel",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wozu eignet sich der kräftige, gebogene Schnabel vieler Papageien besonders?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zum Knacken harter Samen und Nüsse"
+      },
+      {
+        "id": "b",
+        "text": "Zum Filtern winziger Algen"
+      },
+      {
+        "id": "c",
+        "text": "Zum Sägen von Baumstämmen"
+      },
+      {
+        "id": "d",
+        "text": "Zum Lecken von Blüten mit der Schnabelspitze"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der kräftige Schnabel bricht harte Hüllen auf und macht die Nahrung darin zugänglich.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Parrot | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/parrot",
+        "verified_claim": "Der kräftige Schnabel bricht harte Hüllen auf und macht die Nahrung darin zugänglich.",
+        "checked_at": "2026-11-20T01:33:41.458Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-tukan-nistplatz",
+    "fact_key": "tukan-nistplatz",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wo nisten Tukane typischerweise?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In Baumhöhlen"
+      },
+      {
+        "id": "b",
+        "text": "Im Kies am Strand"
+      },
+      {
+        "id": "c",
+        "text": "In schwimmenden Schilfnestern"
+      },
+      {
+        "id": "d",
+        "text": "In Erdröhren in Dünen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Tukane leben hoch in den Baumkronen. Als geschützten Nistplatz nutzen sie eine Höhlung im Stamm.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Toucan | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/toucan",
+        "verified_claim": "Tukane leben hoch in den Baumkronen. Als geschützten Nistplatz nutzen sie eine Höhlung im Stamm.",
+        "checked_at": "2026-11-20T01:33:41.458Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-pelikan-kehlsack",
+    "fact_key": "pelikan-kehlsack",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welcher große Wasservogel hat einen dehnbaren Kehlsack zum Fischfang?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pelikan"
+      },
+      {
+        "id": "b",
+        "text": "Höckerschwan"
+      },
+      {
+        "id": "c",
+        "text": "Graureiher"
+      },
+      {
+        "id": "d",
+        "text": "Kranich"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Pelikan nutzt seinen Kehlsack als Fanggerät. Bei Hitze kann er durch Bewegungen des Sacks zusätzlich Wärme abgeben.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pelican | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/pelican",
+        "verified_claim": "Der Pelikan nutzt seinen Kehlsack als Fanggerät. Bei Hitze kann er durch Bewegungen des Sacks zusätzlich Wärme abgeben.",
+        "checked_at": "2026-11-20T01:33:41.458Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-pelikan-schwimmhaeute",
+    "fact_key": "pelikan-schwimmhaeute",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Wie viele Zehen eines Pelikanfußes sind durch Schwimmhäute miteinander verbunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vier"
+      },
+      {
+        "id": "b",
+        "text": "Drei"
+      },
+      {
+        "id": "c",
+        "text": "Zwei"
+      },
+      {
+        "id": "d",
+        "text": "Fünf"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Pelikan ist auch die Hinterzehe eingebunden. Das unterstützt den Antrieb im Wasser.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pelican | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/pelican",
+        "verified_claim": "Beim Pelikan ist auch die Hinterzehe eingebunden. Das unterstützt den Antrieb im Wasser.",
+        "checked_at": "2026-11-20T01:33:41.458Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kiwi-neuseeland",
+    "fact_key": "kiwi-neuseeland",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Zu welcher Inselwelt gehört der flugunfähige Kiwi von Natur aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Neuseeland"
+      },
+      {
+        "id": "b",
+        "text": "Galápagos"
+      },
+      {
+        "id": "c",
+        "text": "Azoren"
+      },
+      {
+        "id": "d",
+        "text": "Balearen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Kiwi ist ein flugunfähiger, bodenlebender Vogel Neuseelands.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Kiwi | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/kiwi",
+        "verified_claim": "Der Kiwi ist ein flugunfähiger, bodenlebender Vogel Neuseelands.",
+        "checked_at": "2026-11-20T01:33:41.458Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kolibri-nektar",
+    "fact_key": "kolibri-nektar",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Nahrung erreicht der Kolibri mit seinem langen, schmalen Schnabel besonders gut?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nektar in Blüten"
+      },
+      {
+        "id": "b",
+        "text": "Samen in harten Zapfen"
+      },
+      {
+        "id": "c",
+        "text": "Muscheln im Sand"
+      },
+      {
+        "id": "d",
+        "text": "Nüsse mit dicker Schale"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der schmale Schnabel und die lange Zunge passen in viele Blütenröhren. Bei diesen Besuchen werden auch Pflanzen bestäubt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Hummingbird | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/hummingbird",
+        "verified_claim": "Der schmale Schnabel und die lange Zunge passen in viele Blütenröhren. Bei diesen Besuchen werden auch Pflanzen bestäubt.",
+        "checked_at": "2026-11-20T01:33:41.458Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-nashornvogel-aufsatz",
+    "fact_key": "nashornvogel-aufsatz",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Woraus besteht der auffällige Schnabelaufsatz vieler Nashornvögel hauptsächlich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Keratin"
+      },
+      {
+        "id": "b",
+        "text": "Kalkstein"
+      },
+      {
+        "id": "c",
+        "text": "Elfenbein"
+      },
+      {
+        "id": "d",
+        "text": "Zahnschmelz"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Aufsatz besteht bei vielen Arten aus einer hohlen oder schwammigen Struktur aus Keratin, einem Hornstoff.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Hornbill | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/hornbill",
+        "verified_claim": "Der Aufsatz besteht bei vielen Arten aus einer hohlen oder schwammigen Struktur aus Keratin, einem Hornstoff.",
+        "checked_at": "2026-11-20T01:33:41.458Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:35:29.436Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.099Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.099Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

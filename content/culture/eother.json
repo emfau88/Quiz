@@ -1,0 +1,2048 @@
+[
+  {
+    "id": "k-television-schimanski-george",
+    "fact_key": "television.schimanski.george",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer spielte den „Tatort“-Kommissar Horst Schimanski?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Götz George"
+      },
+      {
+        "id": "b",
+        "text": "Horst Tappert"
+      },
+      {
+        "id": "c",
+        "text": "Klausjürgen Wussow"
+      },
+      {
+        "id": "d",
+        "text": "Manfred Krug"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Götz George war 1981 im ersten „Tatort“ mit Schimanski zu sehen.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1981",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1981.html",
+        "verified_claim": "Götz George war 1981 im ersten „Tatort“ mit Schimanski zu sehen.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-television-derrick-tappert",
+    "fact_key": "television.derrick.tappert",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welcher Schauspieler verkörperte Oberinspektor Derrick?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Horst Tappert"
+      },
+      {
+        "id": "b",
+        "text": "Erik Ode"
+      },
+      {
+        "id": "c",
+        "text": "Fritz Wepper"
+      },
+      {
+        "id": "d",
+        "text": "Dieter Pfaff"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Horst Tappert verabschiedete sich 1998 nach der 281. Folge als Derrick vom Bildschirm.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1998",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1998.html",
+        "verified_claim": "Horst Tappert verabschiedete sich 1998 nach der 281. Folge als Derrick vom Bildschirm.",
+        "checked_at": "2026-11-20T01:11:37+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-television-aktenzeichen-concept",
+    "fact_key": "television.aktenzeichen.concept",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Sendung bittet ihr Publikum seit den 1960er-Jahren um Hinweise zu ungeklärten Kriminalfällen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aktenzeichen XY … ungelöst"
+      },
+      {
+        "id": "b",
+        "text": "Das aktuelle Sportstudio"
+      },
+      {
+        "id": "c",
+        "text": "Was bin ich?"
+      },
+      {
+        "id": "d",
+        "text": "Der große Preis"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die erste Folge von „Aktenzeichen XY … ungelöst“ strahlte das ZDF 1967 aus.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1967",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1967.html",
+        "verified_claim": "Die erste Folge von „Aktenzeichen XY … ungelöst“ strahlte das ZDF 1967 aus.",
+        "checked_at": "2026-11-20T01:11:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-television-sesamstrasse-origin",
+    "fact_key": "television.sesamstrasse.origin",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Aus welchem Land kam das Vorbild für die deutschsprachige „Sesamstraße“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "USA"
+      },
+      {
+        "id": "b",
+        "text": "Großbritannien"
+      },
+      {
+        "id": "c",
+        "text": "Frankreich"
+      },
+      {
+        "id": "d",
+        "text": "Schweden"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die amerikanische Vorschulserie war ab 1973 auch in deutscher Sprache zu sehen.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1973",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1973.html",
+        "verified_claim": "Die amerikanische Vorschulserie war ab 1973 auch in deutscher Sprache zu sehen.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cinema-winnetou-may",
+    "fact_key": "cinema.winnetou.may",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Auf wessen Roman beruht der Kinofilm „Winnetou I“ von 1963?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Karl Mays"
+      },
+      {
+        "id": "b",
+        "text": "Jack Londons"
+      },
+      {
+        "id": "c",
+        "text": "James Fenimore Coopers"
+      },
+      {
+        "id": "d",
+        "text": "Friedrich Gerstäckers"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Film kam 1963 als Adaption des gleichnamigen Romans von Karl May in die Kinos.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1963",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1963.html",
+        "verified_claim": "Der Film kam 1963 als Adaption des gleichnamigen Romans von Karl May in die Kinos.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-television-schwarzwald-kanal",
+    "fact_key": "television.schwarzwald.kanal",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welcher Sender zeigte 1985 die ersten Folgen der „Schwarzwaldklinik“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ZDF"
+      },
+      {
+        "id": "b",
+        "text": "RTL"
+      },
+      {
+        "id": "c",
+        "text": "Sat.1"
+      },
+      {
+        "id": "d",
+        "text": "Das Erste"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Krankenhausserie begann im ZDF mit einer rund neunzigminütigen Auftaktsendung.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1985",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1985.html",
+        "verified_claim": "Die Krankenhausserie begann im ZDF mit einer rund neunzigminütigen Auftaktsendung.",
+        "checked_at": "2026-11-20T01:11:34+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cinema-schwarzwaldmaedel-duo",
+    "fact_key": "cinema.schwarzwaldmaedel.duo",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer spielte 1950 neben Rudolf Prack im Farbfilm „Schwarzwaldmädel“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sonja Ziemann"
+      },
+      {
+        "id": "b",
+        "text": "Romy Schneider"
+      },
+      {
+        "id": "c",
+        "text": "Liselotte Pulver"
+      },
+      {
+        "id": "d",
+        "text": "Ruth Leuwerik"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Rudolf Prack und Sonja Ziemann waren das Paar vor der Kamera im Nachkriegsfarbfilm „Schwarzwaldmädel“.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1950",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1950.html",
+        "verified_claim": "Rudolf Prack und Sonja Ziemann waren das Paar vor der Kamera im Nachkriegsfarbfilm „Schwarzwaldmädel“.",
+        "checked_at": "2026-11-20T01:11:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cinema-gewand-widescreen",
+    "fact_key": "cinema.gewand.widescreen",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welcher Film mit Richard Burton machte 1953 das Breitwandverfahren CinemaScope im abendfüllenden Farbfilm bekannt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Gewand"
+      },
+      {
+        "id": "b",
+        "text": "Ben Hur"
+      },
+      {
+        "id": "c",
+        "text": "Spartacus"
+      },
+      {
+        "id": "d",
+        "text": "Quo vadis?"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Das Gewand“ war der erste abendfüllende CinemaScope-Farbfilm. Richard Burton spielte die Hauptrolle.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1953",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1953.html",
+        "verified_claim": "„Das Gewand“ war der erste abendfüllende CinemaScope-Farbfilm. Richard Burton spielte die Hauptrolle.",
+        "checked_at": "2026-11-20T01:11:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-television-tagesschau-1956",
+    "fact_key": "television.tagesschau.1956",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Nachrichtensendung wurde im Deutschen Fernsehen ab 1956 täglich ausgestrahlt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tagesschau"
+      },
+      {
+        "id": "b",
+        "text": "heute-journal"
+      },
+      {
+        "id": "c",
+        "text": "Tagesthemen"
+      },
+      {
+        "id": "d",
+        "text": "Bericht aus Berlin"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "1956 ging das Deutsche Fernsehen zur täglichen Ausstrahlung der „Tagesschau“ über.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1956",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1956.html",
+        "verified_claim": "1956 ging das Deutsche Fernsehen zur täglichen Ausstrahlung der „Tagesschau“ über.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-television-wolf-ddr",
+    "fact_key": "television.wolf.ddr",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Welcher Vierteiler war 1968 als erste Fernsehproduktion aus der DDR im bundesdeutschen Fernsehen zu sehen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wolf unter Wölfen"
+      },
+      {
+        "id": "b",
+        "text": "Ein Herz und eine Seele"
+      },
+      {
+        "id": "c",
+        "text": "Der Kommissar"
+      },
+      {
+        "id": "d",
+        "text": "Die Unverbesserlichen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das ZDF zeigte den vierteiligen Fernsehfilm „Wolf unter Wölfen“.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1968",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1968.html",
+        "verified_claim": "Das ZDF zeigte den vierteiligen Fernsehfilm „Wolf unter Wölfen“.",
+        "checked_at": "2026-11-20T01:11:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-television-herz-menge",
+    "fact_key": "television.herz.menge",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Serie von Wolfgang Menge nahm die vermeintliche Familienidylle aufs Korn?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Herz und eine Seele"
+      },
+      {
+        "id": "b",
+        "text": "Die Schwarzwaldklinik"
+      },
+      {
+        "id": "c",
+        "text": "Forsthaus Falkenau"
+      },
+      {
+        "id": "d",
+        "text": "Diese Drombuschs"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Ein Herz und eine Seele“ setzte auf eine bewusst streitlustige Fernsehfamilie.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1974",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1974.html",
+        "verified_claim": "„Ein Herz und eine Seele“ setzte auf eine bewusst streitlustige Fernsehfamilie.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cinema-katzelmacher-fassbinder",
+    "fact_key": "cinema.katzelmacher.fassbinder",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welcher deutsche Regisseur drehte „Katzelmacher“ über einen Gastarbeiter?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rainer Werner Fassbinder"
+      },
+      {
+        "id": "b",
+        "text": "Volker Schlöndorff"
+      },
+      {
+        "id": "c",
+        "text": "Wim Wenders"
+      },
+      {
+        "id": "d",
+        "text": "Werner Herzog"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Fassbinders Film hatte 1969 Premiere und erhielt im folgenden Jahr einen Filmförderungspreis.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1969",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1969.html",
+        "verified_claim": "Fassbinders Film hatte 1969 Premiere und erhielt im folgenden Jahr einen Filmförderungspreis.",
+        "checked_at": "2026-11-20T01:11:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-television-oppermann-novel",
+    "fact_key": "television.oppermann.novel",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Wer schrieb die Romanvorlage für Egon Monks Fernsehfilm „Die Geschwister Oppermann“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lion Feuchtwanger"
+      },
+      {
+        "id": "b",
+        "text": "Heinrich Böll"
+      },
+      {
+        "id": "c",
+        "text": "Siegfried Lenz"
+      },
+      {
+        "id": "d",
+        "text": "Stefan Zweig"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Monks Zweiteiler beruht auf Feuchtwangers Roman über eine jüdische Familie.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1983",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1983.html",
+        "verified_claim": "Monks Zweiteiler beruht auf Feuchtwangers Roman über eine jüdische Familie.",
+        "checked_at": "2026-11-20T01:11:34+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-television-phoenix-joint",
+    "fact_key": "television.phoenix.joint",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wie heißt der gemeinsame Ereignis- und Dokumentationskanal, den ARD und ZDF 1997 starteten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Phoenix"
+      },
+      {
+        "id": "b",
+        "text": "Arte"
+      },
+      {
+        "id": "c",
+        "text": "3sat"
+      },
+      {
+        "id": "d",
+        "text": "KiKA"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "ARD und ZDF nahmen Phoenix 1997 gemeinsam in Betrieb.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1997",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1997.html",
+        "verified_claim": "ARD und ZDF nahmen Phoenix 1997 gemeinsam in Betrieb.",
+        "checked_at": "2026-11-20T01:11:37+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cinema-bambi-prize",
+    "fact_key": "cinema.bambi.prize",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Auszeichnung bekamen Liselotte Pulver und Heinz Rühmann 1965 in München?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bambi"
+      },
+      {
+        "id": "b",
+        "text": "Goldener Bär"
+      },
+      {
+        "id": "c",
+        "text": "Goldene Palme"
+      },
+      {
+        "id": "d",
+        "text": "Oscar"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "1965 wurden die beiden Filmschauspieler mit dem Bambi geehrt.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1965",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1965.html",
+        "verified_claim": "1965 wurden die beiden Filmschauspieler mit dem Bambi geehrt.",
+        "checked_at": "2026-11-20T01:11:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-perform-flamenco-parts",
+    "fact_key": "perform.flamenco.parts",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Kunstform verbindet im spanischen Andalusien Cante, Baile und Toque?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Flamenco"
+      },
+      {
+        "id": "b",
+        "text": "Tango"
+      },
+      {
+        "id": "c",
+        "text": "Samba"
+      },
+      {
+        "id": "d",
+        "text": "Polka"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Flamenco kommen Gesang, Tanz und Instrumentalspiel zusammen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Flamenco",
+        "url": "https://ich.unesco.org/en/RL/flamenco-00363",
+        "verified_claim": "Beim Flamenco kommen Gesang, Tanz und Instrumentalspiel zusammen.",
+        "checked_at": "2026-11-20T01:24:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-perform-tango-cities",
+    "fact_key": "perform.tango.cities",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In welchen beiden Städten am Río de la Plata entwickelte sich der Tango?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Buenos Aires und Montevideo"
+      },
+      {
+        "id": "b",
+        "text": "Lima und Quito"
+      },
+      {
+        "id": "c",
+        "text": "Bogotá und Caracas"
+      },
+      {
+        "id": "d",
+        "text": "Salvador und Recife"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In den Vierteln von Buenos Aires und Montevideo trafen unterschiedliche musikalische und tänzerische Traditionen aufeinander.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Tango",
+        "url": "https://ich.unesco.org/en/RL/tango-00258",
+        "verified_claim": "In den Vierteln von Buenos Aires und Montevideo trafen unterschiedliche musikalische und tänzerische Traditionen aufeinander.",
+        "checked_at": "2026-11-20T01:24:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-perform-mariachi-mexico",
+    "fact_key": "perform.mariachi.mexico",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Aus welchem Land kommt die Mariachi-Musik mit ihren charakteristischen Streichern und Trompeten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mexiko"
+      },
+      {
+        "id": "b",
+        "text": "Kuba"
+      },
+      {
+        "id": "c",
+        "text": "Brasilien"
+      },
+      {
+        "id": "d",
+        "text": "Peru"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mariachi ist eine mexikanische Musiktradition. In modernen Ensembles spielen neben Geigen auch Trompeten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Mariachi, string music, song and trumpet",
+        "url": "https://ich.unesco.org/en/RL/mariachi-string-music-song-and-trumpet-00575",
+        "verified_claim": "Mariachi ist eine mexikanische Musiktradition. In modernen Ensembles spielen neben Geigen auch Trompeten.",
+        "checked_at": "2026-11-20T01:24:34+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-perform-gamelan-instruments",
+    "fact_key": "perform.gamelan.instruments",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Was ist ein indonesisches Gamelan?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Ensemble mit vielen Schlaginstrumenten"
+      },
+      {
+        "id": "b",
+        "text": "Ein Tanz für ein einzelnes Paar"
+      },
+      {
+        "id": "c",
+        "text": "Ein gesungenes Gebet ohne Begleitung"
+      },
+      {
+        "id": "d",
+        "text": "Eine Bühne für Handpuppen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zum Gamelan gehören häufig Gongs, Metallinstrumente und Trommeln. Der Name kann auch die Instrumente selbst bezeichnen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Gamelan",
+        "url": "https://ich.unesco.org/en/RL/gamelan-01607",
+        "verified_claim": "Zum Gamelan gehören häufig Gongs, Metallinstrumente und Trommeln. Der Name kann auch die Instrumente selbst bezeichnen.",
+        "checked_at": "2026-11-20T01:24:37+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-perform-kabuki-onnagata",
+    "fact_key": "perform.kabuki.onnagata",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Was spielen die als „Onnagata“ bezeichneten Darsteller im traditionellen japanischen Kabuki-Theater?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Frauenrollen"
+      },
+      {
+        "id": "b",
+        "text": "Ausschließlich Herrscher"
+      },
+      {
+        "id": "c",
+        "text": "Erzähler hinter der Bühne"
+      },
+      {
+        "id": "d",
+        "text": "Nur stumme Tierfiguren"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Onnagata sind im Kabuki männliche Darsteller, die sich auf die Darstellung von Frauen spezialisiert haben.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Kabuki theatre",
+        "url": "https://ich.unesco.org/en/RL/kabuki-theatre-00163",
+        "verified_claim": "Onnagata sind im Kabuki männliche Darsteller, die sich auf die Darstellung von Frauen spezialisiert haben.",
+        "checked_at": "2026-11-20T01:24:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-perform-bunraku-puppets",
+    "fact_key": "perform.bunraku.puppets",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Wer oder was steht beim japanischen Bunraku im Mittelpunkt der Darstellung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Geführte Puppen"
+      },
+      {
+        "id": "b",
+        "text": "Akrobaten auf Seilen"
+      },
+      {
+        "id": "c",
+        "text": "Maskierte Fechter"
+      },
+      {
+        "id": "d",
+        "text": "Dressierte Tiere"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Bunraku verbinden sich Puppenspiel, erzählender Gesang und instrumentale Begleitung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Ningyo Johruri Bunraku puppet theatre",
+        "url": "https://ich.unesco.org/en/RL/ningyo-johruri-bunraku-puppet-theatre-00064",
+        "verified_claim": "Beim Bunraku verbinden sich Puppenspiel, erzählender Gesang und instrumentale Begleitung.",
+        "checked_at": "2026-11-20T01:24:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-perform-karagoz-light",
+    "fact_key": "perform.karagoz.light",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wie entstehen die Bilder beim traditionellen türkischen Karagöz-Theater?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Figuren werfen Schatten auf einen Schirm."
+      },
+      {
+        "id": "b",
+        "text": "Maler zeichnen mit Kreide auf Glas."
+      },
+      {
+        "id": "c",
+        "text": "Schauspieler tragen bemalte Spiegel."
+      },
+      {
+        "id": "d",
+        "text": "Ein Filmprojektor zeigt gezeichnete Einzelbilder."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Spielfiguren aus Leder werden zwischen eine Lichtquelle und einen Schirm gehalten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Karagöz",
+        "url": "https://ich.unesco.org/en/RL/karagoz-00180",
+        "verified_claim": "Spielfiguren aus Leder werden zwischen eine Lichtquelle und einen Schirm gehalten.",
+        "checked_at": "2026-11-20T01:24:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-perform-pupi-sicily",
+    "fact_key": "perform.pupi.sicily",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Auf welcher italienischen Insel entstand das Marionettentheater „Opera dei Pupi“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sizilien"
+      },
+      {
+        "id": "b",
+        "text": "Sardinien"
+      },
+      {
+        "id": "c",
+        "text": "Elba"
+      },
+      {
+        "id": "d",
+        "text": "Capri"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die sizilianischen Puppenspieler erzählten unter anderem Rittergeschichten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Opera dei Pupi, Sicilian puppet theatre",
+        "url": "https://ich.unesco.org/en/RL/opera-dei-pupi-sicilian-puppet-theatre-00011",
+        "verified_claim": "Die sizilianischen Puppenspieler erzählten unter anderem Rittergeschichten.",
+        "checked_at": "2026-11-20T01:24:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-perform-wayang-java",
+    "fact_key": "perform.wayang.java",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Auf welcher indonesischen Insel hat das traditionelle Wayang-Puppenspiel seinen Ursprung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Java"
+      },
+      {
+        "id": "b",
+        "text": "Sumatra"
+      },
+      {
+        "id": "c",
+        "text": "Lombok"
+      },
+      {
+        "id": "d",
+        "text": "Borneo"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wayang entwickelte sich auf Java und verbreitete sich später auch auf anderen Inseln.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Wayang puppet theatre",
+        "url": "https://ich.unesco.org/en/RL/wayang-puppet-theatre-00063",
+        "verified_claim": "Wayang entwickelte sich auf Java und verbreitete sich später auch auf anderen Inseln.",
+        "checked_at": "2026-11-20T01:24:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-perform-gagaku-court",
+    "fact_key": "perform.gagaku.court",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Wo begleitet die japanische Musik- und Tanztradition Gagaku seit Langem Bankette und Zeremonien?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Am Kaiserhof"
+      },
+      {
+        "id": "b",
+        "text": "In Bergmannsgilden"
+      },
+      {
+        "id": "c",
+        "text": "Auf Fischerbooten"
+      },
+      {
+        "id": "d",
+        "text": "Bei Viehmärkten"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Gagaku begleitet unter anderem Bankette und Zeremonien im japanischen Kaiserpalast.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Gagaku",
+        "url": "https://ich.unesco.org/en/RL/gagaku-00265",
+        "verified_claim": "Gagaku begleitet unter anderem Bankette und Zeremonien im japanischen Kaiserpalast.",
+        "checked_at": "2026-11-20T01:24:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-perform-khoomei-two",
+    "fact_key": "perform.khoomei.two",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Was kann man beim mongolischen Obertongesang Khöömei aus einer einzigen Stimme zugleich hören?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einen Grundton und eine Melodie aus Obertönen"
+      },
+      {
+        "id": "b",
+        "text": "Zwei abwechselnd gesprochene Texte"
+      },
+      {
+        "id": "c",
+        "text": "Nur stimmloses Flüstern und Atempausen"
+      },
+      {
+        "id": "d",
+        "text": "Eine Melodie ohne jeden gehaltenen Ton"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Über einem gehaltenen Grundton macht die singende Person einzelne Obertöne als Melodie hörbar.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Mongolian traditional art of Khöömei",
+        "url": "https://ich.unesco.org/en/RL/mongolian-traditional-art-of-khoomei-00396",
+        "verified_claim": "Über einem gehaltenen Grundton macht die singende Person einzelne Obertöne als Melodie hörbar.",
+        "checked_at": "2026-11-20T01:24:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-perform-irish-harp",
+    "fact_key": "perform.irish.harp",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welches Saiteninstrument gilt als Nationalsymbol Irlands?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Harfe"
+      },
+      {
+        "id": "b",
+        "text": "Mandoline"
+      },
+      {
+        "id": "c",
+        "text": "Zither"
+      },
+      {
+        "id": "d",
+        "text": "Balalaika"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Harfenspiel ist seit über tausend Jahren auf der irischen Insel belegt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Irish harping",
+        "url": "https://ich.unesco.org/en/RL/irish-harping-01461",
+        "verified_claim": "Das Harfenspiel ist seit über tausend Jahren auf der irischen Insel belegt.",
+        "checked_at": "2026-11-20T01:24:36+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-perform-capoeira-circle",
+    "fact_key": "perform.capoeira.circle",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche afrobrasilianische Tradition verbindet zu Musik im Kreis tänzerische und kämpferische Bewegungen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Capoeira"
+      },
+      {
+        "id": "b",
+        "text": "Flamenco"
+      },
+      {
+        "id": "c",
+        "text": "Polka"
+      },
+      {
+        "id": "d",
+        "text": "Ballett"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Während zwei Menschen in der Mitte spielen, begleiten die anderen sie mit Klatschen, Gesang und Instrumenten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Capoeira circle",
+        "url": "https://ich.unesco.org/en/RL/capoeira-circle-00892",
+        "verified_claim": "Während zwei Menschen in der Mitte spielen, begleiten die anderen sie mit Klatschen, Gesang und Instrumenten.",
+        "checked_at": "2026-11-20T01:24:35+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:53+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:54:20+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:54:20+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "device": "sdk_gphone64_x86_64",
+  "api": "34",
+  "pageSize": "4096",
+  "run": "2026-11-20T01:35:53.807Z",
+  "checks": [
+    "360 × 640, Erststart im Flugmodus ohne horizontales Überlaufen (360 CSS-Pixel)",
+    "Frage und Antwortschaltflächen im Accessibility-Baum der laufenden WebView",
+    "Prozess vor erster Antwort beendet und identisch wiederaufgenommen",
+    "Prozess nach Antwort beendet, Antwort, Reihenfolge und Erklärung identisch",
+    "System-Zurück während einer Runde öffnet die bewusste Pausenentscheidung",
+    "Prozess vor Ergebnis beendet, letzte Erklärung und Weiteraktion verfügbar",
+    "Sieben richtige Antworten ergeben 90 XP und einen einzigen Ledger-Eintrag",
+    "Virtueller Vergleich enthält drei ausdrücklich bezeichnete Computergegner",
+    "Erinnerung anfangs aus, unkonfigurierte Play-Vorschau bietet keinen Preis und keinen Kauf an",
+    "1080x2400 mit Android-Systemschrift 1.5 ohne horizontales Überlaufen (360 CSS-Pixel)",
+    "Ergebnis mit Android-Systemschrift 1.5 ohne horizontales Überlaufen (360 CSS-Pixel)",
+    "1080x1920 mit Android-Systemschrift 2.0 ohne horizontales Überlaufen (360 CSS-Pixel)",
+    "Ergebnis mit Android-Systemschrift 2.0 ohne horizontales Überlaufen (360 CSS-Pixel)",
+    "Wiederholte Ergebnisaufrufe und Schriftwechsel behalten genau einen Bonus"
+  ],
+  "screenshots": [
+    "01-frage.png",
+    "02-erklaerung.png",
+    "03-ergebnis.png",
+    "04-heute.png",
+    "05-themen.png",
+    "06-wissen.png",
+    "schrift-1.5.png",
+    "schrift-2.0.png"
+  ],
+  "ok": true
+}

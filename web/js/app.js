@@ -3,6 +3,7 @@ import {clock, newGame, startRound, answer, advance, abandon, applyCorrections} 
 import {initStorage, readGame, transact, onExternalSave} from './storage.js';
 import {themeAccess} from './access.js';
 import {loadCatalog} from './catalog.js';
+import {CREDITS} from './credits.js';
 import {icon} from './icons.js';
 import {esc, action, nameOf, frame, quizPage, todayPage, resultPage, knowledgePage, topicsPage, settingsPage, modeLabel, sourceLinks} from './views.js';
 
@@ -10,7 +11,7 @@ const app = document.querySelector('#app'), dialog = document.querySelector('#di
 const routes = {today:'heute',topics:'themen',knowledge:'wissen',settings:'einstellungen',quiz:'runde',result:'ergebnis'};
 const pages = {today:todayPage,quiz:quizPage,result:resultPage,topics:topicsPage,knowledge:knowledgePage,settings:settingsPage};
 let catalog, installation, state, route = 'today', sessionId = '', tab = 'album', filter = 'all';
-let modal = '', trigger, busy = false, lastDay = clock().day, pendingBack = null;
+let modal = '', trigger, busy = false, lastDay = clock().day;
 const APP_VERSION = '0.1.0';
 const currentSession = () => state.sessions[sessionId];
 const fragment = (page, id = '') => '#' + routes[page] + (id ? '/' + encodeURIComponent(id) : '');
@@ -93,8 +94,7 @@ async function begin(mode, category = null) {
   });
   await openSession(id);
 }
-function pause(destination = {page:'today',id:''}) {
-  pendingBack = destination;
+function pause() {
   showDialog('pause','Runde pausieren?', '<p>Deine Antworten sind gespeichert. Du kannst mit derselben Frage und Antwortreihenfolge weiterspielen.</p>' +
     '<div class="actions">' + action('close','Fortsetzen','primary') + action('leave-round','Zur Übersicht') + '</div>');
 }
@@ -175,14 +175,21 @@ function privacy() {
   const details = operatorInfo();
   showDialog('privacy','Datenschutz und App-Informationen',
     '<p>Quizsalon speichert Antworten, Fortschritt und Einstellungen lokal. Es gibt keine Konten, Werbung oder automatische Spielanalyse. Die Fragen sind bei der Installation enthalten.</p>' +
-    '<p>' + (native ? 'Android kann den Spielstand über das Systembackup sichern. Kaufdaten und die Installationskennung sind davon ausgeschlossen. Für Käufe kommuniziert Google Play mit deinem Play-Konto.' :
+    '<p>' + (native ? 'Android kann den Spielstand über das Systembackup sichern. Kaufdaten und die Installationskennung sind davon ausgeschlossen. ' +
+      (themeAccess().canRestore ? 'Für Käufe kommuniziert Google Play mit deinem Play-Konto.' : 'Diese lokale Testausgabe verkauft keine Produkte.') :
       'Dein Browser verwaltet den Spielstand für diese Ausgabe. Das Löschen der Website-Daten oder ein anderes Browserprofil kann den Zugriff darauf beenden.') + '</p>' +
     '<p>Externe Quellen öffnen sich erst nach deiner Auswahl. Eine Fragenmeldung wird nur auf deinen Wunsch kopiert oder in einer E-Mail vorbereitet.</p>' +
     (details.operator ? '<p>Betreiber · ' + esc(details.operator) + '<br>Kontakt · ' + esc(details.supportEmail) +
       '<br><a target="_blank" rel="noopener" href="' + esc(details.privacyUrl) + '">Datenschutzerklärung öffnen</a></p>' :
       '<p>Lokale Testausgabe. Öffentliche Betreiber- und Supportangaben sind noch offen.</p>') +
     '<p class="quiet">Version ' + APP_VERSION + ' · ' + catalog.questions.length + ' Fragen · Katalog ' + esc(catalog.version) +
-    '. Schriften DM Sans und Spectral, SIL Open Font License. Die Salonillustration wurde für Quizsalon erstellt.</p>');
+    '. Die Salonillustration wurde für Quizsalon erstellt.</p>' + action('credits','Quellen und Lizenzen'));
+}
+function creditsDialog() {
+  const rows = CREDITS.map(c => '<details class="rules-detail"><summary><strong>' + esc(c.title) + '</strong>' +
+    icon('down') + '</summary><p>' + esc(c.notice) + '</p><p><a target="_blank" rel="noopener noreferrer" href="' + esc(c.url) +
+    '">Zur Originalquelle</a></p>' + (c.license ? '<pre class="license">' + esc(c.license) + '</pre>' : '') + '</details>');
+  showDialog('credits','Quellen und Lizenzen','<p>Den Beleg für eine einzelne Frage findest du nach der Antwort und auf ihrer Karte im Wissensalbum.</p>' + rows.join(''));
 }
 async function runAction(key, el) {
   const id = el.dataset.id, pos = Number(el.dataset.pos);
@@ -192,10 +199,7 @@ async function runAction(key, el) {
     case 'daily': await begin('daily'); break;
     case 'themes': await go('topics'); break;
     case 'pause': pause(); break;
-    case 'leave-round': {
-      const target = pendingBack || {page:'today',id:''};
-      await go(target.page,target.id,{replace:true}); break;
-    }
+    case 'leave-round': await go('today','',{replace:true}); break;
     case 'open-session': await openSession(id); break;
     case 'answer': {
       let changed = false;
@@ -250,6 +254,7 @@ async function runAction(key, el) {
     }
     case 'stop-reminder': native?.setReminder(''); break;
     case 'privacy': privacy(); break;
+    case 'credits': creditsDialog(); break;
   }
 }
 document.addEventListener('click', async event => {
@@ -285,7 +290,7 @@ window.addEventListener('popstate', () => {
   const dest = decodeRoute(location.hash);
   if (route === 'quiz' && currentSession()?.status === 'active') {
     history.pushState({quizsalon:true},'',fragment(route,sessionId));
-    if (dialog.open) closeDialog(); else pause(dest);
+    if (dialog.open) closeDialog(); else pause();
   } else go(dest.page,dest.id,{replace:true}).catch(errorDialog);
 });
 async function refresh() {

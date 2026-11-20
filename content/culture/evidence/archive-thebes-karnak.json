@@ -1,0 +1,72 @@
+{
+  "id": "k-thebes-karnak",
+  "fact_key": "thebes.karnak",
+  "category": "history_discoveries",
+  "difficulty": "easy",
+  "question": "Zu welcher antiken Stadt gehörten die Tempelanlagen von Karnak und Luxor?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Theben"
+    },
+    {
+      "id": "b",
+      "text": "Alexandria"
+    },
+    {
+      "id": "c",
+      "text": "Karthago"
+    },
+    {
+      "id": "d",
+      "text": "Babylon"
+    }
+  ],
+  "correct_option_id": "a",
+  "explanation": "Theben war über lange Zeit eine Hauptstadt Ägyptens. Zur historischen Stätte gehören auch Gräber auf der anderen Nilseite.",
+  "tags": [],
+  "content_revision": 1,
+  "semantic_revision": 1,
+  "valid_until": null,
+  "status": "release_approved",
+  "sources": [
+    {
+      "id": "s1",
+      "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Ancient Thebes with its Necropolis",
+      "url": "https://whc.unesco.org/en/list/87/",
+      "verified_claim": "Theben war über lange Zeit eine Hauptstadt Ägyptens. Zur historischen Stätte gehören auch Gräber auf der anderen Nilseite.",
+      "checked_at": "2026-11-20T01:36:42+00:00"
+    }
+  ],
+  "review": {
+    "fact": {
+      "actor_type": "agent",
+      "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "at": "2026-11-20T01:44:42+00:00",
+      "source_ids": [
+        "s1"
+      ],
+      "content_revision": 1,
+      "semantic_revision": 1,
+      "result": "pass"
+    },
+    "editorial": {
+      "actor_type": "agent",
+      "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "at": "2026-11-20T01:44:55+00:00",
+      "source_ids": [
+        "s1"
+      ],
+      "content_revision": 1,
+      "semantic_revision": 1,
+      "result": "pass"
+    },
+    "approved_at": "2026-11-20T01:44:55+00:00",
+    "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+    "issues": [],
+    "length_exception": null
+  },
+  "human_test_observations": [],
+  "reference": false,
+  "starter": false
+}

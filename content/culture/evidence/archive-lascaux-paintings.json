@@ -1,0 +1,72 @@
+{
+  "id": "k-lascaux-paintings",
+  "fact_key": "lascaux.paintings",
+  "category": "history_discoveries",
+  "difficulty": "easy",
+  "question": "Wofür ist die Höhle von Lascaux bekannt?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Für vorgeschichtliche Wandmalereien"
+    },
+    {
+      "id": "b",
+      "text": "Für römische Mosaiken"
+    },
+    {
+      "id": "c",
+      "text": "Für gotische Glasfenster"
+    },
+    {
+      "id": "d",
+      "text": "Für barocke Fresken"
+    }
+  ],
+  "correct_option_id": "a",
+  "explanation": "Lascaux gehört zu einer Gruppe steinzeitlicher Fundstätten im französischen Vézère-Tal.",
+  "tags": [],
+  "content_revision": 1,
+  "semantic_revision": 1,
+  "valid_until": null,
+  "status": "release_approved",
+  "sources": [
+    {
+      "id": "s1",
+      "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Prehistoric Sites and Decorated Caves of the Vézère Valley",
+      "url": "https://whc.unesco.org/en/list/85/",
+      "verified_claim": "Lascaux gehört zu einer Gruppe steinzeitlicher Fundstätten im französischen Vézère-Tal.",
+      "checked_at": "2026-11-20T01:36:42+00:00"
+    }
+  ],
+  "review": {
+    "fact": {
+      "actor_type": "agent",
+      "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "at": "2026-11-20T01:44:42+00:00",
+      "source_ids": [
+        "s1"
+      ],
+      "content_revision": 1,
+      "semantic_revision": 1,
+      "result": "pass"
+    },
+    "editorial": {
+      "actor_type": "agent",
+      "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "at": "2026-11-20T01:44:55+00:00",
+      "source_ids": [
+        "s1"
+      ],
+      "content_revision": 1,
+      "semantic_revision": 1,
+      "result": "pass"
+    },
+    "approved_at": "2026-11-20T01:44:55+00:00",
+    "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+    "issues": [],
+    "length_exception": null
+  },
+  "human_test_observations": [],
+  "reference": false,
+  "starter": false
+}

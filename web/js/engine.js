@@ -24,7 +24,7 @@ export function monday(day) {
   return addDays(day, -(weekday + 6) % 7);
 }
 export function newGame() {
-  return {schema: 2, sessions: {}, progress: {}, awards: {}, ledger: {}, trials: {},
+  return {schema: 2, sessions: {}, progress: {}, awards: {}, ledger: {}, trials: {}, corrections: {},
     settings: {comparison: true, sound: false, haptics: false}, lastView: 'today'};
 }
 export function migrate(saved) {
@@ -92,7 +92,7 @@ function choose(state, catalog, mode, category, day, seed) {
       if (item.answer && !item.void) seenByCategory[item.q.category] = (seenByCategory[item.q.category] || 0) + 1;
     }
   }
-  const withdrawn = new Set(catalog.corrections.map(keyOf));
+  const withdrawn = new Set([...Object.keys(state.corrections || {}), ...catalog.corrections.map(keyOf)]);
   const pool = shuffle(catalog.questions.filter(q =>
     (!category || category === q.category) && (!q.valid_until || q.valid_until >= day) &&
     !withdrawn.has(keyOf(q)) && !reservedFacts.has(q.fact_key) && !reservedIds.has(q.id)
@@ -225,8 +225,10 @@ export function abandon(state, id) {
   if (state.sessions[id]?.status === 'active') state.sessions[id].status = 'abandoned';
 }
 export function applyCorrections(state, catalog) {
-  if (!catalog.corrections.length) return;
-  const retired = new Set(catalog.corrections.map(keyOf));
+  const known = state.corrections ??= {};
+  for (const correction of catalog.corrections) known[keyOf(correction)] = correction;
+  const retired = new Set(Object.keys(known));
+  if (!retired.size) return;
   for (const s of Object.values(state.sessions)) {
     for (const item of s.items) {
       if (!retired.has(keyOf(item.q))) continue;
@@ -250,7 +252,7 @@ export function weekActivity(state, day) {
 }
 export function collection(state, catalog) {
   const current = new Map(catalog.questions.map(q => [q.id, q]));
-  const withdrawn = new Map(catalog.corrections.map(c => [keyOf(c), c]));
+  const withdrawn = new Map([...Object.entries(state.corrections || {}), ...catalog.corrections.map(c => [keyOf(c), c])]);
   const found = new Map();
   for (const s of Object.values(state.sessions)) {
     for (const item of s.items) {
@@ -277,6 +279,7 @@ export function collection(state, catalog) {
 export function statistics(state, catalog) {
   const valid = new Set(catalog.questions.map(keyOf));
   for (const c of catalog.corrections) valid.delete(keyOf(c));
+  for (const k of Object.keys(state.corrections || {})) valid.delete(k);
   const stats = {first: {hits: 0, total: 0}, repeat: {hits: 0, total: 0}};
   for (const [key, p] of Object.entries(state.progress)) {
     if (!valid.has(key)) continue;

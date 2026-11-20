@@ -1,0 +1,2450 @@
+[
+  {
+    "id": "qs-schneeflocke-kristalle",
+    "fact_key": "schneeflocke-kristalle",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Woraus besteht eine Schneeflocke?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aus Eiskristallen"
+      },
+      {
+        "id": "b",
+        "text": "Aus Salzkristallen"
+      },
+      {
+        "id": "c",
+        "text": "Aus gefrorenen Sandkörnern"
+      },
+      {
+        "id": "d",
+        "text": "Aus winzigen Luftblasen ohne Wasser"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In einer Schneeflocke können sich beim Fallen mehrere Eiskristalle miteinander verbinden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Severe Weather 101: Winter Weather Types",
+        "url": "https://www.nssl.noaa.gov/education/svrwx101/winter/types/",
+        "verified_claim": "In einer Schneeflocke können sich beim Fallen mehrere Eiskristalle miteinander verbinden.",
+        "checked_at": "2026-11-20T01:41:59.225Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.734Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-hagel-entstehung",
+    "fact_key": "hagel-entstehung",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "In welchen Wolken können kräftige Aufwinde Hagelkörner wachsen lassen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In Gewitterwolken"
+      },
+      {
+        "id": "b",
+        "text": "In dünnen Schönwetterwolken"
+      },
+      {
+        "id": "c",
+        "text": "In Bodennebel"
+      },
+      {
+        "id": "d",
+        "text": "In ruhigen Hochnebelschichten"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Aufwinde tragen Wassertropfen in sehr kalte Bereiche der Gewitterwolke. Weitere Tropfen können dort an den Eiskörnern festfrieren.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Severe Weather 101: Hail Basics",
+        "url": "https://www.nssl.noaa.gov/education/svrwx101/hail/",
+        "verified_claim": "Aufwinde tragen Wassertropfen in sehr kalte Bereiche der Gewitterwolke. Weitere Tropfen können dort an den Eiskörnern festfrieren.",
+        "checked_at": "2026-11-20T01:41:59.225Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.734Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-donner-ursache",
+    "fact_key": "donner-ursache",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was bringt die Luft beim Donner besonders plötzlich in Bewegung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die starke Erwärmung durch einen Blitz"
+      },
+      {
+        "id": "b",
+        "text": "Die Drehung der Erde"
+      },
+      {
+        "id": "c",
+        "text": "Das Schmelzen eines Hagelkorns"
+      },
+      {
+        "id": "d",
+        "text": "Der Schatten einer Gewitterwolke"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Entlang des Blitzkanals wird die Luft sehr rasch heiß. Ihre Ausdehnung erzeugt die Schallwelle.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Severe Weather 101: Lightning FAQ",
+        "url": "https://www.nssl.noaa.gov/education/svrwx101/lightning/faq/",
+        "verified_claim": "Entlang des Blitzkanals wird die Luft sehr rasch heiß. Ihre Ausdehnung erzeugt die Schallwelle.",
+        "checked_at": "2026-11-20T01:41:59.225Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.734Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gefrierender-regen",
+    "fact_key": "gefrierender-regen",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wann spricht man von gefrierendem Regen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wenn unterkühlte Tropfen beim Auftreffen gefrieren"
+      },
+      {
+        "id": "b",
+        "text": "Wenn Eiskugeln in einer Wolke wachsen"
+      },
+      {
+        "id": "c",
+        "text": "Wenn Schnee ohne Schmelzen liegen bleibt"
+      },
+      {
+        "id": "d",
+        "text": "Wenn Wasserdampf unmittelbar zu Raureif wird"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Tropfen können bis zum Boden flüssig bleiben. Auf ausreichend kalten Flächen bildet sich dann eine Eisschicht.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Severe Weather 101: Winter Weather Types",
+        "url": "https://www.nssl.noaa.gov/education/svrwx101/winter/types/",
+        "verified_claim": "Die Tropfen können bis zum Boden flüssig bleiben. Auf ausreichend kalten Flächen bildet sich dann eine Eisschicht.",
+        "checked_at": "2026-11-20T01:41:59.225Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.734Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kohle-pflanzlich",
+    "fact_key": "kohle-pflanzlich",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Woraus entstand Kohle ursprünglich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aus angesammelten Pflanzenresten"
+      },
+      {
+        "id": "b",
+        "text": "Aus geschmolzenem Granit"
+      },
+      {
+        "id": "c",
+        "text": "Aus Meersalz"
+      },
+      {
+        "id": "d",
+        "text": "Aus verdichtetem Gletschereis"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Über lange Zeit wurde kohlenstoffreiches Pflanzenmaterial von weiteren Schichten überdeckt und umgewandelt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Sedimentary Rocks - Geology (U.S. National Park Service)",
+        "url": "https://www.nps.gov/subjects/geology/sedimentary.htm",
+        "verified_claim": "Über lange Zeit wurde kohlenstoffreiches Pflanzenmaterial von weiteren Schichten überdeckt und umgewandelt.",
+        "checked_at": "2026-11-20T01:33:41.500Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.735Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-sedimentgestein-schichten",
+    "fact_key": "sedimentgestein-schichten",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Entstehung ist typisch für Sedimentgesteine?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Material lagert sich ab und verfestigt sich."
+      },
+      {
+        "id": "b",
+        "text": "Lava erstarrt immer unter Wasser."
+      },
+      {
+        "id": "c",
+        "text": "Ein Gletscher gefriert bis zum Grund."
+      },
+      {
+        "id": "d",
+        "text": "Ein Meteorit verdampft in der Atmosphäre."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ablagerungen sammeln sich häufig in Schichten an. Druck und natürliche Bindemittel können daraus festes Gestein machen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Sedimentary Rocks - Geology (U.S. National Park Service)",
+        "url": "https://www.nps.gov/subjects/geology/sedimentary.htm",
+        "verified_claim": "Ablagerungen sammeln sich häufig in Schichten an. Druck und natürliche Bindemittel können daraus festes Gestein machen.",
+        "checked_at": "2026-11-20T01:33:41.500Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-sand-verwitterung",
+    "fact_key": "sand-verwitterung",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welcher Vorgang kann aus festem Gestein allmählich Sand machen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Verwitterung und Abtragung"
+      },
+      {
+        "id": "b",
+        "text": "Blütenbestäubung"
+      },
+      {
+        "id": "c",
+        "text": "Verdunstung von Süßwasser allein"
+      },
+      {
+        "id": "d",
+        "text": "Einfrieren von Wasserdampf"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kleine Körner lösen sich aus dem Gestein. Wasser oder Wind können sie weitertransportieren.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "How does sand form?",
+        "url": "https://oceanservice.noaa.gov/facts/sand.html",
+        "verified_claim": "Kleine Körner lösen sich aus dem Gestein. Wasser oder Wind können sie weitertransportieren.",
+        "checked_at": "2026-11-20T01:41:59.164Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-seestern-salz",
+    "fact_key": "seestern-salz",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "In welcher Art von Gewässer leben Seesterne von Natur aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In Salzwasser"
+      },
+      {
+        "id": "b",
+        "text": "In Süßwasserseen"
+      },
+      {
+        "id": "c",
+        "text": "In Regenpfützen"
+      },
+      {
+        "id": "d",
+        "text": "In Bergbächen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Seesterne sind Meerestiere. Zu ihren Verwandten zählen Seeigel und Seegurken.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Are starfish really fish?",
+        "url": "https://oceanservice.noaa.gov/facts/starfish.html",
+        "verified_claim": "Seesterne sind Meerestiere. Zu ihren Verwandten zählen Seeigel und Seegurken.",
+        "checked_at": "2026-11-20T01:41:59.164Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-seestern-arme",
+    "fact_key": "seestern-arme",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was kann bei vielen Seesternen nach dem Verlust eines Arms geschehen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Arm wächst nach."
+      },
+      {
+        "id": "b",
+        "text": "Alle anderen Arme lösen sich ab."
+      },
+      {
+        "id": "c",
+        "text": "Der übrige Körper wird von einer Muschelschale umschlossen."
+      },
+      {
+        "id": "d",
+        "text": "Die übrigen Arme wachsen zu einem Ring zusammen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Seesterne können verlorene Arme regenerieren. Je nach Art kommen auch mehr als fünf Arme vor.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Are starfish really fish?",
+        "url": "https://oceanservice.noaa.gov/facts/starfish.html",
+        "verified_claim": "Seesterne können verlorene Arme regenerieren. Je nach Art kommen auch mehr als fünf Arme vor.",
+        "checked_at": "2026-11-20T01:41:59.164Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-sepia-tintenwolke",
+    "fact_key": "sepia-tintenwolke",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wie kann eine Sepia einen Verfolger bei der Flucht ablenken?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie stößt eine Tintenwolke aus."
+      },
+      {
+        "id": "b",
+        "text": "Sie wirft eine harte Außenschale ab."
+      },
+      {
+        "id": "c",
+        "text": "Sie gibt einen langen Luftpfiff ab."
+      },
+      {
+        "id": "d",
+        "text": "Sie gräbt ein Nest in einen Baum."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Sepien können sich tarnen und bei Gefahr Tinte freisetzen. Das erschwert es dem Verfolger, sie im Blick zu behalten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Common cuttlefish | Monterey Bay Aquarium",
+        "url": "https://www.montereybayaquarium.org/animals/animals-a-to-z/common-cuttlefish",
+        "verified_claim": "Sepien können sich tarnen und bei Gefahr Tinte freisetzen. Das erschwert es dem Verfolger, sie im Blick zu behalten.",
+        "checked_at": "2026-11-20T01:41:59.164Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kalifornischer-kelp-seeigel",
+    "fact_key": "kalifornischer-kelp-seeigel",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wie können Seeotter vor Kalifornien den Kelpwald schützen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie fressen Seeigel, die am Kelp weiden."
+      },
+      {
+        "id": "b",
+        "text": "Sie bauen Dämme über die Buchten."
+      },
+      {
+        "id": "c",
+        "text": "Sie tragen Algen an Land."
+      },
+      {
+        "id": "d",
+        "text": "Sie verhindern jede Gezeitenströmung."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Seeigel können einen Kelpwald stark abweiden. Seeotter begrenzen ihre Zahl.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Sea otter | Monterey Bay Aquarium",
+        "url": "https://www.montereybayaquarium.org/animals/animals-a-to-z/sea-otter",
+        "verified_claim": "Seeigel können einen Kelpwald stark abweiden. Seeotter begrenzen ihre Zahl.",
+        "checked_at": "2026-11-20T01:21:07.934Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-biber-schwanzschlag",
+    "fact_key": "biber-schwanzschlag",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wozu schlägt ein Biber bei Gefahr mit dem Schwanz auf die Wasseroberfläche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Um Artgenossen zu warnen"
+      },
+      {
+        "id": "b",
+        "text": "Um Wasserpflanzen abzulösen"
+      },
+      {
+        "id": "c",
+        "text": "Um Nahrung in den Bau zu spülen"
+      },
+      {
+        "id": "d",
+        "text": "Um den Eingang mit Schlamm zu dichten"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der laute Schlag kann andere Biber dazu bringen, Schutz im tieferen Wasser zu suchen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Beaver | Smithsonian's National Zoo and Conservation Biology Institute",
+        "url": "https://nationalzoo.si.edu/animals/beaver",
+        "verified_claim": "Der laute Schlag kann andere Biber dazu bringen, Schutz im tieferen Wasser zu suchen.",
+        "checked_at": "2026-11-20T01:21:07.812Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-seeloewe-hinterflossen",
+    "fact_key": "seeloewe-hinterflossen",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Warum können Seelöwen an Land vergleichsweise gut laufen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie drehen ihre Hinterflossen unter den Körper."
+      },
+      {
+        "id": "b",
+        "text": "Sie verlieren an Land ihre Flossen."
+      },
+      {
+        "id": "c",
+        "text": "Sie stützen sich nur auf den Schwanz."
+      },
+      {
+        "id": "d",
+        "text": "Sie lassen sich stets vom Wind tragen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Seelöwen können sich mit den nach vorn gedrehten Hinterflossen abstützen. Bei Hundsrobben bleiben die Hinterflossen nach hinten gerichtet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What's the difference between seals and sea lions?",
+        "url": "https://oceanservice.noaa.gov/facts/seal-sealion.html",
+        "verified_claim": "Seelöwen können sich mit den nach vorn gedrehten Hinterflossen abstützen. Bei Hundsrobben bleiben die Hinterflossen nach hinten gerichtet.",
+        "checked_at": "2026-11-20T01:21:08.370Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-honigbiene-wachs",
+    "fact_key": "honigbiene-wachs",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welches von Honigbienen erzeugte Material lässt sich zu Kerzen verarbeiten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wachs"
+      },
+      {
+        "id": "b",
+        "text": "Harz"
+      },
+      {
+        "id": "c",
+        "text": "Seide"
+      },
+      {
+        "id": "d",
+        "text": "Kautschuk"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Honigbienen erzeugen neben Honig auch Bienenwachs.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bee | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/bee",
+        "verified_claim": "Honigbienen erzeugen neben Honig auch Bienenwachs.",
+        "checked_at": "2026-11-20T01:33:42.140Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-marienkaefer-koerper",
+    "fact_key": "marienkaefer-koerper",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wie ist der Körper eines Marienkäfers wie bei anderen Insekten gegliedert?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In Kopf, Brust und Hinterleib"
+      },
+      {
+        "id": "b",
+        "text": "In Kopf und acht Beine ohne Brust"
+      },
+      {
+        "id": "c",
+        "text": "In Kopf und Schneckenhaus"
+      },
+      {
+        "id": "d",
+        "text": "In Rumpf und fünf gleichartige Arme"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kopf, Brust und Hinterleib sind nach außen gut unterscheidbare Körperabschnitte der Insekten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Ladybug | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/ladybug",
+        "verified_claim": "Kopf, Brust und Hinterleib sind nach außen gut unterscheidbare Körperabschnitte der Insekten.",
+        "checked_at": "2026-11-20T01:33:42.140Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-vogelspinne-haeutung",
+    "fact_key": "vogelspinne-haeutung",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wie wächst eine junge Vogelspinne trotz fester Außenhülle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie häutet sich mehrfach."
+      },
+      {
+        "id": "b",
+        "text": "Die Außenhülle wächst an den Nähten unbegrenzt mit."
+      },
+      {
+        "id": "c",
+        "text": "Sie trägt abgestreifte Hüllen anderer Tiere."
+      },
+      {
+        "id": "d",
+        "text": "Sie vergrößert nur die weichen Augen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Häuten streift die Vogelspinne die alte Außenhülle ab. Die leere Hülle kann wie eine ganze Spinne aussehen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Tarantula | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/tarantula",
+        "verified_claim": "Beim Häuten streift die Vogelspinne die alte Außenhülle ab. Die leere Hülle kann wie eine ganze Spinne aussehen.",
+        "checked_at": "2026-11-20T01:33:42.140Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-erle-uferstandort",
+    "fact_key": "erle-uferstandort",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welchen Standort bevorzugt die Schwarzerle von Natur aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Feuchte Ufer und nasse Böden"
+      },
+      {
+        "id": "b",
+        "text": "Trockene Dünenkämme"
+      },
+      {
+        "id": "c",
+        "text": "Salzkrusten in Wüsten"
+      },
+      {
+        "id": "d",
+        "text": "Hochalpine Geröllfelder oberhalb der Baumgrenze"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Schwarzerle gedeiht an Bächen, Teichen und in feuchten Wäldern. Ihre Wurzeln können Uferboden festhalten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Alder (Alnus glutinosa) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/alder/",
+        "verified_claim": "Die Schwarzerle gedeiht an Bächen, Teichen und in feuchten Wäldern. Ihre Wurzeln können Uferboden festhalten.",
+        "checked_at": "2026-11-20T01:24:25.202Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-eberesche-voegel-samen",
+    "fact_key": "eberesche-voegel-samen",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wer verbreitet die Samen der Eberesche, wenn die roten Früchte reif sind?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vögel"
+      },
+      {
+        "id": "b",
+        "text": "Maulwürfe durch den Bau von Gängen"
+      },
+      {
+        "id": "c",
+        "text": "Bienen beim Sammeln von Nektar"
+      },
+      {
+        "id": "d",
+        "text": "Marienkäfer beim Fressen von Blattläusen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Vögel fressen die Früchte und tragen so zur Verbreitung der Eberesche bei.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rowan (Sorbus aucuparia) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/rowan/",
+        "verified_claim": "Vögel fressen die Früchte und tragen so zur Verbreitung der Eberesche bei.",
+        "checked_at": "2026-11-20T01:24:25.202Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-hasel-kaetzchen-zeit",
+    "fact_key": "hasel-kaetzchen-zeit",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was hängt bei der Hasel oft schon vor dem Laubaustrieb in gelben Gruppen an den Zweigen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Männliche Blütenkätzchen"
+      },
+      {
+        "id": "b",
+        "text": "Reife Haselnüsse"
+      },
+      {
+        "id": "c",
+        "text": "Geflügelte Früchte"
+      },
+      {
+        "id": "d",
+        "text": "Kleine Samenzapfen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die männlichen Blütenstände der Hasel erscheinen früh. Der Wind transportiert den Pollen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Hazel (Corylus avellana) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/hazel/",
+        "verified_claim": "Die männlichen Blütenstände der Hasel erscheinen früh. Der Wind transportiert den Pollen.",
+        "checked_at": "2026-11-20T01:24:25.202Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-linde-blatt-herz",
+    "fact_key": "linde-blatt-herz",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Form haben die Blätter der Winterlinde meist?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Herzförmig"
+      },
+      {
+        "id": "b",
+        "text": "Nadelförmig"
+      },
+      {
+        "id": "c",
+        "text": "Streng fächerförmig"
+      },
+      {
+        "id": "d",
+        "text": "Tief handförmig gelappt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der herzförmige Umriss ist ein Merkmal der Winterlinde.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Small-Leaved Lime (Tilia cordata) - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/small-leaved-lime/",
+        "verified_claim": "Der herzförmige Umriss ist ein Merkmal der Winterlinde.",
+        "checked_at": "2026-11-20T01:42:00.555Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-silberweide-blatt",
+    "fact_key": "silberweide-blatt",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was verleiht der Unterseite eines Silberweidenblatts ihren hellen Schimmer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Viele feine silbrige Haare"
+      },
+      {
+        "id": "b",
+        "text": "Eine Schicht aus Salzkristallen"
+      },
+      {
+        "id": "c",
+        "text": "Weiße Blütenblätter"
+      },
+      {
+        "id": "d",
+        "text": "Durchsichtige Harzblasen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die feinen Härchen an der Blattunterseite geben der Silberweide ihr silbriges Aussehen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "White Willow (Salix alba) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/white-willow/",
+        "verified_claim": "Die feinen Härchen an der Blattunterseite geben der Silberweide ihr silbriges Aussehen.",
+        "checked_at": "2026-11-20T01:42:00.555Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-holzapfel-fruchtgroesse",
+    "fact_key": "holzapfel-fruchtgroesse",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wie groß sind die Früchte des Wildapfels oder Holzapfels ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur wenige Zentimeter"
+      },
+      {
+        "id": "b",
+        "text": "Etwa so groß wie ein Kürbis"
+      },
+      {
+        "id": "c",
+        "text": "So klein wie ein Pollenkorn"
+      },
+      {
+        "id": "d",
+        "text": "Etwa einen halben Meter breit"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die kleinen Äpfel messen meist rund zwei bis drei Zentimeter im Durchmesser.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Crab Apple (Malus sylvestris) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/crab-apple/",
+        "verified_claim": "Die kleinen Äpfel messen meist rund zwei bis drei Zentimeter im Durchmesser.",
+        "checked_at": "2026-11-20T01:42:00.555Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-esche-fruchtfluegel",
+    "fact_key": "esche-fruchtfluegel",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Früchte hängen im Herbst in Büscheln an der Esche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schmale geflügelte Früchte"
+      },
+      {
+        "id": "b",
+        "text": "Runde Eicheln mit Fruchtbecher"
+      },
+      {
+        "id": "c",
+        "text": "Weiche rote Beeren"
+      },
+      {
+        "id": "d",
+        "text": "Große holzige Zapfen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Esche bildet nach der Bestäubung längliche Früchte mit einem Flügel.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Ash (Fraxinus excelsior) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/ash/",
+        "verified_claim": "Die Esche bildet nach der Bestäubung längliche Früchte mit einem Flügel.",
+        "checked_at": "2026-11-20T01:42:00.555Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-weide-samenflug",
+    "fact_key": "weide-samenflug",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Hilfe haben die sehr kleinen Samen der Silberweide für ihre Verbreitung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Feine weiße Flughaare"
+      },
+      {
+        "id": "b",
+        "text": "Harte schwere Steinschalen"
+      },
+      {
+        "id": "c",
+        "text": "Klebrige Angelhaken"
+      },
+      {
+        "id": "d",
+        "text": "Dicke Samenhülsen aus Holz"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wenn die Fruchtkapseln sich öffnen, können die mit Flaum versehenen Samen vom Wind fortgetragen werden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "White Willow (Salix alba) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/white-willow/",
+        "verified_claim": "Wenn die Fruchtkapseln sich öffnen, können die mit Flaum versehenen Samen vom Wind fortgetragen werden.",
+        "checked_at": "2026-11-20T01:42:00.555Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-delfin-pfeiflaute",
+    "fact_key": "delfin-pfeiflaute",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Mit welchen Lauten verständigen sich Delfine unter anderem unter Wasser?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit Pfeiflauten"
+      },
+      {
+        "id": "b",
+        "text": "Mit Gesang über schwingende Stimmbänder wie bei Amseln"
+      },
+      {
+        "id": "c",
+        "text": "Mit Zirpen durch Reiben von Beinen"
+      },
+      {
+        "id": "d",
+        "text": "Mit Trommeln auf einer knöchernen Stirnplatte"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Delfine erzeugen zur Verständigung Pfeiflaute im Bereich ihres Blaslochs.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What's the difference between dolphins and porpoises?",
+        "url": "https://oceanservice.noaa.gov/facts/dolphin_porpoise.html",
+        "verified_claim": "Delfine erzeugen zur Verständigung Pfeiflaute im Bereich ihres Blaslochs.",
+        "checked_at": "2026-11-20T01:21:08.370Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gestein-metamorphose",
+    "fact_key": "gestein-metamorphose",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was bewirkt bei der Entstehung metamorpher Gesteine die Umwandlung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hoher Druck und hohe Temperatur"
+      },
+      {
+        "id": "b",
+        "text": "Ausschließlich Sonnenlicht"
+      },
+      {
+        "id": "c",
+        "text": "Allein das Ablagern von Sand"
+      },
+      {
+        "id": "d",
+        "text": "Das Gefrieren einer Pfütze"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bereits vorhandenes Gestein kann sich unter Druck und Hitze umwandeln. Beispiele sind Marmor und Gneis.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Metamorphic Rocks - Geology (U.S. National Park Service)",
+        "url": "https://www.nps.gov/subjects/geology/metamorphic.htm",
+        "verified_claim": "Bereits vorhandenes Gestein kann sich unter Druck und Hitze umwandeln. Beispiele sind Marmor und Gneis.",
+        "checked_at": "2026-11-20T01:33:41.500Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.739Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-sepia-fangtentakel",
+    "fact_key": "sepia-fangtentakel",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wie viele besonders lange Fangtentakel hat eine Sepia zusätzlich zu ihren acht Armen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zwei"
+      },
+      {
+        "id": "b",
+        "text": "Vier"
+      },
+      {
+        "id": "c",
+        "text": "Sechs"
+      },
+      {
+        "id": "d",
+        "text": "Acht"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die zwei Fangtentakel schießen bei der Jagd vor und packen zum Beispiel Garnelen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Common cuttlefish | Monterey Bay Aquarium",
+        "url": "https://www.montereybayaquarium.org/animals/animals-a-to-z/common-cuttlefish",
+        "verified_claim": "Die zwei Fangtentakel schießen bei der Jagd vor und packen zum Beispiel Garnelen.",
+        "checked_at": "2026-11-20T01:41:59.164Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.740Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-seepferdchen-fischgruppe",
+    "fact_key": "seepferdchen-fischgruppe",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Zu welcher Fischfamilie gehören Seepferdchen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zu den Seenadeln"
+      },
+      {
+        "id": "b",
+        "text": "Zu den Heringen"
+      },
+      {
+        "id": "c",
+        "text": "Zu den Karpfen"
+      },
+      {
+        "id": "d",
+        "text": "Zu den Kugelfischen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Seepferdchen gehören zur Familie der Seenadeln. Ihr Kopf und der lange röhrenförmige Mund fallen besonders auf.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "How do seahorses differ from all other animals?",
+        "url": "https://oceanservice.noaa.gov/facts/seahorse.html",
+        "verified_claim": "Seepferdchen gehören zur Familie der Seenadeln. Ihr Kopf und der lange röhrenförmige Mund fallen besonders auf.",
+        "checked_at": "2026-11-20T01:21:07.934Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.740Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ton-schluff-sand",
+    "fact_key": "ton-schluff-sand",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Welche Reihenfolge führt von feinen zu gröberen Sedimentkörnern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ton, Schluff, Sand"
+      },
+      {
+        "id": "b",
+        "text": "Sand, Ton, Schluff"
+      },
+      {
+        "id": "c",
+        "text": "Schluff, Sand, Ton"
+      },
+      {
+        "id": "d",
+        "text": "Sand, Schluff, Ton"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Tonpartikel sind kleiner als Schluffpartikel. Sandkörner sind gröber als beide.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Sedimentary Rocks - Geology (U.S. National Park Service)",
+        "url": "https://www.nps.gov/subjects/geology/sedimentary.htm",
+        "verified_claim": "Tonpartikel sind kleiner als Schluffpartikel. Sandkörner sind gröber als beide.",
+        "checked_at": "2026-11-20T01:33:41.500Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.740Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-papageifisch-weisser-sand",
+    "fact_key": "papageifisch-weisser-sand",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wie tragen manche Papageifische zur Bildung weißer Strände bei?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie scheiden zerkleinerten Kalk aus."
+      },
+      {
+        "id": "b",
+        "text": "Sie sammeln Salz in ihren Schuppen."
+      },
+      {
+        "id": "c",
+        "text": "Sie tragen Ufersand in ihr Nest."
+      },
+      {
+        "id": "d",
+        "text": "Sie bilden Sandkörner aus Luftblasen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Abweiden von Algen nehmen Papageifische auch Kalkmaterial des Riffs auf. Sie mahlen es klein und scheiden Sand aus.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "How does sand form?",
+        "url": "https://oceanservice.noaa.gov/facts/sand.html",
+        "verified_claim": "Beim Abweiden von Algen nehmen Papageifische auch Kalkmaterial des Riffs auf. Sie mahlen es klein und scheiden Sand aus.",
+        "checked_at": "2026-11-20T01:41:59.164Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.740Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-insekten-atemoeffnungen",
+    "fact_key": "insekten-atemoeffnungen",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wo dringt beim Marienkäfer Luft in das innere Atemsystem ein?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Durch kleine Öffnungen seitlich am Körper"
+      },
+      {
+        "id": "b",
+        "text": "Durch die Fühlerspitzen"
+      },
+      {
+        "id": "c",
+        "text": "Durch ein einziges Nasenloch"
+      },
+      {
+        "id": "d",
+        "text": "Durch Kiemen unter den Flügeln"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Atemöffnungen sitzen seitlich an Brust und Hinterleib. Sie heißen Stigmen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Ladybug | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/ladybug",
+        "verified_claim": "Die Atemöffnungen sitzen seitlich an Brust und Hinterleib. Sie heißen Stigmen.",
+        "checked_at": "2026-11-20T01:33:42.140Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.740Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-sepiaschulp-auftrieb",
+    "fact_key": "sepiaschulp-auftrieb",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Welche Funktion hat der kalkige Schulp im Körper einer Sepia?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er hilft, den Auftrieb zu regeln."
+      },
+      {
+        "id": "b",
+        "text": "Er zerkleinert die Beute."
+      },
+      {
+        "id": "c",
+        "text": "Er bildet das Sehorgan."
+      },
+      {
+        "id": "d",
+        "text": "Er stößt die Tinte aus."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die kalkige Innenschale enthält gasgefüllte Bereiche. Sie trägt dazu bei, die Lage der Sepia im Wasser zu regulieren.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Common cuttlefish | Monterey Bay Aquarium",
+        "url": "https://www.montereybayaquarium.org/animals/animals-a-to-z/common-cuttlefish",
+        "verified_claim": "Die kalkige Innenschale enthält gasgefüllte Bereiche. Sie trägt dazu bei, die Lage der Sepia im Wasser zu regulieren.",
+        "checked_at": "2026-11-20T01:41:59.164Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.740Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-winterlinde-behaarung",
+    "fact_key": "winterlinde-behaarung",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Welche Haarbüschel findet man typischerweise in den Blattaderwinkeln auf der Unterseite der Winterlinde?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rostrote"
+      },
+      {
+        "id": "b",
+        "text": "Schwarze"
+      },
+      {
+        "id": "c",
+        "text": "Blaue"
+      },
+      {
+        "id": "d",
+        "text": "Silbergraue"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die rostfarbenen Härchen helfen, die Winterlinde von ähnlichen Linden zu unterscheiden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Small-Leaved Lime (Tilia cordata) - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/small-leaved-lime/",
+        "verified_claim": "Die rostfarbenen Härchen helfen, die Winterlinde von ähnlichen Linden zu unterscheiden.",
+        "checked_at": "2026-11-20T01:42:00.555Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.741Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-zooplankton-nachtaufstieg",
+    "fact_key": "zooplankton-nachtaufstieg",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Warum steigt manches Zooplankton nachts in oberflächennahe Wasserschichten auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Um dort Phytoplankton zu fressen"
+      },
+      {
+        "id": "b",
+        "text": "Um an Land Eier zu legen"
+      },
+      {
+        "id": "c",
+        "text": "Um Sonnenenergie für Blätter zu sammeln"
+      },
+      {
+        "id": "d",
+        "text": "Um sich im Gletschereis einzuschließen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Viele kleine Planktontiere suchen nachts Nahrung an der Oberfläche und halten sich tagsüber in größerer Tiefe auf.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What are plankton?",
+        "url": "https://oceanservice.noaa.gov/facts/plankton.html",
+        "verified_claim": "Viele kleine Planktontiere suchen nachts Nahrung an der Oberfläche und halten sich tagsüber in größerer Tiefe auf.",
+        "checked_at": "2026-11-20T01:21:07.934Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:00.741Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:44:45.821Z"
+      },
+      "approved_at": "2026-11-20T01:44:45.821Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

@@ -1,0 +1,2306 @@
+[
+  {
+    "id": "qs-sonne-stern",
+    "fact_key": "sonne-stern",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Zu welcher Art von Himmelskörper gehört unsere Sonne?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stern"
+      },
+      {
+        "id": "b",
+        "text": "Planet"
+      },
+      {
+        "id": "c",
+        "text": "Mond"
+      },
+      {
+        "id": "d",
+        "text": "Komet"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Sonne ist der Stern unseres Planetensystems. Ihre Schwerkraft hält die Planeten auf ihren Bahnen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Sun: Facts - NASA Science",
+        "url": "https://science.nasa.gov/sun/facts/",
+        "verified_claim": "Die Sonne ist der Stern unseres Planetensystems. Ihre Schwerkraft hält die Planeten auf ihren Bahnen.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-sonne-milchstrasse",
+    "fact_key": "sonne-milchstrasse",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Zu welcher Galaxie gehört unser Sonnensystem?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Milchstraße"
+      },
+      {
+        "id": "b",
+        "text": "Andromedagalaxie"
+      },
+      {
+        "id": "c",
+        "text": "Dreiecksgalaxie"
+      },
+      {
+        "id": "d",
+        "text": "Große Magellansche Wolke"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Unsere Sonne liegt in der Milchstraße. Zusammen mit ihren Planeten umkreist sie das Zentrum der Galaxie.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Sun: Facts - NASA Science",
+        "url": "https://science.nasa.gov/sun/facts/",
+        "verified_claim": "Unsere Sonne liegt in der Milchstraße. Zusammen mit ihren Planeten umkreist sie das Zentrum der Galaxie.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-sonne-photosphaere",
+    "fact_key": "sonne-photosphaere",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Wie heißt die sichtbare Oberfläche der Sonne in der Astronomie?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Photosphäre"
+      },
+      {
+        "id": "b",
+        "text": "Stratosphäre"
+      },
+      {
+        "id": "c",
+        "text": "Biosphäre"
+      },
+      {
+        "id": "d",
+        "text": "Troposphäre"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Als Photosphäre bezeichnet man die Schicht, aus der das meiste sichtbare Sonnenlicht stammt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Sun: Facts - NASA Science",
+        "url": "https://science.nasa.gov/sun/facts/",
+        "verified_claim": "Als Photosphäre bezeichnet man die Schicht, aus der das meiste sichtbare Sonnenlicht stammt.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-merkur-sonnennaehe",
+    "fact_key": "merkur-sonnennaehe",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welcher Planet umkreist die Sonne auf der innersten Planetenbahn?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Merkur"
+      },
+      {
+        "id": "b",
+        "text": "Venus"
+      },
+      {
+        "id": "c",
+        "text": "Erde"
+      },
+      {
+        "id": "d",
+        "text": "Mars"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Merkur ist der sonnennächste Planet. Er gehört wie die Erde zu den Gesteinsplaneten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Mercury: Facts",
+        "url": "https://science.nasa.gov/mercury/facts/",
+        "verified_claim": "Merkur ist der sonnennächste Planet. Er gehört wie die Erde zu den Gesteinsplaneten.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-merkur-kraternamen",
+    "fact_key": "merkur-kraternamen",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Nach wem werden viele Einschlagkrater auf dem Merkur benannt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nach verstorbenen Kulturschaffenden"
+      },
+      {
+        "id": "b",
+        "text": "Nach Meeresströmungen"
+      },
+      {
+        "id": "c",
+        "text": "Nach Hauptstädten"
+      },
+      {
+        "id": "d",
+        "text": "Nach Baumarten"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Auf Merkur tragen zahlreiche Krater Namen von Künstlerinnen, Komponisten oder Schriftstellerinnen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Mercury: Facts",
+        "url": "https://science.nasa.gov/mercury/facts/",
+        "verified_claim": "Auf Merkur tragen zahlreiche Krater Namen von Künstlerinnen, Komponisten oder Schriftstellerinnen.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-erde-jahreszeiten",
+    "fact_key": "erde-jahreszeiten",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wodurch kommen die Jahreszeiten auf der Erde zustande?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Durch die Neigung der Erdachse beim Umlauf"
+      },
+      {
+        "id": "b",
+        "text": "Durch einen jährlichen Stillstand der Sonne"
+      },
+      {
+        "id": "c",
+        "text": "Durch den Schatten des Mondes"
+      },
+      {
+        "id": "d",
+        "text": "Durch die tägliche Drehung allein"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Umlauf ist abwechselnd die Nord- oder die Südhalbkugel stärker der Sonne zugeneigt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Facts About Earth",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "verified_claim": "Beim Umlauf ist abwechselnd die Nord- oder die Südhalbkugel stärker der Sonne zugeneigt.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-umlauf-erde-jahr",
+    "fact_key": "umlauf-erde-jahr",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wie lange braucht die Erde ungefähr für einen Umlauf um die Sonne?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Jahr"
+      },
+      {
+        "id": "b",
+        "text": "Einen Tag"
+      },
+      {
+        "id": "c",
+        "text": "Eine Woche"
+      },
+      {
+        "id": "d",
+        "text": "Einen Monat"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein Umlauf dauert ungefähr 365 und einen Vierteltag. Schalttage gleichen die Kalenderlänge daran an.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Facts About Earth",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "verified_claim": "Ein Umlauf dauert ungefähr 365 und einen Vierteltag. Schalttage gleichen die Kalenderlänge daran an.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-erde-gesteinsplaneten",
+    "fact_key": "erde-gesteinsplaneten",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welcher der vier inneren Gesteinsplaneten hat den größten Durchmesser?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Erde"
+      },
+      {
+        "id": "b",
+        "text": "Mars"
+      },
+      {
+        "id": "c",
+        "text": "Merkur"
+      },
+      {
+        "id": "d",
+        "text": "Venus"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Erde ist etwas größer als die Venus. Auch Mars und Merkur haben kleinere Durchmesser.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Facts About Earth",
+        "url": "https://science.nasa.gov/earth/facts/",
+        "verified_claim": "Die Erde ist etwas größer als die Venus. Auch Mars und Merkur haben kleinere Durchmesser.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-mars-mondpaar",
+    "fact_key": "mars-mondpaar",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Um welchen Planeten kreisen die beiden Monde Phobos und Deimos?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mars"
+      },
+      {
+        "id": "b",
+        "text": "Jupiter"
+      },
+      {
+        "id": "c",
+        "text": "Saturn"
+      },
+      {
+        "id": "d",
+        "text": "Neptun"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Phobos und Deimos sind die zwei kleinen, unregelmäßig geformten Marsmonde.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Mars: Facts - NASA Science",
+        "url": "https://science.nasa.gov/mars/facts/",
+        "verified_claim": "Phobos und Deimos sind die zwei kleinen, unregelmäßig geformten Marsmonde.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-mars-phobos-abstand",
+    "fact_key": "mars-phobos-abstand",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Welcher der beiden Marsmonde ist seinem Planeten näher?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Phobos"
+      },
+      {
+        "id": "b",
+        "text": "Deimos"
+      },
+      {
+        "id": "c",
+        "text": "Beide sind gleich weit entfernt."
+      },
+      {
+        "id": "d",
+        "text": "Sie tauschen bei jedem Umlauf die Plätze."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Phobos ist der größere und innere Marsmond. Deimos bewegt sich weiter außen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Mars: Facts - NASA Science",
+        "url": "https://science.nasa.gov/mars/facts/",
+        "verified_claim": "Phobos ist der größere und innere Marsmond. Deimos bewegt sich weiter außen.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-jupiter-kurzer-tag",
+    "fact_key": "jupiter-kurzer-tag",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Welcher Planet dreht sich in knapp zehn Stunden einmal um sich selbst?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jupiter"
+      },
+      {
+        "id": "b",
+        "text": "Merkur"
+      },
+      {
+        "id": "c",
+        "text": "Venus"
+      },
+      {
+        "id": "d",
+        "text": "Mars"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Jupiter braucht für eine Umdrehung etwa 9 Stunden und 55 Minuten. Sein Tag ist der kürzeste aller Planeten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jupiter Facts",
+        "url": "https://science.nasa.gov/jupiter/facts/",
+        "verified_claim": "Jupiter braucht für eine Umdrehung etwa 9 Stunden und 55 Minuten. Sein Tag ist der kürzeste aller Planeten.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ganymed-groesster-mond",
+    "fact_key": "ganymed-groesster-mond",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Wie heißt der größte Mond des Sonnensystems?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ganymed"
+      },
+      {
+        "id": "b",
+        "text": "Titan"
+      },
+      {
+        "id": "c",
+        "text": "Triton"
+      },
+      {
+        "id": "d",
+        "text": "Europa"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ganymed kreist um Jupiter. Er übertrifft sogar den Planeten Merkur im Durchmesser.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jupiter Facts",
+        "url": "https://science.nasa.gov/jupiter/facts/",
+        "verified_claim": "Ganymed kreist um Jupiter. Er übertrifft sogar den Planeten Merkur im Durchmesser.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-io-vulkanismus",
+    "fact_key": "io-vulkanismus",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Welcher Jupitermond ist für ungewöhnlich starken Vulkanismus bekannt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Io"
+      },
+      {
+        "id": "b",
+        "text": "Kallisto"
+      },
+      {
+        "id": "c",
+        "text": "Ganymed"
+      },
+      {
+        "id": "d",
+        "text": "Europa"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Io gilt als der vulkanisch aktivste Himmelskörper unseres Sonnensystems.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jupiter Facts",
+        "url": "https://science.nasa.gov/jupiter/facts/",
+        "verified_claim": "Io gilt als der vulkanisch aktivste Himmelskörper unseres Sonnensystems.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-saturn-ringmaterial",
+    "fact_key": "saturn-ringmaterial",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Woraus bestehen Saturns Ringe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aus unzähligen Eis- und Gesteinsteilchen"
+      },
+      {
+        "id": "b",
+        "text": "Aus einer festen Metallscheibe"
+      },
+      {
+        "id": "c",
+        "text": "Aus flüssigen Flussläufen"
+      },
+      {
+        "id": "d",
+        "text": "Aus einzelnen großen Wolken"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Teilchen bewegen sich auf eigenen Bahnen um Saturn. Die Ringe sind kein starrer Körper.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Saturn: Facts - NASA Science",
+        "url": "https://science.nasa.gov/saturn/facts/",
+        "verified_claim": "Die Teilchen bewegen sich auf eigenen Bahnen um Saturn. Die Ringe sind kein starrer Körper.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-titan-saturn",
+    "fact_key": "titan-saturn",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welchen Planeten umkreist der Mond Titan?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Saturn"
+      },
+      {
+        "id": "b",
+        "text": "Mars"
+      },
+      {
+        "id": "c",
+        "text": "Erde"
+      },
+      {
+        "id": "d",
+        "text": "Neptun"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Titan gehört zum Saturnsystem. Seine Oberfläche verbirgt sich unter einer diesigen Atmosphäre.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Saturn: Facts - NASA Science",
+        "url": "https://science.nasa.gov/saturn/facts/",
+        "verified_claim": "Titan gehört zum Saturnsystem. Seine Oberfläche verbirgt sich unter einer diesigen Atmosphäre.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-uranus-achse",
+    "fact_key": "uranus-achse",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Welcher Planet rollt wegen seiner stark geneigten Drehachse gleichsam auf der Seite um die Sonne?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Uranus"
+      },
+      {
+        "id": "b",
+        "text": "Jupiter"
+      },
+      {
+        "id": "c",
+        "text": "Mars"
+      },
+      {
+        "id": "d",
+        "text": "Merkur"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Drehachse von Uranus ist um rund 98 Grad gegen die Senkrechte zur Bahnebene geneigt. Das sorgt für außergewöhnliche Jahreszeiten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Uranus: Facts - NASA Science",
+        "url": "https://science.nasa.gov/uranus/facts/",
+        "verified_claim": "Die Drehachse von Uranus ist um rund 98 Grad gegen die Senkrechte zur Bahnebene geneigt. Das sorgt für außergewöhnliche Jahreszeiten.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-uranus-methan",
+    "fact_key": "uranus-methan",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Welches Gas trägt zur blaugrünen Farbe von Uranus bei?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Methan"
+      },
+      {
+        "id": "b",
+        "text": "Sauerstoff"
+      },
+      {
+        "id": "c",
+        "text": "Neon"
+      },
+      {
+        "id": "d",
+        "text": "Ozon"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Methan in der Atmosphäre absorbiert einen Teil des roten Sonnenlichts. Der Planet erscheint deshalb blaugrün.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Uranus: Facts - NASA Science",
+        "url": "https://science.nasa.gov/uranus/facts/",
+        "verified_claim": "Methan in der Atmosphäre absorbiert einen Teil des roten Sonnenlichts. Der Planet erscheint deshalb blaugrün.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-triton-ruecklaeufig",
+    "fact_key": "triton-ruecklaeufig",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Was ist am Umlauf von Neptuns großem Mond Triton ungewöhnlich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er läuft gegen die Drehrichtung des Planeten."
+      },
+      {
+        "id": "b",
+        "text": "Er ruht über einem Punkt am Äquator."
+      },
+      {
+        "id": "c",
+        "text": "Er läuft nur während einer Jahreszeit."
+      },
+      {
+        "id": "d",
+        "text": "Er umkreist Neptun nur bei Sonnenlicht."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Triton bewegt sich auf einer rückläufigen Bahn. Der Umlauf ist der Eigenrotation Neptuns entgegengesetzt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Neptune: Facts - NASA Science",
+        "url": "https://science.nasa.gov/neptune/facts/",
+        "verified_claim": "Triton bewegt sich auf einer rückläufigen Bahn. Der Umlauf ist der Eigenrotation Neptuns entgegengesetzt.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-mond-krater",
+    "fact_key": "mond-krater",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was hat die vielen runden Krater auf dem Mond überwiegend geformt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einschläge von Himmelskörpern"
+      },
+      {
+        "id": "b",
+        "text": "Meereswellen"
+      },
+      {
+        "id": "c",
+        "text": "Starke Regenfälle"
+      },
+      {
+        "id": "d",
+        "text": "Wind in der dichten Mondluft"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Asteroidenstücke und andere Himmelskörper hinterließen beim Aufprall Vertiefungen in der Mondoberfläche.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Moon Facts - NASA Science",
+        "url": "https://science.nasa.gov/moon/facts/",
+        "verified_claim": "Asteroidenstücke und andere Himmelskörper hinterließen beim Aufprall Vertiefungen in der Mondoberfläche.",
+        "checked_at": "2026-11-20T01:11:19.678Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-astronomische-einheit",
+    "fact_key": "astronomische-einheit",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Entfernung entspricht ungefähr einer Astronomischen Einheit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Erde–Sonne"
+      },
+      {
+        "id": "b",
+        "text": "Erde–Mond"
+      },
+      {
+        "id": "c",
+        "text": "Sonne–Jupiter"
+      },
+      {
+        "id": "d",
+        "text": "Mond–Mars"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eine Astronomische Einheit entspricht ungefähr dem mittleren Abstand zwischen Erde und Sonne.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Neptune: Facts - NASA Science",
+        "url": "https://science.nasa.gov/neptune/facts/",
+        "verified_claim": "Eine Astronomische Einheit entspricht ungefähr dem mittleren Abstand zwischen Erde und Sonne.",
+        "checked_at": "2026-11-20T01:24:24.009Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-hurrikan-wasser",
+    "fact_key": "hurrikan-wasser",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Über welcher Oberfläche entsteht ein Hurrikan?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Über warmem Meer"
+      },
+      {
+        "id": "b",
+        "text": "Über einem Gletscher"
+      },
+      {
+        "id": "c",
+        "text": "Über einer trockenen Wüste"
+      },
+      {
+        "id": "d",
+        "text": "Über gefrorenem Boden"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Hurrikane gehören zu den tropischen Wirbelstürmen. Sie entstehen über tropischem oder subtropischem Meerwasser.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What is a hurricane?",
+        "url": "https://oceanservice.noaa.gov/facts/hurricane.html",
+        "verified_claim": "Hurrikane gehören zu den tropischen Wirbelstürmen. Sie entstehen über tropischem oder subtropischem Meerwasser.",
+        "checked_at": "2026-11-20T01:27:16.828Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-tsunami-entstehung",
+    "fact_key": "tsunami-entstehung",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was kann einen Tsunami auslösen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein starkes Seebeben"
+      },
+      {
+        "id": "b",
+        "text": "Normale Ebbe"
+      },
+      {
+        "id": "c",
+        "text": "Eine sommerliche Brise"
+      },
+      {
+        "id": "d",
+        "text": "Eine Abfolge von Vollmonden"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eine plötzliche Bewegung des Meeresbodens kann Wasser verdrängen und eine Serie großer Wellen in Gang setzen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What is a tsunami?",
+        "url": "https://oceanservice.noaa.gov/facts/tsunami.html",
+        "verified_claim": "Eine plötzliche Bewegung des Meeresbodens kann Wasser verdrängen und eine Serie großer Wellen in Gang setzen.",
+        "checked_at": "2026-11-20T01:27:16.828Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-eisberg-ursprung",
+    "fact_key": "eisberg-ursprung",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Woher stammt das Eis eines typischen Eisbergs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Von einem Gletscher oder Schelfeis"
+      },
+      {
+        "id": "b",
+        "text": "Aus gefrorener Meeresgischt"
+      },
+      {
+        "id": "c",
+        "text": "Aus festem Salz"
+      },
+      {
+        "id": "d",
+        "text": "Von gefrorenen Unterwasserquellen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein Eisberg entsteht, wenn sich ein Stück Eis von Gletscher- oder Schelfeis löst und frei im Wasser treibt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What is an iceberg?",
+        "url": "https://oceanservice.noaa.gov/facts/iceberg.html",
+        "verified_claim": "Ein Eisberg entsteht, wenn sich ein Stück Eis von Gletscher- oder Schelfeis löst und frei im Wasser treibt.",
+        "checked_at": "2026-11-20T01:27:16.828Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-tafelseisberg-form",
+    "fact_key": "tafelseisberg-form",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Welche Form kennzeichnet einen Tafeleisberg?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Flache Oberseite und steile Flanken"
+      },
+      {
+        "id": "b",
+        "text": "Kegelförmige Spitze"
+      },
+      {
+        "id": "c",
+        "text": "Kreisrundes Loch in der Mitte"
+      },
+      {
+        "id": "d",
+        "text": "Nur rundliche Höcker"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die große ebene Oberseite erinnert an eine Tischplatte und unterscheidet Tafeleisberge von vielen unregelmäßigen Eisbergen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What is an iceberg?",
+        "url": "https://oceanservice.noaa.gov/facts/iceberg.html",
+        "verified_claim": "Die große ebene Oberseite erinnert an eine Tischplatte und unterscheidet Tafeleisberge von vielen unregelmäßigen Eisbergen.",
+        "checked_at": "2026-11-20T01:27:16.828Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gletscher-schnee",
+    "fact_key": "gletscher-schnee",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wie wird aus altem Schnee Gletschereis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Überlagernder Schnee verdichtet ihn."
+      },
+      {
+        "id": "b",
+        "text": "Wind erwärmt ihn bis zum Siedepunkt."
+      },
+      {
+        "id": "c",
+        "text": "Salzwasser härtet ihn aus."
+      },
+      {
+        "id": "d",
+        "text": "Er mischt sich mit Vulkanasche."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Aufeinanderliegende Schneeschichten drücken die unteren zusammen. Über mehrere Verdichtungsstufen entsteht Eis.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Glaciers / Glacial Features - Kenai Fjords National Park (U.S. National Park Service)",
+        "url": "https://www.nps.gov/kefj/learn/nature/glaciers.htm",
+        "verified_claim": "Aufeinanderliegende Schneeschichten drücken die unteren zusammen. Über mehrere Verdichtungsstufen entsteht Eis.",
+        "checked_at": "2026-11-20T01:27:16.814Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-firn-uebergang",
+    "fact_key": "firn-uebergang",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was ist Firn in einem Gletschergebiet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Verdichteter, körniger Altschnee"
+      },
+      {
+        "id": "b",
+        "text": "Flüssige Lava unter Eis"
+      },
+      {
+        "id": "c",
+        "text": "Eine Bergspalte ohne Schnee"
+      },
+      {
+        "id": "d",
+        "text": "Schutt am Gletscherende"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Firn ist eine Zwischenstufe auf dem Weg von lockerem Schnee zu dichtem Gletschereis.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Glaciers / Glacial Features - Kenai Fjords National Park (U.S. National Park Service)",
+        "url": "https://www.nps.gov/kefj/learn/nature/glaciers.htm",
+        "verified_claim": "Firn ist eine Zwischenstufe auf dem Weg von lockerem Schnee zu dichtem Gletschereis.",
+        "checked_at": "2026-11-20T01:27:16.814Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.167Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-regenbogen-tropfen",
+    "fact_key": "regenbogen-tropfen",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was lässt im Licht der Sonne einen gewöhnlichen Regenbogen entstehen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Brechung und Spiegelung in Wassertropfen"
+      },
+      {
+        "id": "b",
+        "text": "Reflexion an trockenem Staub allein"
+      },
+      {
+        "id": "c",
+        "text": "Licht einer Gewitterentladung"
+      },
+      {
+        "id": "d",
+        "text": "Schattenwurf des Mondes"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Sonnenlicht wird im Wassertropfen gebrochen und innen reflektiert. Die Farben verlassen den Tropfen unter unterschiedlichen Winkeln.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rainbows: optical wonders - Met Office",
+        "url": "https://www.metoffice.gov.uk/weather/learn-about/weather/optical-effects/rainbows",
+        "verified_claim": "Sonnenlicht wird im Wassertropfen gebrochen und innen reflektiert. Die Farben verlassen den Tropfen unter unterschiedlichen Winkeln.",
+        "checked_at": "2026-11-20T01:21:09.829Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.168Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-doppelregenbogen-farbreihenfolge",
+    "fact_key": "doppelregenbogen-farbreihenfolge",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was fällt am äußeren Bogen eines doppelten Regenbogens gegenüber dem inneren auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Farbreihenfolge ist umgekehrt."
+      },
+      {
+        "id": "b",
+        "text": "Er ist immer ganz weiß."
+      },
+      {
+        "id": "c",
+        "text": "Er zeigt nur rote Töne."
+      },
+      {
+        "id": "d",
+        "text": "Alle Farben liegen übereinander."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim äußeren Bogen wird Licht im Tropfen zweimal reflektiert. Er ist meist schwächer und hat die umgekehrte Farbfolge.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rainbows: optical wonders - Met Office",
+        "url": "https://www.metoffice.gov.uk/weather/learn-about/weather/optical-effects/rainbows",
+        "verified_claim": "Beim äußeren Bogen wird Licht im Tropfen zweimal reflektiert. Er ist meist schwächer und hat die umgekehrte Farbfolge.",
+        "checked_at": "2026-11-20T01:21:09.829Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.168Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-luft-wasserdampf",
+    "fact_key": "luft-wasserdampf",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "In welchem Zustand befindet sich Wasserdampf in der Luft?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gasförmig"
+      },
+      {
+        "id": "b",
+        "text": "Flüssig"
+      },
+      {
+        "id": "c",
+        "text": "Fest"
+      },
+      {
+        "id": "d",
+        "text": "Kristallin"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wasser kann in der Atmosphäre als Eis, als Tropfen oder gasförmig vorkommen. Nur die gasförmige Form ist Wasserdampf.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Understanding humidity - Met Office",
+        "url": "https://www.metoffice.gov.uk/weather/learn-about/weather/types-of-weather/humidity",
+        "verified_claim": "Wasser kann in der Atmosphäre als Eis, als Tropfen oder gasförmig vorkommen. Nur die gasförmige Form ist Wasserdampf.",
+        "checked_at": "2026-11-20T01:21:09.829Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.168Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-taupunkt",
+    "fact_key": "taupunkt",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was bezeichnet der Taupunkt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Temperatur, bei der die Luft mit Wasserdampf gesättigt ist"
+      },
+      {
+        "id": "b",
+        "text": "Den Siedepunkt von Regenwasser"
+      },
+      {
+        "id": "c",
+        "text": "Die Temperatur der wärmsten Tagesstunde"
+      },
+      {
+        "id": "d",
+        "text": "Die Schmelztemperatur eines Schneekristalls"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kühlt Luft auf ihren Taupunkt ab, kann enthaltener Wasserdampf kondensieren.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Understanding humidity - Met Office",
+        "url": "https://www.metoffice.gov.uk/weather/learn-about/weather/types-of-weather/humidity",
+        "verified_claim": "Kühlt Luft auf ihren Taupunkt ab, kann enthaltener Wasserdampf kondensieren.",
+        "checked_at": "2026-11-20T01:21:09.829Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.168Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-isobaren",
+    "fact_key": "isobaren",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was verbinden Isobaren auf einer Wetterkarte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Orte mit gleichem Luftdruck"
+      },
+      {
+        "id": "b",
+        "text": "Orte mit gleicher Höhe"
+      },
+      {
+        "id": "c",
+        "text": "Orte mit gleich viel Niederschlag"
+      },
+      {
+        "id": "d",
+        "text": "Orte mit gleicher Temperatur"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Isobaren machen Druckverteilungen auf Wetterkarten sichtbar. Oft bezieht sich der eingezeichnete Druck auf Meereshöhe.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "High and low pressure - Met Office",
+        "url": "https://www.metoffice.gov.uk/weather/learn-about/weather/how-weather-works/high-and-low-pressure",
+        "verified_claim": "Isobaren machen Druckverteilungen auf Wetterkarten sichtbar. Oft bezieht sich der eingezeichnete Druck auf Meereshöhe.",
+        "checked_at": "2026-11-20T01:21:09.829Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.168Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-meer-salz-verwitterung",
+    "fact_key": "meer-salz-verwitterung",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was liefert über Flüsse einen großen Teil der gelösten Salze im Meer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Verwitterndes Gestein an Land"
+      },
+      {
+        "id": "b",
+        "text": "Die Federn von Seevögeln"
+      },
+      {
+        "id": "c",
+        "text": "Der Mondschein"
+      },
+      {
+        "id": "d",
+        "text": "Gefrorener Schnee ohne Mineralien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bei der Verwitterung werden Ionen aus Gestein gelöst. Bäche und Flüsse tragen sie zum Meer.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Why is the ocean salty?",
+        "url": "https://oceanservice.noaa.gov/facts/whysalty.html",
+        "verified_claim": "Bei der Verwitterung werden Ionen aus Gestein gelöst. Bäche und Flüsse tragen sie zum Meer.",
+        "checked_at": "2026-11-20T01:27:16.828Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:30:08.168Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:47.302Z"
+      },
+      "approved_at": "2026-11-20T01:32:47.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

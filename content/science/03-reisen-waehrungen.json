@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "qs-pl-waehrung-2026",
+    "fact_key": "pl-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Landeswährung galt in Polen im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Złoty"
+      },
+      {
+        "id": "b",
+        "text": "Forint"
+      },
+      {
+        "id": "c",
+        "text": "Krone"
+      },
+      {
+        "id": "d",
+        "text": "Euro"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Warschau Preise vergleicht, kann PLN als Währungskürzel sehen. Der ausgeschriebene Name lautet Złoty.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Warschau Preise vergleicht, kann PLN als Währungskürzel sehen. Der ausgeschriebene Name lautet Złoty.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-hu-waehrung-2026",
+    "fact_key": "hu-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Landeswährung galt in Ungarn im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Forint"
+      },
+      {
+        "id": "b",
+        "text": "Złoty"
+      },
+      {
+        "id": "c",
+        "text": "Leu"
+      },
+      {
+        "id": "d",
+        "text": "Euro"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Budapest Preise vergleicht, kann HUF als Währungskürzel sehen. Der ausgeschriebene Name lautet Forint.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Budapest Preise vergleicht, kann HUF als Währungskürzel sehen. Der ausgeschriebene Name lautet Forint.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ch-waehrung-2026",
+    "fact_key": "ch-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Landeswährung galt in der Schweiz im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Franken"
+      },
+      {
+        "id": "b",
+        "text": "Euro"
+      },
+      {
+        "id": "c",
+        "text": "Krone"
+      },
+      {
+        "id": "d",
+        "text": "Pfund"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Bern Preise vergleicht, kann CHF als Währungskürzel sehen. Der ausgeschriebene Name lautet Schweizer Franken.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Bern Preise vergleicht, kann CHF als Währungskürzel sehen. Der ausgeschriebene Name lautet Schweizer Franken.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gb-waehrung-2026",
+    "fact_key": "gb-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Landeswährung galt im Vereinigten Königreich im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pfund Sterling"
+      },
+      {
+        "id": "b",
+        "text": "Euro"
+      },
+      {
+        "id": "c",
+        "text": "Dollar"
+      },
+      {
+        "id": "d",
+        "text": "Franken"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in London Preise vergleicht, kann GBP als Währungskürzel sehen. Der ausgeschriebene Name lautet Pfund Sterling.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in London Preise vergleicht, kann GBP als Währungskürzel sehen. Der ausgeschriebene Name lautet Pfund Sterling.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-jp-waehrung-2026",
+    "fact_key": "jp-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Landeswährung galt in Japan im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yen"
+      },
+      {
+        "id": "b",
+        "text": "Yuan"
+      },
+      {
+        "id": "c",
+        "text": "Baht"
+      },
+      {
+        "id": "d",
+        "text": "Won"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Tokio Preise vergleicht, kann JPY als Währungskürzel sehen. Der ausgeschriebene Name lautet Yen.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Tokio Preise vergleicht, kann JPY als Währungskürzel sehen. Der ausgeschriebene Name lautet Yen.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-in-waehrung-2026",
+    "fact_key": "in-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Landeswährung galt in Indien im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rupie"
+      },
+      {
+        "id": "b",
+        "text": "Baht"
+      },
+      {
+        "id": "c",
+        "text": "Dirham"
+      },
+      {
+        "id": "d",
+        "text": "Real"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Neu-Delhi Preise vergleicht, kann INR als Währungskürzel sehen. Der ausgeschriebene Name lautet Indische Rupie.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Neu-Delhi Preise vergleicht, kann INR als Währungskürzel sehen. Der ausgeschriebene Name lautet Indische Rupie.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-br-waehrung-2026",
+    "fact_key": "br-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche Landeswährung galt in Brasilien im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Real"
+      },
+      {
+        "id": "b",
+        "text": "Peso"
+      },
+      {
+        "id": "c",
+        "text": "Sol"
+      },
+      {
+        "id": "d",
+        "text": "Dollar"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Brasília Preise vergleicht, kann BRL als Währungskürzel sehen. Der ausgeschriebene Name lautet Real.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Brasília Preise vergleicht, kann BRL als Währungskürzel sehen. Der ausgeschriebene Name lautet Real.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-th-waehrung-2026",
+    "fact_key": "th-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche Landeswährung galt in Thailand im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Baht"
+      },
+      {
+        "id": "b",
+        "text": "Rupie"
+      },
+      {
+        "id": "c",
+        "text": "Ringgit"
+      },
+      {
+        "id": "d",
+        "text": "Đồng"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Bangkok Preise vergleicht, kann THB als Währungskürzel sehen. Der ausgeschriebene Name lautet Baht.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Bangkok Preise vergleicht, kann THB als Währungskürzel sehen. Der ausgeschriebene Name lautet Baht.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-mx-waehrung-2026",
+    "fact_key": "mx-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Landeswährung galt in Mexiko im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Peso"
+      },
+      {
+        "id": "b",
+        "text": "Real"
+      },
+      {
+        "id": "c",
+        "text": "Bolívar"
+      },
+      {
+        "id": "d",
+        "text": "Sol"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Mexiko-Stadt Preise vergleicht, kann MXN als Währungskürzel sehen. Der ausgeschriebene Name lautet Mexikanischer Peso.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Mexiko-Stadt Preise vergleicht, kann MXN als Währungskürzel sehen. Der ausgeschriebene Name lautet Mexikanischer Peso.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-za-waehrung-2026",
+    "fact_key": "za-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche Landeswährung galt in Südafrika im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rand"
+      },
+      {
+        "id": "b",
+        "text": "Schilling"
+      },
+      {
+        "id": "c",
+        "text": "Dinar"
+      },
+      {
+        "id": "d",
+        "text": "Kwacha"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Pretoria Preise vergleicht, kann ZAR als Währungskürzel sehen. Der ausgeschriebene Name lautet Rand.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Pretoria Preise vergleicht, kann ZAR als Währungskürzel sehen. Der ausgeschriebene Name lautet Rand.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ro-waehrung-2026",
+    "fact_key": "ro-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche Landeswährung galt in Rumänien im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Leu"
+      },
+      {
+        "id": "b",
+        "text": "Złoty"
+      },
+      {
+        "id": "c",
+        "text": "Forint"
+      },
+      {
+        "id": "d",
+        "text": "Euro"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Bukarest Preise vergleicht, kann RON als Währungskürzel sehen. Der ausgeschriebene Name lautet Rumänischer Leu.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Bukarest Preise vergleicht, kann RON als Währungskürzel sehen. Der ausgeschriebene Name lautet Rumänischer Leu.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kr-waehrung-2026",
+    "fact_key": "kr-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche Landeswährung galt in Südkorea im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Won"
+      },
+      {
+        "id": "b",
+        "text": "Yen"
+      },
+      {
+        "id": "c",
+        "text": "Yuan"
+      },
+      {
+        "id": "d",
+        "text": "Baht"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Seoul Preise vergleicht, kann KRW als Währungskürzel sehen. Der ausgeschriebene Name lautet Südkoreanischer Won.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Seoul Preise vergleicht, kann KRW als Währungskürzel sehen. Der ausgeschriebene Name lautet Südkoreanischer Won.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-vn-waehrung-2026",
+    "fact_key": "vn-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Welche Landeswährung galt in Vietnam im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Đồng"
+      },
+      {
+        "id": "b",
+        "text": "Kyat"
+      },
+      {
+        "id": "c",
+        "text": "Kip"
+      },
+      {
+        "id": "d",
+        "text": "Riel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Hanoi Preise vergleicht, kann VND als Währungskürzel sehen. Der ausgeschriebene Name lautet Đồng.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Hanoi Preise vergleicht, kann VND als Währungskürzel sehen. Der ausgeschriebene Name lautet Đồng.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-eg-waehrung-2026",
+    "fact_key": "eg-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche Landeswährung galt in Ägypten im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pfund"
+      },
+      {
+        "id": "b",
+        "text": "Dirham"
+      },
+      {
+        "id": "c",
+        "text": "Dinar"
+      },
+      {
+        "id": "d",
+        "text": "Rial"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Kairo Preise vergleicht, kann EGP als Währungskürzel sehen. Der ausgeschriebene Name lautet Ägyptisches Pfund.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Kairo Preise vergleicht, kann EGP als Währungskürzel sehen. Der ausgeschriebene Name lautet Ägyptisches Pfund.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ma-waehrung-2026",
+    "fact_key": "ma-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche Landeswährung galt in Marokko im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dirham"
+      },
+      {
+        "id": "b",
+        "text": "Dinar"
+      },
+      {
+        "id": "c",
+        "text": "Pfund"
+      },
+      {
+        "id": "d",
+        "text": "Cedi"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Rabat Preise vergleicht, kann MAD als Währungskürzel sehen. Der ausgeschriebene Name lautet Marokkanischer Dirham.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Rabat Preise vergleicht, kann MAD als Währungskürzel sehen. Der ausgeschriebene Name lautet Marokkanischer Dirham.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-cn-waehrung-2026",
+    "fact_key": "cn-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Landeswährung galt in China im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Yuan"
+      },
+      {
+        "id": "b",
+        "text": "Yen"
+      },
+      {
+        "id": "c",
+        "text": "Won"
+      },
+      {
+        "id": "d",
+        "text": "Rupie"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Peking Preise vergleicht, kann CNY als Währungskürzel sehen. Es steht für den Renminbi. Die Währungseinheit heißt Yuan.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Peking Preise vergleicht, kann CNY als Währungskürzel sehen. Es steht für den Renminbi. Die Währungseinheit heißt Yuan.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-dk-waehrung-2026",
+    "fact_key": "dk-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Landeswährung galt in Dänemark im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Krone"
+      },
+      {
+        "id": "b",
+        "text": "Euro"
+      },
+      {
+        "id": "c",
+        "text": "Franken"
+      },
+      {
+        "id": "d",
+        "text": "Pfund"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Kopenhagen Preise vergleicht, kann DKK als Währungskürzel sehen. Der ausgeschriebene Name lautet Dänische Krone.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Kopenhagen Preise vergleicht, kann DKK als Währungskürzel sehen. Der ausgeschriebene Name lautet Dänische Krone.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-tn-waehrung-2026",
+    "fact_key": "tn-waehrung-2026",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Welche Landeswährung galt in Tunesien im November 2026?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dinar"
+      },
+      {
+        "id": "b",
+        "text": "Dirham"
+      },
+      {
+        "id": "c",
+        "text": "Pfund"
+      },
+      {
+        "id": "d",
+        "text": "Franc"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer zum Beispiel in Tunis Preise vergleicht, kann TND als Währungskürzel sehen. Der ausgeschriebene Name lautet Tunesischer Dinar.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wer zum Beispiel in Tunis Preise vergleicht, kann TND als Währungskürzel sehen. Der ausgeschriebene Name lautet Tunesischer Dinar.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

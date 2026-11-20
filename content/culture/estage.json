@@ -1,0 +1,2378 @@
+[
+  {
+    "id": "k-stage-fidelio-composer",
+    "fact_key": "stage.fidelio.composer",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer komponierte die Oper „Fidelio“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ludwig van Beethoven"
+      },
+      {
+        "id": "b",
+        "text": "Richard Wagner"
+      },
+      {
+        "id": "c",
+        "text": "Franz Schubert"
+      },
+      {
+        "id": "d",
+        "text": "Giuseppe Verdi"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beethoven schrieb die Musik zu „Fidelio“. Leonore und Florestan gehören zu den Hauptfiguren.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/65785",
+        "verified_claim": "Beethoven schrieb die Musik zu „Fidelio“. Leonore und Florestan gehören zu den Hauptfiguren.",
+        "checked_at": "2026-11-20T01:36:23+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-lohengrin-elsa",
+    "fact_key": "stage.lohengrin.elsa",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "In welcher Wagner-Oper stehen Elsa von Brabant und Ortrud auf der Bühne?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lohengrin"
+      },
+      {
+        "id": "b",
+        "text": "Der fliegende Holländer"
+      },
+      {
+        "id": "c",
+        "text": "Die Walküre"
+      },
+      {
+        "id": "d",
+        "text": "Parsifal"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Rollenverzeichnis von „Lohengrin“ nennt sowohl Elsa von Brabant als auch Ortrud.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/65144",
+        "verified_claim": "Das Rollenverzeichnis von „Lohengrin“ nennt sowohl Elsa von Brabant als auch Ortrud.",
+        "checked_at": "2026-11-20T01:36:19+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-ariodante-composer",
+    "fact_key": "stage.ariodante.composer",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Wer schrieb die Musik zur Barockoper „Ariodante“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Georg Friedrich Händel"
+      },
+      {
+        "id": "b",
+        "text": "Claudio Monteverdi"
+      },
+      {
+        "id": "c",
+        "text": "Henry Purcell"
+      },
+      {
+        "id": "d",
+        "text": "Antonio Vivaldi"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Ariodante“ stammt von Georg Friedrich Händel. Im Archiv der Wiener Staatsoper findet sich das Werk unter seinem Namen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/45344",
+        "verified_claim": "„Ariodante“ stammt von Georg Friedrich Händel. Im Archiv der Wiener Staatsoper findet sich das Werk unter seinem Namen.",
+        "checked_at": "2026-11-20T01:36:19+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-witwe-pair",
+    "fact_key": "stage.witwe.pair",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In welcher Operette begegnen sich Hanna Glawari und Graf Danilo?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die lustige Witwe"
+      },
+      {
+        "id": "b",
+        "text": "Der Zigeunerbaron"
+      },
+      {
+        "id": "c",
+        "text": "Der Bettelstudent"
+      },
+      {
+        "id": "d",
+        "text": "Der Vogelhändler"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Hanna Glawari ist die Titelfigur der „Lustigen Witwe“. Zu den weiteren Rollen zählt Graf Danilo Danilowitsch.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/13023",
+        "verified_claim": "Hanna Glawari ist die Titelfigur der „Lustigen Witwe“. Zu den weiteren Rollen zählt Graf Danilo Danilowitsch.",
+        "checked_at": "2026-11-20T01:36:19+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-meistersinger-roles",
+    "fact_key": "stage.meistersinger.roles",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welches Werk bringt Hans Sachs und Sixtus Beckmesser gemeinsam auf die Opernbühne?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Meistersinger von Nürnberg"
+      },
+      {
+        "id": "b",
+        "text": "Der Freischütz"
+      },
+      {
+        "id": "c",
+        "text": "Die verkaufte Braut"
+      },
+      {
+        "id": "d",
+        "text": "Fidelio"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In „Die Meistersinger von Nürnberg“ gehören sowohl Sachs als auch Beckmesser zum Figurenkreis.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/61621",
+        "verified_claim": "In „Die Meistersinger von Nürnberg“ gehören sowohl Sachs als auch Beckmesser zum Figurenkreis.",
+        "checked_at": "2026-11-20T01:36:20+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-rosenkavalier-ochs",
+    "fact_key": "stage.rosenkavalier.ochs",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "In welcher Oper tritt der Baron Ochs auf Lerchenau auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Rosenkavalier"
+      },
+      {
+        "id": "b",
+        "text": "Die Frau ohne Schatten"
+      },
+      {
+        "id": "c",
+        "text": "Ariadne auf Naxos"
+      },
+      {
+        "id": "d",
+        "text": "Falstaff"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ochs auf Lerchenau ist eine der großen Rollen im „Rosenkavalier“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/2885",
+        "verified_claim": "Ochs auf Lerchenau ist eine der großen Rollen im „Rosenkavalier“.",
+        "checked_at": "2026-11-20T01:36:20+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-rusalka-beings",
+    "fact_key": "stage.rusalka.beings",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "In welcher Oper begegnen uns ein Wassermann und die Hexe Ježibaba?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rusalka"
+      },
+      {
+        "id": "b",
+        "text": "Eugen Onegin"
+      },
+      {
+        "id": "c",
+        "text": "Hoffmanns Erzählungen"
+      },
+      {
+        "id": "d",
+        "text": "Die verkaufte Braut"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Wassermann und Ježibaba gehören zur märchenhaften Figurenwelt von „Rusalka“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/37772",
+        "verified_claim": "Der Wassermann und Ježibaba gehören zur märchenhaften Figurenwelt von „Rusalka“.",
+        "checked_at": "2026-11-20T01:36:20+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-tannhaeuser-place",
+    "fact_key": "stage.tannhaeuser.place",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Burg nennt der vollständige Titel von Wagners „Tannhäuser“ als Ort des Sängerkriegs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Wartburg"
+      },
+      {
+        "id": "b",
+        "text": "Die Marksburg"
+      },
+      {
+        "id": "c",
+        "text": "Die Hohkönigsburg"
+      },
+      {
+        "id": "d",
+        "text": "Die Burg Eltz"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Werktitel lautet „Tannhäuser und der Sängerkrieg auf Wartburg“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/65581",
+        "verified_claim": "Der Werktitel lautet „Tannhäuser und der Sängerkrieg auf Wartburg“.",
+        "checked_at": "2026-11-20T01:36:20+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-tristan-monarche",
+    "fact_key": "stage.tristan.monarche",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Wie heißt der König in Wagners „Tristan und Isolde“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Marke"
+      },
+      {
+        "id": "b",
+        "text": "Alonso"
+      },
+      {
+        "id": "c",
+        "text": "Lear"
+      },
+      {
+        "id": "d",
+        "text": "Priamos"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Im Rollenverzeichnis dieser Oper heißt der König Marke.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/60667",
+        "verified_claim": "Im Rollenverzeichnis dieser Oper heißt der König Marke.",
+        "checked_at": "2026-11-20T01:36:21+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-barbiere-composer",
+    "fact_key": "stage.barbiere.composer",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer komponierte den berühmten „Barbier von Sevilla“ mit Rosina und Figaro, der 1816 in Rom uraufgeführt wurde?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gioachino Rossini"
+      },
+      {
+        "id": "b",
+        "text": "Gaetano Donizetti"
+      },
+      {
+        "id": "c",
+        "text": "Vincenzo Bellini"
+      },
+      {
+        "id": "d",
+        "text": "Giuseppe Verdi"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Rossinis „Il barbiere di Siviglia“ führt Rosina und den gewitzten Figaro auf die Bühne.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Archivio Storico del Teatro dell’Opera di Roma · Il barbiere di Siviglia",
+        "url": "https://archiviostorico.operaroma.it/opera/il-barbiere-di-siviglia/",
+        "verified_claim": "Rossinis „Il barbiere di Siviglia“ führt Rosina und den gewitzten Figaro auf die Bühne.",
+        "checked_at": "2026-11-20T01:50:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-coppelia-delibes",
+    "fact_key": "stage.coppelia.delibes",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Wer komponierte die Musik zum Ballett „Coppélia“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Léo Delibes"
+      },
+      {
+        "id": "b",
+        "text": "Adolphe Adam"
+      },
+      {
+        "id": "c",
+        "text": "Maurice Ravel"
+      },
+      {
+        "id": "d",
+        "text": "Igor Strawinsky"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Musik stammt von Léo Delibes. Unter seinem Namen führt die Wiener Staatsoper das Ballett.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/38886",
+        "verified_claim": "Die Musik stammt von Léo Delibes. Unter seinem Namen führt die Wiener Staatsoper das Ballett.",
+        "checked_at": "2026-11-20T01:36:22+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-schwanensee-roles",
+    "fact_key": "stage.schwanensee.roles",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In welchem Ballett heißen zwei zentrale Rollen Odette und Odile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schwanensee"
+      },
+      {
+        "id": "b",
+        "text": "Dornröschen"
+      },
+      {
+        "id": "c",
+        "text": "Giselle"
+      },
+      {
+        "id": "d",
+        "text": "Coppélia"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In „Schwanensee“ stehen sich Odette und Odile gegenüber.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/18566",
+        "verified_claim": "In „Schwanensee“ stehen sich Odette und Odile gegenüber.",
+        "checked_at": "2026-11-20T01:36:22+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-nussknacker-composer",
+    "fact_key": "stage.nussknacker.composer",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer schrieb die Ballettmusik zum „Nussknacker“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pjotr Iljitsch Tschaikowski"
+      },
+      {
+        "id": "b",
+        "text": "Sergei Prokofjew"
+      },
+      {
+        "id": "c",
+        "text": "Ludwig Minkus"
+      },
+      {
+        "id": "d",
+        "text": "Igor Strawinsky"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Wiener Staatsoper führt „Der Nussknacker“ mit der Musik von Tschaikowski.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/38162",
+        "verified_claim": "Die Wiener Staatsoper führt „Der Nussknacker“ mit der Musik von Tschaikowski.",
+        "checked_at": "2026-11-20T01:36:24+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-parsifal-roles",
+    "fact_key": "stage.parsifal.roles",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "In welchem Bühnenwerk Wagners treten Gurnemanz und Amfortas auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Parsifal"
+      },
+      {
+        "id": "b",
+        "text": "Siegfried"
+      },
+      {
+        "id": "c",
+        "text": "Das Rheingold"
+      },
+      {
+        "id": "d",
+        "text": "Rienzi"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Amfortas und Gurnemanz gehören zu den Figuren von „Parsifal“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/55822",
+        "verified_claim": "Amfortas und Gurnemanz gehören zu den Figuren von „Parsifal“.",
+        "checked_at": "2026-11-20T01:36:21+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-onegin-pair",
+    "fact_key": "stage.onegin.pair",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welche Oper bringt Tatjana und Lenski auf die Bühne?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eugen Onegin"
+      },
+      {
+        "id": "b",
+        "text": "Boris Godunow"
+      },
+      {
+        "id": "c",
+        "text": "Fürst Igor"
+      },
+      {
+        "id": "d",
+        "text": "Die verkaufte Braut"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In „Eugen Onegin“ treten sowohl Tatjana als auch Lenski auf.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/55557",
+        "verified_claim": "In „Eugen Onegin“ treten sowohl Tatjana als auch Lenski auf.",
+        "checked_at": "2026-11-20T01:36:23+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-haensel-witch",
+    "fact_key": "stage.haensel.witch",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In welcher Märchenoper sind Sandmännchen und Knusperhexe eigene Rollen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hänsel und Gretel"
+      },
+      {
+        "id": "b",
+        "text": "Die Zauberflöte"
+      },
+      {
+        "id": "c",
+        "text": "Der Freischütz"
+      },
+      {
+        "id": "d",
+        "text": "Die verkaufte Braut"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Bühnenpersonal von „Hänsel und Gretel“ umfasst die Knusperhexe und das Sandmännchen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/41043",
+        "verified_claim": "Das Bühnenpersonal von „Hänsel und Gretel“ umfasst die Knusperhexe und das Sandmännchen.",
+        "checked_at": "2026-11-20T01:36:23+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-freischuetz-max",
+    "fact_key": "stage.freischuetz.max",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wie heißt der junge Jäger an Agathes Seite in der Oper „Der Freischütz“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Max"
+      },
+      {
+        "id": "b",
+        "text": "Tamino"
+      },
+      {
+        "id": "c",
+        "text": "Alfredo"
+      },
+      {
+        "id": "d",
+        "text": "Rodolfo"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Max und Agathe stehen im Mittelpunkt von „Der Freischütz“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/45588",
+        "verified_claim": "Max und Agathe stehen im Mittelpunkt von „Der Freischütz“.",
+        "checked_at": "2026-11-20T01:36:23+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-vogelhaendler-composer",
+    "fact_key": "stage.vogelhaendler.composer",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Welcher Komponist schrieb die Operette „Der Vogelhändler“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Karl Zeller"
+      },
+      {
+        "id": "b",
+        "text": "Franz Lehár"
+      },
+      {
+        "id": "c",
+        "text": "Jacques Offenbach"
+      },
+      {
+        "id": "d",
+        "text": "Emmerich Kálmán"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Archiv der Wiener Staatsoper verzeichnet Karl Zeller als Komponisten der Operette.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/43611",
+        "verified_claim": "Das Archiv der Wiener Staatsoper verzeichnet Karl Zeller als Komponisten der Operette.",
+        "checked_at": "2026-11-20T01:36:23+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-trovatore-pair",
+    "fact_key": "stage.trovatore.pair",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "In welcher Verdi-Oper treten Azucena und Manrico auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Troubadour"
+      },
+      {
+        "id": "b",
+        "text": "Ein Maskenball"
+      },
+      {
+        "id": "c",
+        "text": "Don Carlos"
+      },
+      {
+        "id": "d",
+        "text": "Die Macht des Schicksals"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der italienische Titel lautet „Il trovatore“. Manrico und Azucena gehören zum Ensemble der Figuren.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/43979",
+        "verified_claim": "Der italienische Titel lautet „Il trovatore“. Manrico und Azucena gehören zum Ensemble der Figuren.",
+        "checked_at": "2026-11-20T01:36:21+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-nabucco-chorus",
+    "fact_key": "stage.nabucco.chorus",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Aus welcher Verdi-Oper stammt der berühmte Gefangenenchor „Va, pensiero“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nabucco"
+      },
+      {
+        "id": "b",
+        "text": "Aida"
+      },
+      {
+        "id": "c",
+        "text": "Rigoletto"
+      },
+      {
+        "id": "d",
+        "text": "Falstaff"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Va, pensiero“ erklingt in „Nabucco“, Verdis Oper über die Verschleppung des jüdischen Volkes.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, nabucco",
+        "url": "https://operavision.eu/performance/nabucco",
+        "verified_claim": "„Va, pensiero“ erklingt in „Nabucco“, Verdis Oper über die Verschleppung des jüdischen Volkes.",
+        "checked_at": "2026-11-20T01:13:51+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-aida-place",
+    "fact_key": "stage.aida.place",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In welchem Land befindet sich der Königspalast, in dem Verdis „Aida“ beginnt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In Ägypten"
+      },
+      {
+        "id": "b",
+        "text": "In Italien"
+      },
+      {
+        "id": "c",
+        "text": "In Spanien"
+      },
+      {
+        "id": "d",
+        "text": "In Persien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Am ägyptischen Königshof treffen die Lebenswege von Aida und Radamès aufeinander.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, aida",
+        "url": "https://operavision.eu/performance/aida",
+        "verified_claim": "Am ägyptischen Königshof treffen die Lebenswege von Aida und Radamès aufeinander.",
+        "checked_at": "2026-11-20T01:13:52+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-carmen-location",
+    "fact_key": "stage.carmen.location",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In welcher spanischen Stadt spielt Bizets Oper „Carmen“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sevilla"
+      },
+      {
+        "id": "b",
+        "text": "Madrid"
+      },
+      {
+        "id": "c",
+        "text": "Toledo"
+      },
+      {
+        "id": "d",
+        "text": "Barcelona"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Handlung beginnt bei einer Zigarettenfabrik in Sevilla.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, carmen",
+        "url": "https://operavision.eu/performance/carmen",
+        "verified_claim": "Die Handlung beginnt bei einer Zigarettenfabrik in Sevilla.",
+        "checked_at": "2026-11-20T01:13:50+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-tosca-profession",
+    "fact_key": "stage.tosca.profession",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welchen Beruf übt Floria Tosca in Puccinis Oper aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie ist Sängerin."
+      },
+      {
+        "id": "b",
+        "text": "Sie ist Malerin."
+      },
+      {
+        "id": "c",
+        "text": "Sie ist Bildhauerin."
+      },
+      {
+        "id": "d",
+        "text": "Sie ist Schriftstellerin."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Floria Tosca ist eine gefeierte Sängerin, die in einen politischen Konflikt gerät.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, tosca",
+        "url": "https://operavision.eu/performance/tosca",
+        "verified_claim": "Floria Tosca ist eine gefeierte Sängerin, die in einen politischen Konflikt gerät.",
+        "checked_at": "2026-11-20T01:13:51+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-boheme-rudolfo",
+    "fact_key": "stage.boheme.rudolfo",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Was ist Rodolfo in Puccinis „La bohème“ von Beruf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dichter"
+      },
+      {
+        "id": "b",
+        "text": "Maler"
+      },
+      {
+        "id": "c",
+        "text": "Musiker"
+      },
+      {
+        "id": "d",
+        "text": "Bildhauer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Rodolfo ist Dichter. Sein Freund Marcello, mit dem er eine Pariser Dachstube teilt, ist Maler.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, la-boheme",
+        "url": "https://operavision.eu/performance/la-boheme",
+        "verified_claim": "Rodolfo ist Dichter. Sein Freund Marcello, mit dem er eine Pariser Dachstube teilt, ist Maler.",
+        "checked_at": "2026-11-20T01:13:51+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-butterfly-nagasaki",
+    "fact_key": "stage.butterfly.nagasaki",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In welcher japanischen Stadt spielt Puccinis „Madama Butterfly“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nagasaki"
+      },
+      {
+        "id": "b",
+        "text": "Tokio"
+      },
+      {
+        "id": "c",
+        "text": "Kyoto"
+      },
+      {
+        "id": "d",
+        "text": "Osaka"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Auf einem Hügel bei Nagasaki beginnt die Geschichte von Butterfly und dem amerikanischen Marineoffizier Pinkerton.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, madama-butterfly",
+        "url": "https://operavision.eu/performance/madama-butterfly",
+        "verified_claim": "Auf einem Hügel bei Nagasaki beginnt die Geschichte von Butterfly und dem amerikanischen Marineoffizier Pinkerton.",
+        "checked_at": "2026-11-20T01:19:26+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-fledermaus-ball",
+    "fact_key": "stage.fledermaus.ball",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer gibt in der Operette „Die Fledermaus“ das große Fest?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Prinz Orlofsky"
+      },
+      {
+        "id": "b",
+        "text": "Baron Ochs"
+      },
+      {
+        "id": "c",
+        "text": "Graf Almaviva"
+      },
+      {
+        "id": "d",
+        "text": "Fürst Igor"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zum Ball des Prinzen Orlofsky kommt auch das Stubenmädchen Adele.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, die-fledermaus",
+        "url": "https://operavision.eu/performance/die-fledermaus",
+        "verified_claim": "Zum Ball des Prinzen Orlofsky kommt auch das Stubenmädchen Adele.",
+        "checked_at": "2026-11-20T01:13:53+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-orfeo-condition",
+    "fact_key": "stage.orfeo.condition",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Bedingung soll Orfeo erfüllen, wenn er Euridice aus der Unterwelt führt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er darf sie unterwegs nicht ansehen."
+      },
+      {
+        "id": "b",
+        "text": "Er muss die ganze Zeit singen."
+      },
+      {
+        "id": "c",
+        "text": "Er darf nur im Dunkeln gehen."
+      },
+      {
+        "id": "d",
+        "text": "Er muss seine Leier zurücklassen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Orfeo soll seinen Blick von Euridice abwenden, bis beide die Unterwelt verlassen haben.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, orfeo-ed-euridice",
+        "url": "https://operavision.eu/performance/orfeo-ed-euridice",
+        "verified_claim": "Orfeo soll seinen Blick von Euridice abwenden, bis beide die Unterwelt verlassen haben.",
+        "checked_at": "2026-11-20T01:19:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-zauberfloete-tamino",
+    "fact_key": "stage.zauberfloete.tamino",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Mit wem bildet Tamino in Mozarts „Zauberflöte“ ein Liebespaar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pamina"
+      },
+      {
+        "id": "b",
+        "text": "Papagena"
+      },
+      {
+        "id": "c",
+        "text": "Susanna"
+      },
+      {
+        "id": "d",
+        "text": "Zerlina"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Tamino und Pamina stehen als Paar neben dem zweiten Paar Papageno und Papagena.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, magic-flute",
+        "url": "https://operavision.eu/performance/magic-flute",
+        "verified_claim": "Tamino und Pamina stehen als Paar neben dem zweiten Paar Papageno und Papagena.",
+        "checked_at": "2026-11-20T01:13:50+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-dongiovanni-servant",
+    "fact_key": "stage.dongiovanni.servant",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wie heißt der Diener von Mozarts Don Giovanni?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Leporello"
+      },
+      {
+        "id": "b",
+        "text": "Figaro"
+      },
+      {
+        "id": "c",
+        "text": "Scarpia"
+      },
+      {
+        "id": "d",
+        "text": "Don Basilio"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Leporello begleitet Don Giovanni und wird in dessen Liebesabenteuer hineingezogen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, don-giovanni",
+        "url": "https://operavision.eu/performance/don-giovanni",
+        "verified_claim": "Leporello begleitet Don Giovanni und wird in dessen Liebesabenteuer hineingezogen.",
+        "checked_at": "2026-11-20T01:13:52+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-traviata-alfredo",
+    "fact_key": "stage.traviata.alfredo",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welcher junge Mann liebt Violetta in „La traviata“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alfredo Germont"
+      },
+      {
+        "id": "b",
+        "text": "Rodolfo"
+      },
+      {
+        "id": "c",
+        "text": "Mario Cavaradossi"
+      },
+      {
+        "id": "d",
+        "text": "Don José"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Alfredo Germont ist Violettas Bewunderer. Der Widerstand seiner Familie belastet ihre Beziehung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, la-traviata",
+        "url": "https://operavision.eu/performance/la-traviata",
+        "verified_claim": "Alfredo Germont ist Violettas Bewunderer. Der Widerstand seiner Familie belastet ihre Beziehung.",
+        "checked_at": "2026-11-20T01:13:50+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-schwanensee-score",
+    "fact_key": "stage.schwanensee.score",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer komponierte die Musik zum Ballett „Schwanensee“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pjotr Iljitsch Tschaikowski"
+      },
+      {
+        "id": "b",
+        "text": "Johann Strauss"
+      },
+      {
+        "id": "c",
+        "text": "Claude Debussy"
+      },
+      {
+        "id": "d",
+        "text": "Georges Bizet"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Ballett „Schwanensee“ gehört zu den Bühnenwerken von Tschaikowski.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/18566",
+        "verified_claim": "Das Ballett „Schwanensee“ gehört zu den Bühnenwerken von Tschaikowski.",
+        "checked_at": "2026-11-20T01:36:22+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-carmen-escamillo",
+    "fact_key": "stage.carmen.escamillo",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welchen Beruf hat Escamillo in „Carmen“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stierkämpfer"
+      },
+      {
+        "id": "b",
+        "text": "Zollbeamter"
+      },
+      {
+        "id": "c",
+        "text": "Schmied"
+      },
+      {
+        "id": "d",
+        "text": "Offizier"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Escamillo wird als gefeierter Torero begrüßt. Der letzte Akt spielt vor der Stierkampfarena.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, carmen",
+        "url": "https://operavision.eu/performance/carmen",
+        "verified_claim": "Escamillo wird als gefeierter Torero begrüßt. Der letzte Akt spielt vor der Stierkampfarena.",
+        "checked_at": "2026-11-20T01:13:50+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stage-tristan-brangaene",
+    "fact_key": "stage.tristan.brangaene",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "In welcher Wagner-Oper findet man die Rolle der Brangäne?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tristan und Isolde"
+      },
+      {
+        "id": "b",
+        "text": "Lohengrin"
+      },
+      {
+        "id": "c",
+        "text": "Parsifal"
+      },
+      {
+        "id": "d",
+        "text": "Die Meistersinger von Nürnberg"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Wiener Staatsoper führt Brangäne im Rollenverzeichnis von „Tristan und Isolde“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wiener Staatsoper · Vorstellung und Besetzung",
+        "url": "https://archiv.wiener-staatsoper.at/performances/60667",
+        "verified_claim": "Die Wiener Staatsoper führt Brangäne im Rollenverzeichnis von „Tristan und Isolde“.",
+        "checked_at": "2026-11-20T01:36:21+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:51:59+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:53:32+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:53:32+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

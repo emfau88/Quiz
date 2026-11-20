@@ -1,0 +1,3026 @@
+[
+  {
+    "id": "k-dta-hauptmann-bahnwaerter-1892",
+    "fact_key": "dta.hauptmann_bahnwaerter_1892",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Wer schrieb „Bahnwärter Thiel“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gerhart Hauptmann"
+      },
+      {
+        "id": "b",
+        "text": "Jacob und Wilhelm Grimm"
+      },
+      {
+        "id": "c",
+        "text": "Annette von Droste-Hülshoff"
+      },
+      {
+        "id": "d",
+        "text": "Heinrich von Kleist"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Bahnwärter Thiel“ erschien in der Berliner Ausgabe von 1892 zusammen mit „Der Apostel“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 10 · Bahnwärter Thiel",
+        "url": "https://www.deutschestextarchiv.de/list?p=10",
+        "verified_claim": "„Bahnwärter Thiel“ erschien in der Berliner Ausgabe von 1892 zusammen mit „Der Apostel“.",
+        "checked_at": "2026-11-20T01:21:18+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-hauptmann-weber-1892",
+    "fact_key": "dta.hauptmann_weber_1892",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welchen dieser Titel von Gerhart Hauptmann verzeichnet das Deutsche Textarchiv in einer Ausgabe von 1892?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Weber"
+      },
+      {
+        "id": "b",
+        "text": "Mozart auf der Reise nach Prag"
+      },
+      {
+        "id": "c",
+        "text": "Irrungen, Wirrungen"
+      },
+      {
+        "id": "d",
+        "text": "Effi Briest"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Hauptmanns Stück wurde 1892 in Berlin veröffentlicht.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 10 · Die Weber",
+        "url": "https://www.deutschestextarchiv.de/list?p=10",
+        "verified_claim": "Hauptmanns Stück wurde 1892 in Berlin veröffentlicht.",
+        "checked_at": "2026-11-20T01:21:18+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-heine-lieder-1827",
+    "fact_key": "dta.heine_lieder_1827",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb „Buch der Lieder“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Heinrich Heine"
+      },
+      {
+        "id": "b",
+        "text": "Gottfried Keller"
+      },
+      {
+        "id": "c",
+        "text": "Alexander von Humboldt"
+      },
+      {
+        "id": "d",
+        "text": "Adalbert Stifter"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Heines „Buch der Lieder“ erschien 1827 in Hamburg.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 10 · Buch der Lieder",
+        "url": "https://www.deutschestextarchiv.de/list?p=10",
+        "verified_claim": "Heines „Buch der Lieder“ erschien 1827 in Hamburg.",
+        "checked_at": "2026-11-20T01:21:18+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-heine-wintermaehrchen-1844",
+    "fact_key": "dta.heine_wintermaehrchen_1844",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welchen dieser Titel von Heinrich Heine verzeichnet das Deutsche Textarchiv in einer Ausgabe von 1844?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deutschland. Ein Wintermärchen"
+      },
+      {
+        "id": "b",
+        "text": "Der zerbrochne Krug"
+      },
+      {
+        "id": "c",
+        "text": "Kosmos. Entwurf einer physischen Weltbeschreibung"
+      },
+      {
+        "id": "d",
+        "text": "Heinrich von Ofterdingen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das „Wintermärchen“ erschien 1844 in Hamburg. Im damaligen Druck steht das Wort noch mit h.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 10 · Deutschland. Ein Wintermärchen",
+        "url": "https://www.deutschestextarchiv.de/list?p=10",
+        "verified_claim": "Das „Wintermärchen“ erschien 1844 in Hamburg. Im damaligen Druck steht das Wort noch mit h.",
+        "checked_at": "2026-11-20T01:21:18+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-hoffmann-elixiere01-1815",
+    "fact_key": "dta.hoffmann_elixiere01_1815",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Wer schrieb „Die Elixiere des Teufels“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "E. T. A. Hoffmann"
+      },
+      {
+        "id": "b",
+        "text": "Heinrich von Kleist"
+      },
+      {
+        "id": "c",
+        "text": "Adalbert Stifter"
+      },
+      {
+        "id": "d",
+        "text": "Theodor Fontane"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Vom Werk E. T. A. Hoffmanns erschien der erste Band 1815 in Berlin.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 12 · Die Elixiere des Teufels",
+        "url": "https://www.deutschestextarchiv.de/list?p=12",
+        "verified_claim": "Vom Werk E. T. A. Hoffmanns erschien der erste Band 1815 in Berlin.",
+        "checked_at": "2026-11-20T01:21:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-humboldt-kosmos01-1845",
+    "fact_key": "dta.humboldt_kosmos01_1845",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb „Kosmos. Entwurf einer physischen Weltbeschreibung“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alexander von Humboldt"
+      },
+      {
+        "id": "b",
+        "text": "Arthur Schnitzler"
+      },
+      {
+        "id": "c",
+        "text": "Johann Wolfgang von Goethe"
+      },
+      {
+        "id": "d",
+        "text": "Novalis"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der erste Band von Humboldts groß angelegter Weltbeschreibung kam 1845 heraus.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 13 · Kosmos. Entwurf einer physischen Weltbeschreibung",
+        "url": "https://www.deutschestextarchiv.de/list?p=13",
+        "verified_claim": "Der erste Band von Humboldts groß angelegter Weltbeschreibung kam 1845 heraus.",
+        "checked_at": "2026-11-20T01:21:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-keller-heinrich01-1854",
+    "fact_key": "dta.keller_heinrich01_1854",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb „Der grüne Heinrich“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gottfried Keller"
+      },
+      {
+        "id": "b",
+        "text": "Arthur Schnitzler"
+      },
+      {
+        "id": "c",
+        "text": "Joseph von Eichendorff"
+      },
+      {
+        "id": "d",
+        "text": "Theodor Mommsen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der erste Band von Kellers „Der grüne Heinrich“ erschien 1854 in Braunschweig.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 15 · Der grüne Heinrich",
+        "url": "https://www.deutschestextarchiv.de/list?p=15",
+        "verified_claim": "Der erste Band von Kellers „Der grüne Heinrich“ erschien 1854 in Braunschweig.",
+        "checked_at": "2026-11-20T01:21:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-keller-seldwyla-1856",
+    "fact_key": "dta.keller_seldwyla_1856",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welchen dieser Titel von Gottfried Keller verzeichnet das Deutsche Textarchiv in einer Ausgabe von 1856?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Leute von Seldwyla"
+      },
+      {
+        "id": "b",
+        "text": "Schatzkästlein des rheinischen Hausfreundes"
+      },
+      {
+        "id": "c",
+        "text": "Peter Schlemihls wundersame Geschichte"
+      },
+      {
+        "id": "d",
+        "text": "Deutschland. Ein Wintermärchen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der im Deutschen Textarchiv erfasste Band von Kellers Erzählungen erschien 1856 in Braunschweig.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 15 · Die Leute von Seldwyla",
+        "url": "https://www.deutschestextarchiv.de/list?p=15",
+        "verified_claim": "Der im Deutschen Textarchiv erfasste Band von Kellers Erzählungen erschien 1856 in Braunschweig.",
+        "checked_at": "2026-11-20T01:21:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-moerike-mozart-1856",
+    "fact_key": "dta.moerike_mozart_1856",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Wer schrieb „Mozart auf der Reise nach Prag“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eduard Mörike"
+      },
+      {
+        "id": "b",
+        "text": "Johann Peter Hebel"
+      },
+      {
+        "id": "c",
+        "text": "Arthur Schnitzler"
+      },
+      {
+        "id": "d",
+        "text": "Novalis"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mörikes Erzählung steht im Textarchiv in einer Ausgabe von 1856.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 19 · Mozart auf der Reise nach Prag",
+        "url": "https://www.deutschestextarchiv.de/list?p=19",
+        "verified_claim": "Mörikes Erzählung steht im Textarchiv in einer Ausgabe von 1856.",
+        "checked_at": "2026-11-20T01:21:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-novalis-ofterdingen-1802",
+    "fact_key": "dta.novalis_ofterdingen_1802",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Wer schrieb „Heinrich von Ofterdingen“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Novalis"
+      },
+      {
+        "id": "b",
+        "text": "Johann Peter Hebel"
+      },
+      {
+        "id": "c",
+        "text": "Theodor Fontane"
+      },
+      {
+        "id": "d",
+        "text": "Friedrich Schiller"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der unter dem Namen Novalis bekannte Dichter ist als Autor der Berliner Ausgabe von 1802 verzeichnet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 21 · Heinrich von Ofterdingen",
+        "url": "https://www.deutschestextarchiv.de/list?p=21",
+        "verified_claim": "Der unter dem Namen Novalis bekannte Dichter ist als Autor der Berliner Ausgabe von 1802 verzeichnet.",
+        "checked_at": "2026-11-20T01:21:35+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-schiller-stuart-1801",
+    "fact_key": "dta.schiller_stuart_1801",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welchen dieser Titel von Friedrich Schiller verzeichnet das Deutsche Textarchiv in einer Ausgabe von 1801?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Maria Stuart"
+      },
+      {
+        "id": "b",
+        "text": "Schatzkästlein des rheinischen Hausfreundes"
+      },
+      {
+        "id": "c",
+        "text": "Jenseit des Tweed"
+      },
+      {
+        "id": "d",
+        "text": "Bahnwärter Thiel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Schillers Drama erschien 1801 in Buchform.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 26 · Maria Stuart",
+        "url": "https://www.deutschestextarchiv.de/list?p=26",
+        "verified_claim": "Schillers Drama erschien 1801 in Buchform.",
+        "checked_at": "2026-11-20T01:21:42+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-spyri-heidi-1880",
+    "fact_key": "dta.spyri_heidi_1880",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb „Heidis Lehr- und Wanderjahre“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Johanna Spyri"
+      },
+      {
+        "id": "b",
+        "text": "Theodor Mommsen"
+      },
+      {
+        "id": "c",
+        "text": "Jacob und Wilhelm Grimm"
+      },
+      {
+        "id": "d",
+        "text": "Arthur Schnitzler"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Johanna Spyris erstes Heidi-Buch erschien 1880 in Gotha.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 28 · Heidis Lehr- und Wanderjahre",
+        "url": "https://www.deutschestextarchiv.de/list?p=28",
+        "verified_claim": "Johanna Spyris erstes Heidi-Buch erschien 1880 in Gotha.",
+        "checked_at": "2026-11-20T01:21:47+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-stifter-nachsommer01-1857",
+    "fact_key": "dta.stifter_nachsommer01_1857",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Wer schrieb „Der Nachsommer“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Adalbert Stifter"
+      },
+      {
+        "id": "b",
+        "text": "Eduard Mörike"
+      },
+      {
+        "id": "c",
+        "text": "Heinrich von Kleist"
+      },
+      {
+        "id": "d",
+        "text": "E. T. A. Hoffmann"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der erste Band von Stifters „Nachsommer“ erschien 1857 in Pest.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 28 · Der Nachsommer",
+        "url": "https://www.deutschestextarchiv.de/list?p=28",
+        "verified_claim": "Der erste Band von Stifters „Nachsommer“ erschien 1857 in Pest.",
+        "checked_at": "2026-11-20T01:21:47+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-buechner-danton-1835",
+    "fact_key": "dta.buechner_danton_1835",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb „Dantons Tod“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Georg Büchner"
+      },
+      {
+        "id": "b",
+        "text": "Gerhart Hauptmann"
+      },
+      {
+        "id": "c",
+        "text": "Theodor Fontane"
+      },
+      {
+        "id": "d",
+        "text": "Annette von Droste-Hülshoff"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Büchners Drama erschien 1835 in Frankfurt am Main.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 4 · Dantons Tod",
+        "url": "https://www.deutschestextarchiv.de/list?p=4",
+        "verified_claim": "Büchners Drama erschien 1835 in Frankfurt am Main.",
+        "checked_at": "2026-11-20T01:21:10+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-fontane-stechlin-1899",
+    "fact_key": "dta.fontane_stechlin_1899",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb „Der Stechlin“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Theodor Fontane"
+      },
+      {
+        "id": "b",
+        "text": "Johann Wolfgang von Goethe"
+      },
+      {
+        "id": "c",
+        "text": "Alexander von Humboldt"
+      },
+      {
+        "id": "d",
+        "text": "Friedrich Schiller"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Deutsche Textarchiv verzeichnet die Berliner Buchausgabe von 1899.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 7 · Der Stechlin",
+        "url": "https://www.deutschestextarchiv.de/list?p=7",
+        "verified_claim": "Das Deutsche Textarchiv verzeichnet die Berliner Buchausgabe von 1899.",
+        "checked_at": "2026-11-20T01:21:17+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-fontane-briest-1896",
+    "fact_key": "dta.fontane_briest_1896",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb „Effi Briest“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Theodor Fontane"
+      },
+      {
+        "id": "b",
+        "text": "Friedrich Schiller"
+      },
+      {
+        "id": "c",
+        "text": "Georg Büchner"
+      },
+      {
+        "id": "d",
+        "text": "Novalis"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Roman ist im Deutschen Textarchiv in der Berliner Ausgabe von 1896 zugänglich.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 7 · Effi Briest",
+        "url": "https://www.deutschestextarchiv.de/list?p=7",
+        "verified_claim": "Der Roman ist im Deutschen Textarchiv in der Berliner Ausgabe von 1896 zugänglich.",
+        "checked_at": "2026-11-20T01:21:17+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-fontane-irrungen-1888",
+    "fact_key": "dta.fontane_irrungen_1888",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welchen dieser Titel von Theodor Fontane verzeichnet das Deutsche Textarchiv in einer Ausgabe von 1888?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Irrungen, Wirrungen"
+      },
+      {
+        "id": "b",
+        "text": "Bahnwärter Thiel"
+      },
+      {
+        "id": "c",
+        "text": "Die Leiden des jungen Werthers"
+      },
+      {
+        "id": "d",
+        "text": "Die Elixiere des Teufels"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Fontanes „Irrungen, Wirrungen“ erschien 1888 in Leipzig.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 7 · Irrungen, Wirrungen",
+        "url": "https://www.deutschestextarchiv.de/list?p=7",
+        "verified_claim": "Fontanes „Irrungen, Wirrungen“ erschien 1888 in Leipzig.",
+        "checked_at": "2026-11-20T01:21:17+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-fontane-birnbaum-1885",
+    "fact_key": "dta.fontane_birnbaum_1885",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Wer schrieb „Unterm Birnbaum“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Theodor Fontane"
+      },
+      {
+        "id": "b",
+        "text": "Novalis"
+      },
+      {
+        "id": "c",
+        "text": "Alexander von Humboldt"
+      },
+      {
+        "id": "d",
+        "text": "Annette von Droste-Hülshoff"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Text erschien 1885 in Fortsetzungen in der Zeitschrift „Die Gartenlaube“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 7 · Unterm Birnbaum",
+        "url": "https://www.deutschestextarchiv.de/list?p=7",
+        "verified_claim": "Der Text erschien 1885 in Fortsetzungen in der Zeitschrift „Die Gartenlaube“.",
+        "checked_at": "2026-11-20T01:21:17+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-fontane-brandenburg01-1862",
+    "fact_key": "dta.fontane_brandenburg01_1862",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welchen dieser Titel von Theodor Fontane verzeichnet das Deutsche Textarchiv in einer Ausgabe von 1862?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wanderungen durch die Mark Brandenburg"
+      },
+      {
+        "id": "b",
+        "text": "Iphigenie auf Tauris"
+      },
+      {
+        "id": "c",
+        "text": "Römische Geschichte"
+      },
+      {
+        "id": "d",
+        "text": "Schatzkästlein des rheinischen Hausfreundes"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Fontanes erster Band der „Wanderungen“ erschien 1862 in Berlin.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 7 · Wanderungen durch die Mark Brandenburg",
+        "url": "https://www.deutschestextarchiv.de/list?p=7",
+        "verified_claim": "Fontanes erster Band der „Wanderungen“ erschien 1862 in Berlin.",
+        "checked_at": "2026-11-20T01:21:17+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-gotthelf-sagen-1842",
+    "fact_key": "dta.gotthelf_sagen_1842",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Wer schrieb „Die schwarze Spinne“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jeremias Gotthelf"
+      },
+      {
+        "id": "b",
+        "text": "Novalis"
+      },
+      {
+        "id": "c",
+        "text": "Jacob und Wilhelm Grimm"
+      },
+      {
+        "id": "d",
+        "text": "Theodor Mommsen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Die schwarze Spinne“ erschien 1842 in Gotthelfs „Bildern und Sagen aus der Schweiz“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 9 · Die schwarze Spinne",
+        "url": "https://www.deutschestextarchiv.de/list?p=9",
+        "verified_claim": "„Die schwarze Spinne“ erschien 1842 in Gotthelfs „Bildern und Sagen aus der Schweiz“.",
+        "checked_at": "2026-11-20T01:21:18+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-hebel-schatzkaestlein-1811",
+    "fact_key": "dta.hebel_schatzkaestlein_1811",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Wer schrieb „Schatzkästlein des rheinischen Hausfreundes“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Johann Peter Hebel"
+      },
+      {
+        "id": "b",
+        "text": "Theodor Storm"
+      },
+      {
+        "id": "c",
+        "text": "Novalis"
+      },
+      {
+        "id": "d",
+        "text": "Franz Kafka"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Hebels Sammlung wurde 1811 in Tübingen veröffentlicht.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 10 · Schatzkästlein des rheinischen Hausfreundes",
+        "url": "https://www.deutschestextarchiv.de/list?p=10",
+        "verified_claim": "Hebels Sammlung wurde 1811 in Tübingen veröffentlicht.",
+        "checked_at": "2026-11-20T01:21:18+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-hoelderlin-hyperion01-1797",
+    "fact_key": "dta.hoelderlin_hyperion01_1797",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Wer schrieb „Hyperion“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Friedrich Hölderlin"
+      },
+      {
+        "id": "b",
+        "text": "E. T. A. Hoffmann"
+      },
+      {
+        "id": "c",
+        "text": "Gotthold Ephraim Lessing"
+      },
+      {
+        "id": "d",
+        "text": "Adalbert Stifter"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der erste Band von Hölderlins „Hyperion“ erschien 1797 in Tübingen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 12 · Hyperion",
+        "url": "https://www.deutschestextarchiv.de/list?p=12",
+        "verified_claim": "Der erste Band von Hölderlins „Hyperion“ erschien 1797 in Tübingen.",
+        "checked_at": "2026-11-20T01:21:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-kafka-hungerkuenstler-1922",
+    "fact_key": "dta.kafka_hungerkuenstler_1922",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb „Ein Hungerkünstler“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Franz Kafka"
+      },
+      {
+        "id": "b",
+        "text": "Gerhart Hauptmann"
+      },
+      {
+        "id": "c",
+        "text": "Eduard Mörike"
+      },
+      {
+        "id": "d",
+        "text": "Novalis"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Text von Franz Kafka ist im Textarchiv mit einer Berliner Veröffentlichung von 1922 erfasst.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 15 · Ein Hungerkünstler",
+        "url": "https://www.deutschestextarchiv.de/list?p=15",
+        "verified_claim": "Der Text von Franz Kafka ist im Textarchiv mit einer Berliner Veröffentlichung von 1922 erfasst.",
+        "checked_at": "2026-11-20T01:21:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-kleist-kaethchen-1810",
+    "fact_key": "dta.kleist_kaethchen_1810",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb „Das Käthchen von Heilbronn“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Heinrich von Kleist"
+      },
+      {
+        "id": "b",
+        "text": "Johanna Spyri"
+      },
+      {
+        "id": "c",
+        "text": "Gotthold Ephraim Lessing"
+      },
+      {
+        "id": "d",
+        "text": "Gottfried Keller"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kleists Schauspiel erschien 1810. Der vollständige Titel nennt auch die Feuerprobe.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 15 · Das Käthchen von Heilbronn",
+        "url": "https://www.deutschestextarchiv.de/list?p=15",
+        "verified_claim": "Kleists Schauspiel erschien 1810. Der vollständige Titel nennt auch die Feuerprobe.",
+        "checked_at": "2026-11-20T01:21:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-kleist-krug-1811",
+    "fact_key": "dta.kleist_krug_1811",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welchen dieser Titel von Heinrich von Kleist verzeichnet das Deutsche Textarchiv in einer Ausgabe von 1811?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der zerbrochne Krug"
+      },
+      {
+        "id": "b",
+        "text": "Wilhelm Tell"
+      },
+      {
+        "id": "c",
+        "text": "Heinrich von Ofterdingen"
+      },
+      {
+        "id": "d",
+        "text": "Der Nachsommer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Deutsche Textarchiv zeigt eine Berliner Ausgabe von 1811.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 15 · Der zerbrochne Krug",
+        "url": "https://www.deutschestextarchiv.de/list?p=15",
+        "verified_claim": "Das Deutsche Textarchiv zeigt eine Berliner Ausgabe von 1811.",
+        "checked_at": "2026-11-20T01:21:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-lessing-emilia-1772",
+    "fact_key": "dta.lessing_emilia_1772",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb „Emilia Galotti“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gotthold Ephraim Lessing"
+      },
+      {
+        "id": "b",
+        "text": "Eduard Mörike"
+      },
+      {
+        "id": "c",
+        "text": "Friedrich Schiller"
+      },
+      {
+        "id": "d",
+        "text": "Jacob und Wilhelm Grimm"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Lessings „Emilia Galotti“ erschien 1772 in Berlin.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 17 · Emilia Galotti",
+        "url": "https://www.deutschestextarchiv.de/list?p=17",
+        "verified_claim": "Lessings „Emilia Galotti“ erschien 1772 in Berlin.",
+        "checked_at": "2026-11-20T01:21:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-lessing-minna-1767",
+    "fact_key": "dta.lessing_minna_1767",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welchen dieser Titel von Gotthold Ephraim Lessing verzeichnet das Deutsche Textarchiv in einer Ausgabe von 1767?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Minna von Barnhelm"
+      },
+      {
+        "id": "b",
+        "text": "Liebelei"
+      },
+      {
+        "id": "c",
+        "text": "Deutschland. Ein Wintermärchen"
+      },
+      {
+        "id": "d",
+        "text": "Die Leute von Seldwyla"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Lessings Stück trägt auch den Titelzusatz „oder das Soldatenglück“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 17 · Minna von Barnhelm",
+        "url": "https://www.deutschestextarchiv.de/list?p=17",
+        "verified_claim": "Lessings Stück trägt auch den Titelzusatz „oder das Soldatenglück“.",
+        "checked_at": "2026-11-20T01:21:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-mommsen-roemische01-1854",
+    "fact_key": "dta.mommsen_roemische01_1854",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welcher Historiker veröffentlichte 1854 in Leipzig den ersten Band seiner „Römischen Geschichte“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Theodor Mommsen"
+      },
+      {
+        "id": "b",
+        "text": "Adalbert Stifter"
+      },
+      {
+        "id": "c",
+        "text": "E. T. A. Hoffmann"
+      },
+      {
+        "id": "d",
+        "text": "Theodor Fontane"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der erste Band von Mommsens Darstellung reicht bis zur Schlacht von Pydna.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 19 · Römische Geschichte",
+        "url": "https://www.deutschestextarchiv.de/list?p=19",
+        "verified_claim": "Der erste Band von Mommsens Darstellung reicht bis zur Schlacht von Pydna.",
+        "checked_at": "2026-11-20T01:21:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-schiller-kabale-1784",
+    "fact_key": "dta.schiller_kabale_1784",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb „Kabale und Liebe“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Friedrich Schiller"
+      },
+      {
+        "id": "b",
+        "text": "Arthur Schnitzler"
+      },
+      {
+        "id": "c",
+        "text": "Gerhart Hauptmann"
+      },
+      {
+        "id": "d",
+        "text": "Friedrich Hölderlin"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Schillers „Kabale und Liebe“ erschien 1784 in Mannheim.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 26 · Kabale und Liebe",
+        "url": "https://www.deutschestextarchiv.de/list?p=26",
+        "verified_claim": "Schillers „Kabale und Liebe“ erschien 1784 in Mannheim.",
+        "checked_at": "2026-11-20T01:21:42+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-schiller-tell-1804",
+    "fact_key": "dta.schiller_tell_1804",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb „Wilhelm Tell“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Friedrich Schiller"
+      },
+      {
+        "id": "b",
+        "text": "Gotthold Ephraim Lessing"
+      },
+      {
+        "id": "c",
+        "text": "Franz Kafka"
+      },
+      {
+        "id": "d",
+        "text": "Heinrich von Kleist"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Schillers Fassung erschien 1804 in Tübingen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 26 · Wilhelm Tell",
+        "url": "https://www.deutschestextarchiv.de/list?p=26",
+        "verified_claim": "Schillers Fassung erschien 1804 in Tübingen.",
+        "checked_at": "2026-11-20T01:21:42+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-schnitzler-liebelei-1896",
+    "fact_key": "dta.schnitzler_liebelei_1896",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Wer schrieb „Liebelei“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Arthur Schnitzler"
+      },
+      {
+        "id": "b",
+        "text": "Gerhart Hauptmann"
+      },
+      {
+        "id": "c",
+        "text": "Johann Wolfgang von Goethe"
+      },
+      {
+        "id": "d",
+        "text": "Novalis"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Arthur Schnitzlers „Liebelei“ ist in einer Berliner Ausgabe von 1896 im Deutschen Textarchiv erfasst.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 26 · Liebelei",
+        "url": "https://www.deutschestextarchiv.de/list?p=26",
+        "verified_claim": "Arthur Schnitzlers „Liebelei“ ist in einer Berliner Ausgabe von 1896 im Deutschen Textarchiv erfasst.",
+        "checked_at": "2026-11-20T01:21:42+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-schnitzler-traumnovelle-1926",
+    "fact_key": "dta.schnitzler_traumnovelle_1926",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welchen dieser Titel von Arthur Schnitzler verzeichnet das Deutsche Textarchiv in einer Ausgabe von 1926?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Traumnovelle"
+      },
+      {
+        "id": "b",
+        "text": "Das Käthchen von Heilbronn"
+      },
+      {
+        "id": "c",
+        "text": "Wanderungen durch die Mark Brandenburg"
+      },
+      {
+        "id": "d",
+        "text": "Heidis Lehr- und Wanderjahre"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Ausgabe von Schnitzlers „Traumnovelle“ im Deutschen Textarchiv stammt aus dem Jahr 1926.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 26 · Traumnovelle",
+        "url": "https://www.deutschestextarchiv.de/list?p=26",
+        "verified_claim": "Die Ausgabe von Schnitzlers „Traumnovelle“ im Deutschen Textarchiv stammt aus dem Jahr 1926.",
+        "checked_at": "2026-11-20T01:21:42+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-storm-schimmelreiter-1888",
+    "fact_key": "dta.storm_schimmelreiter_1888",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb „Der Schimmelreiter“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Theodor Storm"
+      },
+      {
+        "id": "b",
+        "text": "Johanna Spyri"
+      },
+      {
+        "id": "c",
+        "text": "Johann Wolfgang von Goethe"
+      },
+      {
+        "id": "d",
+        "text": "Georg Büchner"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Storms „Schimmelreiter“ ist im Deutschen Textarchiv in der Berliner Ausgabe von 1888 zu finden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 28 · Der Schimmelreiter",
+        "url": "https://www.deutschestextarchiv.de/list?p=28",
+        "verified_claim": "Storms „Schimmelreiter“ ist im Deutschen Textarchiv in der Berliner Ausgabe von 1888 zu finden.",
+        "checked_at": "2026-11-20T01:21:47+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-storm-immensee-1852",
+    "fact_key": "dta.storm_immensee_1852",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welchen dieser Titel von Theodor Storm verzeichnet das Deutsche Textarchiv in einer Ausgabe von 1852?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Immensee"
+      },
+      {
+        "id": "b",
+        "text": "Minna von Barnhelm"
+      },
+      {
+        "id": "c",
+        "text": "Ein Hungerkünstler"
+      },
+      {
+        "id": "d",
+        "text": "Die Weber"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Berliner Ausgabe von Storms Erzählung stammt aus dem Jahr 1852.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 28 · Immensee",
+        "url": "https://www.deutschestextarchiv.de/list?p=28",
+        "verified_claim": "Die Berliner Ausgabe von Storms Erzählung stammt aus dem Jahr 1852.",
+        "checked_at": "2026-11-20T01:21:47+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-chamisso-schlemihl-1814",
+    "fact_key": "dta.chamisso_schlemihl_1814",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Wer schrieb „Peter Schlemihls wundersame Geschichte“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Adelbert von Chamisso"
+      },
+      {
+        "id": "b",
+        "text": "Arthur Schnitzler"
+      },
+      {
+        "id": "c",
+        "text": "Novalis"
+      },
+      {
+        "id": "d",
+        "text": "Gerhart Hauptmann"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Chamissos Geschichte über Peter Schlemihl erschien 1814 in Nürnberg.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 4 · Peter Schlemihls wundersame Geschichte",
+        "url": "https://www.deutschestextarchiv.de/list?p=4",
+        "verified_claim": "Chamissos Geschichte über Peter Schlemihl erschien 1814 in Nürnberg.",
+        "checked_at": "2026-11-20T01:21:10+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-droste-judenbuche-1910",
+    "fact_key": "dta.droste_judenbuche_1910",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb „Die Judenbuche“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Annette von Droste-Hülshoff"
+      },
+      {
+        "id": "b",
+        "text": "Georg Büchner"
+      },
+      {
+        "id": "c",
+        "text": "Johann Wolfgang von Goethe"
+      },
+      {
+        "id": "d",
+        "text": "Theodor Fontane"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eine spätere Ausgabe der Erzählung erschien im „Deutschen Novellenschatz“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 30 · Die Judenbuche",
+        "url": "https://www.deutschestextarchiv.de/list?p=30",
+        "verified_claim": "Eine spätere Ausgabe der Erzählung erschien im „Deutschen Novellenschatz“.",
+        "checked_at": "2026-11-20T01:21:48+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-eichendorff-taugenichts-1826",
+    "fact_key": "dta.eichendorff_taugenichts_1826",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb „Aus dem Leben eines Taugenichts“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Joseph von Eichendorff"
+      },
+      {
+        "id": "b",
+        "text": "Jeremias Gotthelf"
+      },
+      {
+        "id": "c",
+        "text": "Alexander von Humboldt"
+      },
+      {
+        "id": "d",
+        "text": "Annette von Droste-Hülshoff"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eichendorffs „Taugenichts“ erschien 1826 in Berlin zusammen mit „Das Marmorbild“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 7 · Aus dem Leben eines Taugenichts",
+        "url": "https://www.deutschestextarchiv.de/list?p=7",
+        "verified_claim": "Eichendorffs „Taugenichts“ erschien 1826 in Berlin zusammen mit „Das Marmorbild“.",
+        "checked_at": "2026-11-20T01:21:17+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-goethe-werther01-1774",
+    "fact_key": "dta.goethe_werther01_1774",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb „Die Leiden des jungen Werthers“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Johann Wolfgang von Goethe"
+      },
+      {
+        "id": "b",
+        "text": "Novalis"
+      },
+      {
+        "id": "c",
+        "text": "Annette von Droste-Hülshoff"
+      },
+      {
+        "id": "d",
+        "text": "Jeremias Gotthelf"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der erste Band von Goethes „Werther“ erschien 1774 in Leipzig.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 9 · Die Leiden des jungen Werthers",
+        "url": "https://www.deutschestextarchiv.de/list?p=9",
+        "verified_claim": "Der erste Band von Goethes „Werther“ erschien 1774 in Leipzig.",
+        "checked_at": "2026-11-20T01:21:18+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-goethe-iphigenie-1787",
+    "fact_key": "dta.goethe_iphigenie_1787",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welchen dieser Titel von Johann Wolfgang von Goethe verzeichnet das Deutsche Textarchiv in einer Ausgabe von 1787?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Iphigenie auf Tauris"
+      },
+      {
+        "id": "b",
+        "text": "Heidis Lehr- und Wanderjahre"
+      },
+      {
+        "id": "c",
+        "text": "Traumnovelle"
+      },
+      {
+        "id": "d",
+        "text": "Kabale und Liebe"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Goethes „Iphigenie auf Tauris“ erschien 1787 in Leipzig.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 9 · Iphigenie auf Tauris",
+        "url": "https://www.deutschestextarchiv.de/list?p=9",
+        "verified_claim": "Goethes „Iphigenie auf Tauris“ erschien 1787 in Leipzig.",
+        "checked_at": "2026-11-20T01:21:18+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-grimm-maerchen01-1812",
+    "fact_key": "dta.grimm_maerchen01_1812",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer gab ab 1812 die Sammlung „Kinder- und Hausmärchen“ heraus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jacob und Wilhelm Grimm"
+      },
+      {
+        "id": "b",
+        "text": "Franz Kafka"
+      },
+      {
+        "id": "c",
+        "text": "Gottfried Keller"
+      },
+      {
+        "id": "d",
+        "text": "Adelbert von Chamisso"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Brüder sammelten die Märchen. Der erste Band ihrer Ausgabe erschien 1812 in Berlin.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 9 · Kinder- und Hausmärchen",
+        "url": "https://www.deutschestextarchiv.de/list?p=9",
+        "verified_claim": "Die Brüder sammelten die Märchen. Der erste Band ihrer Ausgabe erschien 1812 in Berlin.",
+        "checked_at": "2026-11-20T01:21:18+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-hauptmann-sonnenaufgang-1889",
+    "fact_key": "dta.hauptmann_sonnenaufgang_1889",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Welchen dieser Titel von Gerhart Hauptmann verzeichnet das Deutsche Textarchiv in einer Ausgabe von 1889?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vor Sonnenaufgang"
+      },
+      {
+        "id": "b",
+        "text": "Wanderungen durch die Mark Brandenburg"
+      },
+      {
+        "id": "c",
+        "text": "Das Käthchen von Heilbronn"
+      },
+      {
+        "id": "d",
+        "text": "Iphigenie auf Tauris"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Hauptmanns Werk erschien 1889 in Berlin.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 10 · Vor Sonnenaufgang",
+        "url": "https://www.deutschestextarchiv.de/list?p=10",
+        "verified_claim": "Hauptmanns Werk erschien 1889 in Berlin.",
+        "checked_at": "2026-11-20T01:21:18+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-dta-fontane-tweed-1860",
+    "fact_key": "dta.fontane_tweed_1860",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Wer schrieb „Jenseit des Tweed“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Theodor Fontane"
+      },
+      {
+        "id": "b",
+        "text": "Franz Kafka"
+      },
+      {
+        "id": "c",
+        "text": "Theodor Storm"
+      },
+      {
+        "id": "d",
+        "text": "Johann Peter Hebel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Fontanes Buchtitel trägt den Zusatz „Bilder und Briefe aus Schottland“. Die Ausgabe erschien 1860.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Werkliste 7 · Jenseit des Tweed",
+        "url": "https://www.deutschestextarchiv.de/list?p=7",
+        "verified_claim": "Fontanes Buchtitel trägt den Zusatz „Bilder und Briefe aus Schottland“. Die Ausgabe erschien 1860.",
+        "checked_at": "2026-11-20T01:21:17+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:43:47+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

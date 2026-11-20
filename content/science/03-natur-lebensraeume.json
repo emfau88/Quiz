@@ -1,0 +1,3170 @@
+[
+  {
+    "id": "qs-panda-bambus",
+    "fact_key": "panda-bambus",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wovon ernährt sich der Große Panda überwiegend?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bambus"
+      },
+      {
+        "id": "b",
+        "text": "Eukalyptus"
+      },
+      {
+        "id": "c",
+        "text": "Flechten"
+      },
+      {
+        "id": "d",
+        "text": "Seegras"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein Großer Panda verbringt täglich viele Stunden damit, Bambus zu fressen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Giant Panda | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/giant-panda",
+        "verified_claim": "Ein Großer Panda verbringt täglich viele Stunden damit, Bambus zu fressen.",
+        "checked_at": "2026-11-20T01:15:05.627Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-panda-verbreitung",
+    "fact_key": "panda-verbreitung",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wo leben Große Pandas in freier Wildbahn?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In Bergwäldern Chinas"
+      },
+      {
+        "id": "b",
+        "text": "In Savannen Afrikas"
+      },
+      {
+        "id": "c",
+        "text": "In den Alpen"
+      },
+      {
+        "id": "d",
+        "text": "Im Süden Australiens"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die nebligen Bergwälder im Südwesten Chinas bieten dem Großen Panda Nahrung und Deckung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Giant Panda | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/giant-panda",
+        "verified_claim": "Die nebligen Bergwälder im Südwesten Chinas bieten dem Großen Panda Nahrung und Deckung.",
+        "checked_at": "2026-11-20T01:15:05.627Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-loewe-rudel-jagd",
+    "fact_key": "loewe-rudel-jagd",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche dieser Katzen jagt häufig gemeinsam im Rudel?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Löwe"
+      },
+      {
+        "id": "b",
+        "text": "Luchs"
+      },
+      {
+        "id": "c",
+        "text": "Jaguar"
+      },
+      {
+        "id": "d",
+        "text": "Leopard"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Im Löwenrudel jagen vor allem die Löwinnen gemeinsam. Sie arbeiten auch bei der Aufzucht der Jungen zusammen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Lion | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/lion",
+        "verified_claim": "Im Löwenrudel jagen vor allem die Löwinnen gemeinsam. Sie arbeiten auch bei der Aufzucht der Jungen zusammen.",
+        "checked_at": "2026-11-20T01:15:05.627Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-amurtiger-kaelte",
+    "fact_key": "amurtiger-kaelte",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was hilft dem Amurtiger in seinem kalten Lebensraum?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein langes, dichtes Fell"
+      },
+      {
+        "id": "b",
+        "text": "Ein dicker Hornpanzer"
+      },
+      {
+        "id": "c",
+        "text": "Ein jahrelanger Winterschlaf"
+      },
+      {
+        "id": "d",
+        "text": "Ein dichtes Federkleid"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Amurtiger leben auch in schneereichen Gebieten. Ihr besonders dichtes Fell und eine Fettschicht schützen vor Kälte.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Tiger | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/tiger",
+        "verified_claim": "Amurtiger leben auch in schneereichen Gebieten. Ihr besonders dichtes Fell und eine Fettschicht schützen vor Kälte.",
+        "checked_at": "2026-11-20T01:15:05.627Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-nashorn-madenhacker",
+    "fact_key": "nashorn-madenhacker",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was finden Madenhacker auf der Haut afrikanischer Nashörner?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zecken und andere Parasiten"
+      },
+      {
+        "id": "b",
+        "text": "Reste von Baumrinde"
+      },
+      {
+        "id": "c",
+        "text": "Halme mit Grassamen"
+      },
+      {
+        "id": "d",
+        "text": "Kleine Landschnecken"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Vögel suchen die Haut nach Zecken und anderen Parasiten ab. Ihre Warnrufe können auch das Nashorn alarmieren.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rhinoceros | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/rhinoceros",
+        "verified_claim": "Die Vögel suchen die Haut nach Zecken und anderen Parasiten ab. Ihre Warnrufe können auch das Nashorn alarmieren.",
+        "checked_at": "2026-11-20T01:15:05.627Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-nashorn-farbe",
+    "fact_key": "nashorn-farbe",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Welche Farbe haben Spitzmaul- und Breitmaulnashorn gewöhnlich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Beide sind graubraun."
+      },
+      {
+        "id": "b",
+        "text": "Eines ist schwarz und eines weiß."
+      },
+      {
+        "id": "c",
+        "text": "Beide sind rotbraun gestreift."
+      },
+      {
+        "id": "d",
+        "text": "Eines ist weiß und eines gelb."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die englischen Namen „black rhino“ und „white rhino“ täuschen. Die natürliche Hautfarbe beider Arten ist graubraun.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rhinoceros | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/rhinoceros",
+        "verified_claim": "Die englischen Namen „black rhino“ und „white rhino“ täuschen. Die natürliche Hautfarbe beider Arten ist graubraun.",
+        "checked_at": "2026-11-20T01:15:05.627Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-flamingo-flughaltung",
+    "fact_key": "flamingo-flughaltung",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wie hält ein Flamingo seinen langen Hals beim Fliegen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nach vorn gestreckt"
+      },
+      {
+        "id": "b",
+        "text": "Eng S-förmig eingezogen"
+      },
+      {
+        "id": "c",
+        "text": "Seitlich angelegt"
+      },
+      {
+        "id": "d",
+        "text": "Senkrecht nach unten"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Im Flug streckt der Flamingo den Hals nach vorn. Seine langen Beine ragen nach hinten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Flamingo | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/flamingo",
+        "verified_claim": "Im Flug streckt der Flamingo den Hals nach vorn. Seine langen Beine ragen nach hinten.",
+        "checked_at": "2026-11-20T01:15:05.627Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-pfau-balz",
+    "fact_key": "pfau-balz",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wofür setzt das Pfauenmännchen seine auffällige Schleppe ein?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zur Balz"
+      },
+      {
+        "id": "b",
+        "text": "Zum Tauchen"
+      },
+      {
+        "id": "c",
+        "text": "Zur Nahrungssuche unter der Erde"
+      },
+      {
+        "id": "d",
+        "text": "Zum Graben der Bruthöhle"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bei der Balz zeigt der Pfau seine langen Federn mit den augenartigen Flecken.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Peafowl | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/peafowl",
+        "verified_claim": "Bei der Balz zeigt der Pfau seine langen Federn mit den augenartigen Flecken.",
+        "checked_at": "2026-11-20T01:15:05.627Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-strauss-zehen",
+    "fact_key": "strauss-zehen",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wie viele Zehen hat der Afrikanische Strauß an jedem Fuß?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zwei"
+      },
+      {
+        "id": "b",
+        "text": "Drei"
+      },
+      {
+        "id": "c",
+        "text": "Vier"
+      },
+      {
+        "id": "d",
+        "text": "Fünf"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Strauß hat besonders kräftige Laufbeine und nur zwei Zehen je Fuß.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Ostrich | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/ostrich",
+        "verified_claim": "Der Strauß hat besonders kräftige Laufbeine und nur zwei Zehen je Fuß.",
+        "checked_at": "2026-11-20T01:15:05.627Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-strauss-flucht",
+    "fact_key": "strauss-flucht",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wie verhält sich ein Strauß, der bei Gefahr flach am Boden bleibt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er legt Kopf und Hals auf den Boden."
+      },
+      {
+        "id": "b",
+        "text": "Er steckt den Kopf tief in den Sand."
+      },
+      {
+        "id": "c",
+        "text": "Er gräbt mit dem Schnabel einen Tunnel."
+      },
+      {
+        "id": "d",
+        "text": "Er deckt seinen Kopf mit Steinen zu."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die flache Haltung macht den Strauß weniger auffällig. Aus der Entfernung kann der Kopf auf dem Boden leicht übersehen werden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Ostrich | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/ostrich",
+        "verified_claim": "Die flache Haltung macht den Strauß weniger auffällig. Aus der Entfernung kann der Kopf auf dem Boden leicht übersehen werden.",
+        "checked_at": "2026-11-20T01:15:05.627Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-galapagosschildkroete-futter",
+    "fact_key": "galapagosschildkroete-futter",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was fressen Galápagos-Riesenschildkröten in der Natur?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gräser, Blätter und Kakteen"
+      },
+      {
+        "id": "b",
+        "text": "Fische und Muscheln"
+      },
+      {
+        "id": "c",
+        "text": "Käfer und Regenwürmer"
+      },
+      {
+        "id": "d",
+        "text": "Kleine Echsen und Vogeleier"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Riesenschildkröten sind Pflanzenfresser. Blüten, Gräser und die Früchte von Feigenkakteen gehören zu ihrer Nahrung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Galápagos Giant Tortoise | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/galapagos-tortoise",
+        "verified_claim": "Die Riesenschildkröten sind Pflanzenfresser. Blüten, Gräser und die Früchte von Feigenkakteen gehören zu ihrer Nahrung.",
+        "checked_at": "2026-11-20T01:15:05.627Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-landschildkroete-zahnlos",
+    "fact_key": "landschildkroete-zahnlos",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Womit zerteilt die Galápagos-Riesenschildkröte ihr Futter?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit den festen Kieferrändern"
+      },
+      {
+        "id": "b",
+        "text": "Mit langen Backenzähnen"
+      },
+      {
+        "id": "c",
+        "text": "Mit kleinen Reißzähnen"
+      },
+      {
+        "id": "d",
+        "text": "Mit einer Raspel auf dem Schwanz"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Schildkröte hat keine Zähne. Ihre Kieferränder ermöglichen ihr, Pflanzenstücke abzubeißen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Galápagos Giant Tortoise | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/galapagos-tortoise",
+        "verified_claim": "Die Schildkröte hat keine Zähne. Ihre Kieferränder ermöglichen ihr, Pflanzenstücke abzubeißen.",
+        "checked_at": "2026-11-20T01:15:05.627Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ameisenbaer-zunge",
+    "fact_key": "ameisenbaer-zunge",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Womit holt der Große Ameisenbär seine Beute aus dem Insektenbau?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit der langen Zunge"
+      },
+      {
+        "id": "b",
+        "text": "Mit den Ohren"
+      },
+      {
+        "id": "c",
+        "text": "Mit dem Schwanz"
+      },
+      {
+        "id": "d",
+        "text": "Mit einem langen Schneidezahn"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Große Ameisenbär ist zahnlos. Mit seiner spezialisierten Zunge nimmt er Ameisen und Termiten auf.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Giant Anteater | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/giant-anteater",
+        "verified_claim": "Der Große Ameisenbär ist zahnlos. Mit seiner spezialisierten Zunge nimmt er Ameisen und Termiten auf.",
+        "checked_at": "2026-11-20T01:15:05.261Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ameisenbaer-gang",
+    "fact_key": "ameisenbaer-gang",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Warum setzt der Große Ameisenbär beim Gehen die Vorderfüße mit eingeklappten Krallen auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er schont seine Grabkrallen."
+      },
+      {
+        "id": "b",
+        "text": "Er kühlt seinen Rücken."
+      },
+      {
+        "id": "c",
+        "text": "Er tarnt seine Ohren."
+      },
+      {
+        "id": "d",
+        "text": "Er verlängert seinen Schwanz."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Auf diese Weise bleiben die Krallen scharf. Der Ameisenbär braucht sie zum Öffnen von Insektenbauten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Giant Anteater | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/giant-anteater",
+        "verified_claim": "Auf diese Weise bleiben die Krallen scharf. Der Ameisenbär braucht sie zum Öffnen von Insektenbauten.",
+        "checked_at": "2026-11-20T01:15:05.261Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-guerteltier-kugel",
+    "fact_key": "guerteltier-kugel",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Welches Tier kann den ganzen Körper in seinem Panzer zu einer geschlossenen Kugel zusammenrollen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dreibinden-Gürteltier"
+      },
+      {
+        "id": "b",
+        "text": "Riesengürteltier"
+      },
+      {
+        "id": "c",
+        "text": "Neunbinden-Gürteltier"
+      },
+      {
+        "id": "d",
+        "text": "Sechsbinden-Gürteltier"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die dreibindigen Kugelgürteltiere besitzen einen Panzer, der das vollständige Einrollen erlaubt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Armadillo | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/armadillo",
+        "verified_claim": "Die dreibindigen Kugelgürteltiere besitzen einen Panzer, der das vollständige Einrollen erlaubt.",
+        "checked_at": "2026-11-20T01:15:05.261Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-fledermaus-echo",
+    "fact_key": "fledermaus-echo",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wie finden viele insektenjagende Fledermäuse ihre Beute im Dunkeln?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Durch Echoortung"
+      },
+      {
+        "id": "b",
+        "text": "Durch Farbwechsel"
+      },
+      {
+        "id": "c",
+        "text": "Durch ein elektrisches Leuchtorgan"
+      },
+      {
+        "id": "d",
+        "text": "Durch das Zählen von Sternen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Fledermäuse werten zurückgeworfene Schallwellen aus. So erkennen sie sogar fliegende Insekten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bat | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/bat",
+        "verified_claim": "Die Fledermäuse werten zurückgeworfene Schallwellen aus. So erkennen sie sogar fliegende Insekten.",
+        "checked_at": "2026-11-20T01:15:05.261Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gorilla-silberruecken",
+    "fact_key": "gorilla-silberruecken",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Bei welchem Menschenaffen heißt ein erwachsenes Männchen „Silberrücken“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gorilla"
+      },
+      {
+        "id": "b",
+        "text": "Orang-Utan"
+      },
+      {
+        "id": "c",
+        "text": "Bonobo"
+      },
+      {
+        "id": "d",
+        "text": "Schimpanse"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein erfahrener Silberrücken kann eine Gorillagruppe führen und seine Gruppe vor Gefahren schützen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Gorilla | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/gorilla",
+        "verified_claim": "Ein erfahrener Silberrücken kann eine Gorillagruppe führen und seine Gruppe vor Gefahren schützen.",
+        "checked_at": "2026-11-20T01:15:05.261Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-zebra-streifen-individuell",
+    "fact_key": "zebra-streifen-individuell",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was ist an den Streifenmustern von Zebras bemerkenswert?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jedes Tier hat sein eigenes Muster."
+      },
+      {
+        "id": "b",
+        "text": "Alle Tiere einer Herde sind identisch."
+      },
+      {
+        "id": "c",
+        "text": "Nur die Männchen haben Streifen."
+      },
+      {
+        "id": "d",
+        "text": "Die Streifen entstehen erst im Alter."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das individuelle Streifenmuster hilft Forschenden, ein bestimmtes Zebra wiederzuerkennen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Zebra | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/zebra",
+        "verified_claim": "Das individuelle Streifenmuster hilft Forschenden, ein bestimmtes Zebra wiederzuerkennen.",
+        "checked_at": "2026-11-20T01:15:05.261Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-schimpanse-termitenwerkzeug",
+    "fact_key": "schimpanse-termitenwerkzeug",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Welches Werkzeug verwenden Schimpansen, um in Termitenbauten an Beute zu gelangen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einen entblätterten Zweig"
+      },
+      {
+        "id": "b",
+        "text": "Einen flachen Mahlstein"
+      },
+      {
+        "id": "c",
+        "text": "Ein großes Baumblatt als Teller"
+      },
+      {
+        "id": "d",
+        "text": "Eine Muschelschale als Löffel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Schimpansen stecken einen bearbeiteten Zweig in den Bau. Daran können sie Termiten herausziehen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Chimpanzee | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/chimpanzee",
+        "verified_claim": "Schimpansen stecken einen bearbeiteten Zweig in den Bau. Daran können sie Termiten herausziehen.",
+        "checked_at": "2026-11-20T01:15:03.637Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-schimpanse-blattschwamm",
+    "fact_key": "schimpanse-blattschwamm",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Was machen manche Schimpansen aus zerkauten Blättern, um Wasser aus Baumhöhlen zu holen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einen Schwamm"
+      },
+      {
+        "id": "b",
+        "text": "Eine starre Rinne"
+      },
+      {
+        "id": "c",
+        "text": "Eine schwimmende Abdeckung"
+      },
+      {
+        "id": "d",
+        "text": "Einen wasserdichten Deckel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Weiche, zerkaute Blätter nehmen Wasser auf. Schimpansen können sie in eine schwer zugängliche Wasseransammlung drücken.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Chimpanzee | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/chimpanzee",
+        "verified_claim": "Weiche, zerkaute Blätter nehmen Wasser auf. Schimpansen können sie in eine schwer zugängliche Wasseransammlung drücken.",
+        "checked_at": "2026-11-20T01:15:03.637Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-flusspferd-augen-nase",
+    "fact_key": "flusspferd-augen-nase",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Warum liegen Augen, Ohren und Nasenöffnungen des Flusspferds so weit oben?",
+    "options": [
+      {
+        "id": "a",
+        "text": "So kann es fast untergetaucht die Umgebung wahrnehmen."
+      },
+      {
+        "id": "b",
+        "text": "So kann es an Baumkronen fressen."
+      },
+      {
+        "id": "c",
+        "text": "So kann es Sand mit dem Rücken schieben."
+      },
+      {
+        "id": "d",
+        "text": "So findet es den Weg durch Erdhöhlen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nur der obere Teil des Kopfes muss aus dem Wasser ragen, damit das Tier sehen, hören und atmen kann.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Hippo | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/hippo",
+        "verified_claim": "Nur der obere Teil des Kopfes muss aus dem Wasser ragen, damit das Tier sehen, hören und atmen kann.",
+        "checked_at": "2026-11-20T01:15:03.637Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-eisbaer-wurfhoehle",
+    "fact_key": "eisbaer-wurfhoehle",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was macht ein trächtiges Eisbärenweibchen in seiner Winterhöhle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es bringt Junge zur Welt und säugt sie."
+      },
+      {
+        "id": "b",
+        "text": "Es legt seine Eier ab."
+      },
+      {
+        "id": "c",
+        "text": "Es lagert den Fisch für den Sommer."
+      },
+      {
+        "id": "d",
+        "text": "Es häutet sich vollständig."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In der geschützten Höhle kommen die Jungen zur Welt und werden anfangs von ihrer Mutter gesäugt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Polar Bear | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/polar-bear",
+        "verified_claim": "In der geschützten Höhle kommen die Jungen zur Welt und werden anfangs von ihrer Mutter gesäugt.",
+        "checked_at": "2026-11-20T01:15:03.637Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-erdmaennchen-wache",
+    "fact_key": "erdmaennchen-wache",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welches Verhalten hilft einer Erdmännchengruppe bei der Nahrungssuche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Tier übernimmt die Wache."
+      },
+      {
+        "id": "b",
+        "text": "Alle Tiere schließen gemeinsam die Augen."
+      },
+      {
+        "id": "c",
+        "text": "Ein Tier bewässert den Boden."
+      },
+      {
+        "id": "d",
+        "text": "Alle Tiere jagen ausschließlich im Wasser."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wachende Erdmännchen suchen erhöhte Plätze auf. Bei Gefahr warnen sie die Gruppe mit Rufen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Meerkat | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/meerkat",
+        "verified_claim": "Wachende Erdmännchen suchen erhöhte Plätze auf. Bei Gefahr warnen sie die Gruppe mit Rufen.",
+        "checked_at": "2026-11-20T01:15:03.637Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-eule-augen-kopf",
+    "fact_key": "eule-augen-kopf",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Warum drehen Eulen häufig den ganzen Kopf, um etwas zu verfolgen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ihre Augen sind kaum beweglich."
+      },
+      {
+        "id": "b",
+        "text": "Sie sehen nur mit geschlossenen Augen."
+      },
+      {
+        "id": "c",
+        "text": "Ihre Pupillen sind immer gleich groß."
+      },
+      {
+        "id": "d",
+        "text": "Ihre Augen sitzen hinten am Kopf."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die großen Augen einer Eule bewegen sich in den Augenhöhlen kaum. Die Beweglichkeit des Halses gleicht das aus.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Owl | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/owl",
+        "verified_claim": "Die großen Augen einer Eule bewegen sich in den Augenhöhlen kaum. Die Beweglichkeit des Halses gleicht das aus.",
+        "checked_at": "2026-11-20T01:15:03.637Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-eule-lautloser-flug",
+    "fact_key": "eule-lautloser-flug",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was trägt bei vielen Eulen zum leisen Flug bei?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Weiche Ränder an den Federn"
+      },
+      {
+        "id": "b",
+        "text": "Eine harte Schale um die Flügel"
+      },
+      {
+        "id": "c",
+        "text": "Völlig kahle Flügelspitzen"
+      },
+      {
+        "id": "d",
+        "text": "Ein dicker Panzer am Brustbein"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die besonderen Federränder verringern Fluggeräusche. So kann die Eule sich ihrer Beute leise nähern.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Owl | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/owl",
+        "verified_claim": "Die besonderen Federränder verringern Fluggeräusche. So kann die Eule sich ihrer Beute leise nähern.",
+        "checked_at": "2026-11-20T01:15:03.637Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-biber-damm",
+    "fact_key": "biber-damm",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welches Tier verändert Bäche durch selbst gebaute Dämme?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Biber"
+      },
+      {
+        "id": "b",
+        "text": "Fischotter"
+      },
+      {
+        "id": "c",
+        "text": "Bisamratte"
+      },
+      {
+        "id": "d",
+        "text": "Wasserspitzmaus"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Biberdämme stauen Wasser auf. Die entstehenden Teiche bieten auch anderen Tieren Lebensraum.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Beaver | Smithsonian's National Zoo and Conservation Biology Institute",
+        "url": "https://nationalzoo.si.edu/animals/beaver",
+        "verified_claim": "Biberdämme stauen Wasser auf. Die entstehenden Teiche bieten auch anderen Tieren Lebensraum.",
+        "checked_at": "2026-11-20T01:21:07.812Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-biber-schneidezaehne",
+    "fact_key": "biber-schneidezaehne",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was geschieht mit den großen Schneidezähnen eines Bibers im Laufe seines Lebens?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie wachsen ständig nach."
+      },
+      {
+        "id": "b",
+        "text": "Sie werden jeden Herbst abgeworfen."
+      },
+      {
+        "id": "c",
+        "text": "Sie wachsen nur im ersten Winter."
+      },
+      {
+        "id": "d",
+        "text": "Sie wechseln nach jedem gefällten Baum."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Biber nagen häufig an Holz. Ihre Schneidezähne wachsen das ganze Leben hindurch weiter.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Beaver | Smithsonian's National Zoo and Conservation Biology Institute",
+        "url": "https://nationalzoo.si.edu/animals/beaver",
+        "verified_claim": "Biber nagen häufig an Holz. Ihre Schneidezähne wachsen das ganze Leben hindurch weiter.",
+        "checked_at": "2026-11-20T01:21:07.812Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-blauwal-krill",
+    "fact_key": "blauwal-krill",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was frisst der Blauwal hauptsächlich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Krill"
+      },
+      {
+        "id": "b",
+        "text": "Seehunde"
+      },
+      {
+        "id": "c",
+        "text": "Große Tintenfische"
+      },
+      {
+        "id": "d",
+        "text": "Seetang"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Krill besteht aus kleinen krebsartigen Tieren. Der Blauwal filtert die Beute mit seinen Barten aus dem Wasser.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Blue Whale | NOAA Fisheries",
+        "url": "https://www.fisheries.noaa.gov/species/blue-whale",
+        "verified_claim": "Krill besteht aus kleinen krebsartigen Tieren. Der Blauwal filtert die Beute mit seinen Barten aus dem Wasser.",
+        "checked_at": "2026-11-20T01:21:08.370Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-blauwal-tiergroesse",
+    "fact_key": "blauwal-tiergroesse",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welches dieser lebenden Tiere erreicht die größte Körpermasse?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Blauwal"
+      },
+      {
+        "id": "b",
+        "text": "Elefant"
+      },
+      {
+        "id": "c",
+        "text": "Walhai"
+      },
+      {
+        "id": "d",
+        "text": "Orca"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Blauwal erreicht eine größere Körpermasse als jedes andere bekannte Tier.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Blue Whale | NOAA Fisheries",
+        "url": "https://www.fisheries.noaa.gov/species/blue-whale",
+        "verified_claim": "Der Blauwal erreicht eine größere Körpermasse als jedes andere bekannte Tier.",
+        "checked_at": "2026-11-20T01:21:08.370Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-orca-delfinfamilie",
+    "fact_key": "orca-delfinfamilie",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Zu welcher Familie innerhalb der Wale gehört der Orca?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Delfine"
+      },
+      {
+        "id": "b",
+        "text": "Pottwale"
+      },
+      {
+        "id": "c",
+        "text": "Furchenwale"
+      },
+      {
+        "id": "d",
+        "text": "Schweinswale"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Orca, auch Schwertwal genannt, ist der größte Vertreter der Delfinfamilie.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What's the difference between dolphins and porpoises?",
+        "url": "https://oceanservice.noaa.gov/facts/dolphin_porpoise.html",
+        "verified_claim": "Der Orca, auch Schwertwal genannt, ist der größte Vertreter der Delfinfamilie.",
+        "checked_at": "2026-11-20T01:21:08.370Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-schweinswal-zahnform",
+    "fact_key": "schweinswal-zahnform",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Welche Form ist typisch für die Zähne von Schweinswalen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spatelförmig"
+      },
+      {
+        "id": "b",
+        "text": "Ringförmig"
+      },
+      {
+        "id": "c",
+        "text": "Korkenzieherförmig"
+      },
+      {
+        "id": "d",
+        "text": "Kugelförmig"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Zähne der Schweinswale sind abgeflacht und spatelförmig. Bei vielen Delfinen sind sie kegelförmig.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What's the difference between dolphins and porpoises?",
+        "url": "https://oceanservice.noaa.gov/facts/dolphin_porpoise.html",
+        "verified_claim": "Die Zähne der Schweinswale sind abgeflacht und spatelförmig. Bei vielen Delfinen sind sie kegelförmig.",
+        "checked_at": "2026-11-20T01:21:08.370Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-seeloewe-ohren",
+    "fact_key": "seeloewe-ohren",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Woran unterscheidet sich ein Seelöwe äußerlich gut von einem Seehund?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An sichtbaren Ohrmuscheln"
+      },
+      {
+        "id": "b",
+        "text": "An zwei Rückenflossen"
+      },
+      {
+        "id": "c",
+        "text": "An einem langen Schwanz"
+      },
+      {
+        "id": "d",
+        "text": "An zwei Höckern vor der Stirn"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Seelöwen tragen kleine äußere Ohrmuscheln. Beim Seehund sind außen nur die Ohröffnungen zu sehen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What's the difference between seals and sea lions?",
+        "url": "https://oceanservice.noaa.gov/facts/seal-sealion.html",
+        "verified_claim": "Seelöwen tragen kleine äußere Ohrmuscheln. Beim Seehund sind außen nur die Ohröffnungen zu sehen.",
+        "checked_at": "2026-11-20T01:21:08.370Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kelp-braunalgen",
+    "fact_key": "kelp-braunalgen",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was wächst in einem Kelpwald besonders dicht?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Große Braunalgen"
+      },
+      {
+        "id": "b",
+        "text": "Wasserlilien"
+      },
+      {
+        "id": "c",
+        "text": "Mangrovenbäume"
+      },
+      {
+        "id": "d",
+        "text": "Seeanemonen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kelp besteht aus großen Braunalgen. Unter Wasser bilden sie einen Lebensraum für zahlreiche Tiere.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What is a kelp forest?",
+        "url": "https://oceanservice.noaa.gov/facts/kelp.html",
+        "verified_claim": "Kelp besteht aus großen Braunalgen. Unter Wasser bilden sie einen Lebensraum für zahlreiche Tiere.",
+        "checked_at": "2026-11-20T01:21:08.370Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kelp-lichttiefe",
+    "fact_key": "kelp-lichttiefe",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Warum wachsen Kelpwälder meist in relativ flachem Wasser?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Algen brauchen Licht zur Fotosynthese."
+      },
+      {
+        "id": "b",
+        "text": "Ihre Blätter brauchen trockene Luft."
+      },
+      {
+        "id": "c",
+        "text": "Sie leben nur in Süßwasser."
+      },
+      {
+        "id": "d",
+        "text": "Sie stehen unter der Eisdecke."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kelp nutzt Sonnenlicht. Mit größerer Wassertiefe nimmt das verfügbare Licht ab.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What is a kelp forest?",
+        "url": "https://oceanservice.noaa.gov/facts/kelp.html",
+        "verified_claim": "Kelp nutzt Sonnenlicht. Mit größerer Wassertiefe nimmt das verfügbare Licht ab.",
+        "checked_at": "2026-11-20T01:21:08.370Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-plankton-drift",
+    "fact_key": "plankton-drift",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was haben die Organismen gemeinsam, die man als Plankton bezeichnet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie werden weitgehend mit der Strömung getragen."
+      },
+      {
+        "id": "b",
+        "text": "Sie sind alle unsichtbar klein."
+      },
+      {
+        "id": "c",
+        "text": "Sie leben alle am Meeresgrund."
+      },
+      {
+        "id": "d",
+        "text": "Sie gehören alle zu den Pflanzen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zum Plankton zählen verschiedene Lebewesen. Entscheidend ist, dass sie der Strömung nicht aus eigener Kraft wirksam entgegenkommen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What are plankton?",
+        "url": "https://oceanservice.noaa.gov/facts/plankton.html",
+        "verified_claim": "Zum Plankton zählen verschiedene Lebewesen. Entscheidend ist, dass sie der Strömung nicht aus eigener Kraft wirksam entgegenkommen.",
+        "checked_at": "2026-11-20T01:21:07.934Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-seepferdchen-brut",
+    "fact_key": "seepferdchen-brut",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wer trägt bei Seepferdchen die befruchteten Eier aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Männchen"
+      },
+      {
+        "id": "b",
+        "text": "Das Weibchen"
+      },
+      {
+        "id": "c",
+        "text": "Ein fremder Fisch"
+      },
+      {
+        "id": "d",
+        "text": "Eine Muschel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Weibchen gibt seine Eier in die Bruttasche des Männchens. Dort wachsen die jungen Seepferdchen heran.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "How do seahorses differ from all other animals?",
+        "url": "https://oceanservice.noaa.gov/facts/seahorse.html",
+        "verified_claim": "Das Weibchen gibt seine Eier in die Bruttasche des Männchens. Dort wachsen die jungen Seepferdchen heran.",
+        "checked_at": "2026-11-20T01:21:07.934Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-koralle-bleiche-algen",
+    "fact_key": "koralle-bleiche-algen",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was verlieren viele Korallen bei einer Korallenbleiche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ihre eingelagerten Algen"
+      },
+      {
+        "id": "b",
+        "text": "Ihre gesamte Kalkunterlage"
+      },
+      {
+        "id": "c",
+        "text": "Alle Tentakel auf einmal"
+      },
+      {
+        "id": "d",
+        "text": "Die Fähigkeit, Wasser zu berühren"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Unter Stress können Korallen ihre symbiotischen Algen abstoßen. Das erklärt ihr helles Erscheinungsbild.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What is coral bleaching?",
+        "url": "https://oceanservice.noaa.gov/facts/coral_bleach.html",
+        "verified_claim": "Unter Stress können Korallen ihre symbiotischen Algen abstoßen. Das erklärt ihr helles Erscheinungsbild.",
+        "checked_at": "2026-11-20T01:21:07.934Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-axolotl-aussenkiemen",
+    "fact_key": "axolotl-aussenkiemen",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Welches Larvenmerkmal behält ein Axolotl normalerweise auch als erwachsenes Tier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Äußere Kiemen"
+      },
+      {
+        "id": "b",
+        "text": "Einen Kokon"
+      },
+      {
+        "id": "c",
+        "text": "Facettenaugen"
+      },
+      {
+        "id": "d",
+        "text": "Eine Puppenhülle"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Axolotl bleibt gewöhnlich im Wasser. Seine federartigen äußeren Kiemen sind ein sichtbares Jugendmerkmal.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Axolotl | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/axolotl",
+        "verified_claim": "Der Axolotl bleibt gewöhnlich im Wasser. Seine federartigen äußeren Kiemen sind ein sichtbares Jugendmerkmal.",
+        "checked_at": "2026-11-20T01:21:07.812Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-axolotl-regeneration",
+    "fact_key": "axolotl-regeneration",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Welches Tier kann eine verlorene Gliedmaße vollständig nachbilden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Axolotl"
+      },
+      {
+        "id": "b",
+        "text": "Meerschweinchen"
+      },
+      {
+        "id": "c",
+        "text": "Feldhase"
+      },
+      {
+        "id": "d",
+        "text": "Stadttaube"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Axolotl sind Salamander mit einer außergewöhnlichen Regenerationsfähigkeit. Auch Knochen und Muskeln einer Gliedmaße können nachwachsen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Axolotl | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/axolotl",
+        "verified_claim": "Axolotl sind Salamander mit einer außergewöhnlichen Regenerationsfähigkeit. Auch Knochen und Muskeln einer Gliedmaße können nachwachsen.",
+        "checked_at": "2026-11-20T01:21:07.812Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-eiche-eichel",
+    "fact_key": "eiche-eichel",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Baumfrucht sitzt in einem kleinen, becherförmigen Näpfchen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eichel"
+      },
+      {
+        "id": "b",
+        "text": "Ahornfrucht"
+      },
+      {
+        "id": "c",
+        "text": "Walnuss"
+      },
+      {
+        "id": "d",
+        "text": "Haselnuss"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Fruchtbecher der Eiche umschließt den unteren Teil der Eichel. Die grüne Frucht wird bei der Reife braun.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "English Oak (Quercus robur) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/english-oak/",
+        "verified_claim": "Der Fruchtbecher der Eiche umschließt den unteren Teil der Eichel. Die grüne Frucht wird bei der Reife braun.",
+        "checked_at": "2026-11-20T01:21:08.733Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-haengebirke-rinde",
+    "fact_key": "haengebirke-rinde",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welcher heimische Laubbaum fällt durch seine weiße, oft papierartig abblätternde Rinde auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hängebirke"
+      },
+      {
+        "id": "b",
+        "text": "Rotbuche"
+      },
+      {
+        "id": "c",
+        "text": "Stieleiche"
+      },
+      {
+        "id": "d",
+        "text": "Sommerlinde"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die weiße Borke der Hängebirke löst sich in dünnen Schichten. Am Stammfuß kann sie dunkler und rissig werden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Silver Birch (Betula pendula) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/silver-birch/",
+        "verified_claim": "Die weiße Borke der Hängebirke löst sich in dünnen Schichten. Am Stammfuß kann sie dunkler und rissig werden.",
+        "checked_at": "2026-11-20T01:21:08.733Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-eibe-samenmantel",
+    "fact_key": "eibe-samenmantel",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Was umgibt den Samen der Europäischen Eibe im reifen Zustand?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein roter, fleischiger Samenmantel"
+      },
+      {
+        "id": "b",
+        "text": "Eine stachelige Holzkapsel"
+      },
+      {
+        "id": "c",
+        "text": "Ein geflügelter Ahornschlüssel"
+      },
+      {
+        "id": "d",
+        "text": "Ein geschlossener Tannenzapfen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der rote Samenmantel der Eibe ist oben offen. Botanisch ist er keine Beere.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Yew (Taxus baccata) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/yew/",
+        "verified_claim": "Der rote Samenmantel der Eibe ist oben offen. Botanisch ist er keine Beere.",
+        "checked_at": "2026-11-20T01:21:08.733Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gezeiten-verursacher",
+    "fact_key": "gezeiten-verursacher",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Himmelskörper tragen durch ihre Anziehung zu Ebbe und Flut bei?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mond und Sonne"
+      },
+      {
+        "id": "b",
+        "text": "Mars und Venus"
+      },
+      {
+        "id": "c",
+        "text": "Jupiter und Saturn"
+      },
+      {
+        "id": "d",
+        "text": "Kein Himmelskörper"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ebbe und Flut gehen vor allem auf die Anziehung des Mondes und zusätzlich auf die der Sonne zurück.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What are tides?",
+        "url": "https://oceanservice.noaa.gov/facts/tides.html",
+        "verified_claim": "Ebbe und Flut gehen vor allem auf die Anziehung des Mondes und zusätzlich auf die der Sonne zurück.",
+        "checked_at": "2026-11-20T01:11:19.678Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-brackwasser-mischung",
+    "fact_key": "brackwasser-mischung",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was ist Brackwasser, wie es an vielen Flussmündungen vorkommt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Mischung aus Süß- und Salzwasser"
+      },
+      {
+        "id": "b",
+        "text": "Reines Schmelzwasser"
+      },
+      {
+        "id": "c",
+        "text": "Vollständig destilliertes Wasser"
+      },
+      {
+        "id": "d",
+        "text": "Wasser aus einer heißen Quelle"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In einem Ästuar kann Flusswasser auf Meerwasser treffen. Dabei entsteht Brackwasser.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What is an estuary?",
+        "url": "https://oceanservice.noaa.gov/facts/estuary.html",
+        "verified_claim": "In einem Ästuar kann Flusswasser auf Meerwasser treffen. Dabei entsteht Brackwasser.",
+        "checked_at": "2026-11-20T01:21:08.370Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:17.166Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:40.397Z"
+      },
+      "approved_at": "2026-11-20T01:23:40.397Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

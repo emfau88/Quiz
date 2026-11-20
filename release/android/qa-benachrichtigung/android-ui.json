@@ -1,0 +1,14 @@
+{
+  "device": "sdk_gphone64_x86_64",
+  "api": "34",
+  "pageSize": "4096",
+  "run": "2026-11-20T02:05:18.274Z",
+  "checks": [
+    "Nach Wahl der Uhrzeit hat das Betriebssystem bei im Hintergrund liegender App die echte Quizsalon-Benachrichtigung zugestellt",
+    "Ausschalten entfernt auch die bereits zugestellte Benachrichtigung"
+  ],
+  "screenshots": [],
+  "requestedLocalTime": "02:07",
+  "notificationKey": "0|de.quizsalon.vorschau|7|null|10194",
+  "ok": true
+}

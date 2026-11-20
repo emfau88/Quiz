@@ -49,6 +49,27 @@ class CatalogTests(unittest.TestCase):
             for source in row["sources"]:
                 self.assertEqual(set(source), {"url", "title"})
 
+    def test_history_requires_revision_for_changed_answers(self):
+        entry = copy.deepcopy(starter)
+        old = compiler.revision_stamp(entry)
+        entry["correct_option_id"] = next(o["id"] for o in entry["options"] if o["id"] != entry["correct_option_id"])
+        entry["content_revision"] += 1
+        with self.assertRaisesRegex(ValueError, "semantische Revision"):
+            compiler.check_history(entry, old)
+        entry["semantic_revision"] += 1
+        compiler.check_history(entry, old)
+        old = compiler.revision_stamp(entry)
+        entry["semantic_revision"] -= 1
+        with self.assertRaisesRegex(ValueError, "zurückgesetzt"):
+            compiler.check_history(entry, old)
+
+    def test_corrections_keep_only_public_fields(self):
+        row = {"id": "quiz-001", "semantic_revision": 1, "reason": "Sachlich korrigiert", "replacement_id": "quiz-002"}
+        self.assertEqual(compiler.public_corrections([dict(row, actor="interne Redaktion")]), [row])
+        for invalid in [[row, row], [dict(row, semantic_revision=-1)], [dict(row, reason=" ")]]:
+            with self.assertRaises(ValueError):
+                compiler.public_corrections(invalid)
+
 
 if __name__ == "__main__":
     unittest.main()

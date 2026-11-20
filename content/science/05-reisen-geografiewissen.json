@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "qs-greenwich-nullmeridian",
+    "fact_key": "greenwich-nullmeridian",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welcher Londoner Stadtteil gab dem historischen Nullmeridian seinen Namen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Greenwich"
+      },
+      {
+        "id": "b",
+        "text": "Chelsea"
+      },
+      {
+        "id": "c",
+        "text": "Wimbledon"
+      },
+      {
+        "id": "d",
+        "text": "Soho"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der historische Nullmeridian verläuft durch das Observatorium in Greenwich.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What is the Prime Meridian, and why is it in Greenwich?",
+        "url": "https://www.rmg.co.uk/stories/time/what-prime-meridian-why-it-greenwich",
+        "verified_claim": "Der historische Nullmeridian verläuft durch das Observatorium in Greenwich.",
+        "checked_at": "2026-11-20T01:36:48.101Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:39:47.369Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:40:04.867Z"
+      },
+      "approved_at": "2026-11-20T01:40:04.867Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-aequator-breite",
+    "fact_key": "aequator-breite",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Auf welcher geografischen Breite liegt der Äquator?",
+    "options": [
+      {
+        "id": "a",
+        "text": "0 Grad"
+      },
+      {
+        "id": "b",
+        "text": "45 Grad Nord"
+      },
+      {
+        "id": "c",
+        "text": "90 Grad Nord"
+      },
+      {
+        "id": "d",
+        "text": "90 Grad Süd"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die geografische Breite wird vom Äquator aus gemessen. An den Polen erreicht sie 90 Grad.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What is longitude? | Royal Museums Greenwich",
+        "url": "https://www.rmg.co.uk/stories/time/what-longitude",
+        "verified_claim": "Die geografische Breite wird vom Äquator aus gemessen. An den Polen erreicht sie 90 Grad.",
+        "checked_at": "2026-11-20T01:36:48.101Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:39:47.369Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:40:04.867Z"
+      },
+      "approved_at": "2026-11-20T01:40:04.867Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-grand-canyon-fluss",
+    "fact_key": "grand-canyon-fluss",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welcher Fluss hat den Grand Canyon in Arizona tief eingeschnitten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Colorado"
+      },
+      {
+        "id": "b",
+        "text": "Mississippi"
+      },
+      {
+        "id": "c",
+        "text": "Yukon"
+      },
+      {
+        "id": "d",
+        "text": "Hudson"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Colorado grub sich in das angehobene Plateau ein. Seitenbäche trugen dazu bei, die Schlucht zu verbreitern.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Geology - Grand Canyon National Park (U.S. National Park Service)",
+        "url": "https://www.nps.gov/grca/learn/nature/grca-geology.htm",
+        "verified_claim": "Der Colorado grub sich in das angehobene Plateau ein. Seitenbäche trugen dazu bei, die Schlucht zu verbreitern.",
+        "checked_at": "2026-11-20T01:36:48.101Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:39:47.369Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:40:04.867Z"
+      },
+      "approved_at": "2026-11-20T01:40:04.867Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-pazifik-groesstes-meer",
+    "fact_key": "pazifik-groesstes-meer",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welcher Ozean hat die größte Fläche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pazifik"
+      },
+      {
+        "id": "b",
+        "text": "Atlantik"
+      },
+      {
+        "id": "c",
+        "text": "Indischer Ozean"
+      },
+      {
+        "id": "d",
+        "text": "Arktischer Ozean"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Becken des Pazifiks umfasst etwa 155 Millionen Quadratkilometer.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "How did the Pacific Ocean get its name?",
+        "url": "https://oceanservice.noaa.gov/facts/pacific.html",
+        "verified_claim": "Das Becken des Pazifiks umfasst etwa 155 Millionen Quadratkilometer.",
+        "checked_at": "2026-11-20T01:33:41.779Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:39:47.369Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:40:04.867Z"
+      },
+      "approved_at": "2026-11-20T01:40:04.867Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-atlantik-amerika-europa",
+    "fact_key": "atlantik-amerika-europa",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welchen Ozean überquert ein Schiff auf direktem Weg von Europa zur Ostküste Nordamerikas?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Atlantik"
+      },
+      {
+        "id": "b",
+        "text": "Den Pazifik"
+      },
+      {
+        "id": "c",
+        "text": "Den Indischen Ozean"
+      },
+      {
+        "id": "d",
+        "text": "Den Südlichen Ozean"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Atlantik liegt zwischen Europa und Afrika im Osten und den beiden Amerikas im Westen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "How big is the Atlantic Ocean?",
+        "url": "https://oceanservice.noaa.gov/facts/atlantic.html",
+        "verified_claim": "Der Atlantik liegt zwischen Europa und Afrika im Osten und den beiden Amerikas im Westen.",
+        "checked_at": "2026-11-20T01:33:41.779Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:39:47.369Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:40:04.867Z"
+      },
+      "approved_at": "2026-11-20T01:40:04.867Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-nil-muendung",
+    "fact_key": "nil-muendung",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "In welches Meer mündet der Nil?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mittelmeer"
+      },
+      {
+        "id": "b",
+        "text": "Rotes Meer"
+      },
+      {
+        "id": "c",
+        "text": "Schwarzes Meer"
+      },
+      {
+        "id": "d",
+        "text": "Arabisches Meer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Nil fließt durch Ägypten nach Norden bis zum Mittelmeer.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nile river facts for kids | Geography - National Geographic Kids",
+        "url": "https://www.natgeokids.com/uk/discover/geography/physical-geography/nile-river-facts/",
+        "verified_claim": "Der Nil fließt durch Ägypten nach Norden bis zum Mittelmeer.",
+        "checked_at": "2026-11-20T01:33:40.412Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:39:47.369Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:40:04.867Z"
+      },
+      "approved_at": "2026-11-20T01:40:04.867Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-barrier-reef-kueste",
+    "fact_key": "barrier-reef-kueste",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Vor welcher Küste liegt das Great Barrier Reef?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vor der Nordostküste Australiens"
+      },
+      {
+        "id": "b",
+        "text": "Vor der Westküste Kanadas"
+      },
+      {
+        "id": "c",
+        "text": "Vor der Südküste Islands"
+      },
+      {
+        "id": "d",
+        "text": "Vor der Ostküste Brasiliens"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das aus zahlreichen Korallenriffen bestehende Gebiet liegt vor dem Nordosten Australiens.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Great Barrier Reef - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/154",
+        "verified_claim": "Das aus zahlreichen Korallenriffen bestehende Gebiet liegt vor dem Nordosten Australiens.",
+        "checked_at": "2026-11-20T01:36:47.969Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:39:47.369Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:40:04.867Z"
+      },
+      "approved_at": "2026-11-20T01:40:04.867Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-uluru-landschaft",
+    "fact_key": "uluru-landschaft",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Was ist der Uluru im Zentrum Australiens?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein großer einzeln aufragender Felsen"
+      },
+      {
+        "id": "b",
+        "text": "Ein Wasserfall"
+      },
+      {
+        "id": "c",
+        "text": "Ein unterirdischer See"
+      },
+      {
+        "id": "d",
+        "text": "Eine Insel vor der Küste"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der mächtige Felsen erhebt sich aus einer weiten roten Sandebene. Er ist für die Anangu von großer kultureller Bedeutung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Uluru-Kata Tjuta National Park - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/447",
+        "verified_claim": "Der mächtige Felsen erhebt sich aus einer weiten roten Sandebene. Er ist für die Anangu von großer kultureller Bedeutung.",
+        "checked_at": "2026-11-20T01:36:47.969Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:39:47.369Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:40:04.867Z"
+      },
+      "approved_at": "2026-11-20T01:40:04.867Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kilimandscharo-afrika",
+    "fact_key": "kilimandscharo-afrika",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welches Bergmassiv erreicht den höchsten Punkt Afrikas?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kilimandscharo"
+      },
+      {
+        "id": "b",
+        "text": "Atlas"
+      },
+      {
+        "id": "c",
+        "text": "Simiengebirge"
+      },
+      {
+        "id": "d",
+        "text": "Drakensberge"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das vulkanische Massiv des Kilimandscharo erreicht 5.895 Meter Höhe.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Kilimanjaro National Park - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/403",
+        "verified_claim": "Das vulkanische Massiv des Kilimandscharo erreicht 5.895 Meter Höhe.",
+        "checked_at": "2026-11-20T01:36:47.969Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:39:47.369Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:40:04.867Z"
+      },
+      "approved_at": "2026-11-20T01:40:04.867Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-neufundland-wikinger",
+    "fact_key": "neufundland-wikinger",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Seefahrer gründeten die Siedlung von L’Anse aux Meadows auf Neufundland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wikinger"
+      },
+      {
+        "id": "b",
+        "text": "Alte Ägypter"
+      },
+      {
+        "id": "c",
+        "text": "Azteken"
+      },
+      {
+        "id": "d",
+        "text": "Phönizier"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Archäologen fanden auf der Insel Reste einer Wikingersiedlung aus dem 11. Jahrhundert.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "L’Anse aux Meadows National Historic Site - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/4",
+        "verified_claim": "Archäologen fanden auf der Insel Reste einer Wikingersiedlung aus dem 11. Jahrhundert.",
+        "checked_at": "2026-11-20T01:36:47.969Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:52:07.300Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:52:25.505Z"
+      },
+      "approved_at": "2026-11-20T01:52:25.505Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-antarktis-suesswasser",
+    "fact_key": "antarktis-suesswasser",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Wo liegt der größte Teil des Süßwassers der Erde als Eis gespeichert?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In der Antarktis"
+      },
+      {
+        "id": "b",
+        "text": "In den Alpen"
+      },
+      {
+        "id": "c",
+        "text": "In den Anden"
+      },
+      {
+        "id": "d",
+        "text": "Im Himalaja"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Allein der antarktische Eisschild enthält nach Angaben des British Antarctic Survey rund 60 Prozent des Süßwassers der Erde.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Where we work - British Antarctic Survey",
+        "url": "https://www.bas.ac.uk/about/antarctica/geography/",
+        "verified_claim": "Allein der antarktische Eisschild enthält nach Angaben des British Antarctic Survey rund 60 Prozent des Süßwassers der Erde.",
+        "checked_at": "2026-11-20T01:33:40.412Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:39:47.369Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:40:04.867Z"
+      },
+      "approved_at": "2026-11-20T01:40:04.867Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-oberer-see-flaeche",
+    "fact_key": "oberer-see-flaeche",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welcher dieser Süßwasserseen hat die größte Fläche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Oberer See"
+      },
+      {
+        "id": "b",
+        "text": "Baikalsee"
+      },
+      {
+        "id": "c",
+        "text": "Victoriasee"
+      },
+      {
+        "id": "d",
+        "text": "Bodensee"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Obere See in Nordamerika, auf Englisch Lake Superior, bedeckt rund 82.100 Quadratkilometer.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Lake Superior - Pictured Rocks National Lakeshore (U.S. National Park Service)",
+        "url": "https://www.nps.gov/piro/learn/nature/lake-superior.htm",
+        "verified_claim": "Der Obere See in Nordamerika, auf Englisch Lake Superior, bedeckt rund 82.100 Quadratkilometer.",
+        "checked_at": "2026-11-20T01:36:48.101Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:39:47.369Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:40:04.867Z"
+      },
+      "approved_at": "2026-11-20T01:40:04.867Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-brasilia-planstadt",
+    "fact_key": "brasilia-planstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche südamerikanische Hauptstadt entstand im Landesinneren als geplante neue Stadt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Brasília"
+      },
+      {
+        "id": "b",
+        "text": "Buenos Aires"
+      },
+      {
+        "id": "c",
+        "text": "Lima"
+      },
+      {
+        "id": "d",
+        "text": "Montevideo"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Brasília wurde ab 1956 im Zentrum Brasiliens aufgebaut. Stadtplaner Lúcio Costa und Architekt Oscar Niemeyer prägten den Entwurf.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Brasilia - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/445",
+        "verified_claim": "Brasília wurde ab 1956 im Zentrum Brasiliens aufgebaut. Stadtplaner Lúcio Costa und Architekt Oscar Niemeyer prägten den Entwurf.",
+        "checked_at": "2026-11-20T01:36:47.969Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:52:07.300Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:52:25.505Z"
+      },
+      "approved_at": "2026-11-20T01:52:25.505Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-challengertief-graben",
+    "fact_key": "challengertief-graben",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "In welchem Tiefseegraben liegt das Challengertief?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Marianengraben"
+      },
+      {
+        "id": "b",
+        "text": "Puerto-Rico-Graben"
+      },
+      {
+        "id": "c",
+        "text": "Javagraben"
+      },
+      {
+        "id": "d",
+        "text": "Peru-Chile-Graben"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Challengertief liegt im südlichen Abschnitt des Marianengrabens im westlichen Pazifik.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "How deep is the ocean?",
+        "url": "https://oceanservice.noaa.gov/facts/oceandepth.html",
+        "verified_claim": "Das Challengertief liegt im südlichen Abschnitt des Marianengrabens im westlichen Pazifik.",
+        "checked_at": "2026-11-20T01:33:41.779Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:39:47.369Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:40:04.867Z"
+      },
+      "approved_at": "2026-11-20T01:40:04.867Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-nil-zusammenfluss-khartum",
+    "fact_key": "nil-zusammenfluss-khartum",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "In welcher Stadt vereinigen sich der Weiße und der Blaue Nil?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Khartum"
+      },
+      {
+        "id": "b",
+        "text": "Assuan"
+      },
+      {
+        "id": "c",
+        "text": "Luxor"
+      },
+      {
+        "id": "d",
+        "text": "Kairo"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die beiden Flüsse treffen bei Khartum im Sudan aufeinander. Von dort fließt der Nil nach Norden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nile river facts for kids | Geography - National Geographic Kids",
+        "url": "https://www.natgeokids.com/uk/discover/geography/physical-geography/nile-river-facts/",
+        "verified_claim": "Die beiden Flüsse treffen bei Khartum im Sudan aufeinander. Von dort fließt der Nil nach Norden.",
+        "checked_at": "2026-11-20T01:33:40.412Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:39:47.369Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:40:04.867Z"
+      },
+      "approved_at": "2026-11-20T01:40:04.867Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-djemila-roemisch",
+    "fact_key": "djemila-roemisch",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Welche antike Kultur prägte den Stadtgrundriss von Djémila, dem früheren Cuicul?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die römische"
+      },
+      {
+        "id": "b",
+        "text": "Die minoische"
+      },
+      {
+        "id": "c",
+        "text": "Die nabatäische"
+      },
+      {
+        "id": "d",
+        "text": "Die mykenische"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In Djémila wurde römische Stadtplanung an bergiges Gelände angepasst. Forum, Tempel und Triumphbögen sind erhalten.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Djémila - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/191",
+        "verified_claim": "In Djémila wurde römische Stadtplanung an bergiges Gelände angepasst. Forum, Tempel und Triumphbögen sind erhalten.",
+        "checked_at": "2026-11-20T01:36:47.969Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:52:07.300Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:52:25.505Z"
+      },
+      "approved_at": "2026-11-20T01:52:25.505Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-damaskus-umayyaden",
+    "fact_key": "damaskus-umayyaden",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "In welcher historischen Altstadt liegt die große Umayyaden-Moschee des 8. Jahrhunderts?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Damaskus"
+      },
+      {
+        "id": "b",
+        "text": "Kairouan"
+      },
+      {
+        "id": "c",
+        "text": "Fès"
+      },
+      {
+        "id": "d",
+        "text": "Sanaa"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Umayyaden-Moschee gehört zu den bekanntesten Bauten der Altstadt von Damaskus.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Ancient City of Damascus - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/20",
+        "verified_claim": "Die Umayyaden-Moschee gehört zu den bekanntesten Bauten der Altstadt von Damaskus.",
+        "checked_at": "2026-11-20T01:36:47.969Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:39:47.369Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:40:04.867Z"
+      },
+      "approved_at": "2026-11-20T01:40:04.867Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

@@ -1,0 +1,107 @@
+{
+  "id": "qs-versailles-residenz",
+  "active": false,
+  "last_editorial_record": {
+    "id": "qs-versailles-residenz",
+    "fact_key": "versailles-residenz",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Wem diente das Schloss von Versailles unter Ludwig XIV. vor allem als Residenz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den französischen Königen"
+      },
+      {
+        "id": "b",
+        "text": "Den spanischen Vizekönigen"
+      },
+      {
+        "id": "c",
+        "text": "Den englischen Bischöfen"
+      },
+      {
+        "id": "d",
+        "text": "Den österreichischen Kaisern"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Versailles war von Ludwig XIV. bis Ludwig XVI. die Hauptresidenz der französischen Könige.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Palace and Park of Versailles - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/83",
+        "verified_claim": "Versailles war von Ludwig XIV. bis Ludwig XVI. die Hauptresidenz der französischen Könige.",
+        "checked_at": "2026-11-20T01:24:23.857Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:52:07.300Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:52:25.505Z"
+      },
+      "approved_at": "2026-11-20T01:52:25.505Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  "previous_evidence": {
+    "fact_key": "versailles-residenz",
+    "Quelle": "https://whc.unesco.org/en/list/83",
+    "Fundstelle im Textabruf": "L6",
+    "Abruf UTC": "2026-11-20T01:24:23.857Z",
+    "Sachprüfung UTC": "2026-11-20T01:26:21.273Z",
+    "Redaktion UTC": "2026-11-20T01:32:47.798Z"
+  },
+  "previous_web_marker": {
+    "fact_key": "versailles-residenz",
+    "URL": "https://whc.unesco.org/en/list/83",
+    "Fundstellen im Textabruf": "L6",
+    "SHA256 der UTF-8-Textzeilen": "540a896cef4d8cee440d0f4a5d783f3fb78250524a7e74ed346a219f61b776fe"
+  },
+  "tag_revision": {
+    "batch": "04-reisen-welterbe",
+    "fact_key": "versailles-residenz",
+    "source_url": "https://whc.unesco.org/en/list/83",
+    "source_lines": [
+      "L6"
+    ],
+    "fact_at": "2026-11-20T01:52:07.300Z",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "editorial_at": "2026-11-20T01:52:25.505Z"
+  },
+  "reason": "Ressortübergreifender Vergleich erkannte den bereits im Kultur-Referenzbestand abgefragten Sachverhalt zur königlichen Residenz von Versailles. Aus dem Länder-Ausbau entfernt.",
+  "at": "2026-11-20T01:56:24.416Z"
+}

@@ -6,7 +6,7 @@ Quizsalon
 
 ## Kurzbeschreibung
 
-Zehn Fragen am Tag, sechs Themen und dein persönliches Wissensalbum.
+Zehn Fragen am Tag, sechs Themen und dein persönliches Wissensalbum
 
 ## Beschreibung
 

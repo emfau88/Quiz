@@ -1,0 +1,5042 @@
+[
+  {
+    "id": "k-rome-legend-founders",
+    "fact_key": "rome.legend.founders",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Brüder gelten der Sage nach als Gründer Roms?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Romulus und Remus"
+      },
+      {
+        "id": "b",
+        "text": "Kastor und Pollux"
+      },
+      {
+        "id": "c",
+        "text": "Hektor und Paris"
+      },
+      {
+        "id": "d",
+        "text": "Odin und Loki"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die römische Gründungssage nennt die Zwillinge Romulus und Remus. Das überlieferte Gründungsjahr ist 753 v. Chr.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura",
+        "url": "https://whc.unesco.org/en/list/91/",
+        "verified_claim": "Die römische Gründungssage nennt die Zwillinge Romulus und Remus. Das überlieferte Gründungsjahr ist 753 v. Chr.",
+        "checked_at": "2026-11-20T01:36:42+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-rapanui-figures",
+    "fact_key": "rapanui.figures",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wie heißen die großen steinernen Figuren der Osterinsel?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Moai"
+      },
+      {
+        "id": "b",
+        "text": "Stupas"
+      },
+      {
+        "id": "c",
+        "text": "Menhire"
+      },
+      {
+        "id": "d",
+        "text": "Karyatiden"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Bewohner von Rapa Nui errichteten Plattformen und große Skulpturen. Die monumentalen Figuren heißen Moai.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Rapa Nui National Park",
+        "url": "https://whc.unesco.org/en/list/715/",
+        "verified_claim": "Die Bewohner von Rapa Nui errichteten Plattformen und große Skulpturen. Die monumentalen Figuren heißen Moai.",
+        "checked_at": "2026-11-20T01:36:40+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-confucius-qufu",
+    "fact_key": "confucius.qufu",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welchem chinesischen Philosophen ist der historische Tempel in Qufu gewidmet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Konfuzius"
+      },
+      {
+        "id": "b",
+        "text": "Sokrates"
+      },
+      {
+        "id": "c",
+        "text": "Epikur"
+      },
+      {
+        "id": "d",
+        "text": "Seneca"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In Qufu gehören auch der Friedhof des Konfuzius und der Familiensitz der Familie Kong zur historischen Anlage.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Temple and Cemetery of Confucius and the Kong Family Mansion in Qufu",
+        "url": "https://whc.unesco.org/en/list/704/",
+        "verified_claim": "In Qufu gehören auch der Friedhof des Konfuzius und der Familiensitz der Familie Kong zur historischen Anlage.",
+        "checked_at": "2026-11-20T01:36:40+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-paphos-aphrodite",
+    "fact_key": "paphos.aphrodite",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welche Göttin soll der Überlieferung zufolge auf Zypern geboren sein und wurde in Paphos verehrt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aphrodite"
+      },
+      {
+        "id": "b",
+        "text": "Athene"
+      },
+      {
+        "id": "c",
+        "text": "Artemis"
+      },
+      {
+        "id": "d",
+        "text": "Hera"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Paphos war ein Zentrum des Aphrodite-Kults. Die mythische Geburt der Göttin wurde mit der Insel verbunden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Paphos",
+        "url": "https://whc.unesco.org/en/list/79/",
+        "verified_claim": "Paphos war ein Zentrum des Aphrodite-Kults. Die mythische Geburt der Göttin wurde mit der Insel verbunden.",
+        "checked_at": "2026-11-20T01:36:41+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-giza-monuments",
+    "fact_key": "giza.monuments",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welchem Zweck dienten die berühmten Pyramiden bei Gizeh?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Als Grabbauten"
+      },
+      {
+        "id": "b",
+        "text": "Als Aquädukte"
+      },
+      {
+        "id": "c",
+        "text": "Als Leuchttürme"
+      },
+      {
+        "id": "d",
+        "text": "Als Theater"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Pyramiden gehören zu den Grabanlagen der alten Hauptstadt Memphis. Zur Nekropole zählen auch Felsgräber und Tempel.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+        "url": "https://whc.unesco.org/en/list/86/",
+        "verified_claim": "Die Pyramiden gehören zu den Grabanlagen der alten Hauptstadt Memphis. Zur Nekropole zählen auch Felsgräber und Tempel.",
+        "checked_at": "2026-11-20T01:36:42+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-weimar-klassik-poets",
+    "fact_key": "weimar.klassik.poets",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche beiden Dichter prägten um 1800 das klassische Weimar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Johann Wolfgang von Goethe und Friedrich Schiller"
+      },
+      {
+        "id": "b",
+        "text": "Heinrich Heine und Theodor Fontane"
+      },
+      {
+        "id": "c",
+        "text": "Bertolt Brecht und Kurt Tucholsky"
+      },
+      {
+        "id": "d",
+        "text": "Theodor Storm und Gottfried Keller"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Im späten 18. und frühen 19. Jahrhundert wurde Weimar ein Zentrum des kulturellen Lebens. Goethe und Schiller gehörten zu den prägenden Persönlichkeiten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Classical Weimar",
+        "url": "https://whc.unesco.org/en/list/846/",
+        "verified_claim": "Im späten 18. und frühen 19. Jahrhundert wurde Weimar ein Zentrum des kulturellen Lebens. Goethe und Schiller gehörten zu den prägenden Persönlichkeiten.",
+        "checked_at": "2026-11-20T01:55:42+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-abusimbel-pharaoh",
+    "fact_key": "abusimbel.pharaoh",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher Pharao ließ die Tempel von Abu Simbel errichten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ramses II."
+      },
+      {
+        "id": "b",
+        "text": "Cheops"
+      },
+      {
+        "id": "c",
+        "text": "Echnaton"
+      },
+      {
+        "id": "d",
+        "text": "Tutanchamun"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Abu Simbel gehört zu den nubischen Denkmälern, die vor dem steigenden Wasser des Nils gerettet wurden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Nubian Monuments from Abu Simbel to Philae",
+        "url": "https://whc.unesco.org/en/list/88/",
+        "verified_claim": "Abu Simbel gehört zu den nubischen Denkmälern, die vor dem steigenden Wasser des Nils gerettet wurden.",
+        "checked_at": "2026-11-20T01:36:42+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-tallinn-hanse",
+    "fact_key": "tallinn.hanse",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welchem mittelalterlichen Handelsbund gehörte Tallinn an?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Hanse"
+      },
+      {
+        "id": "b",
+        "text": "Dem Attischen Seebund"
+      },
+      {
+        "id": "c",
+        "text": "Dem Rheinbund"
+      },
+      {
+        "id": "d",
+        "text": "Der Heiligen Liga"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Tallinn entwickelte sich an der Ostsee zu einem wichtigen Zentrum der Hanse.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Historic Centre (Old Town) of Tallinn",
+        "url": "https://whc.unesco.org/en/list/822/",
+        "verified_claim": "Tallinn entwickelte sich an der Ostsee zu einem wichtigen Zentrum der Hanse.",
+        "checked_at": "2026-11-20T01:36:41+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-lalibela-churches",
+    "fact_key": "lalibela.churches",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Was zeichnet die mittelalterlichen Kirchen von Lalibela in Äthiopien aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie wurden aus dem Fels gehauen."
+      },
+      {
+        "id": "b",
+        "text": "Sie wurden aus Eis gebaut."
+      },
+      {
+        "id": "c",
+        "text": "Sie stehen auf schwimmenden Inseln."
+      },
+      {
+        "id": "d",
+        "text": "Sie bestehen aus Bambus."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In Lalibela bilden elf aus dem Fels gearbeitete Kirchen eine zusammenhängende religiöse Stätte.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Rock-Hewn Churches, Lalibela",
+        "url": "https://whc.unesco.org/en/list/18/",
+        "verified_claim": "In Lalibela bilden elf aus dem Fels gearbeitete Kirchen eine zusammenhängende religiöse Stätte.",
+        "checked_at": "2026-11-20T01:36:36+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-avignon-papacy",
+    "fact_key": "avignon.papacy",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wer hatte im 14. Jahrhundert seinen Sitz in Avignon?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Päpste"
+      },
+      {
+        "id": "b",
+        "text": "Byzantinische Kaiser"
+      },
+      {
+        "id": "c",
+        "text": "Dogen von Venedig"
+      },
+      {
+        "id": "d",
+        "text": "Spanische Vizekönige"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der große Papstpalast erinnert daran, dass Avignon im 14. Jahrhundert zum Zentrum der päpstlichen Verwaltung wurde.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Historic Centre of Avignon: Papal Palace, Episcopal Ensemble and Avignon Bridge",
+        "url": "https://whc.unesco.org/en/list/228/",
+        "verified_claim": "Der große Papstpalast erinnert daran, dass Avignon im 14. Jahrhundert zum Zentrum der päpstlichen Verwaltung wurde.",
+        "checked_at": "2026-11-20T01:36:36+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-maulbronn-community",
+    "fact_key": "maulbronn.community",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Gemeinschaft gründete im Mittelalter das Kloster Maulbronn?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zisterziensermönche"
+      },
+      {
+        "id": "b",
+        "text": "Templer aus Jerusalem"
+      },
+      {
+        "id": "c",
+        "text": "Benediktinerinnen"
+      },
+      {
+        "id": "d",
+        "text": "Franziskanerinnen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Zisterzienser gründeten ihr Kloster 1147. Zu dessen Anlage gehören auch Kanäle und Wasserbecken.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Maulbronn Monastery Complex",
+        "url": "https://whc.unesco.org/en/list/546/",
+        "verified_claim": "Die Zisterzienser gründeten ihr Kloster 1147. Zu dessen Anlage gehören auch Kanäle und Wasserbecken.",
+        "checked_at": "2026-11-20T01:58:07+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-naumburg-figures",
+    "fact_key": "naumburg.figures",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wen stellen die berühmten lebensgroßen Figuren im Westchor des Naumburger Doms dar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stifter des Doms"
+      },
+      {
+        "id": "b",
+        "text": "Mitglieder einer städtischen Zunft"
+      },
+      {
+        "id": "c",
+        "text": "Könige des Alten Testaments"
+      },
+      {
+        "id": "d",
+        "text": "Römische Provinzstatthalter"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die mittelalterlichen Stifterfiguren und der Westchor werden der Werkstatt des Naumburger Meisters zugeschrieben.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Naumburg Cathedral",
+        "url": "https://whc.unesco.org/en/list/1470/",
+        "verified_claim": "Die mittelalterlichen Stifterfiguren und der Westchor werden der Werkstatt des Naumburger Meisters zugeschrieben.",
+        "checked_at": "2026-11-20T01:58:07+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-quedlinburg-ottonen",
+    "fact_key": "quedlinburg.ottonen",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Welche Herrscherdynastie ist mit dem mittelalterlichen Quedlinburg besonders verbunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Ottonen"
+      },
+      {
+        "id": "b",
+        "text": "Die Tudors"
+      },
+      {
+        "id": "c",
+        "text": "Die Bourbonen"
+      },
+      {
+        "id": "d",
+        "text": "Die Romanows"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Quedlinburg war unter den sächsisch-ottonischen Herrschern ein Zentrum des ostfränkischen Reichs.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Collegiate Church, Castle and Old Town of Quedlinburg",
+        "url": "https://whc.unesco.org/en/list/535/",
+        "verified_claim": "Quedlinburg war unter den sächsisch-ottonischen Herrschern ein Zentrum des ostfränkischen Reichs.",
+        "checked_at": "2026-11-20T01:36:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-voelklingen-industry",
+    "fact_key": "voelklingen.industry",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher Industriezweig prägte die Völklinger Hütte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Eisenindustrie"
+      },
+      {
+        "id": "b",
+        "text": "Die Textilindustrie"
+      },
+      {
+        "id": "c",
+        "text": "Die Glasindustrie"
+      },
+      {
+        "id": "d",
+        "text": "Die Papierindustrie"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das stillgelegte Eisenwerk bewahrt die Anlagen der industriellen Eisenproduktion.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Völklingen Ironworks",
+        "url": "https://whc.unesco.org/en/list/687/",
+        "verified_claim": "Das stillgelegte Eisenwerk bewahrt die Anlagen der industriellen Eisenproduktion.",
+        "checked_at": "2026-11-20T01:36:40+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-luther-wittenberg-eisleben",
+    "fact_key": "luther.wittenberg.eisleben",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "An welchen Reformator erinnern historische Häuser in Eisleben und Wittenberg?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Martin Luther"
+      },
+      {
+        "id": "b",
+        "text": "Johannes Calvin"
+      },
+      {
+        "id": "c",
+        "text": "Ulrich Zwingli"
+      },
+      {
+        "id": "d",
+        "text": "Jan Hus"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In beiden Städten sind Orte aus Luthers Leben erhalten. In Wittenberg erinnert auch ein Haus an Philipp Melanchthon.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Luther Memorials in Eisleben and Wittenberg",
+        "url": "https://whc.unesco.org/en/list/783/",
+        "verified_claim": "In beiden Städten sind Orte aus Luthers Leben erhalten. In Wittenberg erinnert auch ein Haus an Philipp Melanchthon.",
+        "checked_at": "2026-11-20T01:36:41+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-reichenau-order",
+    "fact_key": "reichenau.order",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welcher Orden gründete 724 das Kloster auf der Insel Reichenau?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Benediktiner"
+      },
+      {
+        "id": "b",
+        "text": "Die Jesuiten"
+      },
+      {
+        "id": "c",
+        "text": "Die Franziskaner"
+      },
+      {
+        "id": "d",
+        "text": "Die Dominikaner"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Benediktinerkloster auf der Bodenseeinsel war ein bedeutendes geistiges und künstlerisches Zentrum.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Monastic Island of Reichenau",
+        "url": "https://whc.unesco.org/en/list/974/",
+        "verified_claim": "Das Benediktinerkloster auf der Bodenseeinsel war ein bedeutendes geistiges und künstlerisches Zentrum.",
+        "checked_at": "2026-11-20T01:36:42+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stralsund-wismar-trade",
+    "fact_key": "stralsund.wismar.trade",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Womit gewannen Stralsund und Wismar im 14. und 15. Jahrhundert an Bedeutung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit dem Handel der Hanse"
+      },
+      {
+        "id": "b",
+        "text": "Mit dem Goldbergbau"
+      },
+      {
+        "id": "c",
+        "text": "Mit der Seidenraupenzucht"
+      },
+      {
+        "id": "d",
+        "text": "Mit dem Fernhandel über die Sahara"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beide Städte waren im Ostseeraum wichtige Handelsplätze der Hanse.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Historic Centres of Stralsund and Wismar",
+        "url": "https://whc.unesco.org/en/list/1067/",
+        "verified_claim": "Beide Städte waren im Ostseeraum wichtige Handelsplätze der Hanse.",
+        "checked_at": "2026-11-20T01:36:34+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-bremen-roland-symbol",
+    "fact_key": "bremen.roland.symbol",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wofür stehen Rathaus und Roland auf dem Bremer Marktplatz historisch?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für die Selbstständigkeit der Stadt"
+      },
+      {
+        "id": "b",
+        "text": "Für die Krönung der Kaiser"
+      },
+      {
+        "id": "c",
+        "text": "Für die Gründung eines Ritterordens"
+      },
+      {
+        "id": "d",
+        "text": "Für die Gerichtsbarkeit eines Klosters"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Ensemble erinnert an die Selbstverwaltung und die Rechte der Bürgerschaft.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Town Hall and Roland on the Marketplace of Bremen",
+        "url": "https://whc.unesco.org/en/list/1087/",
+        "verified_claim": "Das Ensemble erinnert an die Selbstverwaltung und die Rechte der Bürgerschaft.",
+        "checked_at": "2026-11-20T01:36:34+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-rammelsberg-water",
+    "fact_key": "rammelsberg.water",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Für welchen Wirtschaftszweig wurde die historische Oberharzer Wasserwirtschaft vor allem angelegt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für den Bergbau"
+      },
+      {
+        "id": "b",
+        "text": "Für die Fischzucht"
+      },
+      {
+        "id": "c",
+        "text": "Für den Weinbau"
+      },
+      {
+        "id": "d",
+        "text": "Für die Seidenspinnerei"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Teiche, Gräben und weitere Anlagen versorgten den Harzer Bergbau über lange Zeit mit Wasserkraft.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Mines of Rammelsberg, Historic Town of Goslar and Upper Harz Water Management System",
+        "url": "https://whc.unesco.org/en/list/623/",
+        "verified_claim": "Teiche, Gräben und weitere Anlagen versorgten den Harzer Bergbau über lange Zeit mit Wasserkraft.",
+        "checked_at": "2026-11-20T01:36:40+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-aachen-emperor",
+    "fact_key": "aachen.emperor",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Unter welchem Herrscher begann der Bau der Pfalzkapelle im heutigen Aachener Dom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Karl dem Großen"
+      },
+      {
+        "id": "b",
+        "text": "Friedrich Barbarossa"
+      },
+      {
+        "id": "c",
+        "text": "Otto von Bismarck"
+      },
+      {
+        "id": "d",
+        "text": "Ludwig XIV."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Um 790 bis 800 entstand die Kapelle mit ihrem achteckigen Kernbau.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Aachen Cathedral",
+        "url": "https://whc.unesco.org/en/list/3/",
+        "verified_claim": "Um 790 bis 800 entstand die Kapelle mit ihrem achteckigen Kernbau.",
+        "checked_at": "2026-11-20T01:36:38+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-schum-communities",
+    "fact_key": "schum.communities",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "An welche Gemeinschaft erinnern die mittelalterlichen SchUM-Stätten von Speyer, Worms und Mainz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An jüdische Gemeinden"
+      },
+      {
+        "id": "b",
+        "text": "An römische Legionen"
+      },
+      {
+        "id": "c",
+        "text": "An flämische Weberzünfte"
+      },
+      {
+        "id": "d",
+        "text": "An portugiesische Seefahrer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die drei Städte am Oberrhein bewahren historische Orte jüdischen Gemeindelebens.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · ShUM Sites of Speyer, Worms and Mainz",
+        "url": "https://whc.unesco.org/en/list/1636/",
+        "verified_claim": "Die drei Städte am Oberrhein bewahren historische Orte jüdischen Gemeindelebens.",
+        "checked_at": "2026-11-20T01:36:35+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-neuschwanstein-king",
+    "fact_key": "neuschwanstein.king",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher bayerische König ließ Neuschwanstein und Linderhof bauen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ludwig II."
+      },
+      {
+        "id": "b",
+        "text": "Maximilian I. Joseph"
+      },
+      {
+        "id": "c",
+        "text": "Ludwig I."
+      },
+      {
+        "id": "d",
+        "text": "Maximilian II."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die beiden Schlösser gehören zu einer Gruppe von Anlagen, die unter Ludwig II. ab 1868 entstanden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · The Palaces of King Ludwig II of Bavaria: Neuschwanstein, Linderhof, Schachen and Herrenchiemsee",
+        "url": "https://whc.unesco.org/en/list/1726/",
+        "verified_claim": "Die beiden Schlösser gehören zu einer Gruppe von Anlagen, die unter Ludwig II. ab 1868 entstanden.",
+        "checked_at": "2026-11-20T01:36:36+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-delphi-god",
+    "fact_key": "delphi.god",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Zu welchem Gott gehörte das Orakel von Delphi?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Apollon"
+      },
+      {
+        "id": "b",
+        "text": "Hermes"
+      },
+      {
+        "id": "c",
+        "text": "Ares"
+      },
+      {
+        "id": "d",
+        "text": "Poseidon"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Delphi war ein Heiligtum des Apollon. Die antiken Griechen betrachteten den Ort als Nabel der Welt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Archaeological Site of Delphi",
+        "url": "https://whc.unesco.org/en/list/393/",
+        "verified_claim": "Delphi war ein Heiligtum des Apollon. Die antiken Griechen betrachteten den Ort als Nabel der Welt.",
+        "checked_at": "2026-11-20T01:36:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-epidaurus-god",
+    "fact_key": "epidaurus.god",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Für welchen Bereich stand der in Epidauros verehrte Gott Asklepios?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Heilkunde"
+      },
+      {
+        "id": "b",
+        "text": "Seefahrt"
+      },
+      {
+        "id": "c",
+        "text": "Weinbau"
+      },
+      {
+        "id": "d",
+        "text": "Schmiedekunst"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Heiligtum des Asklepios auf der Peloponnes war der Heilkunst gewidmet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Sanctuary of Asklepios at Epidaurus",
+        "url": "https://whc.unesco.org/en/list/491/",
+        "verified_claim": "Das Heiligtum des Asklepios auf der Peloponnes war der Heilkunst gewidmet.",
+        "checked_at": "2026-11-20T01:36:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-rhodes-order",
+    "fact_key": "rhodes.order",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welcher Ritterorden baute die Stadt Rhodos ab dem 14. Jahrhundert zur Festung aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Johanniter"
+      },
+      {
+        "id": "b",
+        "text": "Die Tempelritter"
+      },
+      {
+        "id": "c",
+        "text": "Der Deutsche Orden"
+      },
+      {
+        "id": "d",
+        "text": "Der Orden vom Goldenen Vlies"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Johanniter hielten Rhodos von 1309 bis 1523. Die Befestigungen prägen die Altstadt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Medieval City of Rhodes",
+        "url": "https://whc.unesco.org/en/list/493/",
+        "verified_claim": "Die Johanniter hielten Rhodos von 1309 bis 1523. Die Befestigungen prägen die Altstadt.",
+        "checked_at": "2026-11-20T01:36:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-olympia-zeus",
+    "fact_key": "olympia.zeus",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welchem Gott galt der Kult im Heiligtum von Olympia?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zeus"
+      },
+      {
+        "id": "b",
+        "text": "Hephaistos"
+      },
+      {
+        "id": "c",
+        "text": "Dionysos"
+      },
+      {
+        "id": "d",
+        "text": "Hermes"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Olympia entwickelte sich schon im 10. Jahrhundert v. Chr. zu einem Zentrum der Zeusverehrung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Archaeological Site of Olympia",
+        "url": "https://whc.unesco.org/en/list/517/",
+        "verified_claim": "Olympia entwickelte sich schon im 10. Jahrhundert v. Chr. zu einem Zentrum der Zeusverehrung.",
+        "checked_at": "2026-11-20T01:36:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-tikal-people",
+    "fact_key": "tikal.people",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Kultur hinterließ die großen Tempel der Stadt Tikal in Guatemala?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Maya"
+      },
+      {
+        "id": "b",
+        "text": "Die Inka"
+      },
+      {
+        "id": "c",
+        "text": "Die Kelten"
+      },
+      {
+        "id": "d",
+        "text": "Die Etrusker"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Tikal war eine Stadt der Maya. Ihre Bauten liegen heute mitten im tropischen Wald.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Tikal National Park",
+        "url": "https://whc.unesco.org/en/list/64/",
+        "verified_claim": "Tikal war eine Stadt der Maya. Ihre Bauten liegen heute mitten im tropischen Wald.",
+        "checked_at": "2026-11-20T01:36:40+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-byblos-civilization",
+    "fact_key": "byblos.civilization",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Mit welchem Seefahrervolk ist das antike Byblos besonders verbunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit den Phöniziern"
+      },
+      {
+        "id": "b",
+        "text": "Mit den Wikingern"
+      },
+      {
+        "id": "c",
+        "text": "Mit den Polynesiern"
+      },
+      {
+        "id": "d",
+        "text": "Mit den Sachsen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Byblos an der östlichen Mittelmeerküste zählt zu den alten phönizischen Städten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Byblos",
+        "url": "https://whc.unesco.org/en/list/295/",
+        "verified_claim": "Byblos an der östlichen Mittelmeerküste zählt zu den alten phönizischen Städten.",
+        "checked_at": "2026-11-20T01:36:37+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-tyre-colony",
+    "fact_key": "tyre.colony",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welche nordafrikanische Stadt ging auf eine Kolonie des phönizischen Tyros zurück?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Karthago"
+      },
+      {
+        "id": "b",
+        "text": "Alexandria"
+      },
+      {
+        "id": "c",
+        "text": "Kairo"
+      },
+      {
+        "id": "d",
+        "text": "Marrakesch"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Von Tyros aus entstanden Handelskolonien im Mittelmeerraum. Zu ihnen gehörte Karthago.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Tyre",
+        "url": "https://whc.unesco.org/en/list/299/",
+        "verified_claim": "Von Tyros aus entstanden Handelskolonien im Mittelmeerraum. Zu ihnen gehörte Karthago.",
+        "checked_at": "2026-11-20T01:36:37+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-timbuktu-learning",
+    "fact_key": "timbuktu.learning",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wofür war Timbuktu im 15. und 16. Jahrhundert neben dem Handel bekannt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für islamische Gelehrsamkeit"
+      },
+      {
+        "id": "b",
+        "text": "Für eine römische Gladiatorenschule"
+      },
+      {
+        "id": "c",
+        "text": "Für eine Wikingerwerft"
+      },
+      {
+        "id": "d",
+        "text": "Für ein byzantinisches Kaiserpalais"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "An der Sankoré-Hochschule und anderen Lehrstätten wurde Timbuktu zu einem geistigen Zentrum.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Timbuktu",
+        "url": "https://whc.unesco.org/en/list/119/",
+        "verified_claim": "An der Sankoré-Hochschule und anderen Lehrstätten wurde Timbuktu zu einem geistigen Zentrum.",
+        "checked_at": "2026-11-20T01:36:34+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-bergen-bryggen",
+    "fact_key": "bergen.bryggen",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Woran erinnert das alte Hafenviertel Bryggen im norwegischen Bergen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An den Handel der Hanse"
+      },
+      {
+        "id": "b",
+        "text": "An die Residenz der Zaren"
+      },
+      {
+        "id": "c",
+        "text": "An die ersten Olympischen Spiele"
+      },
+      {
+        "id": "d",
+        "text": "An die römische Kaiserflotte"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Gebäude am alten Kai zeugen von Bergens Rolle im mittelalterlichen Handelsnetz der Hanse.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Bryggen",
+        "url": "https://whc.unesco.org/en/list/59/",
+        "verified_claim": "Die Gebäude am alten Kai zeugen von Bergens Rolle im mittelalterlichen Handelsnetz der Hanse.",
+        "checked_at": "2026-11-20T01:36:40+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-ifugao-agriculture",
+    "fact_key": "ifugao.agriculture",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Für welche Feldfrucht legten die Ifugao in den philippinischen Kordilleren Terrassen an?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reis"
+      },
+      {
+        "id": "b",
+        "text": "Gerste"
+      },
+      {
+        "id": "c",
+        "text": "Baumwolle"
+      },
+      {
+        "id": "d",
+        "text": "Hopfen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Reisfelder folgen den Berghängen. Das dazugehörige Wissen wurde über Generationen weitergegeben.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Rice Terraces of the Philippine Cordilleras",
+        "url": "https://whc.unesco.org/en/list/722/",
+        "verified_claim": "Die Reisfelder folgen den Berghängen. Das dazugehörige Wissen wurde über Generationen weitergegeben.",
+        "checked_at": "2026-11-20T01:36:40+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-warsaw-reconstruction",
+    "fact_key": "warsaw.reconstruction",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Stadt baute ihr historisches Zentrum wieder auf, nachdem es beim Aufstand von 1944 weitgehend zerstört worden war?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Warschau"
+      },
+      {
+        "id": "b",
+        "text": "Stockholm"
+      },
+      {
+        "id": "c",
+        "text": "Dublin"
+      },
+      {
+        "id": "d",
+        "text": "Lissabon"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nach dem Zweiten Weltkrieg rekonstruierten die Einwohner das historische Zentrum Warschaus.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Historic Centre of Warsaw",
+        "url": "https://whc.unesco.org/en/list/30/",
+        "verified_claim": "Nach dem Zweiten Weltkrieg rekonstruierten die Einwohner das historische Zentrum Warschaus.",
+        "checked_at": "2026-11-20T01:36:38+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-toledo-kingdom",
+    "fact_key": "toledo.kingdom",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Welches frühmittelalterliche Reich hatte seine Hauptstadt in Toledo?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Westgotenreich"
+      },
+      {
+        "id": "b",
+        "text": "Das Frankenreich"
+      },
+      {
+        "id": "c",
+        "text": "Das Ostgotenreich"
+      },
+      {
+        "id": "d",
+        "text": "Das Vandalenreich"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Toledo war nach der Römerzeit Hauptstadt der Westgoten. Später stand die Stadt unter maurischer Herrschaft.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Historic City of Toledo",
+        "url": "https://whc.unesco.org/en/list/379/",
+        "verified_claim": "Toledo war nach der Römerzeit Hauptstadt der Westgoten. Später stand die Stadt unter maurischer Herrschaft.",
+        "checked_at": "2026-11-20T01:36:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-atapuerca-fossils",
+    "fact_key": "atapuerca.fossils",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Was macht die Höhlen von Atapuerca für die europäische Frühgeschichte besonders wichtig?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fossilien früher Menschen"
+      },
+      {
+        "id": "b",
+        "text": "Römische Hafenanlagen"
+      },
+      {
+        "id": "c",
+        "text": "Wikingerboote"
+      },
+      {
+        "id": "d",
+        "text": "Mittelalterliche Glasfenster"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Höhlen im Norden Spaniens bewahren Spuren sehr früher Besiedlung durch Menschen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Archaeological Site of Atapuerca",
+        "url": "https://whc.unesco.org/en/list/989/",
+        "verified_claim": "Die Höhlen im Norden Spaniens bewahren Spuren sehr früher Besiedlung durch Menschen.",
+        "checked_at": "2026-11-20T01:36:42+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-altamira-art",
+    "fact_key": "altamira.art",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Aus welcher Epoche stammen die berühmten Höhlenbilder von Altamira?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aus der Altsteinzeit"
+      },
+      {
+        "id": "b",
+        "text": "Aus der Bronzezeit"
+      },
+      {
+        "id": "c",
+        "text": "Aus der Römerzeit"
+      },
+      {
+        "id": "d",
+        "text": "Aus dem Frühmittelalter"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Altamira gehört zu den nordspanischen Fundstätten mit Höhlenkunst des Paläolithikums.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Cave of Altamira and Paleolithic Cave Art of Northern Spain",
+        "url": "https://whc.unesco.org/en/list/310/",
+        "verified_claim": "Altamira gehört zu den nordspanischen Fundstätten mit Höhlenkunst des Paläolithikums.",
+        "checked_at": "2026-11-20T01:36:38+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-visby-trade",
+    "fact_key": "visby.trade",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welche Stadt auf Gotland war im Mittelalter ein bedeutendes Handelszentrum der Hanse?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Visby"
+      },
+      {
+        "id": "b",
+        "text": "Bergen"
+      },
+      {
+        "id": "c",
+        "text": "Lübeck"
+      },
+      {
+        "id": "d",
+        "text": "Turku"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In Visby erinnern Teile der Stadtmauer und zahlreiche ehemalige Lagerhäuser an den Fernhandel.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Hanseatic Town of Visby",
+        "url": "https://whc.unesco.org/en/list/731/",
+        "verified_claim": "In Visby erinnern Teile der Stadtmauer und zahlreiche ehemalige Lagerhäuser an den Fernhandel.",
+        "checked_at": "2026-11-20T01:36:40+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-palmyra-setting",
+    "fact_key": "palmyra.setting",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In welcher Landschaft entwickelte sich die antike Handelsstadt Palmyra?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In einer Oase der syrischen Wüste"
+      },
+      {
+        "id": "b",
+        "text": "In den Sümpfen des Nildeltas"
+      },
+      {
+        "id": "c",
+        "text": "An den Hängen des Vesuvs"
+      },
+      {
+        "id": "d",
+        "text": "Im Hochland der Anden"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Ruinen Palmyras liegen in einer Oase nordöstlich von Damaskus.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Site of Palmyra",
+        "url": "https://whc.unesco.org/en/list/23/",
+        "verified_claim": "Die Ruinen Palmyras liegen in einer Oase nordöstlich von Damaskus.",
+        "checked_at": "2026-11-20T01:36:37+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-ayutthaya-kingdom",
+    "fact_key": "ayutthaya.kingdom",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Zu welchem historischen Königreich gehörte die Hauptstadt Ayutthaya?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Siam"
+      },
+      {
+        "id": "b",
+        "text": "Persien"
+      },
+      {
+        "id": "c",
+        "text": "Kusch"
+      },
+      {
+        "id": "d",
+        "text": "Lydien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ayutthaya wurde um 1350 gegründet und war die zweite Hauptstadt Siams.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Historic City of Ayutthaya",
+        "url": "https://whc.unesco.org/en/list/576/",
+        "verified_claim": "Ayutthaya wurde um 1350 gegründet und war die zweite Hauptstadt Siams.",
+        "checked_at": "2026-11-20T01:36:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-hattusha-capital",
+    "fact_key": "hattusha.capital",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Wessen Hauptstadt war das antike Hattuscha in Anatolien?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die der Hethiter"
+      },
+      {
+        "id": "b",
+        "text": "Die der Phönizier"
+      },
+      {
+        "id": "c",
+        "text": "Die der Nubier"
+      },
+      {
+        "id": "d",
+        "text": "Die der Etrusker"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In Hattuscha sind Tempel, königliche Bauten und Befestigungen des Hethiterreichs erhalten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Hattusha: the Hittite Capital",
+        "url": "https://whc.unesco.org/en/list/377/",
+        "verified_claim": "In Hattuscha sind Tempel, königliche Bauten und Befestigungen des Hethiterreichs erhalten.",
+        "checked_at": "2026-11-20T01:36:38+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-troy-schliemann",
+    "fact_key": "troy.schliemann",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher Archäologe ist mit den frühen systematischen Ausgrabungen von Troja verbunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Heinrich Schliemann"
+      },
+      {
+        "id": "b",
+        "text": "Howard Carter"
+      },
+      {
+        "id": "c",
+        "text": "Arthur Evans"
+      },
+      {
+        "id": "d",
+        "text": "Johann Joachim Winckelmann"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Schliemann begann im 19. Jahrhundert mit Ausgrabungen an der Fundstätte.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Archaeological Site of Troy",
+        "url": "https://whc.unesco.org/en/list/849/",
+        "verified_claim": "Schliemann begann im 19. Jahrhundert mit Ausgrabungen an der Fundstätte.",
+        "checked_at": "2026-11-20T01:36:41+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-stonehenge-material",
+    "fact_key": "stonehenge.material",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Bauform prägt das vorgeschichtliche Stonehenge?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kreise aus großen Steinen"
+      },
+      {
+        "id": "b",
+        "text": "Eine Stufenpyramide"
+      },
+      {
+        "id": "c",
+        "text": "Ein Rundtempel aus Marmor"
+      },
+      {
+        "id": "d",
+        "text": "Eine hölzerne Palisadenburg"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Stonehenge und Avebury zählen zu den bekannten Megalithanlagen Englands.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Stonehenge, Avebury and Associated Sites",
+        "url": "https://whc.unesco.org/en/list/373/",
+        "verified_claim": "Stonehenge und Avebury zählen zu den bekannten Megalithanlagen Englands.",
+        "checked_at": "2026-11-20T01:36:38+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-ironbridge-epoch",
+    "fact_key": "ironbridge.epoch",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Für welchen historischen Umbruch steht die Ironbridge-Schlucht in England?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die industrielle Revolution"
+      },
+      {
+        "id": "b",
+        "text": "Die Renaissance"
+      },
+      {
+        "id": "c",
+        "text": "Die Reformation"
+      },
+      {
+        "id": "d",
+        "text": "Die neolithische Revolution"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In der Schlucht blieben Anlagen erhalten, die den frühen Aufschwung der Industrie dokumentieren.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Ironbridge Gorge",
+        "url": "https://whc.unesco.org/en/list/371/",
+        "verified_claim": "In der Schlucht blieben Anlagen erhalten, die den frühen Aufschwung der Industrie dokumentieren.",
+        "checked_at": "2026-11-20T01:36:38+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-mesaverde-homes",
+    "fact_key": "mesaverde.homes",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Wer errichtete die historischen Siedlungen von Mesa Verde im heutigen Colorado?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vorfahren der Pueblo-Völker"
+      },
+      {
+        "id": "b",
+        "text": "Die Römer"
+      },
+      {
+        "id": "c",
+        "text": "Die Wikinger"
+      },
+      {
+        "id": "d",
+        "text": "Die Azteken"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Auf der Hochebene von Mesa Verde blieben Wohnstätten aus mehreren Jahrhunderten erhalten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Mesa Verde National Park",
+        "url": "https://whc.unesco.org/en/list/27/",
+        "verified_claim": "Auf der Hochebene von Mesa Verde blieben Wohnstätten aus mehreren Jahrhunderten erhalten.",
+        "checked_at": "2026-11-20T01:36:37+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-philadelphia-independence",
+    "fact_key": "philadelphia.independence",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In welcher Stadt wurde 1776 die Unabhängigkeitserklärung der Vereinigten Staaten unterzeichnet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Philadelphia"
+      },
+      {
+        "id": "b",
+        "text": "Washington"
+      },
+      {
+        "id": "c",
+        "text": "Boston"
+      },
+      {
+        "id": "d",
+        "text": "New Orleans"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In der Independence Hall in Philadelphia wurde später auch die amerikanische Verfassung unterzeichnet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Independence Hall",
+        "url": "https://whc.unesco.org/en/list/78/",
+        "verified_claim": "In der Independence Hall in Philadelphia wurde später auch die amerikanische Verfassung unterzeichnet.",
+        "checked_at": "2026-11-20T01:36:41+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-zimbabwe-shona",
+    "fact_key": "zimbabwe.shona",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Mit welcher Bevölkerung verbindet die UNESCO die Ruinen von Great Zimbabwe im südlichen Afrika?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit den Shona"
+      },
+      {
+        "id": "b",
+        "text": "Mit den Tuareg"
+      },
+      {
+        "id": "c",
+        "text": "Mit den Berbern"
+      },
+      {
+        "id": "d",
+        "text": "Mit den Inuit"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die steinernen Ruinen belegen die Geschichte der Shona-Kultur zwischen dem 11. und 15. Jahrhundert.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Great Zimbabwe National Monument",
+        "url": "https://whc.unesco.org/en/list/364/",
+        "verified_claim": "Die steinernen Ruinen belegen die Geschichte der Shona-Kultur zwischen dem 11. und 15. Jahrhundert.",
+        "checked_at": "2026-11-20T01:36:38+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-roskilde-burials",
+    "fact_key": "roskilde.burials",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Wer wird seit Jahrhunderten im Dom von Roskilde bestattet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Angehörige des dänischen Königshauses"
+      },
+      {
+        "id": "b",
+        "text": "Päpste aus Rom"
+      },
+      {
+        "id": "c",
+        "text": "Kaiser des Heiligen Römischen Reichs"
+      },
+      {
+        "id": "d",
+        "text": "Großfürsten von Moskau"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Seit dem 15. Jahrhundert dient der Dom als Grablege der dänischen Königsfamilie.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Roskilde Cathedral",
+        "url": "https://whc.unesco.org/en/list/695/",
+        "verified_claim": "Seit dem 15. Jahrhundert dient der Dom als Grablege der dänischen Königsfamilie.",
+        "checked_at": "2026-11-20T01:36:40+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-haithabu-trade",
+    "fact_key": "haithabu.trade",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Funktion hatte Haithabu in der Wikingerzeit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es war eine Handelsstadt."
+      },
+      {
+        "id": "b",
+        "text": "Es war ein Papstsitz."
+      },
+      {
+        "id": "c",
+        "text": "Es war ein römischer Kurort."
+      },
+      {
+        "id": "d",
+        "text": "Es war ein Goldkloster."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wege, Gebäude und Hafenreste bezeugen Haithabus Rolle als Handelsplatz.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Archaeological Border complex of Hedeby and the Danevirke",
+        "url": "https://whc.unesco.org/en/list/1553/",
+        "verified_claim": "Wege, Gebäude und Hafenreste bezeugen Haithabus Rolle als Handelsplatz.",
+        "checked_at": "2026-11-20T01:36:35+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cappadocia-churches",
+    "fact_key": "cappadocia.churches",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wie entstanden viele der historischen Heiligtümer im Tal von Göreme?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie wurden aus dem Fels gehauen."
+      },
+      {
+        "id": "b",
+        "text": "Sie wurden auf Pfählen errichtet."
+      },
+      {
+        "id": "c",
+        "text": "Sie wurden in Eis geschnitten."
+      },
+      {
+        "id": "d",
+        "text": "Sie wurden aus Korallen gemauert."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Felsheiligtümer Kappadokiens bewahren Zeugnisse byzantinischer Kunst.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Göreme National Park and the Rock Sites of Cappadocia",
+        "url": "https://whc.unesco.org/en/list/357/",
+        "verified_claim": "Die Felsheiligtümer Kappadokiens bewahren Zeugnisse byzantinischer Kunst.",
+        "checked_at": "2026-11-20T01:36:38+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-tajmahal-function",
+    "fact_key": "tajmahal.function",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Was war der ursprüngliche Zweck des Taj Mahal in Agra?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Grabmal"
+      },
+      {
+        "id": "b",
+        "text": "Ein Sternobservatorium"
+      },
+      {
+        "id": "c",
+        "text": "Eine Universität"
+      },
+      {
+        "id": "d",
+        "text": "Ein Warenlager"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Mogulkaiser Shah Jahan ließ das Grabmal aus weißem Marmor zum Gedenken an seine Frau bauen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Taj Mahal",
+        "url": "https://whc.unesco.org/en/list/252/",
+        "verified_claim": "Der Mogulkaiser Shah Jahan ließ das Grabmal aus weißem Marmor zum Gedenken an seine Frau bauen.",
+        "checked_at": "2026-11-20T01:36:37+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-tower-builder",
+    "fact_key": "tower.builder",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher Herrscher ließ den White Tower in London errichten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wilhelm der Eroberer"
+      },
+      {
+        "id": "b",
+        "text": "Heinrich VIII."
+      },
+      {
+        "id": "c",
+        "text": "Richard Löwenherz"
+      },
+      {
+        "id": "d",
+        "text": "Jakob I."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der normannische Bau an der Themse sollte London schützen und die Macht des neuen Herrschers festigen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Tower of London",
+        "url": "https://whc.unesco.org/en/list/488/",
+        "verified_claim": "Der normannische Bau an der Themse sollte London schützen und die Macht des neuen Herrschers festigen.",
+        "checked_at": "2026-11-20T01:36:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-saintpetersburg-peter",
+    "fact_key": "saintpetersburg.peter",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher Zar gab 1703 den Anstoß zum Bau von Sankt Petersburg?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Peter der Große"
+      },
+      {
+        "id": "b",
+        "text": "Iwan der Schreckliche"
+      },
+      {
+        "id": "c",
+        "text": "Nikolaus II."
+      },
+      {
+        "id": "d",
+        "text": "Paul I."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Unter Peter dem Großen begann der Aufbau einer neuen Stadt mit Kanälen und Brücken.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Historic Centre of Saint Petersburg and Related Groups of Monuments",
+        "url": "https://whc.unesco.org/en/list/540/",
+        "verified_claim": "Unter Peter dem Großen begann der Aufbau einer neuen Stadt mit Kanälen und Brücken.",
+        "checked_at": "2026-11-20T01:36:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-wieliczka-resource",
+    "fact_key": "wieliczka.resource",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher Rohstoff wurde in den polnischen Bergwerken Wieliczka und Bochnia gewonnen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Steinsalz"
+      },
+      {
+        "id": "b",
+        "text": "Bernstein"
+      },
+      {
+        "id": "c",
+        "text": "Marmor"
+      },
+      {
+        "id": "d",
+        "text": "Kupfer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In diesen königlichen Bergwerken wurde seit dem Mittelalter Steinsalz abgebaut.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Wieliczka and Bochnia Royal Salt Mines",
+        "url": "https://whc.unesco.org/en/list/32/",
+        "verified_claim": "In diesen königlichen Bergwerken wurde seit dem Mittelalter Steinsalz abgebaut.",
+        "checked_at": "2026-11-20T01:36:38+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-robben-island",
+    "fact_key": "robben.island",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Rolle spielte Robben Island in der südafrikanischen Apartheidzeit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es war ein Gefängnis für politische Gefangene."
+      },
+      {
+        "id": "b",
+        "text": "Es war die erste Universität des Landes."
+      },
+      {
+        "id": "c",
+        "text": "Es war ein internationales Gerichtsgebäude."
+      },
+      {
+        "id": "d",
+        "text": "Es war der Sitz des Parlaments."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das ehemalige Hochsicherheitsgefängnis auf der Insel erinnert an die Unterdrückung politischer Gegner.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Robben Island",
+        "url": "https://whc.unesco.org/en/list/916/",
+        "verified_claim": "Das ehemalige Hochsicherheitsgefängnis auf der Insel erinnert an die Unterdrückung politischer Gegner.",
+        "checked_at": "2026-11-20T01:36:43+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-taung-fossil",
+    "fact_key": "taung.fossil",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Was wurde 1924 bei Taung im südlichen Afrika entdeckt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Schädel eines frühen Menschenverwandten"
+      },
+      {
+        "id": "b",
+        "text": "Ein Schiff aus der Bronzezeit"
+      },
+      {
+        "id": "c",
+        "text": "Eine römische Schreibtafel"
+      },
+      {
+        "id": "d",
+        "text": "Die Grabkammer eines Pharaos"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Fund wird der Art Australopithecus africanus zugeordnet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Fossil Hominid Sites of South Africa",
+        "url": "https://whc.unesco.org/en/list/915/",
+        "verified_claim": "Der Fund wird der Art Australopithecus africanus zugeordnet.",
+        "checked_at": "2026-11-20T01:36:42+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-gobekli-people",
+    "fact_key": "gobekli.people",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Wer errichtete die frühen monumentalen Anlagen von Göbekli Tepe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jäger und Sammler der Jungsteinzeit"
+      },
+      {
+        "id": "b",
+        "text": "Römische Legionäre"
+      },
+      {
+        "id": "c",
+        "text": "Persische Satrapen"
+      },
+      {
+        "id": "d",
+        "text": "Mittelalterliche Pilger"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Steinbauten in Südostanatolien entstanden bereits in der vorkeramischen Jungsteinzeit.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Göbekli Tepe",
+        "url": "https://whc.unesco.org/en/list/1572/",
+        "verified_claim": "Die Steinbauten in Südostanatolien entstanden bereits in der vorkeramischen Jungsteinzeit.",
+        "checked_at": "2026-11-20T01:36:35+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-catalhoyuk-era",
+    "fact_key": "catalhoyuk.era",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "In welche Epoche gehört die frühe Siedlung Çatalhöyük in Anatolien?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In die Jungsteinzeit"
+      },
+      {
+        "id": "b",
+        "text": "In die Eisenzeit"
+      },
+      {
+        "id": "c",
+        "text": "In die Spätantike"
+      },
+      {
+        "id": "d",
+        "text": "In die Völkerwanderungszeit"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der östliche Siedlungshügel umfasst 18 jungsteinzeitliche Besiedlungsschichten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Neolithic Site of Çatalhöyük",
+        "url": "https://whc.unesco.org/en/list/1405/",
+        "verified_claim": "Der östliche Siedlungshügel umfasst 18 jungsteinzeitliche Besiedlungsschichten.",
+        "checked_at": "2026-11-20T01:36:35+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-normandy-montsaintmichel",
+    "fact_key": "normandy.montsaintmichel",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welches Bauwerk krönt den Mont-Saint-Michel in der Normandie?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Benediktinerabtei"
+      },
+      {
+        "id": "b",
+        "text": "Ein römisches Amphitheater"
+      },
+      {
+        "id": "c",
+        "text": "Ein Renaissance-Rathaus"
+      },
+      {
+        "id": "d",
+        "text": "Eine königliche Sternwarte"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Abtei auf der Felseninsel ist dem Erzengel Michael gewidmet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Mont-Saint-Michel and its Bay",
+        "url": "https://whc.unesco.org/en/list/80/",
+        "verified_claim": "Die Abtei auf der Felseninsel ist dem Erzengel Michael gewidmet.",
+        "checked_at": "2026-11-20T01:36:41+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-midi-waterway",
+    "fact_key": "midi.waterway",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welche beiden Meeresräume verband das Wasserstraßennetz des Canal du Midi?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mittelmeer und Atlantik"
+      },
+      {
+        "id": "b",
+        "text": "Nordsee und Ostsee"
+      },
+      {
+        "id": "c",
+        "text": "Schwarzes Meer und Kaspisches Meer"
+      },
+      {
+        "id": "d",
+        "text": "Adria und Ägäis"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Bau des Kanals im 17. Jahrhundert erforderte Schleusen, Brücken und Tunnel.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Canal du Midi",
+        "url": "https://whc.unesco.org/en/list/770/",
+        "verified_claim": "Der Bau des Kanals im 17. Jahrhundert erforderte Schleusen, Brücken und Tunnel.",
+        "checked_at": "2026-11-20T01:36:41+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-havana-founders",
+    "fact_key": "havana.founders",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche europäische Macht gründete Havanna 1519 als Kolonialstadt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spanien"
+      },
+      {
+        "id": "b",
+        "text": "Portugal"
+      },
+      {
+        "id": "c",
+        "text": "Frankreich"
+      },
+      {
+        "id": "d",
+        "text": "England"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Havanna entwickelte sich später zu einem bedeutenden Zentrum des karibischen Schiffbaus.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Old Havana and its Fortification System",
+        "url": "https://whc.unesco.org/en/list/204/",
+        "verified_claim": "Havanna entwickelte sich später zu einem bedeutenden Zentrum des karibischen Schiffbaus.",
+        "checked_at": "2026-11-20T01:36:36+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-goree-memory",
+    "fact_key": "goree.memory",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Woran erinnert die historische Insel Gorée vor Dakar besonders?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An den transatlantischen Sklavenhandel"
+      },
+      {
+        "id": "b",
+        "text": "An die Entzifferung der Hieroglyphen"
+      },
+      {
+        "id": "c",
+        "text": "An den Bau des Suezkanals"
+      },
+      {
+        "id": "d",
+        "text": "An die Erfindung des Buchdrucks"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Insel war über Jahrhunderte ein Ort des Menschenhandels an der westafrikanischen Küste.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Island of Gorée",
+        "url": "https://whc.unesco.org/en/list/26/",
+        "verified_claim": "Die Insel war über Jahrhunderte ein Ort des Menschenhandels an der westafrikanischen Küste.",
+        "checked_at": "2026-11-20T01:36:37+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-grandbassam-capital",
+    "fact_key": "grandbassam.capital",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "In welchem heutigen Land lag die frühere Hauptstadt Grand-Bassam?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In der Elfenbeinküste"
+      },
+      {
+        "id": "b",
+        "text": "In Ghana"
+      },
+      {
+        "id": "c",
+        "text": "In Senegal"
+      },
+      {
+        "id": "d",
+        "text": "In Kamerun"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die historische Stadt war als Verwaltungssitz und Handelsort geplant.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Historic Town of Grand-Bassam",
+        "url": "https://whc.unesco.org/en/list/1322/",
+        "verified_claim": "Die historische Stadt war als Verwaltungssitz und Handelsort geplant.",
+        "checked_at": "2026-11-20T01:36:35+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-ajanta-religion",
+    "fact_key": "ajanta.religion",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Zu welcher religiösen Tradition gehören die Höhlenmonumente von Ajanta in Indien?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zum Buddhismus"
+      },
+      {
+        "id": "b",
+        "text": "Zum Shintoismus"
+      },
+      {
+        "id": "c",
+        "text": "Zum Judentum"
+      },
+      {
+        "id": "d",
+        "text": "Zum Zoroastrismus"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bereits vor unserer Zeitrechnung entstanden in Ajanta buddhistische Höhlenbauten. Später kamen weitere bemalte Höhlen hinzu.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Ajanta Caves",
+        "url": "https://whc.unesco.org/en/list/242/",
+        "verified_claim": "Bereits vor unserer Zeitrechnung entstanden in Ajanta buddhistische Höhlenbauten. Später kamen weitere bemalte Höhlen hinzu.",
+        "checked_at": "2026-11-20T01:36:37+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-cairo-century",
+    "fact_key": "cairo.century",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "In welchem Jahrhundert wurde das historische islamische Kairo gegründet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Im 10. Jahrhundert"
+      },
+      {
+        "id": "b",
+        "text": "Im 3. Jahrhundert"
+      },
+      {
+        "id": "c",
+        "text": "Im 15. Jahrhundert"
+      },
+      {
+        "id": "d",
+        "text": "Im 18. Jahrhundert"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Stadt entwickelte sich zu einem bedeutenden islamischen Zentrum mit Moscheen, Schulen und Badehäusern.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Historic Cairo",
+        "url": "https://whc.unesco.org/en/list/89/",
+        "verified_claim": "Die Stadt entwickelte sich zu einem bedeutenden islamischen Zentrum mit Moscheen, Schulen und Badehäusern.",
+        "checked_at": "2026-11-20T01:36:43+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-reims-royal",
+    "fact_key": "reims.royal",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Zeremonie verband die Kathedrale von Reims über Jahrhunderte mit der französischen Monarchie?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Königskrönung"
+      },
+      {
+        "id": "b",
+        "text": "Die Wahl des Papstes"
+      },
+      {
+        "id": "c",
+        "text": "Die Verleihung des Bürgerrechts"
+      },
+      {
+        "id": "d",
+        "text": "Die Wahl der Dogen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Bauwerke von Reims sind eng mit den Krönungen französischer Könige verbunden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Cathedral of Notre-Dame, Former Abbey of Saint-Rémi and Palace of Tau, Reims",
+        "url": "https://whc.unesco.org/en/list/601/",
+        "verified_claim": "Die Bauwerke von Reims sind eng mit den Krönungen französischer Könige verbunden.",
+        "checked_at": "2026-11-20T01:36:40+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-santiago-pilgrims",
+    "fact_key": "santiago.pilgrims",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Was machte Santiago de Compostela im Mittelalter weithin bekannt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es war ein bedeutendes Pilgerziel."
+      },
+      {
+        "id": "b",
+        "text": "Es war eine Hansestadt."
+      },
+      {
+        "id": "c",
+        "text": "Es war eine römische Flottenbasis."
+      },
+      {
+        "id": "d",
+        "text": "Es war der Sitz des Deutschen Ordens."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Gläubige aus vielen Teilen Europas zogen zum Heiligtum im Nordwesten Spaniens.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Santiago de Compostela (Old Town)",
+        "url": "https://whc.unesco.org/en/list/347/",
+        "verified_claim": "Gläubige aus vielen Teilen Europas zogen zum Heiligtum im Nordwesten Spaniens.",
+        "checked_at": "2026-11-20T01:36:38+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-teotihuacan-pyramids",
+    "fact_key": "teotihuacan.pyramids",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Bauwerke prägen die alte Stadt Teotihuacán in Mexiko?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sonnen- und Mondpyramide"
+      },
+      {
+        "id": "b",
+        "text": "Kolosseum und Pantheon"
+      },
+      {
+        "id": "c",
+        "text": "Ischtar-Tor und Prozessionsstraße"
+      },
+      {
+        "id": "d",
+        "text": "Schatzhaus und Felsengräber"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die großen Pyramiden von Teotihuacán sind Teil der weitläufigen antiken Stadtanlage.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Pre-Hispanic City of Teotihuacan",
+        "url": "https://whc.unesco.org/en/list/414/",
+        "verified_claim": "Die großen Pyramiden von Teotihuacán sind Teil der weitläufigen antiken Stadtanlage.",
+        "checked_at": "2026-11-20T01:36:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-viking-ringfort-form",
+    "fact_key": "viking.ringfort.form",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welche Grundform hatten die dänischen Wikingerfestungen von Trelleborg und Fyrkat?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ringförmig"
+      },
+      {
+        "id": "b",
+        "text": "Sternförmig"
+      },
+      {
+        "id": "c",
+        "text": "Dreieckig"
+      },
+      {
+        "id": "d",
+        "text": "Halbmondförmig"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Ringfestungen entstanden im 10. Jahrhundert an strategisch wichtigen Land- und Seewegen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Viking-Age Ring Fortresses",
+        "url": "https://whc.unesco.org/en/list/1660/",
+        "verified_claim": "Die Ringfestungen entstanden im 10. Jahrhundert an strategisch wichtigen Land- und Seewegen.",
+        "checked_at": "2026-11-20T01:36:36+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-kush-meroe",
+    "fact_key": "kush.meroe",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Zu welchem antiken Reich gehörte das Zentrum Meroe im heutigen Sudan?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zum Reich von Kusch"
+      },
+      {
+        "id": "b",
+        "text": "Zum Reich von Aksum"
+      },
+      {
+        "id": "c",
+        "text": "Zum Reich von Mali"
+      },
+      {
+        "id": "d",
+        "text": "Zum Reich von Ghana"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Meroe lag im Kerngebiet des Reichs von Kusch. Zur Stätte gehören die Königsstadt und weitere Anlagen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Archaeological Sites of the Island of Meroe",
+        "url": "https://whc.unesco.org/en/list/1336/",
+        "verified_claim": "Meroe lag im Kerngebiet des Reichs von Kusch. Zur Stätte gehören die Königsstadt und weitere Anlagen.",
+        "checked_at": "2026-11-20T01:36:35+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-silkroad-connections",
+    "fact_key": "silkroad.connections",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welchen Zweck erfüllte das Netz der historischen Seidenstraßen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es verband Handels- und Kulturzentren über weite Teile Asiens."
+      },
+      {
+        "id": "b",
+        "text": "Es begrenzte das Römische Reich am Rhein."
+      },
+      {
+        "id": "c",
+        "text": "Es verband ausschließlich Mittelmeerinseln."
+      },
+      {
+        "id": "d",
+        "text": "Es diente allein dem Transport auf Flüssen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein von der UNESCO erfasster Abschnitt führt von den alten chinesischen Hauptstädten bis nach Zentralasien.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Silk Roads: the Routes Network of Chang'an-Tianshan Corridor",
+        "url": "https://whc.unesco.org/en/list/1442/",
+        "verified_claim": "Ein von der UNESCO erfasster Abschnitt führt von den alten chinesischen Hauptstädten bis nach Zentralasien.",
+        "checked_at": "2026-11-20T01:36:35+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:35+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:46+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:46+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

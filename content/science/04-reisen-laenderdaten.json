@@ -1,0 +1,2594 @@
+[
+  {
+    "id": "qs-mg-weltregion",
+    "fact_key": "mg-weltregion",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welchem Erdteil gehört Madagaskar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Afrika"
+      },
+      {
+        "id": "b",
+        "text": "Asien"
+      },
+      {
+        "id": "c",
+        "text": "Südamerika"
+      },
+      {
+        "id": "d",
+        "text": "Europa"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Madagaskar wird geografisch Afrika zugeordnet. Die Hauptstadt heißt Antananarivo.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Madagaskar wird geografisch Afrika zugeordnet. Die Hauptstadt heißt Antananarivo.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:36:18.798Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.692Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.692Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-jp-weltregion",
+    "fact_key": "jp-weltregion",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welchem Erdteil gehört Japan?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Asien"
+      },
+      {
+        "id": "b",
+        "text": "Afrika"
+      },
+      {
+        "id": "c",
+        "text": "Ozeanien"
+      },
+      {
+        "id": "d",
+        "text": "Nordamerika"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Japan wird geografisch Asien zugeordnet. Die Hauptstadt heißt Tokio.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Japan wird geografisch Asien zugeordnet. Die Hauptstadt heißt Tokio.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:36:18.798Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.692Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.692Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-pe-weltregion",
+    "fact_key": "pe-weltregion",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welchem Erdteil gehört Peru?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Südamerika"
+      },
+      {
+        "id": "b",
+        "text": "Nordamerika"
+      },
+      {
+        "id": "c",
+        "text": "Afrika"
+      },
+      {
+        "id": "d",
+        "text": "Asien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Peru wird geografisch Südamerika zugeordnet. Die Hauptstadt heißt Lima.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Peru wird geografisch Südamerika zugeordnet. Die Hauptstadt heißt Lima.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:36:18.798Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.692Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.692Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-is-weltregion",
+    "fact_key": "is-weltregion",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welchem Erdteil gehört Island?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Europa"
+      },
+      {
+        "id": "b",
+        "text": "Asien"
+      },
+      {
+        "id": "c",
+        "text": "Afrika"
+      },
+      {
+        "id": "d",
+        "text": "Ozeanien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Island wird geografisch Europa zugeordnet. Die Hauptstadt heißt Reykjavík.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Island wird geografisch Europa zugeordnet. Die Hauptstadt heißt Reykjavík.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:36:18.798Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.692Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.692Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ke-weltregion",
+    "fact_key": "ke-weltregion",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welchem Erdteil gehört Kenia?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Afrika"
+      },
+      {
+        "id": "b",
+        "text": "Südamerika"
+      },
+      {
+        "id": "c",
+        "text": "Ozeanien"
+      },
+      {
+        "id": "d",
+        "text": "Asien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kenia wird geografisch Afrika zugeordnet. Die Hauptstadt heißt Nairobi.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Kenia wird geografisch Afrika zugeordnet. Die Hauptstadt heißt Nairobi.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:36:18.799Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.692Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.692Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-nz-weltregion",
+    "fact_key": "nz-weltregion",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welchem Erdteil gehört Neuseeland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ozeanien"
+      },
+      {
+        "id": "b",
+        "text": "Afrika"
+      },
+      {
+        "id": "c",
+        "text": "Südamerika"
+      },
+      {
+        "id": "d",
+        "text": "Europa"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Neuseeland wird geografisch Ozeanien zugeordnet. Die Hauptstadt heißt Wellington.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Neuseeland wird geografisch Ozeanien zugeordnet. Die Hauptstadt heißt Wellington.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:36:18.799Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.692Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.692Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ca-weltregion",
+    "fact_key": "ca-weltregion",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welchem Erdteil gehört Kanada?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nordamerika"
+      },
+      {
+        "id": "b",
+        "text": "Südamerika"
+      },
+      {
+        "id": "c",
+        "text": "Europa"
+      },
+      {
+        "id": "d",
+        "text": "Asien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kanada wird geografisch Nordamerika zugeordnet. Die Hauptstadt heißt Ottawa.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Kanada wird geografisch Nordamerika zugeordnet. Die Hauptstadt heißt Ottawa.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:36:18.799Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.692Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.692Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-vn-weltregion",
+    "fact_key": "vn-weltregion",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welchem Erdteil gehört Vietnam?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Asien"
+      },
+      {
+        "id": "b",
+        "text": "Afrika"
+      },
+      {
+        "id": "c",
+        "text": "Ozeanien"
+      },
+      {
+        "id": "d",
+        "text": "Südamerika"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Vietnam wird geografisch Asien zugeordnet. Die Hauptstadt heißt Hanoi.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Vietnam wird geografisch Asien zugeordnet. Die Hauptstadt heißt Hanoi.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:36:18.799Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.692Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.692Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-cl-weltregion",
+    "fact_key": "cl-weltregion",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welchem Erdteil gehört Chile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Südamerika"
+      },
+      {
+        "id": "b",
+        "text": "Asien"
+      },
+      {
+        "id": "c",
+        "text": "Nordamerika"
+      },
+      {
+        "id": "d",
+        "text": "Afrika"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Chile wird geografisch Südamerika zugeordnet. Die Hauptstadt heißt Santiago de Chile.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Chile wird geografisch Südamerika zugeordnet. Die Hauptstadt heißt Santiago de Chile.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:36:18.799Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.692Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.692Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-lt-weltregion",
+    "fact_key": "lt-weltregion",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welchem Erdteil gehört Litauen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Europa"
+      },
+      {
+        "id": "b",
+        "text": "Asien"
+      },
+      {
+        "id": "c",
+        "text": "Nordamerika"
+      },
+      {
+        "id": "d",
+        "text": "Afrika"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Litauen wird geografisch Europa zugeordnet. Die Hauptstadt heißt Vilnius.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Litauen wird geografisch Europa zugeordnet. Die Hauptstadt heißt Vilnius.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:36:18.799Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.692Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.692Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-fj-weltregion",
+    "fact_key": "fj-weltregion",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Zu welchem Erdteil gehört Fidschi?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ozeanien"
+      },
+      {
+        "id": "b",
+        "text": "Afrika"
+      },
+      {
+        "id": "c",
+        "text": "Asien"
+      },
+      {
+        "id": "d",
+        "text": "Südamerika"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Fidschi wird geografisch Ozeanien zugeordnet. Die Hauptstadt heißt Suva.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Fidschi wird geografisch Ozeanien zugeordnet. Die Hauptstadt heißt Suva.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:36:18.799Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.692Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.692Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gh-weltregion",
+    "fact_key": "gh-weltregion",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Zu welchem Erdteil gehört Ghana?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Afrika"
+      },
+      {
+        "id": "b",
+        "text": "Ozeanien"
+      },
+      {
+        "id": "c",
+        "text": "Südamerika"
+      },
+      {
+        "id": "d",
+        "text": "Asien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ghana wird geografisch Afrika zugeordnet. Die Hauptstadt heißt Accra.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Ghana wird geografisch Afrika zugeordnet. Die Hauptstadt heißt Accra.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:36:18.799Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:38:55.692Z"
+      },
+      "approved_at": "2026-11-20T01:38:55.692Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-de-telefonvorwahl",
+    "fact_key": "de-telefonvorwahl",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welchem Land gehört die internationale Telefonvorwahl +49 (Stand November 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deutschland"
+      },
+      {
+        "id": "b",
+        "text": "Schweiz"
+      },
+      {
+        "id": "c",
+        "text": "Österreich"
+      },
+      {
+        "id": "d",
+        "text": "Belgien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit +49 erreicht man Nummern in Deutschland. Für Österreich gilt zum Vergleich +43.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Mit +49 erreicht man Nummern in Deutschland. Für Österreich gilt zum Vergleich +43.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-at-telefonvorwahl",
+    "fact_key": "at-telefonvorwahl",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welchem Land gehört die internationale Telefonvorwahl +43 (Stand November 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Österreich"
+      },
+      {
+        "id": "b",
+        "text": "Ungarn"
+      },
+      {
+        "id": "c",
+        "text": "Polen"
+      },
+      {
+        "id": "d",
+        "text": "Frankreich"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit +43 erreicht man Nummern in Österreich. Für die Schweiz gilt zum Vergleich +41.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Mit +43 erreicht man Nummern in Österreich. Für die Schweiz gilt zum Vergleich +41.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ch-telefonvorwahl",
+    "fact_key": "ch-telefonvorwahl",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welchem Land gehört die internationale Telefonvorwahl +41 (Stand November 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schweiz"
+      },
+      {
+        "id": "b",
+        "text": "Dänemark"
+      },
+      {
+        "id": "c",
+        "text": "Portugal"
+      },
+      {
+        "id": "d",
+        "text": "Italien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit +41 erreicht man Nummern in der Schweiz. Für Italien gilt zum Vergleich +39.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Mit +41 erreicht man Nummern in der Schweiz. Für Italien gilt zum Vergleich +39.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-fr-telefonvorwahl",
+    "fact_key": "fr-telefonvorwahl",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welchem Land gehört die internationale Telefonvorwahl +33 (Stand November 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Frankreich"
+      },
+      {
+        "id": "b",
+        "text": "Niederlande"
+      },
+      {
+        "id": "c",
+        "text": "Polen"
+      },
+      {
+        "id": "d",
+        "text": "Spanien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit +33 erreicht man Nummern in Frankreich. Für Belgien gilt zum Vergleich +32.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Mit +33 erreicht man Nummern in Frankreich. Für Belgien gilt zum Vergleich +32.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gb-telefonvorwahl",
+    "fact_key": "gb-telefonvorwahl",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welchem Land gehört die internationale Telefonvorwahl +44 (Stand November 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vereinigtes Königreich"
+      },
+      {
+        "id": "b",
+        "text": "Kanada"
+      },
+      {
+        "id": "c",
+        "text": "Irland"
+      },
+      {
+        "id": "d",
+        "text": "USA"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit +44 erreicht man Nummern im Vereinigten Königreich. Für Irland gilt zum Vergleich +353.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Mit +44 erreicht man Nummern im Vereinigten Königreich. Für Irland gilt zum Vergleich +353.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-it-telefonvorwahl",
+    "fact_key": "it-telefonvorwahl",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welchem Land gehört die internationale Telefonvorwahl +39 (Stand November 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Italien"
+      },
+      {
+        "id": "b",
+        "text": "Deutschland"
+      },
+      {
+        "id": "c",
+        "text": "Belgien"
+      },
+      {
+        "id": "d",
+        "text": "Schweiz"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit +39 erreicht man Nummern in Italien. Für Frankreich gilt zum Vergleich +33.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Mit +39 erreicht man Nummern in Italien. Für Frankreich gilt zum Vergleich +33.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-es-telefonvorwahl",
+    "fact_key": "es-telefonvorwahl",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Zu welchem Land gehört die internationale Telefonvorwahl +34 (Stand November 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spanien"
+      },
+      {
+        "id": "b",
+        "text": "Mexiko"
+      },
+      {
+        "id": "c",
+        "text": "Argentinien"
+      },
+      {
+        "id": "d",
+        "text": "Peru"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit +34 erreicht man Nummern in Spanien. Für Portugal gilt zum Vergleich +351.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Mit +34 erreicht man Nummern in Spanien. Für Portugal gilt zum Vergleich +351.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-jp-telefonvorwahl",
+    "fact_key": "jp-telefonvorwahl",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Zu welchem Land gehört die internationale Telefonvorwahl +81 (Stand November 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Japan"
+      },
+      {
+        "id": "b",
+        "text": "Südkorea"
+      },
+      {
+        "id": "c",
+        "text": "China"
+      },
+      {
+        "id": "d",
+        "text": "Vietnam"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit +81 erreicht man Nummern in Japan. Für Südkorea gilt zum Vergleich +82.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Mit +81 erreicht man Nummern in Japan. Für Südkorea gilt zum Vergleich +82.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-de-laenderdomain",
+    "fact_key": "de-laenderdomain",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welchem Land ist die Internet-Länderendung .de zugeteilt (Stand November 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Deutschland"
+      },
+      {
+        "id": "b",
+        "text": "Dänemark"
+      },
+      {
+        "id": "c",
+        "text": "Estland"
+      },
+      {
+        "id": "d",
+        "text": "Algerien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Endung .de kennzeichnet die länderspezifische Domain für Deutschland. Beim Nachbarland Österreich lautet die Endung .at.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Die Endung .de kennzeichnet die länderspezifische Domain für Deutschland. Beim Nachbarland Österreich lautet die Endung .at.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-at-laenderdomain",
+    "fact_key": "at-laenderdomain",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welchem Land ist die Internet-Länderendung .at zugeteilt (Stand November 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Österreich"
+      },
+      {
+        "id": "b",
+        "text": "Australien"
+      },
+      {
+        "id": "c",
+        "text": "Argentinien"
+      },
+      {
+        "id": "d",
+        "text": "Italien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Endung .at kennzeichnet die länderspezifische Domain für Österreich. Beim Nachbarland Italien lautet die Endung .it.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Die Endung .at kennzeichnet die länderspezifische Domain für Österreich. Beim Nachbarland Italien lautet die Endung .it.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ch-laenderdomain",
+    "fact_key": "ch-laenderdomain",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welchem Land ist die Internet-Länderendung .ch zugeteilt (Stand November 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schweiz"
+      },
+      {
+        "id": "b",
+        "text": "Chile"
+      },
+      {
+        "id": "c",
+        "text": "China"
+      },
+      {
+        "id": "d",
+        "text": "Kroatien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Endung .ch kennzeichnet die länderspezifische Domain für die Schweiz. Beim Nachbarland Frankreich lautet die Endung .fr.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Die Endung .ch kennzeichnet die länderspezifische Domain für die Schweiz. Beim Nachbarland Frankreich lautet die Endung .fr.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-it-laenderdomain",
+    "fact_key": "it-laenderdomain",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welchem Land ist die Internet-Länderendung .it zugeteilt (Stand November 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Italien"
+      },
+      {
+        "id": "b",
+        "text": "Irland"
+      },
+      {
+        "id": "c",
+        "text": "Island"
+      },
+      {
+        "id": "d",
+        "text": "Malta"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Endung .it kennzeichnet die länderspezifische Domain für Italien. Beim Nachbarland Slowenien lautet die Endung .si.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Die Endung .it kennzeichnet die länderspezifische Domain für Italien. Beim Nachbarland Slowenien lautet die Endung .si.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-nl-laenderdomain",
+    "fact_key": "nl-laenderdomain",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welchem Land ist die Internet-Länderendung .nl zugeteilt (Stand November 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Niederlande"
+      },
+      {
+        "id": "b",
+        "text": "Neuseeland"
+      },
+      {
+        "id": "c",
+        "text": "Norwegen"
+      },
+      {
+        "id": "d",
+        "text": "Nepal"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Endung .nl kennzeichnet die länderspezifische Domain für die Niederlande. Beim Nachbarland Belgien lautet die Endung .be.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Die Endung .nl kennzeichnet die länderspezifische Domain für die Niederlande. Beim Nachbarland Belgien lautet die Endung .be.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-fr-laenderdomain",
+    "fact_key": "fr-laenderdomain",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welchem Land ist die Internet-Länderendung .fr zugeteilt (Stand November 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Frankreich"
+      },
+      {
+        "id": "b",
+        "text": "Finnland"
+      },
+      {
+        "id": "c",
+        "text": "Fidschi"
+      },
+      {
+        "id": "d",
+        "text": "Mikronesien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Endung .fr kennzeichnet die länderspezifische Domain für Frankreich. Beim Nachbarland Spanien lautet die Endung .es.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Die Endung .fr kennzeichnet die länderspezifische Domain für Frankreich. Beim Nachbarland Spanien lautet die Endung .es.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ie-laenderdomain",
+    "fact_key": "ie-laenderdomain",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welchem Land ist die Internet-Länderendung .ie zugeteilt (Stand November 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Irland"
+      },
+      {
+        "id": "b",
+        "text": "Island"
+      },
+      {
+        "id": "c",
+        "text": "Italien"
+      },
+      {
+        "id": "d",
+        "text": "Israel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Endung .ie kennzeichnet die länderspezifische Domain für Irland. Das benachbarte Vereinigte Königreich hat die Endung .uk.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Die Endung .ie kennzeichnet die länderspezifische Domain für Irland. Das benachbarte Vereinigte Königreich hat die Endung .uk.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gb-laenderdomain",
+    "fact_key": "gb-laenderdomain",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welchem Land ist die Internet-Länderendung .uk zugeteilt (Stand November 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vereinigtes Königreich"
+      },
+      {
+        "id": "b",
+        "text": "Ukraine"
+      },
+      {
+        "id": "c",
+        "text": "USA"
+      },
+      {
+        "id": "d",
+        "text": "Dänemark"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Endung .uk kennzeichnet die länderspezifische Domain für das Vereinigte Königreich. Beim Nachbarland Irland lautet die Endung .ie.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": "2028-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Die Endung .uk kennzeichnet die länderspezifische Domain für das Vereinigte Königreich. Beim Nachbarland Irland lautet die Endung .ie.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.258Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-br-flaechenvergleich-fr-es-in",
+    "fact_key": "br-flaechenvergleich-fr-es-in",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welches dieser Länder hat mit rund 8.512.000 Quadratkilometern die größte Fläche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Brasilien"
+      },
+      {
+        "id": "b",
+        "text": "Frankreich"
+      },
+      {
+        "id": "c",
+        "text": "Spanien"
+      },
+      {
+        "id": "d",
+        "text": "Indien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Brasilien hat eine Fläche von rund 8.512.000 Quadratkilometern. Unter den Antwortmöglichkeiten folgt Indien mit rund 3.288.000 Quadratkilometern.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Brasilien hat eine Fläche von rund 8.512.000 Quadratkilometern. Unter den Antwortmöglichkeiten folgt Indien mit rund 3.288.000 Quadratkilometern.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.259Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-au-flaechenvergleich-be-ch-pl",
+    "fact_key": "au-flaechenvergleich-be-ch-pl",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welches dieser Länder hat mit rund 7.687.000 Quadratkilometern die größte Fläche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Australien"
+      },
+      {
+        "id": "b",
+        "text": "Belgien"
+      },
+      {
+        "id": "c",
+        "text": "Schweiz"
+      },
+      {
+        "id": "d",
+        "text": "Polen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Australien hat eine Fläche von rund 7.687.000 Quadratkilometern. Unter den Antwortmöglichkeiten folgt Polen mit rund 313.000 Quadratkilometern.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Australien hat eine Fläche von rund 7.687.000 Quadratkilometern. Unter den Antwortmöglichkeiten folgt Polen mit rund 313.000 Quadratkilometern.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.259Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ca-flaechenvergleich-it-no-th",
+    "fact_key": "ca-flaechenvergleich-it-no-th",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welches dieser Länder hat mit rund 9.985.000 Quadratkilometern die größte Fläche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kanada"
+      },
+      {
+        "id": "b",
+        "text": "Italien"
+      },
+      {
+        "id": "c",
+        "text": "Norwegen"
+      },
+      {
+        "id": "d",
+        "text": "Thailand"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kanada hat eine Fläche von rund 9.985.000 Quadratkilometern. Unter den Antwortmöglichkeiten folgt Thailand mit rund 514.000 Quadratkilometern.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Kanada hat eine Fläche von rund 9.985.000 Quadratkilometern. Unter den Antwortmöglichkeiten folgt Thailand mit rund 514.000 Quadratkilometern.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.259Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-cn-flaechenvergleich-jp-vn-kr",
+    "fact_key": "cn-flaechenvergleich-jp-vn-kr",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welches dieser Länder hat mit rund 9.597.000 Quadratkilometern die größte Fläche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "China"
+      },
+      {
+        "id": "b",
+        "text": "Japan"
+      },
+      {
+        "id": "c",
+        "text": "Vietnam"
+      },
+      {
+        "id": "d",
+        "text": "Südkorea"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "China hat eine Fläche von rund 9.597.000 Quadratkilometern. Unter den Antwortmöglichkeiten folgt Japan mit rund 378.000 Quadratkilometern.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "China hat eine Fläche von rund 9.597.000 Quadratkilometern. Unter den Antwortmöglichkeiten folgt Japan mit rund 378.000 Quadratkilometern.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.259Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ar-flaechenvergleich-uy-pt-dk",
+    "fact_key": "ar-flaechenvergleich-uy-pt-dk",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welches dieser Länder hat mit rund 2.767.000 Quadratkilometern die größte Fläche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Argentinien"
+      },
+      {
+        "id": "b",
+        "text": "Uruguay"
+      },
+      {
+        "id": "c",
+        "text": "Portugal"
+      },
+      {
+        "id": "d",
+        "text": "Dänemark"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Argentinien hat eine Fläche von rund 2.767.000 Quadratkilometern. Unter den Antwortmöglichkeiten folgt Uruguay mit rund 176.000 Quadratkilometern.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Argentinien hat eine Fläche von rund 2.767.000 Quadratkilometern. Unter den Antwortmöglichkeiten folgt Uruguay mit rund 176.000 Quadratkilometern.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.259Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-se-flaechenvergleich-de-it-pl",
+    "fact_key": "se-flaechenvergleich-de-it-pl",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welches dieser Länder hat mit rund 450.000 Quadratkilometern die größte Fläche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schweden"
+      },
+      {
+        "id": "b",
+        "text": "Deutschland"
+      },
+      {
+        "id": "c",
+        "text": "Italien"
+      },
+      {
+        "id": "d",
+        "text": "Polen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Schweden hat eine Fläche von rund 450.000 Quadratkilometern. Unter den Antwortmöglichkeiten folgt Deutschland mit rund 357.000 Quadratkilometern.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Schweden hat eine Fläche von rund 450.000 Quadratkilometern. Unter den Antwortmöglichkeiten folgt Deutschland mit rund 357.000 Quadratkilometern.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.259Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-mx-flaechenvergleich-co-pe-ve",
+    "fact_key": "mx-flaechenvergleich-co-pe-ve",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welches dieser Länder hat mit rund 1.973.000 Quadratkilometern die größte Fläche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mexiko"
+      },
+      {
+        "id": "b",
+        "text": "Kolumbien"
+      },
+      {
+        "id": "c",
+        "text": "Peru"
+      },
+      {
+        "id": "d",
+        "text": "Venezuela"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mexiko hat eine Fläche von rund 1.973.000 Quadratkilometern. Unter den Antwortmöglichkeiten folgt Peru mit rund 1.285.000 Quadratkilometern.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Mexiko hat eine Fläche von rund 1.973.000 Quadratkilometern. Unter den Antwortmöglichkeiten folgt Peru mit rund 1.285.000 Quadratkilometern.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.259Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-dz-flaechenvergleich-cd-ly-td",
+    "fact_key": "dz-flaechenvergleich-cd-ly-td",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Welches dieser Länder hat mit rund 2.382.000 Quadratkilometern die größte Fläche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Algerien"
+      },
+      {
+        "id": "b",
+        "text": "Demokratische Republik Kongo"
+      },
+      {
+        "id": "c",
+        "text": "Libyen"
+      },
+      {
+        "id": "d",
+        "text": "Tschad"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Algerien hat eine Fläche von rund 2.382.000 Quadratkilometern. Unter den Antwortmöglichkeiten folgt die Demokratische Republik Kongo mit rund 2.345.000 Quadratkilometern.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Algerien hat eine Fläche von rund 2.382.000 Quadratkilometern. Unter den Antwortmöglichkeiten folgt die Demokratische Republik Kongo mit rund 2.345.000 Quadratkilometern.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.259Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

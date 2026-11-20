@@ -1,0 +1,14 @@
+{
+  "device": "sdk_gphone64_x86_64",
+  "api": "34",
+  "pageSize": "4096",
+  "run": "2026-11-20T02:01:13.361Z",
+  "checks": [
+    "Nach Installation des fertigen APK über die Referenzfassung sind offene Runde, Antworten, Fortschritt, Buchungen und Installationskennung identisch",
+    "Die gespeicherte Erklärung blieb sichtbar. Weiter führt in derselben Kennenlernrunde zur zweiten Frage."
+  ],
+  "screenshots": [],
+  "catalogBefore": "de-706c8536b697",
+  "catalogAfter": "de-7363fcba52a1",
+  "ok": true
+}

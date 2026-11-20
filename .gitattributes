@@ -1,0 +1,11 @@
+* text=auto eol=lf
+*.bat text eol=crlf
+*.png binary
+*.webp binary
+*.ttf binary
+*.apk binary
+*.aab binary
+*.jar binary
+*.zip binary
+# Source evidence is checked against the publisher's byte-level checksum.
+content/science/pruefung/geonames-pays.txt binary

@@ -15,9 +15,11 @@ def words(s):
 
 def candidates(rows):
     groups = defaultdict(list)
+    prompts = []
     for q in rows:
         solution = next(o["text"] for o in q["options"] if o["id"] == q["correct_option_id"])
         groups[" ".join(words(solution))].append(q)
+        prompts.append((q, " " + " ".join(words(q["question"])) + " ", " " + " ".join(words(solution)) + " "))
     matches = []
     for solution, group in groups.items():
         for i, a in enumerate(group):
@@ -28,6 +30,13 @@ def candidates(rows):
                 if len(common) >= 2 and len(common) / max(1, min(len(aa), len(bb))) >= .34:
                     matches.append({"a": a["id"], "b": b["id"], "solution": solution,
                                     "questions": [a["question"], b["question"]], "overlap": sorted(common)})
+    for i, (a, a_text, a_solution) in enumerate(prompts):
+        for b, b_text, b_solution in prompts[:i]:
+            if a_solution == b_solution or min(len(a_solution.strip()), len(b_solution.strip())) < 3:
+                continue
+            if a_solution in b_text and b_solution in a_text:
+                matches.append({"a": a["id"], "b": b["id"], "solution": [a_solution.strip(), b_solution.strip()],
+                                "questions": [a["question"], b["question"]], "overlap": ["wechselseitiger Lösungsbezug"]})
     return matches
 
 

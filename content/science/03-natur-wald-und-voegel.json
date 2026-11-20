@@ -1,0 +1,1946 @@
+[
+  {
+    "id": "qs-weissstorch-nest",
+    "fact_key": "weissstorch-nest",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welcher große Vogel baut sein Nest in Deutschland oft oben auf Dächern, Kirchtürmen oder Masten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Weißstorch"
+      },
+      {
+        "id": "b",
+        "text": "Eisvogel"
+      },
+      {
+        "id": "c",
+        "text": "Kiebitz"
+      },
+      {
+        "id": "d",
+        "text": "Schleiereule"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Weißstörche tragen Zweige zu einem großen Nest zusammen. Sie brüten auf erhöhten Bauwerken und auch auf Bäumen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Weißstorch - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/weissstorch",
+        "verified_claim": "Weißstörche tragen Zweige zu einem großen Nest zusammen. Sie brüten auf erhöhten Bauwerken und auch auf Bäumen.",
+        "checked_at": "2026-11-20T01:24:21.917Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-rotkehlchen-gefieder",
+    "fact_key": "rotkehlchen-gefieder",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welches Merkmal fällt bei erwachsenen Rotkehlchen besonders auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Orangefarbene Brust und Kehle"
+      },
+      {
+        "id": "b",
+        "text": "Ein roter Schwanzfächer"
+      },
+      {
+        "id": "c",
+        "text": "Ein schwarz-weißer Schopf"
+      },
+      {
+        "id": "d",
+        "text": "Blaue Flügelspitzen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Brust und Kehle erwachsener Rotkehlchen leuchten orange. Junge Vögel tragen zunächst ein braun gesprenkeltes Brustgefieder.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Rotkehlchen - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/rotkehlchen",
+        "verified_claim": "Brust und Kehle erwachsener Rotkehlchen leuchten orange. Junge Vögel tragen zunächst ein braun gesprenkeltes Brustgefieder.",
+        "checked_at": "2026-11-20T01:24:21.917Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-rotkehlchen-weibchen-gesang",
+    "fact_key": "rotkehlchen-weibchen-gesang",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wer singt beim Rotkehlchen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Männchen und Weibchen"
+      },
+      {
+        "id": "b",
+        "text": "Nur die Männchen"
+      },
+      {
+        "id": "c",
+        "text": "Nur die Weibchen"
+      },
+      {
+        "id": "d",
+        "text": "Nur flügge Jungvögel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Auch weibliche Rotkehlchen singen. Ihr Gesang ist oft etwas leiser und kürzer als der der Männchen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Rotkehlchen - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/rotkehlchen",
+        "verified_claim": "Auch weibliche Rotkehlchen singen. Ihr Gesang ist oft etwas leiser und kürzer als der der Männchen.",
+        "checked_at": "2026-11-20T01:24:21.917Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-blaumeise-scheitel",
+    "fact_key": "blaumeise-scheitel",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Ein kleiner Gartenvogel hat einen blauen Scheitel und eine leuchtend gelbe Brust. Wer ist es?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Blaumeise"
+      },
+      {
+        "id": "b",
+        "text": "Kleiber"
+      },
+      {
+        "id": "c",
+        "text": "Amsel"
+      },
+      {
+        "id": "d",
+        "text": "Rotkehlchen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bei der Blaumeise sind außer dem Scheitel auch Flügel und Schwanz blau gefärbt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt Blaumeise - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/blaumeise",
+        "verified_claim": "Bei der Blaumeise sind außer dem Scheitel auch Flügel und Schwanz blau gefärbt.",
+        "checked_at": "2026-11-20T01:24:21.917Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-mehlschwalbe-nestform",
+    "fact_key": "mehlschwalbe-nestform",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wie sieht das typische Nest einer Mehlschwalbe unterm Dachvorsprung aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine fast geschlossene Lehmschale"
+      },
+      {
+        "id": "b",
+        "text": "Ein flaches Floß aus Zweigen"
+      },
+      {
+        "id": "c",
+        "text": "Eine offene Kuhle im Kies"
+      },
+      {
+        "id": "d",
+        "text": "Ein lockeres Netz aus Halmen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mehlschwalben bauen rundliche Lehmnester mit einer kleinen Einflugöffnung, oft in Kolonien.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Mehlschwalbe - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/mehlschwalbe",
+        "verified_claim": "Mehlschwalben bauen rundliche Lehmnester mit einer kleinen Einflugöffnung, oft in Kolonien.",
+        "checked_at": "2026-11-20T01:24:21.917Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-graureiher-brutplatz",
+    "fact_key": "graureiher-brutplatz",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wo befindet sich in Mitteleuropa eine typische Brutkolonie von Graureihern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Oben in Bäumen"
+      },
+      {
+        "id": "b",
+        "text": "In Erdröhren am Ufer"
+      },
+      {
+        "id": "c",
+        "text": "Auf schwimmenden Seerosenblättern"
+      },
+      {
+        "id": "d",
+        "text": "In Höhlen unter Felsblöcken"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Graureiher fischen oft am Wasser, doch ihre Kolonien liegen meist auf Bäumen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Graureiher - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/graureiher",
+        "verified_claim": "Graureiher fischen oft am Wasser, doch ihre Kolonien liegen meist auf Bäumen.",
+        "checked_at": "2026-11-20T01:24:21.917Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kiebitz-lebensraum",
+    "fact_key": "kiebitz-lebensraum",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Landschaft bietet einem Kiebitz einen typischen Brutlebensraum?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Offene Feuchtwiesen"
+      },
+      {
+        "id": "b",
+        "text": "Dichter Fichtenforst"
+      },
+      {
+        "id": "c",
+        "text": "Hohe Felswände"
+      },
+      {
+        "id": "d",
+        "text": "Geschlossener Buchenwald"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kiebitze brauchen offene Flächen mit niedriger Vegetation. Moore und Feuchtwiesen bieten ihnen solche Bedingungen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Kiebitz - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/kiebitz",
+        "verified_claim": "Kiebitze brauchen offene Flächen mit niedriger Vegetation. Moore und Feuchtwiesen bieten ihnen solche Bedingungen.",
+        "checked_at": "2026-11-20T01:24:21.917Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-elster-erkennen",
+    "fact_key": "elster-erkennen",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welcher heimische Rabenvogel hat schwarz-weißes Gefieder und einen auffallend langen Schwanz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Elster"
+      },
+      {
+        "id": "b",
+        "text": "Eichelhäher"
+      },
+      {
+        "id": "c",
+        "text": "Dohle"
+      },
+      {
+        "id": "d",
+        "text": "Saatkrähe"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Elstern sind kleiner als viele Krähen. An den dunklen Federn kann ein grünlicher oder bläulicher Glanz sichtbar werden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Elster - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/elster",
+        "verified_claim": "Elstern sind kleiner als viele Krähen. An den dunklen Federn kann ein grünlicher oder bläulicher Glanz sichtbar werden.",
+        "checked_at": "2026-11-20T01:24:21.917Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-elster-nestdach",
+    "fact_key": "elster-nestdach",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was ist an einem vollständigen Elsternnest auffällig?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Dach aus Zweigen"
+      },
+      {
+        "id": "b",
+        "text": "Ein Boden aus Lehmziegeln"
+      },
+      {
+        "id": "c",
+        "text": "Eine mit Wasser gefüllte Mulde"
+      },
+      {
+        "id": "d",
+        "text": "Ein Eingang unter dem Wasserspiegel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Elstern errichten in Bäumen große Zweignester. Über der eigentlichen Nestmulde liegt eine schützende Haube.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Elster - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/elster",
+        "verified_claim": "Elstern errichten in Bäumen große Zweignester. Über der eigentlichen Nestmulde liegt eine schützende Haube.",
+        "checked_at": "2026-11-20T01:24:21.917Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-hoeckerschwan-nahrung",
+    "fact_key": "hoeckerschwan-nahrung",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was frisst ein Höckerschwan vorwiegend?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wasser- und Sumpfpflanzen"
+      },
+      {
+        "id": "b",
+        "text": "Große Fische"
+      },
+      {
+        "id": "c",
+        "text": "Kleine Singvögel"
+      },
+      {
+        "id": "d",
+        "text": "Wühlmäuse"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Höckerschwan ernährt sich vor allem von Pflanzen im Wasser und am Ufer. Manchmal sucht er auch Felder auf.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Höckerschwan - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/hoeckerschwan",
+        "verified_claim": "Der Höckerschwan ernährt sich vor allem von Pflanzen im Wasser und am Ufer. Manchmal sucht er auch Felder auf.",
+        "checked_at": "2026-11-20T01:24:21.917Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-mauersegler-luftleben",
+    "fact_key": "mauersegler-luftleben",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Welcher Vogel kann außerhalb der Brutzeit monatelang in der Luft bleiben?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mauersegler"
+      },
+      {
+        "id": "b",
+        "text": "Haussperling"
+      },
+      {
+        "id": "c",
+        "text": "Kohlmeise"
+      },
+      {
+        "id": "d",
+        "text": "Eisvogel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mauersegler sind besonders an das Leben in der Luft angepasst. Sogar ein Teil ihres Schlafes findet im Flug statt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Mauersegler - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/mauersegler",
+        "verified_claim": "Mauersegler sind besonders an das Leben in der Luft angepasst. Sogar ein Teil ihres Schlafes findet im Flug statt.",
+        "checked_at": "2026-11-20T01:24:21.917Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-stieglitz-farben",
+    "fact_key": "stieglitz-farben",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welcher Fink trägt als Altvogel eine rote Gesichtsmaske und ein gelbes Flügelband?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stieglitz"
+      },
+      {
+        "id": "b",
+        "text": "Buchfink"
+      },
+      {
+        "id": "c",
+        "text": "Grünfink"
+      },
+      {
+        "id": "d",
+        "text": "Gimpel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Am erwachsenen Stieglitz sind beide Farbmerkmale gut zu erkennen. Die Jungvögel haben anfangs noch keine rote Gesichtsmaske.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Distelfink - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/stieglitz",
+        "verified_claim": "Am erwachsenen Stieglitz sind beide Farbmerkmale gut zu erkennen. Die Jungvögel haben anfangs noch keine rote Gesichtsmaske.",
+        "checked_at": "2026-11-20T01:24:24.096Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-eichelhaeher-vorrat",
+    "fact_key": "eichelhaeher-vorrat",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was macht ein Eichelhäher mit einem Teil der Eicheln, die er im Herbst sammelt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er versteckt sie als Wintervorrat."
+      },
+      {
+        "id": "b",
+        "text": "Er baut einen Damm daraus."
+      },
+      {
+        "id": "c",
+        "text": "Er legt sie auf schwimmende Blätter."
+      },
+      {
+        "id": "d",
+        "text": "Er kleidet sein Nest damit aus."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eichelhäher legen Vorräte an und können mehrere Eicheln im Kropf transportieren.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Eichelhäher - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/eichelhaeher",
+        "verified_claim": "Eichelhäher legen Vorräte an und können mehrere Eicheln im Kropf transportieren.",
+        "checked_at": "2026-11-20T01:24:24.096Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kranich-balztanz",
+    "fact_key": "kranich-balztanz",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was zeigen Kraniche bei der Balz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tanzende Bewegungen mit hochgereckten Köpfen"
+      },
+      {
+        "id": "b",
+        "text": "Ein Rad aus Augenfedern"
+      },
+      {
+        "id": "c",
+        "text": "Einen Nestbau aus Schlamm an Fassaden"
+      },
+      {
+        "id": "d",
+        "text": "Eine gemeinsame Tauchjagd"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zur Balz tanzen Kraniche und lassen dabei ihre trompetenden Rufe hören.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Kranich | NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/kranich",
+        "verified_claim": "Zur Balz tanzen Kraniche und lassen dabei ihre trompetenden Rufe hören.",
+        "checked_at": "2026-11-20T01:24:24.096Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-wasseramsel-tauchen",
+    "fact_key": "wasseramsel-tauchen",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Welcher heimische Singvogel taucht in schnell fließenden Bächen nach Nahrung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wasseramsel"
+      },
+      {
+        "id": "b",
+        "text": "Eisvogel"
+      },
+      {
+        "id": "c",
+        "text": "Gebirgsstelze"
+      },
+      {
+        "id": "d",
+        "text": "Bachstelze"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Wasseramsel kann schwimmen und unter Wasser tauchen. Sie lebt häufig an geröllreichen Bächen im Bergland.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Wasseramsel - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/wasseramsel",
+        "verified_claim": "Die Wasseramsel kann schwimmen und unter Wasser tauchen. Sie lebt häufig an geröllreichen Bächen im Bergland.",
+        "checked_at": "2026-11-20T01:24:24.096Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-neuntoeter-vorrat",
+    "fact_key": "neuntoeter-vorrat",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wie hält der Neuntöter einen Teil seiner Beute für später bereit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er spießt sie auf Dornen."
+      },
+      {
+        "id": "b",
+        "text": "Er schließt sie in einer Steinritze ein."
+      },
+      {
+        "id": "c",
+        "text": "Er umwickelt sie mit Gras."
+      },
+      {
+        "id": "d",
+        "text": "Er versenkt sie im Bach."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Überschüssige Beute bleibt an Dornen oder auch Stacheldraht hängen, bis der Neuntöter sie frisst.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Neuntöter - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/neuntoeter",
+        "verified_claim": "Überschüssige Beute bleibt an Dornen oder auch Stacheldraht hängen, bis der Neuntöter sie frisst.",
+        "checked_at": "2026-11-20T01:24:24.096Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ringeltaube-fluegelklatschen",
+    "fact_key": "ringeltaube-fluegelklatschen",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wie erzeugt eine männliche Ringeltaube beim Balzflug ihr auffälliges Klatschen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit den Flügeln"
+      },
+      {
+        "id": "b",
+        "text": "Mit den Füßen"
+      },
+      {
+        "id": "c",
+        "text": "Mit dem Schnabel auf einem Ast"
+      },
+      {
+        "id": "d",
+        "text": "Mit den Schwanzfedern am Stamm"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Flügelklatschen gehört zum wellenförmigen Balzflug der Ringeltaube.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Ringeltaube - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/ringeltaube",
+        "verified_claim": "Das Flügelklatschen gehört zum wellenförmigen Balzflug der Ringeltaube.",
+        "checked_at": "2026-11-20T01:24:24.096Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-laerche-nadelabwurf",
+    "fact_key": "laerche-nadelabwurf",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welcher dieser Nadelbäume verliert im Herbst normalerweise seine Nadeln?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Europäische Lärche"
+      },
+      {
+        "id": "b",
+        "text": "Gemeine Fichte"
+      },
+      {
+        "id": "c",
+        "text": "Waldkiefer"
+      },
+      {
+        "id": "d",
+        "text": "Weißtanne"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Lärche steht im Winter kahl. Die kleinen Zapfen können noch lange an den Zweigen bleiben.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "European Larch (Larix decidua) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/european-larch/",
+        "verified_claim": "Die Lärche steht im Winter kahl. Die kleinen Zapfen können noch lange an den Zweigen bleiben.",
+        "checked_at": "2026-11-20T01:24:25.202Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-waldkiefer-nadelpaare",
+    "fact_key": "waldkiefer-nadelpaare",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wie sitzen die Nadeln einer Waldkiefer typischerweise am Kurztrieb?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zu zweit"
+      },
+      {
+        "id": "b",
+        "text": "Immer einzeln"
+      },
+      {
+        "id": "c",
+        "text": "In Büscheln zu zwanzig"
+      },
+      {
+        "id": "d",
+        "text": "In Reihen auf einer flachen Blattspreite"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die leicht gedrehten, blaugrünen Nadeln der Waldkiefer wachsen paarweise.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Scots Pine (Pinus sylvestris) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/scots-pine/",
+        "verified_claim": "Die leicht gedrehten, blaugrünen Nadeln der Waldkiefer wachsen paarweise.",
+        "checked_at": "2026-11-20T01:24:25.202Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-rotbuche-bucheckern",
+    "fact_key": "rotbuche-bucheckern",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Form ist typisch für die Nüsschen der Rotbuche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dreikantig"
+      },
+      {
+        "id": "b",
+        "text": "Kugelig wie eine Erbse"
+      },
+      {
+        "id": "c",
+        "text": "Schraubenförmig"
+      },
+      {
+        "id": "d",
+        "text": "Flach und geflügelt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die dreikantigen Bucheckern sitzen in einer stacheligen Hülle, die sich zur Reife öffnet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Beech, common (Fagus sylvatica) - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/common-beech/",
+        "verified_claim": "Die dreikantigen Bucheckern sitzen in einer stacheligen Hülle, die sich zur Reife öffnet.",
+        "checked_at": "2026-11-20T01:24:25.202Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-haselnuss-schale",
+    "fact_key": "haselnuss-schale",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was schützt den reifen Samen der Haselnuss?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine harte, holzige Nussschale"
+      },
+      {
+        "id": "b",
+        "text": "Ein saftiges Fruchtfleisch"
+      },
+      {
+        "id": "c",
+        "text": "Ein harziger Zapfen"
+      },
+      {
+        "id": "d",
+        "text": "Ein langer Flugschirm"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Nuss reift in einer Hülle aus blattartigen Hochblättern. Ihre harte Schale umgibt den Samen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Hazel (Corylus avellana) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/hazel/",
+        "verified_claim": "Die Nuss reift in einer Hülle aus blattartigen Hochblättern. Ihre harte Schale umgibt den Samen.",
+        "checked_at": "2026-11-20T01:24:25.202Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.523Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ahorn-flugfruechte",
+    "fact_key": "ahorn-flugfruechte",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wodurch werden die geflügelten Früchte des Feldahorns vor allem verbreitet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Durch Wind"
+      },
+      {
+        "id": "b",
+        "text": "Durch herausgeschleuderte Samen"
+      },
+      {
+        "id": "c",
+        "text": "Durch unterirdische Ausläufer"
+      },
+      {
+        "id": "d",
+        "text": "Durch festklebende Widerhaken"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Flügel erleichtern es dem Wind, die Teilfrüchte vom Mutterbaum fortzutragen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Field Maple (Acer campestre) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/field-maple/",
+        "verified_claim": "Die Flügel erleichtern es dem Wind, die Teilfrüchte vom Mutterbaum fortzutragen.",
+        "checked_at": "2026-11-20T01:24:25.202Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.524Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-stechpalme-fruchtfarbe",
+    "fact_key": "stechpalme-fruchtfarbe",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Farbe haben die reifen Früchte der Gewöhnlichen Stechpalme typischerweise?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rot"
+      },
+      {
+        "id": "b",
+        "text": "Blaubereift"
+      },
+      {
+        "id": "c",
+        "text": "Weiß"
+      },
+      {
+        "id": "d",
+        "text": "Violettschwarz"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nach der Bestäubung entwickeln sich an weiblichen Stechpalmen rote Früchte. Sie können bis in den Winter am Baum hängen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Holly (Ilex aquifolium) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/holly/",
+        "verified_claim": "Nach der Bestäubung entwickeln sich an weiblichen Stechpalmen rote Früchte. Sie können bis in den Winter am Baum hängen.",
+        "checked_at": "2026-11-20T01:24:25.202Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.524Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-eberesche-blatt",
+    "fact_key": "eberesche-blatt",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wie ist ein Blatt der Eberesche aufgebaut?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es ist in mehrere Fiederblättchen geteilt."
+      },
+      {
+        "id": "b",
+        "text": "Es ist eine einzige lange Nadel."
+      },
+      {
+        "id": "c",
+        "text": "Es ist ein runder, ungeteilter Teller."
+      },
+      {
+        "id": "d",
+        "text": "Es hat die Form einer Fächerscheibe."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Blatt hat seitlich angeordnete Fiederblättchen und ein einzelnes Endblättchen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rowan (Sorbus aucuparia) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/rowan/",
+        "verified_claim": "Das Blatt hat seitlich angeordnete Fiederblättchen und ein einzelnes Endblättchen.",
+        "checked_at": "2026-11-20T01:24:25.202Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.524Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-erle-fruchtstand",
+    "fact_key": "erle-fruchtstand",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "An welchem heimischen Laubbaum bleiben im Winter kleine zapfenähnliche Fruchtstände hängen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schwarzerle"
+      },
+      {
+        "id": "b",
+        "text": "Hängebirke"
+      },
+      {
+        "id": "c",
+        "text": "Rotbuche"
+      },
+      {
+        "id": "d",
+        "text": "Spitzahorn"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die weiblichen Kätzchen der Erle verholzen. Nach der Samenfreigabe bleiben die kleinen Erlenzäpfchen sichtbar.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Alder (Alnus glutinosa) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/alder/",
+        "verified_claim": "Die weiblichen Kätzchen der Erle verholzen. Nach der Samenfreigabe bleiben die kleinen Erlenzäpfchen sichtbar.",
+        "checked_at": "2026-11-20T01:24:25.202Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.524Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-holunder-fruchtfarbe",
+    "fact_key": "holunder-fruchtfarbe",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Farbe nehmen die Früchte des Holunderstrauchs Sambucus nigra bei der Reife an?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Violettschwarz"
+      },
+      {
+        "id": "b",
+        "text": "Goldgelb"
+      },
+      {
+        "id": "c",
+        "text": "Leuchtendweiß"
+      },
+      {
+        "id": "d",
+        "text": "Hellgrün"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Früchte färben sich bei der Reife im Spätsommer bis Herbst dunkel.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Elder (Sambucus nigra) – British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/elder/",
+        "verified_claim": "Die Früchte färben sich bei der Reife im Spätsommer bis Herbst dunkel.",
+        "checked_at": "2026-11-20T01:24:25.202Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.524Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-stieleiche-fruchtstiel",
+    "fact_key": "stieleiche-fruchtstiel",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Welches Merkmal unterscheidet die Stieleiche von der Traubeneiche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ihre Eicheln sitzen an längeren Stielen."
+      },
+      {
+        "id": "b",
+        "text": "Ihre Blätter sind zu Nadeln umgebildet."
+      },
+      {
+        "id": "c",
+        "text": "Ihre Eicheln stehen in Zapfen."
+      },
+      {
+        "id": "d",
+        "text": "Sie blüht ausschließlich im Winter."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bei der Stieleiche sind die Fruchtstiele auffällig lang. Die Blätter dagegen haben meist nur sehr kurze Stiele.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "English Oak (Quercus robur) - British Trees - Woodland Trust",
+        "url": "https://www.woodlandtrust.org.uk/trees-woods-and-wildlife/british-trees/a-z-of-british-trees/english-oak/",
+        "verified_claim": "Bei der Stieleiche sind die Fruchtstiele auffällig lang. Die Blätter dagegen haben meist nur sehr kurze Stiele.",
+        "checked_at": "2026-11-20T01:21:08.733Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:28:57.524Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.250Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.250Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "at": "2026-11-20T01:47:38.099Z",
+  "stage": "halbstand",
+  "version": "de-ac86ff3435d9",
+  "questions": 600,
+  "browser": "149.0.7827.55",
+  "locale": "de-DE",
+  "timezone": "Europe/Berlin",
+  "checks": [
+    "Erststart mit zehn gespeicherten Fragen und vier bedienbaren Antworten",
+    "Browserprozess vor der Antwort beendet und dieselbe Position fortgesetzt",
+    "Pausieren, Browser-Zurück und Wiederaufnahme behalten Fragen und Reihenfolge",
+    "Zwei Browserfenster beantworten gleichzeitig, genau ein Versuch wird gebucht",
+    "Nach Prozessende erscheinen dieselbe Erklärung und gesperrte Antworten",
+    "Quellen und kopierbare Meldung mit ID, Revision und Version",
+    "Vor dem Ergebnis neu gestartet, 7/10, Silber und genau einmal 90 XP",
+    "Computervergleich über die Einstellungen abschaltbar, echte Albumkarten",
+    "Fünferprobe, Fortsetzung, keine Tages-XP und gesperrter Folgekauf im Browser",
+    "Alle Kernansichten bei 360×640, 360×800 und vergrößertem Webtext",
+    "Offline-Neustart aus dem Service-Worker-Cache",
+    "Direkt öffnende HTML-Datei spielt ohne Netzwerk eine freie anspruchsvolle Themenrunde"
+  ],
+  "uncaughtPageErrors": [],
+  "externalRequests": []
+}

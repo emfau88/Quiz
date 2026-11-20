@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "qs-tastatur-kopieren",
+    "fact_key": "tastatur-kopieren",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was bewirkt Strg + C bei markiertem Text in einem üblichen Windows-Textfeld?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es kopiert den Text."
+      },
+      {
+        "id": "b",
+        "text": "Es schneidet den Text aus."
+      },
+      {
+        "id": "c",
+        "text": "Es druckt den Text."
+      },
+      {
+        "id": "d",
+        "text": "Es löscht den Text."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Kopieren bleibt die Markierung im Dokument erhalten. Eine Kopie liegt in der Zwischenablage.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Keyboard shortcuts in Windows | Microsoft Support",
+        "url": "https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec",
+        "verified_claim": "Beim Kopieren bleibt die Markierung im Dokument erhalten. Eine Kopie liegt in der Zwischenablage.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.755Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-tastatur-einfuegen",
+    "fact_key": "tastatur-einfuegen",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Mit welcher Tastenkombination lässt sich kopierter Text in Windows gewöhnlich einfügen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Strg + V"
+      },
+      {
+        "id": "b",
+        "text": "Strg + C"
+      },
+      {
+        "id": "c",
+        "text": "Strg + F"
+      },
+      {
+        "id": "d",
+        "text": "Strg + Z"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Strg + V fügt den Inhalt der Zwischenablage an der aktuellen Stelle ein.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Keyboard shortcuts in Windows | Microsoft Support",
+        "url": "https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec",
+        "verified_claim": "Strg + V fügt den Inhalt der Zwischenablage an der aktuellen Stelle ein.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.755Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-tastatur-ausschneiden",
+    "fact_key": "tastatur-ausschneiden",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was geschieht beim Ausschneiden eines markierten Texts mit Strg + X?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er wandert in die Zwischenablage."
+      },
+      {
+        "id": "b",
+        "text": "Er wird ausgedruckt."
+      },
+      {
+        "id": "c",
+        "text": "Er wird fett dargestellt."
+      },
+      {
+        "id": "d",
+        "text": "Er wird alphabetisch sortiert."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ausschneiden entfernt den Text an seiner bisherigen Stelle. Über die Zwischenablage lässt er sich wieder einsetzen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Keyboard shortcuts in Windows | Microsoft Support",
+        "url": "https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec",
+        "verified_claim": "Ausschneiden entfernt den Text an seiner bisherigen Stelle. Über die Zwischenablage lässt er sich wieder einsetzen.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.755Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-tastatur-rueckgaengig",
+    "fact_key": "tastatur-rueckgaengig",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Tastenkombination nimmt in vielen Windows-Programmen den letzten Bearbeitungsschritt zurück?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Strg + Z"
+      },
+      {
+        "id": "b",
+        "text": "Strg + P"
+      },
+      {
+        "id": "c",
+        "text": "Strg + V"
+      },
+      {
+        "id": "d",
+        "text": "Strg + F"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Strg + Z ruft die Funktion „Rückgängig“ auf. So lässt sich etwa eine versehentliche Texteingabe zurücknehmen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Keyboard shortcuts in Windows | Microsoft Support",
+        "url": "https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec",
+        "verified_claim": "Strg + Z ruft die Funktion „Rückgängig“ auf. So lässt sich etwa eine versehentliche Texteingabe zurücknehmen.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.755Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-word-drucken",
+    "fact_key": "word-drucken",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Tastenkombination öffnet in Word unter Windows den Druckbereich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Strg + P"
+      },
+      {
+        "id": "b",
+        "text": "Strg + X"
+      },
+      {
+        "id": "c",
+        "text": "Strg + S"
+      },
+      {
+        "id": "d",
+        "text": "Strg + V"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Strg + P ruft die Druckfunktion auf. Dort kannst du unter anderem den Drucker wählen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Keyboard shortcuts in Word | Microsoft Support",
+        "url": "https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2",
+        "verified_claim": "Strg + P ruft die Druckfunktion auf. Dort kannst du unter anderem den Drucker wählen.",
+        "checked_at": "2026-11-20T01:19:41.760Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.755Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-word-speichern",
+    "fact_key": "word-speichern",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Tastenkombination speichert das aktuelle Word-Dokument unter Windows?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Strg + S"
+      },
+      {
+        "id": "b",
+        "text": "Strg + R"
+      },
+      {
+        "id": "c",
+        "text": "Strg + E"
+      },
+      {
+        "id": "d",
+        "text": "Strg + M"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit Strg + S speicherst du die Änderungen am aktuellen Dokument.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Keyboard shortcuts in Word | Microsoft Support",
+        "url": "https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2",
+        "verified_claim": "Mit Strg + S speicherst du die Änderungen am aktuellen Dokument.",
+        "checked_at": "2026-11-20T01:19:41.760Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.756Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-text-suchen",
+    "fact_key": "text-suchen",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "In einem langen Text möchtest du ein bestimmtes Wort finden. Welche Tastenkombination öffnet in vielen Windows-Programmen die Suche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Strg + F"
+      },
+      {
+        "id": "b",
+        "text": "Strg + V"
+      },
+      {
+        "id": "c",
+        "text": "Strg + C"
+      },
+      {
+        "id": "d",
+        "text": "Strg + Z"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Strg + F öffnet die Textsuche. Danach kannst du den gesuchten Ausdruck eingeben.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Keyboard shortcuts in Windows | Microsoft Support",
+        "url": "https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec",
+        "verified_claim": "Strg + F öffnet die Textsuche. Danach kannst du den gesuchten Ausdruck eingeben.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.756Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-text-alle-markieren",
+    "fact_key": "text-alle-markieren",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was markiert Strg + A bei der Bearbeitung eines Texts unter Windows üblicherweise?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den gesamten Text"
+      },
+      {
+        "id": "b",
+        "text": "Nur das nächste Wort"
+      },
+      {
+        "id": "c",
+        "text": "Nur die aktuelle Zeile"
+      },
+      {
+        "id": "d",
+        "text": "Nur den letzten Absatz"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Tastenkombination steht für „Alles auswählen“. In einem bearbeiteten Text wird der gesamte Inhalt markiert.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Keyboard shortcuts in Windows | Microsoft Support",
+        "url": "https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec",
+        "verified_claim": "Die Tastenkombination steht für „Alles auswählen“. In einem bearbeiteten Text wird der gesamte Inhalt markiert.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.756Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-fenster-wechseln",
+    "fact_key": "fenster-wechseln",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Wie wechselst du in Windows mit der Tastatur zwischen geöffneten Fenstern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alt + Tab"
+      },
+      {
+        "id": "b",
+        "text": "Strg + C"
+      },
+      {
+        "id": "c",
+        "text": "Alt + F4"
+      },
+      {
+        "id": "d",
+        "text": "Strg + S"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Halte Alt gedrückt und tippe auf Tab. So kannst du das gewünschte offene Fenster auswählen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Keyboard shortcuts in Windows | Microsoft Support",
+        "url": "https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec",
+        "verified_claim": "Halte Alt gedrückt und tippe auf Tab. So kannst du das gewünschte offene Fenster auswählen.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.756Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-datei-umbenennen",
+    "fact_key": "datei-umbenennen",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welche einzelne Taste startet im Windows-Datei-Explorer das Umbenennen einer markierten Datei?",
+    "options": [
+      {
+        "id": "a",
+        "text": "F2"
+      },
+      {
+        "id": "b",
+        "text": "F5"
+      },
+      {
+        "id": "c",
+        "text": "F9"
+      },
+      {
+        "id": "d",
+        "text": "F11"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit F2 wird der Name der markierten Datei bearbeitbar.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Keyboard shortcuts in Windows | Microsoft Support",
+        "url": "https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec",
+        "verified_claim": "Mit F2 wird der Name der markierten Datei bearbeitbar.",
+        "checked_at": "2026-11-20T01:19:42.024Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.756Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-text-dokumentende",
+    "fact_key": "text-dokumentende",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Wie gelangt die Schreibmarke in einem langen Windows-Textdokument direkt ans Ende?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Strg + Ende"
+      },
+      {
+        "id": "b",
+        "text": "Alt + Tab"
+      },
+      {
+        "id": "c",
+        "text": "Strg + Pos1"
+      },
+      {
+        "id": "d",
+        "text": "Umschalt + Einfg"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Strg + Ende bewegt die Schreibmarke ans Dokumentende.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Keyboard shortcuts in Windows | Microsoft Support",
+        "url": "https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec",
+        "verified_claim": "Strg + Ende bewegt die Schreibmarke ans Dokumentende.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.756Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-alt-f4",
+    "fact_key": "alt-f4",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Was bewirkt Alt + F4 bei einem normalen geöffneten Programmfenster unter Windows?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das aktive Fenster wird geschlossen."
+      },
+      {
+        "id": "b",
+        "text": "Der Bildschirm wird heller."
+      },
+      {
+        "id": "c",
+        "text": "Ein neues Dokument entsteht."
+      },
+      {
+        "id": "d",
+        "text": "Die Schrift wird größer."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Alt + F4 schließt das aktive Fenster. Ungesicherte Änderungen können eine Rückfrage auslösen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Keyboard shortcuts in Windows | Microsoft Support",
+        "url": "https://support.microsoft.com/en-us/windows/keyboard-shortcuts-in-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec",
+        "verified_claim": "Alt + F4 schließt das aktive Fenster. Ungesicherte Änderungen können eine Rückfrage auslösen.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.757Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-datei-mp3",
+    "fact_key": "datei-mp3",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welchen Inhalt hat eine gewöhnliche MP3-Datei?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ton"
+      },
+      {
+        "id": "b",
+        "text": "Eine Tabelle"
+      },
+      {
+        "id": "c",
+        "text": "Eine Präsentation"
+      },
+      {
+        "id": "d",
+        "text": "Ein Schriftalphabet"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "MP3 ist ein Audioformat. Es kann sowohl Musik als auch gesprochene Sprache enthalten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Common media types - HTTP | MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types",
+        "verified_claim": "MP3 ist ein Audioformat. Es kann sowohl Musik als auch gesprochene Sprache enthalten.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.757Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-datei-jpeg",
+    "fact_key": "datei-jpeg",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche dieser Endungen passt zu einer JPEG-Fotodatei?",
+    "options": [
+      {
+        "id": "a",
+        "text": ".jpg"
+      },
+      {
+        "id": "b",
+        "text": ".txt"
+      },
+      {
+        "id": "c",
+        "text": ".mp3"
+      },
+      {
+        "id": "d",
+        "text": ".ics"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "JPEG-Bilddateien verwenden häufig die Endung .jpg. Auch .jpeg ist üblich.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Common media types - HTTP | MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types",
+        "verified_claim": "JPEG-Bilddateien verwenden häufig die Endung .jpg. Auch .jpeg ist üblich.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.757Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-datei-pdf",
+    "fact_key": "datei-pdf",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Endung kennzeichnet ein Dokument im Portable Document Format?",
+    "options": [
+      {
+        "id": "a",
+        "text": ".pdf"
+      },
+      {
+        "id": "b",
+        "text": ".png"
+      },
+      {
+        "id": "c",
+        "text": ".mp3"
+      },
+      {
+        "id": "d",
+        "text": ".gif"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "PDF ist die Abkürzung für Portable Document Format. Die zugehörige Dateiendung lautet .pdf.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Common media types - HTTP | MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types",
+        "verified_claim": "PDF ist die Abkürzung für Portable Document Format. Die zugehörige Dateiendung lautet .pdf.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.757Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-datei-epub",
+    "fact_key": "datei-epub",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Für welchen Lesestoff ist das Dateiformat EPUB gedacht?",
+    "options": [
+      {
+        "id": "a",
+        "text": "E-Books"
+      },
+      {
+        "id": "b",
+        "text": "Musikaufnahmen"
+      },
+      {
+        "id": "c",
+        "text": "Telefonvideos"
+      },
+      {
+        "id": "d",
+        "text": "Tabellenformeln"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "EPUB ist ein elektronisches Publikationsformat für digitale Bücher und andere lesbare Veröffentlichungen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Common media types - HTTP | MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types",
+        "verified_claim": "EPUB ist ein elektronisches Publikationsformat für digitale Bücher und andere lesbare Veröffentlichungen.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.757Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-datei-ics",
+    "fact_key": "datei-ics",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welche Datei enthält typischerweise einen Termin, den du in einen Kalender übernehmen kannst?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine ICS-Datei"
+      },
+      {
+        "id": "b",
+        "text": "Eine GIF-Datei"
+      },
+      {
+        "id": "c",
+        "text": "Eine WAV-Datei"
+      },
+      {
+        "id": "d",
+        "text": "Eine JPG-Datei"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Endung .ics gehört zum iCalendar-Format für Kalenderdaten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Common media types - HTTP | MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types",
+        "verified_claim": "Die Endung .ics gehört zum iCalendar-Format für Kalenderdaten.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.757Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-datei-csv",
+    "fact_key": "datei-csv",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Was enthält eine einfache CSV-Datei?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tabellendaten als getrennte Textfelder"
+      },
+      {
+        "id": "b",
+        "text": "Musik als Tonspur"
+      },
+      {
+        "id": "c",
+        "text": "Ein Bild als Farbfläche"
+      },
+      {
+        "id": "d",
+        "text": "Einen Film als Einzelbilder"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "CSV speichert Datensätze in Textform. Feldtrennzeichen unterscheiden die einzelnen Werte.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Common media types - HTTP | MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types",
+        "verified_claim": "CSV speichert Datensätze in Textform. Feldtrennzeichen unterscheiden die einzelnen Werte.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.757Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-datei-svg",
+    "fact_key": "datei-svg",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welches dieser Grafikformate ist ausdrücklich für skalierbare Vektorgrafiken gedacht?",
+    "options": [
+      {
+        "id": "a",
+        "text": "SVG"
+      },
+      {
+        "id": "b",
+        "text": "JPEG"
+      },
+      {
+        "id": "c",
+        "text": "GIF"
+      },
+      {
+        "id": "d",
+        "text": "TIFF"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "SVG steht für Scalable Vector Graphics. Die Grafik kann als Beschreibung von Formen gespeichert werden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Common media types - HTTP | MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types",
+        "verified_claim": "SVG steht für Scalable Vector Graphics. Die Grafik kann als Beschreibung von Formen gespeichert werden.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.757Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-datei-wav",
+    "fact_key": "datei-wav",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche dieser Dateien lässt sich typischerweise als Tonaufnahme abspielen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ansage.wav"
+      },
+      {
+        "id": "b",
+        "text": "ansage.jpg"
+      },
+      {
+        "id": "c",
+        "text": "ansage.ics"
+      },
+      {
+        "id": "d",
+        "text": "ansage.xlsx"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "WAV ist ein Audioformat. Die Endung .wav wird für Dateien mit Tondaten verwendet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Common media types - HTTP | MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types",
+        "verified_claim": "WAV ist ein Audioformat. Die Endung .wav wird für Dateien mit Tondaten verwendet.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.758Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-datei-pptx",
+    "fact_key": "datei-pptx",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Eine Kollegin schickt eine Datei mit der Endung .pptx. Welche Art Inhalt ist zu erwarten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Präsentation"
+      },
+      {
+        "id": "b",
+        "text": "Ein Kalendertermin"
+      },
+      {
+        "id": "c",
+        "text": "Ein Musikstück"
+      },
+      {
+        "id": "d",
+        "text": "Eine reine Textnotiz"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "PPTX ist ein Präsentationsformat von Microsoft PowerPoint.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Common media types - HTTP | MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types",
+        "verified_claim": "PPTX ist ein Präsentationsformat von Microsoft PowerPoint.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.758Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-datei-xlsx",
+    "fact_key": "datei-xlsx",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Dateiendung gehört zum üblichen Excel-Format für Tabellenarbeitsmappen?",
+    "options": [
+      {
+        "id": "a",
+        "text": ".xlsx"
+      },
+      {
+        "id": "b",
+        "text": ".wav"
+      },
+      {
+        "id": "c",
+        "text": ".gif"
+      },
+      {
+        "id": "d",
+        "text": ".ics"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "XLSX ist ein Tabellenformat, in dem Excel Arbeitsmappen speichert.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Common media types - HTTP | MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types",
+        "verified_claim": "XLSX ist ein Tabellenformat, in dem Excel Arbeitsmappen speichert.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.758Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-datei-txt",
+    "fact_key": "datei-txt",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Endung wird für eine einfache Datei mit unformatiertem Text verwendet?",
+    "options": [
+      {
+        "id": "a",
+        "text": ".txt"
+      },
+      {
+        "id": "b",
+        "text": ".png"
+      },
+      {
+        "id": "c",
+        "text": ".avi"
+      },
+      {
+        "id": "d",
+        "text": ".mp3"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eine TXT-Datei besteht aus einfachem Text. Sie enthält üblicherweise keine Angaben zur Gestaltung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Common media types - HTTP | MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types",
+        "verified_claim": "Eine TXT-Datei besteht aus einfachem Text. Sie enthält üblicherweise keine Angaben zur Gestaltung.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.758Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-datei-html",
+    "fact_key": "datei-html",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welche Dateiendung weist auf ein Dokument in der Auszeichnungssprache des Webs hin?",
+    "options": [
+      {
+        "id": "a",
+        "text": ".html"
+      },
+      {
+        "id": "b",
+        "text": ".jpeg"
+      },
+      {
+        "id": "c",
+        "text": ".epub"
+      },
+      {
+        "id": "d",
+        "text": ".wav"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Endungen .html und .htm stehen für Dokumente in HyperText Markup Language.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Common media types - HTTP | MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types",
+        "verified_claim": "Die Endungen .html und .htm stehen für Dokumente in HyperText Markup Language.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.758Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-datei-woff",
+    "fact_key": "datei-woff",
+    "category": "everyday_technology",
+    "difficulty": "hard",
+    "question": "Welche Art von Datei trägt die Endung .woff?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Schriftdatei"
+      },
+      {
+        "id": "b",
+        "text": "Eine Audiodatei"
+      },
+      {
+        "id": "c",
+        "text": "Eine Kalenderdatei"
+      },
+      {
+        "id": "d",
+        "text": "Eine Bilddatei für Fotos"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "WOFF steht für Web Open Font Format. Das Format ist für Schriften auf Webseiten vorgesehen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Common media types - HTTP | MDN",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/MIME_types/Common_types",
+        "verified_claim": "WOFF steht für Web Open Font Format. Das Format ist für Schriften auf Webseiten vorgesehen.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:20:21.758Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:23:41.299Z"
+      },
+      "approved_at": "2026-11-20T01:23:41.299Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

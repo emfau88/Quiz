@@ -1,0 +1,2306 @@
+[
+  {
+    "id": "qs-fr-hauptstadt",
+    "fact_key": "fr-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche dieser Städte ist die Hauptstadt von Frankreich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Paris"
+      },
+      {
+        "id": "b",
+        "text": "Lyon"
+      },
+      {
+        "id": "c",
+        "text": "Marseille"
+      },
+      {
+        "id": "d",
+        "text": "Toulouse"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Paris ist die Hauptstadt von Frankreich. Zu den Nachbarländern zählen Belgien und Spanien.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Paris ist die Hauptstadt von Frankreich. Zu den Nachbarländern zählen Belgien und Spanien.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.254Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-es-hauptstadt",
+    "fact_key": "es-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Bei einer Reise nach Spanien möchtest du die Hauptstadt besuchen. Wohin fährst du?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Madrid"
+      },
+      {
+        "id": "b",
+        "text": "Valencia"
+      },
+      {
+        "id": "c",
+        "text": "Barcelona"
+      },
+      {
+        "id": "d",
+        "text": "Sevilla"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Madrid ist die Hauptstadt von Spanien. Zu den Nachbarländern zählen Portugal und Frankreich.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Madrid ist die Hauptstadt von Spanien. Zu den Nachbarländern zählen Portugal und Frankreich.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.254Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-it-hauptstadt",
+    "fact_key": "it-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Stadt ist in Italien die Hauptstadt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rom"
+      },
+      {
+        "id": "b",
+        "text": "Turin"
+      },
+      {
+        "id": "c",
+        "text": "Neapel"
+      },
+      {
+        "id": "d",
+        "text": "Mailand"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Rom ist die Hauptstadt von Italien. Zu den Nachbarländern zählen Österreich und Slowenien.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Rom ist die Hauptstadt von Italien. Zu den Nachbarländern zählen Österreich und Slowenien.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.254Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gr-hauptstadt",
+    "fact_key": "gr-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche dieser Städte ist die Hauptstadt von Griechenland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Athen"
+      },
+      {
+        "id": "b",
+        "text": "Thessaloniki"
+      },
+      {
+        "id": "c",
+        "text": "Patras"
+      },
+      {
+        "id": "d",
+        "text": "Korinth"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Athen ist die Hauptstadt von Griechenland. Zu den Nachbarländern zählen Bulgarien und die Türkei.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Athen ist die Hauptstadt von Griechenland. Zu den Nachbarländern zählen Bulgarien und die Türkei.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.254Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-pl-hauptstadt",
+    "fact_key": "pl-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Bei einer Reise nach Polen möchtest du die Hauptstadt besuchen. Wohin fährst du?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Warschau"
+      },
+      {
+        "id": "b",
+        "text": "Krakau"
+      },
+      {
+        "id": "c",
+        "text": "Posen"
+      },
+      {
+        "id": "d",
+        "text": "Danzig"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Warschau ist die Hauptstadt von Polen. Zu den Nachbarländern zählen Deutschland und Litauen.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Warschau ist die Hauptstadt von Polen. Zu den Nachbarländern zählen Deutschland und Litauen.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.254Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-pt-hauptstadt",
+    "fact_key": "pt-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Stadt ist in Portugal die Hauptstadt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lissabon"
+      },
+      {
+        "id": "b",
+        "text": "Porto"
+      },
+      {
+        "id": "c",
+        "text": "Faro"
+      },
+      {
+        "id": "d",
+        "text": "Coimbra"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Lissabon ist die Hauptstadt von Portugal. Das Land hat eine gemeinsame Grenze mit Spanien.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Lissabon ist die Hauptstadt von Portugal. Das Land hat eine gemeinsame Grenze mit Spanien.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.254Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-at-hauptstadt",
+    "fact_key": "at-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche dieser Städte ist die Hauptstadt von Österreich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wien"
+      },
+      {
+        "id": "b",
+        "text": "Graz"
+      },
+      {
+        "id": "c",
+        "text": "Linz"
+      },
+      {
+        "id": "d",
+        "text": "Salzburg"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wien ist die Hauptstadt von Österreich. Zu den Nachbarländern zählen Italien und Ungarn.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wien ist die Hauptstadt von Österreich. Zu den Nachbarländern zählen Italien und Ungarn.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.254Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-de-hauptstadt",
+    "fact_key": "de-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Bei einer Reise nach Deutschland möchtest du die Hauptstadt besuchen. Wohin fährst du?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Berlin"
+      },
+      {
+        "id": "b",
+        "text": "Hamburg"
+      },
+      {
+        "id": "c",
+        "text": "München"
+      },
+      {
+        "id": "d",
+        "text": "Frankfurt am Main"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Berlin ist die Hauptstadt von Deutschland. Zu den Nachbarländern zählen Polen und Frankreich.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Berlin ist die Hauptstadt von Deutschland. Zu den Nachbarländern zählen Polen und Frankreich.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.254Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-dk-hauptstadt",
+    "fact_key": "dk-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Stadt ist in Dänemark die Hauptstadt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kopenhagen"
+      },
+      {
+        "id": "b",
+        "text": "Aarhus"
+      },
+      {
+        "id": "c",
+        "text": "Odense"
+      },
+      {
+        "id": "d",
+        "text": "Aalborg"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kopenhagen ist die Hauptstadt von Dänemark. Das Land hat eine gemeinsame Grenze mit Deutschland.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Kopenhagen ist die Hauptstadt von Dänemark. Das Land hat eine gemeinsame Grenze mit Deutschland.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.254Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-fi-hauptstadt",
+    "fact_key": "fi-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche dieser Städte ist die Hauptstadt von Finnland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Helsinki"
+      },
+      {
+        "id": "b",
+        "text": "Turku"
+      },
+      {
+        "id": "c",
+        "text": "Tampere"
+      },
+      {
+        "id": "d",
+        "text": "Lahti"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Helsinki ist die Hauptstadt von Finnland. Zu den Nachbarländern zählen Norwegen und Schweden.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Helsinki ist die Hauptstadt von Finnland. Zu den Nachbarländern zählen Norwegen und Schweden.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.254Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-no-hauptstadt",
+    "fact_key": "no-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Bei einer Reise nach Norwegen möchtest du die Hauptstadt besuchen. Wohin fährst du?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Oslo"
+      },
+      {
+        "id": "b",
+        "text": "Bergen"
+      },
+      {
+        "id": "c",
+        "text": "Trondheim"
+      },
+      {
+        "id": "d",
+        "text": "Stavanger"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Oslo ist die Hauptstadt von Norwegen. Zu den Nachbarländern zählen Schweden und Finnland.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Oslo ist die Hauptstadt von Norwegen. Zu den Nachbarländern zählen Schweden und Finnland.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.254Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-se-hauptstadt",
+    "fact_key": "se-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Stadt ist in Schweden die Hauptstadt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stockholm"
+      },
+      {
+        "id": "b",
+        "text": "Göteborg"
+      },
+      {
+        "id": "c",
+        "text": "Malmö"
+      },
+      {
+        "id": "d",
+        "text": "Uppsala"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Stockholm ist die Hauptstadt von Schweden. Zu den Nachbarländern zählen Norwegen und Finnland.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Stockholm ist die Hauptstadt von Schweden. Zu den Nachbarländern zählen Norwegen und Finnland.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.254Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-hu-hauptstadt",
+    "fact_key": "hu-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche dieser Städte ist die Hauptstadt von Ungarn?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Budapest"
+      },
+      {
+        "id": "b",
+        "text": "Pécs"
+      },
+      {
+        "id": "c",
+        "text": "Szeged"
+      },
+      {
+        "id": "d",
+        "text": "Debrecen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Budapest ist die Hauptstadt von Ungarn. Zu den Nachbarländern zählen Österreich und Rumänien.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Budapest ist die Hauptstadt von Ungarn. Zu den Nachbarländern zählen Österreich und Rumänien.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.254Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-cz-hauptstadt",
+    "fact_key": "cz-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Bei einer Reise nach Tschechien möchtest du die Hauptstadt besuchen. Wohin fährst du?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Prag"
+      },
+      {
+        "id": "b",
+        "text": "Brünn"
+      },
+      {
+        "id": "c",
+        "text": "Ostrava"
+      },
+      {
+        "id": "d",
+        "text": "Pilsen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Prag ist die Hauptstadt von Tschechien. Zu den Nachbarländern zählen Deutschland und die Slowakei.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Prag ist die Hauptstadt von Tschechien. Zu den Nachbarländern zählen Deutschland und die Slowakei.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.254Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ie-hauptstadt",
+    "fact_key": "ie-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Stadt ist in Irland die Hauptstadt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dublin"
+      },
+      {
+        "id": "b",
+        "text": "Cork"
+      },
+      {
+        "id": "c",
+        "text": "Galway"
+      },
+      {
+        "id": "d",
+        "text": "Limerick"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Dublin ist die Hauptstadt von Irland. Das Land hat eine gemeinsame Grenze mit dem Vereinigten Königreich.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Dublin ist die Hauptstadt von Irland. Das Land hat eine gemeinsame Grenze mit dem Vereinigten Königreich.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.254Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-jp-hauptstadt",
+    "fact_key": "jp-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche dieser Städte ist die Hauptstadt von Japan?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tokio"
+      },
+      {
+        "id": "b",
+        "text": "Kyoto"
+      },
+      {
+        "id": "c",
+        "text": "Osaka"
+      },
+      {
+        "id": "d",
+        "text": "Nagoya"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Tokio ist die Hauptstadt von Japan. Das Land umfasst rund 378.000 Quadratkilometer.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Tokio ist die Hauptstadt von Japan. Das Land umfasst rund 378.000 Quadratkilometer.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-eg-hauptstadt",
+    "fact_key": "eg-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Bei einer Reise nach Ägypten möchtest du die Hauptstadt besuchen. Wohin fährst du?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kairo"
+      },
+      {
+        "id": "b",
+        "text": "Alexandria"
+      },
+      {
+        "id": "c",
+        "text": "Luxor"
+      },
+      {
+        "id": "d",
+        "text": "Assuan"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kairo ist die Hauptstadt von Ägypten. Zu den Nachbarländern zählen Libyen und der Sudan.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Kairo ist die Hauptstadt von Ägypten. Zu den Nachbarländern zählen Libyen und der Sudan.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ar-hauptstadt",
+    "fact_key": "ar-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche Stadt ist in Argentinien die Hauptstadt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Buenos Aires"
+      },
+      {
+        "id": "b",
+        "text": "Córdoba"
+      },
+      {
+        "id": "c",
+        "text": "Mendoza"
+      },
+      {
+        "id": "d",
+        "text": "Rosario"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Buenos Aires ist die Hauptstadt von Argentinien. Zu den Nachbarländern zählen Chile und Uruguay.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Buenos Aires ist die Hauptstadt von Argentinien. Zu den Nachbarländern zählen Chile und Uruguay.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-au-hauptstadt",
+    "fact_key": "au-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche dieser Städte ist die Hauptstadt von Australien?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Canberra"
+      },
+      {
+        "id": "b",
+        "text": "Sydney"
+      },
+      {
+        "id": "c",
+        "text": "Melbourne"
+      },
+      {
+        "id": "d",
+        "text": "Brisbane"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Canberra ist die Hauptstadt von Australien. Das Land umfasst rund 7.687.000 Quadratkilometer.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Canberra ist die Hauptstadt von Australien. Das Land umfasst rund 7.687.000 Quadratkilometer.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ca-hauptstadt",
+    "fact_key": "ca-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Bei einer Reise nach Kanada möchtest du die Hauptstadt besuchen. Wohin fährst du?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ottawa"
+      },
+      {
+        "id": "b",
+        "text": "Toronto"
+      },
+      {
+        "id": "c",
+        "text": "Vancouver"
+      },
+      {
+        "id": "d",
+        "text": "Montreal"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ottawa ist die Hauptstadt von Kanada. Das Land hat eine gemeinsame Grenze mit den USA.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Ottawa ist die Hauptstadt von Kanada. Das Land hat eine gemeinsame Grenze mit den USA.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-br-hauptstadt",
+    "fact_key": "br-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche Stadt ist in Brasilien die Hauptstadt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Brasília"
+      },
+      {
+        "id": "b",
+        "text": "Rio de Janeiro"
+      },
+      {
+        "id": "c",
+        "text": "São Paulo"
+      },
+      {
+        "id": "d",
+        "text": "Salvador"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Brasília ist die Hauptstadt von Brasilien. Zu den Nachbarländern zählen Peru und Uruguay.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Brasília ist die Hauptstadt von Brasilien. Zu den Nachbarländern zählen Peru und Uruguay.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-nz-hauptstadt",
+    "fact_key": "nz-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche dieser Städte ist die Hauptstadt von Neuseeland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wellington"
+      },
+      {
+        "id": "b",
+        "text": "Auckland"
+      },
+      {
+        "id": "c",
+        "text": "Christchurch"
+      },
+      {
+        "id": "d",
+        "text": "Dunedin"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wellington ist die Hauptstadt von Neuseeland. Das Land umfasst rund 269.000 Quadratkilometer.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Wellington ist die Hauptstadt von Neuseeland. Das Land umfasst rund 269.000 Quadratkilometer.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ma-hauptstadt",
+    "fact_key": "ma-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Bei einer Reise nach Marokko möchtest du die Hauptstadt besuchen. Wohin fährst du?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rabat"
+      },
+      {
+        "id": "b",
+        "text": "Marrakesch"
+      },
+      {
+        "id": "c",
+        "text": "Casablanca"
+      },
+      {
+        "id": "d",
+        "text": "Fès"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Rabat ist die Hauptstadt von Marokko. Das Land hat eine gemeinsame Grenze mit Algerien.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Rabat ist die Hauptstadt von Marokko. Das Land hat eine gemeinsame Grenze mit Algerien.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-hr-hauptstadt",
+    "fact_key": "hr-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche Stadt ist in Kroatien die Hauptstadt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zagreb"
+      },
+      {
+        "id": "b",
+        "text": "Split"
+      },
+      {
+        "id": "c",
+        "text": "Dubrovnik"
+      },
+      {
+        "id": "d",
+        "text": "Rijeka"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zagreb ist die Hauptstadt von Kroatien. Zu den Nachbarländern zählen Slowenien und Ungarn.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Zagreb ist die Hauptstadt von Kroatien. Zu den Nachbarländern zählen Slowenien und Ungarn.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-si-hauptstadt",
+    "fact_key": "si-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Welche dieser Städte ist die Hauptstadt von Slowenien?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ljubljana"
+      },
+      {
+        "id": "b",
+        "text": "Maribor"
+      },
+      {
+        "id": "c",
+        "text": "Koper"
+      },
+      {
+        "id": "d",
+        "text": "Celje"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ljubljana ist die Hauptstadt von Slowenien. Zu den Nachbarländern zählen Italien und Kroatien.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Ljubljana ist die Hauptstadt von Slowenien. Zu den Nachbarländern zählen Italien und Kroatien.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-sk-hauptstadt",
+    "fact_key": "sk-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Bei einer Reise in die Slowakei möchtest du die Hauptstadt besuchen. Wohin fährst du?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bratislava"
+      },
+      {
+        "id": "b",
+        "text": "Košice"
+      },
+      {
+        "id": "c",
+        "text": "Trnava"
+      },
+      {
+        "id": "d",
+        "text": "Nitra"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bratislava ist die Hauptstadt der Slowakei. Zu den Nachbarländern zählen Österreich und Ungarn.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Bratislava ist die Hauptstadt der Slowakei. Zu den Nachbarländern zählen Österreich und Ungarn.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ee-hauptstadt",
+    "fact_key": "ee-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche Stadt ist in Estland die Hauptstadt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tallinn"
+      },
+      {
+        "id": "b",
+        "text": "Tartu"
+      },
+      {
+        "id": "c",
+        "text": "Narva"
+      },
+      {
+        "id": "d",
+        "text": "Pärnu"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Tallinn ist die Hauptstadt von Estland. Das Land hat eine gemeinsame Grenze mit Lettland.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Tallinn ist die Hauptstadt von Estland. Das Land hat eine gemeinsame Grenze mit Lettland.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-lv-hauptstadt",
+    "fact_key": "lv-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche dieser Städte ist die Hauptstadt von Lettland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Riga"
+      },
+      {
+        "id": "b",
+        "text": "Liepāja"
+      },
+      {
+        "id": "c",
+        "text": "Jūrmala"
+      },
+      {
+        "id": "d",
+        "text": "Jelgava"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Riga ist die Hauptstadt von Lettland. Zu den Nachbarländern zählen Estland und Litauen.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Riga ist die Hauptstadt von Lettland. Zu den Nachbarländern zählen Estland und Litauen.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-lt-hauptstadt",
+    "fact_key": "lt-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Bei einer Reise nach Litauen möchtest du die Hauptstadt besuchen. Wohin fährst du?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vilnius"
+      },
+      {
+        "id": "b",
+        "text": "Kaunas"
+      },
+      {
+        "id": "c",
+        "text": "Klaipėda"
+      },
+      {
+        "id": "d",
+        "text": "Šiauliai"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Vilnius ist die Hauptstadt von Litauen. Zu den Nachbarländern zählen Polen und Lettland.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Vilnius ist die Hauptstadt von Litauen. Zu den Nachbarländern zählen Polen und Lettland.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ke-hauptstadt",
+    "fact_key": "ke-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche Stadt ist in Kenia die Hauptstadt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nairobi"
+      },
+      {
+        "id": "b",
+        "text": "Mombasa"
+      },
+      {
+        "id": "c",
+        "text": "Kisumu"
+      },
+      {
+        "id": "d",
+        "text": "Nakuru"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nairobi ist die Hauptstadt von Kenia. Zu den Nachbarländern zählen Tansania und Uganda.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Nairobi ist die Hauptstadt von Kenia. Zu den Nachbarländern zählen Tansania und Uganda.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-pe-hauptstadt",
+    "fact_key": "pe-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche dieser Städte ist die Hauptstadt von Peru?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lima"
+      },
+      {
+        "id": "b",
+        "text": "Cusco"
+      },
+      {
+        "id": "c",
+        "text": "Arequipa"
+      },
+      {
+        "id": "d",
+        "text": "Trujillo"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Lima ist die Hauptstadt von Peru. Zu den Nachbarländern zählen Ecuador und Bolivien.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Lima ist die Hauptstadt von Peru. Zu den Nachbarländern zählen Ecuador und Bolivien.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-np-hauptstadt",
+    "fact_key": "np-hauptstadt",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Bei einer Reise nach Nepal möchtest du die Hauptstadt besuchen. Wohin fährst du?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kathmandu"
+      },
+      {
+        "id": "b",
+        "text": "Pokhara"
+      },
+      {
+        "id": "c",
+        "text": "Lalitpur"
+      },
+      {
+        "id": "d",
+        "text": "Biratnagar"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kathmandu ist die Hauptstadt von Nepal. Zu den Nachbarländern zählen Indien und China.",
+    "tags": [],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GeoNames · Länderverzeichnis (countryInfo), CC BY 4.0",
+        "url": "https://download.geonames.org/export/dump/countryInfo.txt",
+        "verified_claim": "Kathmandu ist die Hauptstadt von Nepal. Zu den Nachbarländern zählen Indien und China.",
+        "checked_at": "2026-11-20T01:15:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:49:49.257Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:50:25.450Z"
+      },
+      "approved_at": "2026-11-20T01:50:25.450Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

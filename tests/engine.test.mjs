@@ -101,6 +101,21 @@ test('one atomic trial per category, pause/resume, surrender and paid modes',()=
   assert.deepEqual(paid.items.map(i=>i.q.difficulty).sort(),['easy','easy','medium','medium','medium','medium','medium','hard','hard','hard'].sort());
   finish(g,paid);assert.equal(experience(g).xp,0);assert.equal(weekActivity(g,day).length,0);
   const other=start(g,fixture,day,{...opt,category:fixture.questions[71].category});finish(g,other);assert.equal(other.result.xp,0);
+  if (initial.questions.length >= 150) {
+    const actual = newGame(), categories = new Set(initial.questions.map(q => q.category));
+    assert.equal(categories.size, 6);
+    for (const name of categories) {
+      const trial = {mode:'trial', category:name};
+      const round = start(actual, initial, day, trial);
+      assert.deepEqual(round.items.map(i=>i.q.difficulty).sort(), ['easy','easy','easy','medium','medium']);
+      respond(actual, round, 0);
+      assert.equal(start(actual, initial, day, trial).id, round.id);
+      finish(actual, round);
+      assert.throws(()=>start(actual, initial, day, trial), e=>e.code==='TRIAL_USED');
+    }
+    assert.equal(experience(actual).xp, 0);
+    assert.equal(Object.keys(actual.trials).length, 6);
+  }
 });
 test('pool shortage never consumes trial; expiring and reserved questions excluded',()=>{
   const g=newGame(),small={...fixture,questions:fixture.questions.slice(0,11)};
@@ -153,6 +168,7 @@ test('withdrawals void active answers; frozen results and historical badges surv
   const valid={...q,question:'Gültige korrigierte Frage',semantic_revision:2,content_revision:2};
   updated.questions.push(valid);
   assert.equal(collection(g,updated)[0].q.question,valid.question);
+  assert.equal(collection(g,fixture)[0].q,null);
   finish(g,s,10);assert.equal(s.result.valid,9);assert.equal(s.result.xp,110);assert.deepEqual(ranking(s),[]);
   const frozen=copy(s.result);
   updated.corrections.push({id:s.items[1].q.id,semantic_revision:1,reason:'Korrektur'});

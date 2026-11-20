@@ -1,0 +1,3098 @@
+[
+  {
+    "id": "qs-milch-pasteurisieren",
+    "fact_key": "milch-pasteurisieren",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was geschieht beim Pasteurisieren von Milch?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie wird kurz erhitzt."
+      },
+      {
+        "id": "b",
+        "text": "Sie wird gefriergetrocknet."
+      },
+      {
+        "id": "c",
+        "text": "Sie wird zu Pulver gemahlen."
+      },
+      {
+        "id": "d",
+        "text": "Sie wird mit Kohlensäure versetzt."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Wärmebehandlung vermindert die Keimzahl. Anschließend wird die Milch wieder gekühlt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pasteurisierung | Milkipedia | MIV Milchindustrie-Verband e.V.",
+        "url": "https://milchindustrie.de/milkipedia/pasteurisierung/",
+        "verified_claim": "Die Wärmebehandlung vermindert die Keimzahl. Anschließend wird die Milch wieder gekühlt.",
+        "checked_at": "2026-11-20T01:27:18.379Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.095Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-milch-homogenisieren",
+    "fact_key": "milch-homogenisieren",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Was wird beim Homogenisieren von Milch fein verteilt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Fetttröpfchen"
+      },
+      {
+        "id": "b",
+        "text": "Die Salzkristalle"
+      },
+      {
+        "id": "c",
+        "text": "Die Gase der Kühlung"
+      },
+      {
+        "id": "d",
+        "text": "Die Schalen der Körner"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Milch wird durch feine Düsen gepresst. Die kleineren Fetttröpfchen setzen sich weniger leicht als Rahm ab.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Homogenisierung - MIV Milchindustrie-Verband e.V.",
+        "url": "https://milchindustrie.de/milkipedia/homogenisierung/",
+        "verified_claim": "Die Milch wird durch feine Düsen gepresst. Die kleineren Fetttröpfchen setzen sich weniger leicht als Rahm ab.",
+        "checked_at": "2026-11-20T01:27:18.379Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.095Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-butter-aus-rahm",
+    "fact_key": "butter-aus-rahm",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welcher Bestandteil der Milch wird bei der traditionellen Butterherstellung geschlagen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rahm"
+      },
+      {
+        "id": "b",
+        "text": "Milchpulver"
+      },
+      {
+        "id": "c",
+        "text": "Molke ohne Fett"
+      },
+      {
+        "id": "d",
+        "text": "Magermilch ohne Rahm"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Im Rahm steckt das Milchfett in kleinen Kügelchen. Beim Schlagen vereinigt es sich zu Butterkörnern.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Butter | Milkipedia | MIV Milchindustrie-Verband e.V.",
+        "url": "https://milchindustrie.de/milkipedia/butter/",
+        "verified_claim": "Im Rahm steckt das Milchfett in kleinen Kügelchen. Beim Schlagen vereinigt es sich zu Butterkörnern.",
+        "checked_at": "2026-11-20T01:27:18.379Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.095Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-buttermilch-entstehung",
+    "fact_key": "buttermilch-entstehung",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Flüssigkeit bleibt bei der Butterherstellung neben den Butterkörnern übrig?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Buttermilch"
+      },
+      {
+        "id": "b",
+        "text": "Zuckersirup"
+      },
+      {
+        "id": "c",
+        "text": "Salzlake"
+      },
+      {
+        "id": "d",
+        "text": "Kokoswasser"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Buttern trennt sich das Fett des Rahms von der wässrigen Buttermilch.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Butter | Milkipedia | MIV Milchindustrie-Verband e.V.",
+        "url": "https://milchindustrie.de/milkipedia/butter/",
+        "verified_claim": "Beim Buttern trennt sich das Fett des Rahms von der wässrigen Buttermilch.",
+        "checked_at": "2026-11-20T01:27:18.379Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.095Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-joghurt-kulturen",
+    "fact_key": "joghurt-kulturen",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Helfer sorgen bei der Joghurtherstellung für die Säuerung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Milchsäurebakterien"
+      },
+      {
+        "id": "b",
+        "text": "Brotkrumen"
+      },
+      {
+        "id": "c",
+        "text": "Hopfendolden"
+      },
+      {
+        "id": "d",
+        "text": "Kochsalzkristalle"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die zugegebenen Kulturen sorgen für die Säuerung der Milch. Dadurch entstehen der typische Geschmack und die Konsistenz.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Joghurt - MIV Milchindustrie-Verband e.V.",
+        "url": "https://milchindustrie.de/milkipedia/joghurt/",
+        "verified_claim": "Die zugegebenen Kulturen sorgen für die Säuerung der Milch. Dadurch entstehen der typische Geschmack und die Konsistenz.",
+        "checked_at": "2026-11-20T01:27:18.379Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-lab-kaese",
+    "fact_key": "lab-kaese",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welche Aufgabe übernimmt Lab bei der Herstellung vieler Käsesorten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es lässt die Milch gerinnen."
+      },
+      {
+        "id": "b",
+        "text": "Es färbt den Käse gelb."
+      },
+      {
+        "id": "c",
+        "text": "Es salzt die Rinde."
+      },
+      {
+        "id": "d",
+        "text": "Es treibt große Gasblasen aus."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Lab wirkt auf das Milcheiweiß Kasein. Die Milch wird dick und kann weiterverarbeitet werden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Käse - MIV Milchindustrie-Verband e.V.",
+        "url": "https://milchindustrie.de/milkipedia/kaese/",
+        "verified_claim": "Lab wirkt auf das Milcheiweiß Kasein. Die Milch wird dick und kann weiterverarbeitet werden.",
+        "checked_at": "2026-11-20T01:27:18.379Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-molke-kaese",
+    "fact_key": "molke-kaese",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Bei welcher Herstellung fällt Molke als flüssiges Nebenprodukt an?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bei der Käseherstellung"
+      },
+      {
+        "id": "b",
+        "text": "Beim Mahlen von Getreide"
+      },
+      {
+        "id": "c",
+        "text": "Beim Pressen von Äpfeln"
+      },
+      {
+        "id": "d",
+        "text": "Beim Rösten von Kaffee"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wenn Milch für Käse gerinnt, trennen sich die feste Käsemasse und die flüssige Molke.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Molke | Milkipedia | MIV Milchindustrie-Verband e.V.",
+        "url": "https://milchindustrie.de/milkipedia/molke/",
+        "verified_claim": "Wenn Milch für Käse gerinnt, trennen sich die feste Käsemasse und die flüssige Molke.",
+        "checked_at": "2026-11-20T01:27:18.379Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-milchpulver-wasser",
+    "fact_key": "milchpulver-wasser",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was wird der Milch entzogen, damit Milchpulver entsteht?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wasser"
+      },
+      {
+        "id": "b",
+        "text": "Sämtliches Eiweiß"
+      },
+      {
+        "id": "c",
+        "text": "Sämtlicher Milchzucker"
+      },
+      {
+        "id": "d",
+        "text": "Sämtliches Calcium"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Durch Eindampfen und Trocknen sinkt der Wassergehalt. Zurück bleibt ein lagerfähiges Pulver.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Trockenmilchprodukte | Milkipedia | MIV Milchindustrie-Verband e.V.",
+        "url": "https://milchindustrie.de/milkipedia/trockenmilchprodukte/",
+        "verified_claim": "Durch Eindampfen und Trocknen sinkt der Wassergehalt. Zurück bleibt ein lagerfähiges Pulver.",
+        "checked_at": "2026-11-20T01:27:18.379Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-milchzucker-milchsaeure",
+    "fact_key": "milchzucker-milchsaeure",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "In welche Säure verwandeln die Kulturen bei Sauermilchprodukten einen Teil des Milchzuckers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Milchsäure"
+      },
+      {
+        "id": "b",
+        "text": "Zitronensäure"
+      },
+      {
+        "id": "c",
+        "text": "Essigsäure"
+      },
+      {
+        "id": "d",
+        "text": "Kohlensäure"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Milchsäurebakterien setzen Laktose um. Die entstehende Milchsäure trägt dazu bei, dass das Milcheiweiß gerinnt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Sauermilchprodukte | Milkipedia | MIV Milchindustrie-Verband e.V.",
+        "url": "https://milchindustrie.de/milkipedia/sauermilchprodukte/",
+        "verified_claim": "Milchsäurebakterien setzen Laktose um. Die entstehende Milchsäure trägt dazu bei, dass das Milcheiweiß gerinnt.",
+        "checked_at": "2026-11-20T01:27:18.379Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-waesche-dreieck",
+    "fact_key": "waesche-dreieck",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Über welchen Behandlungsschritt gibt das Dreieck auf einem Pflegeetikett Auskunft?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bleichen"
+      },
+      {
+        "id": "b",
+        "text": "Bügeln"
+      },
+      {
+        "id": "c",
+        "text": "Schleudern"
+      },
+      {
+        "id": "d",
+        "text": "Trocknen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Am Dreieck lässt sich ablesen, ob und mit welchen Mitteln ein Textil gebleicht werden darf.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GINETEX > Care symbols",
+        "url": "https://www.ginetex.net/GB/labelling/care-symbols.asp",
+        "verified_claim": "Am Dreieck lässt sich ablesen, ob und mit welchen Mitteln ein Textil gebleicht werden darf.",
+        "checked_at": "2026-11-20T01:21:11.137Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-waesche-sauerstoffbleiche",
+    "fact_key": "waesche-sauerstoffbleiche",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welche Bleiche erlaubt ein Dreieck mit zwei schrägen Linien auf dem Wäscheetikett?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur Sauerstoffbleiche"
+      },
+      {
+        "id": "b",
+        "text": "Nur Chlorbleiche"
+      },
+      {
+        "id": "c",
+        "text": "Alle Bleichmittel"
+      },
+      {
+        "id": "d",
+        "text": "Keine Bleiche"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die zwei Linien stehen für zulässige Sauerstoffbleiche. Chlorbleiche ist bei diesem Zeichen ausgeschlossen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GINETEX > Care symbols",
+        "url": "https://www.ginetex.net/GB/labelling/care-symbols.asp",
+        "verified_claim": "Die zwei Linien stehen für zulässige Sauerstoffbleiche. Chlorbleiche ist bei diesem Zeichen ausgeschlossen.",
+        "checked_at": "2026-11-20T01:21:11.137Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-textil-kreis-quadrat",
+    "fact_key": "textil-kreis-quadrat",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Worüber informiert ein Kreis im Quadrat auf dem Pflegeetikett?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Trocknen im Wäschetrockner"
+      },
+      {
+        "id": "b",
+        "text": "Nassreinigung im Fachbetrieb"
+      },
+      {
+        "id": "c",
+        "text": "Bügeln mit Dampf"
+      },
+      {
+        "id": "d",
+        "text": "Bleichen mit Sauerstoff"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Quadrat steht für Trocknen und der Kreis darin für die Trommel. Weitere Zeichen geben die zulässige Behandlung an.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GINETEX > Care symbols",
+        "url": "https://www.ginetex.net/GB/labelling/care-symbols.asp",
+        "verified_claim": "Das Quadrat steht für Trocknen und der Kreis darin für die Trommel. Weitere Zeichen geben die zulässige Behandlung an.",
+        "checked_at": "2026-11-20T01:21:11.137Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-textil-balken-schonen",
+    "fact_key": "textil-balken-schonen",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Was fordert ein waagerechter Balken unter dem Waschbottich auf einem Pflegeetikett?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einen schonenderen Waschgang"
+      },
+      {
+        "id": "b",
+        "text": "Eine besonders hohe Schleuderzahl"
+      },
+      {
+        "id": "c",
+        "text": "Waschen ohne Wasser"
+      },
+      {
+        "id": "d",
+        "text": "Eine zusätzliche Vorwäsche"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Balken steht für reduzierte mechanische Beanspruchung. Das schont empfindliche Textilien.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GINETEX > Care symbols",
+        "url": "https://www.ginetex.net/GB/labelling/care-symbols.asp",
+        "verified_claim": "Der Balken steht für reduzierte mechanische Beanspruchung. Das schont empfindliche Textilien.",
+        "checked_at": "2026-11-20T01:21:11.137Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-buegeleisen-punkte",
+    "fact_key": "buegeleisen-punkte",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Wofür stehen die Punkte im Bügeleisensymbol auf einem Kleidungsetikett?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für die zulässige Bügeltemperatur"
+      },
+      {
+        "id": "b",
+        "text": "Für die Zahl der Bügelgänge"
+      },
+      {
+        "id": "c",
+        "text": "Für den Füllstand des Dampftanks"
+      },
+      {
+        "id": "d",
+        "text": "Für die Länge des Bügelbretts"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Punkte ordnen den Stoff einem Temperaturbereich zu. So findet man die passende Einstellung am Bügeleisen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GINETEX > Care symbols",
+        "url": "https://www.ginetex.net/GB/labelling/care-symbols.asp",
+        "verified_claim": "Die Punkte ordnen den Stoff einem Temperaturbereich zu. So findet man die passende Einstellung am Bügeleisen.",
+        "checked_at": "2026-11-20T01:21:11.137Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-textil-schatten",
+    "fact_key": "textil-schatten",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Was bedeutet ein zusätzlicher diagonaler Strich beim Symbol für natürliches Trocknen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Im Schatten trocknen"
+      },
+      {
+        "id": "b",
+        "text": "Beim Trocknen wenden"
+      },
+      {
+        "id": "c",
+        "text": "Auf der Heizung trocknen"
+      },
+      {
+        "id": "d",
+        "text": "Mit Dampf trocknen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der schräge Strich gibt Schatten vor. Andere Linien im Quadrat unterscheiden die Trocknungsart.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GINETEX > Care symbols",
+        "url": "https://www.ginetex.net/GB/labelling/care-symbols.asp",
+        "verified_claim": "Der schräge Strich gibt Schatten vor. Andere Linien im Quadrat unterscheiden die Trocknungsart.",
+        "checked_at": "2026-11-20T01:21:11.137Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-textil-kreis-profi",
+    "fact_key": "textil-kreis-profi",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Für wen sind die Buchstaben im einfachen Kreis eines Pflegeetiketts bestimmt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für die professionelle Textilreinigung"
+      },
+      {
+        "id": "b",
+        "text": "Für den Hersteller der Waschmaschine"
+      },
+      {
+        "id": "c",
+        "text": "Für die Näherei beim Zuschnitt"
+      },
+      {
+        "id": "d",
+        "text": "Für den Handel zur Größenangabe"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Buchstaben nennen der Textilreinigung unter anderem geeignete Lösungsmittel oder Behandlungsverfahren.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GINETEX > Care symbols",
+        "url": "https://www.ginetex.net/GB/labelling/care-symbols.asp",
+        "verified_claim": "Die Buchstaben nennen der Textilreinigung unter anderem geeignete Lösungsmittel oder Behandlungsverfahren.",
+        "checked_at": "2026-11-20T01:21:11.137Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-trockner-waermepumpe-luft",
+    "fact_key": "trockner-waermepumpe-luft",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was passiert mit der Luft in einem Wärmepumpentrockner?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie zirkuliert nach dem Entfeuchten erneut."
+      },
+      {
+        "id": "b",
+        "text": "Sie entweicht immer durch einen Schlauch ins Freie."
+      },
+      {
+        "id": "c",
+        "text": "Sie wird zusammen mit dem Flusenfilter entsorgt."
+      },
+      {
+        "id": "d",
+        "text": "Sie bleibt nur in der nassen Wäsche."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Gerät führt die Luft in einem Kreislauf. Es entzieht ihr Feuchtigkeit und setzt sie wieder zum Trocknen ein.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Heat Pump Dryer | ENERGY STAR",
+        "url": "https://www.energystar.gov/products/heat_pump_dryer",
+        "verified_claim": "Das Gerät führt die Luft in einem Kreislauf. Es entzieht ihr Feuchtigkeit und setzt sie wieder zum Trocknen ein.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-trockner-kondensat",
+    "fact_key": "trockner-kondensat",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Woher kommt das Wasser im Sammelbehälter eines Wärmepumpentrockners?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aus der feuchten Wäsche"
+      },
+      {
+        "id": "b",
+        "text": "Aus dem Stromkabel"
+      },
+      {
+        "id": "c",
+        "text": "Aus dem Flusensieb als Stoff"
+      },
+      {
+        "id": "d",
+        "text": "Aus einer frischen Wasserzufuhr"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Trocknen geht Feuchtigkeit aus der Wäsche in die Luft über. Im Gerät wird sie wieder als Wasser abgeschieden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Heat Pump Dryer | ENERGY STAR",
+        "url": "https://www.energystar.gov/products/heat_pump_dryer",
+        "verified_claim": "Beim Trocknen geht Feuchtigkeit aus der Wäsche in die Luft über. Im Gerät wird sie wieder als Wasser abgeschieden.",
+        "checked_at": "2026-11-20T01:15:04.373Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-sparduschkopf-wassermenge",
+    "fact_key": "sparduschkopf-wassermenge",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was soll ein Sparduschkopf beim Duschen verringern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die durchfließende Wassermenge"
+      },
+      {
+        "id": "b",
+        "text": "Den Luftdruck im Bad"
+      },
+      {
+        "id": "c",
+        "text": "Die Länge des Duschschlauchs"
+      },
+      {
+        "id": "d",
+        "text": "Die Raumhöhe"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Durch den verringerten Wasserdurchfluss wird weniger warmes Wasser benötigt. Das spart auch Energie für dessen Erwärmung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Strom sparen im Haushalt: Einfache Tipps | Verbraucherzentrale.de",
+        "url": "https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/strom-sparen-im-haushalt-einfache-tipps-10734",
+        "verified_claim": "Durch den verringerten Wasserdurchfluss wird weniger warmes Wasser benötigt. Das spart auch Energie für dessen Erwärmung.",
+        "checked_at": "2026-11-20T01:27:17.571Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-eco-geschirr",
+    "fact_key": "eco-geschirr",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was ist typisch für das Eco-Programm eines Geschirrspülers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es läuft oft länger und spart Energie."
+      },
+      {
+        "id": "b",
+        "text": "Es ist stets das kürzeste Programm."
+      },
+      {
+        "id": "c",
+        "text": "Es benötigt grundsätzlich mehr Wasser."
+      },
+      {
+        "id": "d",
+        "text": "Es trocknet nur leere Körbe."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein längeres Eco-Programm kann mit weniger Strom und Wasser auskommen als ein anderes Programm derselben Maschine.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Strom sparen im Haushalt: Einfache Tipps | Verbraucherzentrale.de",
+        "url": "https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/strom-sparen-im-haushalt-einfache-tipps-10734",
+        "verified_claim": "Ein längeres Eco-Programm kann mit weniger Strom und Wasser auskommen als ein anderes Programm derselben Maschine.",
+        "checked_at": "2026-11-20T01:27:17.571Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-standby-verbrauch",
+    "fact_key": "standby-verbrauch",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Warum kann eine Spielkonsole auch im Bereitschaftsmodus Strom verbrauchen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie hält Funktionen im Hintergrund bereit."
+      },
+      {
+        "id": "b",
+        "text": "Sie ist nur noch mechanisch verbunden."
+      },
+      {
+        "id": "c",
+        "text": "Sie verbraucht erst ab dem nächsten Start Strom."
+      },
+      {
+        "id": "d",
+        "text": "Sie erzeugt ihre Energie in diesem Modus selbst."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein Gerät kann in Bereitschaft etwa Anschlüsse versorgen oder nach Aktualisierungen sehen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Strom sparen im Haushalt: Einfache Tipps | Verbraucherzentrale.de",
+        "url": "https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/strom-sparen-im-haushalt-einfache-tipps-10734",
+        "verified_claim": "Ein Gerät kann in Bereitschaft etwa Anschlüsse versorgen oder nach Aktualisierungen sehen.",
+        "checked_at": "2026-11-20T01:27:17.571Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kuehlschrank-messgeraet",
+    "fact_key": "kuehlschrank-messgeraet",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Wie lässt sich der tatsächliche Stromverbrauch eines steckbaren Kühlschranks über mehrere Tage bestimmen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit einem Energiekostenmessgerät an der Steckdose"
+      },
+      {
+        "id": "b",
+        "text": "Mit einem Raumthermometer"
+      },
+      {
+        "id": "c",
+        "text": "Mit einer Briefwaage"
+      },
+      {
+        "id": "d",
+        "text": "Mit einem Hygrometer im Gemüsefach"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein Zwischenstecker kann die verbrauchten Kilowattstunden über einen längeren Zeitraum erfassen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "So finden Sie den passenden Kühlschrank | Verbraucherzentrale.de",
+        "url": "https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/so-finden-sie-den-passenden-kuehlschrank-10573",
+        "verified_claim": "Ein Zwischenstecker kann die verbrauchten Kilowattstunden über einen längeren Zeitraum erfassen.",
+        "checked_at": "2026-11-20T01:27:17.571Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kuehlschrank-papiertest",
+    "fact_key": "kuehlschrank-papiertest",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Wofür dient ein eingeklemmter Papierstreifen beim Prüfen einer Kühlschranktür?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zur Kontrolle der Türdichtung"
+      },
+      {
+        "id": "b",
+        "text": "Zur Messung der Kühlmittelmenge"
+      },
+      {
+        "id": "c",
+        "text": "Zur Einstellung der Innenbeleuchtung"
+      },
+      {
+        "id": "d",
+        "text": "Zur Prüfung der Gefrierfachsterne"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Lässt sich der Streifen bei geschlossener Tür leicht herausziehen, kann die Dichtung an dieser Stelle schlecht anliegen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "So finden Sie den passenden Kühlschrank | Verbraucherzentrale.de",
+        "url": "https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/so-finden-sie-den-passenden-kuehlschrank-10573",
+        "verified_claim": "Lässt sich der Streifen bei geschlossener Tür leicht herausziehen, kann die Dichtung an dieser Stelle schlecht anliegen.",
+        "checked_at": "2026-11-20T01:27:17.571Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-led-bedeutung",
+    "fact_key": "led-bedeutung",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was heißt die englische Abkürzung LED auf Deutsch?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Leuchtdiode"
+      },
+      {
+        "id": "b",
+        "text": "Leitungsdrossel"
+      },
+      {
+        "id": "c",
+        "text": "Lichtdetektor"
+      },
+      {
+        "id": "d",
+        "text": "Ladespule"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "LED steht für Light Emitting Diode. Das Bauteil gibt beim Stromfluss Licht ab.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Learn About LED Lighting | ENERGY STAR",
+        "url": "https://www.energystar.gov/products/lighting_fans/light_bulbs/learn_about_led_bulbs",
+        "verified_claim": "LED steht für Light Emitting Diode. Das Bauteil gibt beim Stromfluss Licht ab.",
+        "checked_at": "2026-11-20T01:30:41.876Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-led-kuehlkoerper",
+    "fact_key": "led-kuehlkoerper",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welche Aufgabe übernimmt ein Kühlkörper in einer LED-Leuchte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er leitet überschüssige Wärme ab."
+      },
+      {
+        "id": "b",
+        "text": "Er bündelt die Funkwellen."
+      },
+      {
+        "id": "c",
+        "text": "Er speichert färbendes Gas."
+      },
+      {
+        "id": "d",
+        "text": "Er ersetzt den Lichtschalter."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Auch Leuchtdioden erzeugen Wärme. Der Kühlkörper gibt sie an die Umgebung ab.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Learn About LED Lighting | ENERGY STAR",
+        "url": "https://www.energystar.gov/products/lighting_fans/light_bulbs/learn_about_led_bulbs",
+        "verified_claim": "Auch Leuchtdioden erzeugen Wärme. Der Kühlkörper gibt sie an die Umgebung ab.",
+        "checked_at": "2026-11-20T01:30:41.876Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-led-alterung",
+    "fact_key": "led-alterung",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Wie macht sich die Alterung einer LED-Lichtquelle häufig bemerkbar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ihr Lichtstrom nimmt allmählich ab."
+      },
+      {
+        "id": "b",
+        "text": "Ihr Glühfaden wird länger."
+      },
+      {
+        "id": "c",
+        "text": "Ihr Gasdruck steigt sichtbar an."
+      },
+      {
+        "id": "d",
+        "text": "Ihr Licht wird bei jedem Start heller."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bei LEDs kann die nutzbare Helligkeit mit der Betriebszeit sinken. Ein plötzlicher Totalausfall ist dafür nicht erforderlich.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Learn About LED Lighting | ENERGY STAR",
+        "url": "https://www.energystar.gov/products/lighting_fans/light_bulbs/learn_about_led_bulbs",
+        "verified_claim": "Bei LEDs kann die nutzbare Helligkeit mit der Betriebszeit sinken. Ein plötzlicher Totalausfall ist dafür nicht erforderlich.",
+        "checked_at": "2026-11-20T01:30:41.876Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-wasserkraft-turbine",
+    "fact_key": "wasserkraft-turbine",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was treibt die Turbine in einem gewöhnlichen Wasserkraftwerk an?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Strömendes Wasser"
+      },
+      {
+        "id": "b",
+        "text": "Druckluft aus der Umgebung"
+      },
+      {
+        "id": "c",
+        "text": "Die Drehung der Erde allein"
+      },
+      {
+        "id": "d",
+        "text": "Sonnenlicht auf den Rotorblättern"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Wasser versetzt die Turbine in Drehung. Ein gekoppelter Generator wandelt die Bewegung in elektrische Energie um.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "How Hydropower Works | Department of Energy",
+        "url": "https://www.energy.gov/cmei/water/how-hydropower-works",
+        "verified_claim": "Das Wasser versetzt die Turbine in Drehung. Ein gekoppelter Generator wandelt die Bewegung in elektrische Energie um.",
+        "checked_at": "2026-11-20T01:30:41.876Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-transformator-spannung",
+    "fact_key": "transformator-spannung",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche elektrische Größe lässt sich mit einem Transformator im Wechselstromnetz gezielt erhöhen oder senken?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spannung"
+      },
+      {
+        "id": "b",
+        "text": "Netzfrequenz"
+      },
+      {
+        "id": "c",
+        "text": "Jahresverbrauch"
+      },
+      {
+        "id": "d",
+        "text": "Betriebsdauer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein Transformator ermöglicht unterschiedliche Spannungsebenen im Stromnetz, etwa für Fernleitungen und Haushalte.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Explore a Wind Turbine - Text Version | Department of Energy",
+        "url": "https://www.energy.gov/cmei/systems/how-wind-turbine-works-text-version",
+        "verified_claim": "Ein Transformator ermöglicht unterschiedliche Spannungsebenen im Stromnetz, etwa für Fernleitungen und Haushalte.",
+        "checked_at": "2026-11-20T01:30:41.876Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-hochspannung-verluste",
+    "fact_key": "hochspannung-verluste",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Warum nutzt man beim Transport großer elektrischer Leistungen über weite Strecken hohe Spannungen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bei gleicher Leistung fließt weniger Strom."
+      },
+      {
+        "id": "b",
+        "text": "Die Leitung hat dann keinen Widerstand."
+      },
+      {
+        "id": "c",
+        "text": "Die Spannung steigt am Leitungsende stets weiter."
+      },
+      {
+        "id": "d",
+        "text": "Die Leitungsdrähte werden dadurch kürzer."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bei gegebener Leistung kann mit höherer Spannung der Strom kleiner sein. Dadurch gehen in der Leitung weniger Kilowatt als Wärme verloren.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Explore a Wind Turbine - Text Version | Department of Energy",
+        "url": "https://www.energy.gov/cmei/systems/how-wind-turbine-works-text-version",
+        "verified_claim": "Bei gegebener Leistung kann mit höherer Spannung der Strom kleiner sein. Dadurch gehen in der Leitung weniger Kilowatt als Wärme verloren.",
+        "checked_at": "2026-11-20T01:30:41.876Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-flugzeug-auftrieb",
+    "fact_key": "flugzeug-auftrieb",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welcher Teil eines gewöhnlichen Verkehrsflugzeugs erzeugt den größten Teil des Auftriebs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Tragflächen"
+      },
+      {
+        "id": "b",
+        "text": "Die Räder"
+      },
+      {
+        "id": "c",
+        "text": "Die Antennen"
+      },
+      {
+        "id": "d",
+        "text": "Die Kabinenfenster"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Luftströmung um die Tragflächen erzeugt die Kraft, die im Horizontalflug das Gewicht ausgleicht.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Four Forces on an Airplane | Glenn Research Center | NASA",
+        "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/four-forces-on-an-airplane/",
+        "verified_claim": "Die Luftströmung um die Tragflächen erzeugt die Kraft, die im Horizontalflug das Gewicht ausgleicht.",
+        "checked_at": "2026-11-20T01:30:40.829Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-flugzeug-schub",
+    "fact_key": "flugzeug-schub",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Wie heißt die Kraft, mit der die Triebwerke ein Flugzeug voranbringen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schub"
+      },
+      {
+        "id": "b",
+        "text": "Auftrieb"
+      },
+      {
+        "id": "c",
+        "text": "Reibwiderstand"
+      },
+      {
+        "id": "d",
+        "text": "Gewichtskraft"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Antrieb liefert Schub. Im Reiseflug wirkt er dem Luftwiderstand entgegen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Four Forces on an Airplane | Glenn Research Center | NASA",
+        "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/four-forces-on-an-airplane/",
+        "verified_claim": "Der Antrieb liefert Schub. Im Reiseflug wirkt er dem Luftwiderstand entgegen.",
+        "checked_at": "2026-11-20T01:30:40.829Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-mikrofon-wandlung",
+    "fact_key": "mikrofon-wandlung",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was wandelt ein Mikrofon im normalen Aufnahmebetrieb um?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schall in ein elektrisches Signal"
+      },
+      {
+        "id": "b",
+        "text": "Licht in Schall"
+      },
+      {
+        "id": "c",
+        "text": "Elektrischen Strom in Wärme"
+      },
+      {
+        "id": "d",
+        "text": "Wärme in ein Bild"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Schallwellen bewegen eine Membran. Der Mikrofonwandler setzt die Bewegung in ein Signal um.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Mic Basics: Transducers, Polar Patterns, & Frequency Response - Shure USA",
+        "url": "https://www.shure.com/en-US/insights/microphone-basics-transducers-polar-patterns-frequency-response",
+        "verified_claim": "Die Schallwellen bewegen eine Membran. Der Mikrofonwandler setzt die Bewegung in ein Signal um.",
+        "checked_at": "2026-11-20T01:30:40.829Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-mikrofon-tauchspule",
+    "fact_key": "mikrofon-tauchspule",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Was bewegt sich bei einem dynamischen Tauchspulenmikrofon zusammen mit der Membran?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Spule im Magnetfeld"
+      },
+      {
+        "id": "b",
+        "text": "Eine Filmrolle im Licht"
+      },
+      {
+        "id": "c",
+        "text": "Ein Zahnrad im Getriebe"
+      },
+      {
+        "id": "d",
+        "text": "Ein Laser im Objektiv"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die an der Membran befestigte Spule bewegt sich in einem Magnetfeld. Dadurch entsteht ein elektrisches Signal.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Mic Basics: Transducers, Polar Patterns, & Frequency Response - Shure USA",
+        "url": "https://www.shure.com/en-US/insights/microphone-basics-transducers-polar-patterns-frequency-response",
+        "verified_claim": "Die an der Membran befestigte Spule bewegt sich in einem Magnetfeld. Dadurch entsteht ein elektrisches Signal.",
+        "checked_at": "2026-11-20T01:30:40.829Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-nfc-entfernung",
+    "fact_key": "nfc-entfernung",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Für welche Entfernung ist NFC etwa beim kontaktlosen Bezahlen ausgelegt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wenige Zentimeter"
+      },
+      {
+        "id": "b",
+        "text": "Mehrere hundert Meter"
+      },
+      {
+        "id": "c",
+        "text": "Einige Kilometer"
+      },
+      {
+        "id": "d",
+        "text": "Die Entfernung zu einem Satelliten"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "NFC steht für Near Field Communication. Der Datenaustausch findet in unmittelbarer Nähe statt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What NFC Does",
+        "url": "https://nfc-forum.org/learn/what-nfc-does/",
+        "verified_claim": "NFC steht für Near Field Communication. Der Datenaustausch findet in unmittelbarer Nähe statt.",
+        "checked_at": "2026-11-20T01:30:39.385Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kamera-verschlusszeit",
+    "fact_key": "kamera-verschlusszeit",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was legt die Verschlusszeit einer Kamera fest?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wie lange Licht auf Film oder Sensor fällt"
+      },
+      {
+        "id": "b",
+        "text": "Wie groß der Speicherkartenplatz ist"
+      },
+      {
+        "id": "c",
+        "text": "Wie lang das Objektiv ist"
+      },
+      {
+        "id": "d",
+        "text": "Wie viele Farben im Sucher erscheinen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Verschlusszeit bestimmt die Dauer der Belichtung. Sie kann etwa als Bruchteil einer Sekunde angegeben werden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "A Basic Look at the Basics of Exposure",
+        "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "verified_claim": "Die Verschlusszeit bestimmt die Dauer der Belichtung. Sie kann etwa als Bruchteil einer Sekunde angegeben werden.",
+        "checked_at": "2026-11-20T01:27:17.571Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kamera-iso",
+    "fact_key": "kamera-iso",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Eigenschaft beschreiben ISO-Werte bei der Fotografie?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die eingestellte Lichtempfindlichkeit"
+      },
+      {
+        "id": "b",
+        "text": "Die Brennweite des Objektivs"
+      },
+      {
+        "id": "c",
+        "text": "Die Größe des Bildausschnitts"
+      },
+      {
+        "id": "d",
+        "text": "Das Gewicht des Films"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die ISO-Einstellung beschreibt, wie viel Licht für eine bestimmte Bildhelligkeit benötigt wird.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Understanding ISO Sensitivity",
+        "url": "https://www.nikonusa.com/redirect/en/learn-and-explore/c/tips-and-techniques/understanding-iso-sensitivity",
+        "verified_claim": "Die ISO-Einstellung beschreibt, wie viel Licht für eine bestimmte Bildhelligkeit benötigt wird.",
+        "checked_at": "2026-11-20T01:27:17.571Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-foto-bildrauschen",
+    "fact_key": "foto-bildrauschen",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welcher Bildeffekt kann bei sehr hoher ISO-Einstellung deutlicher werden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bildrauschen"
+      },
+      {
+        "id": "b",
+        "text": "Spiegelverkehrte Schrift"
+      },
+      {
+        "id": "c",
+        "text": "Eine längere Brennweite"
+      },
+      {
+        "id": "d",
+        "text": "Eine zusätzliche Blendenlamelle"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bei hoher ISO-Einstellung kann digitales Bildrauschen stärker sichtbar werden, besonders in dunklen Bildpartien.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Understanding ISO Sensitivity",
+        "url": "https://www.nikonusa.com/redirect/en/learn-and-explore/c/tips-and-techniques/understanding-iso-sensitivity",
+        "verified_claim": "Bei hoher ISO-Einstellung kann digitales Bildrauschen stärker sichtbar werden, besonders in dunklen Bildpartien.",
+        "checked_at": "2026-11-20T01:27:17.571Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-foto-blendenstufe",
+    "fact_key": "foto-blendenstufe",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Was ändert eine volle Blendenstufe bei unveränderter Belichtungszeit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie verdoppelt oder halbiert die Lichtmenge."
+      },
+      {
+        "id": "b",
+        "text": "Sie verdoppelt die Brennweite."
+      },
+      {
+        "id": "c",
+        "text": "Sie wechselt die Filmgröße."
+      },
+      {
+        "id": "d",
+        "text": "Sie verändert die Farbe des Motivs."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eine volle Stufe der Blende verändert die eintreffende Lichtmenge um den Faktor zwei.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "A Basic Look at the Basics of Exposure",
+        "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/a-basic-look-at-the-basics-of-exposure",
+        "verified_claim": "Eine volle Stufe der Blende verändert die eintreffende Lichtmenge um den Faktor zwei.",
+        "checked_at": "2026-11-20T01:27:17.571Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-andreaskreuz-schiene",
+    "fact_key": "andreaskreuz-schiene",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welches Verkehrsmittel hat laut Andreaskreuz am deutschen Bahnübergang Vorrang (Stand 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Schienenbahn"
+      },
+      {
+        "id": "b",
+        "text": "Das links abbiegende Auto"
+      },
+      {
+        "id": "c",
+        "text": "Das Fahrrad auf der Straße"
+      },
+      {
+        "id": "d",
+        "text": "Ein rechts kommender Lieferwagen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Andreaskreuz kennzeichnet den Vorrang des Schienenverkehrs am Bahnübergang.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": "2027-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Anlage 2 StVO 2013 - Einzelnorm",
+        "url": "https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html",
+        "verified_claim": "Das Andreaskreuz kennzeichnet den Vorrang des Schienenverkehrs am Bahnübergang.",
+        "checked_at": "2026-11-20T01:21:11.137Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-andreaskreuz-blitz",
+    "fact_key": "andreaskreuz-blitz",
+    "category": "everyday_technology",
+    "difficulty": "hard",
+    "question": "Was bezeichnet ein Blitzpfeil in der Mitte eines deutschen Andreaskreuzes (Stand 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Bahnstrecke mit elektrischer Fahrleitung"
+      },
+      {
+        "id": "b",
+        "text": "Eine Wetterstation am Übergang"
+      },
+      {
+        "id": "c",
+        "text": "Eine automatische Geschwindigkeitsmessung"
+      },
+      {
+        "id": "d",
+        "text": "Eine Ladestation am Bahnsteig"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Blitzpfeil weist darauf hin, dass die Bahnstrecke am Übergang eine Spannung führende Fahrleitung hat.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": "2027-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Anlage 2 StVO 2013 - Einzelnorm",
+        "url": "https://www.gesetze-im-internet.de/stvo_2013/anlage_2.html",
+        "verified_claim": "Der Blitzpfeil weist darauf hin, dass die Bahnstrecke am Übergang eine Spannung führende Fahrleitung hat.",
+        "checked_at": "2026-11-20T01:21:11.137Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-bahnuebergang-bake",
+    "fact_key": "bahnuebergang-bake",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Wo steht die dreistreifige Bake vor einem deutschen Bahnübergang üblicherweise (Stand 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ungefähr 240 Meter davor"
+      },
+      {
+        "id": "b",
+        "text": "Ungefähr 80 Meter davor"
+      },
+      {
+        "id": "c",
+        "text": "Ungefähr 10 Meter dahinter"
+      },
+      {
+        "id": "d",
+        "text": "Unmittelbar auf dem Gleis"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die drei Streifen stehen für etwa 240 Meter Entfernung. Darauf folgen üblicherweise die Baken mit zwei und einem Streifen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": "2027-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Anlage 1 StVO 2013 - Einzelnorm",
+        "url": "https://www.gesetze-im-internet.de/stvo_2013/anlage_1.html",
+        "verified_claim": "Die drei Streifen stehen für etwa 240 Meter Entfernung. Darauf folgen üblicherweise die Baken mit zwei und einem Streifen.",
+        "checked_at": "2026-11-20T01:21:11.137Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-ortstafel-beginn",
+    "fact_key": "ortstafel-beginn",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Grenze markiert die Vorderseite der deutschen Ortstafel im Straßenverkehr (Stand 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Beginn einer geschlossenen Ortschaft"
+      },
+      {
+        "id": "b",
+        "text": "Den Beginn eines Bundeslandes"
+      },
+      {
+        "id": "c",
+        "text": "Den ersten Postbezirk"
+      },
+      {
+        "id": "d",
+        "text": "Den Rand eines Naturparks"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "An der Ortstafel beginnt der Bereich, für den die Verkehrsregeln innerhalb geschlossener Ortschaften gelten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": "2027-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Anlage 3 StVO 2013 - Einzelnorm",
+        "url": "https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html",
+        "verified_claim": "An der Ortstafel beginnt der Bereich, für den die Verkehrsregeln innerhalb geschlossener Ortschaften gelten.",
+        "checked_at": "2026-11-20T01:21:11.137Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-parkscheibe-zusatz",
+    "fact_key": "parkscheibe-zusatz",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was gibt die Stundenzahl auf dem Zusatzzeichen mit Parkscheibensymbol an (Stand 2026)?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die zulässige Höchstparkdauer"
+      },
+      {
+        "id": "b",
+        "text": "Das Alter der Parkscheibe"
+      },
+      {
+        "id": "c",
+        "text": "Die Zahl der Stellplätze"
+      },
+      {
+        "id": "d",
+        "text": "Die Dauer der Anfahrt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Angabe nennt die Höchstdauer für das Parken mit Parkscheibe an diesem Platz.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": "2027-11-20",
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Anlage 3 StVO 2013 - Einzelnorm",
+        "url": "https://www.gesetze-im-internet.de/stvo_2013/anlage_3.html",
+        "verified_claim": "Die Angabe nennt die Höchstdauer für das Parken mit Parkscheibe an diesem Platz.",
+        "checked_at": "2026-11-20T01:21:11.137Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:22.096Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:32:46.823Z"
+      },
+      "approved_at": "2026-11-20T01:32:46.823Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

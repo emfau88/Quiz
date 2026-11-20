@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "k-art-alba-madonna",
+    "fact_key": "art.alba_madonna",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welcher italienische Renaissancemaler schuf die „Alba-Madonna“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Raffael"
+      },
+      {
+        "id": "b",
+        "text": "Sandro Botticelli"
+      },
+      {
+        "id": "c",
+        "text": "Tizian"
+      },
+      {
+        "id": "d",
+        "text": "Caravaggio"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die National Gallery of Art datiert Raffaels Madonnenbild auf etwa 1510.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · The Alba Madonna",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Die National Gallery of Art datiert Raffaels Madonnenbild auf etwa 1510.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-red-hat",
+    "fact_key": "art.red_hat",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer malte das in Washington aufbewahrte „Mädchen mit dem roten Hut“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Johannes Vermeer"
+      },
+      {
+        "id": "b",
+        "text": "Peter Paul Rubens"
+      },
+      {
+        "id": "c",
+        "text": "Frans Hals"
+      },
+      {
+        "id": "d",
+        "text": "Pieter Bruegel der Ältere"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Vermeers Gemälde entstand nach der Datierung des Museums um 1669 auf einer Holztafel.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · Girl with the Red Hat",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Vermeers Gemälde entstand nach der Datierung des Museums um 1669 auf einer Holztafel.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-rembrandt-selfportrait",
+    "fact_key": "art.rembrandt.selfportrait",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wessen Selbstbildnis von 1659 befindet sich in der National Gallery of Art in Washington?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rembrandt van Rijn"
+      },
+      {
+        "id": "b",
+        "text": "Johannes Vermeer"
+      },
+      {
+        "id": "c",
+        "text": "Claude Monet"
+      },
+      {
+        "id": "d",
+        "text": "Edgar Degas"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Rembrandt malte das Selbstbildnis mit Ölfarben auf Leinwand.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · Self-Portrait",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Rembrandt malte das Selbstbildnis mit Ölfarben auf Leinwand.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-degas-ballet",
+    "fact_key": "art.degas.ballet",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welcher Maler schuf um 1890 das Bild „Vor dem Ballett“ in der Washingtoner National Gallery of Art?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Edgar Degas"
+      },
+      {
+        "id": "b",
+        "text": "Paul Gauguin"
+      },
+      {
+        "id": "c",
+        "text": "Piet Mondrian"
+      },
+      {
+        "id": "d",
+        "text": "Edward Hopper"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Museum führt Degas’ Gemälde unter dem englischen Titel „Before the Ballet“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · Before the Ballet",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Das Museum führt Degas’ Gemälde unter dem englischen Titel „Before the Ballet“.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-renoir-dancer",
+    "fact_key": "art.renoir.dancer",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer malte 1874 das Washingtoner Ölgemälde „Die Tänzerin“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auguste Renoir"
+      },
+      {
+        "id": "b",
+        "text": "Édouard Manet"
+      },
+      {
+        "id": "c",
+        "text": "Edvard Munch"
+      },
+      {
+        "id": "d",
+        "text": "Paul Cézanne"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Gemälde ist in der National Gallery of Art als „The Dancer“ verzeichnet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · The Dancer",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Das Gemälde ist in der National Gallery of Art als „The Dancer“ verzeichnet.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-homer-breezing",
+    "fact_key": "art.homer.breezing",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Wer schuf das in Washington aufbewahrte Gemälde „Breezing Up (A Fair Wind)“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Winslow Homer"
+      },
+      {
+        "id": "b",
+        "text": "Edward Hopper"
+      },
+      {
+        "id": "c",
+        "text": "Mark Rothko"
+      },
+      {
+        "id": "d",
+        "text": "Jackson Pollock"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Winslow Homer arbeitete von 1873 bis 1876 an dem Ölgemälde.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · Breezing Up (A Fair Wind)",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Winslow Homer arbeitete von 1873 bis 1876 an dem Ölgemälde.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-duerer-material",
+    "fact_key": "art.duerer.material",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Auf welches ungewöhnliche Material malte Albrecht Dürer sein Washingtoner „Porträt eines Geistlichen“ von 1516?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pergament"
+      },
+      {
+        "id": "b",
+        "text": "Glas"
+      },
+      {
+        "id": "c",
+        "text": "Elfenbein"
+      },
+      {
+        "id": "d",
+        "text": "Schiefer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Museum beschreibt den Bildträger als Pergament auf Gewebe. Dürer verwendete Ölfarbe.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · Portrait of a Clergyman (Johann Dorsch?)",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Das Museum beschreibt den Bildträger als Pergament auf Gewebe. Dürer verwendete Ölfarbe.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-morisot-sisters",
+    "fact_key": "art.morisot.sisters",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Von welcher Malerin stammt das Bild „Die Schwestern“ von 1869 in der National Gallery of Art?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Berthe Morisot"
+      },
+      {
+        "id": "b",
+        "text": "Mary Cassatt"
+      },
+      {
+        "id": "c",
+        "text": "Frida Kahlo"
+      },
+      {
+        "id": "d",
+        "text": "Paula Modersohn-Becker"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Morisot malte „The Sisters“ mit Öl auf Leinwand.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · The Sisters",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Morisot malte „The Sisters“ mit Öl auf Leinwand.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-monet-parliament",
+    "fact_key": "art.monet.parliament",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welches Londoner Bauwerk stellte Claude Monet 1903 im Abendlicht dar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Parlament"
+      },
+      {
+        "id": "b",
+        "text": "Den Tower"
+      },
+      {
+        "id": "c",
+        "text": "Die Westminster Abbey"
+      },
+      {
+        "id": "d",
+        "text": "Die St.-Pauls-Kathedrale"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Monet stellte das britische Parlamentsgebäude bei Sonnenuntergang dar.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · The Houses of Parliament, Sunset",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Monet stellte das britische Parlamentsgebäude bei Sonnenuntergang dar.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-monet-rouen",
+    "fact_key": "art.monet.rouen",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welches französische Bauwerk zeigt Claude Monets Washingtoner Fassadenbild von 1894?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Kathedrale von Rouen"
+      },
+      {
+        "id": "b",
+        "text": "Den Arc de Triomphe"
+      },
+      {
+        "id": "c",
+        "text": "Das Schloss Chambord"
+      },
+      {
+        "id": "d",
+        "text": "Die Basilika Sacré-Cœur"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Bild zeigt die Westfassade der Kathedrale von Rouen und gehört zur Sammlung der National Gallery of Art.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · Rouen Cathedral, West Façade",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Das Bild zeigt die Westfassade der Kathedrale von Rouen und gehört zur Sammlung der National Gallery of Art.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-morisot-bird",
+    "fact_key": "art.morisot.bird",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Mit welchem Tier malte Berthe Morisot 1890 ihre Tochter?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit einem Sittich"
+      },
+      {
+        "id": "b",
+        "text": "Mit einem Fuchs"
+      },
+      {
+        "id": "c",
+        "text": "Mit einem Pferd"
+      },
+      {
+        "id": "d",
+        "text": "Mit einer Katze"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Museumstitel „The Artist’s Daughter with a Parakeet“ nennt das Kind und seinen gefiederten Begleiter.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · The Artist's Daughter with a Parakeet",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Der Museumstitel „The Artist’s Daughter with a Parakeet“ nennt das Kind und seinen gefiederten Begleiter.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-cassatt-boating",
+    "fact_key": "art.cassatt.boating",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welche Künstlerin schuf das Washingtoner Gemälde „The Boating Party“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mary Cassatt"
+      },
+      {
+        "id": "b",
+        "text": "Berthe Morisot"
+      },
+      {
+        "id": "c",
+        "text": "Louise Bourgeois"
+      },
+      {
+        "id": "d",
+        "text": "Georgia O’Keeffe"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Ölgemälde entstand laut Sammlungskatalog 1893 oder 1894.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · The Boating Party",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Das Ölgemälde entstand laut Sammlungskatalog 1893 oder 1894.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-gauguin-brittany",
+    "fact_key": "art.gauguin.brittany",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Von wem stammt das 1888 entstandene Washingtoner Gemälde „Brittany Landscape“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Paul Gauguin"
+      },
+      {
+        "id": "b",
+        "text": "Vincent van Gogh"
+      },
+      {
+        "id": "c",
+        "text": "Claude Monet"
+      },
+      {
+        "id": "d",
+        "text": "Camille Pissarro"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der englische Museumstitel nennt die Bretagne. Gauguin malte das Bild mit Öl auf Leinwand.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · Brittany Landscape",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Der englische Museumstitel nennt die Bretagne. Gauguin malte das Bild mit Öl auf Leinwand.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-vangogh-lamousme",
+    "fact_key": "art.vangogh.lamousme",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer malte 1888 das Porträt „La Mousmé“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vincent van Gogh"
+      },
+      {
+        "id": "b",
+        "text": "Henri Rousseau"
+      },
+      {
+        "id": "c",
+        "text": "Claude Monet"
+      },
+      {
+        "id": "d",
+        "text": "Pierre Bonnard"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Ölgemälde gehört heute zur National Gallery of Art in Washington.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · La Mousmé",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Das Ölgemälde gehört heute zur National Gallery of Art in Washington.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-rousseau-jungle",
+    "fact_key": "art.rousseau.jungle",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer malte „The Equatorial Jungle“, ein Dschungelbild von 1909?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Henri Rousseau"
+      },
+      {
+        "id": "b",
+        "text": "Georges Seurat"
+      },
+      {
+        "id": "c",
+        "text": "Camille Pissarro"
+      },
+      {
+        "id": "d",
+        "text": "Edgar Degas"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die National Gallery of Art führt Henri Rousseau als Maler des Werks.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · The Equatorial Jungle",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Die National Gallery of Art führt Henri Rousseau als Maler des Werks.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-toulouse-material",
+    "fact_key": "art.toulouse.material",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Auf welchem Bildträger malte Toulouse-Lautrec 1892 eine Ecke des Pariser Moulin de la Galette?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Karton"
+      },
+      {
+        "id": "b",
+        "text": "Marmor"
+      },
+      {
+        "id": "c",
+        "text": "Kupferblech"
+      },
+      {
+        "id": "d",
+        "text": "Porzellan"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Museum verzeichnet Öl auf Karton als Technik des Bildes.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · A Corner of the Moulin de la Galette",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Das Museum verzeichnet Öl auf Karton als Technik des Bildes.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-ginevra-portrait",
+    "fact_key": "art.ginevra.portrait",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer malte das Porträt der Ginevra de’ Benci?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Leonardo da Vinci"
+      },
+      {
+        "id": "b",
+        "text": "Michelangelo"
+      },
+      {
+        "id": "c",
+        "text": "Tizian"
+      },
+      {
+        "id": "d",
+        "text": "Tintoretto"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Washingtoner Porträt auf Holz entstand in den 1470er-Jahren.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · Ginevra de' Benci [obverse]",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Das Washingtoner Porträt auf Holz entstand in den 1470er-Jahren.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-mondrian-lozenge",
+    "fact_key": "art.mondrian.lozenge",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Mit welchem Künstler verbindet sich das „Tableau Nr. IV“, eine rautenförmige Komposition mit Rot, Grau, Blau, Gelb und Schwarz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Piet Mondrian"
+      },
+      {
+        "id": "b",
+        "text": "Gustav Klimt"
+      },
+      {
+        "id": "c",
+        "text": "Marc Chagall"
+      },
+      {
+        "id": "d",
+        "text": "Claude Monet"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Gemälde entstand um 1924/25. Der Washingtoner Sammlungstitel beschreibt die Komposition als Raute.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · Tableau No. IV; Lozenge Composition with Red, Gray, Blue, Yellow, and Black",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Das Gemälde entstand um 1924/25. Der Washingtoner Sammlungstitel beschreibt die Komposition als Raute.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-pollock-lavender",
+    "fact_key": "art.pollock.lavender",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer malte „Lavender Mist“, auch bekannt als „Number 1, 1950“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jackson Pollock"
+      },
+      {
+        "id": "b",
+        "text": "Andy Warhol"
+      },
+      {
+        "id": "c",
+        "text": "Mark Rothko"
+      },
+      {
+        "id": "d",
+        "text": "Roy Lichtenstein"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die National Gallery of Art nennt neben Öl und Lack auch Aluminium als Material des Bildes.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · Number 1, 1950 (Lavender Mist)",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Die National Gallery of Art nennt neben Öl und Lack auch Aluminium als Material des Bildes.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-kollwitz-bronze",
+    "fact_key": "art.kollwitz.bronze",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Aus welchem Material besteht Käthe Kollwitz’ Washingtoner Skulptur „In Gottes Händen“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bronze"
+      },
+      {
+        "id": "b",
+        "text": "Alabaster"
+      },
+      {
+        "id": "c",
+        "text": "Eichenholz"
+      },
+      {
+        "id": "d",
+        "text": "Porzellan"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Museum datiert die Bronze auf 1935/36.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · In God's Hands",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Das Museum datiert die Bronze auf 1935/36.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-kandinsky-improvisation",
+    "fact_key": "art.kandinsky.improvisation",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welcher Maler gab seinem Werk von 1913 den Titel „Improvisation 31 (Seeschlacht)“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wassily Kandinsky"
+      },
+      {
+        "id": "b",
+        "text": "Paul Klee"
+      },
+      {
+        "id": "c",
+        "text": "Lyonel Feininger"
+      },
+      {
+        "id": "d",
+        "text": "Franz Marc"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kandinskys „Improvisation 31“ ist als Ölgemälde auf Leinwand in Washington verzeichnet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · Improvisation 31 (Sea Battle)",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Kandinskys „Improvisation 31“ ist als Ölgemälde auf Leinwand in Washington verzeichnet.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-hopper-cod",
+    "fact_key": "art.hopper.cod",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schuf „Cape Cod Evening“, ein amerikanisches Gemälde von 1939?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Edward Hopper"
+      },
+      {
+        "id": "b",
+        "text": "Jackson Pollock"
+      },
+      {
+        "id": "c",
+        "text": "Andy Warhol"
+      },
+      {
+        "id": "d",
+        "text": "Grant Wood"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Hopper malte „Cape Cod Evening“ mit Ölfarben auf Leinwand.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · Cape Cod Evening",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Hopper malte „Cape Cod Evening“ mit Ölfarben auf Leinwand.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-warhol-marilyn",
+    "fact_key": "art.warhol.marilyn",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welche Drucktechnik verwendete Andy Warhol für „Green Marilyn“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Siebdruck"
+      },
+      {
+        "id": "b",
+        "text": "Holzschnitt"
+      },
+      {
+        "id": "c",
+        "text": "Kupferstich"
+      },
+      {
+        "id": "d",
+        "text": "Radierung"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Werk von 1962 kombiniert Acrylfarbe und Siebdruckfarbe auf Leinen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · Green Marilyn",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Das Werk von 1962 kombiniert Acrylfarbe und Siebdruckfarbe auf Leinen.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-okeeffe-jack",
+    "fact_key": "art.okeeffe.jack",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Wer malte 1930 die Washingtoner Bildfolge mit dem Pflanzennamen „Jack-in-the-Pulpit“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Georgia O’Keeffe"
+      },
+      {
+        "id": "b",
+        "text": "Frida Kahlo"
+      },
+      {
+        "id": "c",
+        "text": "Helen Frankenthaler"
+      },
+      {
+        "id": "d",
+        "text": "Mary Cassatt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die National Gallery of Art besitzt mehrere nummerierte Ölgemälde Georgia O’Keeffes mit diesem Motiv.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · Jack-in-Pulpit - No. 2",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Die National Gallery of Art besitzt mehrere nummerierte Ölgemälde Georgia O’Keeffes mit diesem Motiv.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-art-picasso-legourmet",
+    "fact_key": "art.picasso.legourmet",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer malte 1901 „Le gourmet“, ein Werk in der National Gallery of Art?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pablo Picasso"
+      },
+      {
+        "id": "b",
+        "text": "Juan Gris"
+      },
+      {
+        "id": "c",
+        "text": "Joan Miró"
+      },
+      {
+        "id": "d",
+        "text": "Salvador Dalí"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Museum verzeichnet „Le gourmet“ als Ölgemälde auf Leinwand.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Gallery of Art · Open Data · Le gourmet",
+        "url": "https://raw.githubusercontent.com/NationalGalleryOfArt/opendata/main/data/objects.csv",
+        "verified_claim": "Das Museum verzeichnet „Le gourmet“ als Ölgemälde auf Leinwand.",
+        "checked_at": "2026-11-20T01:11:39+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:42:58+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:44:25+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:44:25+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

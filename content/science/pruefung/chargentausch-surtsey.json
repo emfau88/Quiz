@@ -1,0 +1,82 @@
+{
+  "batch": "04-reisen-welterbe",
+  "previous": "versailles-residenz",
+  "new": {
+    "id": "qs-surtsey-island-kueste",
+    "fact_key": "surtsey-island-kueste",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Vor welcher großen Insel entstand in den 1960er-Jahren durch Vulkanausbrüche die neue Insel Surtsey?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Island"
+      },
+      {
+        "id": "b",
+        "text": "Irland"
+      },
+      {
+        "id": "c",
+        "text": "Korsika"
+      },
+      {
+        "id": "d",
+        "text": "Sardinien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Von 1963 bis 1967 bauten Vulkanausbrüche Surtsey rund 32 Kilometer vor der Südküste Islands auf.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Surtsey - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1267/",
+        "verified_claim": "Von 1963 bis 1967 bauten Vulkanausbrüche Surtsey rund 32 Kilometer vor der Südküste Islands auf.",
+        "checked_at": "2026-11-20T01:47:45.689Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:55:37.089Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:56:24.416Z"
+      },
+      "approved_at": "2026-11-20T01:56:24.416Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  "source_lines": [
+    "L4"
+  ],
+  "reason": "Ressortübergreifender Vergleich erkannte den bereits im Kultur-Referenzbestand abgefragten Sachverhalt zur königlichen Residenz von Versailles. Aus dem Länder-Ausbau entfernt."
+}

@@ -1,0 +1,72 @@
+{
+  "id": "k-speyer-romanesque",
+  "fact_key": "speyer.romanesque",
+  "category": "history_discoveries",
+  "difficulty": "easy",
+  "question": "In welchem Stil wurde der unter Konrad II. begonnene Speyerer Dom errichtet?",
+  "options": [
+    {
+      "id": "a",
+      "text": "Romanik"
+    },
+    {
+      "id": "b",
+      "text": "Rokoko"
+    },
+    {
+      "id": "c",
+      "text": "Jugendstil"
+    },
+    {
+      "id": "d",
+      "text": "Klassizismus"
+    }
+  ],
+  "correct_option_id": "a",
+  "explanation": "Der Bau begann 1030. Die Basilika mit vier Türmen gehört zu den bedeutenden Bauwerken der Romanik.",
+  "tags": [],
+  "content_revision": 1,
+  "semantic_revision": 1,
+  "valid_until": null,
+  "status": "release_approved",
+  "sources": [
+    {
+      "id": "s1",
+      "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Speyer Cathedral",
+      "url": "https://whc.unesco.org/en/list/168/",
+      "verified_claim": "Der Bau begann 1030. Die Basilika mit vier Türmen gehört zu den bedeutenden Bauwerken der Romanik.",
+      "checked_at": "2026-11-20T01:36:36+00:00"
+    }
+  ],
+  "review": {
+    "fact": {
+      "actor_type": "agent",
+      "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "at": "2026-11-20T01:44:42+00:00",
+      "source_ids": [
+        "s1"
+      ],
+      "content_revision": 1,
+      "semantic_revision": 1,
+      "result": "pass"
+    },
+    "editorial": {
+      "actor_type": "agent",
+      "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "at": "2026-11-20T01:44:55+00:00",
+      "source_ids": [
+        "s1"
+      ],
+      "content_revision": 1,
+      "semantic_revision": 1,
+      "result": "pass"
+    },
+    "approved_at": "2026-11-20T01:44:55+00:00",
+    "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+    "issues": [],
+    "length_exception": null
+  },
+  "human_test_observations": [],
+  "reference": false,
+  "starter": false
+}

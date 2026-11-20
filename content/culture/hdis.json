@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "k-research-26-1921",
+    "fact_key": "research.26.1921",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welches Phänomen hob die Nobelpreisbegründung für Albert Einstein 1921 ausdrücklich hervor?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den photoelektrischen Effekt"
+      },
+      {
+        "id": "b",
+        "text": "Die Kernspaltung"
+      },
+      {
+        "id": "c",
+        "text": "Die Supraleitung"
+      },
+      {
+        "id": "d",
+        "text": "Die kosmische Hintergrundstrahlung"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Gewürdigt wurde Einsteins Erklärung des Gesetzes für den photoelektrischen Effekt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Albert Einstein, 1921",
+        "url": "https://api.nobelprize.org/2.1/laureate/26",
+        "verified_claim": "Gewürdigt wurde Einsteins Erklärung des Gesetzes für den photoelektrischen Effekt.",
+        "checked_at": "2026-11-20T01:36:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-6-1911",
+    "fact_key": "research.6.1911",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche beiden Elemente nennt die Begründung für Marie Curies Chemie-Nobelpreis von 1911?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Radium und Polonium"
+      },
+      {
+        "id": "b",
+        "text": "Helium und Neon"
+      },
+      {
+        "id": "c",
+        "text": "Eisen und Kupfer"
+      },
+      {
+        "id": "d",
+        "text": "Uran und Platin"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Auszeichnung betraf unter anderem die Entdeckung beider Elemente und die Isolierung von Radium.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Marie Curie, 1911",
+        "url": "https://api.nobelprize.org/2.1/laureate/6",
+        "verified_claim": "Die Auszeichnung betraf unter anderem die Entdeckung beider Elemente und die Isolierung von Radium.",
+        "checked_at": "2026-11-20T01:36:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-339-1945",
+    "fact_key": "research.339.1945",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Für die Entdeckung welches Wirkstoffs teilte sich Alexander Fleming den Medizin-Nobelpreis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Penicillin"
+      },
+      {
+        "id": "b",
+        "text": "Insulin"
+      },
+      {
+        "id": "c",
+        "text": "Vitamin C"
+      },
+      {
+        "id": "d",
+        "text": "Kortison"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Preis von 1945 würdigte die Entdeckung des Penicillins und seine Wirkung gegen verschiedene Infektionen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Sir Alexander Fleming, 1945",
+        "url": "https://api.nobelprize.org/2.1/laureate/339",
+        "verified_claim": "Der Preis von 1945 würdigte die Entdeckung des Penicillins und seine Wirkung gegen verschiedene Infektionen.",
+        "checked_at": "2026-11-20T01:36:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-313-1923",
+    "fact_key": "research.313.1923",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Entdeckung brachte Frederick Banting 1923 einen Anteil am Medizin-Nobelpreis ein?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Insulin"
+      },
+      {
+        "id": "b",
+        "text": "Penicillin"
+      },
+      {
+        "id": "c",
+        "text": "Adrenalin"
+      },
+      {
+        "id": "d",
+        "text": "Vitamin K"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Banting wurde für die Entdeckung von Insulin ausgezeichnet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Frederick G. Banting, 1923",
+        "url": "https://api.nobelprize.org/2.1/laureate/313",
+        "verified_claim": "Banting wurde für die Entdeckung von Insulin ausgezeichnet.",
+        "checked_at": "2026-11-20T01:36:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-13-1909",
+    "fact_key": "research.13.1909",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wie wurden Nachrichten bei der Technik übermittelt, für die Guglielmo Marconi 1909 geehrt wurde?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Drahtlos per Funk"
+      },
+      {
+        "id": "b",
+        "text": "Durch eine Rohrpost"
+      },
+      {
+        "id": "c",
+        "text": "Durch Lichtleitfasern"
+      },
+      {
+        "id": "d",
+        "text": "Mit einem mechanischen Seilzug"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Auszeichnung würdigte Marconis Beiträge zur drahtlosen Telegrafie.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Guglielmo Marconi, 1909",
+        "url": "https://api.nobelprize.org/2.1/laureate/13",
+        "verified_claim": "Die Auszeichnung würdigte Marconis Beiträge zur drahtlosen Telegrafie.",
+        "checked_at": "2026-11-20T01:36:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-23-1918",
+    "fact_key": "research.23.1918",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Vorstellung über Energie ist mit Max Plancks Nobelpreis verbunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Energiequanten"
+      },
+      {
+        "id": "b",
+        "text": "Kontinentalverschiebung"
+      },
+      {
+        "id": "c",
+        "text": "Plattentektonik"
+      },
+      {
+        "id": "d",
+        "text": "Natürliche Selektion"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Planck erhielt den Physik-Nobelpreis für die Entdeckung der Energiequanten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Max Planck, 1918",
+        "url": "https://api.nobelprize.org/2.1/laureate/23",
+        "verified_claim": "Planck erhielt den Physik-Nobelpreis für die Entdeckung der Energiequanten.",
+        "checked_at": "2026-11-20T01:36:26+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-27-1922",
+    "fact_key": "research.27.1922",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Auf welchen Bereich bezog sich der Physik-Nobelpreis für Niels Bohr 1922?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Aufbau der Atome"
+      },
+      {
+        "id": "b",
+        "text": "Den Aufbau der Erdkruste"
+      },
+      {
+        "id": "c",
+        "text": "Die Umlaufbahnen von Kometen"
+      },
+      {
+        "id": "d",
+        "text": "Die Strömung der Ozeane"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Begründung nannte Untersuchungen zum Atombau und zur von Atomen ausgesandten Strahlung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Niels Bohr, 1922",
+        "url": "https://api.nobelprize.org/2.1/laureate/27",
+        "verified_claim": "Die Begründung nannte Untersuchungen zum Atombau und zur von Atomen ausgesandten Strahlung.",
+        "checked_at": "2026-11-20T01:36:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-4-1903",
+    "fact_key": "research.4.1903",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welches Naturphänomen hatte Henri Becquerel entdeckt, für das er 1903 ausgezeichnet wurde?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spontane Radioaktivität"
+      },
+      {
+        "id": "b",
+        "text": "Kontinentaldrift"
+      },
+      {
+        "id": "c",
+        "text": "Supraleitung"
+      },
+      {
+        "id": "d",
+        "text": "Elektromagnetische Induktion"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Becquerel wurde für die Entdeckung der von selbst auftretenden Radioaktivität geehrt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Henri Becquerel, 1903",
+        "url": "https://api.nobelprize.org/2.1/laureate/4",
+        "verified_claim": "Becquerel wurde für die Entdeckung der von selbst auftretenden Radioaktivität geehrt.",
+        "checked_at": "2026-11-20T01:36:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-41-1935",
+    "fact_key": "research.41.1935",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welches Teilchen entdeckte James Chadwick?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Neutron"
+      },
+      {
+        "id": "b",
+        "text": "Das Positron"
+      },
+      {
+        "id": "c",
+        "text": "Das Elektron"
+      },
+      {
+        "id": "d",
+        "text": "Das Photon"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Für die Entdeckung des Neutrons erhielt Chadwick 1935 den Physik-Nobelpreis.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · James Chadwick, 1935",
+        "url": "https://api.nobelprize.org/2.1/laureate/41",
+        "verified_claim": "Für die Entdeckung des Neutrons erhielt Chadwick 1935 den Physik-Nobelpreis.",
+        "checked_at": "2026-11-20T01:36:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-1-1901",
+    "fact_key": "research.1.1901",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher Forscher erhielt 1901 den Physik-Nobelpreis für die später nach ihm benannten Strahlen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wilhelm Conrad Röntgen"
+      },
+      {
+        "id": "b",
+        "text": "Heinrich Hertz"
+      },
+      {
+        "id": "c",
+        "text": "Gustav Kirchhoff"
+      },
+      {
+        "id": "d",
+        "text": "Alessandro Volta"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Preis würdigte die Entdeckung der Strahlen, die heute Röntgenstrahlen heißen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Wilhelm Conrad Röntgen, 1901",
+        "url": "https://api.nobelprize.org/2.1/laureate/1",
+        "verified_claim": "Der Preis würdigte die Entdeckung der Strahlen, die heute Röntgenstrahlen heißen.",
+        "checked_at": "2026-11-20T01:36:24+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-127-1986",
+    "fact_key": "research.127.1986",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "An welchem Instrument arbeitete Ernst Ruska, der dafür 1986 den Physik-Nobelpreis teilte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Am Elektronenmikroskop"
+      },
+      {
+        "id": "b",
+        "text": "Am Radioteleskop"
+      },
+      {
+        "id": "c",
+        "text": "Am Seismografen"
+      },
+      {
+        "id": "d",
+        "text": "Am Elektrokardiografen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ruska entwarf das erste Elektronenmikroskop. Grundlage waren seine Arbeiten auf dem Gebiet der Elektronenoptik.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Ernst Ruska, 1986",
+        "url": "https://api.nobelprize.org/2.1/laureate/127",
+        "verified_claim": "Ruska entwarf das erste Elektronenmikroskop. Grundlage waren seine Arbeiten auf dem Gebiet der Elektronenoptik.",
+        "checked_at": "2026-11-20T01:36:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-315-1924",
+    "fact_key": "research.315.1924",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welches medizinische Aufzeichnungsverfahren steht im Mittelpunkt der Arbeiten von Willem Einthoven?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Elektrokardiogramm"
+      },
+      {
+        "id": "b",
+        "text": "Das Röntgenbild"
+      },
+      {
+        "id": "c",
+        "text": "Das Ultraschallbild"
+      },
+      {
+        "id": "d",
+        "text": "Das Elektroenzephalogramm"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Einthovens Arbeit zum EKG wurde 1924 mit dem Medizin-Nobelpreis ausgezeichnet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Willem Einthoven, 1924",
+        "url": "https://api.nobelprize.org/2.1/laureate/315",
+        "verified_claim": "Einthovens Arbeit zum EKG wurde 1924 mit dem Medizin-Nobelpreis ausgezeichnet.",
+        "checked_at": "2026-11-20T01:36:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-418-1979",
+    "fact_key": "research.418.1979",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Technik zur medizinischen Bildgebung entwickelte Godfrey Hounsfield mit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Computertomografie"
+      },
+      {
+        "id": "b",
+        "text": "Die Ultraschalluntersuchung"
+      },
+      {
+        "id": "c",
+        "text": "Die Thermografie"
+      },
+      {
+        "id": "d",
+        "text": "Die Lichtmikroskopie"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Hounsfield teilte sich 1979 den Medizin-Nobelpreis für die Entwicklung der computergestützten Tomografie.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Godfrey N. Hounsfield, 1979",
+        "url": "https://api.nobelprize.org/2.1/laureate/418",
+        "verified_claim": "Hounsfield teilte sich 1979 den Medizin-Nobelpreis für die Entwicklung der computergestützten Tomografie.",
+        "checked_at": "2026-11-20T01:36:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-976-2019",
+    "fact_key": "research.976.2019",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Für welchen Energiespeicher wurde John Goodenough 2019 mit dem Chemie-Nobelpreis ausgezeichnet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für Lithium-Ionen-Akkus"
+      },
+      {
+        "id": "b",
+        "text": "Für Pumpspeicher"
+      },
+      {
+        "id": "c",
+        "text": "Für Druckluftspeicher"
+      },
+      {
+        "id": "d",
+        "text": "Für Schwungräder"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Preis würdigte die Entwicklung wiederaufladbarer Lithium-Ionen-Batterien.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · John B. Goodenough, 2019",
+        "url": "https://api.nobelprize.org/2.1/laureate/976",
+        "verified_claim": "Der Preis würdigte die Entwicklung wiederaufladbarer Lithium-Ionen-Batterien.",
+        "checked_at": "2026-11-20T01:36:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-906-2014",
+    "fact_key": "research.906.2014",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Farbe hatten die effizienten Leuchtdioden, für die Isamu Akasaki 2014 den Nobelpreis mit erhielt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Blau"
+      },
+      {
+        "id": "b",
+        "text": "Rot"
+      },
+      {
+        "id": "c",
+        "text": "Gelb"
+      },
+      {
+        "id": "d",
+        "text": "Grün"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Blaue Leuchtdioden ermöglichten zusammen mit anderen Komponenten helle, energiesparende weiße Lichtquellen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Isamu Akasaki, 2014",
+        "url": "https://api.nobelprize.org/2.1/laureate/906",
+        "verified_claim": "Blaue Leuchtdioden ermöglichten zusammen mit anderen Komponenten helle, energiesparende weiße Lichtquellen.",
+        "checked_at": "2026-11-20T01:36:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-849-2010",
+    "fact_key": "research.849.2010",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Mit welchem zweidimensionalen Material beschäftigten sich die ausgezeichneten Versuche von Andre Geim?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Graphen"
+      },
+      {
+        "id": "b",
+        "text": "Quarzglas"
+      },
+      {
+        "id": "c",
+        "text": "Bernstein"
+      },
+      {
+        "id": "d",
+        "text": "Bakelit"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Physik-Nobelpreis von 2010 ging an Arbeiten mit dem zweidimensionalen Material Graphen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Andre Geim, 2010",
+        "url": "https://api.nobelprize.org/2.1/laureate/849",
+        "verified_claim": "Der Physik-Nobelpreis von 2010 ging an Arbeiten mit dem zweidimensionalen Material Graphen.",
+        "checked_at": "2026-11-20T01:36:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-942-2017",
+    "fact_key": "research.942.2017",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Wellen standen im Mittelpunkt des LIGO-Nachweises, für den 2017 der Physik-Nobelpreis vergeben wurde?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gravitationswellen"
+      },
+      {
+        "id": "b",
+        "text": "Schallwellen"
+      },
+      {
+        "id": "c",
+        "text": "Wasserwellen"
+      },
+      {
+        "id": "d",
+        "text": "Druckwellen in der Luft"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Preis würdigte Beiträge zum LIGO-Detektor und zur Beobachtung von Gravitationswellen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Barry C. Barish, 2017",
+        "url": "https://api.nobelprize.org/2.1/laureate/942",
+        "verified_claim": "Der Preis würdigte Beiträge zum LIGO-Detektor und zur Beobachtung von Gravitationswellen.",
+        "checked_at": "2026-11-20T01:36:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-728-2000",
+    "fact_key": "research.728.2000",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Zu welcher elektronischen Erfindung trug Jack Kilby entscheidend bei?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zum integrierten Schaltkreis"
+      },
+      {
+        "id": "b",
+        "text": "Zur Elektronenröhre"
+      },
+      {
+        "id": "c",
+        "text": "Zum Kondensatormikrofon"
+      },
+      {
+        "id": "d",
+        "text": "Zur Lochkarte"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kilby wurde im Jahr 2000 für seinen Anteil an der Erfindung der integrierten Schaltung geehrt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Jack Kilby, 2000",
+        "url": "https://api.nobelprize.org/2.1/laureate/728",
+        "verified_claim": "Kilby wurde im Jahr 2000 für seinen Anteil an der Erfindung der integrierten Schaltung geehrt.",
+        "checked_at": "2026-11-20T01:36:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-66-1956",
+    "fact_key": "research.66.1956",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Mit welchem Effekt in Halbleitern ist der Physik-Nobelpreis für John Bardeen von 1956 verbunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit dem Transistoreffekt"
+      },
+      {
+        "id": "b",
+        "text": "Mit dem Dopplereffekt"
+      },
+      {
+        "id": "c",
+        "text": "Mit dem Treibhauseffekt"
+      },
+      {
+        "id": "d",
+        "text": "Mit dem Corioliseffekt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Preis galt der Halbleiterforschung und der Entdeckung des Transistoreffekts.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · John Bardeen, 1956",
+        "url": "https://api.nobelprize.org/2.1/laureate/66",
+        "verified_claim": "Der Preis galt der Halbleiterforschung und der Entdeckung des Transistoreffekts.",
+        "checked_at": "2026-11-20T01:36:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-128-1986",
+    "fact_key": "research.128.1986",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welches Instrument entwarfen Gerd Binnig und Heinrich Rohrer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Rastertunnelmikroskop"
+      },
+      {
+        "id": "b",
+        "text": "Das Spiegelteleskop"
+      },
+      {
+        "id": "c",
+        "text": "Den Lochkartensortierer"
+      },
+      {
+        "id": "d",
+        "text": "Den Fernschreiber"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Entwurf des Rastertunnelmikroskops wurde 1986 mit dem Physik-Nobelpreis gewürdigt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Gerd Binnig, 1986",
+        "url": "https://api.nobelprize.org/2.1/laureate/128",
+        "verified_claim": "Der Entwurf des Rastertunnelmikroskops wurde 1986 mit dem Physik-Nobelpreis gewürdigt.",
+        "checked_at": "2026-11-20T01:36:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-111-1978",
+    "fact_key": "research.111.1978",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welche Strahlung wies Arno Penzias zusammen mit Robert Wilson nach?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die kosmische Mikrowellen-Hintergrundstrahlung"
+      },
+      {
+        "id": "b",
+        "text": "Die Infrarotstrahlung des Mondes"
+      },
+      {
+        "id": "c",
+        "text": "Die Gammastrahlung des Radiums"
+      },
+      {
+        "id": "d",
+        "text": "Die Ultraviolettstrahlung der Sonne"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Entdeckung der kosmischen Hintergrundstrahlung wurde 1978 mit dem Physik-Nobelpreis ausgezeichnet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Arno Penzias, 1978",
+        "url": "https://api.nobelprize.org/2.1/laureate/111",
+        "verified_claim": "Die Entdeckung der kosmischen Hintergrundstrahlung wurde 1978 mit dem Physik-Nobelpreis ausgezeichnet.",
+        "checked_at": "2026-11-20T01:36:24+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-988-2020",
+    "fact_key": "research.988.2020",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Für Arbeiten zu welchen Himmelsobjekten erhielt Roger Penrose 2020 den Physik-Nobelpreis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zu Schwarzen Löchern"
+      },
+      {
+        "id": "b",
+        "text": "Zu Kometen"
+      },
+      {
+        "id": "c",
+        "text": "Zu Roten Riesen"
+      },
+      {
+        "id": "d",
+        "text": "Zu Braunen Zwergen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Penrose zeigte, dass die Entstehung Schwarzer Löcher aus der allgemeinen Relativitätstheorie folgt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Roger Penrose, 2020",
+        "url": "https://api.nobelprize.org/2.1/laureate/988",
+        "verified_claim": "Penrose zeigte, dass die Entstehung Schwarzer Löcher aus der allgemeinen Relativitätstheorie folgt.",
+        "checked_at": "2026-11-20T01:36:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-20-1915",
+    "fact_key": "research.20.1915",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Was untersuchten William und Lawrence Bragg mit Röntgenstrahlen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Struktur von Kristallen"
+      },
+      {
+        "id": "b",
+        "text": "Die Gezeiten des Meeres"
+      },
+      {
+        "id": "c",
+        "text": "Das Alter von Bäumen"
+      },
+      {
+        "id": "d",
+        "text": "Die Sprache der Bienen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Für die Analyse von Kristallstrukturen mithilfe von Röntgenstrahlung wurden die Braggs 1915 ausgezeichnet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · William Bragg, 1915",
+        "url": "https://api.nobelprize.org/2.1/laureate/20",
+        "verified_claim": "Für die Analyse von Kristallstrukturen mithilfe von Röntgenstrahlung wurden die Braggs 1915 ausgezeichnet.",
+        "checked_at": "2026-11-20T01:36:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-166-1907",
+    "fact_key": "research.166.1907",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Was zeigte Eduard Buchner mit seinen Versuchen zur Gärung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gärung kann ohne lebende Zellen stattfinden."
+      },
+      {
+        "id": "b",
+        "text": "Gärung benötigt immer Sonnenlicht."
+      },
+      {
+        "id": "c",
+        "text": "Gärung tritt nur im Meer auf."
+      },
+      {
+        "id": "d",
+        "text": "Gärung benötigt Magnetfelder."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Für die Entdeckung der zellfreien Gärung erhielt Buchner 1907 den Chemie-Nobelpreis.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Eduard Buchner, 1907",
+        "url": "https://api.nobelprize.org/2.1/laureate/166",
+        "verified_claim": "Für die Entdeckung der zellfreien Gärung erhielt Buchner 1907 den Chemie-Nobelpreis.",
+        "checked_at": "2026-11-20T01:36:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-177-1918",
+    "fact_key": "research.177.1918",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welchen Stoff stellte Fritz Haber durch Synthese aus seinen Elementen her?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ammoniak"
+      },
+      {
+        "id": "b",
+        "text": "Methanol"
+      },
+      {
+        "id": "c",
+        "text": "Ethanol"
+      },
+      {
+        "id": "d",
+        "text": "Aceton"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Ammoniaksynthese war der Grund für Habers Chemie-Nobelpreis von 1918.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Fritz Haber, 1918",
+        "url": "https://api.nobelprize.org/2.1/laureate/177",
+        "verified_claim": "Die Ammoniaksynthese war der Grund für Habers Chemie-Nobelpreis von 1918.",
+        "checked_at": "2026-11-20T01:36:24+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-401-1973",
+    "fact_key": "research.401.1973",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Forschungsrichtung wurde 1973 mit dem Medizin-Nobelpreis für Konrad Lorenz und seine Mitpreisträger gewürdigt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Verhaltensforschung"
+      },
+      {
+        "id": "b",
+        "text": "Strahlenheilkunde"
+      },
+      {
+        "id": "c",
+        "text": "Blutgruppenforschung"
+      },
+      {
+        "id": "d",
+        "text": "Anatomie des Auges"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Begründung nannte die Entstehung und Auslösung von individuellen und sozialen Verhaltensmustern.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Konrad Lorenz, 1973",
+        "url": "https://api.nobelprize.org/2.1/laureate/401",
+        "verified_claim": "Die Begründung nannte die Entstehung und Auslösung von individuellen und sozialen Verhaltensmustern.",
+        "checked_at": "2026-11-20T01:36:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-294-1902",
+    "fact_key": "research.294.1902",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welche Krankheit erforschte Ronald Ross, der 1902 den Medizin-Nobelpreis erhielt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Malaria"
+      },
+      {
+        "id": "b",
+        "text": "Cholera"
+      },
+      {
+        "id": "c",
+        "text": "Skorbut"
+      },
+      {
+        "id": "d",
+        "text": "Pocken"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ross wurde für Erkenntnisse darüber geehrt, wie Malaria in den Körper gelangt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Ronald Ross, 1902",
+        "url": "https://api.nobelprize.org/2.1/laureate/294",
+        "verified_claim": "Ross wurde für Erkenntnisse darüber geehrt, wie Malaria in den Körper gelangt.",
+        "checked_at": "2026-11-20T01:36:26+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-299-1906",
+    "fact_key": "research.299.1906",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welches System des Körpers stand im Mittelpunkt von Santiago Ramón y Cajals ausgezeichneten Untersuchungen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Nervensystem"
+      },
+      {
+        "id": "b",
+        "text": "Das Lymphsystem"
+      },
+      {
+        "id": "c",
+        "text": "Das Verdauungssystem"
+      },
+      {
+        "id": "d",
+        "text": "Das Skelettsystem"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Medizin-Nobelpreis von 1906 galt der Erforschung der Struktur des Nervensystems.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Santiago Ramón y Cajal, 1906",
+        "url": "https://api.nobelprize.org/2.1/laureate/299",
+        "verified_claim": "Der Medizin-Nobelpreis von 1906 galt der Erforschung der Struktur des Nervensystems.",
+        "checked_at": "2026-11-20T01:36:26+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-305-1911",
+    "fact_key": "research.305.1911",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "An welchem Sinnesorgan untersuchte Allvar Gullstrand die Lichtbrechung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Am Auge"
+      },
+      {
+        "id": "b",
+        "text": "Am Ohr"
+      },
+      {
+        "id": "c",
+        "text": "An der Nase"
+      },
+      {
+        "id": "d",
+        "text": "An der Zunge"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Gullstrand erhielt 1911 den Medizin-Nobelpreis für seine Arbeiten zur Optik des Auges.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Allvar Gullstrand, 1911",
+        "url": "https://api.nobelprize.org/2.1/laureate/305",
+        "verified_claim": "Gullstrand erhielt 1911 den Medizin-Nobelpreis für seine Arbeiten zur Optik des Auges.",
+        "checked_at": "2026-11-20T01:36:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-335-1943",
+    "fact_key": "research.335.1943",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Welches Vitamin entdeckte Henrik Dam?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vitamin K"
+      },
+      {
+        "id": "b",
+        "text": "Vitamin C"
+      },
+      {
+        "id": "c",
+        "text": "Vitamin B12"
+      },
+      {
+        "id": "d",
+        "text": "Vitamin D"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Für die Entdeckung von Vitamin K wurde Dam 1943 mit dem Medizin-Nobelpreis ausgezeichnet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Henrik Dam, 1943",
+        "url": "https://api.nobelprize.org/2.1/laureate/335",
+        "verified_claim": "Für die Entdeckung von Vitamin K wurde Dam 1943 mit dem Medizin-Nobelpreis ausgezeichnet.",
+        "checked_at": "2026-11-20T01:36:27+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-308-1914",
+    "fact_key": "research.308.1914",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Welchen Sinnesapparat untersuchte der Nobelpreisträger Robert Bárány?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Gleichgewichtsapparat"
+      },
+      {
+        "id": "b",
+        "text": "Den Sehapparat"
+      },
+      {
+        "id": "c",
+        "text": "Den Geruchsapparat"
+      },
+      {
+        "id": "d",
+        "text": "Den Geschmackssinn"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Seine Arbeiten betrafen die Funktion und die Erkrankungen des Vestibularapparats.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Robert Bárány, 1914",
+        "url": "https://api.nobelprize.org/2.1/laureate/308",
+        "verified_claim": "Seine Arbeiten betrafen die Funktion und die Erkrankungen des Vestibularapparats.",
+        "checked_at": "2026-11-20T01:36:26+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-914-2014",
+    "fact_key": "research.914.2014",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Für welches Recht setzte sich Friedensnobelpreisträgerin Malala Yousafzai besonders ein?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Recht von Kindern auf Bildung"
+      },
+      {
+        "id": "b",
+        "text": "Das Recht auf Patentschutz"
+      },
+      {
+        "id": "c",
+        "text": "Das Recht auf freie Schifffahrt"
+      },
+      {
+        "id": "d",
+        "text": "Das Recht auf Bergbaukonzessionen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "2014 wurde ihr Einsatz gegen die Unterdrückung junger Menschen und für den Zugang zu Bildung gewürdigt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Malala Yousafzai, 2014",
+        "url": "https://api.nobelprize.org/2.1/laureate/914",
+        "verified_claim": "2014 wurde ihr Einsatz gegen die Unterdrückung junger Menschen und für den Zugang zu Bildung gewürdigt.",
+        "checked_at": "2026-11-20T01:36:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-524-1964",
+    "fact_key": "research.524.1964",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wofür wurde Martin Luther King 1964 mit dem Friedensnobelpreis ausgezeichnet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für gewaltfreien Einsatz für Bürgerrechte"
+      },
+      {
+        "id": "b",
+        "text": "Für den Aufbau der Raumfahrt"
+      },
+      {
+        "id": "c",
+        "text": "Für die Gründung einer Währungsunion"
+      },
+      {
+        "id": "d",
+        "text": "Für die Vermittlung im Nahostkonflikt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Begründung würdigte Kings gewaltfreien Einsatz für die Rechte der afroamerikanischen Bevölkerung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Martin Luther King Jr., 1964",
+        "url": "https://api.nobelprize.org/2.1/laureate/524",
+        "verified_claim": "Die Begründung würdigte Kings gewaltfreien Einsatz für die Rechte der afroamerikanischen Bevölkerung.",
+        "checked_at": "2026-11-20T01:36:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-546-1984",
+    "fact_key": "research.546.1984",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Gegen welches politische System setzte sich Friedensnobelpreisträger Desmond Tutu ein?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gegen die Apartheid"
+      },
+      {
+        "id": "b",
+        "text": "Gegen das amerikanische Zweiparteiensystem"
+      },
+      {
+        "id": "c",
+        "text": "Gegen den Schweizer Föderalismus"
+      },
+      {
+        "id": "d",
+        "text": "Gegen das britische Unterhaus"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Tutu trat in Südafrika gewaltfrei gegen die staatlich durchgesetzte Rassentrennung ein.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Desmond Tutu, 1984",
+        "url": "https://api.nobelprize.org/2.1/laureate/546",
+        "verified_claim": "Tutu trat in Südafrika gewaltfrei gegen die staatlich durchgesetzte Rassentrennung ein.",
+        "checked_at": "2026-11-20T01:36:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-487-1922",
+    "fact_key": "research.487.1922",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welcher Personengruppe galt Fridtjof Nansens Arbeit als Hochkommissar des Völkerbunds?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Flüchtlingen"
+      },
+      {
+        "id": "b",
+        "text": "Berufssportlern"
+      },
+      {
+        "id": "c",
+        "text": "Börsenhändlern"
+      },
+      {
+        "id": "d",
+        "text": "Astronauten"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nansen unterstützte Flüchtlinge und half bei der Rückkehr von Kriegsgefangenen. 1922 erhielt er den Friedensnobelpreis.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Fridtjof Nansen, 1922",
+        "url": "https://api.nobelprize.org/2.1/laureate/487",
+        "verified_claim": "Nansen unterstützte Flüchtlinge und half bei der Rückkehr von Kriegsgefangenen. 1922 erhielt er den Friedensnobelpreis.",
+        "checked_at": "2026-11-20T01:36:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-520-1961",
+    "fact_key": "research.520.1961",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welcher internationalen Organisation galt die ausgezeichnete Arbeit von Dag Hammarskjöld?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Vereinten Nationen"
+      },
+      {
+        "id": "b",
+        "text": "Dem Weltpostverein"
+      },
+      {
+        "id": "c",
+        "text": "Der Europäischen Zentralbank"
+      },
+      {
+        "id": "d",
+        "text": "Der Welthandelsorganisation"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Nobelpreisbegründung würdigte seinen Beitrag zum Aufbau einer handlungsfähigen UNO.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Dag Hammarskjöld, 1961",
+        "url": "https://api.nobelprize.org/2.1/laureate/520",
+        "verified_claim": "Die Nobelpreisbegründung würdigte seinen Beitrag zum Aufbau einer handlungsfähigen UNO.",
+        "checked_at": "2026-11-20T01:36:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-217-1962",
+    "fact_key": "research.217.1962",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wogegen wandte sich der Chemiker Linus Pauling, der auch den Friedensnobelpreis erhielt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gegen das atomare Wettrüsten"
+      },
+      {
+        "id": "b",
+        "text": "Gegen die Einführung des Metermaßes"
+      },
+      {
+        "id": "c",
+        "text": "Gegen die Gründung der UNESCO"
+      },
+      {
+        "id": "d",
+        "text": "Gegen die internationale Eisenbahn"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Begründung nannte Paulings Einsatz gegen das nukleare Wettrüsten zwischen Ost und West.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Linus Pauling, 1962",
+        "url": "https://api.nobelprize.org/2.1/laureate/217",
+        "verified_claim": "Die Begründung nannte Paulings Einsatz gegen das nukleare Wettrüsten zwischen Ost und West.",
+        "checked_at": "2026-11-20T01:36:25+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-819-2007",
+    "fact_key": "research.819.2007",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Zu welchem Thema verbreitete Al Gore Wissen und erhielt dafür 2007 den Friedensnobelpreis mit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zum menschengemachten Klimawandel"
+      },
+      {
+        "id": "b",
+        "text": "Zur Alphabetisierung im Mittelalter"
+      },
+      {
+        "id": "c",
+        "text": "Zum Schutz antiker Handschriften"
+      },
+      {
+        "id": "d",
+        "text": "Zur Geschichte der Polarforschung"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Preis würdigte die Vermittlung von Wissen über den Klimawandel und die Grundlagen für Gegenmaßnahmen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Al Gore, 2007",
+        "url": "https://api.nobelprize.org/2.1/laureate/819",
+        "verified_claim": "Der Preis würdigte die Vermittlung von Wissen über den Klimawandel und die Grundlagen für Gegenmaßnahmen.",
+        "checked_at": "2026-11-20T01:36:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-491-1926",
+    "fact_key": "research.491.1926",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Welches Vertragswerk war für die Auszeichnung Gustav Stresemanns mit dem Friedensnobelpreis ausschlaggebend?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Verträge von Locarno"
+      },
+      {
+        "id": "b",
+        "text": "Der Vertrag von Maastricht"
+      },
+      {
+        "id": "c",
+        "text": "Der Warschauer Pakt"
+      },
+      {
+        "id": "d",
+        "text": "Der Westfälische Friede"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Stresemann wurde 1926 für seine entscheidende Rolle beim Zustandekommen des Vertragswerks von Locarno geehrt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Gustav Stresemann, 1926",
+        "url": "https://api.nobelprize.org/2.1/laureate/491",
+        "verified_claim": "Stresemann wurde 1926 für seine entscheidende Rolle beim Zustandekommen des Vertragswerks von Locarno geehrt.",
+        "checked_at": "2026-11-20T01:36:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-research-783-2004",
+    "fact_key": "research.783.2004",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welche drei Anliegen verband die Nobelpreisbegründung für Wangari Maathai?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nachhaltige Entwicklung, Demokratie und Frieden"
+      },
+      {
+        "id": "b",
+        "text": "Raumfahrt, Handel und Sport"
+      },
+      {
+        "id": "c",
+        "text": "Währungspolitik, Energie und Steuern"
+      },
+      {
+        "id": "d",
+        "text": "Kunst, Architektur und Tourismus"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Auszeichnung von 2004 stellte diese Verbindung zwischen nachhaltiger Entwicklung und friedlichem Zusammenleben heraus.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Wangari Maathai, 2004",
+        "url": "https://api.nobelprize.org/2.1/laureate/783",
+        "verified_claim": "Die Auszeichnung von 2004 stellte diese Verbindung zwischen nachhaltiger Entwicklung und friedlichem Zusammenleben heraus.",
+        "checked_at": "2026-11-20T01:36:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:56:54+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:58:03+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:58:03+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

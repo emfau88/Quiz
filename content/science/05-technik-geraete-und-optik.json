@@ -1,0 +1,3314 @@
+[
+  {
+    "id": "qs-windfahne-richtung",
+    "fact_key": "windfahne-richtung",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was zeigt eine frei drehbare Wetterfahne an?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Windrichtung"
+      },
+      {
+        "id": "b",
+        "text": "Die Windgeschwindigkeit"
+      },
+      {
+        "id": "c",
+        "text": "Die Luftfeuchte"
+      },
+      {
+        "id": "d",
+        "text": "Den Luftdruck"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Windfahne richtet sich nach der Strömung aus. Auch Windkraftanlagen nutzen solche Richtungsgeber.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Explore a Wind Turbine - Text Version | Department of Energy",
+        "url": "https://www.energy.gov/cmei/systems/how-wind-turbine-works-text-version",
+        "verified_claim": "Die Windfahne richtet sich nach der Strömung aus. Auch Windkraftanlagen nutzen solche Richtungsgeber.",
+        "checked_at": "2026-11-20T01:30:41.876Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.846Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-anemometer-windgeschwindigkeit",
+    "fact_key": "anemometer-windgeschwindigkeit",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Größe erfasst ein Schalenanemometer auf einer Wetterstation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Windgeschwindigkeit"
+      },
+      {
+        "id": "b",
+        "text": "Luftfeuchtigkeit"
+      },
+      {
+        "id": "c",
+        "text": "Niederschlagsmenge"
+      },
+      {
+        "id": "d",
+        "text": "Sonnenscheindauer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein Anemometer misst die Geschwindigkeit des Windes. An einer Windkraftanlage erhält die Steuerung diesen Messwert.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Explore a Wind Turbine - Text Version | Department of Energy",
+        "url": "https://www.energy.gov/cmei/systems/how-wind-turbine-works-text-version",
+        "verified_claim": "Ein Anemometer misst die Geschwindigkeit des Windes. An einer Windkraftanlage erhält die Steuerung diesen Messwert.",
+        "checked_at": "2026-11-20T01:30:41.876Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.846Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-windkraft-gondel",
+    "fact_key": "windkraft-gondel",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Wo sitzt die Gondel einer üblichen großen Windkraftanlage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Oben auf dem Turm"
+      },
+      {
+        "id": "b",
+        "text": "Am Fuß des Fundaments"
+      },
+      {
+        "id": "c",
+        "text": "In einer Blattspitze"
+      },
+      {
+        "id": "d",
+        "text": "Unter dem Zufahrtsweg"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Maschinengehäuse auf dem Turm enthält unter anderem den Generator.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Explore a Wind Turbine - Text Version | Department of Energy",
+        "url": "https://www.energy.gov/cmei/systems/how-wind-turbine-works-text-version",
+        "verified_claim": "Das Maschinengehäuse auf dem Turm enthält unter anderem den Generator.",
+        "checked_at": "2026-11-20T01:30:41.876Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.846Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-windkraft-rotor",
+    "fact_key": "windkraft-rotor",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Teile bilden zusammen den Rotor einer Windkraftanlage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rotorblätter und Nabe"
+      },
+      {
+        "id": "b",
+        "text": "Turm und Fundament"
+      },
+      {
+        "id": "c",
+        "text": "Kabel und Transformator"
+      },
+      {
+        "id": "d",
+        "text": "Windfahne und Windmesser"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Blätter sind an der Nabe befestigt. Gemeinsam drehen sie sich im Wind.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Explore a Wind Turbine - Text Version | Department of Energy",
+        "url": "https://www.energy.gov/cmei/systems/how-wind-turbine-works-text-version",
+        "verified_claim": "Die Blätter sind an der Nabe befestigt. Gemeinsam drehen sie sich im Wind.",
+        "checked_at": "2026-11-20T01:30:41.876Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.846Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-pumpspeicher-laden",
+    "fact_key": "pumpspeicher-laden",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Wie speichert ein Pumpspeicherkraftwerk überschüssige elektrische Energie?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es pumpt Wasser in ein höher gelegenes Becken."
+      },
+      {
+        "id": "b",
+        "text": "Es trocknet das obere Becken aus."
+      },
+      {
+        "id": "c",
+        "text": "Es erwärmt das Wasser bis zum Sieden."
+      },
+      {
+        "id": "d",
+        "text": "Es verdichtet Luft unter dem Stausee."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wenn Strom gebraucht wird, kann das Wasser wieder abwärts durch eine Turbine fließen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pumped Storage Hydropower | Department of Energy",
+        "url": "https://www.energy.gov/cmei/water/pumped-storage-hydropower",
+        "verified_claim": "Wenn Strom gebraucht wird, kann das Wasser wieder abwärts durch eine Turbine fließen.",
+        "checked_at": "2026-11-20T01:42:00.792Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.846Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-talsperre-speicher",
+    "fact_key": "talsperre-speicher",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Wozu dient die Staumauer vor dem Speicher eines Wasserkraftwerks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie hält Wasser für eine spätere Nutzung zurück."
+      },
+      {
+        "id": "b",
+        "text": "Sie beschleunigt die Verdunstung."
+      },
+      {
+        "id": "c",
+        "text": "Sie erzeugt unmittelbar elektrischen Strom."
+      },
+      {
+        "id": "d",
+        "text": "Sie trennt Salz aus dem Wasser."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Staumauer hält das Wasser im Speicher. Bei Bedarf kann es kontrolliert zur Turbine geleitet werden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Types of Hydropower Plants | Department of Energy",
+        "url": "https://www.energy.gov/cmei/water/types-hydropower-plants",
+        "verified_claim": "Die Staumauer hält das Wasser im Speicher. Bei Bedarf kann es kontrolliert zur Turbine geleitet werden.",
+        "checked_at": "2026-11-20T01:42:00.792Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.846Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-bluetooth-musik",
+    "fact_key": "bluetooth-musik",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Technik nutzen viele kabellose Kopfhörer für Musik vom Smartphone?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bluetooth"
+      },
+      {
+        "id": "b",
+        "text": "UKW-Rundfunk"
+      },
+      {
+        "id": "c",
+        "text": "GPS-Ortung"
+      },
+      {
+        "id": "d",
+        "text": "Satellitenfernsehen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bluetooth kann Audiosignale per Funk zwischen Geräten übertragen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bluetooth Technology Overview | Bluetooth® Technology Website",
+        "url": "https://www.bluetooth.com/learn-about-bluetooth/tech-overview/",
+        "verified_claim": "Bluetooth kann Audiosignale per Funk zwischen Geräten übertragen.",
+        "checked_at": "2026-11-20T01:21:09.640Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.846Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-usb-c-beidseitig",
+    "fact_key": "usb-c-beidseitig",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was erleichtert das Einstecken eines USB-C-Steckers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er passt in beiden Ausrichtungen."
+      },
+      {
+        "id": "b",
+        "text": "Er muss eingeschraubt werden."
+      },
+      {
+        "id": "c",
+        "text": "Er lässt sich nur mit einer Markierung nach oben einsetzen."
+      },
+      {
+        "id": "d",
+        "text": "Er braucht vor jedem Einstecken eine Kalibrierung."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein USB-C-Stecker kann um eine halbe Drehung gewendet und in derselben Buchse verwendet werden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "USB Type-C® Cable and Connector Specification | USB-IF",
+        "url": "https://www.usb.org/usb-type-cr-cable-and-connector-specification",
+        "verified_claim": "Ein USB-C-Stecker kann um eine halbe Drehung gewendet und in derselben Buchse verwendet werden.",
+        "checked_at": "2026-11-20T01:21:09.640Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.846Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-usb-strom-daten",
+    "fact_key": "usb-strom-daten",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was kann ein dafür ausgelegtes USB-Kabel gleichzeitig übertragen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Digitale Daten und elektrische Energie"
+      },
+      {
+        "id": "b",
+        "text": "Nur Bilddaten und ausschließlich ohne Strom"
+      },
+      {
+        "id": "c",
+        "text": "Nur Strom und ausschließlich ohne Daten"
+      },
+      {
+        "id": "d",
+        "text": "Druckluft und Kühlwasser"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Geeignete USB-Verbindungen laden ein Gerät und übertragen zugleich Daten. Die Fähigkeiten hängen von Kabel und Geräten ab.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "USB Charger (USB Power Delivery) | USB-IF",
+        "url": "https://www.usb.org/usb-charger-pd",
+        "verified_claim": "Geeignete USB-Verbindungen laden ein Gerät und übertragen zugleich Daten. Die Fähigkeiten hängen von Kabel und Geräten ab.",
+        "checked_at": "2026-11-20T01:30:39.385Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.846Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-qr-drehlage",
+    "fact_key": "qr-drehlage",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Wie muss ein gewöhnlicher QR-Code zum Lesen ausgerichtet sein?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Drehung in der Bildebene ist weitgehend beliebig."
+      },
+      {
+        "id": "b",
+        "text": "Die Oberkante muss waagerecht stehen."
+      },
+      {
+        "id": "c",
+        "text": "Der Code muss um 45 Grad gekippt sein."
+      },
+      {
+        "id": "d",
+        "text": "Die Unterkante muss nach Osten zeigen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Lesegerät erkennt die Ausrichtung anhand der Muster im Code.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What is a QR Code? | QRcode.com | DENSO WAVE",
+        "url": "https://www.qrcode.com/en/about/",
+        "verified_claim": "Das Lesegerät erkennt die Ausrichtung anhand der Muster im Code.",
+        "checked_at": "2026-11-20T01:10:46.533Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.846Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kochtopf-deckel",
+    "fact_key": "kochtopf-deckel",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was spart beim Erhitzen von Wasser im Topf gewöhnlich Energie?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einen passenden Deckel auflegen"
+      },
+      {
+        "id": "b",
+        "text": "Das Wasser offen verdampfen lassen"
+      },
+      {
+        "id": "c",
+        "text": "Einen möglichst großen Topf für wenig Wasser nehmen"
+      },
+      {
+        "id": "d",
+        "text": "Den Topf immer wieder von der Platte heben"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit Deckel geht weniger Wärme mit dem Wasserdampf verloren. Das Wasser wird schneller heiß.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Strom sparen im Haushalt: Einfache Tipps | Verbraucherzentrale.de",
+        "url": "https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/strom-sparen-im-haushalt-einfache-tipps-10734",
+        "verified_claim": "Mit Deckel geht weniger Wärme mit dem Wasserdampf verloren. Das Wasser wird schneller heiß.",
+        "checked_at": "2026-11-20T01:27:17.571Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-wasserkocher-fuellmenge",
+    "fact_key": "wasserkocher-fuellmenge",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Wie lässt sich beim Wasserkochen für eine Tasse Tee Strom sparen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur die benötigte Wassermenge erhitzen"
+      },
+      {
+        "id": "b",
+        "text": "Den Behälter grundsätzlich ganz füllen"
+      },
+      {
+        "id": "c",
+        "text": "Das Wasser mehrmals aufkochen"
+      },
+      {
+        "id": "d",
+        "text": "Vorher kaltes Wasser im Behälter einfrieren"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Jeder zusätzliche Liter muss mit erwärmt werden. Die Mindestfüllmenge des Geräts gilt weiterhin.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Strom sparen im Haushalt: Einfache Tipps | Verbraucherzentrale.de",
+        "url": "https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/strom-sparen-im-haushalt-einfache-tipps-10734",
+        "verified_claim": "Jeder zusätzliche Liter muss mit erwärmt werden. Die Mindestfüllmenge des Geräts gilt weiterhin.",
+        "checked_at": "2026-11-20T01:27:17.571Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gefrieren-abtauen",
+    "fact_key": "gefrieren-abtauen",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was lohnt sich bei einer dicken Eisschicht im Gefrierfach eines Geräts ohne Abtauautomatik?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Gerät abtauen"
+      },
+      {
+        "id": "b",
+        "text": "Die Temperatur immer weiter senken"
+      },
+      {
+        "id": "c",
+        "text": "Die Türdichtung entfernen"
+      },
+      {
+        "id": "d",
+        "text": "Die Eisschicht mit Folie abdecken"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Verbraucherzentrale empfiehlt, angesammeltes Eis zu entfernen, um den Stromverbrauch zu begrenzen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Strom sparen im Haushalt: Einfache Tipps | Verbraucherzentrale.de",
+        "url": "https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/strom-sparen-im-haushalt-einfache-tipps-10734",
+        "verified_claim": "Die Verbraucherzentrale empfiehlt, angesammeltes Eis zu entfernen, um den Stromverbrauch zu begrenzen.",
+        "checked_at": "2026-11-20T01:27:17.571Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-geschirrspueler-auslastung",
+    "fact_key": "geschirrspueler-auslastung",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Wie nutzt man das Wasser und die Energie eines Spülgangs besser aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Spülmaschine sinnvoll voll beladen"
+      },
+      {
+        "id": "b",
+        "text": "Jeden Teller einzeln spülen"
+      },
+      {
+        "id": "c",
+        "text": "Sauberes Geschirr nochmals einräumen"
+      },
+      {
+        "id": "d",
+        "text": "Die Maschine leer vorlaufen lassen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Läuft die Maschine mit einer gut verteilten vollen Ladung, verteilen sich Wasser- und Energieverbrauch auf mehr Geschirr.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Strom sparen im Haushalt: Einfache Tipps | Verbraucherzentrale.de",
+        "url": "https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/strom-sparen-im-haushalt-einfache-tipps-10734",
+        "verified_claim": "Läuft die Maschine mit einer gut verteilten vollen Ladung, verteilen sich Wasser- und Energieverbrauch auf mehr Geschirr.",
+        "checked_at": "2026-11-20T01:27:17.571Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-barometer-luftdruck",
+    "fact_key": "barometer-luftdruck",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welches Instrument an der Wand misst den Luftdruck?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Barometer"
+      },
+      {
+        "id": "b",
+        "text": "Thermometer"
+      },
+      {
+        "id": "c",
+        "text": "Hygrometer"
+      },
+      {
+        "id": "d",
+        "text": "Windfahne"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Auf der Skala eines Barometers lässt sich verfolgen, wie der Luftdruck im Laufe des Tages steigt oder fällt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NOAA's National Weather Service - Glossary",
+        "url": "https://forecast.weather.gov/glossary.php?word=barometer",
+        "verified_claim": "Auf der Skala eines Barometers lässt sich verfolgen, wie der Luftdruck im Laufe des Tages steigt oder fällt.",
+        "checked_at": "2026-11-20T01:41:59.413Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-hygrometer-feuchte",
+    "fact_key": "hygrometer-feuchte",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Größe zeigt ein Hygrometer im Wohnzimmer an?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Luftfeuchtigkeit"
+      },
+      {
+        "id": "b",
+        "text": "Helligkeit"
+      },
+      {
+        "id": "c",
+        "text": "Schallpegel"
+      },
+      {
+        "id": "d",
+        "text": "Luftgeschwindigkeit"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Hygrometer erfassen die Feuchtigkeit der Luft. Viele Zimmergeräte geben die relative Luftfeuchte in Prozent an.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NOAA's National Weather Service - Glossary",
+        "url": "https://forecast.weather.gov/glossary.php?word=hygrometer",
+        "verified_claim": "Hygrometer erfassen die Feuchtigkeit der Luft. Viele Zimmergeräte geben die relative Luftfeuchte in Prozent an.",
+        "checked_at": "2026-11-20T01:41:59.413Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-regenmesser-menge",
+    "fact_key": "regenmesser-menge",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was lässt sich mit einem Regenmesser im Garten feststellen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wie viel Regen am Standort gefallen ist"
+      },
+      {
+        "id": "b",
+        "text": "Wo der nächste Blitz einschlägt"
+      },
+      {
+        "id": "c",
+        "text": "Wie warm der Boden ist"
+      },
+      {
+        "id": "d",
+        "text": "Wie viele Stunden die Sonne scheint"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Regenmesser erfasst die über eine bestimmte Zeit gefallene Niederschlagsmenge.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NOAA's National Weather Service - Glossary",
+        "url": "https://forecast.weather.gov/glossary.php?word=rain%20gauge",
+        "verified_claim": "Der Regenmesser erfasst die über eine bestimmte Zeit gefallene Niederschlagsmenge.",
+        "checked_at": "2026-11-20T01:41:59.413Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-mikrofon-kugelcharakteristik",
+    "fact_key": "mikrofon-kugelcharakteristik",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was bedeutet Kugelcharakteristik bei einem Mikrofon?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es nimmt Schall aus allen Richtungen ähnlich gut auf."
+      },
+      {
+        "id": "b",
+        "text": "Es nimmt nur Schall von vorn auf."
+      },
+      {
+        "id": "c",
+        "text": "Es nimmt nur Frequenzen oberhalb des Hörbereichs auf."
+      },
+      {
+        "id": "d",
+        "text": "Es muss sich beim Aufnehmen drehen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eine Kugelcharakteristik beschreibt die räumliche Empfindlichkeit des Mikrofons.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Mic Basics: Transducers, Polar Patterns, & Frequency Response - Shure USA",
+        "url": "https://www.shure.com/en-US/insights/microphone-basics-transducers-polar-patterns-frequency-response",
+        "verified_claim": "Eine Kugelcharakteristik beschreibt die räumliche Empfindlichkeit des Mikrofons.",
+        "checked_at": "2026-11-20T01:30:40.829Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kamera-zoomobjektiv",
+    "fact_key": "kamera-zoomobjektiv",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was lässt sich an einem Zoomobjektiv verändern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Brennweite"
+      },
+      {
+        "id": "b",
+        "text": "Die Größe des Kamerasensors"
+      },
+      {
+        "id": "c",
+        "text": "Die Zahl der Bildpunkte auf dem Sensor"
+      },
+      {
+        "id": "d",
+        "text": "Die Größe der Speicherkarte"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein Zoomobjektiv kann seinen Bildwinkel durch Verstellen der Brennweite verändern.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Understanding Focal Length",
+        "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-focal-length",
+        "verified_claim": "Ein Zoomobjektiv kann seinen Bildwinkel durch Verstellen der Brennweite verändern.",
+        "checked_at": "2026-11-20T01:42:00.792Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kamera-weitwinkel",
+    "fact_key": "kamera-weitwinkel",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Brennweite erfasst an derselben Kamera vom selben Standort den größten Ausschnitt einer Landschaft?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein 18-mm-Objektiv"
+      },
+      {
+        "id": "b",
+        "text": "Ein 50-mm-Objektiv"
+      },
+      {
+        "id": "c",
+        "text": "Ein 85-mm-Objektiv"
+      },
+      {
+        "id": "d",
+        "text": "Ein 200-mm-Objektiv"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "An derselben Kamera bewirkt eine kurze Brennweite einen großen Bildwinkel.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Understanding Focal Length",
+        "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-focal-length",
+        "verified_claim": "An derselben Kamera bewirkt eine kurze Brennweite einen großen Bildwinkel.",
+        "checked_at": "2026-11-20T01:42:00.792Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-linsenfernrohr-refraktor",
+    "fact_key": "linsenfernrohr-refraktor",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welches optische Bauteil sammelt beim klassischen Refraktor das Licht am vorderen Ende?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Linse"
+      },
+      {
+        "id": "b",
+        "text": "Ein Hohlspiegel"
+      },
+      {
+        "id": "c",
+        "text": "Ein Beugungsgitter"
+      },
+      {
+        "id": "d",
+        "text": "Ein Farbfilter"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Refraktor lenkt das Objektiv das eintretende Licht durch Brechung in Richtung Brennpunkt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Telescopes 101 - NASA Science",
+        "url": "https://science.nasa.gov/universe/telescopes-101/",
+        "verified_claim": "Beim Refraktor lenkt das Objektiv das eintretende Licht durch Brechung in Richtung Brennpunkt.",
+        "checked_at": "2026-11-20T01:44:45.301Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-prisma-spektrum",
+    "fact_key": "prisma-spektrum",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was kann ein Glasprisma mit einem schmalen Bündel weißen Lichts sichtbar machen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein farbiges Spektrum"
+      },
+      {
+        "id": "b",
+        "text": "Eine Schallwelle"
+      },
+      {
+        "id": "c",
+        "text": "Die Temperatur der Luft als Zahl"
+      },
+      {
+        "id": "d",
+        "text": "Ein Magnetfeld aus Metallspänen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Durchgang durch das Prisma werden die Lichtfarben unterschiedlich stark abgelenkt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wave Behaviors - NASA Science",
+        "url": "https://science.nasa.gov/ems/03_behaviors/",
+        "verified_claim": "Beim Durchgang durch das Prisma werden die Lichtfarben unterschiedlich stark abgelenkt.",
+        "checked_at": "2026-11-20T01:44:45.301Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-teleskop-oeffnung",
+    "fact_key": "teleskop-oeffnung",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Warum ist eine größere Teleskopöffnung beim Beobachten lichtschwacher Sterne hilfreich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie sammelt mehr Licht."
+      },
+      {
+        "id": "b",
+        "text": "Sie verkleinert den Stern."
+      },
+      {
+        "id": "c",
+        "text": "Sie erzeugt zusätzliches Licht am Stern."
+      },
+      {
+        "id": "d",
+        "text": "Sie verlängert die Nacht am Beobachtungsort."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein größerer Hauptspiegel oder eine größere Objektivlinse kann mehr vom Licht eines entfernten Objekts auffangen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Telescopes 101 - NASA Science",
+        "url": "https://science.nasa.gov/universe/telescopes-101/",
+        "verified_claim": "Ein größerer Hauptspiegel oder eine größere Objektivlinse kann mehr vom Licht eines entfernten Objekts auffangen.",
+        "checked_at": "2026-11-20T01:44:45.301Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-flugzeug-luftwiderstand",
+    "fact_key": "flugzeug-luftwiderstand",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche aerodynamische Kraft wirkt bei einem geradlinig fliegenden Flugzeug entgegen seiner Bewegung durch die Luft?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Luftwiderstand"
+      },
+      {
+        "id": "b",
+        "text": "Auftrieb"
+      },
+      {
+        "id": "c",
+        "text": "Vorwärtsschub"
+      },
+      {
+        "id": "d",
+        "text": "Gewichtskraft als solche"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der aerodynamische Widerstand wirkt der Bewegung durch die Luft entgegen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Four Forces on an Airplane | Glenn Research Center | NASA",
+        "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/four-forces-on-an-airplane/",
+        "verified_claim": "Der aerodynamische Widerstand wirkt der Bewegung durch die Luft entgegen.",
+        "checked_at": "2026-11-20T01:30:40.829Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-flugzeug-rumpf",
+    "fact_key": "flugzeug-rumpf",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Wie heißt der Hauptkörper eines Verkehrsflugzeugs, in dem sich die Passagierkabine befindet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rumpf"
+      },
+      {
+        "id": "b",
+        "text": "Tragfläche"
+      },
+      {
+        "id": "c",
+        "text": "Höhenleitwerk"
+      },
+      {
+        "id": "d",
+        "text": "Querruder"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Rumpf verbindet die großen Bauteile. In ihm befinden sich bei Verkehrsflugzeugen unter anderem Cockpit und Kabine.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Airplane Parts and Function | Glenn Research Center | NASA",
+        "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/airplane-parts-function/",
+        "verified_claim": "Der Rumpf verbindet die großen Bauteile. In ihm befinden sich bei Verkehrsflugzeugen unter anderem Cockpit und Kabine.",
+        "checked_at": "2026-11-20T01:44:45.301Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-flugzeug-landeklappen",
+    "fact_key": "flugzeug-landeklappen",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche beweglichen Flächen am inneren Teil der Tragflächen werden beim Landeanflug häufig ausgefahren?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Landeklappen"
+      },
+      {
+        "id": "b",
+        "text": "Seitenruder"
+      },
+      {
+        "id": "c",
+        "text": "Triebwerksverkleidungen"
+      },
+      {
+        "id": "d",
+        "text": "Fahrwerksreifen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ausgefahrene Landeklappen verändern das Flügelprofil und können bei niedrigerer Geschwindigkeit zusätzlichen Auftrieb liefern.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Airplane Parts and Function | Glenn Research Center | NASA",
+        "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/airplane-parts-function/",
+        "verified_claim": "Ausgefahrene Landeklappen verändern das Flügelprofil und können bei niedrigerer Geschwindigkeit zusätzlichen Auftrieb liefern.",
+        "checked_at": "2026-11-20T01:44:45.301Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-bildschirm-rgb",
+    "fact_key": "bildschirm-rgb",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche drei Lichtfarben gehören zum RGB-Modell eines Bildschirms?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rot, Grün und Blau"
+      },
+      {
+        "id": "b",
+        "text": "Rot, Gelb und Blau"
+      },
+      {
+        "id": "c",
+        "text": "Cyan, Magenta und Gelb"
+      },
+      {
+        "id": "d",
+        "text": "Schwarz, Weiß und Grau"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein Bildschirm mischt sichtbare Farben aus unterschiedlich starken roten, grünen und blauen Anteilen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Color modes in Photoshop | Photoshop",
+        "url": "https://helpx.adobe.com/photoshop/using/color-modes.html",
+        "verified_claim": "Ein Bildschirm mischt sichtbare Farben aus unterschiedlich starken roten, grünen und blauen Anteilen.",
+        "checked_at": "2026-11-20T01:44:45.718Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.847Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-rastergrafik-pixel",
+    "fact_key": "rastergrafik-pixel",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Was wird beim starken Vergrößern eines Rasterfotos oft sichtbar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einzelne Bildpunkte"
+      },
+      {
+        "id": "b",
+        "text": "Echte Pinselborsten"
+      },
+      {
+        "id": "c",
+        "text": "Durchsichtige Druckplatten"
+      },
+      {
+        "id": "d",
+        "text": "Fadenkreuze an jeder Kante"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eine Rastergrafik ist aus Pixeln aufgebaut. Bei starker Vergrößerung können sie als kleine Flächen erkennbar werden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Raster vs. vector: What are the differences? | Adobe",
+        "url": "https://www.adobe.com/creativecloud/file-types/image/comparison/raster-vs-vector.html",
+        "verified_claim": "Eine Rastergrafik ist aus Pixeln aufgebaut. Bei starker Vergrößerung können sie als kleine Flächen erkennbar werden.",
+        "checked_at": "2026-11-20T01:44:45.718Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-logo-vektorgrafik",
+    "fact_key": "logo-vektorgrafik",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Warum eignen sich Vektorgrafiken für ein Logo auf Visitenkarte und Plakat?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ihre Formen lassen sich ohne verpixelte Kanten skalieren."
+      },
+      {
+        "id": "b",
+        "text": "Sie enthalten immer nur eine Farbe."
+      },
+      {
+        "id": "c",
+        "text": "Sie sind ausschließlich für Papier gedacht."
+      },
+      {
+        "id": "d",
+        "text": "Ihre Form hängt von einem festen Pixelraster ab."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Linien und Kurven sind mathematisch beschrieben. Aus derselben Beschreibung kann das Bild in verschiedenen Größen gezeichnet werden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Raster vs. vector: What are the differences? | Adobe",
+        "url": "https://www.adobe.com/creativecloud/file-types/image/comparison/raster-vs-vector.html",
+        "verified_claim": "Linien und Kurven sind mathematisch beschrieben. Aus derselben Beschreibung kann das Bild in verschiedenen Größen gezeichnet werden.",
+        "checked_at": "2026-11-20T01:44:45.718Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-vierfarbdruck-farben",
+    "fact_key": "vierfarbdruck-farben",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche vier Farben werden beim üblichen CMYK-Vierfarbdruck eingesetzt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cyan, Magenta, Gelb und Schwarz"
+      },
+      {
+        "id": "b",
+        "text": "Rot, Grün, Blau und Weiß"
+      },
+      {
+        "id": "c",
+        "text": "Cyan, Rot, Grün und Silber"
+      },
+      {
+        "id": "d",
+        "text": "Gelb, Blau, Weiß und Gold"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die vier Druckfarben werden in unterschiedlichen Anteilen übereinandergedruckt und ergeben viele Farbtöne.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Color modes in Photoshop | Photoshop",
+        "url": "https://helpx.adobe.com/photoshop/using/color-modes.html",
+        "verified_claim": "Die vier Druckfarben werden in unterschiedlichen Anteilen übereinandergedruckt und ergeben viele Farbtöne.",
+        "checked_at": "2026-11-20T01:44:45.718Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-aluminium-recycling-energie",
+    "fact_key": "aluminium-recycling-energie",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welchen Vorteil hat das Recycling von Aluminium gegenüber dessen Gewinnung aus Erz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es braucht deutlich weniger Energie."
+      },
+      {
+        "id": "b",
+        "text": "Es macht das Metall durchsichtig."
+      },
+      {
+        "id": "c",
+        "text": "Es lässt Aluminium beliebig schwer werden."
+      },
+      {
+        "id": "d",
+        "text": "Es benötigt überhaupt keine Wärme."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das erneute Verwerten von Aluminium braucht nur einen kleinen Teil der Energie der Primärproduktion.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Sustainability – Recycling | Aluminum Association",
+        "url": "https://www.aluminum.org/Recycling",
+        "verified_claim": "Das erneute Verwerten von Aluminium braucht nur einen kleinen Teil der Energie der Primärproduktion.",
+        "checked_at": "2026-11-20T01:21:09.649Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-altglas-rohstoffe",
+    "fact_key": "altglas-rohstoffe",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Warum setzen Glashütten Altglasscherben für neue Flaschen ein?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie ersetzen einen Teil der nötigen neuen Rohstoffe."
+      },
+      {
+        "id": "b",
+        "text": "Sie machen jeden weiteren Schmelzvorgang überflüssig."
+      },
+      {
+        "id": "c",
+        "text": "Sie lassen das Glas bei Raumtemperatur fließen."
+      },
+      {
+        "id": "d",
+        "text": "Sie machen jedes Glas automatisch farblos."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Aufbereitetes Altglas gelangt zurück in die Glasschmelze. Das spart neue Rohstoffe und kann den Energiebedarf senken.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Glass Recycling Facts & Benefits | Glass Packaging Institute",
+        "url": "https://www.gpi.org/glass-recycling-facts",
+        "verified_claim": "Aufbereitetes Altglas gelangt zurück in die Glasschmelze. Das spart neue Rohstoffe und kann den Energiebedarf senken.",
+        "checked_at": "2026-11-20T01:21:09.649Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-bluetooth-hindernisse",
+    "fact_key": "bluetooth-hindernisse",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Warum reicht dieselbe Bluetooth-Verbindung in einer Wohnung oft weniger weit als im Freien?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wände können das Funksignal abschwächen."
+      },
+      {
+        "id": "b",
+        "text": "Bluetooth funktioniert grundsätzlich nur bei Tageslicht."
+      },
+      {
+        "id": "c",
+        "text": "In Räumen sinkt die Funkfrequenz auf null."
+      },
+      {
+        "id": "d",
+        "text": "Der Empfänger benötigt außerhalb weniger Stromanschlüsse."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Je nach Material und Dicke können Hindernisse das Signal dämpfen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Understanding Bluetooth Range | Bluetooth® Technology Website",
+        "url": "https://www.bluetooth.com/learn-about-bluetooth/key-attributes/range/",
+        "verified_claim": "Je nach Material und Dicke können Hindernisse das Signal dämpfen.",
+        "checked_at": "2026-11-20T01:30:39.385Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-qr-fehlerkorrektur",
+    "fact_key": "qr-fehlerkorrektur",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Weshalb kann ein QR-Code trotz einer kleinen beschädigten Stelle noch lesbar sein?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er enthält Daten zur Fehlerkorrektur."
+      },
+      {
+        "id": "b",
+        "text": "Er lädt eine Ersatzkopie aus dem Internet."
+      },
+      {
+        "id": "c",
+        "text": "Jedes einzelne Kästchen enthält die ganze Nachricht."
+      },
+      {
+        "id": "d",
+        "text": "Das Papier speichert die Informationen elektrisch."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die zusätzlichen Informationen erlauben, einen begrenzten Teil der beschädigten Daten zu rekonstruieren.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What is a QR Code? | QRcode.com | DENSO WAVE",
+        "url": "https://www.qrcode.com/en/about/",
+        "verified_claim": "Die zusätzlichen Informationen erlauben, einen begrenzten Teil der beschädigten Daten zu rekonstruieren.",
+        "checked_at": "2026-11-20T01:10:46.533Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-windkraft-gondel-ausrichtung",
+    "fact_key": "windkraft-gondel-ausrichtung",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Was bewirkt der Drehmechanismus zwischen Turm und Gondel einer üblichen großen Windkraftanlage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er richtet die Gondel nach dem Wind aus."
+      },
+      {
+        "id": "b",
+        "text": "Er verlängert alle Rotorblätter."
+      },
+      {
+        "id": "c",
+        "text": "Er schaltet die Netzfrequenz um."
+      },
+      {
+        "id": "d",
+        "text": "Er verändert die Fundamenttiefe."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eine Windfahne liefert die Windrichtung. Der Antrieb kann die Gondel daraufhin drehen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Explore a Wind Turbine - Text Version | Department of Energy",
+        "url": "https://www.energy.gov/cmei/systems/how-wind-turbine-works-text-version",
+        "verified_claim": "Eine Windfahne liefert die Windrichtung. Der Antrieb kann die Gondel daraufhin drehen.",
+        "checked_at": "2026-11-20T01:30:41.876Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-wasserkraft-fallhoehe",
+    "fact_key": "wasserkraft-fallhoehe",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Was bezeichnet die Fallhöhe eines Wasserkraftwerks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den nutzbaren Höhenunterschied des Wassers"
+      },
+      {
+        "id": "b",
+        "text": "Die Länge der Staumauer"
+      },
+      {
+        "id": "c",
+        "text": "Den Abstand zwischen zwei Turbinen"
+      },
+      {
+        "id": "d",
+        "text": "Die Tiefe des Flusses an seiner Mündung"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bei gleichem Durchfluss steht mit größerer Fallhöhe mehr Energie zur Verfügung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "How Hydropower Works | Department of Energy",
+        "url": "https://www.energy.gov/cmei/water/how-hydropower-works",
+        "verified_claim": "Bei gleichem Durchfluss steht mit größerer Fallhöhe mehr Energie zur Verfügung.",
+        "checked_at": "2026-11-20T01:30:41.876Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-wasserkraft-druckrohr",
+    "fact_key": "wasserkraft-druckrohr",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welche Aufgabe erfüllt eine Druckrohrleitung im Wasserkraftwerk?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie führt Wasser zur Turbine."
+      },
+      {
+        "id": "b",
+        "text": "Sie leitet Strom zum Umspannwerk."
+      },
+      {
+        "id": "c",
+        "text": "Sie speichert die Drehbewegung."
+      },
+      {
+        "id": "d",
+        "text": "Sie wärmt Kühlmittel im Heizkessel."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eine geschlossene Leitung leitet einen bestimmten Wasserstrom zur Turbine.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Types of Hydropower Plants | Department of Energy",
+        "url": "https://www.energy.gov/cmei/water/types-hydropower-plants",
+        "verified_claim": "Eine geschlossene Leitung leitet einen bestimmten Wasserstrom zur Turbine.",
+        "checked_at": "2026-11-20T01:42:00.792Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-bluetooth-le",
+    "fact_key": "bluetooth-le",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Wofür steht das LE in Bluetooth LE bei Sensoren und kleinen Funkgeräten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Low Energy"
+      },
+      {
+        "id": "b",
+        "text": "Long Echo"
+      },
+      {
+        "id": "c",
+        "text": "Light Edition"
+      },
+      {
+        "id": "d",
+        "text": "Line Encoding"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bluetooth Low Energy wurde für einen besonders sparsamen Funkbetrieb entwickelt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bluetooth Technology Overview | Bluetooth® Technology Website",
+        "url": "https://www.bluetooth.com/learn-about-bluetooth/tech-overview/",
+        "verified_claim": "Bluetooth Low Energy wurde für einen besonders sparsamen Funkbetrieb entwickelt.",
+        "checked_at": "2026-11-20T01:21:09.640Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-mikrofon-niere",
+    "fact_key": "mikrofon-niere",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Aus welcher Richtung ist ein ideal nierenförmig gerichtetes Mikrofon am unempfindlichsten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Direkt von hinten"
+      },
+      {
+        "id": "b",
+        "text": "Direkt von vorn"
+      },
+      {
+        "id": "c",
+        "text": "Aus allen Richtungen gleichermaßen"
+      },
+      {
+        "id": "d",
+        "text": "Nur von oben"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eine Niere nimmt von vorn besonders gut auf. Rückwärtige Geräusche werden stärker unterdrückt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Mic Basics: Transducers, Polar Patterns, & Frequency Response - Shure USA",
+        "url": "https://www.shure.com/en-US/insights/microphone-basics-transducers-polar-patterns-frequency-response",
+        "verified_claim": "Eine Niere nimmt von vorn besonders gut auf. Rückwärtige Geräusche werden stärker unterdrückt.",
+        "checked_at": "2026-11-20T01:30:40.829Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-flugzeug-winglets",
+    "fact_key": "flugzeug-winglets",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Wozu dienen die hochgebogenen Endstücke vieler Flugzeugtragflächen, die Winglets?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie können den Luftwiderstand verringern."
+      },
+      {
+        "id": "b",
+        "text": "Sie lenken das Fahrwerk."
+      },
+      {
+        "id": "c",
+        "text": "Sie ersetzen das Höhenruder."
+      },
+      {
+        "id": "d",
+        "text": "Sie steuern die Temperatur in der Kabine."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Endstücke an den Flügelspitzen sind eine Möglichkeit, den aerodynamischen Widerstand zu verringern.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Airplane Parts and Function | Glenn Research Center | NASA",
+        "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/airplane-parts-function/",
+        "verified_claim": "Die Endstücke an den Flügelspitzen sind eine Möglichkeit, den aerodynamischen Widerstand zu verringern.",
+        "checked_at": "2026-11-20T01:44:45.301Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-mikrofon-baendchen",
+    "fact_key": "mikrofon-baendchen",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Was schwingt bei einem klassischen Bändchenmikrofon im Magnetfeld?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein dünner Metallstreifen"
+      },
+      {
+        "id": "b",
+        "text": "Ein Quarzkristall am Gehäuse"
+      },
+      {
+        "id": "c",
+        "text": "Ein schwingender Holzstab"
+      },
+      {
+        "id": "d",
+        "text": "Ein Glaszylinder mit Wasser"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das leichte Bändchen bewegt sich im Takt des Schalls zwischen den Magnetpolen und erzeugt eine elektrische Spannung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Mic Basics: Transducers, Polar Patterns, & Frequency Response - Shure USA",
+        "url": "https://www.shure.com/en-US/insights/microphone-basics-transducers-polar-patterns-frequency-response",
+        "verified_claim": "Das leichte Bändchen bewegt sich im Takt des Schalls zwischen den Magnetpolen und erzeugt eine elektrische Spannung.",
+        "checked_at": "2026-11-20T01:30:40.829Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-flugzeug-querruder",
+    "fact_key": "flugzeug-querruder",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welche Bewegung steuert das Querruder eines üblichen Flugzeugs vor allem?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Drehung um die Längsachse"
+      },
+      {
+        "id": "b",
+        "text": "Das Schwenken um die Hochachse"
+      },
+      {
+        "id": "c",
+        "text": "Das Neigen um die Querachse"
+      },
+      {
+        "id": "d",
+        "text": "Das Ein- und Ausfahren der Landeklappen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Ausschlag der Querruder ändert sich der Auftrieb beider Tragflächen unterschiedlich. Dadurch rollt das Flugzeug um seine Längsachse.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Airplane Parts and Function | Glenn Research Center | NASA",
+        "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/airplane-parts-function/",
+        "verified_claim": "Beim Ausschlag der Querruder ändert sich der Auftrieb beider Tragflächen unterschiedlich. Dadurch rollt das Flugzeug um seine Längsachse.",
+        "checked_at": "2026-11-20T01:44:45.301Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kondensatormikrofon-platten",
+    "fact_key": "kondensatormikrofon-platten",
+    "category": "everyday_technology",
+    "difficulty": "hard",
+    "question": "Was verändert der Schall im Kapselelement eines Kondensatormikrofons?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Abstand zwischen Membran und Gegenelektrode"
+      },
+      {
+        "id": "b",
+        "text": "Die Anzahl der Windungen einer Tauchspule"
+      },
+      {
+        "id": "c",
+        "text": "Die Länge eines magnetischen Tonbands"
+      },
+      {
+        "id": "d",
+        "text": "Den Öffnungswinkel eines Lichtverschlusses"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die schwingende Membran bildet zusammen mit der Gegenelektrode einen Kondensator mit veränderlicher Kapazität.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Mic Basics: Transducers, Polar Patterns, & Frequency Response - Shure USA",
+        "url": "https://www.shure.com/en-US/insights/microphone-basics-transducers-polar-patterns-frequency-response",
+        "verified_claim": "Die schwingende Membran bildet zusammen mit der Gegenelektrode einen Kondensator mit veränderlicher Kapazität.",
+        "checked_at": "2026-11-20T01:30:40.829Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-windrad-pitch",
+    "fact_key": "windrad-pitch",
+    "category": "everyday_technology",
+    "difficulty": "hard",
+    "question": "Was regelt das Pitch-System einer großen Windkraftanlage?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Einstellwinkel der Rotorblätter"
+      },
+      {
+        "id": "b",
+        "text": "Die Höhe des Turms"
+      },
+      {
+        "id": "c",
+        "text": "Die Größe des Fundaments"
+      },
+      {
+        "id": "d",
+        "text": "Die Leitfähigkeit des Erdkabels"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Durch Verdrehen der Blätter lässt sich beeinflussen, wie viel Energie sie dem Wind entnehmen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Explore a Wind Turbine - Text Version | Department of Energy",
+        "url": "https://www.energy.gov/cmei/systems/how-wind-turbine-works-text-version",
+        "verified_claim": "Durch Verdrehen der Blätter lässt sich beeinflussen, wie viel Energie sie dem Wind entnehmen.",
+        "checked_at": "2026-11-20T01:30:41.876Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-usb-pd31-leistung",
+    "fact_key": "usb-pd31-leistung",
+    "category": "everyday_technology",
+    "difficulty": "hard",
+    "question": "Welche Höchstleistung sieht die Spezifikation USB Power Delivery 3.1 bei geeigneten Kabeln und Geräten vor?",
+    "options": [
+      {
+        "id": "a",
+        "text": "240 Watt"
+      },
+      {
+        "id": "b",
+        "text": "24 Watt"
+      },
+      {
+        "id": "c",
+        "text": "48 Watt"
+      },
+      {
+        "id": "d",
+        "text": "120 Watt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit der Revision 3.1 wurde die mögliche Leistung unter passenden Bedingungen auf bis zu 240 Watt erhöht.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "USB Charger (USB Power Delivery) | USB-IF",
+        "url": "https://www.usb.org/usb-charger-pd",
+        "verified_claim": "Mit der Revision 3.1 wurde die mögliche Leistung unter passenden Bedingungen auf bis zu 240 Watt erhöht.",
+        "checked_at": "2026-11-20T01:30:39.385Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-dosenbarometer-prinzip",
+    "fact_key": "dosenbarometer-prinzip",
+    "category": "everyday_technology",
+    "difficulty": "hard",
+    "question": "Welches Bauteil reagiert im mechanischen Dosenbarometer unmittelbar auf den äußeren Luftdruck?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine weitgehend luftleere, elastische Metalldose"
+      },
+      {
+        "id": "b",
+        "text": "Eine wassergefüllte Kapillare"
+      },
+      {
+        "id": "c",
+        "text": "Ein lichtempfindlicher Widerstand"
+      },
+      {
+        "id": "d",
+        "text": "Ein gleichmäßig beheizter Draht"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ändert sich der Luftdruck, verformt sich die Dose leicht. Ein Gestänge überträgt diese Bewegung auf den Zeiger.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NOAA's National Weather Service - Glossary",
+        "url": "https://forecast.weather.gov/glossary.php?word=barometer",
+        "verified_claim": "Ändert sich der Luftdruck, verformt sich die Dose leicht. Ein Gestänge überträgt diese Bewegung auf den Zeiger.",
+        "checked_at": "2026-11-20T01:41:59.413Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:46:54.848Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:47:16.302Z"
+      },
+      "approved_at": "2026-11-20T01:47:16.302Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]
