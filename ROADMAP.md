@@ -11,7 +11,7 @@
 | 6 | 600 und anschließend 1.200 geprüfte Fragen | done | release/qa/katalog-600.json, web/data/manifest.json, CONTENT_REPORT.md und redaktionelle Einzelprotokolle. |
 | 7a | Play-Integration, Backup und Erinnerungen implementieren | done | Native Bibliothek 8.0.0, Belegprüfung, geschützter Kaufcache, System-Restore und Android-Berechtigungsdialog. Siehe android/ und release/android/qa-plattform/. |
 | 7b | Tatsächliche Play-Lizenzkäufe und Wiederherstellung | blocked_external | Endgültiges Play-Projekt, echtes Produkt, Lizenztester und signierter interner Track fehlen. |
-| 8a | Browser und Android-Emulatoren prüfen | done | QA_REPORT.md, 3.600 Fragenlayouts und tatsächliche Geräteaufnahmen der Emulatoren. |
+| 8a | Browser und Android-Emulatoren prüfen | done | QA_REPORT.md, 3.600 Fragenlayouts, Android 14 und 16, 16-KB-Seitengröße und eine vollständige über Google TalkBack bediente Tagesrunde. |
 | 8b | Physisches Smartphone und Zielgruppe | blocked_external | Echtes Nutzergerät und freiwillige Teilnehmende stehen aus. Erprobungsbogen in docs/ERPROBUNG.md. |
 | 9a | Lokale Übergabe, Store-Texte und Bildmaterial | done | Selbständige HTML-Datei, zwei finale APKs, sechs originale Telefonaufnahmen, Icon, Feature Graphic und lokale Datenschutzunterlagen unter release/. |
 | 9b | Betreiberfreigabe, öffentlicher Datenschutzlink und Release-AAB | blocked_external | Endgültige Betreiberangaben, Paketname und autorisierte Upload-Signierung stehen aus. |

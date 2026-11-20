@@ -15,6 +15,14 @@ Die beiden installierbaren Ausgaben enthalten den Katalog `de-7363fcba52a1` mit 
 
 Beide finalen APKs wurden auf dem offiziellen Android-16-Systemabbild `google_apis_ps16k` für x86_64 installiert. `getconf PAGESIZE` ergab **16384 Byte** auf `sdk_gphone16k_x86_64`, API 36. Alle 19 Instrumentierungsfälle liefen mit Erfolg, einschließlich SQLite, Unicode, Wiederöffnung, Migration, Android Keystore und Rücknahme der lokal gespeicherten Kaufberechtigung. WebView-Version 133.0.6943.137. [Instrumentierungsprotokoll API 36](../release/android/qa-plattform/instrumentierung-api36-16k.txt) · [Android-Dokumentation zu 16 KB](https://developer.android.com/guide/practices/page-sizes)
 
+Auf diesem Abbild ist Google TalkBack 16.0.0.738667889 vorinstalliert. Bei 4 GB emuliertem Arbeitsspeicher und vier CPU-Kernen war der Dienst mit aktiver Berührungserkundung gebunden. Die Prüfung verwendet Touchereignisse auf dem virtuellen Hardware-Touchscreen des Emulators. Android selbst interpretiert die Wisch- und Doppeltippgesten. Der Instrumentierungstest liest den tatsächlichen TalkBack-Fokus und die nach dem Doppeltipp in SQLite verbuchte Antwort aus. Zwei Original-Screenshots und das Protokoll belegen die Fokusreihenfolge der ersten Frage. [Gestenprotokoll und Originalbilder](../release/android/qa-talkback/) · [TalkBack-Touchgesten](https://support.google.com/accessibility/android/answer/6151827?hl=de)
+
+**Vollständiger TalkBack-Durchlauf**. Bei jeder der zehn Fragen wanderte der Fokus durch eine echte Wischgeste auf eine benachbarte Antwort. Der folgende Doppeltipp verbuchte genau diese Antwort. Auch „Nächste Frage“ und schließlich „Ergebnis ansehen“ wurden per TalkBack fokussiert und doppelt angetippt. Das sichtbare Ergebnis zeigte bei zwei richtigen Antworten 40 XP. Die SQLite-Prüfung fand zehn gültige Antworten und genau eine entsprechend hohe Abschlussbuchung. Auf den Originalbildern sind die grünen TalkBack-Fokusrahmen auf beiden Antwortmöglichkeiten und am Ende auf „Dein Rundenergebnis“ sichtbar. [Protokoll des vollständigen Durchlaufs und Screenshots](../release/android/qa-talkback-gesamtrunde/) · [Tatsächliche Gerätekonfiguration](../release/android/qa-16k/geraet.json)
+
+**Normaler Prozesskaltstart**. Drei Läufe der fertigen, debuggable Play-Vorschau mit bestehender lokaler Runde ergaben **1.595 ms, 1.243 ms und 2.592 ms**. Der Median betrug 1.595 ms. Eine Messung überschritt das Richtziel von ungefähr zwei Sekunden. Nach `am force-stop` lief die Messung auf der monotonen Hostuhr vom ADB-Startaufruf bis zur ersten per Hit-Test erreichbaren von vier aktivierten Antworten. Anschließend bestätigte ein echter Android-Tap jeweils die Bedienbarkeit. Das Messintervall betrug bis zu 250 ms. ADB- und Verbindungsaufwand sind enthalten. Die Vergleichsmessung mit einem signierten Release- oder Profilbuild auf einem benannten physischen Mittelklassegerät steht aus. [Einzelmessungen und Methode](../release/android/qa-kaltstart/android-ui.json)
+
+Im ersten Versuch mit 2 GB meldete das frisch gestartete Android-System einen blockierten System-UI-Dienst und beendete TalkBack wegen Speichermangels. Der Instrumentierungsbericht für SQLite und Kaufzustände war bereits erfolgreich. Die UI-, TalkBack- und Zeitmessungen oben stammen vom eingerichteten Gerät mit 4 GB. [Erster UI-Prüfversuch bei 2 GB](../release/android/qa-16k/erste-ui-pruefung-2gb.json)
+
 ## Nachweise auf Android 14
 
 Android 14, API 34, x86_64, Gerätemodell `sdk_gphone64_x86_64`, System-WebView 113.0.5672.136. `getconf PAGESIZE` ergab 4096 Byte. Die schmale Konfiguration hat 1080 × 1920 physische Pixel bei 480 dpi und eine Breite von 360 CSS-Pixeln. Die Prüfung mit 150 % Systemschrift nutzte 1080 × 2400, die Prüfung mit 200 % Systemschrift 1080 × 1920.
@@ -34,7 +42,7 @@ Die Systembildschirme in den Meilensteinverzeichnissen stammen aus `adb shell sc
 
 ## Verbleibende Abnahmen
 
-* Das Prüfabbild mit API 34 enthält keinen TalkBack-Dienst. Die Kontrolle des Accessibility-Baums deckt semantische Auszeichnung ab. Eine gesprochene Bedienrunde mit installiertem TalkBack und eine Erprobung durch Menschen aus der Zielgruppe stehen aus.
+* Das Prüfabbild mit API 34 enthält keinen TalkBack-Dienst. Auf API 36 lief die oben dokumentierte Gestenprüfung mit dem echten Dienst. Die subjektive Verständlichkeit der deutschen Sprachausgabe und eine Bedienrunde durch Personen aus der Zielgruppe stehen aus.
 * Ein Kauf, ausstehende Zahlung samt Erfolg und Abbruch, tatsächlicher Preis, Wiederherstellung eines gekauften Produkts, Erstattung mit Entzug und Offline-Start mit echtem Beleg benötigen die echte Play-App, das konfigurierte Produkt und ein freigeschaltetes Lizenztestkonto. Die normale Vorschau zeigte ohne diese Voraussetzungen keinen Preis und erlaubte keinen Kauf. Die Instrumentierungsfälle prüfen nur die lokale Verarbeitung.
 * Google-Cloud-Sicherung in einem Konto, Übertragung auf ein zweites physisches Gerät, Benachrichtigungsverhalten unter herstellerspezifischen Energiesparmodi und Zielgruppentest stehen aus. Der lokale BackupManager-Lauf verwendet die Systemimplementierung innerhalb desselben Testemulators. [Android-Anleitung zu Backup-Prüfungen](https://developer.android.com/identity/data/testingbackup)
 * Es wurde nichts in der Play Console eingereicht oder öffentlich veröffentlicht.
@@ -48,4 +56,20 @@ node tools/android-ui.mjs emulator-5582 release/android/screenshots-final daily 
 node tools/android-ui.mjs emulator-5582 release/android/screenshots-final-lokal local --fresh
 node tools/android-ui.mjs emulator-5582 release/android/qa-plattform platform
 node tools/android-backup.mjs emulator-5582 release/android/Quizsalon-Play-Vorschau.apk release/android/qa-plattform
+```
+
+Die TalkBack-Prüfung benötigt das getrennte Instrumentierungs-APK und ein dafür vorbereitetes, temporäres 16-KB-Testgerät. Starte den AVD mit authentifiziertem lokalem Emulator-gRPC. Der Windows-Prüftreiber liest den kurzlebigen Token aus der Discovery-Datei des gewählten AVD. Stelle seine physische Bildschirmgröße wieder her, aktiviere den vorinstallierten TalkBack-Dienst und verwende für die Tagesrunde einen frischen Vorschau-Testspielstand.
+
+```powershell
+adb -s emulator-5584 shell wm size reset
+adb -s emulator-5584 shell wm density 360
+adb -s emulator-5584 shell settings put secure enabled_accessibility_services com.google.android.marvin.talkback/.TalkBackService
+adb -s emulator-5584 shell settings put secure accessibility_enabled 1
+node tools/android-talkback.mjs emulator-5584 release/android/qa-talkback-gesamtrunde
+```
+
+Für die Kaltstartmessung wird TalkBack wieder deaktiviert. Der Aufruf initialisiert die Runde vor dem Messzeitraum und erwartet die bereits installierte Play-Vorschau.
+
+```powershell
+node tools/android-ui.mjs emulator-5584 release/android/qa-kaltstart cold --fresh
 ```

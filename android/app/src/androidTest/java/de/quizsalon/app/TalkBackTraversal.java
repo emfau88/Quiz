@@ -5,9 +5,8 @@ import android.app.Instrumentation;
 import android.app.UiAutomation;
 import android.content.Intent;
 import android.graphics.Rect;
+import android.os.Bundle;
 import android.os.SystemClock;
-import android.view.InputDevice;
-import android.view.MotionEvent;
 import android.view.accessibility.AccessibilityManager;
 import android.view.accessibility.AccessibilityNodeInfo;
 import org.json.JSONArray;
@@ -45,40 +44,86 @@ final class TalkBackTraversal {
                 catch (Exception waiting) { /* HTML creates the new round after its assets have loaded. */ }
             }
             require(first != null && first.isNull("answer"), "Frischer unbeantworteter Prüflauf nötig.");
-            JSONArray order = first.getJSONArray("order");
-            JSONArray options = first.getJSONObject("q").getJSONArray("options");
-            String firstText = option(options, order.getString(0));
-            String secondText = option(options, order.getString(1));
-            AccessibilityNodeInfo firstButton = find(firstText);
-            firstButton.performAction(AccessibilityNodeInfo.AccessibilityAction.ACTION_SHOW_ON_SCREEN.getId());
-            SystemClock.sleep(750);
-            Rect bounds = new Rect();
-            find(firstText).getBoundsInScreen(bounds);
-            int x = bounds.centerX(), y = bounds.centerY();
-            tap(x,y);
-            waitFocus(firstText);
-            report.append("\nPASS Eine einfache Berührung fokussiert die erste Antwort. ").append(firstText);
-            require(session().getJSONArray("items").getJSONObject(0).isNull("answer"), "Berührungserkundung hat voreilig geantwortet.");
-            swipeRight(x,y);
-            waitFocus(secondText);
-            report.append("\nPASS Ein echter Rechtswisch setzt TalkBack-Fokus auf die nächste Antwort. ").append(secondText);
-            tap(x,y);
-            SystemClock.sleep(75);
-            tap(x,y);
-            JSONObject answer = null;
-            for (int i=0; i<20 && answer==null; i++) {
-                SystemClock.sleep(250);
-                answer=session().getJSONArray("items").getJSONObject(0).optJSONObject("answer");
-            }
-            require(answer != null && order.getString(1).equals(answer.optString("optionId")), "TalkBack-Doppeltipp hat die fokussierte Antwort nicht bestätigt.");
-            report.append("\nPASS Der Doppeltipp antwortet mit der zuvor durch Wischen fokussierten Option.");
-            find("Nächste Frage");
-            report.append("\nPASS Nach der Antwort ist die nächste Aktion im nativen Zugänglichkeitsbaum vorhanden.");
+            for(int position=0;position<10;position++) playQuestion(position);
+            JSONObject completed=session();
+            JSONObject result=completed.getJSONObject("result");
+            require("completed".equals(completed.getString("status")) && result.getInt("valid")==10,
+                    "Der Tagesabschluss fehlt.");
+            JSONObject state=new JSONObject(game.read()).getJSONObject("value");
+            JSONObject ledger=state.getJSONObject("ledger");
+            require(ledger.length()==1 && ledger.getJSONObject("daily-complete:"+completed.getString("id")).getInt("xp")==result.getInt("xp"),
+                    "Der Buchungsnachweis stimmt nicht mit dem Ergebnis überein.");
+            find("Dein Rundenergebnis");
+            report.append("\nPASS Gesamte Tagesrunde mit TalkBack. 10 gültige Antworten, ").append(result.getInt("correct"))
+                    .append(" richtige Antworten, ").append(result.getInt("xp")).append(" XP und genau eine Abschlussbuchung.");
+            gesture("result",540,600);
+            SystemClock.sleep(2200);
             return report.toString();
         } finally {
             game.close();
             runner.runOnMainSync(activity::finish);
         }
+    }
+
+    private void playQuestion(int pos) throws Exception {
+        JSONObject item=session().getJSONArray("items").getJSONObject(pos);
+        require(item.isNull("answer"),"Frage wurde vor der Berührung schon beantwortet.");
+        JSONArray order=item.getJSONArray("order");
+        JSONArray options=item.getJSONObject("q").getJSONArray("options");
+        String firstText=option(options,order.getString(0));
+        AccessibilityNodeInfo firstButton=find(firstText);
+        firstButton.performAction(AccessibilityNodeInfo.AccessibilityAction.ACTION_SHOW_ON_SCREEN.getId());
+        SystemClock.sleep(500);
+        Rect bounds=new Rect();
+        find(firstText).getBoundsInScreen(bounds);
+        int x=bounds.centerX(), y=bounds.centerY();
+        gesture("explore",x,y);
+        SystemClock.sleep(1100);
+        String label=focus();
+        int index=answerIndex(options,order,label);
+        for(int i=0;i<28 && index<0;i++) {
+            label=nextFocus(x,y);
+            index=answerIndex(options,order,label);
+        }
+        require(index>=0,"Keine Antwort im TalkBack-Fokus. " + label);
+        require(session().getJSONArray("items").getJSONObject(pos).isNull("answer"),"Voreilige Antwort durch Berührungserkundung.");
+        int next=index==3 ? index-1 : index+1;
+        String target=option(options,order.getString(next));
+        gesture(index==3?"answerLeft":"answerRight",x,y);
+        waitFocus(target);
+        gesture("doubleTap",x,y);
+        JSONObject saved=null;
+        for(int i=0;i<24 && saved==null;i++) {
+            SystemClock.sleep(225);
+            saved=session().getJSONArray("items").getJSONObject(pos).optJSONObject("answer");
+        }
+        require(saved!=null && order.getString(next).equals(saved.optString("optionId")),"Abweichende Antwort nach Doppeltipp.");
+        String nextLabel=pos==9 ? "Ergebnis ansehen" : "Nächste Frage";
+        find(nextLabel);
+        String action=focus();
+        for(int i=0;i<28 && !action.contains(nextLabel);i++) action=nextFocus(x,y);
+        require(action.contains(nextLabel),"Weiteraktion im TalkBack-Fokus fehlt: "+action);
+        gesture("activate",x,y);
+        boolean moved=false;
+        for(int i=0;i<35&&!moved;i++) {
+            SystemClock.sleep(220);
+            JSONObject current=session();
+            moved=pos==9 ? "completed".equals(current.optString("status")) : current.optInt("cursor")==pos+1;
+        }
+        require(moved,"Der TalkBack-Doppeltipp auf "+nextLabel+" hat die Runde nicht weitergeführt.");
+        String message="Frage "+(pos+1)+" von 10. TalkBack-Fokus auf "+label+", Wischziel "+target+
+                ", Doppeltipp mit gespeichertem Antwortwert, "+nextLabel+" fokussiert und per Doppeltipp aktiviert.";
+        report.append("\nPASS ").append(message);
+        Bundle progress=new Bundle();
+        progress.putString("quizCheck",message);
+        runner.sendStatus(1,progress);
+    }
+
+    private String nextFocus(int x,int y) {
+        String old=focus(), current=old;
+        gesture("swipeRight",x,y);
+        for(int i=0;i<12 && current.equals(old);i++) {SystemClock.sleep(150);current=focus();}
+        return current;
     }
 
     private JSONObject session() throws Exception {
@@ -100,54 +145,54 @@ final class TalkBackTraversal {
     }
 
     private AccessibilityNodeInfo find(String text) {
-        for (int i=0; i<25; i++) {
+        StringBuilder observed=new StringBuilder();
+        for (int i=0; i<50; i++) {
             AccessibilityNodeInfo root=ui.getRootInActiveWindow();
-            if (root!=null) {
-                for (AccessibilityNodeInfo node:root.findAccessibilityNodeInfosByText(text)) {
-                    if (node.isVisibleToUser()) return node;
-                }
-            }
-            SystemClock.sleep(220);
+            observed.setLength(0);
+            AccessibilityNodeInfo node=search(root,text,observed,0);
+            if(node!=null) return node;
+            SystemClock.sleep(350);
         }
-        throw new AssertionError("Auf dem aktiven Systembildschirm fehlt: " + text);
+        throw new AssertionError(report+"\nAuf dem aktiven Systembildschirm fehlt: " + text + ". Baum: " + observed);
+    }
+
+    private AccessibilityNodeInfo search(AccessibilityNodeInfo node,String text,StringBuilder observed,int depth) {
+        if(node==null || depth>45) return null;
+        String label=String.valueOf(node.getText())+" "+node.getContentDescription();
+        if(observed.length()<1800) observed.append(node.getClassName()).append('(').append(label).append(") ");
+        if(node.isVisibleToUser() && label.contains(text)) return node;
+        for(int i=0; i<node.getChildCount(); i++) {
+            AccessibilityNodeInfo found=search(node.getChild(i),text,observed,depth+1);
+            if(found!=null) return found;
+        }
+        return null;
     }
 
     private void waitFocus(String expected) {
         String seen="";
-        for (int i=0; i<20; i++) {
-            AccessibilityNodeInfo focused = ui.findFocus(AccessibilityNodeInfo.FOCUS_ACCESSIBILITY);
-            if (focused!=null) {
-                seen = focused.getText() + " " + focused.getContentDescription() + " " + focused.getClassName();
-                if (seen.contains(expected)) return;
-            }
+        for (int i=0; i<45; i++) {
+            seen=focus();
+            if (seen.contains(expected)) return;
             SystemClock.sleep(180);
         }
         throw new AssertionError("Erwarteter TalkBack-Fokus: " + expected + ". Beobachteter Fokus: " + seen);
     }
 
-    private void event(long down, int action, int x, int y) {
-        MotionEvent e=MotionEvent.obtain(down,SystemClock.uptimeMillis(),action,x,y,0);
-        e.setSource(InputDevice.SOURCE_TOUCHSCREEN);
-        try { require(ui.injectInputEvent(e,true),"Android hat die Berührung nicht angenommen"); }
-        finally { e.recycle(); }
+    private String focus() {
+        AccessibilityNodeInfo focused=ui.findFocus(AccessibilityNodeInfo.FOCUS_ACCESSIBILITY);
+        return focused==null ? "Kein Fokus" : focused.getText()+" "+focused.getContentDescription()+" "+focused.getClassName();
     }
 
-    private void tap(int x, int y) {
-        long start=SystemClock.uptimeMillis();
-        event(start,MotionEvent.ACTION_DOWN,x,y);
-        SystemClock.sleep(55);
-        event(start,MotionEvent.ACTION_UP,x,y);
+    private int answerIndex(JSONArray options,JSONArray order,String label) throws Exception {
+        for(int i=0;i<order.length();i++) if(label.contains(option(options,order.getString(i)))) return i;
+        return -1;
     }
 
-    private void swipeRight(int x,int y) {
-        long start=SystemClock.uptimeMillis();
-        int left=Math.max(50,x-270);
-        event(start,MotionEvent.ACTION_DOWN,left,y);
-        for(int i=1; i<=9; i++) {
-            SystemClock.sleep(16);
-            event(start,MotionEvent.ACTION_MOVE,left+i*56,y);
-        }
-        event(start,MotionEvent.ACTION_UP,left+504,y);
+    private void gesture(String kind,int x,int y) {
+        // UiAutomation.injectInputEvent bypasses touch exploration. Request an event on the emulator's touchscreen instead.
+        Bundle step=new Bundle();
+        step.putString("quizGesture",kind+" "+x+" "+y);
+        runner.sendStatus(1,step);
     }
 
     private static void require(boolean yes, String text) {

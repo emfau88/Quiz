@@ -9,3 +9,4 @@
 - Ausgeglichener 600er-Zwischenstand und Vollkatalog de-7363fcba52a1 mit 1.200 aktiven Sachverhalten. Vier fachliche Doppelungen beim Abgleich der Ressorts ersetzt. Der Vollbestand enthält alle ursprünglichen Referenz-IDs.
 - Zwei final signierte **Debug-APKs** für den privaten Test. Die Lokaltestvariante hat eine eigene Kennung und benötigt weder Internet- noch Billing-Berechtigung. Die reguläre Vorschau nutzt die echte Play-Integration und zeigt offen an, wenn das Produkt nicht eingerichtet ist.
 - Lokaler Systembackup-/Wiederherstellungstest, Überinstallation über den Referenzstand, sechs Telefonaufnahmen und Store-Vorbereitung mit Icon, Vorstellungsgrafik, Beschreibung und Datenschutzentwurf.
+- Vollständige Zehnerrunde mit Google TalkBack, gemessene Android-Prozesskaltstarts und Instrumentierungsprüfungen auf Android 16 mit 16-KB-Speicherseiten.

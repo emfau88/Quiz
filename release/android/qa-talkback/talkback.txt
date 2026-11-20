@@ -1,0 +1,46 @@
+INSTRUMENTATION_STATUS: quizGesture=explore 540 981
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: quizGesture=swipeRight 540 981
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: quizGesture=swipeRight 540 981
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: quizGesture=swipeRight 540 981
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: quizGesture=swipeRight 540 981
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: quizGesture=swipeRight 540 981
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: quizGesture=swipeRight 540 981
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: quizGesture=swipeRight 540 981
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: quizGesture=swipeRight 540 981
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: quizGesture=swipeRight 540 981
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: quizGesture=swipeRight 540 981
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: quizGesture=swipeRight 540 981
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: quizGesture=answerRight 540 981
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: quizGesture=doubleTap 540 981
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_RESULT: stream=
+PASS Google TalkBack und tatsächliche Berührungserkundung sind aktiv.
+Fokus Die Tagesrunde · Quizsalon null android.webkit.WebView
+Fokus null Zum Inhalt android.view.View
+Fokus Quizsalon, zur Übersicht null android.widget.Button
+Fokus Einstellungen null android.widget.Button
+Fokus  null android.view.View
+Fokus FREITAG, 20. NOVEMBER 2026 null android.widget.TextView
+Fokus Die Tagesrunde null android.widget.TextView
+Fokus Pausieren null android.widget.Button
+Fokus Natur und Tiere null android.widget.TextView
+Fokus Frage 1 von 10 null android.widget.TextView
+Fokus Was fressen Galápagos-Riesenschildkröten in der Natur? null android.widget.TextView
+PASS Eine Antwort ist durch echte TalkBack-Berührungserkundung fokussiert. Gräser, Blätter und Kakteen null android.widget.Button
+PASS Eine echte Wischgeste setzt den TalkBack-Fokus auf die benachbarte Antwort. Käfer und Regenwürmer
+PASS Der Doppeltipp antwortet mit der zuvor durch Wischen fokussierten Option.
+PASS Nach der Antwort ist die nächste Aktion im nativen Zugänglichkeitsbaum vorhanden.
+INSTRUMENTATION_CODE: -1

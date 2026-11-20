@@ -1,0 +1,19 @@
+{
+  "device": "sdk_gphone16k_x86_64",
+  "api": "36",
+  "pageSize": "16384",
+  "run": "2026-11-20T02:26:21.110Z",
+  "checks": [
+    "Drei Kaltstarts mit anschließend per Android-Berührung tatsächlich bestätigter Antwort, Median 1595 ms"
+  ],
+  "screenshots": [],
+  "build": "Installierte, debuggable Play-Vorschau mit 1200 Fragen",
+  "method": "Bestehende lokale Runde, Prozess per am force-stop beendet. Zeit vom Start des ADB-Aufrufs am start bis die laufende WebView vier aktivierte Antworten und die erste per Hit-Test als antippbar meldet. Host-Monotonuhr, Abfrageintervall bis 250 ms, ADB- und Verbindungsaufwand enthalten.",
+  "samplesMs": [
+    1595,
+    1243,
+    2592
+  ],
+  "medianMs": 1595,
+  "ok": true
+}

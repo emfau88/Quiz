@@ -50,8 +50,14 @@ def main():
         segment = listing.partition("## " + field + "\n")[2].partition("\n## " + next_field + "\n")[0].strip()
         assert 0 < len(segment) <= limit, f"Store-Feld {field}"
     artifacts = [html, *apks, *sorted(store.glob("*.png"))]
+    apk_builds = {}
+    for apk, variant in zip(apks, ["localTest", "debug"]):
+        built = ROOT / f"android/app/build/outputs/apk/{variant}/app-{variant}.apk"
+        if built.is_file() and sha(built.read_bytes()) == sha(apk.read_bytes()):
+            apk_builds[apk.name] = {"gradle_output": built.relative_to(ROOT).as_posix(),
+                                    "last_write_utc": datetime.fromtimestamp(built.stat().st_mtime, timezone.utc).isoformat()}
     result = {"source_commit": commit, "assembled_at_utc": datetime.now(timezone.utc).isoformat(),
-              "app_version": "0.1.0", "version_code": 1, "catalog": manifest, "public_release": False,
+              "app_version": "0.1.0", "version_code": 1, "catalog": manifest, "public_release": False, "verified_local_builds": apk_builds,
               "artifacts": [{"path": p.relative_to(OUT).as_posix(), "bytes": p.stat().st_size, "sha256": sha(p.read_bytes())} for p in artifacts]}
     (OUT / "BUILDINFO.json").write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
     checksum = "\n".join(item["sha256"] + "  " + item["path"] for item in result["artifacts"])
@@ -73,6 +79,7 @@ def main():
         assert not any(name.lower().endswith((".jks", ".keystore", ".p12", ".pem")) for name in archive.namelist())
         for required in ["README.md", "QA_REPORT.md", "android/QA.md", "CONTENT_REPORT.md", "RELEASE_CHECKLIST.md",
                          "release/qa/kalender-browser.json", "release/android/qa-upgrade/android-ui.json",
+                         "release/android/qa-talkback-gesamtrunde/talkback.txt", "release/android/qa-kaltstart/android-ui.json",
                          "release/LOKAL_TESTEN.md", "web/js/engine.js", "specs/question.schema.json", *metadata]:
             archive.getinfo(required)
     print(f"{target.name} · {target.stat().st_size} Bytes · SHA-256 {sha(target.read_bytes())}")

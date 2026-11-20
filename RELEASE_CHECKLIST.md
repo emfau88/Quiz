@@ -75,8 +75,8 @@ Stand der lokalen Vollversion 0.1.0 mit dem Katalog de-7363fcba52a1. Ein Haken v
 - [x] Keine abgeschnittene Frage, Antwort oder Schaltfläche. [Darstellungsprüfung][L]
 - [x] Antwortflächen wachsen; Scrollen funktioniert ohne Textverkleinerung. [Darstellungsprüfung][L]
 - [x] Textkontrast mindestens 4,5:1; richtige und falsche Zustände sind ohne Farbe verständlich. [Darstellungsprüfung][L]
-- [ ] Ein kompletter Durchlauf mit TalkBack wurde tatsächlich ausgeführt. Android-Hilfsmittel und Leitsignale werden im nativen Prüfbericht getrennt ausgewiesen.
-- [ ] Fokus nach Antwort und Weiter nachvollziehbar; keine störenden Doppelansagen. Tastaturfokus und WebView-Zugänglichkeitsbaum geprüft. Hörbeurteilung zu Doppelansagen offen.
+- [x] Alle zehn Fragen einschließlich Ergebnis wurden auf Android 16 mit aktiviertem Google TalkBack per Wischgeste und Doppeltipp gespielt. [TalkBack-Protokoll](release/android/qa-talkback-gesamtrunde/talkback.txt)
+- [ ] Der Fokus nach Antwort und Weiter wurde mit TalkBack verfolgt. Ob Sprachausgabe und Ansagen angenehm verständlich sind und störende Doppelansagen ausbleiben, muss eine Person hören. [TalkBack-Protokoll](release/android/qa-talkback-gesamtrunde/talkback.txt)
 - [ ] Ton, Haptik und reduzierte Bewegung funktionieren. Ton- und Haptikschalter sind unabhängig. Der Wahrnehmungstest am Smartphone steht aus.
 - [ ] Mindestens ein echtes Android-Smartphone geprüft, zusätzlich Emulatoren für gezielte Plattformfälle. Emulatorprüfungen liegen vor. Ein physisches Testgerät fehlt.
 - [ ] App startet und spielt im Flugmodus; Kaufzustand erklärt fehlende Verbindung. Flugmodus bestanden. Der echte Play-Abgleich bei Verbindungsabbruch benötigt den internen Track.

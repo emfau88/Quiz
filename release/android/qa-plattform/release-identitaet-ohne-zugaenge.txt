@@ -1,5 +1,5 @@
 > Task :app:checkReleaseIdentity FAILED
 FAILURE: Build failed with an exception.
 Execution failed for task ':app:checkReleaseIdentity'.
-> F�r einen Release fehlen endg�ltige App-ID, Play-Lizenzschl�ssel oder Upload-Signierung. Siehe android/README.md.
+> Für einen Release fehlen endgültige App-ID, Play-Lizenzschlüssel oder Upload-Signierung. Siehe android/README.md.
 BUILD FAILED in 3s
