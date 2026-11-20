@@ -1,0 +1,150 @@
+{
+  "source_commit": "64059c934d3f64859ef451dc696800101171d6f4",
+  "assembled_at_utc": "2026-11-20T02:31:35.903430+00:00",
+  "app_version": "0.1.0",
+  "version_code": 1,
+  "catalog": {
+    "version": "de-7363fcba52a1",
+    "sha256": "7363fcba52a17e78536d68f0f79636897a96e6e0cda82ffadc4afa9a75b6c336",
+    "active": 1200,
+    "facts": 1200,
+    "starter": 24,
+    "reference": 150,
+    "categories": {
+      "nature_animals": [
+        120,
+        60,
+        20
+      ],
+      "geography_travel": [
+        120,
+        60,
+        20
+      ],
+      "everyday_technology": [
+        120,
+        60,
+        20
+      ],
+      "history_discoveries": [
+        120,
+        60,
+        20
+      ],
+      "entertainment": [
+        120,
+        60,
+        20
+      ],
+      "language_culture": [
+        120,
+        60,
+        20
+      ]
+    },
+    "reference_categories": {
+      "nature_animals": [
+        15,
+        7,
+        3
+      ],
+      "geography_travel": [
+        15,
+        7,
+        3
+      ],
+      "everyday_technology": [
+        15,
+        7,
+        3
+      ],
+      "history_discoveries": [
+        15,
+        7,
+        3
+      ],
+      "entertainment": [
+        15,
+        7,
+        3
+      ],
+      "language_culture": [
+        15,
+        7,
+        3
+      ]
+    },
+    "reference_complete": true,
+    "release_distribution_complete": true,
+    "corrections": 0,
+    "human_observations": 0
+  },
+  "public_release": false,
+  "verified_local_builds": {
+    "Quizsalon-Lokaltest.apk": {
+      "gradle_output": "android/app/build/outputs/apk/localTest/app-localTest.apk",
+      "last_write_utc": "2026-11-20T02:00:15.022950+00:00"
+    },
+    "Quizsalon-Play-Vorschau.apk": {
+      "gradle_output": "android/app/build/outputs/apk/debug/app-debug.apk",
+      "last_write_utc": "2026-11-20T02:00:14.847730+00:00"
+    }
+  },
+  "artifacts": [
+    {
+      "path": "Quizsalon-Lokaltest.html",
+      "bytes": 3052537,
+      "sha256": "9843704b94a817322ccbed6375414008d67cdbc38b5b72146f5f7935b3d896ef"
+    },
+    {
+      "path": "android/Quizsalon-Lokaltest.apk",
+      "bytes": 2395958,
+      "sha256": "512c6c3b07c3e346ec05a2e1bfd045d1b27019bb4cc18e7d54a94531a5eb4c76"
+    },
+    {
+      "path": "android/Quizsalon-Play-Vorschau.apk",
+      "bytes": 2484994,
+      "sha256": "294e77a9880c039f853dcfa8280db04c83e1ab3736bbde13c312ee384ad2d54b"
+    },
+    {
+      "path": "store/Feature-Graphic-1024x500.png",
+      "bytes": 578999,
+      "sha256": "b4b0b41016b212bc9a7b8a166dec39f1c22b5aba9fcba74447e0924ea95d8cb1"
+    },
+    {
+      "path": "store/Icon-512.png",
+      "bytes": 21821,
+      "sha256": "fd0d67e4deba6a7ecc7cc5cf79270bad01d6223d77fccfa4477f417a7e83980b"
+    },
+    {
+      "path": "store/Telefon-01-frage.png",
+      "bytes": 173778,
+      "sha256": "d220e133c8d1371d0bbb34ed7dc39cf23e00dc22a5f4fe31ae411595317bcf15"
+    },
+    {
+      "path": "store/Telefon-02-erklaerung.png",
+      "bytes": 915685,
+      "sha256": "55ccc7bc50881e847672dd0a1ecff98a0340618a538dc0a8b607d6f0ad030607"
+    },
+    {
+      "path": "store/Telefon-03-ergebnis.png",
+      "bytes": 605268,
+      "sha256": "9ba93e232bb7be58f9d325d9b503cc9e50107124ed577531d66300492d28fcb4"
+    },
+    {
+      "path": "store/Telefon-04-heute.png",
+      "bytes": 884670,
+      "sha256": "dec8272db9730dd20585cd52a9288699070025af705d965d9b0b365e046753c8"
+    },
+    {
+      "path": "store/Telefon-05-themen.png",
+      "bytes": 464477,
+      "sha256": "12956f902ac210fabfe79ece56357fdd349fdceb9096a11eb37712fde92dff68"
+    },
+    {
+      "path": "store/Telefon-06-wissen.png",
+      "bytes": 338059,
+      "sha256": "26c29eebf46bd8a3eabfd121bd28519abd3f86e278128d76d6ae2f92429ea209"
+    }
+  ]
+}
