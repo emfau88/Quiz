@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "qs-budapest-donau",
+    "fact_key": "budapest-donau",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welcher Fluss fließt zwischen Buda und Pest?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Donau"
+      },
+      {
+        "id": "b",
+        "text": "Weichsel"
+      },
+      {
+        "id": "c",
+        "text": "Elbe"
+      },
+      {
+        "id": "d",
+        "text": "Rhône"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Budapest liegt an der Donau. Ihre Ufer gehören zusammen mit dem Burgviertel zum Welterbe der Stadt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Budapest, including the Banks of the Danube, the Buda Castle Quarter and Andrássy Avenue - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/400",
+        "verified_claim": "Budapest liegt an der Donau. Ihre Ufer gehören zusammen mit dem Burgviertel zum Welterbe der Stadt.",
+        "checked_at": "2026-11-20T01:10:48.038Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.271Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-pisa-turm-funktion",
+    "fact_key": "pisa-turm-funktion",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche Aufgabe hat der Schiefe Turm von Pisa am Domplatz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Glockenturm"
+      },
+      {
+        "id": "b",
+        "text": "Wasserturm"
+      },
+      {
+        "id": "c",
+        "text": "Leuchtturm"
+      },
+      {
+        "id": "d",
+        "text": "Uhrturm des Rathauses"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der schiefe Turm ist der separat stehende Glockenturm des Doms von Pisa. Solche Türme heißen in Italien Campanile.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Piazza del Duomo, Pisa - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/395",
+        "verified_claim": "Der schiefe Turm ist der separat stehende Glockenturm des Doms von Pisa. Solche Türme heißen in Italien Campanile.",
+        "checked_at": "2026-11-20T01:10:48.038Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.271Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-rom-pantheon",
+    "fact_key": "rom-pantheon",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "In welcher Stadt kann man das antike Pantheon und die Trajanssäule besichtigen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rom"
+      },
+      {
+        "id": "b",
+        "text": "Verona"
+      },
+      {
+        "id": "c",
+        "text": "Neapel"
+      },
+      {
+        "id": "d",
+        "text": "Mailand"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Pantheon und Trajanssäule gehören zu den antiken Monumenten im historischen Zentrum Roms.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Historic Centre of Rome, the Properties of the Holy See in that City Enjoying Extraterritorial Rights and San Paolo Fuori le Mura - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/91",
+        "verified_claim": "Pantheon und Trajanssäule gehören zu den antiken Monumenten im historischen Zentrum Roms.",
+        "checked_at": "2026-11-20T01:10:48.038Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.271Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-geiranger-norwegen",
+    "fact_key": "geiranger-norwegen",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "In welchem Land liegen der Geirangerfjord und der Nærøyfjord?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Norwegen"
+      },
+      {
+        "id": "b",
+        "text": "Irland"
+      },
+      {
+        "id": "c",
+        "text": "Dänemark"
+      },
+      {
+        "id": "d",
+        "text": "Finnland"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beide Fjorde liegen im Westen Norwegens. Steile Felswände und Wasserfälle prägen ihre Ufer.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "West Norwegian Fjords – Geirangerfjord and Nærøyfjord - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1195",
+        "verified_claim": "Beide Fjorde liegen im Westen Norwegens. Steile Felswände und Wasserfälle prägen ihre Ufer.",
+        "checked_at": "2026-11-20T01:10:48.038Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.271Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-alhambra-granada",
+    "fact_key": "alhambra-granada",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "In welcher spanischen Stadt liegt die Alhambra?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Granada"
+      },
+      {
+        "id": "b",
+        "text": "Valencia"
+      },
+      {
+        "id": "c",
+        "text": "Bilbao"
+      },
+      {
+        "id": "d",
+        "text": "Salamanca"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Alhambra erhebt sich über Granada. Auf einem benachbarten Hügel liegt das alte Stadtviertel Albaycín.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Alhambra, Generalife and Albayzín, Granada - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/314",
+        "verified_claim": "Die Alhambra erhebt sich über Granada. Auf einem benachbarten Hügel liegt das alte Stadtviertel Albaycín.",
+        "checked_at": "2026-11-20T01:11:19.047Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.271Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-machu-anden",
+    "fact_key": "machu-anden",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "In welchem Gebirge liegt die Inkastätte Machu Picchu?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Anden"
+      },
+      {
+        "id": "b",
+        "text": "Alpen"
+      },
+      {
+        "id": "c",
+        "text": "Atlas"
+      },
+      {
+        "id": "d",
+        "text": "Himalaya"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Machu Picchu liegt in einem Bergwald an der Ostseite der Anden und gehört zum oberen Einzugsgebiet des Amazonas.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Historic Sanctuary of Machu Picchu - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/274",
+        "verified_claim": "Machu Picchu liegt in einem Bergwald an der Ostseite der Anden und gehört zum oberen Einzugsgebiet des Amazonas.",
+        "checked_at": "2026-11-20T01:10:46.359Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.272Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-gizeh-aegypten",
+    "fact_key": "gizeh-aegypten",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "In welchem Land stehen die Pyramiden von Gizeh?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ägypten"
+      },
+      {
+        "id": "b",
+        "text": "Tunesien"
+      },
+      {
+        "id": "c",
+        "text": "Marokko"
+      },
+      {
+        "id": "d",
+        "text": "Jordanien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Pyramiden von Gizeh gehören zu den altägyptischen Grabanlagen im Umfeld von Memphis.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/86",
+        "verified_claim": "Die Pyramiden von Gizeh gehören zu den altägyptischen Grabanlagen im Umfeld von Memphis.",
+        "checked_at": "2026-11-20T01:10:46.359Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.272Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-sydney-opernhaus",
+    "fact_key": "sydney-opernhaus",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zu welcher Stadt gehört das berühmte Opernhaus mit den weißen, schalenförmigen Dächern am Hafen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sydney"
+      },
+      {
+        "id": "b",
+        "text": "Melbourne"
+      },
+      {
+        "id": "c",
+        "text": "Perth"
+      },
+      {
+        "id": "d",
+        "text": "Brisbane"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Opernhaus von Sydney steht an der Spitze einer Halbinsel im Hafen. Seine gewölbten Dachschalen überdecken die Säle.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Sydney Opera House - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/166",
+        "verified_claim": "Das Opernhaus von Sydney steht an der Spitze einer Halbinsel im Hafen. Seine gewölbten Dachschalen überdecken die Säle.",
+        "checked_at": "2026-11-20T01:11:19.047Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.272Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-athen-parthenon",
+    "fact_key": "athen-parthenon",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welcher Tempel steht auf der Akropolis von Athen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Parthenon"
+      },
+      {
+        "id": "b",
+        "text": "Artemistempel von Ephesos"
+      },
+      {
+        "id": "c",
+        "text": "Heraion von Samos"
+      },
+      {
+        "id": "d",
+        "text": "Apollontempel von Delphi"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Parthenon gehört zum antiken Ensemble auf der Akropolis. Dort stehen auch das Erechtheion und der Tempel der Athena Nike.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Acropolis, Athens - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/404",
+        "verified_claim": "Der Parthenon gehört zum antiken Ensemble auf der Akropolis. Dort stehen auch das Erechtheion und der Tempel der Athena Nike.",
+        "checked_at": "2026-11-20T01:10:46.359Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.272Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-wien-ringstrasse",
+    "fact_key": "wien-ringstrasse",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "In welcher Stadt führt die berühmte Ringstraße an repräsentativen Bauten des 19. Jahrhunderts vorbei?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wien"
+      },
+      {
+        "id": "b",
+        "text": "Bern"
+      },
+      {
+        "id": "c",
+        "text": "Salzburg"
+      },
+      {
+        "id": "d",
+        "text": "Innsbruck"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wiens Ringstraße entstand im 19. Jahrhundert und säumt das historische Zentrum mit Bauwerken und Parks.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Historic Centre of Vienna - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1033",
+        "verified_claim": "Wiens Ringstraße entstand im 19. Jahrhundert und säumt das historische Zentrum mit Bauwerken und Parks.",
+        "checked_at": "2026-11-20T01:10:48.038Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.272Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-iguazu-grenze",
+    "fact_key": "iguazu-grenze",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche beiden Staaten teilen sich die Iguazú-Wasserfälle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Argentinien und Brasilien"
+      },
+      {
+        "id": "b",
+        "text": "Peru und Chile"
+      },
+      {
+        "id": "c",
+        "text": "Ecuador und Kolumbien"
+      },
+      {
+        "id": "d",
+        "text": "Bolivien und Paraguay"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Fälle liegen auf einer Basaltstufe an der Grenze von Argentinien und Brasilien. Das Wasser stürzt über zahlreiche Kaskaden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Iguazu National Park - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/303",
+        "verified_claim": "Die Fälle liegen auf einer Basaltstufe an der Grenze von Argentinien und Brasilien. Das Wasser stürzt über zahlreiche Kaskaden.",
+        "checked_at": "2026-11-20T01:10:46.359Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.272Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-mittelrhein-weinberge",
+    "fact_key": "mittelrhein-weinberge",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Was prägt neben Burgen und alten Städten die Hänge des Oberen Mittelrheintals?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Weinberge"
+      },
+      {
+        "id": "b",
+        "text": "Reisterrassen"
+      },
+      {
+        "id": "c",
+        "text": "Bananenplantagen"
+      },
+      {
+        "id": "d",
+        "text": "Baumwollfelder"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Weinberge, Burgen und historische Orte kennzeichnen das obere Mittelrheintal als gewachsene Kulturlandschaft.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Upper Middle Rhine Valley - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1066",
+        "verified_claim": "Weinberge, Burgen und historische Orte kennzeichnen das obere Mittelrheintal als gewachsene Kulturlandschaft.",
+        "checked_at": "2026-11-20T01:10:48.038Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.272Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-gaudi-park-guell",
+    "fact_key": "gaudi-park-guell",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Wer gestaltete in Barcelona den Park Güell und die Casa Milà?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Antoni Gaudí"
+      },
+      {
+        "id": "b",
+        "text": "Gustave Eiffel"
+      },
+      {
+        "id": "c",
+        "text": "Friedensreich Hundertwasser"
+      },
+      {
+        "id": "d",
+        "text": "Walter Gropius"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Park Güell und Casa Milà gehören zu den Werken von Antoni Gaudí in Barcelona.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Works of Antoni Gaudí - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/320",
+        "verified_claim": "Park Güell und Casa Milà gehören zu den Werken von Antoni Gaudí in Barcelona.",
+        "checked_at": "2026-11-20T01:10:48.038Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.272Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-taj-mahal-agra",
+    "fact_key": "taj-mahal-agra",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "In welcher indischen Stadt steht das Taj Mahal?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Agra"
+      },
+      {
+        "id": "b",
+        "text": "Delhi"
+      },
+      {
+        "id": "c",
+        "text": "Mumbai"
+      },
+      {
+        "id": "d",
+        "text": "Jaipur"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Taj Mahal wurde in Agra als Mausoleum aus weißem Marmor errichtet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Taj Mahal - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/252",
+        "verified_claim": "Das Taj Mahal wurde in Agra als Mausoleum aus weißem Marmor errichtet.",
+        "checked_at": "2026-11-20T01:10:46.359Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.272Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-yellowstone-wyoming",
+    "fact_key": "yellowstone-wyoming",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "In welchem US-Bundesstaat liegt der weitaus größte Teil des Yellowstone-Nationalparks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wyoming"
+      },
+      {
+        "id": "b",
+        "text": "Montana"
+      },
+      {
+        "id": "c",
+        "text": "Idaho"
+      },
+      {
+        "id": "d",
+        "text": "Colorado"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Rund 96 Prozent des Yellowstone-Nationalparks liegen in Wyoming. Der Rest verteilt sich auf Montana und Idaho.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Yellowstone National Park - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/28",
+        "verified_claim": "Rund 96 Prozent des Yellowstone-Nationalparks liegen in Wyoming. Der Rest verteilt sich auf Montana und Idaho.",
+        "checked_at": "2026-11-20T01:11:19.047Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.272Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-goereme-kappadokien",
+    "fact_key": "goereme-kappadokien",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welche türkische Region ist für die Felsenkirchen und unterirdischen Siedlungen bei Göreme bekannt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kappadokien"
+      },
+      {
+        "id": "b",
+        "text": "Thrakien"
+      },
+      {
+        "id": "c",
+        "text": "Lykien"
+      },
+      {
+        "id": "d",
+        "text": "Troas"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In Kappadokien schnitten Menschen Heiligtümer und Wohnräume in den Fels. Auch unterirdische Städte sind erhalten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Göreme National Park and the Rock Sites of Cappadocia - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/357",
+        "verified_claim": "In Kappadokien schnitten Menschen Heiligtümer und Wohnräume in den Fels. Auch unterirdische Städte sind erhalten.",
+        "checked_at": "2026-11-20T01:11:19.047Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.272Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-speyer-romanisch",
+    "fact_key": "speyer-romanisch",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welchem Baustil wird der Dom zu Speyer vor allem zugerechnet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Romanik"
+      },
+      {
+        "id": "b",
+        "text": "Jugendstil"
+      },
+      {
+        "id": "c",
+        "text": "Rokoko"
+      },
+      {
+        "id": "d",
+        "text": "Klassizismus"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Speyerer Dom wurde im 11. Jahrhundert begonnen. Er zählt zu den bedeutenden Bauwerken der Romanik.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Speyer Cathedral - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/168",
+        "verified_claim": "Der Speyerer Dom wurde im 11. Jahrhundert begonnen. Er zählt zu den bedeutenden Bauwerken der Romanik.",
+        "checked_at": "2026-11-20T01:11:19.047Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.272Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-abu-simbel-fluss",
+    "fact_key": "abu-simbel-fluss",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welcher Fluss drohte die Tempel von Abu Simbel vor ihrer Rettung zu überfluten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nil"
+      },
+      {
+        "id": "b",
+        "text": "Niger"
+      },
+      {
+        "id": "c",
+        "text": "Euphrat"
+      },
+      {
+        "id": "d",
+        "text": "Jordan"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Tempel von Abu Simbel und die Stätten von Philae wurden vor dem steigenden Nilwasser gerettet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nubian Monuments from Abu Simbel to Philae - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/88",
+        "verified_claim": "Die Tempel von Abu Simbel und die Stätten von Philae wurden vor dem steigenden Nilwasser gerettet.",
+        "checked_at": "2026-11-20T01:10:46.359Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.272Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-sharkbay-australien",
+    "fact_key": "sharkbay-australien",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Auf welchem Kontinent liegt die Shark Bay mit ihren ausgedehnten Seegraswiesen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Australien"
+      },
+      {
+        "id": "b",
+        "text": "Afrika"
+      },
+      {
+        "id": "c",
+        "text": "Nordamerika"
+      },
+      {
+        "id": "d",
+        "text": "Südamerika"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Shark Bay liegt ganz im Westen Australiens. In ihren Seegrasgebieten leben unter anderem Dugongs.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Shark Bay, Western Australia - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/578",
+        "verified_claim": "Die Shark Bay liegt ganz im Westen Australiens. In ihren Seegrasgebieten leben unter anderem Dugongs.",
+        "checked_at": "2026-11-20T01:11:19.047Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.272Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-pico-weinmauern",
+    "fact_key": "pico-weinmauern",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Wozu dienen die niedrigen Mauern um die Weinparzellen der Azoreninsel Pico?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Als Schutz gegen Wind und Meerwasser"
+      },
+      {
+        "id": "b",
+        "text": "Als Staudämme für Bewässerungsseen"
+      },
+      {
+        "id": "c",
+        "text": "Als Halterungen für Baumwollnetze"
+      },
+      {
+        "id": "d",
+        "text": "Als Grenzen früherer Bergwerksstollen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die schmalen Mauern unterteilen die Weinanbaufläche in viele kleine Rechtecke und schirmen die Reben gegen Wind und Meerwasser ab.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Landscape of the Pico Island Vineyard Culture - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1117",
+        "verified_claim": "Die schmalen Mauern unterteilen die Weinanbaufläche in viele kleine Rechtecke und schirmen die Reben gegen Wind und Meerwasser ab.",
+        "checked_at": "2026-11-20T01:11:19.047Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.272Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-mesa-verde-colorado",
+    "fact_key": "mesa-verde-colorado",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "In welchem US-Bundesstaat liegen die alten Felsensiedlungen von Mesa Verde?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Colorado"
+      },
+      {
+        "id": "b",
+        "text": "Arizona"
+      },
+      {
+        "id": "c",
+        "text": "New Mexico"
+      },
+      {
+        "id": "d",
+        "text": "Utah"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mesa Verde liegt im Südwesten von Colorado. Zu den erhaltenen Wohnstätten der Pueblo-Vorfahren gehören in Felsnischen gebaute Häuser.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Mesa Verde National Park - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/27",
+        "verified_claim": "Mesa Verde liegt im Südwesten von Colorado. Zu den erhaltenen Wohnstätten der Pueblo-Vorfahren gehören in Felsnischen gebaute Häuser.",
+        "checked_at": "2026-11-20T01:11:19.047Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:54.272Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:03.375Z"
+      },
+      "approved_at": "2026-11-20T01:14:03.375Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  }
+]

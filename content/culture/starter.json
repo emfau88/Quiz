@@ -1,0 +1,866 @@
+[
+  {
+    "id": "k-moon-first-step",
+    "fact_key": "moon.first_step",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wer setzte als erster Mensch einen Fuß auf den Mond?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Neil Armstrong"
+      },
+      {
+        "id": "b",
+        "text": "Juri Gagarin"
+      },
+      {
+        "id": "c",
+        "text": "John Glenn"
+      },
+      {
+        "id": "d",
+        "text": "Michael Collins"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Neil Armstrong stieg im Juli 1969 aus der Landefähre „Eagle“ auf die Mondoberfläche.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1969",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1969.html",
+        "verified_claim": "Neil Armstrong stieg im Juli 1969 aus der Landefähre „Eagle“ auf die Mondoberfläche.",
+        "checked_at": "2026-11-20T01:09:55Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:23+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:28+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:10:28+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "k-berlin-brandenburg-gate-1989",
+    "fact_key": "berlin.brandenburg_gate.1989",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welches Berliner Wahrzeichen wurde im Dezember 1989 wieder für Fußgänger geöffnet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Brandenburger Tor"
+      },
+      {
+        "id": "b",
+        "text": "Siegessäule"
+      },
+      {
+        "id": "c",
+        "text": "Rotes Rathaus"
+      },
+      {
+        "id": "d",
+        "text": "Gedächtniskirche"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ab dem 22. Dezember konnten Menschen zu Fuß durch das Brandenburger Tor gehen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1989",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1989.html",
+        "verified_claim": "Ab dem 22. Dezember konnten Menschen zu Fuß durch das Brandenburger Tor gehen.",
+        "checked_at": "2026-11-20T01:09:55Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:23+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:28+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:10:28+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "k-frg-chancellor-1969",
+    "fact_key": "frg.chancellor.1969",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Wer wurde im Oktober 1969 Bundeskanzler der Bundesrepublik Deutschland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Willy Brandt"
+      },
+      {
+        "id": "b",
+        "text": "Helmut Schmidt"
+      },
+      {
+        "id": "c",
+        "text": "Ludwig Erhard"
+      },
+      {
+        "id": "d",
+        "text": "Kurt Georg Kiesinger"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Im Oktober 1969 bildeten SPD und FDP eine Regierung. Willy Brandt wurde Kanzler, Walter Scheel sein Stellvertreter.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1969",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1969.html",
+        "verified_claim": "Im Oktober 1969 bildeten SPD und FDP eine Regierung. Willy Brandt wurde Kanzler, Walter Scheel sein Stellvertreter.",
+        "checked_at": "2026-11-20T01:09:55Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:23+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:28+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:10:28+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "k-poland-roundtable-city",
+    "fact_key": "poland.roundtable.city",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "In welcher Stadt verhandelten Polens Regierung und Opposition 1989 am Runden Tisch?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Warschau"
+      },
+      {
+        "id": "b",
+        "text": "Krakau"
+      },
+      {
+        "id": "c",
+        "text": "Danzig"
+      },
+      {
+        "id": "d",
+        "text": "Breslau"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Gespräche begannen im Februar in Warschau. Im April einigten sich die Beteiligten auf politische und wirtschaftliche Reformen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1989",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1989.html",
+        "verified_claim": "Die Gespräche begannen im Februar in Warschau. Im April einigten sich die Beteiligten auf politische und wirtschaftliche Reformen.",
+        "checked_at": "2026-11-20T01:09:55Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:23+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:28+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:10:28+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "k-woodstock-1969-festival",
+    "fact_key": "woodstock.1969.festival",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welches Musikfestival im US-Bundesstaat New York wurde 1969 zum Symbol der Flower-Power-Zeit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Woodstock"
+      },
+      {
+        "id": "b",
+        "text": "Rock am Ring"
+      },
+      {
+        "id": "c",
+        "text": "Roskilde"
+      },
+      {
+        "id": "d",
+        "text": "Glastonbury"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Im August kamen mehrere Hunderttausend Menschen zum Woodstock-Festival. Das Konzert fand unter freiem Himmel statt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1969",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1969.html",
+        "verified_claim": "Im August kamen mehrere Hunderttausend Menschen zum Woodstock-Festival. Das Konzert fand unter freiem Himmel statt.",
+        "checked_at": "2026-11-20T01:09:55Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:23+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:28+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:10:28+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "k-titanic-1997-director",
+    "fact_key": "titanic.1997.director",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer führte bei „Titanic“ von 1997 Regie?",
+    "options": [
+      {
+        "id": "a",
+        "text": "James Cameron"
+      },
+      {
+        "id": "b",
+        "text": "Steven Spielberg"
+      },
+      {
+        "id": "c",
+        "text": "Ridley Scott"
+      },
+      {
+        "id": "d",
+        "text": "Ron Howard"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "James Cameron erhielt bei der Oscarverleihung 1998 den Regiepreis für „Titanic“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Academy of Motion Picture Arts and Sciences · 70. Oscarverleihung",
+        "url": "https://www.oscars.org/oscars/ceremonies/1998",
+        "verified_claim": "James Cameron erhielt bei der Oscarverleihung 1998 den Regiepreis für „Titanic“.",
+        "checked_at": "2026-11-20T01:09:55Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:23+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:28+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:10:28+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "k-sesamestreet-us-premiere",
+    "fact_key": "sesamestreet.us.premiere",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche US-Kindersendung startete 1969 und brachte Kindern mit Puppen Buchstaben und Zahlen näher?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sesamstraße"
+      },
+      {
+        "id": "b",
+        "text": "Löwenzahn"
+      },
+      {
+        "id": "c",
+        "text": "Die Sendung mit der Maus"
+      },
+      {
+        "id": "d",
+        "text": "Das Sandmännchen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die amerikanische „Sesame Street“ hatte im November 1969 Premiere. Ihre kurzen Beiträge richteten sich an Vorschulkinder.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1969",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1969.html",
+        "verified_claim": "Die amerikanische „Sesame Street“ hatte im November 1969 Premiere. Ihre kurzen Beiträge richteten sich an Vorschulkinder.",
+        "checked_at": "2026-11-20T01:09:55Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:23+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:28+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:10:28+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "k-goodwillhunting-screenwriters",
+    "fact_key": "goodwillhunting.screenwriters",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welches Duo erhielt für das Originaldrehbuch zu „Good Will Hunting“ den Oscar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Matt Damon und Ben Affleck"
+      },
+      {
+        "id": "b",
+        "text": "Joel und Ethan Coen"
+      },
+      {
+        "id": "c",
+        "text": "Peter und Bobby Farrelly"
+      },
+      {
+        "id": "d",
+        "text": "Billy Wilder und I. A. L. Diamond"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Matt Damon und Ben Affleck wurden im März 1998 gemeinsam für ihr Drehbuch ausgezeichnet.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Academy of Motion Picture Arts and Sciences · 70. Oscarverleihung",
+        "url": "https://www.oscars.org/oscars/ceremonies/1998",
+        "verified_claim": "Matt Damon und Ben Affleck wurden im März 1998 gemeinsam für ihr Drehbuch ausgezeichnet.",
+        "checked_at": "2026-11-20T01:09:55Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:23+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:28+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:10:28+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "k-faust-author",
+    "fact_key": "faust.author",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb die Tragödie „Faust“, deren erster Teil 1808 erschien?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Johann Wolfgang von Goethe"
+      },
+      {
+        "id": "b",
+        "text": "Friedrich Schiller"
+      },
+      {
+        "id": "c",
+        "text": "Heinrich Heine"
+      },
+      {
+        "id": "d",
+        "text": "Theodor Fontane"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Goethes erster Teil erschien 1808 bei Cotta in Tübingen. Der zweite Teil folgte 1832.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Faust, Ausgabe 1808",
+        "url": "https://www.deutschestextarchiv.de/book/show/goethe_faust01_1808",
+        "verified_claim": "Goethes erster Teil erschien 1808 bei Cotta in Tübingen. Der zweite Teil folgte 1832.",
+        "checked_at": "2026-11-20T01:09:55Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:23+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:28+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:10:28+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "k-maxmoritz-number-of-pranks",
+    "fact_key": "maxmoritz.number_of_pranks",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wie viele Streiche erzählt Wilhelm Busch in „Max und Moritz“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sieben"
+      },
+      {
+        "id": "b",
+        "text": "Fünf"
+      },
+      {
+        "id": "c",
+        "text": "Neun"
+      },
+      {
+        "id": "d",
+        "text": "Zwölf"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Schon der Untertitel der Ausgabe von 1865 nennt die sieben Streiche.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Max und Moritz, Ausgabe 1865",
+        "url": "https://www.deutschestextarchiv.de/book/show/busch_max_1865",
+        "verified_claim": "Schon der Untertitel der Ausgabe von 1865 nennt die sieben Streiche.",
+        "checked_at": "2026-11-20T01:09:55Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:23+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:28+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:10:28+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "k-raeuber-author",
+    "fact_key": "raeuber.author",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Von wem stammt das Schauspiel „Die Räuber“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Friedrich Schiller"
+      },
+      {
+        "id": "b",
+        "text": "Heinrich von Kleist"
+      },
+      {
+        "id": "c",
+        "text": "Georg Büchner"
+      },
+      {
+        "id": "d",
+        "text": "Bertolt Brecht"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Friedrich Schillers Schauspiel erschien 1781. Die Erstausgabe lässt sich heute im Deutschen Textarchiv durchblättern.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Die Räuber, Ausgabe 1781",
+        "url": "https://www.deutschestextarchiv.de/book/show/schiller_raeuber_1781",
+        "verified_claim": "Friedrich Schillers Schauspiel erschien 1781. Die Erstausgabe lässt sich heute im Deutschen Textarchiv durchblättern.",
+        "checked_at": "2026-11-20T01:09:55Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:23+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:28+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:10:28+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "k-nathan-subtitle-form",
+    "fact_key": "nathan.subtitle.form",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Wie bezeichnet Lessing „Nathan der Weise“ im Untertitel der Ausgabe von 1779?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dramatisches Gedicht"
+      },
+      {
+        "id": "b",
+        "text": "Historischer Roman"
+      },
+      {
+        "id": "c",
+        "text": "Bürgerliches Trauerspiel"
+      },
+      {
+        "id": "d",
+        "text": "Musikalisches Lustspiel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Lessing gliederte sein dramatisches Gedicht in fünf Aufzüge. Die Ausgabe von 1779 erschien in Berlin.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Textarchiv · Nathan der Weise, Ausgabe 1779",
+        "url": "https://www.deutschestextarchiv.de/book/show/lessing_nathan_1779",
+        "verified_claim": "Lessing gliederte sein dramatisches Gedicht in fünf Aufzüge. Die Ausgabe von 1779 erschien in Berlin.",
+        "checked_at": "2026-11-20T01:09:55Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:23+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:10:28+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:10:28+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  }
+]

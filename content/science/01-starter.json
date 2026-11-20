@@ -1,0 +1,866 @@
+[
+  {
+    "id": "qs-amsel-maennchen-gefaeder",
+    "fact_key": "amsel-maennchen-gefaeder",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Ein Gartenvogel ist tiefschwarz und hat einen gelben Schnabel. Welcher ist es?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Amselmännchen"
+      },
+      {
+        "id": "b",
+        "text": "Rotkehlchen"
+      },
+      {
+        "id": "c",
+        "text": "Blaumeise"
+      },
+      {
+        "id": "d",
+        "text": "Buchfink"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim erwachsenen Amselmännchen fallen der gelbe Schnabel und der gelbe Augenring im schwarzen Gefieder auf.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Amsel - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/amsel",
+        "verified_claim": "Beim erwachsenen Amselmännchen fallen der gelbe Schnabel und der gelbe Augenring im schwarzen Gefieder auf.",
+        "checked_at": "2026-11-20T01:09:31.213Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:09:56.442Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:10:11.716Z"
+      },
+      "approved_at": "2026-11-20T01:10:11.716Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "qs-kuckuck-brutpflege",
+    "fact_key": "kuckuck-brutpflege",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welcher heimische Vogel lässt seine Jungen von anderen Vogelarten aufziehen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kuckuck"
+      },
+      {
+        "id": "b",
+        "text": "Amsel"
+      },
+      {
+        "id": "c",
+        "text": "Kohlmeise"
+      },
+      {
+        "id": "d",
+        "text": "Grünspecht"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Kuckuck legt seine Eier in die Nester anderer Arten. Die Wirtseltern übernehmen die Aufzucht.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Kuckuck - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/kuckuck",
+        "verified_claim": "Der Kuckuck legt seine Eier in die Nester anderer Arten. Die Wirtseltern übernehmen die Aufzucht.",
+        "checked_at": "2026-11-20T01:09:31.192Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:09:56.443Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:10:11.716Z"
+      },
+      "approved_at": "2026-11-20T01:10:11.716Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "qs-buntspecht-spechtschmiede",
+    "fact_key": "buntspecht-spechtschmiede",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was tut ein Buntspecht in seiner sogenannten Spechtschmiede?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er klemmt Zapfen ein und öffnet sie."
+      },
+      {
+        "id": "b",
+        "text": "Er polstert sein Nest mit Moos."
+      },
+      {
+        "id": "c",
+        "text": "Er schärft seine Krallen an Steinen."
+      },
+      {
+        "id": "d",
+        "text": "Er badet seine Federn im Sand."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eine Spalte in der Rinde dient als Halterung. So kann der Buntspecht den eingeklemmten Zapfen mit dem Schnabel bearbeiten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Buntspecht - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/buntspecht",
+        "verified_claim": "Eine Spalte in der Rinde dient als Halterung. So kann der Buntspecht den eingeklemmten Zapfen mit dem Schnabel bearbeiten.",
+        "checked_at": "2026-11-20T01:09:31.192Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:09:56.443Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:10:11.716Z"
+      },
+      "approved_at": "2026-11-20T01:10:11.716Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "qs-eisvogel-brutroehre",
+    "fact_key": "eisvogel-brutroehre",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Wo legt der Eisvogel gewöhnlich seine Brutröhre an?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In einer steilen Uferwand"
+      },
+      {
+        "id": "b",
+        "text": "In der Krone einer Weide"
+      },
+      {
+        "id": "c",
+        "text": "Unter einem schwimmenden Blatt"
+      },
+      {
+        "id": "d",
+        "text": "In einem hohlen Schilfhalm"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In sandige oder lehmige Steilufer gräbt der Eisvogel einen waagerechten Gang für seine Brut.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Eisvogel - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/eisvogel",
+        "verified_claim": "In sandige oder lehmige Steilufer gräbt der Eisvogel einen waagerechten Gang für seine Brut.",
+        "checked_at": "2026-11-20T01:09:31.192Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:09:56.443Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:10:11.716Z"
+      },
+      "approved_at": "2026-11-20T01:10:11.716Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "qs-paris-seine",
+    "fact_key": "paris-seine",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "An welchem Fluss liegen in Paris der Louvre und der Eiffelturm?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Seine"
+      },
+      {
+        "id": "b",
+        "text": "Loire"
+      },
+      {
+        "id": "c",
+        "text": "Rhône"
+      },
+      {
+        "id": "d",
+        "text": "Garonne"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Seine durchquert Paris. Zum Welterbe an ihren Ufern gehören die Stadtlandschaften rund um Louvre und Eiffelturm.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Paris, Banks of the Seine - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/600",
+        "verified_claim": "Die Seine durchquert Paris. Zum Welterbe an ihren Ufern gehören die Stadtlandschaften rund um Louvre und Eiffelturm.",
+        "checked_at": "2026-11-20T01:09:31.213Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:09:56.443Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:10:11.716Z"
+      },
+      "approved_at": "2026-11-20T01:10:11.716Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "qs-venedig-lagune",
+    "fact_key": "venedig-lagune",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welche italienische Stadt erstreckt sich über zahlreiche kleine Inseln in einer Lagune?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Venedig"
+      },
+      {
+        "id": "b",
+        "text": "Florenz"
+      },
+      {
+        "id": "c",
+        "text": "Bologna"
+      },
+      {
+        "id": "d",
+        "text": "Turin"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Venedig entstand auf einer Inselgruppe in einer Lagune. Die Stadt entwickelte sich im Mittelalter zu einer bedeutenden Seemacht.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Venice and its Lagoon - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/394",
+        "verified_claim": "Venedig entstand auf einer Inselgruppe in einer Lagune. Die Stadt entwickelte sich im Mittelalter zu einer bedeutenden Seemacht.",
+        "checked_at": "2026-11-20T01:09:31.213Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:09:56.443Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:10:11.716Z"
+      },
+      "approved_at": "2026-11-20T01:10:11.716Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "qs-stonehenge-wiltshire",
+    "fact_key": "stonehenge-wiltshire",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "In welcher englischen Grafschaft liegen die prähistorischen Anlagen von Stonehenge und Avebury?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wiltshire"
+      },
+      {
+        "id": "b",
+        "text": "Cornwall"
+      },
+      {
+        "id": "c",
+        "text": "Kent"
+      },
+      {
+        "id": "d",
+        "text": "Norfolk"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beide Steinkreise liegen in Wiltshire. Das gemeinsame Welterbe umfasst auch vorgeschichtliche Stätten in ihrer Umgebung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stonehenge, Avebury and Associated Sites - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/373",
+        "verified_claim": "Beide Steinkreise liegen in Wiltshire. Das gemeinsame Welterbe umfasst auch vorgeschichtliche Stätten in ihrer Umgebung.",
+        "checked_at": "2026-11-20T01:09:31.213Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:09:56.443Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:10:11.716Z"
+      },
+      "approved_at": "2026-11-20T01:10:11.716Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "qs-chinamauer-verteidigung-norden",
+    "fact_key": "chinamauer-verteidigung-norden",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Gegen Einfälle aus welcher Richtung ließ Qin Shi Huang ältere Abschnitte der Chinesischen Mauer verbinden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aus dem Norden"
+      },
+      {
+        "id": "b",
+        "text": "Aus dem Süden"
+      },
+      {
+        "id": "c",
+        "text": "Aus dem Osten"
+      },
+      {
+        "id": "d",
+        "text": "Aus dem Westen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Unter Qin Shi Huang wurden ältere Mauerzüge zu einem Verteidigungssystem gegen Einfälle von Norden verbunden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "The Great Wall - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/438",
+        "verified_claim": "Unter Qin Shi Huang wurden ältere Mauerzüge zu einem Verteidigungssystem gegen Einfälle von Norden verbunden.",
+        "checked_at": "2026-11-20T01:09:31.213Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:09:56.443Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:10:11.716Z"
+      },
+      "approved_at": "2026-11-20T01:10:11.716Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "qs-watt-leistung",
+    "fact_key": "watt-leistung",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Auf einem Wasserkocher steht eine Zahl in Watt. Welche Größe beschreibt sie?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Elektrische Leistung"
+      },
+      {
+        "id": "b",
+        "text": "Elektrische Spannung"
+      },
+      {
+        "id": "c",
+        "text": "Elektrischer Widerstand"
+      },
+      {
+        "id": "d",
+        "text": "Elektrische Ladung"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Watt bezeichnet die Leistung. Ein Watt entspricht einem Joule umgesetzter Energie pro Sekunde.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NIST Guide to the SI, Chapter 4: The Two Classes of SI Units and the SI Prefixes | NIST",
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "verified_claim": "Watt bezeichnet die Leistung. Ein Watt entspricht einem Joule umgesetzter Energie pro Sekunde.",
+        "checked_at": "2026-11-20T01:09:31.213Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:09:56.443Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:10:11.716Z"
+      },
+      "approved_at": "2026-11-20T01:10:11.716Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "qs-ampere-stromstaerke",
+    "fact_key": "ampere-stromstaerke",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Einheit gehört zur elektrischen Stromstärke?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ampere"
+      },
+      {
+        "id": "b",
+        "text": "Meter"
+      },
+      {
+        "id": "c",
+        "text": "Kelvin"
+      },
+      {
+        "id": "d",
+        "text": "Kilogramm"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Stromstärke wird in Ampere gemessen. Das Einheitenzeichen dafür ist A.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "SI base units - BIPM",
+        "url": "https://www.bipm.org/en/measurement-units/si-base-units",
+        "verified_claim": "Stromstärke wird in Ampere gemessen. Das Einheitenzeichen dafür ist A.",
+        "checked_at": "2026-11-20T01:09:31.213Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:09:56.444Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:10:11.716Z"
+      },
+      "approved_at": "2026-11-20T01:10:11.716Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "qs-hertz-frequenz",
+    "fact_key": "hertz-frequenz",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Ein Bildschirm aktualisiert sein Bild 60-mal pro Sekunde. Welche Einheit steht hinter der Zahl 60?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hertz"
+      },
+      {
+        "id": "b",
+        "text": "Newton"
+      },
+      {
+        "id": "c",
+        "text": "Pascal"
+      },
+      {
+        "id": "d",
+        "text": "Ohm"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Hertz gibt die Frequenz an. Bei 60 Hertz wiederholt sich ein periodischer Vorgang 60-mal pro Sekunde.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NIST Guide to the SI, Chapter 4: The Two Classes of SI Units and the SI Prefixes | NIST",
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "verified_claim": "Hertz gibt die Frequenz an. Bei 60 Hertz wiederholt sich ein periodischer Vorgang 60-mal pro Sekunde.",
+        "checked_at": "2026-11-20T01:09:31.213Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:09:56.444Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:10:11.716Z"
+      },
+      "approved_at": "2026-11-20T01:10:11.716Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  },
+  {
+    "id": "qs-lux-beleuchtungsstaerke",
+    "fact_key": "lux-beleuchtungsstaerke",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welche Einheit misst, wie stark eine Tischfläche beleuchtet ist?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lux"
+      },
+      {
+        "id": "b",
+        "text": "Lumen"
+      },
+      {
+        "id": "c",
+        "text": "Candela"
+      },
+      {
+        "id": "d",
+        "text": "Watt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Beleuchtungsstärke auf einer Fläche wird in Lux gemessen. Lumen gibt dagegen den Lichtstrom an.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NIST Guide to the SI, Chapter 4: The Two Classes of SI Units and the SI Prefixes | NIST",
+        "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+        "verified_claim": "Die Beleuchtungsstärke auf einer Fläche wird in Lux gemessen. Lumen gibt dagegen den Lichtstrom an.",
+        "checked_at": "2026-11-20T01:09:31.213Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:09:56.444Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:10:11.716Z"
+      },
+      "approved_at": "2026-11-20T01:10:11.716Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": true
+  }
+]

@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "qs-koala-nahrung",
+    "fact_key": "koala-nahrung",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welche Blätter stehen auf dem Speiseplan des Koalas an erster Stelle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eukalyptusblätter"
+      },
+      {
+        "id": "b",
+        "text": "Ahornblätter"
+      },
+      {
+        "id": "c",
+        "text": "Buchenblätter"
+      },
+      {
+        "id": "d",
+        "text": "Birkenblätter"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eukalyptusbäume bieten Koalas sowohl Nahrung als auch einen Ruheplatz hoch über dem Boden.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Koala | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/koala",
+        "verified_claim": "Eukalyptusbäume bieten Koalas sowohl Nahrung als auch einen Ruheplatz hoch über dem Boden.",
+        "checked_at": "2026-11-20T01:10:46.781Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-dromedar-hoecker",
+    "fact_key": "dromedar-hoecker",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wie viele Höcker hat ein Dromedar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einen"
+      },
+      {
+        "id": "b",
+        "text": "Zwei"
+      },
+      {
+        "id": "c",
+        "text": "Drei"
+      },
+      {
+        "id": "d",
+        "text": "Vier"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Dromedar hat einen Höcker, das Trampeltier zwei.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Camel | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/camel",
+        "verified_claim": "Das Dromedar hat einen Höcker, das Trampeltier zwei.",
+        "checked_at": "2026-11-20T01:10:47.046Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-schnabeltier-eier",
+    "fact_key": "schnabeltier-eier",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welches dieser Säugetiere legt Eier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schnabeltier"
+      },
+      {
+        "id": "b",
+        "text": "Fischotter"
+      },
+      {
+        "id": "c",
+        "text": "Biber"
+      },
+      {
+        "id": "d",
+        "text": "Delfin"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Schnabeltier lebt in Australien. Bei diesem Säugetier schlüpfen die Jungen aus Eiern.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Platypus | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/platypus",
+        "verified_claim": "Das Schnabeltier lebt in Australien. Bei diesem Säugetier schlüpfen die Jungen aus Eiern.",
+        "checked_at": "2026-11-20T01:10:47.046Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-giraffe-hoechstes-landtier",
+    "fact_key": "giraffe-hoechstes-landtier",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welches heute lebende Landtier erreicht die größte Körperhöhe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Giraffe"
+      },
+      {
+        "id": "b",
+        "text": "Nashorn"
+      },
+      {
+        "id": "c",
+        "text": "Elch"
+      },
+      {
+        "id": "d",
+        "text": "Afrikanischer Elefant"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Hals und Beine machen die Giraffe zum höchsten lebenden Landtier.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Giraffe | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/giraffe",
+        "verified_claim": "Hals und Beine machen die Giraffe zum höchsten lebenden Landtier.",
+        "checked_at": "2026-11-20T01:10:47.046Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-schleiereule-brutplatz",
+    "fact_key": "schleiereule-brutplatz",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welcher Ort eignet sich für die Brut einer Schleiereule?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein ruhiger Kirchturm"
+      },
+      {
+        "id": "b",
+        "text": "Eine flache Kiesbank"
+      },
+      {
+        "id": "c",
+        "text": "Ein offenes Nest auf dem See"
+      },
+      {
+        "id": "d",
+        "text": "Eine Mulde am Strand"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Schleiereulen brüten unter anderem in älteren Kirchtürmen und Scheunen. Sie nehmen auch passende Nistkästen an.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Schleiereule - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/schleiereule",
+        "verified_claim": "Schleiereulen brüten unter anderem in älteren Kirchtürmen und Scheunen. Sie nehmen auch passende Nistkästen an.",
+        "checked_at": "2026-11-20T01:10:46.781Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-rauchschwalbe-nestmaterial",
+    "fact_key": "rauchschwalbe-nestmaterial",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Woraus baut die Rauchschwalbe den festen Teil ihres Nestes?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aus feuchtem Schlamm"
+      },
+      {
+        "id": "b",
+        "text": "Aus Fischgräten"
+      },
+      {
+        "id": "c",
+        "text": "Aus groben Kieseln"
+      },
+      {
+        "id": "d",
+        "text": "Aus morschem Holz"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Rauchschwalbe verbaut Schlamm. Ihre Nester findet man etwa an Stallöffnungen und Durchgängen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Rauchschwalbe - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/rauchschwalbe",
+        "verified_claim": "Die Rauchschwalbe verbaut Schlamm. Ihre Nester findet man etwa an Stallöffnungen und Durchgängen.",
+        "checked_at": "2026-11-20T01:10:46.781Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-korallen-tierreich",
+    "fact_key": "korallen-tierreich",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Zu welcher Gruppe gehören Korallen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tiere"
+      },
+      {
+        "id": "b",
+        "text": "Pilze"
+      },
+      {
+        "id": "c",
+        "text": "Algen"
+      },
+      {
+        "id": "d",
+        "text": "Blütenpflanzen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein Korallenpolyp ist ein Tier. Mit seinen Tentakeln kann er Nahrung aus dem Wasser aufnehmen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Are corals animals or plants?",
+        "url": "https://oceanservice.noaa.gov/facts/coral.html",
+        "verified_claim": "Ein Korallenpolyp ist ein Tier. Mit seinen Tentakeln kann er Nahrung aus dem Wasser aufnehmen.",
+        "checked_at": "2026-11-20T01:11:19.678Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-star-schwaerme",
+    "fact_key": "star-schwaerme",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welcher Vogel ist für seine großen, am Himmel gemeinsam schwenkenden Schwärme bekannt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Star"
+      },
+      {
+        "id": "b",
+        "text": "Kuckuck"
+      },
+      {
+        "id": "c",
+        "text": "Eisvogel"
+      },
+      {
+        "id": "d",
+        "text": "Schleiereule"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Stare schließen sich außerhalb der Brutzeit in großen Schwärmen zusammen. Ihre gemeinsamen Richtungswechsel fallen besonders auf.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Star - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/star",
+        "verified_claim": "Stare schließen sich außerhalb der Brutzeit in großen Schwärmen zusammen. Ihre gemeinsamen Richtungswechsel fallen besonders auf.",
+        "checked_at": "2026-11-20T01:10:46.781Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-giraffe-flecken",
+    "fact_key": "giraffe-flecken",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Woran können Forschende einzelne Giraffen auf Fotos wiedererkennen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Am persönlichen Fleckenmuster"
+      },
+      {
+        "id": "b",
+        "text": "An der Zahl der Halswirbel"
+      },
+      {
+        "id": "c",
+        "text": "An der Zahl der Hufe"
+      },
+      {
+        "id": "d",
+        "text": "Am Vorhandensein eines Schwanzes"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Jede Giraffe besitzt eine eigene Anordnung der Fellflecken. Dieses Muster lässt sich zur Unterscheidung einzelner Tiere nutzen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Giraffe | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/giraffe",
+        "verified_claim": "Jede Giraffe besitzt eine eigene Anordnung der Fellflecken. Dieses Muster lässt sich zur Unterscheidung einzelner Tiere nutzen.",
+        "checked_at": "2026-11-20T01:10:47.046Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-mangrove-gezeiten",
+    "fact_key": "mangrove-gezeiten",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "In welcher Landschaft wachsen Mangrovenwälder?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An tropischen Gezeitenküsten"
+      },
+      {
+        "id": "b",
+        "text": "Auf arktischem Meereis"
+      },
+      {
+        "id": "c",
+        "text": "Auf trockenen Hochalmen"
+      },
+      {
+        "id": "d",
+        "text": "In schneebedeckten Tundren"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mangroven wachsen in warmen Küstengebieten. Ihre Wurzeln kommen mit den wechselnden Wasserständen der Gezeiten zurecht.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What is a \"mangrove\" forest?",
+        "url": "https://oceanservice.noaa.gov/facts/mangroves.html",
+        "verified_claim": "Mangroven wachsen in warmen Küstengebieten. Ihre Wurzeln kommen mit den wechselnden Wasserständen der Gezeiten zurecht.",
+        "checked_at": "2026-11-20T01:11:19.678Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-kamel-hoecker-fett",
+    "fact_key": "kamel-hoecker-fett",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Was speichert ein Kamel vor allem in seinen Höckern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fett"
+      },
+      {
+        "id": "b",
+        "text": "Trinkwasser"
+      },
+      {
+        "id": "c",
+        "text": "Luft"
+      },
+      {
+        "id": "d",
+        "text": "Mineralsalz"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Fett in den Höckern ist eine Energiereserve. Fehlt Nahrung, kann der Körper davon zehren.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Camel | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/camel",
+        "verified_claim": "Das Fett in den Höckern ist eine Energiereserve. Fehlt Nahrung, kann der Körper davon zehren.",
+        "checked_at": "2026-11-20T01:10:47.046Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-eisvogel-fischfang",
+    "fact_key": "eisvogel-fischfang",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wie erbeutet der Eisvogel häufig kleine Fische?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er stößt von einem Ansitz ins Wasser."
+      },
+      {
+        "id": "b",
+        "text": "Er siebt sie aus dem Schlamm."
+      },
+      {
+        "id": "c",
+        "text": "Er sammelt sie im Flug vom Strand."
+      },
+      {
+        "id": "d",
+        "text": "Er treibt sie mit den Füßen an Land."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Eisvogel beobachtet das Wasser von einem Ansitz aus. Entdeckt er einen Fisch, taucht er nach ihm und greift mit dem Schnabel zu.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Eisvogel - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/eisvogel",
+        "verified_claim": "Der Eisvogel beobachtet das Wasser von einem Ansitz aus. Entdeckt er einen Fisch, taucht er nach ihm und greift mit dem Schnabel zu.",
+        "checked_at": "2026-11-20T01:09:31.192Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-koala-beuteltier",
+    "fact_key": "koala-beuteltier",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Zu welcher Säugetiergruppe zählt der Koala?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Beuteltiere"
+      },
+      {
+        "id": "b",
+        "text": "Nagetiere"
+      },
+      {
+        "id": "c",
+        "text": "Bären"
+      },
+      {
+        "id": "d",
+        "text": "Schleichkatzen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Koala gehört wie das Känguru zu den Beuteltieren, auch wenn sein rundes Gesicht an einen Bären erinnert.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Koala | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/koala",
+        "verified_claim": "Der Koala gehört wie das Känguru zu den Beuteltieren, auch wenn sein rundes Gesicht an einen Bären erinnert.",
+        "checked_at": "2026-11-20T01:10:46.781Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-elefant-ohren-kuehlung",
+    "fact_key": "elefant-ohren-kuehlung",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was bewirkt das Fächeln mit den großen Ohren beim Elefanten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es hilft, Körperwärme abzugeben."
+      },
+      {
+        "id": "b",
+        "text": "Es füllt die Stoßzähne mit Luft."
+      },
+      {
+        "id": "c",
+        "text": "Es speichert Nahrung für später."
+      },
+      {
+        "id": "d",
+        "text": "Es macht die Haut wasserdicht."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die großen Ohren sind gut durchblutet. Beim Fächeln kann das Blut dort Wärme abgeben.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Elephant | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/elephant",
+        "verified_claim": "Die großen Ohren sind gut durchblutet. Beim Fächeln kann das Blut dort Wärme abgeben.",
+        "checked_at": "2026-11-20T01:10:46.781Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-otter-fell-isolation",
+    "fact_key": "otter-fell-isolation",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was hält einen Otter im Wasser besonders gut warm?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Luftschicht im dichten Unterfell"
+      },
+      {
+        "id": "b",
+        "text": "Eine feste Schale auf der Haut"
+      },
+      {
+        "id": "c",
+        "text": "Eine Schicht Horn auf dem Rücken"
+      },
+      {
+        "id": "d",
+        "text": "Ein Panzer unter dem Fell"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Unterfell hält Luft fest. Die längeren Deckhaare schützen diese isolierende Schicht.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Otter | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/otter",
+        "verified_claim": "Das Unterfell hält Luft fest. Die längeren Deckhaare schützen diese isolierende Schicht.",
+        "checked_at": "2026-11-20T01:10:46.781Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-venus-oberflaechentemperatur",
+    "fact_key": "venus-oberflaechentemperatur",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Welcher Planet hat im Sonnensystem die heißeste Oberfläche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Venus"
+      },
+      {
+        "id": "b",
+        "text": "Merkur"
+      },
+      {
+        "id": "c",
+        "text": "Mars"
+      },
+      {
+        "id": "d",
+        "text": "Jupiter"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die dichte Atmosphäre der Venus hält Wärme besonders wirksam zurück. Dadurch übertrifft ihre Oberflächentemperatur sogar die des sonnennäheren Merkur.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Venus: Facts - NASA Science",
+        "url": "https://science.nasa.gov/venus/venus-facts/",
+        "verified_claim": "Die dichte Atmosphäre der Venus hält Wärme besonders wirksam zurück. Dadurch übertrifft ihre Oberflächentemperatur sogar die des sonnennäheren Merkur.",
+        "checked_at": "2026-11-20T01:11:19.678Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-star-gesang-imitation",
+    "fact_key": "star-gesang-imitation",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Was kann ein Star in seinen Gesang einbauen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nachgeahmte Rufe anderer Tiere"
+      },
+      {
+        "id": "b",
+        "text": "Das Echo seiner Flügelschläge als zweite Stimme"
+      },
+      {
+        "id": "c",
+        "text": "Das mechanische Klappern seiner Krallen"
+      },
+      {
+        "id": "d",
+        "text": "Töne aus seinen Schwanzfedern"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Stare ahmen unter anderem andere Vögel nach. In ihrem Gesang können so Rufe aus der Umgebung wiederklingen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Star - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/star",
+        "verified_claim": "Stare ahmen unter anderem andere Vögel nach. In ihrem Gesang können so Rufe aus der Umgebung wiederklingen.",
+        "checked_at": "2026-11-20T01:10:46.781Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-mond-gebundene-rotation",
+    "fact_key": "mond-gebundene-rotation",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Warum zeigt der Mond der Erde immer ungefähr dieselbe Seite?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Drehung und Erdumlauf dauern gleich lang."
+      },
+      {
+        "id": "b",
+        "text": "Er dreht sich überhaupt nicht."
+      },
+      {
+        "id": "c",
+        "text": "Er bleibt genau zwischen Erde und Sonne."
+      },
+      {
+        "id": "d",
+        "text": "Er dreht sich so schnell wie die Erde."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Während eines Umlaufs um die Erde dreht sich der Mond einmal um seine eigene Achse.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Moon Facts - NASA Science",
+        "url": "https://science.nasa.gov/moon/facts/",
+        "verified_claim": "Während eines Umlaufs um die Erde dreht sich der Mond einmal um seine eigene Achse.",
+        "checked_at": "2026-11-20T01:11:19.678Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-giraffe-verwandtschaft-okapi",
+    "fact_key": "giraffe-verwandtschaft-okapi",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Welches Tier ist unter den lebenden Säugetieren besonders nah mit den Giraffen verwandt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Okapi"
+      },
+      {
+        "id": "b",
+        "text": "Zebra"
+      },
+      {
+        "id": "c",
+        "text": "Dromedar"
+      },
+      {
+        "id": "d",
+        "text": "Antilope"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Okapi ist der nächste lebende Verwandte der Giraffen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Giraffe | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/giraffe",
+        "verified_claim": "Das Okapi ist der nächste lebende Verwandte der Giraffen.",
+        "checked_at": "2026-11-20T01:10:47.046Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-otter-tasthaare-stroemung",
+    "fact_key": "otter-tasthaare-stroemung",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Womit nimmt ein Otter feine Änderungen der Wasserströmung an der Schnauze wahr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit den Tasthaaren"
+      },
+      {
+        "id": "b",
+        "text": "Mit der Zungenspitze"
+      },
+      {
+        "id": "c",
+        "text": "Mit den Schneidezähnen"
+      },
+      {
+        "id": "d",
+        "text": "Mit den Nasenlöchern"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Seine Tasthaare reagieren auf Wasserbewegungen. Sie helfen dem Otter, Beute unter Wasser zu bemerken.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Otter | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/otter",
+        "verified_claim": "Seine Tasthaare reagieren auf Wasserbewegungen. Sie helfen dem Otter, Beute unter Wasser zu bemerken.",
+        "checked_at": "2026-11-20T01:10:46.781Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "qs-elefant-ruesselspitze-afrika",
+    "fact_key": "elefant-ruesselspitze-afrika",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Wie viele fingerartige Fortsätze hat ein afrikanischer Elefant an der Rüsselspitze?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zwei"
+      },
+      {
+        "id": "b",
+        "text": "Einen"
+      },
+      {
+        "id": "c",
+        "text": "Drei"
+      },
+      {
+        "id": "d",
+        "text": "Vier"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "An der Spitze des Rüssels greifen zwei bewegliche Fortsätze zu. Beim Asiatischen Elefanten ist es einer.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Elephant | San Diego Zoo Animals & Plants",
+        "url": "https://animals.sandiegozoo.org/animals/elephant",
+        "verified_claim": "An der Spitze des Rüssels greifen zwei bewegliche Fortsätze zu. Beim Asiatischen Elefanten ist es einer.",
+        "checked_at": "2026-11-20T01:10:46.781Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:12:14.720Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-20T01:14:02.936Z"
+      },
+      "approved_at": "2026-11-20T01:14:02.936Z",
+      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  }
+]

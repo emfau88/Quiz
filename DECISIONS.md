@@ -1,0 +1,8 @@
+# Entscheidungen
+
+- Die ausdrückliche Technologiewahl des Auftraggebers hat Vorrang. Quizsalon entsteht als lokale HTML/CSS/JavaScript-App mit einem kleinen nativen Android-Host. Derselbe Spielcode läuft im Browser und im APK.
+- Der leere Arbeitsordner wurde als Git-Repository initialisiert. Die fünf ursprünglichen Anhänge bleiben im Übergabeverzeichnis erhalten. Die im Paket genannten JSON-Anhänge lagen nicht bei. Die Zahlen in specs/product_rules.json und das Fragenschema beruhen auf den vorliegenden Textspezifikationen.
+- Reine Spielregeln erhalten Katalog und Zeit als Eingaben. Browser speichern den Spielstand in einer serialisierten IndexedDB-Schreibtransaktion, Android in SQLite mit Revisionsvergleich. Die Installationskennung und der native Kaufstatus sind vom sicherbaren Spielstand getrennt.
+- Eine erstmalige Nutzung öffnet die erste Frage. Wer pausiert, kann zur Übersicht wechseln und später dieselbe Auswahl fortsetzen. Es gibt sechs kostenlose Kategorieproben. Der Browser bietet den freien Umfang an. Der Verkauf eines dauerhaften Plus-Zugangs gehört ausschließlich zur Google-Play-Ausgabe.
+- Der Vorschau-Paketname ist de.quizsalon.vorschau. Der Betreiber legt die endgültige Identität fest. Ein lokaler Play-Abgleich kann Erstattungen und Widerrufe erst nach erfolgreichem Storekontakt erkennen. Ohne Kaufbackend ist die clientseitige Prüfung manipulierbar.
+- Es gibt keine automatische Übermittlung von Antworten, Werbung oder KI im Spiel. Browserdaten sind origin- und profilgebunden. Android-Spielstände können nach den Backupregeln des Betriebssystems wiederhergestellt werden.

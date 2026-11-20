@@ -1,0 +1,4594 @@
+[
+  {
+    "id": "k-frg-original-currency",
+    "fact_key": "frg.original_currency",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Währung wurde 1948 bei der Währungsreform in den westlichen Besatzungszonen eingeführt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "D-Mark"
+      },
+      {
+        "id": "b",
+        "text": "Reichsmark"
+      },
+      {
+        "id": "c",
+        "text": "Euro"
+      },
+      {
+        "id": "d",
+        "text": "Gulden"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit der Währungsreform kam die D-Mark in den westlichen Besatzungszonen in Umlauf.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1948",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1948.html",
+        "verified_claim": "Mit der Währungsreform kam die D-Mark in den westlichen Besatzungszonen in Umlauf.",
+        "checked_at": "2026-11-20T01:11:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-berlin-airlift-destination",
+    "fact_key": "berlin.airlift.destination",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welches Gebiet wurde während der Blockade von 1948/49 durch eine Luftbrücke versorgt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "West-Berlin"
+      },
+      {
+        "id": "b",
+        "text": "Das Saarland"
+      },
+      {
+        "id": "c",
+        "text": "Das Ruhrgebiet"
+      },
+      {
+        "id": "d",
+        "text": "Ostpreußen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Hilfsflüge gingen nach West-Berlin. Als die Luftbrücke endete, hatten die Alliierten mehr als 277.000 Flüge durchgeführt.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1949",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1949.html",
+        "verified_claim": "Die Hilfsflüge gingen nach West-Berlin. Als die Luftbrücke endete, hatten die Alliierten mehr als 277.000 Flüge durchgeführt.",
+        "checked_at": "2026-11-20T01:11:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-space-sputnik-purpose",
+    "fact_key": "space.sputnik.purpose",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Was war der sowjetische „Sputnik 1“, der 1957 startete?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein künstlicher Erdsatellit"
+      },
+      {
+        "id": "b",
+        "text": "Eine bemannte Raumstation"
+      },
+      {
+        "id": "c",
+        "text": "Ein Mondfahrzeug"
+      },
+      {
+        "id": "d",
+        "text": "Ein Weltraumteleskop"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Sputnik 1 umrundete als erster künstlicher Satellit die Erde.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1957",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1957.html",
+        "verified_claim": "Sputnik 1 umrundete als erster künstlicher Satellit die Erde.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-space-first-human",
+    "fact_key": "space.first_human",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wer flog 1961 als erster Mensch ins All?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Juri Gagarin"
+      },
+      {
+        "id": "b",
+        "text": "Neil Armstrong"
+      },
+      {
+        "id": "c",
+        "text": "Sigmund Jähn"
+      },
+      {
+        "id": "d",
+        "text": "John Glenn"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der sowjetische Kosmonaut Juri Gagarin startete 1961. Noch im selben Jahr folgte ihm der US-Amerikaner Alan Shepard ins All.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1961",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1961.html",
+        "verified_claim": "Der sowjetische Kosmonaut Juri Gagarin startete 1961. Noch im selben Jahr folgte ihm der US-Amerikaner Alan Shepard ins All.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-gdr-monday-demonstrations-city",
+    "fact_key": "gdr.monday_demonstrations.city",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In welcher Stadt nahm 1989 die Montagsdemonstration nach dem Friedensgebet in der Nikolaikirche ihren Anfang?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Leipzig"
+      },
+      {
+        "id": "b",
+        "text": "Berlin"
+      },
+      {
+        "id": "c",
+        "text": "Erfurt"
+      },
+      {
+        "id": "d",
+        "text": "Rostock"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In Leipzig schlossen sich an das Friedensgebet regelmäßige Demonstrationen an. Zu den Forderungen gehörte Reisefreiheit.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1989",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1989.html",
+        "verified_claim": "In Leipzig schlossen sich an das Friedensgebet regelmäßige Demonstrationen an. Zu den Forderungen gehörte Reisefreiheit.",
+        "checked_at": "2026-11-20T01:11:35+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-mandela-presidency-country",
+    "fact_key": "mandela.presidency.country",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In welchem Land wurde Nelson Mandela 1994 Präsident?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Südafrika"
+      },
+      {
+        "id": "b",
+        "text": "Kenia"
+      },
+      {
+        "id": "c",
+        "text": "Ghana"
+      },
+      {
+        "id": "d",
+        "text": "Nigeria"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nach dem Wahlsieg des Afrikanischen Nationalkongresses wurde Mandela im Mai 1994 zum Präsidenten Südafrikas gewählt.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1994",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1994.html",
+        "verified_claim": "Nach dem Wahlsieg des Afrikanischen Nationalkongresses wurde Mandela im Mai 1994 zum Präsidenten Südafrikas gewählt.",
+        "checked_at": "2026-11-20T01:11:36+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-frg-constitution-year",
+    "fact_key": "frg.constitution.year",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In welchem Jahr wurde das Grundgesetz der Bundesrepublik Deutschland verkündet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1949"
+      },
+      {
+        "id": "b",
+        "text": "1919"
+      },
+      {
+        "id": "c",
+        "text": "1955"
+      },
+      {
+        "id": "d",
+        "text": "1961"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Konrad Adenauer verkündete das Grundgesetz am 23. Mai 1949 als Präsident des Parlamentarischen Rates.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1949",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1949.html",
+        "verified_claim": "Konrad Adenauer verkündete das Grundgesetz am 23. Mai 1949 als Präsident des Parlamentarischen Rates.",
+        "checked_at": "2026-11-20T01:11:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-currency-euro-cash-year",
+    "fact_key": "currency.euro_cash.year",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Seit welchem Jahr bezahlt man in Deutschland regulär mit Euro-Scheinen und Euro-Münzen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "2002"
+      },
+      {
+        "id": "b",
+        "text": "1990"
+      },
+      {
+        "id": "c",
+        "text": "1999"
+      },
+      {
+        "id": "d",
+        "text": "2007"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Als Buchgeld gab es den Euro bereits seit 1999. Das Bargeld folgte drei Jahre später.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1999",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1999.html",
+        "verified_claim": "Als Buchgeld gab es den Euro bereits seit 1999. Das Bargeld folgte drei Jahre später.",
+        "checked_at": "2026-11-20T01:11:37+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-inca-machu-picchu",
+    "fact_key": "inca.machu_picchu",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welches Reich ließ die Terrassen und Mauern von Machu Picchu in den Anden entstehen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Inkareich"
+      },
+      {
+        "id": "b",
+        "text": "Das Römische Reich"
+      },
+      {
+        "id": "c",
+        "text": "Das Perserreich"
+      },
+      {
+        "id": "d",
+        "text": "Das Aztekenreich"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Machu Picchu entstand zur Zeit des Inkareichs. Die Anlage verbindet steinerne Mauern, Rampen und Terrassen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Historic Sanctuary of Machu Picchu",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "verified_claim": "Machu Picchu entstand zur Zeit des Inkareichs. Die Anlage verbindet steinerne Mauern, Rampen und Terrassen.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-rome-limes-function",
+    "fact_key": "rome.limes.function",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Aufgabe hatte der römische Limes?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er sicherte die Reichsgrenze."
+      },
+      {
+        "id": "b",
+        "text": "Er versorgte Thermen mit Wasser."
+      },
+      {
+        "id": "c",
+        "text": "Er leitete Wagenrennen."
+      },
+      {
+        "id": "d",
+        "text": "Er diente als Markthalle."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Am Limes verlief die Grenze des Römischen Reichs. Noch heute sind an einigen Abschnitten Wachtürme, Gräben und Kastelle zu erkennen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Frontiers of the Roman Empire",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "verified_claim": "Am Limes verlief die Grenze des Römischen Reichs. Noch heute sind an einigen Abschnitten Wachtürme, Gräben und Kastelle zu erkennen.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-france-versailles-residents",
+    "fact_key": "france.versailles.residents",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wem diente das Schloss Versailles von Ludwig XIV. bis Ludwig XVI. als Hauptresidenz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den französischen Königen"
+      },
+      {
+        "id": "b",
+        "text": "Den Päpsten"
+      },
+      {
+        "id": "c",
+        "text": "Den spanischen Vizekönigen"
+      },
+      {
+        "id": "d",
+        "text": "Den Herzögen von Burgund"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mehrere Generationen ließen Schloss und Park ausbauen. Versailles wurde zum Vorbild für andere europäische Residenzen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Palace and Park of Versailles",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "verified_claim": "Mehrere Generationen ließen Schloss und Park ausbauen. Versailles wurde zum Vorbild für andere europäische Residenzen.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-space-tereshkova",
+    "fact_key": "space.tereshkova",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Wer reiste 1963 als erste Frau ins Weltall?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Walentina Tereschkowa"
+      },
+      {
+        "id": "b",
+        "text": "Sally Ride"
+      },
+      {
+        "id": "c",
+        "text": "Mae Jemison"
+      },
+      {
+        "id": "d",
+        "text": "Samantha Cristoforetti"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die sowjetische Kosmonautin Walentina Tereschkowa flog bereits zwei Jahre nach Juri Gagarins Raumflug ins All.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1963",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1963.html",
+        "verified_claim": "Die sowjetische Kosmonautin Walentina Tereschkowa flog bereits zwei Jahre nach Juri Gagarins Raumflug ins All.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-liberty-statue-origin",
+    "fact_key": "liberty_statue.origin",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welches Land schenkte den Vereinigten Staaten die Freiheitsstatue?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Frankreich"
+      },
+      {
+        "id": "b",
+        "text": "Italien"
+      },
+      {
+        "id": "c",
+        "text": "Großbritannien"
+      },
+      {
+        "id": "d",
+        "text": "Spanien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Skulptur entstand in Paris und wurde 1886 am Eingang zum New Yorker Hafen eingeweiht.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Statue of Liberty",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "verified_claim": "Die Skulptur entstand in Paris und wurde 1886 am Eingang zum New Yorker Hafen eingeweiht.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-prague-spring-figure",
+    "fact_key": "prague.spring.figure",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welcher Politiker war eine zentrale Figur des Prager Frühlings?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alexander Dubček"
+      },
+      {
+        "id": "b",
+        "text": "Lech Wałęsa"
+      },
+      {
+        "id": "c",
+        "text": "Václav Klaus"
+      },
+      {
+        "id": "d",
+        "text": "Josip Broz Tito"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Dubček stand für den Reformkurs in der Tschechoslowakei. 1969 verlor er auf Druck Moskaus sein Amt als Parteichef.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1969",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1969.html",
+        "verified_claim": "Dubček stand für den Reformkurs in der Tschechoslowakei. 1969 verlor er auf Druck Moskaus sein Amt als Parteichef.",
+        "checked_at": "2026-11-20T01:11:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-space-coldwar-hotline",
+    "fact_key": "space.coldwar.hotline",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welche Hauptstädte verband der 1963 eingerichtete „heiße Draht“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Washington und Moskau"
+      },
+      {
+        "id": "b",
+        "text": "Bonn und Ost-Berlin"
+      },
+      {
+        "id": "c",
+        "text": "Paris und London"
+      },
+      {
+        "id": "d",
+        "text": "Wien und Budapest"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nach der Kubakrise schufen die USA und die Sowjetunion eine direkte Fernschreibverbindung für Krisenfälle.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1963",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1963.html",
+        "verified_claim": "Nach der Kubakrise schufen die USA und die Sowjetunion eine direkte Fernschreibverbindung für Krisenfälle.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-china-tomb-army",
+    "fact_key": "china.tomb.army",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welche Figuren bewachen symbolisch die Grabanlage des ersten chinesischen Kaisers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Armee aus Terrakotta"
+      },
+      {
+        "id": "b",
+        "text": "Vier kolossale Sphinxe"
+      },
+      {
+        "id": "c",
+        "text": "Eine Herde aus Marmorelefanten"
+      },
+      {
+        "id": "d",
+        "text": "Zwölf bronzene Löwen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Tonkrieger gehören zum Grabkomplex des ersten Qin-Kaisers. Die Anlage wurde 1974 entdeckt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Mausoleum of the First Qin Emperor",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "verified_claim": "Die Tonkrieger gehören zum Grabkomplex des ersten Qin-Kaisers. Die Anlage wurde 1974 entdeckt.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-koch-nobel-research",
+    "fact_key": "koch.nobel.research",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Für seine Forschungen zu welcher Krankheit erhielt Robert Koch den Medizin-Nobelpreis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tuberkulose"
+      },
+      {
+        "id": "b",
+        "text": "Masern"
+      },
+      {
+        "id": "c",
+        "text": "Skorbut"
+      },
+      {
+        "id": "d",
+        "text": "Kinderlähmung"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Begründung für den Preis von 1905 hebt Kochs Arbeiten zur Tuberkulose hervor.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Robert Koch, 1905",
+        "url": "https://api.nobelprize.org/2.1/laureates?limit=1500",
+        "verified_claim": "Die Begründung für den Preis von 1905 hebt Kochs Arbeiten zur Tuberkulose hervor.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-cambodia-angkor-civilization",
+    "fact_key": "cambodia.angkor.civilization",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Welches historische Reich hinterließ die Tempel von Angkor im heutigen Kambodscha?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Khmer-Reich"
+      },
+      {
+        "id": "b",
+        "text": "Das Inkareich"
+      },
+      {
+        "id": "c",
+        "text": "Das Mogulreich"
+      },
+      {
+        "id": "d",
+        "text": "Das Hethiterreich"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Gebiet umfasst mehrere ehemalige Hauptstädte des Khmer-Reichs. Zu ihren Bauten gehören Angkor Wat und der Bayon.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Angkor",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "verified_claim": "Das Gebiet umfasst mehrere ehemalige Hauptstädte des Khmer-Reichs. Zu ihren Bauten gehören Angkor Wat und der Bayon.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-germany-constitution-convention",
+    "fact_key": "germany.constitution.convention",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Auf welcher Insel tagte 1948 der Verfassungskonvent zur Vorbereitung des Grundgesetzes?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Herrenchiemsee"
+      },
+      {
+        "id": "b",
+        "text": "Mainau"
+      },
+      {
+        "id": "c",
+        "text": "Reichenau"
+      },
+      {
+        "id": "d",
+        "text": "Hiddensee"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Auf Herrenchiemsee berieten die Teilnehmer über die Grundlagen für die spätere Verfassung der Bundesrepublik.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1948",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1948.html",
+        "verified_claim": "Auf Herrenchiemsee berieten die Teilnehmer über die Grundlagen für die spätere Verfassung der Bundesrepublik.",
+        "checked_at": "2026-11-20T01:11:30+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-petra-caravan-people",
+    "fact_key": "petra.caravan_people",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Welches Volk machte Petra im heutigen Jordanien zu einer bedeutenden Karawanenstadt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Nabatäer"
+      },
+      {
+        "id": "b",
+        "text": "Die Etrusker"
+      },
+      {
+        "id": "c",
+        "text": "Die Hethiter"
+      },
+      {
+        "id": "d",
+        "text": "Die Sumerer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Petra lag an Handelswegen zwischen Arabien, Ägypten und dem östlichen Mittelmeer. Teile der Stadt wurden aus dem Fels gehauen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Petra",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "verified_claim": "Petra lag an Handelswegen zwischen Arabien, Ägypten und dem östlichen Mittelmeer. Teile der Stadt wurden aus dem Fels gehauen.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-discovery-landsteiner",
+    "fact_key": "discovery.landsteiner",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Für welche Entdeckung erhielt Karl Landsteiner 1930 den Medizin-Nobelpreis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die menschlichen Blutgruppen"
+      },
+      {
+        "id": "b",
+        "text": "Die Röntgenstrahlen"
+      },
+      {
+        "id": "c",
+        "text": "Das Insulin"
+      },
+      {
+        "id": "d",
+        "text": "Das Penicillin"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Preis würdigte Landsteiners Entdeckung verschiedener Blutgruppen beim Menschen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Karl Landsteiner, 1930",
+        "url": "https://api.nobelprize.org/2.1/laureates?limit=1500",
+        "verified_claim": "Der Preis würdigte Landsteiners Entdeckung verschiedener Blutgruppen beim Menschen.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-esc-nicole-song",
+    "fact_key": "esc.nicole.song",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Mit welchem Lied gewann Nicole 1982 den Eurovision Song Contest?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein bisschen Frieden"
+      },
+      {
+        "id": "b",
+        "text": "Wunder gibt es immer wieder"
+      },
+      {
+        "id": "c",
+        "text": "Dschinghis Khan"
+      },
+      {
+        "id": "d",
+        "text": "Theater"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nicole gewann den Wettbewerb mit „Ein bißchen Frieden“, wie der Titel damals geschrieben wurde.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1982",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1982.html",
+        "verified_claim": "Nicole gewann den Wettbewerb mit „Ein bißchen Frieden“, wie der Titel damals geschrieben wurde.",
+        "checked_at": "2026-11-20T01:11:34+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-beatles-hamburg-clubs",
+    "fact_key": "beatles.hamburg.clubs",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In welcher deutschen Stadt spielten die Beatles 1960 in einem Nachtclub?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hamburg"
+      },
+      {
+        "id": "b",
+        "text": "Stuttgart"
+      },
+      {
+        "id": "c",
+        "text": "München"
+      },
+      {
+        "id": "d",
+        "text": "Köln"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In Hamburg sammelte die britische Band bereits 1960 Bühnenerfahrung im Ausland.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1960",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1960.html",
+        "verified_claim": "In Hamburg sammelte die britische Band bereits 1960 Bühnenerfahrung im Ausland.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-maus-earlier-title",
+    "fact_key": "maus.earlier_title",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Kindersendung begann als „Lach- und Sachgeschichten“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Sendung mit der Maus"
+      },
+      {
+        "id": "b",
+        "text": "Löwenzahn"
+      },
+      {
+        "id": "c",
+        "text": "Siebenstein"
+      },
+      {
+        "id": "d",
+        "text": "Pumuckl"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "1971 zeigte der WDR die ersten Geschichten. 1972 erhielt die Sendung ihren bekannten Namen.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1971",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1971.html",
+        "verified_claim": "1971 zeigte der WDR die ersten Geschichten. 1972 erhielt die Sendung ihren bekannten Namen.",
+        "checked_at": "2026-11-20T01:11:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-westside-literary-model",
+    "fact_key": "westside.literary_model",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welches Theaterstück lieferte die Vorlage für das Musical „West Side Story“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Romeo und Julia"
+      },
+      {
+        "id": "b",
+        "text": "Hamlet"
+      },
+      {
+        "id": "c",
+        "text": "Macbeth"
+      },
+      {
+        "id": "d",
+        "text": "Der Sturm"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Leonard Bernsteins Musical verlegt die Geschichte von Romeo und Julia in ein anderes Umfeld. Die Uraufführung fand in New York statt.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1957",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1957.html",
+        "verified_claim": "Leonard Bernsteins Musical verlegt die Geschichte von Romeo und Julia in ein anderes Umfeld. Die Uraufführung fand in New York statt.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-zauberfloete-papageno",
+    "fact_key": "zauberfloete.papageno",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In welcher Mozart-Oper begegnen sich Papageno und Papagena?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Zauberflöte"
+      },
+      {
+        "id": "b",
+        "text": "Don Giovanni"
+      },
+      {
+        "id": "c",
+        "text": "Die Hochzeit des Figaro"
+      },
+      {
+        "id": "d",
+        "text": "Così fan tutte"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In der „Zauberflöte“ steht neben Tamino und Pamina noch ein zweites Paar auf der Bühne. Es sind Papageno und Papagena.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, magic-flute",
+        "url": "https://operavision.eu/performance/magic-flute",
+        "verified_claim": "In der „Zauberflöte“ steht neben Tamino und Pamina noch ein zweites Paar auf der Bühne. Es sind Papageno und Papagena.",
+        "checked_at": "2026-11-20T01:13:50+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-carmen-composer",
+    "fact_key": "carmen.composer",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer komponierte die Oper „Carmen“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Georges Bizet"
+      },
+      {
+        "id": "b",
+        "text": "Gioachino Rossini"
+      },
+      {
+        "id": "c",
+        "text": "Giacomo Puccini"
+      },
+      {
+        "id": "d",
+        "text": "Richard Wagner"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Musik zu „Carmen“ schrieb Georges Bizet. Eine der Hauptfiguren neben Carmen ist Don José.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, carmen",
+        "url": "https://operavision.eu/performance/carmen",
+        "verified_claim": "Die Musik zu „Carmen“ schrieb Georges Bizet. Eine der Hauptfiguren neben Carmen ist Don José.",
+        "checked_at": "2026-11-20T01:13:50+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-lindenstrasse-creator",
+    "fact_key": "lindenstrasse.creator",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche deutsche Familienserie von Hans W. Geißendörfer startete 1985 in der ARD?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lindenstraße"
+      },
+      {
+        "id": "b",
+        "text": "Forsthaus Falkenau"
+      },
+      {
+        "id": "c",
+        "text": "Die Schwarzwaldklinik"
+      },
+      {
+        "id": "d",
+        "text": "Der Landarzt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die „Lindenstraße“ war von Anfang an als fortlaufende Familienserie über mehrere Jahre angelegt.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1985",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1985.html",
+        "verified_claim": "Die „Lindenstraße“ war von Anfang an als fortlaufende Familienserie über mehrere Jahre angelegt.",
+        "checked_at": "2026-11-20T01:11:34+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-elvis-germany-reason",
+    "fact_key": "elvis.germany.reason",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Warum lebte Elvis Presley ab 1958 für einige Zeit in der Bundesrepublik?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er leistete seinen Wehrdienst."
+      },
+      {
+        "id": "b",
+        "text": "Er drehte einen Fernsehkrimi."
+      },
+      {
+        "id": "c",
+        "text": "Er eröffnete ein Tonstudio."
+      },
+      {
+        "id": "d",
+        "text": "Er dirigierte ein Orchester."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Presley war als Wehrpflichtiger in Deutschland stationiert. Schon bei seiner Ankunft empfingen ihn Hunderte Fans.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1958",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1958.html",
+        "verified_claim": "Presley war als Wehrpflichtiger in Deutschland stationiert. Schon bei seiner Ankunft empfingen ihn Hunderte Fans.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-beatles-starr-instrument",
+    "fact_key": "beatles.starr.instrument",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welches Instrument spielte Ringo Starr bei den Beatles?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schlagzeug"
+      },
+      {
+        "id": "b",
+        "text": "Bassgitarre"
+      },
+      {
+        "id": "c",
+        "text": "Keyboard"
+      },
+      {
+        "id": "d",
+        "text": "Saxofon"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "1962 trat die Band im Hamburger Star-Club in neuer Besetzung mit Starr am Schlagzeug auf.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1962",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1962.html",
+        "verified_claim": "1962 trat die Band im Hamburger Star-Club in neuer Besetzung mit Starr am Schlagzeug auf.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-easy-rider-vehicles",
+    "fact_key": "easy_rider.vehicles",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Auf welchen Fahrzeugen reisen die Hauptfiguren im Kultfilm „Easy Rider“ durch die USA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auf Motorrädern"
+      },
+      {
+        "id": "b",
+        "text": "In Wohnmobilen"
+      },
+      {
+        "id": "c",
+        "text": "Auf Fahrrädern"
+      },
+      {
+        "id": "d",
+        "text": "In Geländewagen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Easy Rider“ erzählt von zwei Motorradfahrern auf einer Reise durch Amerika. In der Bundesrepublik kam der Film 1969 ins Kino.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1969",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1969.html",
+        "verified_claim": "„Easy Rider“ erzählt von zwei Motorradfahrern auf einer Reise durch Amerika. In der Bundesrepublik kam der Film 1969 ins Kino.",
+        "checked_at": "2026-11-20T01:11:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-circus-roncalli-founders",
+    "fact_key": "circus.roncalli.founders",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welchen Zirkus gründeten Bernhard Paul und André Heller?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Roncalli"
+      },
+      {
+        "id": "b",
+        "text": "Krone"
+      },
+      {
+        "id": "c",
+        "text": "Sarrasani"
+      },
+      {
+        "id": "d",
+        "text": "Renz"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Roncalli spielte 1976 in Bonn seine erste Vorstellung. Die Gründer knüpften an die Atmosphäre klassischer Zirkusse an.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1976",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1976.html",
+        "verified_claim": "Roncalli spielte 1976 in Bonn seine erste Vorstellung. Die Gründer knüpften an die Atmosphäre klassischer Zirkusse an.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-musical-superstar-composer",
+    "fact_key": "musical.superstar.composer",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer komponierte die Musik zu „Jesus Christ Superstar“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Andrew Lloyd Webber"
+      },
+      {
+        "id": "b",
+        "text": "Leonard Bernstein"
+      },
+      {
+        "id": "c",
+        "text": "Cole Porter"
+      },
+      {
+        "id": "d",
+        "text": "George Gershwin"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Musical von Andrew Lloyd Webber wurde 1972 in Münster erstmals in der Bundesrepublik aufgeführt.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1972",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1972.html",
+        "verified_claim": "Das Musical von Andrew Lloyd Webber wurde 1972 in Münster erstmals in der Bundesrepublik aufgeführt.",
+        "checked_at": "2026-11-20T01:11:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-esc-first-city",
+    "fact_key": "esc.first_city",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "In welcher Schweizer Stadt fand 1956 der erste Grand Prix de la Chanson statt, der Vorläufer des Eurovision Song Contest?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lugano"
+      },
+      {
+        "id": "b",
+        "text": "Genf"
+      },
+      {
+        "id": "c",
+        "text": "Zürich"
+      },
+      {
+        "id": "d",
+        "text": "Bern"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der damalige Schlagerwettbewerb war eine Veranstaltung der Europäischen Rundfunkunion.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1956",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1956.html",
+        "verified_claim": "Der damalige Schlagerwettbewerb war eine Veranstaltung der Europäischen Rundfunkunion.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-rigoletto-profession",
+    "fact_key": "rigoletto.profession",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welchen Beruf übt die Titelfigur in Verdis „Rigoletto“ am Hof aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hofnarr"
+      },
+      {
+        "id": "b",
+        "text": "Hofmaler"
+      },
+      {
+        "id": "c",
+        "text": "Kapellmeister"
+      },
+      {
+        "id": "d",
+        "text": "Hofkoch"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Rigoletto unterhält den Hof als Narr. Im Mittelpunkt der Handlung steht auch seine Tochter Gilda.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, rigoletto",
+        "url": "https://operavision.eu/performance/rigoletto",
+        "verified_claim": "Rigoletto unterhält den Hof als Narr. Im Mittelpunkt der Handlung steht auch seine Tochter Gilda.",
+        "checked_at": "2026-11-20T01:13:51+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-lili-marleen-singer",
+    "fact_key": "lili_marleen.singer",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welche Sängerin wurde während des Zweiten Weltkriegs mit „Lili Marleen“ berühmt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lale Andersen"
+      },
+      {
+        "id": "b",
+        "text": "Caterina Valente"
+      },
+      {
+        "id": "c",
+        "text": "Marika Rökk"
+      },
+      {
+        "id": "d",
+        "text": "Evelyn Künneke"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Rainer Werner Fassbinder griff ihre Geschichte in seinem 1981 uraufgeführten Film „Lili Marleen“ auf.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1981",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1981.html",
+        "verified_claim": "Rainer Werner Fassbinder griff ihre Geschichte in seinem 1981 uraufgeführten Film „Lili Marleen“ auf.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-zdf-base",
+    "fact_key": "zdf.base",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welche Stadt wurde bei der Gründung des ZDF als Sitz des Senders festgelegt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mainz"
+      },
+      {
+        "id": "b",
+        "text": "Köln"
+      },
+      {
+        "id": "c",
+        "text": "Berlin"
+      },
+      {
+        "id": "d",
+        "text": "Baden-Baden"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Länder der Bundesrepublik gründeten das Zweite Deutsche Fernsehen 1961 per Staatsvertrag mit Sitz in Mainz.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1961",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1961.html",
+        "verified_claim": "Die Länder der Bundesrepublik gründeten das Zweite Deutsche Fernsehen 1961 per Staatsvertrag mit Sitz in Mainz.",
+        "checked_at": "2026-11-20T01:11:31+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-traviata-heroine",
+    "fact_key": "traviata.heroine",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Wie heißt die Hauptfigur in Verdis Oper „La traviata“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Violetta Valéry"
+      },
+      {
+        "id": "b",
+        "text": "Mimì"
+      },
+      {
+        "id": "c",
+        "text": "Floria Tosca"
+      },
+      {
+        "id": "d",
+        "text": "Rosina"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Violetta Valéry lebt in Paris. Ihre Krankheit und die Vorbehalte der Familie ihres Geliebten prägen die Handlung.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, la-traviata",
+        "url": "https://operavision.eu/performance/la-traviata",
+        "verified_claim": "Violetta Valéry lebt in Paris. Ihre Krankheit und die Vorbehalte der Familie ihres Geliebten prägen die Handlung.",
+        "checked_at": "2026-11-20T01:13:50+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-hair-musical-subject",
+    "fact_key": "hair.musical.subject",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welches Rockmusical erzählt vom Leben einer Hippie-Gemeinschaft und vom Protest gegen den Vietnamkrieg?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hair"
+      },
+      {
+        "id": "b",
+        "text": "Cats"
+      },
+      {
+        "id": "c",
+        "text": "Cabaret"
+      },
+      {
+        "id": "d",
+        "text": "Starlight Express"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Hair“ kam 1967 in New York auf die Bühne und wurde zu einem musikalischen Ausdruck der Protestbewegung.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1967",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1967.html",
+        "verified_claim": "„Hair“ kam 1967 in New York auf die Bühne und wurde zu einem musikalischen Ausdruck der Protestbewegung.",
+        "checked_at": "2026-11-20T01:11:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-zdf-first-colour-show",
+    "fact_key": "zdf.first_colour_show",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Welche Unterhaltungsshow strahlte das ZDF 1967 als erste eigene Farbsendung aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der goldene Schuss"
+      },
+      {
+        "id": "b",
+        "text": "Dalli Dalli"
+      },
+      {
+        "id": "c",
+        "text": "Der große Preis"
+      },
+      {
+        "id": "d",
+        "text": "Wetten, dass..?"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "ARD und ZDF führten 1967 das Farbfernsehen ein. Das ZDF zeigte die Live-Show „Der goldene Schuss“ in Farbe.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1967",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1967.html",
+        "verified_claim": "ARD und ZDF führten 1967 das Farbfernsehen ein. Das ZDF zeigte die Live-Show „Der goldene Schuss“ in Farbe.",
+        "checked_at": "2026-11-20T01:11:32+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-don-giovanni-premiere",
+    "fact_key": "don_giovanni.premiere",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "In welcher Stadt wurde Mozarts „Don Giovanni“ uraufgeführt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Prag"
+      },
+      {
+        "id": "b",
+        "text": "Salzburg"
+      },
+      {
+        "id": "c",
+        "text": "Wien"
+      },
+      {
+        "id": "d",
+        "text": "Mailand"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Uraufführung fand im heutigen Prager Ständetheater statt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, don-giovanni",
+        "url": "https://operavision.eu/performance/don-giovanni",
+        "verified_claim": "Die Uraufführung fand im heutigen Prager Ständetheater statt.",
+        "checked_at": "2026-11-20T01:13:52+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-tv-berlin-alexanderplatz-source",
+    "fact_key": "tv.berlin_alexanderplatz.source",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Wessen Roman verfilmte Rainer Werner Fassbinder für die Fernsehserie „Berlin Alexanderplatz“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alfred Döblins"
+      },
+      {
+        "id": "b",
+        "text": "Hans Falladas"
+      },
+      {
+        "id": "c",
+        "text": "Erich Kästners"
+      },
+      {
+        "id": "d",
+        "text": "Joseph Roths"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die 14-teilige Verfilmung von Alfred Döblins Roman wurde 1980 im Fernsehen der Bundesrepublik gezeigt.",
+    "tags": [
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1980",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1980.html",
+        "verified_claim": "Die 14-teilige Verfilmung von Alfred Döblins Roman wurde 1980 im Fernsehen der Bundesrepublik gezeigt.",
+        "checked_at": "2026-11-20T01:11:33+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-literature-buddenbrooks-author",
+    "fact_key": "literature.buddenbrooks.author",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wer schrieb den Familienroman „Buddenbrooks“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Thomas Mann"
+      },
+      {
+        "id": "b",
+        "text": "Hermann Hesse"
+      },
+      {
+        "id": "c",
+        "text": "Heinrich Böll"
+      },
+      {
+        "id": "d",
+        "text": "Günter Grass"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Als Thomas Mann 1929 den Literatur-Nobelpreis erhielt, nannte die Begründung ausdrücklich die „Buddenbrooks“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Thomas Mann, 1929",
+        "url": "https://api.nobelprize.org/2.1/laureates?limit=1500",
+        "verified_claim": "Als Thomas Mann 1929 den Literatur-Nobelpreis erhielt, nannte die Begründung ausdrücklich die „Buddenbrooks“.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-literature-old-man-and-sea-author",
+    "fact_key": "literature.old_man_and_sea.author",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Von wem stammt „Der alte Mann und das Meer“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ernest Hemingway"
+      },
+      {
+        "id": "b",
+        "text": "Mark Twain"
+      },
+      {
+        "id": "c",
+        "text": "John Steinbeck"
+      },
+      {
+        "id": "d",
+        "text": "F. Scott Fitzgerald"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Nobelpreisbegründung von 1954 hob dieses Werk als Beispiel für Hemingways Erzählkunst hervor.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Ernest Hemingway, 1954",
+        "url": "https://api.nobelprize.org/2.1/laureates?limit=1500",
+        "verified_claim": "Die Nobelpreisbegründung von 1954 hob dieses Werk als Beispiel für Hemingways Erzählkunst hervor.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-grammatik-adjektiv-beispiel",
+    "fact_key": "grammatik.adjektiv.beispiel",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welches Wort ist ein Adjektiv, also ein Eigenschaftswort?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Leise"
+      },
+      {
+        "id": "b",
+        "text": "Stuhl"
+      },
+      {
+        "id": "c",
+        "text": "Singen"
+      },
+      {
+        "id": "d",
+        "text": "Dort"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Leise“ bezeichnet eine Eigenschaft. In „eine leise Stimme“ beschreibt es die Stimme genauer.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · grammis, Adjektiv",
+        "url": "https://grammis.ids-mannheim.de/terminologie/6",
+        "verified_claim": "„Leise“ bezeichnet eine Eigenschaft. In „eine leise Stimme“ beschreibt es die Stimme genauer.",
+        "checked_at": "2026-11-20T01:13:54+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-architecture-cologne-gothic",
+    "fact_key": "architecture.cologne.gothic",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Zu welcher Stilepoche gehört der Kölner Dom?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gotik"
+      },
+      {
+        "id": "b",
+        "text": "Barock"
+      },
+      {
+        "id": "c",
+        "text": "Renaissance"
+      },
+      {
+        "id": "d",
+        "text": "Klassizismus"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Bau des gotischen Doms begann 1248. Die Fertigstellung zog sich bis 1880 hin.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Cologne Cathedral",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "verified_claim": "Der Bau des gotischen Doms begann 1248. Die Fertigstellung zog sich bis 1880 hin.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-architecture-gaudi-barcelona",
+    "fact_key": "architecture.gaudi.barcelona",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "In und bei welcher Stadt liegen die von der UNESCO gemeinsam geführten Bauwerke von Antoni Gaudí?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Barcelona"
+      },
+      {
+        "id": "b",
+        "text": "Florenz"
+      },
+      {
+        "id": "c",
+        "text": "Lissabon"
+      },
+      {
+        "id": "d",
+        "text": "Wien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mehrere von Gaudís Bauwerken in und bei Barcelona gehören gemeinsam zum UNESCO-Welterbe.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Works of Antoni Gaudí",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "verified_claim": "Mehrere von Gaudís Bauwerken in und bei Barcelona gehören gemeinsam zum UNESCO-Welterbe.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-heritage-reggae-origin",
+    "fact_key": "heritage.reggae.origin",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Aus welchem Land stammt die Musiktradition des Reggae?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jamaika"
+      },
+      {
+        "id": "b",
+        "text": "Brasilien"
+      },
+      {
+        "id": "c",
+        "text": "Kuba"
+      },
+      {
+        "id": "d",
+        "text": "Senegal"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die UNESCO führt den Reggae Jamaikas als immaterielles Kulturerbe.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe",
+        "url": "https://ich.unesco.org/en/lists",
+        "verified_claim": "Die UNESCO führt den Reggae Jamaikas als immaterielles Kulturerbe.",
+        "checked_at": "2026-11-20T01:11:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-culture-fado-country",
+    "fact_key": "culture.fado.country",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Zu welchem Land gehört die Gesangstradition Fado?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Portugal"
+      },
+      {
+        "id": "b",
+        "text": "Griechenland"
+      },
+      {
+        "id": "c",
+        "text": "Norwegen"
+      },
+      {
+        "id": "d",
+        "text": "Mexiko"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Fado ist eine städtische Gesangstradition Portugals und gehört zum immateriellen Kulturerbe.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe",
+        "url": "https://ich.unesco.org/en/lists",
+        "verified_claim": "Fado ist eine städtische Gesangstradition Portugals und gehört zum immateriellen Kulturerbe.",
+        "checked_at": "2026-11-20T01:11:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-culture-pizzaiuolo-city",
+    "fact_key": "culture.pizzaiuolo.city",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "In welcher Stadt ist das Handwerk der „Pizzaiuoli“ als immaterielles Kulturerbe besonders verankert?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Neapel"
+      },
+      {
+        "id": "b",
+        "text": "Venedig"
+      },
+      {
+        "id": "c",
+        "text": "Genua"
+      },
+      {
+        "id": "d",
+        "text": "Turin"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die UNESCO würdigt ausdrücklich die neapolitanische Tradition der Pizzabäcker.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe",
+        "url": "https://ich.unesco.org/en/lists",
+        "verified_claim": "Die UNESCO würdigt ausdrücklich die neapolitanische Tradition der Pizzabäcker.",
+        "checked_at": "2026-11-20T01:11:28+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-fr-month-mars",
+    "fact_key": "fr.month.mars",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welcher deutsche Monatsname entspricht dem französischen „mars“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "März"
+      },
+      {
+        "id": "b",
+        "text": "Mai"
+      },
+      {
+        "id": "c",
+        "text": "Juni"
+      },
+      {
+        "id": "d",
+        "text": "August"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In einem französischen Kalender steht „mars“ für den dritten Monat des Jahres.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale fr",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/fr.xml",
+        "verified_claim": "In einem französischen Kalender steht „mars“ für den dritten Monat des Jahres.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-italian-sunday",
+    "fact_key": "italian.sunday",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welcher Wochentag heißt auf Italienisch „domenica“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sonntag"
+      },
+      {
+        "id": "b",
+        "text": "Dienstag"
+      },
+      {
+        "id": "c",
+        "text": "Freitag"
+      },
+      {
+        "id": "d",
+        "text": "Mittwoch"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Domenica“ bezeichnet den Sonntag. Auf italienischen Wochenplänen steht dafür oft die Kurzform „dom“.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale it",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/it.xml",
+        "verified_claim": "„Domenica“ bezeichnet den Sonntag. Auf italienischen Wochenplänen steht dafür oft die Kurzform „dom“.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-spanish-enero",
+    "fact_key": "spanish.enero",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Mit welchem Monat beginnt ein spanischer Kalendertext, wenn dort „enero“ steht?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Januar"
+      },
+      {
+        "id": "b",
+        "text": "Februar"
+      },
+      {
+        "id": "c",
+        "text": "Juni"
+      },
+      {
+        "id": "d",
+        "text": "November"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Enero“ ist der spanische Name für den Januar.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Unicode Consortium · CLDR 47, Locale es",
+        "url": "https://raw.githubusercontent.com/unicode-org/cldr/release-47/common/main/es.xml",
+        "verified_claim": "„Enero“ ist der spanische Name für den Januar.",
+        "checked_at": "2026-11-20T01:13:45+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-dylan-literature-prize",
+    "fact_key": "dylan.literature.prize",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welcher Musiker erhielt 2016 den Literatur-Nobelpreis für neue poetische Ausdrucksformen in der amerikanischen Liedtradition?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bob Dylan"
+      },
+      {
+        "id": "b",
+        "text": "Paul Simon"
+      },
+      {
+        "id": "c",
+        "text": "Bruce Springsteen"
+      },
+      {
+        "id": "d",
+        "text": "Leonard Cohen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Begründung stellte Dylans Beitrag zur Dichtung innerhalb der amerikanischen Songtradition heraus.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Bob Dylan, 2016",
+        "url": "https://api.nobelprize.org/2.1/laureates?limit=1500",
+        "verified_claim": "Die Begründung stellte Dylans Beitrag zur Dichtung innerhalb der amerikanischen Songtradition heraus.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-grammatik-ablaut-example",
+    "fact_key": "grammatik.ablaut.example",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Wie nennt man den Wechsel des Stammvokals in „singen – sang – gesungen“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ablaut"
+      },
+      {
+        "id": "b",
+        "text": "Umlaut"
+      },
+      {
+        "id": "c",
+        "text": "Endreim"
+      },
+      {
+        "id": "d",
+        "text": "Apostroph"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der veränderte Stammvokal kennzeichnet die verschiedenen Verbformen. Dieser Wechsel heißt Ablaut.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · grammis, Ablaut",
+        "url": "https://grammis.ids-mannheim.de/terminologie/1",
+        "verified_claim": "Der veränderte Stammvokal kennzeichnet die verschiedenen Verbformen. Dieser Wechsel heißt Ablaut.",
+        "checked_at": "2026-11-20T01:13:54+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-churchill-nobel-field",
+    "fact_key": "churchill.nobel.field",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "In welchem Fach erhielt Winston Churchill 1953 den Nobelpreis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Literatur"
+      },
+      {
+        "id": "b",
+        "text": "Frieden"
+      },
+      {
+        "id": "c",
+        "text": "Wirtschaftswissenschaften"
+      },
+      {
+        "id": "d",
+        "text": "Physik"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Begründung hob Churchills historische und biografische Darstellungen sowie seine Redekunst hervor.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Winston Churchill, 1953",
+        "url": "https://api.nobelprize.org/2.1/laureates?limit=1500",
+        "verified_claim": "Die Begründung hob Churchills historische und biografische Darstellungen sowie seine Redekunst hervor.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-architecture-mostar-name",
+    "fact_key": "architecture.mostar.name",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welches Bauwerk verbirgt sich hinter dem Namen „Stari Most“ in Mostar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Brücke"
+      },
+      {
+        "id": "b",
+        "text": "Ein Stadttor"
+      },
+      {
+        "id": "c",
+        "text": "Ein Glockenturm"
+      },
+      {
+        "id": "d",
+        "text": "Eine Markthalle"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Stari Most bezeichnet die Alte Brücke über die Neretva. Die Stadt Mostar ist nach der Brücke benannt.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Old Bridge Area of the Old City of Mostar",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "verified_claim": "Stari Most bezeichnet die Alte Brücke über die Neretva. Die Stadt Mostar ist nach der Brücke benannt.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-grammatik-adverb-zeit",
+    "fact_key": "grammatik.adverb.zeit",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welches Wort ist im Satz „Gestern las Paula vor“ ein Zeitadverb?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gestern"
+      },
+      {
+        "id": "b",
+        "text": "Las"
+      },
+      {
+        "id": "c",
+        "text": "Paula"
+      },
+      {
+        "id": "d",
+        "text": "Vor"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "„Gestern“ ordnet das Geschehen zeitlich ein. Als Adverb verändert es seine Form dabei nicht.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leibniz-Institut für Deutsche Sprache · grammis, Adverb",
+        "url": "https://grammis.ids-mannheim.de/terminologie/12",
+        "verified_claim": "„Gestern“ ordnet das Geschehen zeitlich ein. Als Adverb verändert es seine Form dabei nicht.",
+        "checked_at": "2026-11-20T01:13:54+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-literature-hauptmann-dramatist",
+    "fact_key": "literature.hauptmann.dramatist",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welche Gattung stand bei der Begründung von Gerhart Hauptmanns Nobelpreis 1912 im Mittelpunkt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Theaterstücke"
+      },
+      {
+        "id": "b",
+        "text": "Reiseberichte"
+      },
+      {
+        "id": "c",
+        "text": "Märchen"
+      },
+      {
+        "id": "d",
+        "text": "Sonette"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Begründung würdigte Gerhart Hauptmanns vielseitiges Werk auf dem Gebiet des Dramas.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Gerhart Hauptmann, 1912",
+        "url": "https://api.nobelprize.org/2.1/laureates?limit=1500",
+        "verified_claim": "Die Begründung würdigte Gerhart Hauptmanns vielseitiges Werk auf dem Gebiet des Dramas.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-literature-singer-tradition",
+    "fact_key": "literature.singer.tradition",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "In welcher Tradition verortete die Nobelpreisbegründung die Erzählkunst von Isaac Bashevis Singer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In der polnisch-jüdischen"
+      },
+      {
+        "id": "b",
+        "text": "In der norwegisch-samischen"
+      },
+      {
+        "id": "c",
+        "text": "In der afrokaribischen"
+      },
+      {
+        "id": "d",
+        "text": "In der japanischen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Singer erhielt den Literatur-Nobelpreis 1978. Die Begründung verband seine literarischen Wurzeln mit allgemeinen menschlichen Erfahrungen.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Isaac Bashevis Singer, 1978",
+        "url": "https://api.nobelprize.org/2.1/laureates?limit=1500",
+        "verified_claim": "Singer erhielt den Literatur-Nobelpreis 1978. Die Begründung verband seine literarischen Wurzeln mit allgemeinen menschlichen Erfahrungen.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-statue-liberty-structure-engineer",
+    "fact_key": "statue_liberty.structure.engineer",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Wer wirkte an der technischen Konstruktion des Stahlgerüsts der New Yorker Freiheitsstatue mit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gustave Eiffel"
+      },
+      {
+        "id": "b",
+        "text": "Antoni Gaudí"
+      },
+      {
+        "id": "c",
+        "text": "Otto Wagner"
+      },
+      {
+        "id": "d",
+        "text": "Joseph Paxton"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bildhauer Frédéric Auguste Bartholdi schuf die Statue. Gustave Eiffel war für ihre innere Stahlkonstruktion verantwortlich.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Statue of Liberty",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "verified_claim": "Bildhauer Frédéric Auguste Bartholdi schuf die Statue. Gustave Eiffel war für ihre innere Stahlkonstruktion verantwortlich.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-fo-nobel-jesters",
+    "fact_key": "fo.nobel.jesters",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Welchen italienischen Theatermann verglich die Nobelpreisbegründung 1997 mit den Gauklern des Mittelalters?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dario Fo"
+      },
+      {
+        "id": "b",
+        "text": "Luigi Pirandello"
+      },
+      {
+        "id": "c",
+        "text": "Carlo Goldoni"
+      },
+      {
+        "id": "d",
+        "text": "Eduardo De Filippo"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Begründung beschrieb Fos Spiel als Kritik an den Mächtigen und als Einsatz für die Würde der Unterdrückten.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Nobel Prize API · Dario Fo, 1997",
+        "url": "https://api.nobelprize.org/2.1/laureates?limit=1500",
+        "verified_claim": "Die Begründung beschrieb Fos Spiel als Kritik an den Mächtigen und als Einsatz für die Würde der Unterdrückten.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  },
+  {
+    "id": "k-heritage-jerusalem-dome",
+    "fact_key": "heritage.jerusalem.dome",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Welcher Bau der Jerusalemer Altstadt entstand bereits im 7. Jahrhundert und ist für seinen geometrischen und floralen Schmuck bekannt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Felsendom"
+      },
+      {
+        "id": "b",
+        "text": "Die Dormitio-Abtei"
+      },
+      {
+        "id": "c",
+        "text": "Die Erlöserkirche"
+      },
+      {
+        "id": "d",
+        "text": "Die Hurva-Synagoge"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Felsendom gehört zu den prägenden Monumenten der Altstadt. Sein Dekor verbindet geometrische Formen mit Pflanzenmotiven.",
+    "tags": [],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Old City of Jerusalem and its Walls",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "verified_claim": "Der Felsendom gehört zu den prägenden Monumenten der Altstadt. Sein Dekor verbindet geometrische Formen mit Pflanzenmotiven.",
+        "checked_at": "2026-11-20T01:11:29+00:00"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:37+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+        "at": "2026-11-20T01:17:43+00:00",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-20T01:17:43+00:00",
+      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": true,
+    "starter": false
+  }
+]
