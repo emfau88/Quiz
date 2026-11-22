@@ -7,7 +7,7 @@
 - [x] **Bulk 3 · Forschung** 36 datierte Karten mit direkt verlinktem Beleg und verständlicher Auflösung ausarbeiten. [Forschungsredaktion](content/research/README.md)
 - [x] **Bulk 4 · Vollbestand** 2.400 aktive Fragen, 400 je Kategorie, 16,9 Prozent reines Wiedererkennen. Die 24 im abschließenden Ähnlichkeitsabgleich markierten Paare wurden einzeln auf ihre Wissensziele geprüft. [Bestandsvergleich](release/qa/modern-0.3.0/bestand.json) · [Einzelentscheidungen](release/qa/modern-0.3.0/dublettenentscheidungen.json)
 - [x] **Bulk 5 · Technische Abnahme** Alle 2.400 Karten in 240 Themenrunden beantwortet. 1.365 Tagesauswahlen, Updates mit gespeicherter Runde und 14.400 schmale Frage- und Auflösungsansichten bis 200 Prozent Schrift geprüft. [Rundenauswahl](release/qa/modern-0.3.0/tagesrunden.json) · [Prüfbericht](QA_REPORT.md)
-- [ ] **Bulk 6 · Auslieferung** HTML und APKs mit identischem Katalog erstellen und den aktualisierten Handy-Einstieg über GitHub Actions ausliefern.
+- [x] **Bulk 6 · Auslieferung** HTML und APKs enthalten den gleichen Katalog. Eine vollständige Tagesrunde über den aktualisierten öffentlichen README-Link ist belegt. [GitHub Actions](https://github.com/emfau88/Quiz/actions/runs/45080570277) · [Öffentliche Tagesrunde](release/qa/modern-0.3.0/github-pages-live.json) · [Android](android/QA.md)
 
 ## Vorherige Ausgabe 0.2.0
 

@@ -2,7 +2,7 @@
 
 ## Fragenpool 0.3.0
 
-Die aktuelle Erweiterung umfasst den verdoppelten deutschen Fragenbestand, zwei feste Hinweisfragen und eine Schätzfrage pro neuer Tagesrunde sowie datierte Forschung mit Originalquellen. Prüf- und Auslieferungsnachweise stehen in den sechs Arbeitspaketen. [Stand der Erweiterung](UMSETZUNGSPLAN_FRAGENPOOL.md)
+Die aktuelle Erweiterung umfasst den verdoppelten deutschen Fragenbestand, zwei feste Hinweisfragen und eine Schätzfrage pro neuer Tagesrunde sowie datierte Forschung mit Originalquellen. Alle sechs Arbeitspakete der Ausgabe 0.3.0 sind belegt. Der aktualisierte Spieleinstieg ist über GitHub Pages erreichbar. [Öffentlicher Spieldurchlauf](release/qa/modern-0.3.0/github-pages-live.json) [Stand der Erweiterung](UMSETZUNGSPLAN_FRAGENPOOL.md)
 
 ## Fragenpool 0.2.0
 

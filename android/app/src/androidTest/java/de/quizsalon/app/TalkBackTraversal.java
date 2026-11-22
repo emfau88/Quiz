@@ -72,11 +72,11 @@ final class TalkBackTraversal {
         JSONArray options=item.getJSONObject("q").getJSONArray("options");
         String firstText=option(options,order.getString(0));
         // WebView exposes off-screen answers before large text has scrolled into view.
-        AccessibilityNodeInfo firstButton=find(firstText, false);
+        AccessibilityNodeInfo firstButton=findButton(firstText);
         firstButton.performAction(AccessibilityNodeInfo.AccessibilityAction.ACTION_SHOW_ON_SCREEN.getId());
         SystemClock.sleep(500);
         Rect bounds=new Rect();
-        firstButton=find(firstText, false);
+        firstButton=findButton(firstText);
         firstButton.getBoundsInScreen(bounds);
         android.util.DisplayMetrics display=runner.getTargetContext().getResources().getDisplayMetrics();
         boolean onScreen=firstButton.isVisibleToUser() && bounds.intersect(0,0,display.widthPixels,display.heightPixels);
@@ -85,10 +85,10 @@ final class TalkBackTraversal {
         gesture("explore",x,y);
         SystemClock.sleep(1100);
         String label=focus();
-        int index=answerIndex(options,order,label);
+        int index=answerIndex(options,order);
         for(int i=0;i<28 && index<0;i++) {
             label=nextFocus(x,y);
-            index=answerIndex(options,order,label);
+            index=answerIndex(options,order);
         }
         require(index>=0,"Keine Antwort im TalkBack-Fokus. " + label);
         require(session().getJSONArray("items").getJSONObject(pos).isNull("answer"),"Voreilige Antwort durch Berührungserkundung.");
@@ -96,7 +96,7 @@ final class TalkBackTraversal {
         String target=option(options,order.getString(next));
         gesture(index==3?"answerLeft":"answerRight",x,y);
         waitFocus(target);
-        gesture("doubleTap",x,y);
+        gesture("doubleTap",display.widthPixels/2,display.heightPixels/2);
         JSONObject saved=null;
         for(int i=0;i<24 && saved==null;i++) {
             SystemClock.sleep(225);
@@ -104,24 +104,45 @@ final class TalkBackTraversal {
         }
         require(saved!=null && order.getString(next).equals(saved.optString("optionId")),"Abweichende Antwort nach Doppeltipp.");
         String nextLabel=pos==9 ? "Ergebnis ansehen" : "Nächste Frage";
-        find(nextLabel, false);
-        String action=focus();
-        for(int i=0;i<28 && !action.contains(nextLabel);i++) action=nextFocus(x,y);
-        require(action.contains(nextLabel),"Weiteraktion im TalkBack-Fokus fehlt: "+action);
-        gesture("activate",x,y);
-        boolean moved=false;
-        for(int i=0;i<35&&!moved;i++) {
-            SystemClock.sleep(220);
-            JSONObject current=session();
-            moved=pos==9 ? "completed".equals(current.optString("status")) : current.optInt("cursor")==pos+1;
+        findButton(nextLabel);
+        int centerX=display.widthPixels/2, centerY=display.heightPixels/2;
+        for(int i=0;i<28 && !isFocusedButton(nextLabel);i++) nextFocus(centerX,centerY);
+        require(isFocusedButton(nextLabel),"Weiteraktion im TalkBack-Fokus fehlt: "+focus());
+        gesture("activate",centerX,centerY);
+        boolean moved=awaitAdvance(pos);
+        if(!moved) {
+            // A long feedback panel can finish scrolling after the spoken focus changed. Explore
+            // the actual system button again, then send another genuine TalkBack double tap.
+            AccessibilityNodeInfo button=findButton(nextLabel);
+            button.performAction(AccessibilityNodeInfo.AccessibilityAction.ACTION_SHOW_ON_SCREEN.getId());
+            SystemClock.sleep(650);
+            button=findButton(nextLabel);
+            Rect targetBounds=new Rect();
+            button.getBoundsInScreen(targetBounds);
+            require(button.isVisibleToUser() && targetBounds.intersect(0,0,display.widthPixels,display.heightPixels),
+                    "Weiteraktion nach Berührung nicht sichtbar: "+nextLabel+" ("+focus()+")");
+            int targetX=targetBounds.centerX(), targetY=targetBounds.centerY();
+            gesture("explore",targetX,targetY);
+            waitFocus(nextLabel);
+            gesture("activate",centerX,centerY);
+            moved=awaitAdvance(pos);
         }
-        require(moved,"Der TalkBack-Doppeltipp auf "+nextLabel+" hat die Runde nicht weitergeführt.");
+        require(moved,"Der TalkBack-Doppeltipp auf "+nextLabel+" hat die Runde nicht weitergeführt. Fokus: "+focus());
         String message="Frage "+(pos+1)+" von 10. TalkBack-Fokus auf "+label+", Wischziel "+target+
                 ", Doppeltipp mit gespeichertem Antwortwert, "+nextLabel+" fokussiert und per Doppeltipp aktiviert.";
         report.append("\nPASS ").append(message);
         Bundle progress=new Bundle();
         progress.putString("quizCheck",message);
         runner.sendStatus(1,progress);
+    }
+
+    private boolean awaitAdvance(int position) throws Exception {
+        for(int i=0;i<30;i++) {
+            SystemClock.sleep(220);
+            JSONObject item=session();
+            if(position==9 ? "completed".equals(item.optString("status")) : item.optInt("cursor")==position+1) return true;
+        }
+        return false;
     }
 
     private String nextFocus(int x,int y) {
@@ -150,24 +171,30 @@ final class TalkBackTraversal {
     }
 
     private AccessibilityNodeInfo find(String text, boolean visibleOnly) {
+        return find(text,visibleOnly,false);
+    }
+    private AccessibilityNodeInfo findButton(String text) {
+        return find(text,false,true);
+    }
+    private AccessibilityNodeInfo find(String text, boolean visibleOnly, boolean button) {
         StringBuilder observed=new StringBuilder();
         for (int i=0; i<50; i++) {
             AccessibilityNodeInfo root=ui.getRootInActiveWindow();
             observed.setLength(0);
-            AccessibilityNodeInfo node=search(root,text,visibleOnly,observed,0);
+            AccessibilityNodeInfo node=search(root,text,visibleOnly,button,observed,0);
             if(node!=null) return node;
             SystemClock.sleep(350);
         }
         throw new AssertionError(report+"\nAuf dem aktiven Systembildschirm fehlt: " + text + ". Baum: " + observed);
     }
 
-    private AccessibilityNodeInfo search(AccessibilityNodeInfo node,String text,boolean visibleOnly,StringBuilder observed,int depth) {
+    private AccessibilityNodeInfo search(AccessibilityNodeInfo node,String text,boolean visibleOnly,boolean button,StringBuilder observed,int depth) {
         if(node==null || depth>45) return null;
         String label=String.valueOf(node.getText())+" "+node.getContentDescription();
         if(observed.length()<1800) observed.append(node.getClassName()).append('(').append(label).append(") ");
-        if((!visibleOnly || node.isVisibleToUser()) && label.contains(text)) return node;
+        if((!visibleOnly || node.isVisibleToUser()) && (button ? matchesButton(node,text) : label.contains(text))) return node;
         for(int i=0; i<node.getChildCount(); i++) {
-            AccessibilityNodeInfo found=search(node.getChild(i),text,visibleOnly,observed,depth+1);
+            AccessibilityNodeInfo found=search(node.getChild(i),text,visibleOnly,button,observed,depth+1);
             if(found!=null) return found;
         }
         return null;
@@ -177,7 +204,7 @@ final class TalkBackTraversal {
         String seen="";
         for (int i=0; i<45; i++) {
             seen=focus();
-            if (seen.contains(expected)) return;
+            if (isFocusedButton(expected)) return;
             SystemClock.sleep(180);
         }
         throw new AssertionError("Erwarteter TalkBack-Fokus: " + expected + ". Beobachteter Fokus: " + seen);
@@ -188,8 +215,16 @@ final class TalkBackTraversal {
         return focused==null ? "Kein Fokus" : focused.getText()+" "+focused.getContentDescription()+" "+focused.getClassName();
     }
 
-    private int answerIndex(JSONArray options,JSONArray order,String label) throws Exception {
-        for(int i=0;i<order.length();i++) if(label.contains(option(options,order.getString(i)))) return i;
+    private static boolean matchesButton(AccessibilityNodeInfo node,String text) {
+        return node!=null && "android.widget.Button".contentEquals(node.getClassName())
+                && (text.equals(String.valueOf(node.getText())) || text.equals(String.valueOf(node.getContentDescription())));
+    }
+    private boolean isFocusedButton(String text) {
+        return matchesButton(ui.findFocus(AccessibilityNodeInfo.FOCUS_ACCESSIBILITY),text);
+    }
+    private int answerIndex(JSONArray options,JSONArray order) throws Exception {
+        AccessibilityNodeInfo current=ui.findFocus(AccessibilityNodeInfo.FOCUS_ACCESSIBILITY);
+        for(int i=0;i<order.length();i++) if(matchesButton(current,option(options,order.getString(i)))) return i;
         return -1;
     }
 

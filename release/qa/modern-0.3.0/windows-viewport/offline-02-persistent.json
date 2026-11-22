@@ -1,0 +1,71 @@
+{
+  "edition": "02",
+  "storage": "persistent",
+  "browser": "26.5",
+  "requests": [
+    [
+      "./index.html",
+      "fetch",
+      "FetchEvent.respondWith received an error: TypeError: Load failed"
+    ],
+    [
+      "./",
+      "document",
+      "FetchEvent.respondWith received an error: TypeError: Load failed"
+    ],
+    [
+      "./?wiederaufnahme",
+      "document",
+      "FetchEvent.respondWith received an error: TypeError: Load failed"
+    ],
+    [
+      "./index.html",
+      "document",
+      "FetchEvent.respondWith received an error: TypeError: Load failed"
+    ],
+    [
+      "./",
+      "document",
+      "FetchEvent.respondWith received an error: TypeError: Load failed"
+    ]
+  ],
+  "trials": [
+    {
+      "label": "same-site reload",
+      "error": "page.goto: FetchEvent.respondWith received an error: TypeError: Load failed\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:53510/Quiz/#runde/daily-2026-11-22\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    },
+    {
+      "label": "new query after blank",
+      "error": "page.goto: FetchEvent.respondWith received an error: TypeError: Load failed\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:53510/Quiz/?wiederaufnahme\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    },
+    {
+      "label": "exact index from blank",
+      "error": "page.goto: FetchEvent.respondWith received an error: TypeError: Load failed\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:53510/Quiz/index.html\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    },
+    {
+      "label": "scope root from blank",
+      "error": "page.goto: FetchEvent.respondWith received an error: TypeError: Load failed\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:53510/Quiz/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    }
+  ],
+  "checks": [
+    {
+      "label": "warm cache",
+      "value": {
+        "location": "http://127.0.0.1:53510/Quiz/#runde/daily-2026-11-22",
+        "controller": "activated",
+        "sets": {
+          "quizsalon-assets-4c7d60539e4adc1d": {
+            "keys": [],
+            "index": false,
+            "catalog": false
+          }
+        }
+      }
+    },
+    {
+      "label": "offline resource from controlled page",
+      "error": "page.evaluate: TypeError: FetchEvent.respondWith received an error: TypeError: Load failed"
+    }
+  ],
+  "at": "2026-11-22T22:59:01.504Z"
+}

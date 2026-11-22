@@ -7,7 +7,7 @@
 - [x] Verdopplung auf 2.400 und die Anteile aller sechs Frageformen am endgültigen Katalog nachgewiesen. Die markierten ähnlichen Fragen wurden paarweise gesichtet. [Bestandsvergleich](release/qa/modern-0.3.0/bestand.json) · [Einzelentscheidungen](release/qa/modern-0.3.0/dublettenentscheidungen.json)
 - [x] Tagesplätze, Browser, Offline-Spiel, frühere Spielstände und alle Fragenlayouts geprüft. [Rundenauswahl](release/qa/modern-0.3.0/tagesrunden.json) · [Browserprüfungen](QA_REPORT.md)
 - [x] Eigenständige HTML-Datei und beide installierbaren APKs mit identischem Katalog geprüft. Ein gespeicherter Android-Spielstand aus der Ausgabe 0.2.0 blieb beim Update erhalten. [HTML-Dateiupdate](release/qa/modern-0.3.0/html-update.json) · [APK-Abgleich](release/android/artifacts.json) · [Android-Update](release/qa/modern-0.3.0/android-update/android-ui.json)
-- [ ] Die aktualisierte Browser-Testausgabe über GitHub Actions ausliefern und den README-Link öffentlich aufrufen.
+- [x] Aktualisierte Browser-Testausgabe über GitHub Actions ausgeliefert. Der README-Link lieferte den geprüften Katalog und erlaubte die Offline-Fortsetzung. [Bereitstellung](https://github.com/emfau88/Quiz/actions/runs/45080570277) · [Live-Prüfung](release/qa/modern-0.3.0/github-pages-live.json)
 - [ ] Die Android-App bei Google Play zur Freigabe vorlegen. Die Betreiberentscheidung, der interne Kaufnachweis und die übrigen externen Voraussetzungen sind noch offen. [Externe Abhängigkeiten](BLOCKERS.md)
 
 ## Lokale Übergabe 0.2.0

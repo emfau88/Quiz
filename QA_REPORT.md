@@ -15,6 +15,12 @@ HTML und Rundenauswahl wurden mit dem Katalog `de-d5a1d0585ed1` geprüft. Der Ka
 
 Die Android-Abnahme dokumentiert die installierten APKs, das Update des früheren Spielstands und die Bedienprüfung auf dem Emulator. [Android-Prüfbericht](android/QA.md)
 
+Mit Google TalkBack auf Android 16 ließ sich bei 360 dp Breite und 150 Prozent Systemschrift die komplette Tagesrunde per Wischgeste und Doppeltipp spielen. Zehn Antworten und genau eine Abschlussbuchung sind im lokalen Spielstand belegt. [Gestenprotokoll und Gerätedaten](release/qa/modern-0.3.0/android-talkback/)
+
+GitHub Actions prüfte den Offline-Neustart nach abgeschaltetem Ursprung in Chromium und WebKit unter Linux. Der lokale Windows-Testport von WebKit verlor beim Verlassen des letzten Quiz-Tabs seinen flüchtigen Cache. Das trat bei 0.2.0 und 0.3.0 auf. Mit geöffnetem Quiz-Tab konnte ein zweiter Tab die komplette Runde bei bereits abgeschaltetem Ursprung spielen. [Messreihen für beide Versionen](release/qa/modern-0.3.0/windows-viewport/README.md)
+
+Der öffentliche README-Einstieg lieferte denselben SHA-256-Wert wie das lokale Original. Im mobilen Browser wurden zehn Fragen beantwortet, nach der ersten Antwort offline. [Öffentlicher Spiel-Link](https://emfau88.github.io/Quiz/spielen.html?v=0.3.0) · [Live-Prüfprotokoll](release/qa/modern-0.3.0/github-pages-live.json) · [Bereitstellung über GitHub Actions](https://github.com/emfau88/Quiz/actions/runs/45080570277)
+
 ## Öffentlicher Browser-Testlink vom 22. November 2026
 
 Der in der README verlinkte Einstieg lieferte HTTP 200 und exakt dieselben Katalogbytes wie die lokale Fassung 0.2.0. Im mobilen Chromium-Profil waren die erste Antwort und ihre Erklärung nach dem Offline-Neustart erhalten. Die Tagesrunde ließ sich abschließen und danach eine anspruchsvolle Themenrunde starten. Der GitHub-Workflow prüfte diesen Ablauf zusätzlich bei 360 CSS-Pixeln in Chromium und 390 CSS-Pixeln in WebKit. In beiden Durchläufen war der Testserver vor dem Wiederöffnen abgeschaltet. [Spiel-Link](https://emfau88.github.io/Quiz/) · [Erster erfolgreicher Actions-Lauf](https://github.com/emfau88/Quiz/actions/runs/45067096203) · [Screenshot des öffentlichen Einstiegs](release/screenshots/fragenpool-0.2.0/12-Browserlink-360.png)

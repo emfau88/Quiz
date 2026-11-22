@@ -1,0 +1,87 @@
+{
+  "edition": "02",
+  "storage": "ephemeral",
+  "browser": "26.5",
+  "requests": [
+    [
+      "./?wiederaufnahme",
+      "document",
+      "FetchEvent.respondWith received an error: TypeError: Load failed"
+    ],
+    [
+      "./index.html",
+      "document",
+      "FetchEvent.respondWith received an error: TypeError: Load failed"
+    ],
+    [
+      "./",
+      "document",
+      "FetchEvent.respondWith received an error: TypeError: Load failed"
+    ]
+  ],
+  "trials": [
+    {
+      "label": "same-site reload",
+      "status": 200,
+      "restored": true
+    },
+    {
+      "label": "new query after blank",
+      "error": "page.goto: FetchEvent.respondWith received an error: TypeError: Load failed\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:65295/Quiz/?wiederaufnahme\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    },
+    {
+      "label": "exact index from blank",
+      "error": "page.goto: FetchEvent.respondWith received an error: TypeError: Load failed\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:65295/Quiz/index.html\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    },
+    {
+      "label": "scope root from blank",
+      "error": "page.goto: FetchEvent.respondWith received an error: TypeError: Load failed\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:65295/Quiz/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    }
+  ],
+  "checks": [
+    {
+      "label": "warm cache",
+      "value": {
+        "location": "http://127.0.0.1:65295/Quiz/#runde/daily-2026-11-22",
+        "controller": "activated",
+        "sets": {
+          "quizsalon-assets-4c7d60539e4adc1d": {
+            "keys": [
+              "/Quiz/assets/fonts/DM-Sans.ttf",
+              "/Quiz/assets/fonts/Spectral-LICENSE.txt",
+              "/Quiz/assets/fonts/DM-Sans-LICENSE.txt",
+              "/Quiz/app.webmanifest",
+              "/Quiz/assets/fonts/Spectral-Medium.ttf",
+              "/Quiz/assets/icon-192.png",
+              "/Quiz/data/catalog.json",
+              "/Quiz/index.html",
+              "/Quiz/assets/icon-512.png",
+              "/Quiz/assets/salon.webp",
+              "/Quiz/data/manifest.json",
+              "/Quiz/js/access.js",
+              "/Quiz/js/engine.js",
+              "/Quiz/js/credits.js",
+              "/Quiz/js/app.js",
+              "/Quiz/js/catalog.js",
+              "/Quiz/js/icons.js",
+              "/Quiz/js/rules.js",
+              "/Quiz/js/storage.js",
+              "/Quiz/styles.css",
+              "/Quiz/js/views.js"
+            ],
+            "index": true,
+            "catalog": true
+          }
+        }
+      }
+    },
+    {
+      "label": "offline resource from controlled page",
+      "value": [
+        200,
+        955
+      ]
+    }
+  ],
+  "at": "2026-11-22T22:58:08.085Z"
+}

@@ -1,0 +1,111 @@
+{
+  "edition": "03",
+  "storage": "ephemeral",
+  "browser": "26.5",
+  "requests": [
+    [
+      "./?wiederaufnahme",
+      "document",
+      "FetchEvent.respondWith received an error: TypeError: Load failed"
+    ],
+    [
+      "./index.html",
+      "document",
+      "FetchEvent.respondWith received an error: TypeError: Load failed"
+    ],
+    [
+      "./",
+      "document",
+      "FetchEvent.respondWith received an error: TypeError: Load failed"
+    ]
+  ],
+  "trials": [
+    {
+      "label": "new tab with original tab open",
+      "restored": true,
+      "status": 200
+    },
+    {
+      "label": "same-site reload",
+      "status": 200,
+      "restored": true
+    },
+    {
+      "label": "new query from previous app document",
+      "status": 200,
+      "restored": true
+    },
+    {
+      "label": "new query after blank",
+      "error": "page.goto: FetchEvent.respondWith received an error: TypeError: Load failed\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:52738/Quiz/?wiederaufnahme\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    },
+    {
+      "label": "exact index from blank",
+      "error": "page.goto: FetchEvent.respondWith received an error: TypeError: Load failed\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:52738/Quiz/index.html\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    },
+    {
+      "label": "scope root from blank",
+      "error": "page.goto: FetchEvent.respondWith received an error: TypeError: Load failed\nCall log:\n\u001b[2m  - navigating to \"http://127.0.0.1:52738/Quiz/\", waiting until \"domcontentloaded\"\u001b[22m\n"
+    }
+  ],
+  "checks": [
+    {
+      "label": "warm cache",
+      "value": {
+        "location": "http://127.0.0.1:52738/Quiz/?v=0.3.0#runde/daily-2026-11-23",
+        "controller": "activated",
+        "sets": {
+          "quizsalon-assets-d1ddd07b8a9dfa48": {
+            "keys": [
+              "/Quiz/app.webmanifest",
+              "/Quiz/assets/fonts/DM-Sans-LICENSE.txt",
+              "/Quiz/assets/fonts/Spectral-LICENSE.txt",
+              "/Quiz/assets/icon-192.png",
+              "/Quiz/assets/fonts/Spectral-Medium.ttf",
+              "/Quiz/assets/fonts/DM-Sans.ttf",
+              "/Quiz/assets/icon-512.png",
+              "/Quiz/assets/salon.webp",
+              "/Quiz/index.html",
+              "/Quiz/js/access.js",
+              "/Quiz/data/manifest.json",
+              "/Quiz/js/app.js",
+              "/Quiz/js/engine.js",
+              "/Quiz/js/catalog.js",
+              "/Quiz/js/credits.js",
+              "/Quiz/data/catalog.json",
+              "/Quiz/js/icons.js",
+              "/Quiz/spielen.html",
+              "/Quiz/js/rules.js",
+              "/Quiz/js/storage.js",
+              "/Quiz/js/views.js",
+              "/Quiz/styles.css"
+            ],
+            "index": true,
+            "catalog": true
+          }
+        }
+      }
+    },
+    {
+      "label": "offline resource from controlled page",
+      "value": [
+        200,
+        955
+      ]
+    },
+    {
+      "label": "cache seen by neutral document after origin restart",
+      "value": {
+        "location": "http://127.0.0.1:52738/cache-inspektion",
+        "sets": {
+          "quizsalon-assets-d1ddd07b8a9dfa48": {
+            "keys": [],
+            "index": false,
+            "catalog": false
+          }
+        }
+      }
+    }
+  ],
+  "at": "2026-11-22T23:00:35.092Z"
+}
