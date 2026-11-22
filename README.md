@@ -1,10 +1,14 @@
 # Quizsalon
 
+**[▶ Quizsalon jetzt im Browser spielen](https://emfau88.github.io/Quiz/)**
+
+Öffne den Link auf deinem Handy oder Computer. Du startest direkt mit der ersten Frage. In der Browser-Testausgabe kannst du die Tagesrunde und alle sechs Themen auf beiden Schwierigkeitsstufen spielen. Dein Fortschritt bleibt in diesem Browser auf diesem Gerät. Nach dem ersten vollständigen Laden kannst du auch offline weiterspielen.
+
 Ein deutschsprachiges, lokal spielbares Tagesquiz für Browser und Android. Oberfläche und Spielregeln sind in HTML, CSS und JavaScript umgesetzt. Der Android-Host verwendet Java und die System-WebView.
 
 Die aktuelle Ausgabe **0.2.0** enthält 152 neue Sachverhalte innerhalb des 1.200er-Pools. Tages- und Themenrunden berücksichtigen jetzt die Unterthemen. Ein Update am selben Dateipfad im selben Browserprofil erhält bereits begonnene Runden. [Umsetzungsplan mit Nachweisen](UMSETZUNGSPLAN_FRAGENPOOL.md) · [Inhaltsbericht](CONTENT_REPORT.md)
 
-## Direkt ausprobieren
+## Ausgaben zum Herunterladen
 
 - Öffne die HTML-Datei per Doppelklick in Chrome oder Edge. Sie enthält Fragen, Bilder und Schriften. [Lokale HTML-Version](release/Quizsalon-Lokaltest.html)
 - Die Android-Testausgabe bietet alle Themen und beide Schwierigkeitsstufen. [APK für den lokalen Test](release/android/Quizsalon-Lokaltest.apk)
@@ -69,4 +73,6 @@ Die Android-Anleitung nennt die getrennten Buildziele und die echten Eingaben ei
 
 ## Übergabestand
 
-Die Roadmap und die umfassende Abnahmeliste unterscheiden lokal nachgewiesene Funktionen, ausstehende Geräte- und Zielgruppentests und den späteren Play-Prozess. Die öffentliche Veröffentlichung wurde zurückgestellt. [Roadmap](ROADMAP.md) · [Prüfbericht](QA_REPORT.md) · [Release-Checkliste](RELEASE_CHECKLIST.md) · [Externe Abhängigkeiten](BLOCKERS.md)
+GitHub Actions prüft bei jedem Push auf `main` die Spielregeln, den Fragenkatalog und die Browser-Testausgabe mit zwei mobilen Browserprofilen. Nach bestandenen Prüfungen aktualisiert der Workflow den Spiel-Link. [Pages-Workflow](.github/workflows/pages.yml)
+
+Die Android-Veröffentlichung bei Google Play ist zurückgestellt. Die Roadmap und die Abnahmeliste führen die lokalen Nachweise und die offenen Geräte-, Zielgruppen- und Kaufprüfungen. [Roadmap](ROADMAP.md) · [Prüfbericht](QA_REPORT.md) · [Release-Checkliste](RELEASE_CHECKLIST.md) · [Externe Abhängigkeiten](BLOCKERS.md)

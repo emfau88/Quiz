@@ -1,0 +1,66 @@
+name: Quizsalon im Browser
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions: {}
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+          cache: npm
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+          cache: pip
+      - name: Abhängigkeiten installieren
+        run: |
+          npm ci
+          python -m pip install -r requirements.txt
+      - name: Spielregeln und deutschen Fragenkatalog prüfen
+        run: |
+          npm test
+          python tests/catalog_test.py
+          python tools/catalog.py --stage release
+      - name: Browser-Testausgabe bauen
+        run: node tools/package-web.mjs --pages "$RUNNER_TEMP/quizsalon/Quiz"
+      - name: Handy-Ansicht und Offline-Wiederaufnahme prüfen
+        run: |
+          npx --no-install playwright-core install --with-deps chromium webkit
+          python -m http.server 4173 --bind 127.0.0.1 --directory "$RUNNER_TEMP/quizsalon" &
+          server_pid=$!
+          trap 'kill "$server_pid"' EXIT
+          curl --fail --silent --retry 5 --retry-connrefused --output /dev/null http://127.0.0.1:4173/Quiz/
+          node tests/pages-browser.mjs http://127.0.0.1:4173/Quiz/
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: ${{ runner.temp }}/quizsalon/Quiz
+
+  deploy:
+    needs: build
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Browser-Testausgabe bereitstellen
+        id: deployment
+        uses: actions/deploy-pages@v4

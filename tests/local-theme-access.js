@@ -1,4 +1,4 @@
-// Included only in the separately bundled, clearly identified local HTML test edition.
+// Shared by the standalone HTML and the GitHub Pages browser test editions.
 // It sells no product, records no purchase and never enters a Play entitlement state.
 export const profileScope = 'quizsalon-lokaltest';
 export function themeAccess() {
