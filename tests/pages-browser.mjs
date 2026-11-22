@@ -1,7 +1,10 @@
 import assert from 'node:assert/strict';
+import path from 'node:path';
 import {chromium, devices, webkit} from 'playwright-core';
+import {serve} from '../tools/serve.mjs';
 
-const start = new URL(process.argv[2]);
+const directory = path.resolve(process.argv[2]);
+const basePath = '/Quiz/';
 const phones = {
   chromium: {browser: chromium, device: 'Pixel 7', width: 360},
   webkit: {browser: webkit, device: 'iPhone 13', width: 390}
@@ -10,7 +13,10 @@ const phones = {
 for (const name of process.argv.slice(3).length ? process.argv.slice(3) : Object.keys(phones)) {
   const {browser, device, width} = phones[name];
   const instance = await browser.launch();
+  let server;
   try {
+    server = await serve(0, {directory, basePath});
+    const start = new URL(basePath, 'http://127.0.0.1:' + server.address().port);
     const context = await instance.newContext({
       ...devices[device], viewport: {width, height: 740}, locale: 'de-DE'
     });
@@ -33,8 +39,14 @@ for (const name of process.argv.slice(3).length ? process.argv.slice(3) : Object
 
     await page.waitForFunction(() => navigator.serviceWorker.controller?.state === 'activated');
     assert.equal(await page.evaluate(async () => (await navigator.serviceWorker.ready).scope), start.href);
-    await context.setOffline(true);
-    await page.reload();
+    // Stop the actual origin. Both browsers must now serve a previously unrequested URL from the offline cache.
+    const closed = new Promise(resolve => server.close(resolve));
+    server.closeAllConnections();
+    await closed;
+    await assert.rejects(fetch(start), {name: 'TypeError'});
+    await page.goto('about:blank');
+    const offline = new URL('?wiederaufnahme', start);
+    assert.equal((await page.goto(offline.href)).status(), 200);
     await feedback.waitFor();
     assert.equal(await title.innerText(), firstQuestion);
     assert.equal(await feedback.innerText(), firstFeedback);
@@ -57,6 +69,10 @@ for (const name of process.argv.slice(3).length ? process.argv.slice(3) : Object
     assert.deepEqual(errors, []);
     console.log(`${name} · ${width}px · Tagesrunde, Offline-Neustart, Spielstand und anspruchsvolle Themenrunde bestanden`);
   } finally {
+    if (server?.listening) {
+      server.close();
+      server.closeAllConnections();
+    }
     await instance.close();
   }
 }

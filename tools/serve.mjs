@@ -6,18 +6,20 @@ import path from 'node:path';
 const root = fileURLToPath(new URL('../web/',import.meta.url));
 const types = {'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json',
   '.webmanifest':'application/manifest+json','.css':'text/css; charset=utf-8','.webp':'image/webp','.png':'image/png','.ttf':'font/ttf','.txt':'text/plain; charset=utf-8'};
-export function serve(port = 0) {
+export function serve(port = 0, {directory = root, basePath = '/'} = {}) {
   const server = createServer(async (request,response) => {
     try {
       const url = new URL(request.url,'http://localhost');
-      if (url.pathname === '/lokaltest.html') {
+      if (directory === root && basePath === '/' && url.pathname === '/lokaltest.html') {
         const html = await readFile(new URL('../release/Quizsalon-Lokaltest.html',import.meta.url));
         response.writeHead(200,{'Content-Type':types['.html'],'Cache-Control':'no-store'});
         response.end(html);
         return;
       }
-      const file = path.resolve(root,'.' + decodeURIComponent(url.pathname === '/' ? '/index.html' : url.pathname));
-      const relative = path.relative(root,file);
+      if (!url.pathname.startsWith(basePath)) throw Error();
+      const localPath = decodeURIComponent(url.pathname.slice(basePath.length)) || 'index.html';
+      const file = path.resolve(directory,'./' + localPath);
+      const relative = path.relative(directory,file);
       if (relative.startsWith('..') || path.isAbsolute(relative) || !(await stat(file)).isFile()) throw Error();
       response.writeHead(200,{'Content-Type':types[path.extname(file)] || 'application/octet-stream','Cache-Control':'no-cache'});
       response.end(await readFile(file));
