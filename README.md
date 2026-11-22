@@ -2,7 +2,7 @@
 
 **[▶ Quizsalon jetzt im Browser spielen](https://emfau88.github.io/Quiz/)**
 
-Öffne den Link auf deinem Handy oder Computer. Du startest direkt mit der ersten Frage. In der Browser-Testausgabe kannst du die Tagesrunde und alle sechs Themen auf beiden Schwierigkeitsstufen spielen. Dein Fortschritt bleibt in diesem Browser auf diesem Gerät. Nach dem ersten vollständigen Laden kannst du auch offline weiterspielen.
+Öffne den Link auf deinem Handy oder Computer. Du startest direkt mit der ersten von zehn Tagesfragen. In allen sechs Themen kannst du zusätzlich zwischen „Gemischt“ und „Anspruchsvoll“ wählen. Dein Fortschritt bleibt in diesem Browser auf diesem Gerät. Nach dem ersten vollständigen Laden kannst du auch offline weiterspielen.
 
 Ein deutschsprachiges, lokal spielbares Tagesquiz für Browser und Android. Oberfläche und Spielregeln sind in HTML, CSS und JavaScript umgesetzt. Der Android-Host verwendet Java und die System-WebView.
 

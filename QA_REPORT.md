@@ -1,5 +1,9 @@
 # Quizsalon · Prüfbericht
 
+## Öffentlicher Browser-Testlink vom 22. November 2026
+
+Der in der README verlinkte Einstieg lieferte HTTP 200 und exakt dieselben Katalogbytes wie die lokale Fassung 0.2.0. Im mobilen Chromium-Profil waren die erste Antwort und ihre Erklärung nach dem Offline-Neustart erhalten. Die Tagesrunde ließ sich abschließen und danach eine anspruchsvolle Themenrunde starten. Der GitHub-Workflow prüfte diesen Ablauf zusätzlich bei 360 CSS-Pixeln in Chromium und 390 CSS-Pixeln in WebKit. In beiden Durchläufen war der Testserver vor dem Wiederöffnen abgeschaltet. [Spiel-Link](https://emfau88.github.io/Quiz/) · [Erster erfolgreicher Actions-Lauf](https://github.com/emfau88/Quiz/actions/runs/45067096203) · [Screenshot des öffentlichen Einstiegs](release/screenshots/fragenpool-0.2.0/12-Browserlink-360.png)
+
 ## Deutsche Ausgabe 0.2.0 vom 22. November 2026
 
 HTML-App, lokale APK und Play-Vorschau enthalten den Katalog `de-03c46c2cd256`. Ein unabhängiger Neubau aus den Redaktionsdaten ergibt denselben Katalog, dasselbe Manifest und dieselben Spielregeln. Die Prüfungen verwenden isolierte Browserprofile und einen eigenen Android-Emulator. [Bestandsnachweis](release/qa/fragenpool/inhaltsabgleich.json) · [Android-Artefakte](release/android/artifacts.json)

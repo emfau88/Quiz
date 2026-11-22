@@ -6,6 +6,8 @@ Die sechs deutschen Kategorien enthalten zusammen 152 neue Sachverhalte. Alle 15
 
 ## Aufbau der Grundversion
 
+Die deutsche Browser-Testausgabe 0.2.0 ist über GitHub Pages erreichbar. Die Phasen 10 und 11 unten betreffen die Veröffentlichung der Android-App bei Google Play. [Browser-Testausgabe](https://emfau88.github.io/Quiz/) · [Prüfnachweis](QA_REPORT.md)
+
 | Phase | Aufgabe | Status | Nachweis oder externe Abhängigkeit |
 | --- | --- | --- | --- |
 | 0 | Repository prüfen, Produktregeln und Architektur festhalten | done | Fünf Markdown-Anhänge, kein vorhandener Code und keine AGENTS.md. Regeln aus dem vorliegenden Text rekonstruiert. Siehe DECISIONS.md und specs/. |

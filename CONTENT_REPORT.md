@@ -17,6 +17,20 @@ Für die neuen Fragen wurden Originalquellen geöffnet und die fertigen Karten i
 
 Der letzte Dublettenabgleich meldete 29 mögliche Überschneidungen. Jede Entscheidung ist mit beiden IDs dokumentiert. Im Entwurf verriet die Radiokarte über Bern den Gegner der deutschen Elf. Diese Angabe wurde entfernt. Die Kanalfrage nennt jetzt Bamberg und Kelheim und lässt das Mündungsmeer der Donau offen. Die Feldhasenkarte behandelt das Hakenschlagen auf der Flucht. [Kandidaten](docs/content-similarities.json) · [Begründete Entscheidungen](release/qa/fragenpool/dublettenentscheidungen.json)
 
+## Reichweite und Abwechslung im Tagesquiz
+
+Jede Rubrik stellt mit 200 Fragen ein Sechstel des aktiven Pools. Bei 1.000 simulierten ersten Tagesrunden kamen alle sechs Rubriken jedes Mal vor. In 982 Runden hatten sogar alle zehn Fragen unterschiedliche Unterthemen. Innerhalb der Rubriken sind einige Themen deutlich dichter besetzt. Zu Sprache und Kultur gehören etwa 52 Literaturfragen und vier über Redensarten. [Rundenauswahl](release/qa/fragenpool/auswahlvergleich.json) · [Kategorien und Unterthemen](release/qa/fragenpool/inhaltsabgleich.json)
+
+Für die Reichweite wurden drei frische Spielstände ab dem 22. November 2026 mit der ausgelieferten Spiellogik fortgeschrieben. Jedes Profil absolvierte täglich eine Tagesrunde, ohne zusätzliche Themenrunden. Die Zahl der richtigen Antworten blieb je Profil konstant, ihre Positionen rotierten täglich. Fällige Wiederholungen zählten bei den verschiedenen Fragen jeweils nur einmal. [Auswahl- und Lernregeln](web/js/engine.js)
+
+| Richtige je Runde | Verschiedene Fragen nach 30 Tagen | Nach 90 Tagen | Alle 1.200 gesehen am |
+| ---: | ---: | ---: | ---: |
+| 4 | 246 | 726 | 150. Spieltag |
+| 7 | 246 | 726 | 150. Spieltag |
+| 10 | 254 | 734 | 149. Spieltag |
+
+Die Simulation beschreibt den Vorrat. Zu den Vorlieben tatsächlicher Quizsalon-Spieler liegen bislang keine Beobachtungen vor. Redaktionell bietet die Frageform den größten Spielraum. 83,9 Prozent verlangen Wiedererkennen. Wenn 120 dieser Karten durch Fragen zum Herleiten, Vergleichen oder zeitlichen Einordnen ersetzt werden, steigt der Anteil dieser drei Formen von 16,1 auf 26,1 Prozent. Das ist ein Vorschlag für die nächste Überarbeitung. [Aktueller Katalog und Beobachtungsstand](web/data/manifest.json)
+
 ## Archiv · Ausgangsbestand de-7363fcba52a1 vom 20. November 2026
 
 Der lokale Vollbestand enthält **1.200 freigegebene Fragen zu 1.200 unterschiedlichen fact_key-Werten**. Jede Frage hat vier verschiedene Antwortmöglichkeiten, genau einen Lösungsschlüssel, eine Erklärung und einen überprüften Quellenverweis. Die Einzelfreigaben erfolgten durch Agenten in getrennten Sach- und Redaktionsdurchgängen. Für die Zielgruppenerprobung liegen **0 menschliche Beobachtungen** vor.

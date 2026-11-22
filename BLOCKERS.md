@@ -1,6 +1,6 @@
 # Externe Abhängigkeiten
 
-Der Auftraggeber hat bestätigt, dass diese externen Voraussetzungen noch fehlen. Vorrang hat der vollständige lokale Test. Erst danach entscheidet er über eine Veröffentlichung. Es wurden keine Play-Console-Aktionen beauftragt oder ausgeführt.
+Die Browser-Testausgabe ist öffentlich spielbar. Der Auftraggeber entscheidet nach dem Test über eine Veröffentlichung bei Google Play. Dafür fehlen die unten aufgeführten Voraussetzungen. [Spiel-Link](https://emfau88.github.io/Quiz/)
 
 | Bereich | Benötigter Beitrag | Bis dahin möglich |
 | --- | --- | --- |
@@ -8,4 +8,4 @@ Der Auftraggeber hat bestätigt, dass diese externen Voraussetzungen noch fehlen
 | Betreiber und Datenschutz | Verantwortlicher, reale Supportadresse und dauerhaft erreichbare Datenschutz-URL | Store-Texte, Datenflussinventar, lokale Meldungsvorlage |
 | Signierung | Betreiberkontrollierter Upload-Key mit sicherem lokalem Zugang | Debugsignierte Testfassung und vorbereiteter Release-Build |
 | Geräte und Zielgruppe | Physisches Android-Gerät, Beurteilung der Sprachausgabe durch einen TalkBack-Nutzer und echte Teilnehmer für die Zielgruppenstudie | Vollständiger Gestendurchlauf mit Google TalkBack auf dem Android-16-Emulator, Browserprüfungen und Beobachtungsbogen |
-| Veröffentlichung | Abschließende Entscheidung über den belegten Release-Kandidaten und eigener Play-Zugriff | Private lokale Tests und vollständige Vorbereitung |
+| Google-Play-Veröffentlichung | Abschließende Entscheidung über den belegten Release-Kandidaten und eigener Play-Zugriff | Öffentliche Browser-Testausgabe und lokale Android-Tests |

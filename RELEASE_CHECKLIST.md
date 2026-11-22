@@ -8,7 +8,9 @@
 - [x] Beide APKs gebaut und installiert. Reguläre und lokale Zugangslogik sowie Signaturen und gebündelte Webdateien geprüft. [APK-Prüfung](release/android/artifacts.json) · [Update](release/qa/fragenpool/android-upgrade/android-ui.json)
 - [x] 3.600 Fragenlayouts ohne Textüberlauf. Echte TalkBack-Gesten über zehn Fragen bei 360 dp Breite und 150 Prozent Systemschrift bis zum Ergebnis nachgewiesen. [Korpuslayout](release/qa/korpus-layout.json) · [TalkBack-Protokoll](release/qa/fragenpool/android-talkback/talkback.txt)
 
-Die Beauftragung umfasst die lokale deutsche Fassung. Betreiberangaben, endgültiger Paketname, Signierung für den Store und der Nachweis echter Käufe bleiben Teil einer späteren Entscheidung. [Offene Veröffentlichungsvoraussetzungen](BLOCKERS.md)
+- [x] Deutsche Browser-Testausgabe über den README-Link auf dem Handy aufrufbar. Katalog, vollständige Tagesrunde und Offline-Wiederaufnahme sind geprüft. [Spiel-Link](https://emfau88.github.io/Quiz/) · [Prüfbericht](QA_REPORT.md)
+
+Betreiberangaben, endgültiger Paketname, Signierung für den Store und der Nachweis echter Käufe gehören zur späteren Google-Play-Freigabe. [Offene Veröffentlichungsvoraussetzungen](BLOCKERS.md)
 
 ## Historische Abnahme der Grundversion
 
