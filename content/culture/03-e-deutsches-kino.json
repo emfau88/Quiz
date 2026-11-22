@@ -1,0 +1,2107 @@
+[
+  {
+    "id": "q3-e-lola-wiederholung",
+    "fact_key": "q3.e.lola.wiederholung",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In „Lola rennt“ beginnt derselbe verzweifelte Lauf mehrmals. Kleine Zufälle ändern jeweils den Ausgang. Wie hängen die drei Teile also zusammen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie erproben verschiedene Verläufe derselben Ausgangslage."
+      },
+      {
+        "id": "b",
+        "text": "Sie zeigen drei Generationen einer Familie."
+      },
+      {
+        "id": "c",
+        "text": "Sie erzählen drei aufeinanderfolgende Jahre einer Sportkarriere."
+      },
+      {
+        "id": "d",
+        "text": "Sie wiederholen dieselbe vollständige Aufnahme ohne jede Veränderung."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Erzählung setzt mehrfach neu an. Zeitverschiebungen beeinflussen auch das Leben von Nebenfiguren.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Lola rennt",
+        "url": "https://www.filmportal.de/film/lola-rennt_5eaa6761762f44d6bbc15718c87b9795",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "In „Lola rennt“ beginnt derselbe verzweifelte Lauf mehrmals. Kleine Zufälle ändern jeweils den Ausgang. Wie hängen die drei Teile also zusammen? Sie erproben verschiedene Verläufe derselben Ausgangslage. Die Erzählung setzt mehrfach neu an. Zeitverschiebungen beeinflussen auch das Leben von Nebenfiguren.",
+        "locator": "lola, Textstelle 36",
+        "source_sha256": "b75e80140860a10e76e56bb455d1fbacf1baaa9c4478a5035570a92e59c0a1de"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-lola-frist",
+    "fact_key": "q3.e.lola.frist",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Lola bleiben 20 Minuten, um Manni zu helfen. Welcher Anteil einer Stunde erzeugt in „Lola rennt“ den Zeitdruck?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zwei Drittel"
+      },
+      {
+        "id": "b",
+        "text": "Ein Drittel"
+      },
+      {
+        "id": "c",
+        "text": "Ein Viertel"
+      },
+      {
+        "id": "d",
+        "text": "Eine Hälfte"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Zwanzig von sechzig Minuten sind ein Drittel. Die knappe Frist treibt die Handlung an.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Lola rennt",
+        "url": "https://www.filmportal.de/film/lola-rennt_5eaa6761762f44d6bbc15718c87b9795",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Lola bleiben 20 Minuten, um Manni zu helfen. Welcher Anteil einer Stunde erzeugt in „Lola rennt“ den Zeitdruck? Ein Drittel. Zwanzig von sechzig Minuten sind ein Drittel. Die knappe Frist treibt die Handlung an.",
+        "locator": "lola, Textstelle 35",
+        "source_sha256": "b75e80140860a10e76e56bb455d1fbacf1baaa9c4478a5035570a92e59c0a1de"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-fernsehkrimi-neuer-fall",
+    "fact_key": "q3.e.fernsehkrimi.neuer.fall",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Im Krimi „Der Mörder ist unter uns“ sitzt ein Verurteilter in Haft. Draußen geschieht eine Tat nach demselben Muster. Wozu hat die Staatsanwältin nun Anlass?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die beiden Fälle ohne Prüfung derselben Person zuschreiben"
+      },
+      {
+        "id": "b",
+        "text": "Den früheren Richterspruch als Beweis für einen anderen Täter werten"
+      },
+      {
+        "id": "c",
+        "text": "Den vermeintlich geklärten früheren Fall neu prüfen"
+      },
+      {
+        "id": "d",
+        "text": "Ein Geständnis des Häftlings zur neuen Tat voraussetzen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die neue Tat weckt Zweifel am älteren Urteil. Staatsanwältin und Kriminalpsychologe gehen den Parallelen und den alten Akten nach.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Der Mörder ist unter uns",
+        "url": "https://www.filmportal.de/film/der-moerder-ist-unter-uns_de3f1e4e683844508a962908daa18ecd",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Im Krimi „Der Mörder ist unter uns“ sitzt ein Verurteilter in Haft. Draußen geschieht eine Tat nach demselben Muster. Wozu hat die Staatsanwältin nun Anlass? Den vermeintlich geklärten früheren Fall neu prüfen. Die neue Tat weckt Zweifel am älteren Urteil. Staatsanwältin und Kriminalpsychologe gehen den Parallelen und den alten Akten nach.",
+        "locator": "dff-de3f1e4e, Textstelle 35",
+        "source_sha256": "33ba6caef697b91f4f44ea9168d0f6842a260fc7ddcb7db6b2dc259a185aaf72"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-lenin-nachrichten",
+    "fact_key": "q3.e.lenin.nachrichten",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Alex will in „Good Bye, Lenin!“ seiner Mutter weiterhin die alte DDR zeigen. Wie müsste er mit einer Nachrichtensendung umgehen, die den Mauerfall zeigt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Lautstärke erhöhen und den Bericht vollständig zeigen"
+      },
+      {
+        "id": "b",
+        "text": "Den Sender unverändert als Beweis für seine Behauptung ankündigen"
+      },
+      {
+        "id": "c",
+        "text": "Der Mutter nur das Datum der neuen Sendung vorlesen"
+      },
+      {
+        "id": "d",
+        "text": "Sie durch eine zum vorgetäuschten Alltag passende Sendung ersetzen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Alex und sein Freund Denis stellen Fernsehnachrichten nach. Die Täuschung betrifft damit auch das, was die Mutter auf dem Bildschirm sieht.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Good Bye, Lenin!",
+        "url": "https://www.filmportal.de/film/good-bye-lenin_6ef603c12388422d8bb82ad21c93ef2e",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Alex will in „Good Bye, Lenin!“ seiner Mutter weiterhin die alte DDR zeigen. Wie müsste er mit einer Nachrichtensendung umgehen, die den Mauerfall zeigt? Sie durch eine zum vorgetäuschten Alltag passende Sendung ersetzen. Alex und sein Freund Denis stellen Fernsehnachrichten nach. Die Täuschung betrifft damit auch das, was die Mutter auf dem Bildschirm sieht.",
+        "locator": "lenin, Textstelle 49",
+        "source_sha256": "5d77203d7ea01fe756b7723c81474c8ce45dd82da4f42552f3e6b7cadd87a8e4"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-flegel-doppelrolle",
+    "fact_key": "q3.e.flegel.doppelrolle",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Im Film „So ein Flegel“ tauschen zwei Brüder ihre Plätze. Heinz Rühmann spielt beide. Was bedeutet hier „Doppelrolle“ im Unterschied zum Rollentausch der Figuren?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Schauspieler verkörpert zwei verschiedene Personen."
+      },
+      {
+        "id": "b",
+        "text": "Zwei Schauspieler spielen dieselbe Person im gleichen Alter."
+      },
+      {
+        "id": "c",
+        "text": "Jeder Bruder wird von zwei Schauspielern gespielt."
+      },
+      {
+        "id": "d",
+        "text": "Die Handlung wird vollständig zweimal hintereinander gezeigt."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Rollentausch spielt sich innerhalb der Geschichte ab. Die Doppelrolle bezeichnet Rühmanns Aufgabe bei den Dreharbeiten.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · So ein Flegel",
+        "url": "https://www.filmportal.de/film/so-ein-flegel_333736b8329a477d98575ace1c46abe8",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Im Film „So ein Flegel“ tauschen zwei Brüder ihre Plätze. Heinz Rühmann spielt beide. Was bedeutet hier „Doppelrolle“ im Unterschied zum Rollentausch der Figuren? Ein Schauspieler verkörpert zwei verschiedene Personen. Der Rollentausch spielt sich innerhalb der Geschichte ab. Die Doppelrolle bezeichnet Rühmanns Aufgabe bei den Dreharbeiten.",
+        "locator": "dff-333736b8, Textstelle 36",
+        "source_sha256": "88d1c1f3323be74596a4f751e5161e657af6a7afcd60d2c560ed3e09536405bb"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-feuerzange-jugend",
+    "fact_key": "q3.e.feuerzange.jugend",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Der erwachsene Schriftsteller Pfeiffer schleicht sich in der „Feuerzangenbowle“ als Schüler ins Gymnasium. Er möchte erleben, was ihm früher entgangen ist. Was sucht er dort?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Aufklärung eines finanziellen Betrugs der Lehrkräfte"
+      },
+      {
+        "id": "b",
+        "text": "Den gewöhnlichen Schulalltag einschließlich der Streiche"
+      },
+      {
+        "id": "c",
+        "text": "Eine Anstellung als neuer Schuldirektor"
+      },
+      {
+        "id": "d",
+        "text": "Einen öffentlichen Vortrag über seinen letzten Roman"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "In der Verfilmung mit Walter Giller holt Pfeiffer in Verkleidung ein Stück Jugend nach. Die Erwachsenenrolle soll sein Umfeld gerade nicht bemerken.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Die Feuerzangenbowle",
+        "url": "https://www.filmportal.de/film/die-feuerzangenbowle_5821b22324d046ca959695544f0e3ebb",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Der erwachsene Schriftsteller Pfeiffer schleicht sich in der „Feuerzangenbowle“ als Schüler ins Gymnasium. Er möchte erleben, was ihm früher entgangen ist. Was sucht er dort? Den gewöhnlichen Schulalltag einschließlich der Streiche. In der Verfilmung mit Walter Giller holt Pfeiffer in Verkleidung ein Stück Jugend nach. Die Erwachsenenrolle soll sein Umfeld gerade nicht bemerken.",
+        "locator": "dff-5821b223, Textstelle 35",
+        "source_sha256": "5f140e297ce917574c6718c20d5e733d75d522a75d561909d633f7020566ee0b"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-wiesler-zuhoeren",
+    "fact_key": "q3.e.wiesler.zuhoeren",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Wiesler soll in „Das Leben der Anderen“ einen Schriftsteller überwachen. Aus der Nähe erlebt er dessen freies Denken. Was gerät für ihn dadurch in Konflikt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zwei von ihm selbst gegründete Theater"
+      },
+      {
+        "id": "b",
+        "text": "Die Wahl zwischen Schauspiel und Regiestudium"
+      },
+      {
+        "id": "c",
+        "text": "Sein Auftrag und das eigene Gewissen"
+      },
+      {
+        "id": "d",
+        "text": "Seine Arbeit als Schriftsteller und ein Verlagsvertrag"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Überwachung macht Wiesler mit einem anderen Leben vertraut. Sein zunächst bereitwilliger Spitzeldienst wird zur moralischen Belastung.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Das Leben der Anderen",
+        "url": "https://www.filmportal.de/film/das-leben-der-anderen_cd85e167113046cf85f25cebf37bb307",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Wiesler soll in „Das Leben der Anderen“ einen Schriftsteller überwachen. Aus der Nähe erlebt er dessen freies Denken. Was gerät für ihn dadurch in Konflikt? Sein Auftrag und das eigene Gewissen. Die Überwachung macht Wiesler mit einem anderen Leben vertraut. Sein zunächst bereitwilliger Spitzeldienst wird zur moralischen Belastung.",
+        "locator": "dff-cd85e167, Textstelle 35",
+        "source_sha256": "5d5f09cd2f979ad897b2af6be6a18605b624deec872fadb10bcc6b67b7b69be5"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-aschen-verkleidung",
+    "fact_key": "q3.e.aschen.verkleidung",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Der Prinz begegnet Aschenbrödel mehrere Male in unterschiedlichen Gewändern. Welche Funktion haben die drei magischen Haselnüsse für diese Begegnungen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie verwandeln jedes Mal den Prinzen in jemand anderen."
+      },
+      {
+        "id": "b",
+        "text": "Sie versetzen jeden Besuch in eine andere Jahreszeit."
+      },
+      {
+        "id": "c",
+        "text": "Sie sorgen dafür, dass der Prinz alle Begegnungen sofort vergisst."
+      },
+      {
+        "id": "d",
+        "text": "Sie erlauben ihr unterschiedliche Erscheinungsbilder."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die verschiedenen Verkleidungen verdecken Aschenbrödels Identität. Erst später erkennt der Prinz den Zusammenhang.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Drei Haselnüsse für Aschenbrödel",
+        "url": "https://www.filmportal.de/film/drei-haselnuesse-fuer-aschenbroedel_cf850208fda84644b644652cb8375c9d",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Der Prinz begegnet Aschenbrödel mehrere Male in unterschiedlichen Gewändern. Welche Funktion haben die drei magischen Haselnüsse für diese Begegnungen? Sie erlauben ihr unterschiedliche Erscheinungsbilder. Die verschiedenen Verkleidungen verdecken Aschenbrödels Identität. Erst später erkennt der Prinz den Zusammenhang.",
+        "locator": "dff-cf850208, Textstelle 36",
+        "source_sha256": "f521f77432b5d8449efb78fbaf4f4ba4d504726b7d22f2777223a2b77fb58026"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-paulpaula-mut",
+    "fact_key": "q3.e.paulpaula.mut",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Paula ist für die Liebe bereit, gesellschaftliche Konventionen zu brechen. Paul zögert in „Die Legende von Paul und Paula“. Was unterscheidet die beiden am Anfang?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wie entschlossen sie ihr bisheriges Leben für die Beziehung ändern wollen"
+      },
+      {
+        "id": "b",
+        "text": "Ob sie einander überhaupt schon getroffen haben"
+      },
+      {
+        "id": "c",
+        "text": "Ob sie in derselben Band beruflich Musik machen"
+      },
+      {
+        "id": "d",
+        "text": "Ob sie denselben Namen führen dürfen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beide verlieben sich, reagieren aber unterschiedlich auf die Folgen. Paul erkennt erst später, wie wichtig ihm Paula ist.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Die Legende von Paul und Paula",
+        "url": "https://www.filmportal.de/film/die-legende-von-paul-und-paula_ab9ce09c38b64d2f9fd96724a2a01701",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Paula ist für die Liebe bereit, gesellschaftliche Konventionen zu brechen. Paul zögert in „Die Legende von Paul und Paula“. Was unterscheidet die beiden am Anfang? Wie entschlossen sie ihr bisheriges Leben für die Beziehung ändern wollen. Beide verlieben sich, reagieren aber unterschiedlich auf die Folgen. Paul erkennt erst später, wie wichtig ihm Paula ist.",
+        "locator": "dff-ab9ce09c, Textstelle 35",
+        "source_sha256": "9152dcf4c724deed7087a764a11fe89c44073caac1bbdda637713c3c473a927c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-metropolis-oben-unten",
+    "fact_key": "q3.e.metropolis.oben.unten",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In „Metropolis“ wohnt der Herrscher hoch über der Stadt, während Arbeiter unter der Erde schuften. Welchen Unterschied macht die Architektur sichtbar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Einteilung der Stadt nach Musikgeschmack"
+      },
+      {
+        "id": "b",
+        "text": "Macht und soziale Stellung der Gruppen"
+      },
+      {
+        "id": "c",
+        "text": "Die verschiedenen Tageszeiten auf zwei Kontinenten"
+      },
+      {
+        "id": "d",
+        "text": "Den Altersunterschied zwischen Kindern und Eltern allein"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Stadtanordnung übersetzt den gesellschaftlichen Gegensatz in räumliche Höhe und Tiefe.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Metropolis",
+        "url": "https://www.filmportal.de/film/metropolis_6329d4cc9d134d2386233262b52d274d",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "In „Metropolis“ wohnt der Herrscher hoch über der Stadt, während Arbeiter unter der Erde schuften. Welchen Unterschied macht die Architektur sichtbar? Macht und soziale Stellung der Gruppen. Die Stadtanordnung übersetzt den gesellschaftlichen Gegensatz in räumliche Höhe und Tiefe.",
+        "locator": "dff-6329d4cc, Textstelle 35",
+        "source_sha256": "280e62ef9924adbd39a8f0a498e1ca7de38cd64465bbc44530c2033ee7cc0f47"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-metropolis-roboter",
+    "fact_key": "q3.e.metropolis.roboter",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Rotwang gibt dem Maschinenmenschen das Aussehen der vertrauten Arbeiterführerin Maria. Was ermöglicht die täuschende Ähnlichkeit innerhalb der Handlung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Erfinder muss die Arbeiter gar nicht mehr erreichen."
+      },
+      {
+        "id": "b",
+        "text": "Die echte Maria verliert dadurch automatisch ihr Gedächtnis."
+      },
+      {
+        "id": "c",
+        "text": "Die Arbeiter können die falsche Maria für ihre Vertrauensperson halten."
+      },
+      {
+        "id": "d",
+        "text": "Der Maschinenmensch verschwindet dadurch für jedes Auge."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die falsche Maria kann gerade wegen der Verwechslung Einfluss gewinnen. Der Doppelgänger ist ein Werkzeug der Täuschung.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Metropolis",
+        "url": "https://www.filmportal.de/film/metropolis_6329d4cc9d134d2386233262b52d274d",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Rotwang gibt dem Maschinenmenschen das Aussehen der vertrauten Arbeiterführerin Maria. Was ermöglicht die täuschende Ähnlichkeit innerhalb der Handlung? Die Arbeiter können die falsche Maria für ihre Vertrauensperson halten. Die falsche Maria kann gerade wegen der Verwechslung Einfluss gewinnen. Der Doppelgänger ist ein Werkzeug der Täuschung.",
+        "locator": "dff-6329d4cc, Textstelle 35",
+        "source_sha256": "280e62ef9924adbd39a8f0a498e1ca7de38cd64465bbc44530c2033ee7cc0f47"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-sonnenallee-strasse",
+    "fact_key": "q3.e.sonnenallee.strasse",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In „Sonnenallee“ liegt das kurze Ende von Michaels Straße in Ost-Berlin, das längere im Westen. Was macht dieselbe Straße hier zum Bild für die Zeitgeschichte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Straßenname wechselt mit jedem Jahreszeitenwechsel."
+      },
+      {
+        "id": "b",
+        "text": "Michael wohnt gleichzeitig in zwei Zeitaltern."
+      },
+      {
+        "id": "c",
+        "text": "Die ganze Stadt besteht nur aus dieser einen Straße."
+      },
+      {
+        "id": "d",
+        "text": "Eine politische Grenze zerschneidet den alltäglichen Stadtraum."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Film erzählt Jugend in den Siebzigerjahren. Die Teilung ist an einem vertrauten Ort direkt erfahrbar.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Sonnenallee",
+        "url": "https://www.filmportal.de/film/sonnenallee_12b9455bf46c4831a087ac38c69a1bd5",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "In „Sonnenallee“ liegt das kurze Ende von Michaels Straße in Ost-Berlin, das längere im Westen. Was macht dieselbe Straße hier zum Bild für die Zeitgeschichte? Eine politische Grenze zerschneidet den alltäglichen Stadtraum. Der Film erzählt Jugend in den Siebzigerjahren. Die Teilung ist an einem vertrauten Ort direkt erfahrbar.",
+        "locator": "dff-12b9455b, Textstelle 35",
+        "source_sha256": "0b6ecfcd7412f385eeca35478889bc81008a376dd0ccd9985227b2a136d12a2c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-muenchhausen-portrait",
+    "fact_key": "q3.e.muenchhausen.portrait",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "In „Münchhausen“ gleicht der Gastgeber täuschend einem Mann auf einem zweihundert Jahre alten Bild. Dann erzählt er dessen Abenteuer als die eigenen. Welche Grenze verschwimmt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die zwischen seiner Gegenwart und der Vergangenheit des Porträts"
+      },
+      {
+        "id": "b",
+        "text": "Die zwischen Stummfilm und Dokumentarbericht über die Dreharbeiten"
+      },
+      {
+        "id": "c",
+        "text": "Die zwischen zwei nacheinander spielenden Orchestern"
+      },
+      {
+        "id": "d",
+        "text": "Die zwischen einem gemalten Haus und seinem Bauplan"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Lebensbeichte verbindet Vergangenheit und Gegenwart. Die fantastische Erzählung spielt bewusst mit der scheinbar unmöglichen Identität.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Münchhausen",
+        "url": "https://www.filmportal.de/film/muenchhausen_f827ffaac9804d95a321338fab25323b",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "In „Münchhausen“ gleicht der Gastgeber täuschend einem Mann auf einem zweihundert Jahre alten Bild. Dann erzählt er dessen Abenteuer als die eigenen. Welche Grenze verschwimmt? Die zwischen seiner Gegenwart und der Vergangenheit des Porträts. Die Lebensbeichte verbindet Vergangenheit und Gegenwart. Die fantastische Erzählung spielt bewusst mit der scheinbar unmöglichen Identität.",
+        "locator": "dff-f827ffaa, Textstelle 36",
+        "source_sha256": "5e472d466ef063a76f13c37806a1ab5d64f868ea3286a815624107a8e3cce708"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-klassenzimmer-stueck",
+    "fact_key": "q3.e.klassenzimmer.stueck",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Die Schüler aus „Das fliegende Klassenzimmer“ proben zur Weihnachtsfeier ein gleichnamiges Stück. Was würde im Film das Wort „Premiere“ dieser Schüler meinen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Beginn der ersten Ferienfreizeit"
+      },
+      {
+        "id": "b",
+        "text": "Die erste Aufführung ihres Spiels vor Publikum"
+      },
+      {
+        "id": "c",
+        "text": "Den Kinostart des gesamten Films selbst"
+      },
+      {
+        "id": "d",
+        "text": "Die Einschulung des Klassenlehrers"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Film enthält ein Spiel im Spiel. Die Aufführung der Schüler gehört zur erzählten Handlung.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Das fliegende Klassenzimmer",
+        "url": "https://www.filmportal.de/film/das-fliegende-klassenzimmer_9cb1b0564f12486fa383696b6fb408a7",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Die Schüler aus „Das fliegende Klassenzimmer“ proben zur Weihnachtsfeier ein gleichnamiges Stück. Was würde im Film das Wort „Premiere“ dieser Schüler meinen? Die erste Aufführung ihres Spiels vor Publikum. Der Film enthält ein Spiel im Spiel. Die Aufführung der Schüler gehört zur erzählten Handlung.",
+        "locator": "dff-9cb1b056, Textstelle 35",
+        "source_sha256": "0e7d06f785d30bcdd13d9a31df914f75da83d727234fdb91b48457177b4bd065"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-nichtraucher-ort",
+    "fact_key": "q3.e.nichtraucher.ort",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Kästners „Nichtraucher“ lebt in einem ausrangierten Abteil. Woher hat dieser Ratgeber der Schüler seinen Spitznamen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Von einem von ihm geleiteten Verein gegen das Rauchen"
+      },
+      {
+        "id": "b",
+        "text": "Von seiner früheren Aufgabe als Aufseher im Speisewagen"
+      },
+      {
+        "id": "c",
+        "text": "Von der Kennzeichnung an seinem ungewöhnlichen Zuhause"
+      },
+      {
+        "id": "d",
+        "text": "Von seinem früheren Beruf als Schornsteinfeger"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der Mann wohnt in einem Eisenbahn-Nichtraucherwaggon. Sein Spitzname leitet sich von diesem Ort ab.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Das fliegende Klassenzimmer",
+        "url": "https://www.filmportal.de/film/das-fliegende-klassenzimmer_9cb1b0564f12486fa383696b6fb408a7",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Kästners „Nichtraucher“ lebt in einem ausrangierten Abteil. Woher hat dieser Ratgeber der Schüler seinen Spitznamen? Von der Kennzeichnung an seinem ungewöhnlichen Zuhause. Der Mann wohnt in einem Eisenbahn-Nichtraucherwaggon. Sein Spitzname leitet sich von diesem Ort ab.",
+        "locator": "dff-9cb1b056, Textstelle 35",
+        "source_sha256": "0e7d06f785d30bcdd13d9a31df914f75da83d727234fdb91b48457177b4bd065"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-mertens-gericht",
+    "fact_key": "q3.e.mertens.gericht",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "In „Die Mörder sind unter uns“ verhindert Susanne, dass der Kriegsveteran Mertens selbst über einen früheren Vorgesetzten richtet. Wofür entscheidet sie sich damit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für die Abschaffung jeder Untersuchung"
+      },
+      {
+        "id": "b",
+        "text": "Für eine Entscheidung durch ein privates Losverfahren"
+      },
+      {
+        "id": "c",
+        "text": "Für die automatische Begnadigung aller Beteiligten"
+      },
+      {
+        "id": "d",
+        "text": "Für die Verfolgung der Tat vor Gericht"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Susanne widerspricht der Selbstjustiz. Der Verantwortliche soll sich einem ordentlichen Verfahren stellen.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Die Mörder sind unter uns",
+        "url": "https://www.filmportal.de/film/die-moerder-sind-unter-uns_c4027774179645dd8559faed40e14888",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "In „Die Mörder sind unter uns“ verhindert Susanne, dass der Kriegsveteran Mertens selbst über einen früheren Vorgesetzten richtet. Wofür entscheidet sie sich damit? Für die Verfolgung der Tat vor Gericht. Susanne widerspricht der Selbstjustiz. Der Verantwortliche soll sich einem ordentlichen Verfahren stellen.",
+        "locator": "dff-c4027774, Textstelle 35",
+        "source_sha256": "67bbdcc82a32b89f264c5ddc94ab197f227525612838ddba2d8954a5a5b56b2e"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-bruecke-antikrieg",
+    "fact_key": "q3.e.bruecke.antikrieg",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In Wickis „Die Brücke“ erhalten minderjährige Jungen in den letzten Kriegstagen einen sinnlosen Auftrag. Warum wirkt das Geschehen als Anklage gegen den Krieg?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Leben der Jungen wird einem bedeutungslosen Ziel geopfert."
+      },
+      {
+        "id": "b",
+        "text": "Der Film verspricht ihnen am Ende eine glänzende Laufbahn."
+      },
+      {
+        "id": "c",
+        "text": "Der Auftrag beendet den Krieg noch vor seinem Beginn."
+      },
+      {
+        "id": "d",
+        "text": "Die Jungen können ohne jeden Zwang zu Hause bleiben."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Sieben Schüler werden in die Verteidigung einer Brücke geschickt. Nur einer von ihnen überlebt.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Die Brücke",
+        "url": "https://www.filmportal.de/film/die-bruecke_d95608dd6f364a63a5e5b10368d29eea",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "In Wickis „Die Brücke“ erhalten minderjährige Jungen in den letzten Kriegstagen einen sinnlosen Auftrag. Warum wirkt das Geschehen als Anklage gegen den Krieg? Das Leben der Jungen wird einem bedeutungslosen Ziel geopfert. Sieben Schüler werden in die Verteidigung einer Brücke geschickt. Nur einer von ihnen überlebt.",
+        "locator": "dff-d95608dd, Textstelle 35",
+        "source_sha256": "d00287d8fab5c773c6dec796ac36c51db9ddc7f942a1e209538f324be5e9b608"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-emil-gruppe",
+    "fact_key": "q3.e.emil.gruppe",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Emil möchte in Berlin den Taschendieb verfolgen und zugleich andere warnen. Welche Möglichkeit gewinnt er bei Kästner durch Gustavs Kindergruppe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Gruppe verliert das gemeinsame Ziel sofort aus den Augen."
+      },
+      {
+        "id": "b",
+        "text": "Mehrere Kinder können beobachten und sich gegenseitig verständigen."
+      },
+      {
+        "id": "c",
+        "text": "Eine einzelne Person muss nun jeden Weg gleichzeitig überwachen."
+      },
+      {
+        "id": "d",
+        "text": "Emil kann nur noch abwarten, bis der Dieb von selbst kommt."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Immer mehr Kinder schließen sich der Verfolgung an. Ihr Zusammenhalt hilft, Grundeis zu stellen.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Emil und die Detektive",
+        "url": "https://www.filmportal.de/film/emil-und-die-detektive_a4a93cce49f1495286c19073e0b27c67",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Emil möchte in Berlin den Taschendieb verfolgen und zugleich andere warnen. Welche Möglichkeit gewinnt er bei Kästner durch Gustavs Kindergruppe? Mehrere Kinder können beobachten und sich gegenseitig verständigen. Immer mehr Kinder schließen sich der Verfolgung an. Ihr Zusammenhalt hilft, Grundeis zu stellen.",
+        "locator": "dff-a4a93cce, Textstelle 35",
+        "source_sha256": "6c0911d72450c5a5383fd97deab98e637921a887fb6573d588ce2707aae22ecd"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-emil-zwei-summen",
+    "fact_key": "q3.e.emil.zwei.summen",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Im frühen „Emil und die Detektive“ werden 140 Mark gestohlen, für die Ergreifung des Diebs sind 100 Mark Belohnung ausgesetzt. Wie groß ist der Unterschied?",
+    "options": [
+      {
+        "id": "a",
+        "text": "140 Mark"
+      },
+      {
+        "id": "b",
+        "text": "240 Mark"
+      },
+      {
+        "id": "c",
+        "text": "40 Mark"
+      },
+      {
+        "id": "d",
+        "text": "100 Mark"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Belohnung ist vierzig Mark niedriger als der gestohlene Betrag. Die beiden Summen haben in der Geschichte ganz verschiedene Bedeutungen.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Emil und die Detektive",
+        "url": "https://www.filmportal.de/film/emil-und-die-detektive_a4a93cce49f1495286c19073e0b27c67",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Im frühen „Emil und die Detektive“ werden 140 Mark gestohlen, für die Ergreifung des Diebs sind 100 Mark Belohnung ausgesetzt. Wie groß ist der Unterschied? 40 Mark. Die Belohnung ist vierzig Mark niedriger als der gestohlene Betrag. Die beiden Summen haben in der Geschichte ganz verschiedene Bedeutungen.",
+        "locator": "dff-a4a93cce, Textstelle 35",
+        "source_sha256": "6c0911d72450c5a5383fd97deab98e637921a887fb6573d588ce2707aae22ecd"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-spessart-rueckkehr",
+    "fact_key": "q3.e.spessart.rueckkehr",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Franziska ist aus dem „Wirtshaus im Spessart“ entkommen. Ihr Vater weigert sich aber, die anderen freizukaufen. Welches Motiv erklärt ihre Rückkehr zum Versteck?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie wurde ohne ihr Wissen ins Wirtshaus zurückgebracht."
+      },
+      {
+        "id": "b",
+        "text": "Sie hat den Ort auf ihrer Reise noch nie gesehen."
+      },
+      {
+        "id": "c",
+        "text": "Sie möchte erst jetzt zum ersten Mal ihren Vater kennenlernen."
+      },
+      {
+        "id": "d",
+        "text": "Sie will die zurückgebliebenen Geiseln nicht im Stich lassen."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Weigerung ihres Vaters ändert ihre Entscheidung. Der Film stellt ihre Eigeninitiative der Haltung ihres Vaters gegenüber.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Das Wirtshaus im Spessart",
+        "url": "https://www.filmportal.de/film/das-wirtshaus-im-spessart_2507a779b77244c4a563250903d85582",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Franziska ist aus dem „Wirtshaus im Spessart“ entkommen. Ihr Vater weigert sich aber, die anderen freizukaufen. Welches Motiv erklärt ihre Rückkehr zum Versteck? Sie will die zurückgebliebenen Geiseln nicht im Stich lassen. Die Weigerung ihres Vaters ändert ihre Entscheidung. Der Film stellt ihre Eigeninitiative der Haltung ihres Vaters gegenüber.",
+        "locator": "dff-2507a779, Textstelle 35",
+        "source_sha256": "56e2ecd1f0b0d93296b305052fa476f3c492d71aeeed8cc2fc3e4cdacf7b01d2"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-lottchen-rollenprobe",
+    "fact_key": "q3.e.lottchen.rollenprobe",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Lotte und Luise tauschen im „Doppelten Lottchen“ die Plätze. Sie sehen gleich aus, sind aber getrennt aufgewachsen. Was könnte ihren Plan trotz gleicher Gesichter verraten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Andere Alltagsroutinen und Lücken bei gemeinsamen Erinnerungen"
+      },
+      {
+        "id": "b",
+        "text": "Unterschiedliche Geburtsdaten in den Pässen"
+      },
+      {
+        "id": "c",
+        "text": "Ein deutlich verschiedener Entwicklungsstand wegen ihres Alters"
+      },
+      {
+        "id": "d",
+        "text": "Der jeweilige Geburtsort auf den Ausweisen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Aussehen ermöglicht den Tausch. Ihr unterschiedliches bisheriges Leben macht es schwer, die jeweilige Schwester im Alltag nachzuahmen.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Das doppelte Lottchen",
+        "url": "https://www.filmportal.de/film/das-doppelte-lottchen_8f753435968d41d88449ba1515d1b8d6",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Lotte und Luise tauschen im „Doppelten Lottchen“ die Plätze. Sie sehen gleich aus, sind aber getrennt aufgewachsen. Was könnte ihren Plan trotz gleicher Gesichter verraten? Andere Alltagsroutinen und Lücken bei gemeinsamen Erinnerungen. Das Aussehen ermöglicht den Tausch. Ihr unterschiedliches bisheriges Leben macht es schwer, die jeweilige Schwester im Alltag nachzuahmen.",
+        "locator": "dff-8f753435, Textstelle 35",
+        "source_sha256": "c4236f7b276de90af3bae1d7f45444321d32e3bfe4563432a93c8dd1bd12f126"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-pandora-vorlage",
+    "fact_key": "q3.e.pandora.vorlage",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Pabsts Stummfilm „Die Büchse der Pandora“ greift „Erdgeist“ von 1898 und ein zweites Drama von 1903 auf. In welcher Richtung verlief hier der Medienwechsel?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vom Schallplattenkonzert zum Zeitungsfoto"
+      },
+      {
+        "id": "b",
+        "text": "Von Bühnenstücken zum Kinofilm"
+      },
+      {
+        "id": "c",
+        "text": "Vom Kinofilm zum älteren Bühnenstück"
+      },
+      {
+        "id": "d",
+        "text": "Von einer Fernsehserie zum Hörspiel"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die beiden Wedekind-Dramen waren Vorlagen. Der Film verband die Stoffe später zu einer eigenen Erzählung.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Die Büchse der Pandora",
+        "url": "https://www.filmportal.de/film/die-buechse-der-pandora_b7a60db8b98246c9b4538fdaff7e00c3",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Pabsts Stummfilm „Die Büchse der Pandora“ greift „Erdgeist“ von 1898 und ein zweites Drama von 1903 auf. In welcher Richtung verlief hier der Medienwechsel? Von Bühnenstücken zum Kinofilm. Die beiden Wedekind-Dramen waren Vorlagen. Der Film verband die Stoffe später zu einer eigenen Erzählung.",
+        "locator": "dff-b7a60db8, Textstelle 35",
+        "source_sha256": "f4736cb693ad8868d5859500d4ca6171c4cf6b0cbd66854ec79f9650badfd5bb"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-koepenick-befehl",
+    "fact_key": "q3.e.koepenick.befehl",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Voigt ist Schuster, doch Soldaten folgen ihm als vermeintlichem Hauptmann. Was macht beim „Hauptmann von Köpenick“ seine Täuschung gesellschaftlich glaubhaft?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Bürgermeister stellt ihn persönlich als Nachfolger vor."
+      },
+      {
+        "id": "b",
+        "text": "Alle Beteiligten kennen seinen Beruf und spielen absichtlich mit."
+      },
+      {
+        "id": "c",
+        "text": "Die Uniform gilt den anderen als Zeichen rechtmäßiger Autorität."
+      },
+      {
+        "id": "d",
+        "text": "Er zeigt allen seinen gültigen Ernennungsbescheid."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Voigt nutzt die Bereitschaft aus, einer Uniform zu gehorchen. Die Verwechslung richtet den Blick auf Autoritätsgläubigkeit.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Der Hauptmann von Köpenick",
+        "url": "https://www.filmportal.de/film/der-hauptmann-von-koepenick_b16420e449524894894d24ab7bb193bd",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Voigt ist Schuster, doch Soldaten folgen ihm als vermeintlichem Hauptmann. Was macht beim „Hauptmann von Köpenick“ seine Täuschung gesellschaftlich glaubhaft? Die Uniform gilt den anderen als Zeichen rechtmäßiger Autorität. Voigt nutzt die Bereitschaft aus, einer Uniform zu gehorchen. Die Verwechslung richtet den Blick auf Autoritätsgläubigkeit.",
+        "locator": "dff-b16420e4, Textstelle 35",
+        "source_sha256": "6aba64fbdc133408c346f3cf99dc78d3f42e184afe8917fe1bc69804de495580"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-kopenick-passstelle",
+    "fact_key": "q3.e.kopenick.passstelle",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Voigt verschafft sich als falscher Hauptmann Zugang zum Rathaus von Köpenick, um einen Pass zu bekommen. Welche Frage hätte er vorher zur Zuständigkeit klären müssen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Muss man dort im eigenen Stadtteil wohnen?"
+      },
+      {
+        "id": "b",
+        "text": "Ist dort für Militärangehörige ein anderes Amt zuständig?"
+      },
+      {
+        "id": "c",
+        "text": "Werden dort lediglich schon ausgestellte Pässe verlängert?"
+      },
+      {
+        "id": "d",
+        "text": "Gibt es dort überhaupt eine Pass-Stelle?"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die amtliche Zuständigkeit durchkreuzt die Täuschung. Damit richtet sich die Komik auch auf die Bürokratie.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Der Hauptmann von Köpenick",
+        "url": "https://www.filmportal.de/film/der-hauptmann-von-koepenick_942f194c023c426ca5772a2ddcce7d4c",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Voigt verschafft sich als falscher Hauptmann Zugang zum Rathaus von Köpenick, um einen Pass zu bekommen. Welche Frage hätte er vorher zur Zuständigkeit klären müssen? Gibt es dort überhaupt eine Pass-Stelle?. Die amtliche Zuständigkeit durchkreuzt die Täuschung. Damit richtet sich die Komik auch auf die Bürokratie.",
+        "locator": "dff-942f194c, Textstelle 35",
+        "source_sha256": "d3858130f2b7bdab36dbfaf4a615b786eba0c9be8df9507db0dbbd9f2668cfca"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-spielfilm-zeitsprung",
+    "fact_key": "q3.e.spielfilm.zeitsprung",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "„Lola rennt“ zeigt kurz, was später aus zufällig getroffenen Nebenfiguren werden könnte. Welche Zeitrichtung hat ein solcher filmischer Vorgriff?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er springt aus dem gegenwärtigen Geschehen in eine mögliche Zukunft."
+      },
+      {
+        "id": "b",
+        "text": "Er erinnert ausschließlich an ein früheres Treffen."
+      },
+      {
+        "id": "c",
+        "text": "Er hält die gesamte Handlung für ein realistisches Interview an."
+      },
+      {
+        "id": "d",
+        "text": "Er zeigt immer dieselbe Sekunde aus einer zweiten Kamera."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die kurzen Bildfolgen deuten spätere Lebensverläufe an. Kleine Begegnungen werden dabei zu möglichen Wendepunkten.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Lola rennt",
+        "url": "https://www.filmportal.de/film/lola-rennt_5eaa6761762f44d6bbc15718c87b9795",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "„Lola rennt“ zeigt kurz, was später aus zufällig getroffenen Nebenfiguren werden könnte. Welche Zeitrichtung hat ein solcher filmischer Vorgriff? Er springt aus dem gegenwärtigen Geschehen in eine mögliche Zukunft. Die kurzen Bildfolgen deuten spätere Lebensverläufe an. Kleine Begegnungen werden dabei zu möglichen Wendepunkten.",
+        "locator": "lola, Textstelle 36",
+        "source_sha256": "b75e80140860a10e76e56bb455d1fbacf1baaa9c4478a5035570a92e59c0a1de"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-gleiches-buch-neuverfilmung",
+    "fact_key": "q3.e.gleiches.buch.neuverfilmung",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Der frühe und ein späterer „Emil“-Film erzählen beide gestohlenes Geld im Zug, unterscheiden sich aber in Emils Familie. Was folgt aus diesem Vergleich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur eine Fassung darf überhaupt eine Zugfahrt zeigen."
+      },
+      {
+        "id": "b",
+        "text": "Ein Grundmotiv bleibt, andere Teile der Handlung können sich ändern."
+      },
+      {
+        "id": "c",
+        "text": "Beide Versionen müssen deshalb dasselbe gedrehte Material verwenden."
+      },
+      {
+        "id": "d",
+        "text": "Ein gemeinsamer Romantitel schließt jede Änderung an Figuren aus."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der frühe Film folgt Emil mit dem Geld für seine Großmutter. Die spätere Fassung erzählt unter anderem von seinem Vater nach einem Unfall.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Emil und die Detektive",
+        "url": "https://www.filmportal.de/film/emil-und-die-detektive_a4a93cce49f1495286c19073e0b27c67",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Der frühe und ein späterer „Emil“-Film erzählen beide gestohlenes Geld im Zug, unterscheiden sich aber in Emils Familie. Was folgt aus diesem Vergleich? Ein Grundmotiv bleibt, andere Teile der Handlung können sich ändern. Der frühe Film folgt Emil mit dem Geld für seine Großmutter. Die spätere Fassung erzählt unter anderem von seinem Vater nach einem Unfall.",
+        "locator": "dff-a4a93cce, Textstelle 35",
+        "source_sha256": "6c0911d72450c5a5383fd97deab98e637921a887fb6573d588ce2707aae22ecd"
+      },
+      {
+        "id": "s2",
+        "title": "DFF – Deutsches Filminstitut · Emil und die Detektive",
+        "url": "https://www.filmportal.de/film/emil-und-die-detektive_686b824a109048fb950239c26d6577b5",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Der frühe und ein späterer „Emil“-Film erzählen beide gestohlenes Geld im Zug, unterscheiden sich aber in Emils Familie. Was folgt aus diesem Vergleich? Ein Grundmotiv bleibt, andere Teile der Handlung können sich ändern. Der frühe Film folgt Emil mit dem Geld für seine Großmutter. Die spätere Fassung erzählt unter anderem von seinem Vater nach einem Unfall.",
+        "locator": "dff-686b824a, Textstelle 35",
+        "source_sha256": "768de84db01ad52978e91cad6915fd01a77353516f2a6d5b4ad63afaddc9e111"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-muenchhausen-rahmen",
+    "fact_key": "q3.e.muenchhausen.rahmen",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Ein Fest der Filmgegenwart gibt Münchhausen den Anlass, frühere Abenteuer zu erzählen. Was unterscheidet das Fest von den Abenteuern im Aufbau der Geschichte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es ist eine Szene aus den Dreharbeiten ohne Rollenfiguren."
+      },
+      {
+        "id": "b",
+        "text": "Es ist allein ein schriftlicher Vorspann ohne Handlung."
+      },
+      {
+        "id": "c",
+        "text": "Es bildet den Erzählrahmen, aus dem die Rückblicke beginnen."
+      },
+      {
+        "id": "d",
+        "text": "Es ist immer das letzte Abenteuer innerhalb der Lebensbeichte."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Rahmenszene führt zum Erzählen. Darin können Erlebnisse aus ganz anderen Zeiten geschildert werden.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "DFF – Deutsches Filminstitut · Münchhausen",
+        "url": "https://www.filmportal.de/film/muenchhausen_f827ffaac9804d95a321338fab25323b",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Ein Fest der Filmgegenwart gibt Münchhausen den Anlass, frühere Abenteuer zu erzählen. Was unterscheidet das Fest von den Abenteuern im Aufbau der Geschichte? Es bildet den Erzählrahmen, aus dem die Rückblicke beginnen. Die Rahmenszene führt zum Erzählen. Darin können Erlebnisse aus ganz anderen Zeiten geschildert werden.",
+        "locator": "dff-f827ffaa, Textstelle 36",
+        "source_sha256": "5e472d466ef063a76f13c37806a1ab5d64f868ea3286a815624107a8e3cce708"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

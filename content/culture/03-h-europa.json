@@ -1,0 +1,1950 @@
+[
+  {
+    "id": "q3-h-eu-tag",
+    "fact_key": "q3.h.eu.tag",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Am 9. Mai wehen Europafahnen. Woran erinnert das Datum, wenn die Feiern auf Robert Schuman und das Jahr 1950 verweisen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An einen Vorschlag für die Zusammenarbeit ehemaliger Gegner"
+      },
+      {
+        "id": "b",
+        "text": "An die Einführung der ersten Euro-Münzen"
+      },
+      {
+        "id": "c",
+        "text": "An die erste Direktwahl des Europäischen Parlaments"
+      },
+      {
+        "id": "d",
+        "text": "An den Beitritt Großbritanniens"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Schuman schlug an diesem Tag vor, die Kohle- und Stahlindustrie gemeinsam zu organisieren.",
+    "tags": [
+      "thema_europageschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1945-59",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1945-59_de",
+        "checked_at": "2026-11-22T21:29:58+00:00",
+        "verified_claim": "Am 9. Mai wehen Europafahnen. Woran erinnert das Datum, wenn die Feiern auf Robert Schuman und das Jahr 1950 verweisen? An einen Vorschlag für die Zusammenarbeit ehemaliger Gegner. Schuman schlug an diesem Tag vor, die Kohle- und Stahlindustrie gemeinsam zu organisieren.",
+        "locator": "eu1945-59, Textstelle 110",
+        "source_sha256": "96501e45af815bb8d734cbd44f3419fb0c4f87e9489adff73aab313158d7b883"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:58+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-menschenrecht-konvention",
+    "fact_key": "q3.h.menschenrecht.konvention",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Die Menschenrechtskonvention trat 1953 in Kraft. Welche damalige Einrichtung passt mit ihren Zielen Demokratie und Rechtsstaatlichkeit dazu?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Europäische Wirtschaftsgemeinschaft"
+      },
+      {
+        "id": "b",
+        "text": "Der Europarat"
+      },
+      {
+        "id": "c",
+        "text": "Die Europäische Atomgemeinschaft"
+      },
+      {
+        "id": "d",
+        "text": "Das nordatlantische Militärbündnis"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Zehn Länder gründeten 1949 den Europarat. In seinem Rahmen entstand die Menschenrechtskonvention.",
+    "tags": [
+      "thema_europageschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1945-59",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1945-59_de",
+        "checked_at": "2026-11-22T21:29:58+00:00",
+        "verified_claim": "Die Menschenrechtskonvention trat 1953 in Kraft. Welche damalige Einrichtung passt mit ihren Zielen Demokratie und Rechtsstaatlichkeit dazu? Der Europarat. Zehn Länder gründeten 1949 den Europarat. In seinem Rahmen entstand die Menschenrechtskonvention.",
+        "locator": "eu1945-59, Textstelle 108",
+        "source_sha256": "96501e45af815bb8d734cbd44f3419fb0c4f87e9489adff73aab313158d7b883"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:58+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-gemeinschaft-atom",
+    "fact_key": "q3.h.gemeinschaft.atom",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Als sechs Staaten 1957 auch einen Vertrag namens Euratom schlossen, für welchen Bereich vereinbarten sie gemeinsame Arbeit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für den Kohlehandel"
+      },
+      {
+        "id": "b",
+        "text": "Für die Postzustellung"
+      },
+      {
+        "id": "c",
+        "text": "Für die Atomenergie"
+      },
+      {
+        "id": "d",
+        "text": "Für den Zivilluftverkehr"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Neben der Europäischen Wirtschaftsgemeinschaft entstand die Europäische Atomgemeinschaft. Beide nahmen 1958 ihre Arbeit auf.",
+    "tags": [
+      "thema_europageschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1945-59",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1945-59_de",
+        "checked_at": "2026-11-22T21:29:58+00:00",
+        "verified_claim": "Als sechs Staaten 1957 auch einen Vertrag namens Euratom schlossen, für welchen Bereich vereinbarten sie gemeinsame Arbeit? Für die Atomenergie. Neben der Europäischen Wirtschaftsgemeinschaft entstand die Europäische Atomgemeinschaft. Beide nahmen 1958 ihre Arbeit auf.",
+        "locator": "eu1945-59, Textstelle 114",
+        "source_sha256": "96501e45af815bb8d734cbd44f3419fb0c4f87e9489adff73aab313158d7b883"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:58+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-europa-versammlung",
+    "fact_key": "q3.h.europa.versammlung",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Ein Protokoll aus Straßburg nennt 1958 noch eine „Parlamentarische Versammlung“. Welcher heute vertraute Name folgte 1962?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Europäischer Rechnungshof"
+      },
+      {
+        "id": "b",
+        "text": "Europäischer Gerichtshof"
+      },
+      {
+        "id": "c",
+        "text": "Europäische Zentralbank"
+      },
+      {
+        "id": "d",
+        "text": "Europäisches Parlament"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Versammlung trat 1958 erstmals in Straßburg zusammen. Vier Jahre später erhielt sie ihren bis heute gebräuchlichen Namen.",
+    "tags": [
+      "thema_europageschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1945-59",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1945-59_de",
+        "checked_at": "2026-11-22T21:29:58+00:00",
+        "verified_claim": "Ein Protokoll aus Straßburg nennt 1958 noch eine „Parlamentarische Versammlung“. Welcher heute vertraute Name folgte 1962? Europäisches Parlament. Die Versammlung trat 1958 erstmals in Straßburg zusammen. Vier Jahre später erhielt sie ihren bis heute gebräuchlichen Namen.",
+        "locator": "eu1945-59, Textstelle 117",
+        "source_sha256": "96501e45af815bb8d734cbd44f3419fb0c4f87e9489adff73aab313158d7b883"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:58+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-efta-alternative",
+    "fact_key": "q3.h.efta.alternative",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Norwegen und die Schweiz wollten 1960 den Handel erleichtern, gehörten aber nicht zur EWG. Wofür stand ihre gemeinsame Alternative EFTA?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für eine Freihandelszone"
+      },
+      {
+        "id": "b",
+        "text": "Für einen gemeinsamen Militärstab"
+      },
+      {
+        "id": "c",
+        "text": "Für eine gemeinsame Währung"
+      },
+      {
+        "id": "d",
+        "text": "Für einen Gerichtshof für Menschenrechte"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Europäische Freihandelsassoziation brachte Länder außerhalb der damaligen Wirtschaftsgemeinschaft zusammen.",
+    "tags": [
+      "thema_europageschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1960-69",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1960-69_de",
+        "checked_at": "2026-11-22T21:29:58+00:00",
+        "verified_claim": "Norwegen und die Schweiz wollten 1960 den Handel erleichtern, gehörten aber nicht zur EWG. Wofür stand ihre gemeinsame Alternative EFTA? Für eine Freihandelszone. Die Europäische Freihandelsassoziation brachte Länder außerhalb der damaligen Wirtschaftsgemeinschaft zusammen.",
+        "locator": "eu1960-69, Textstelle 103",
+        "source_sha256": "1844e2b3eafd49330216ea3f07dba5d84783fda392abc7816a7231b88752439d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:58+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-butterberg",
+    "fact_key": "q3.h.butterberg",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die EWG wollte Europas Lebensmittelversorgung sichern. Was bedeutete es, als Zeitungen später von „Butterbergen“ berichteten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Butterpreise wurden täglich an der Börse festgelegt."
+      },
+      {
+        "id": "b",
+        "text": "Es wurde mehr produziert als gebraucht."
+      },
+      {
+        "id": "c",
+        "text": "Im Winter reichte die Milch für den Bedarf nicht aus."
+      },
+      {
+        "id": "d",
+        "text": "Man musste Butter fast vollständig importieren."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die gemeinsame Agrarpolitik förderte die Versorgung. Die Überschüsse bei Milch und Butter wurden bald sprichwörtlich.",
+    "tags": [
+      "thema_europageschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1960-69",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1960-69_de",
+        "checked_at": "2026-11-22T21:29:58+00:00",
+        "verified_claim": "Die EWG wollte Europas Lebensmittelversorgung sichern. Was bedeutete es, als Zeitungen später von „Butterbergen“ berichteten? Es wurde mehr produziert als gebraucht. Die gemeinsame Agrarpolitik förderte die Versorgung. Die Überschüsse bei Milch und Butter wurden bald sprichwörtlich.",
+        "locator": "eu1960-69, Textstelle 107",
+        "source_sha256": "1844e2b3eafd49330216ea3f07dba5d84783fda392abc7816a7231b88752439d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:58+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-yaounde-handel",
+    "fact_key": "q3.h.yaounde.handel",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Ein Abkommen der EWG von 1963 trug den Namen der kamerunischen Hauptstadt Yaoundé. Auf welche Partnerschaft weist dieser Ort hin?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zollabbau zwischen südamerikanischen Häfen"
+      },
+      {
+        "id": "b",
+        "text": "Einen Währungsverbund mit Karibikinseln"
+      },
+      {
+        "id": "c",
+        "text": "Handel mit früheren afrikanischen Kolonien"
+      },
+      {
+        "id": "d",
+        "text": "Zusammenarbeit mit skandinavischen Werften"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Sechs EWG-Staaten schlossen das Abkommen mit 18 afrikanischen Staaten, die zuvor Kolonien gewesen waren.",
+    "tags": [
+      "thema_europageschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1960-69",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1960-69_de",
+        "checked_at": "2026-11-22T21:29:58+00:00",
+        "verified_claim": "Ein Abkommen der EWG von 1963 trug den Namen der kamerunischen Hauptstadt Yaoundé. Auf welche Partnerschaft weist dieser Ort hin? Handel mit früheren afrikanischen Kolonien. Sechs EWG-Staaten schlossen das Abkommen mit 18 afrikanischen Staaten, die zuvor Kolonien gewesen waren.",
+        "locator": "eu1960-69, Textstelle 109",
+        "source_sha256": "1844e2b3eafd49330216ea3f07dba5d84783fda392abc7816a7231b88752439d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:58+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-zollunion",
+    "fact_key": "q3.h.eu.zollunion",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1968 entfielen Zölle zwischen den sechs EWG-Ländern. Was änderte sich zugleich für den Import einer Ware von außerhalb der Gemeinschaft?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Zoll richtete sich nur nach dem Sitz des Käufers."
+      },
+      {
+        "id": "b",
+        "text": "Die Zollabfertigung war nur noch im Herkunftsland möglich."
+      },
+      {
+        "id": "c",
+        "text": "Auch alle Importe von außerhalb wurden sofort zollfrei."
+      },
+      {
+        "id": "d",
+        "text": "Für Waren aus Drittländern galt ein gemeinsamer Außenzoll."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Zollunion verband freien Warenverkehr im Inneren mit gemeinsamen Zollbestimmungen für die Außengrenze.",
+    "tags": [
+      "thema_europageschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1960-69",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1960-69_de",
+        "checked_at": "2026-11-22T21:29:58+00:00",
+        "verified_claim": "1968 entfielen Zölle zwischen den sechs EWG-Ländern. Was änderte sich zugleich für den Import einer Ware von außerhalb der Gemeinschaft? Für Waren aus Drittländern galt ein gemeinsamer Außenzoll. Die Zollunion verband freien Warenverkehr im Inneren mit gemeinsamen Zollbestimmungen für die Außengrenze.",
+        "locator": "eu1960-69, Textstelle 115",
+        "source_sha256": "1844e2b3eafd49330216ea3f07dba5d84783fda392abc7816a7231b88752439d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:58+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-erweiterung-drittel",
+    "fact_key": "q3.h.eu.erweiterung.drittel",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Die Gemeinschaft hatte vor der Erweiterung von 1973 sechs Mitglieder. Wie groß war der Zuwachs durch Dänemark, Irland und das Vereinigte Königreich ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Um die Hälfte"
+      },
+      {
+        "id": "b",
+        "text": "Um ein Zehntel"
+      },
+      {
+        "id": "c",
+        "text": "Um ein Viertel"
+      },
+      {
+        "id": "d",
+        "text": "Um das Doppelte"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Drei Beitritte erhöhten die Zahl von sechs auf neun. Drei sind die Hälfte des ursprünglichen Bestands.",
+    "tags": [
+      "thema_europageschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1970-79",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1970-79_de",
+        "checked_at": "2026-11-22T21:29:58+00:00",
+        "verified_claim": "Die Gemeinschaft hatte vor der Erweiterung von 1973 sechs Mitglieder. Wie groß war der Zuwachs durch Dänemark, Irland und das Vereinigte Königreich ungefähr? Um die Hälfte. Drei Beitritte erhöhten die Zahl von sechs auf neun. Drei sind die Hälfte des ursprünglichen Bestands.",
+        "locator": "eu1970-79, Textstelle 106",
+        "source_sha256": "18e3b4f929b2e9b2b086e019240cf2f33596c2d11229630ed06dca8853d7f0b0"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:58+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-umweltkosten",
+    "fact_key": "q3.h.eu.umweltkosten",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die Europäische Gemeinschaft führte in den 1970er-Jahren das Verursacherprinzip beim Umweltschutz ein. Wer sollte danach für einen verschmutzten Fluss aufkommen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Wasserversorger an der Quelle"
+      },
+      {
+        "id": "b",
+        "text": "Der Betrieb, der ihn verunreinigt hat"
+      },
+      {
+        "id": "c",
+        "text": "Der Staat am weitesten flussabwärts"
+      },
+      {
+        "id": "d",
+        "text": "Die Anwohner in gleichen Anteilen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Prinzip verbindet die Kosten eines Umweltschadens mit seiner Ursache. Es gehört zu den frühen Grundlagen europäischer Umweltpolitik.",
+    "tags": [
+      "thema_europageschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1970-79",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1970-79_de",
+        "checked_at": "2026-11-22T21:29:58+00:00",
+        "verified_claim": "Die Europäische Gemeinschaft führte in den 1970er-Jahren das Verursacherprinzip beim Umweltschutz ein. Wer sollte danach für einen verschmutzten Fluss aufkommen? Der Betrieb, der ihn verunreinigt hat. Das Prinzip verbindet die Kosten eines Umweltschadens mit seiner Ursache. Es gehört zu den frühen Grundlagen europäischer Umweltpolitik.",
+        "locator": "eu1970-79, Textstelle 104",
+        "source_sha256": "18e3b4f929b2e9b2b086e019240cf2f33596c2d11229630ed06dca8853d7f0b0"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:58+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-regionalfonds",
+    "fact_key": "q3.h.eu.regionalfonds",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Eine ärmere Region brauchte bessere Verkehrswege, um Arbeitsplätze anzuziehen. Welches Ziel verfolgte der neue europäische Regionalfonds in den 1970er-Jahren?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alle Firmen in die reichsten Städte verlegen"
+      },
+      {
+        "id": "b",
+        "text": "Den Warenverkehr wieder an den Grenzen abfertigen"
+      },
+      {
+        "id": "c",
+        "text": "Wirtschaftliche Unterschiede zwischen Regionen verringern"
+      },
+      {
+        "id": "d",
+        "text": "Einheitliche Fahrpreise in allen Gemeinden festsetzen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Gemeinschaft leitete Geld in wirtschaftlich schwächere Regionen. Bessere Infrastruktur sollte dort Investitionen ermöglichen.",
+    "tags": [
+      "thema_europageschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1970-79",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1970-79_de",
+        "checked_at": "2026-11-22T21:29:58+00:00",
+        "verified_claim": "Eine ärmere Region brauchte bessere Verkehrswege, um Arbeitsplätze anzuziehen. Welches Ziel verfolgte der neue europäische Regionalfonds in den 1970er-Jahren? Wirtschaftliche Unterschiede zwischen Regionen verringern. Die Gemeinschaft leitete Geld in wirtschaftlich schwächere Regionen. Bessere Infrastruktur sollte dort Investitionen ermöglichen.",
+        "locator": "eu1970-79, Textstelle 111",
+        "source_sha256": "18e3b4f929b2e9b2b086e019240cf2f33596c2d11229630ed06dca8853d7f0b0"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:58+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-iberische-demokratie",
+    "fact_key": "q3.h.eu.iberische.demokratie",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Was lag in Spanien zwischen der langen Herrschaft Francos und dem Beitritt zur Europäischen Gemeinschaft 1986?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Einführung von Euro-Bargeld"
+      },
+      {
+        "id": "b",
+        "text": "Der Fall der Berliner Mauer"
+      },
+      {
+        "id": "c",
+        "text": "Der Start des Erasmus-Programms"
+      },
+      {
+        "id": "d",
+        "text": "Der Übergang zur Demokratie"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Franco starb 1975. Der anschließende demokratische Wandel ebnete Spanien den Weg in die Gemeinschaft.",
+    "tags": [
+      "thema_europageschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1970-79",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1970-79_de",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Was lag in Spanien zwischen der langen Herrschaft Francos und dem Beitritt zur Europäischen Gemeinschaft 1986? Der Übergang zur Demokratie. Franco starb 1975. Der anschließende demokratische Wandel ebnete Spanien den Weg in die Gemeinschaft.",
+        "locator": "eu1970-79, Textstelle 113",
+        "source_sha256": "18e3b4f929b2e9b2b086e019240cf2f33596c2d11229630ed06dca8853d7f0b0"
+      },
+      {
+        "id": "s2",
+        "title": "Europäische Union · Geschichte der EU 1980-89",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1980-89_de",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Was lag in Spanien zwischen der langen Herrschaft Francos und dem Beitritt zur Europäischen Gemeinschaft 1986? Der Übergang zur Demokratie. Franco starb 1975. Der anschließende demokratische Wandel ebnete Spanien den Weg in die Gemeinschaft.",
+        "locator": "eu1980-89, Textstelle 110",
+        "source_sha256": "4214dcd90f1d5b3d24576562cc673496c445b5f6d67312906e3299e1dc828c09"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-direktwahl",
+    "fact_key": "q3.h.eu.direktwahl",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1979 war die erste Europawahl, bei der die Bürger selbst abstimmten. Wie waren die Sitze im Europäischen Parlament vorher besetzt worden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die nationalen Parlamente entsandten Abgeordnete."
+      },
+      {
+        "id": "b",
+        "text": "Es fanden Losziehungen unter Wahlberechtigten statt."
+      },
+      {
+        "id": "c",
+        "text": "Die Bürgermeister wählten aus ihrer Mitte."
+      },
+      {
+        "id": "d",
+        "text": "Die Zentralbanken beriefen die Abgeordneten."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Direktwahl veränderte, wer die europäischen Abgeordneten bestimmte. Zuvor hatten die Mitgliedsparlamente sie entsandt.",
+    "tags": [
+      "thema_europageschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1970-79",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1970-79_de",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "1979 war die erste Europawahl, bei der die Bürger selbst abstimmten. Wie waren die Sitze im Europäischen Parlament vorher besetzt worden? Die nationalen Parlamente entsandten Abgeordnete. Die Direktwahl veränderte, wer die europäischen Abgeordneten bestimmte. Zuvor hatten die Mitgliedsparlamente sie entsandt.",
+        "locator": "eu1970-79, Textstelle 115",
+        "source_sha256": "18e3b4f929b2e9b2b086e019240cf2f33596c2d11229630ed06dca8853d7f0b0"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-esprit",
+    "fact_key": "q3.h.eu.esprit",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Für das europäische Forschungsprogramm Esprit von 1984 lieferten Computer und Automatisierung den Anstoß. Welcher Betrieb hätte dazu gepasst?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Hersteller konventioneller Landmaschinen"
+      },
+      {
+        "id": "b",
+        "text": "Ein Entwickler von Informationstechnik"
+      },
+      {
+        "id": "c",
+        "text": "Eine Baufirma für regionale Landstraßen"
+      },
+      {
+        "id": "d",
+        "text": "Eine Werft für neue Fischereiboote"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Esprit gehörte zu den frühen europäischen Forschungsprogrammen. Es reagierte auf den Wandel der Arbeitswelt durch Computertechnik.",
+    "tags": [
+      "thema_europageschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1980-89",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1980-89_de",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Für das europäische Forschungsprogramm Esprit von 1984 lieferten Computer und Automatisierung den Anstoß. Welcher Betrieb hätte dazu gepasst? Ein Entwickler von Informationstechnik. Esprit gehörte zu den frühen europäischen Forschungsprogrammen. Es reagierte auf den Wandel der Arbeitswelt durch Computertechnik.",
+        "locator": "eu1980-89, Textstelle 108",
+        "source_sha256": "4214dcd90f1d5b3d24576562cc673496c445b5f6d67312906e3299e1dc828c09"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-erasmus",
+    "fact_key": "q3.h.eu.erasmus",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Eine Studentin wollte 1988 ein Semester in einem anderen europäischen Land verbringen. Welches gerade gestartete Programm passte zu ihrem Vorhaben?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schengen"
+      },
+      {
+        "id": "b",
+        "text": "Esprit"
+      },
+      {
+        "id": "c",
+        "text": "Erasmus"
+      },
+      {
+        "id": "d",
+        "text": "Euratom"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Erasmus startete 1987, um Studienaufenthalte an Hochschulen in anderen europäischen Ländern zu fördern.",
+    "tags": [
+      "thema_europageschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1980-89",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1980-89_de",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Eine Studentin wollte 1988 ein Semester in einem anderen europäischen Land verbringen. Welches gerade gestartete Programm passte zu ihrem Vorhaben? Erasmus. Erasmus startete 1987, um Studienaufenthalte an Hochschulen in anderen europäischen Ländern zu fördern.",
+        "locator": "eu1980-89, Textstelle 115",
+        "source_sha256": "4214dcd90f1d5b3d24576562cc673496c445b5f6d67312906e3299e1dc828c09"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-binnenmarkt-normen",
+    "fact_key": "q3.h.eu.binnenmarkt.normen",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Zölle innerhalb der EWG waren längst abgeschafft. Warum stieß der Handel in den 1980er-Jahren trotzdem an Grenzen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die sechs Gründer hatten nur eine gemeinsame Währung erlaubt."
+      },
+      {
+        "id": "b",
+        "text": "Jeder Grenzübergang war für Lastwagen gesperrt."
+      },
+      {
+        "id": "c",
+        "text": "Es gab noch keine gemeinsame europäische Flagge."
+      },
+      {
+        "id": "d",
+        "text": "Die Rechtsvorschriften unterschieden sich von Land zu Land."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Einheitliche Europäische Akte sollte Unterschiede im nationalen Recht verringern. Zollfreiheit allein schuf noch keinen Binnenmarkt.",
+    "tags": [
+      "thema_europageschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1980-89",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1980-89_de",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Zölle innerhalb der EWG waren längst abgeschafft. Warum stieß der Handel in den 1980er-Jahren trotzdem an Grenzen? Die Rechtsvorschriften unterschieden sich von Land zu Land. Die Einheitliche Europäische Akte sollte Unterschiede im nationalen Recht verringern. Zollfreiheit allein schuf noch keinen Binnenmarkt.",
+        "locator": "eu1980-89, Textstelle 113",
+        "source_sha256": "4214dcd90f1d5b3d24576562cc673496c445b5f6d67312906e3299e1dc828c09"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-dienstleistung",
+    "fact_key": "q3.h.eu.dienstleistung",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Eine italienische Übersetzerin nimmt für einen Kunden in Frankreich einen Auftrag an. Welche der vier Freiheiten des Binnenmarkts nutzt sie damit unmittelbar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den freien Dienstleistungsverkehr"
+      },
+      {
+        "id": "b",
+        "text": "Den freien Warenverkehr"
+      },
+      {
+        "id": "c",
+        "text": "Den freien Kapitalverkehr"
+      },
+      {
+        "id": "d",
+        "text": "Die Freizügigkeit beim Wohnortwechsel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Seit 1993 gehört der Austausch von Dienstleistungen ausdrücklich zu den vier Freiheiten des europäischen Binnenmarkts.",
+    "tags": [
+      "thema_europageschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1990-99",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1990-99_de",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Eine italienische Übersetzerin nimmt für einen Kunden in Frankreich einen Auftrag an. Welche der vier Freiheiten des Binnenmarkts nutzt sie damit unmittelbar? Den freien Dienstleistungsverkehr. Seit 1993 gehört der Austausch von Dienstleistungen ausdrücklich zu den vier Freiheiten des europäischen Binnenmarkts.",
+        "locator": "eu1990-99, Textstelle 108",
+        "source_sha256": "daeddd86ecaa3778e153055e06b5f15fb850c2e0f1d877c43c2b48e13a5b5b0c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-geld-buch",
+    "fact_key": "q3.h.eu.geld.buch",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Auf einem Kontoauszug von 1999 kann bereits ein Euro-Betrag stehen. Was bedeutete das damals für den Einkauf mit Bargeld in Deutschland?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bargeld war in dieser Übergangszeit abgeschafft."
+      },
+      {
+        "id": "b",
+        "text": "Im Portemonnaie blieben zunächst Mark und Pfennig."
+      },
+      {
+        "id": "c",
+        "text": "Nur Euro-Münzen, noch keine Scheine, waren erhältlich."
+      },
+      {
+        "id": "d",
+        "text": "Euro-Scheine galten schon, Münzen noch nicht."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Euro startete als Buchwährung. Erst später kamen die gemeinsamen Banknoten und Münzen in Umlauf.",
+    "tags": [
+      "thema_europageschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 1990-99",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/1990-99_de",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Auf einem Kontoauszug von 1999 kann bereits ein Euro-Betrag stehen. Was bedeutete das damals für den Einkauf mit Bargeld in Deutschland? Im Portemonnaie blieben zunächst Mark und Pfennig. Der Euro startete als Buchwährung. Erst später kamen die gemeinsamen Banknoten und Münzen in Umlauf.",
+        "locator": "eu1990-99, Textstelle 119",
+        "source_sha256": "daeddd86ecaa3778e153055e06b5f15fb850c2e0f1d877c43c2b48e13a5b5b0c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-muenzen-zwei-seiten",
+    "fact_key": "q3.h.eu.muenzen.zwei.seiten",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Zwei Euro-Münzen aus verschiedenen Ausgabeländern wirken beim Umdrehen einmal gleich, einmal verschieden. Was war bei der Einführung so geplant?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gleiche Motive auf beiden Seiten in allen Ländern"
+      },
+      {
+        "id": "b",
+        "text": "Unter jedem Motiv ein anderer Wechselkurs"
+      },
+      {
+        "id": "c",
+        "text": "Eine gemeinsame und eine nationale Münzseite"
+      },
+      {
+        "id": "d",
+        "text": "Eine Vorderseite nur für Banken und eine für Geschäfte"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die gemeinsame Seite verbindet die Münzen, die nationale Seite unterscheidet ihre Herkunft. Die Banknoten waren für alle Länder gleich.",
+    "tags": [
+      "thema_europageschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 2000-09",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/2000-09_de",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Zwei Euro-Münzen aus verschiedenen Ausgabeländern wirken beim Umdrehen einmal gleich, einmal verschieden. Was war bei der Einführung so geplant? Eine gemeinsame und eine nationale Münzseite. Die gemeinsame Seite verbindet die Münzen, die nationale Seite unterscheidet ihre Herkunft. Die Banknoten waren für alle Länder gleich.",
+        "locator": "eu2000-09, Textstelle 107",
+        "source_sha256": "656c5d7fc707d9ee84cc5133e2440c74fc46bb42f1abdeeb6989e7d79f5481ef"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-erweiterung-inseln",
+    "fact_key": "q3.h.eu.erweiterung.inseln",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Zehn Länder traten der EU 2004 bei. Welche beiden Mittelmeerinseln ergänzten dabei die acht Beitrittsländer aus Mittel- und Osteuropa?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kreta und Rhodos"
+      },
+      {
+        "id": "b",
+        "text": "Sardinien und Sizilien"
+      },
+      {
+        "id": "c",
+        "text": "Mallorca und Menorca"
+      },
+      {
+        "id": "d",
+        "text": "Malta und Zypern"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Malta und Zypern traten als eigenständige Staaten bei. Zu den weiteren neuen Mitgliedern gehörten etwa Polen und Ungarn.",
+    "tags": [
+      "thema_europageschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 2000-09",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/2000-09_de",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Zehn Länder traten der EU 2004 bei. Welche beiden Mittelmeerinseln ergänzten dabei die acht Beitrittsländer aus Mittel- und Osteuropa? Malta und Zypern. Malta und Zypern traten als eigenständige Staaten bei. Zu den weiteren neuen Mitgliedern gehörten etwa Polen und Ungarn.",
+        "locator": "eu2000-09, Textstelle 111",
+        "source_sha256": "656c5d7fc707d9ee84cc5133e2440c74fc46bb42f1abdeeb6989e7d79f5481ef"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-verfassung",
+    "fact_key": "q3.h.eu.verfassung",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Die europäische Verfassung brauchte die Zustimmung jedes Mitglieds. Was bedeutete 2005 das Nein in Frankreich und den Niederlanden für den unterzeichneten Text?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er konnte in dieser Form nicht in Kraft treten."
+      },
+      {
+        "id": "b",
+        "text": "Er galt automatisch in allen zustimmenden Ländern."
+      },
+      {
+        "id": "c",
+        "text": "Er trat nach einer festen Wartefrist trotzdem in Kraft."
+      },
+      {
+        "id": "d",
+        "text": "Er konnte unmittelbar durch die Zentralbank bestätigt werden."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Volksabstimmungen 2005 brachten in beiden Ländern ein Nein. Die Unterschrift der Regierungen allein genügte somit nicht.",
+    "tags": [
+      "thema_europageschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 2000-09",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/2000-09_de",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Die europäische Verfassung brauchte die Zustimmung jedes Mitglieds. Was bedeutete 2005 das Nein in Frankreich und den Niederlanden für den unterzeichneten Text? Er konnte in dieser Form nicht in Kraft treten. Die Volksabstimmungen 2005 brachten in beiden Ländern ein Nein. Die Unterschrift der Regierungen allein genügte somit nicht.",
+        "locator": "eu2000-09, Textstelle 114",
+        "source_sha256": "656c5d7fc707d9ee84cc5133e2440c74fc46bb42f1abdeeb6989e7d79f5481ef"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-hypotheken",
+    "fact_key": "q3.h.eu.hypotheken",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Als 2008 auch europäische Banken ins Straucheln kamen, lag ein Ausgangspunkt der Finanzkrise auf dem US-Immobilienmarkt. Welche Geschäfte waren betroffen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kredite zur Erntefinanzierung"
+      },
+      {
+        "id": "b",
+        "text": "Kredite für Häuser und Wohnungen"
+      },
+      {
+        "id": "c",
+        "text": "Kredite für neue Handelsschiffe"
+      },
+      {
+        "id": "d",
+        "text": "Finanzierungen von Flugzeugkäufen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Probleme mit Hypothekendarlehen in den USA griffen auf das internationale Finanzsystem über.",
+    "tags": [
+      "thema_europageschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 2000-09",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/2000-09_de",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Als 2008 auch europäische Banken ins Straucheln kamen, lag ein Ausgangspunkt der Finanzkrise auf dem US-Immobilienmarkt. Welche Geschäfte waren betroffen? Kredite für Häuser und Wohnungen. Probleme mit Hypothekendarlehen in den USA griffen auf das internationale Finanzsystem über.",
+        "locator": "eu2000-09, Textstelle 120",
+        "source_sha256": "656c5d7fc707d9ee84cc5133e2440c74fc46bb42f1abdeeb6989e7d79f5481ef"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-nobel-frieden",
+    "fact_key": "q3.h.eu.nobel.frieden",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "2012 wurde die Europäische Union selbst mit einem Nobelpreis ausgezeichnet. Welcher Beitrag stand dabei im Mittelpunkt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Entwicklung einer europäischen Literatursprache"
+      },
+      {
+        "id": "b",
+        "text": "Internationale Zusammenarbeit an einem Teilchenbeschleuniger"
+      },
+      {
+        "id": "c",
+        "text": "Versöhnung und Demokratie auf dem Kontinent"
+      },
+      {
+        "id": "d",
+        "text": "Forschung zur gemeinsamen Währung"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Begründung würdigte mehrere Jahrzehnte Arbeit für Frieden, Demokratie und Menschenrechte. Der Friedenspreis wurde in Oslo überreicht.",
+    "tags": [
+      "thema_europageschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 2010-19",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/2010-19_de",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "2012 wurde die Europäische Union selbst mit einem Nobelpreis ausgezeichnet. Welcher Beitrag stand dabei im Mittelpunkt? Versöhnung und Demokratie auf dem Kontinent. Die Begründung würdigte mehrere Jahrzehnte Arbeit für Frieden, Demokratie und Menschenrechte. Der Friedenspreis wurde in Oslo überreicht.",
+        "locator": "eu2010-19, Textstelle 105",
+        "source_sha256": "a280901067c6b7236145971a2ca62293254441ec368e7e759137ac95803eaa29"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-brexit-mehrheit",
+    "fact_key": "q3.h.eu.brexit.mehrheit",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Beim britischen Brexit-Referendum 2016 gewann die Austrittsseite. Wie deutlich fiel die Mehrheit ungefähr aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rund zwei Drittel"
+      },
+      {
+        "id": "b",
+        "text": "Rund drei Viertel"
+      },
+      {
+        "id": "c",
+        "text": "Mehr als neun Zehntel"
+      },
+      {
+        "id": "d",
+        "text": "Knapp mehr als die Hälfte"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Etwa 52 Prozent stimmten für den Austritt. Großbritannien verließ die EU erst Anfang 2020.",
+    "tags": [
+      "thema_europageschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 2010-19",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/2010-19_de",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Beim britischen Brexit-Referendum 2016 gewann die Austrittsseite. Wie deutlich fiel die Mehrheit ungefähr aus? Knapp mehr als die Hälfte. Etwa 52 Prozent stimmten für den Austritt. Großbritannien verließ die EU erst Anfang 2020.",
+        "locator": "eu2010-19, Textstelle 117",
+        "source_sha256": "a280901067c6b7236145971a2ca62293254441ec368e7e759137ac95803eaa29"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eu-paris-temperatur",
+    "fact_key": "q3.h.eu.paris.temperatur",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Das Pariser Klimaabkommen von 2015 nennt eine Temperaturgrenze für die Erderwärmung. Mit welchem Ausgangspunkt wird die Erwärmung verglichen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit dem vorindustriellen Temperaturniveau"
+      },
+      {
+        "id": "b",
+        "text": "Mit dem Wetter am Tag der Unterzeichnung"
+      },
+      {
+        "id": "c",
+        "text": "Mit der höchsten Sommertemperatur in Paris"
+      },
+      {
+        "id": "d",
+        "text": "Mit dem globalen Durchschnitt von 2015"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Abkommen soll die Erwärmung auf deutlich unter zwei Grad über dem vorindustriellen Niveau begrenzen.",
+    "tags": [
+      "thema_europageschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Europäische Union · Geschichte der EU 2010-19",
+        "url": "https://european-union.europa.eu/principles-countries-history/history-eu/2010-19_de",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Das Pariser Klimaabkommen von 2015 nennt eine Temperaturgrenze für die Erderwärmung. Mit welchem Ausgangspunkt wird die Erwärmung verglichen? Mit dem vorindustriellen Temperaturniveau. Das Abkommen soll die Erwärmung auf deutlich unter zwei Grad über dem vorindustriellen Niveau begrenzen.",
+        "locator": "eu2010-19, Textstelle 113",
+        "source_sha256": "a280901067c6b7236145971a2ca62293254441ec368e7e759137ac95803eaa29"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

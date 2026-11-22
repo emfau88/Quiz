@@ -2,6 +2,9 @@
 @font-face{font-family:Spectral;src:url('./assets/fonts/Spectral-Medium.ttf') format('truetype');font-style:normal;font-weight:500;font-display:swap}
 :root{font-family:"DM Sans",system-ui,Arial,sans-serif;color:#20382e;background:#f5f3eb;--ink:#20382e;--green:#194d40;--green-deep:#123d32;--muted:#52665a;--paper:#fffefa;--line:#d7dace;--gold:#cda55b;--serif:Spectral,Georgia,serif;color-scheme:light}
 *{box-sizing:border-box}
+.question-format{margin:0 0 .55rem;font-weight:650;color:var(--green)}
+.research-source{margin-top:.65rem;overflow-wrap:anywhere}
+.research-source a{color:var(--green-deep);text-underline-offset:.18em}
 body{margin:0;line-height:1.5;min-height:100vh;background:radial-gradient(ellipse at 72% 20%,#f4f1e7 0%,transparent 50%),#f6f5ee}
 button,input,select,textarea{font:inherit;color:inherit}
 button,summary,select,input[type=checkbox]{cursor:pointer}

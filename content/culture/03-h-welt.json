@@ -1,0 +1,2032 @@
+[
+  {
+    "id": "q3-h-algerien-entkolonisierung",
+    "fact_key": "q3.h.algerien.entkolonisierung",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Ein Schulatlas zeigte Algerien 1954 noch als französisches Gebiet. Was musste eine Neuauflage nach dem Ende des Algerienkriegs 1962 ändern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Algerien als unabhängigen Staat eintragen"
+      },
+      {
+        "id": "b",
+        "text": "Algerien als neuen Landesteil Spaniens kennzeichnen"
+      },
+      {
+        "id": "c",
+        "text": "Algier zur Hauptstadt Frankreichs machen"
+      },
+      {
+        "id": "d",
+        "text": "Die Sahara als europäischen Binnenmarkt einzeichnen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Krieg endete 1962 mit der Anerkennung der algerischen Unabhängigkeit. Damit änderte sich auch die politische Landkarte Nordafrikas.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1954",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1954.html",
+        "checked_at": "2026-11-22T21:47:07+00:00",
+        "verified_claim": "Ein Schulatlas zeigte Algerien 1954 noch als französisches Gebiet. Was musste eine Neuauflage nach dem Ende des Algerienkriegs 1962 ändern? Algerien als unabhängigen Staat eintragen. Der Krieg endete 1962 mit der Anerkennung der algerischen Unabhängigkeit. Damit änderte sich auch die politische Landkarte Nordafrikas.",
+        "locator": "lemo1954, Textstelle 153",
+        "source_sha256": "0d4596de06aaa566c89a27e71d4cfbaeeee9c297813f67f9341044aa6b40a90f"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:07+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-washington-buergerrechte",
+    "fact_key": "q3.h.washington.buergerrechte",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Beim Marsch auf Washington 1963 verlangten Schwarze Amerikaner dieselben Rechte wie weiße Mitbürger. Welches Anliegen verband sie mit Martin Luther King?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Austritt der Südstaaten aus den USA"
+      },
+      {
+        "id": "b",
+        "text": "Ein Ende der rassistischen Diskriminierung"
+      },
+      {
+        "id": "c",
+        "text": "Die Einführung einer neuen Landeswährung"
+      },
+      {
+        "id": "d",
+        "text": "Ein gesondertes Parlament nur für eine Hautfarbe"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Bürgerrechtsdemonstration machte die Forderung nach Gleichberechtigung weithin sichtbar. LeMO nennt rund 200.000 Teilnehmende.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1963",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1963.html",
+        "checked_at": "2026-11-22T21:47:07+00:00",
+        "verified_claim": "Beim Marsch auf Washington 1963 verlangten Schwarze Amerikaner dieselben Rechte wie weiße Mitbürger. Welches Anliegen verband sie mit Martin Luther King? Ein Ende der rassistischen Diskriminierung. Die Bürgerrechtsdemonstration machte die Forderung nach Gleichberechtigung weithin sichtbar. LeMO nennt rund 200.000 Teilnehmende.",
+        "locator": "lemo1963, Textstelle 128",
+        "source_sha256": "cc80cca6acb406f9b0628b44575f138f6413f2339df37feb0aecd8ddbe12676a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:07+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-indira-nehrus-tochter",
+    "fact_key": "q3.h.indira.nehrus.tochter",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Indira Gandhi wurde Indiens Premierministerin. Ihr Vater hatte dasselbe Land zuvor als Regierungschef geführt. Welcher Zeitgenosse passt dazu?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sukarno"
+      },
+      {
+        "id": "b",
+        "text": "Gamal Abdel Nasser"
+      },
+      {
+        "id": "c",
+        "text": "Jawaharlal Nehru"
+      },
+      {
+        "id": "d",
+        "text": "Mao Zedong"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der Nachname Gandhi führt hier leicht in die Irre. Indira war die Tochter des indischen Premierministers Nehru und wurde 1966 selbst Regierungschefin.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1966",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1966.html",
+        "checked_at": "2026-11-22T21:47:07+00:00",
+        "verified_claim": "Indira Gandhi wurde Indiens Premierministerin. Ihr Vater hatte dasselbe Land zuvor als Regierungschef geführt. Welcher Zeitgenosse passt dazu? Jawaharlal Nehru. Der Nachname Gandhi führt hier leicht in die Irre. Indira war die Tochter des indischen Premierministers Nehru und wurde 1966 selbst Regierungschefin.",
+        "locator": "lemo1966, Textstelle 57",
+        "source_sha256": "15389c8352a80ca9e02b5dc707ebaed25ce409a5722633ae05be8604d0dacf86"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:07+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-apartheid-alltag",
+    "fact_key": "q3.h.apartheid.alltag",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In Südafrika bestimmten Gesetze der Apartheid, wer wo wohnen und öffentliche Einrichtungen benutzen durfte. Was würde ein Foto getrennter Eingänge daran dokumentieren?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Trennung ausschließlich nach Fahrkartenklasse"
+      },
+      {
+        "id": "b",
+        "text": "Ein freiwilliges Angebot verschiedener Landessprachen"
+      },
+      {
+        "id": "c",
+        "text": "Eine bauliche Maßnahme zum Schutz vor Hochwasser"
+      },
+      {
+        "id": "d",
+        "text": "Rassistische Trennung im Alltag"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Apartheid schrieb Trennung in vielen Bereichen des Lebens fest. Getrennte Zugänge machten diese Herrschaftsordnung unmittelbar sichtbar.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1966",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1966.html",
+        "checked_at": "2026-11-22T21:47:07+00:00",
+        "verified_claim": "In Südafrika bestimmten Gesetze der Apartheid, wer wo wohnen und öffentliche Einrichtungen benutzen durfte. Was würde ein Foto getrennter Eingänge daran dokumentieren? Rassistische Trennung im Alltag. Die Apartheid schrieb Trennung in vielen Bereichen des Lebens fest. Getrennte Zugänge machten diese Herrschaftsordnung unmittelbar sichtbar.",
+        "locator": "lemo1966, Textstelle 99",
+        "source_sha256": "15389c8352a80ca9e02b5dc707ebaed25ce409a5722633ae05be8604d0dacf86"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:07+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-sport-ausschluss",
+    "fact_key": "q3.h.sport.ausschluss",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Südafrikas Staat trennte Sportler nach Hautfarbe. Wie reagierte das IOC 1970 auf den Widerspruch zwischen dieser Politik und gemeinsamen internationalen Spielen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es schloss Südafrika auf unbestimmte Zeit aus."
+      },
+      {
+        "id": "b",
+        "text": "Es verlegte die Spiele dauerhaft nach Südafrika."
+      },
+      {
+        "id": "c",
+        "text": "Es beschränkte seine Entscheidung auf Winterspiele."
+      },
+      {
+        "id": "d",
+        "text": "Es übertrug Südafrika die Leitung der Zulassungskommission."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Ausschluss war eine Reaktion auf die Apartheidpolitik. Internationale Sportbeziehungen wurden damit zu einem Mittel politischen Drucks.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1970",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1970.html",
+        "checked_at": "2026-11-22T21:47:07+00:00",
+        "verified_claim": "Südafrikas Staat trennte Sportler nach Hautfarbe. Wie reagierte das IOC 1970 auf den Widerspruch zwischen dieser Politik und gemeinsamen internationalen Spielen? Es schloss Südafrika auf unbestimmte Zeit aus. Der Ausschluss war eine Reaktion auf die Apartheidpolitik. Internationale Sportbeziehungen wurden damit zu einem Mittel politischen Drucks.",
+        "locator": "lemo1970, Textstelle 124",
+        "source_sha256": "ad4581eb620d07a6f767ec5eb8f82aa866da30cc2490fab33c4bc688ccafacde"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:07+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-bangladesch-ostpakistan",
+    "fact_key": "q3.h.bangladesch.ostpakistan",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Ein alter Atlas enthält Ostpakistan. Welchen Eintrag findet man nach der Unabhängigkeitserklärung der dortigen Bewegung 1971 an ungefähr derselben Stelle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bhutan"
+      },
+      {
+        "id": "b",
+        "text": "Bangladesch"
+      },
+      {
+        "id": "c",
+        "text": "Nepal"
+      },
+      {
+        "id": "d",
+        "text": "Sri Lanka"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Unabhängigkeitsbewegung im östlichen Landesteil rief Bangladesch aus. Westpakistan blieb als Pakistan bestehen.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1971",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1971.html",
+        "checked_at": "2026-11-22T21:47:07+00:00",
+        "verified_claim": "Ein alter Atlas enthält Ostpakistan. Welchen Eintrag findet man nach der Unabhängigkeitserklärung der dortigen Bewegung 1971 an ungefähr derselben Stelle? Bangladesch. Die Unabhängigkeitsbewegung im östlichen Landesteil rief Bangladesch aus. Westpakistan blieb als Pakistan bestehen.",
+        "locator": "lemo1971, Textstelle 94",
+        "source_sha256": "ae227cd8f1b6561c021f703a65d615a480459777ba2b71063bf33268898cd011"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:07+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-un-umwelt-1972",
+    "fact_key": "q3.h.un.umwelt.1972",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1972 trafen sich mehr als hundert Staaten in Stockholm, um über Luft, Wasser und wirksame Schutzmaßnahmen zu beraten. Welches Thema erreichte damit die UN-Weltbühne?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Grenzen nationaler Fischereigebiete"
+      },
+      {
+        "id": "b",
+        "text": "Die zivile Luftfahrt zwischen Staaten"
+      },
+      {
+        "id": "c",
+        "text": "Der internationale Umweltschutz"
+      },
+      {
+        "id": "d",
+        "text": "Ein einheitlicher Seehandelstarif"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "In Stockholm fand die erste UN-Konferenz über Umweltfragen statt. Umweltbelastungen wurden als grenzüberschreitende Aufgabe erörtert.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1972",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1972.html",
+        "checked_at": "2026-11-22T21:47:07+00:00",
+        "verified_claim": "1972 trafen sich mehr als hundert Staaten in Stockholm, um über Luft, Wasser und wirksame Schutzmaßnahmen zu beraten. Welches Thema erreichte damit die UN-Weltbühne? Der internationale Umweltschutz. In Stockholm fand die erste UN-Konferenz über Umweltfragen statt. Umweltbelastungen wurden als grenzüberschreitende Aufgabe erörtert.",
+        "locator": "lemo1972, Textstelle 135",
+        "source_sha256": "cc83d7a145d5ea469c8a689dccfd21b6e3caf081d57fbadb4fb8ce958957f798"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:07+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-deutsch-deutsch-uno",
+    "fact_key": "q3.h.deutsch.deutsch.uno",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "1973 traten in New York zwei deutsche Staaten derselben Organisation bei. Was unterschied ihre Sitze damals von Deutschlands heutiger Vertretung in der UNO?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Beide nutzten einen einzigen Sitz ohne Stimmrecht."
+      },
+      {
+        "id": "b",
+        "text": "Deutsche Delegierte saßen nur im Europarat."
+      },
+      {
+        "id": "c",
+        "text": "Die Sitze wurden von den vier Besatzungsmächten besetzt."
+      },
+      {
+        "id": "d",
+        "text": "Bundesrepublik und DDR waren getrennte Mitglieder."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Beide deutschen Staaten wurden 1973 UN-Mitglieder. Die getrennten Mitgliedschaften spiegelten die politische Teilung.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1973",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1973.html",
+        "checked_at": "2026-11-22T21:47:07+00:00",
+        "verified_claim": "1973 traten in New York zwei deutsche Staaten derselben Organisation bei. Was unterschied ihre Sitze damals von Deutschlands heutiger Vertretung in der UNO? Bundesrepublik und DDR waren getrennte Mitglieder. Beide deutschen Staaten wurden 1973 UN-Mitglieder. Die getrennten Mitgliedschaften spiegelten die politische Teilung.",
+        "locator": "lemo1973, Textstelle 149",
+        "source_sha256": "249962c4bf67bb00effce564708ce2d688d629652d142b3d2e326d91f34d12e7"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:07+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-saigon-ausgang",
+    "fact_key": "q3.h.saigon.ausgang",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Im April 1975 fiel Saigon und die Regierung Südvietnams kapitulierte. Welche Entwicklung passt zu diesem Wendepunkt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Ende des Vietnamkriegs"
+      },
+      {
+        "id": "b",
+        "text": "Die Teilung Koreas nach dem Zweiten Weltkrieg"
+      },
+      {
+        "id": "c",
+        "text": "Das Ende des französischen Indochinakriegs 1954"
+      },
+      {
+        "id": "d",
+        "text": "Der Beginn des Koreakriegs"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit der Einnahme Saigons endete der Krieg. Die bisherige Regierung im Süden verlor ihre Macht.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1975",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1975.html",
+        "checked_at": "2026-11-22T21:47:07+00:00",
+        "verified_claim": "Im April 1975 fiel Saigon und die Regierung Südvietnams kapitulierte. Welche Entwicklung passt zu diesem Wendepunkt? Das Ende des Vietnamkriegs. Mit der Einnahme Saigons endete der Krieg. Die bisherige Regierung im Süden verlor ihre Macht.",
+        "locator": "lemo1975, Textstelle 104",
+        "source_sha256": "f76ba780ede31037621da65380defbc24958d632a8134dd703922c4e7e953e47"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:07+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-charta-recht",
+    "fact_key": "q3.h.charta.recht",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Unterzeichner der „Charta 77“ erinnerten ihre Regierung an internationale Zusagen zu Menschenrechten. Welche Form des Widerspruchs wählten sie damit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie beantragten eine einheitliche Währung für den Ostblock."
+      },
+      {
+        "id": "b",
+        "text": "Sie maßen die Regierung an den eigenen Verpflichtungen."
+      },
+      {
+        "id": "c",
+        "text": "Sie forderten die Abschaffung sämtlicher internationaler Abkommen."
+      },
+      {
+        "id": "d",
+        "text": "Sie erklärten sich zur neuen Handelskammer."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Regimekritiker in der Tschechoslowakei machten staatliche Unterdrückung öffentlich. Die Berufung auf bereits zugesagte Rechte war Teil ihres Ansatzes.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1977",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1977.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Unterzeichner der „Charta 77“ erinnerten ihre Regierung an internationale Zusagen zu Menschenrechten. Welche Form des Widerspruchs wählten sie damit? Sie maßen die Regierung an den eigenen Verpflichtungen. Regimekritiker in der Tschechoslowakei machten staatliche Unterdrückung öffentlich. Die Berufung auf bereits zugesagte Rechte war Teil ihres Ansatzes.",
+        "locator": "lemo1977, Textstelle 51",
+        "source_sha256": "23ed31c93a45c5d1b1d77ce125ff3d7073b0e1f23f5a4e6f07dc4714d1773de0"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-dschibuti-atlas",
+    "fact_key": "q3.h.dschibuti.atlas",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Frankreich entließ 1977 ein Gebiet am Horn von Afrika in die Unabhängigkeit. Welcher Eintrag auf der Karte liegt dort bei der Meerenge zum Roten Meer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gabun"
+      },
+      {
+        "id": "b",
+        "text": "Elfenbeinküste"
+      },
+      {
+        "id": "c",
+        "text": "Dschibuti"
+      },
+      {
+        "id": "d",
+        "text": "Senegal"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Dschibuti war die letzte französische Kolonie in Afrika, die unabhängig wurde. Die anderen genannten Staaten liegen an der westlichen Seite des Kontinents.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1977",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1977.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Frankreich entließ 1977 ein Gebiet am Horn von Afrika in die Unabhängigkeit. Welcher Eintrag auf der Karte liegt dort bei der Meerenge zum Roten Meer? Dschibuti. Dschibuti war die letzte französische Kolonie in Afrika, die unabhängig wurde. Die anderen genannten Staaten liegen an der westlichen Seite des Kontinents.",
+        "locator": "lemo1977, Textstelle 132",
+        "source_sha256": "23ed31c93a45c5d1b1d77ce125ff3d7073b0e1f23f5a4e6f07dc4714d1773de0"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-sadat-begin",
+    "fact_key": "q3.h.sadat.begin",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "1978 wurden Ägyptens Präsident Sadat und Israels Ministerpräsident Begin gemeinsam ausgezeichnet. Welches Spannungsverhältnis erklärt gerade dieses Paar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zwei Ministerpräsidenten desselben Landes bildeten eine Koalition."
+      },
+      {
+        "id": "b",
+        "text": "Zwei Monarchen legten ihre Ämter gemeinsam nieder."
+      },
+      {
+        "id": "c",
+        "text": "Zwei NATO-Mitglieder gründeten ein neues Bündnis."
+      },
+      {
+        "id": "d",
+        "text": "Einstige Kriegsgegner bemühten sich um Frieden."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Sadat und Begin erhielten den Friedensnobelpreis für ihre Bemühungen zur Beilegung des Konflikts zwischen ihren Ländern.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1978",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1978.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "1978 wurden Ägyptens Präsident Sadat und Israels Ministerpräsident Begin gemeinsam ausgezeichnet. Welches Spannungsverhältnis erklärt gerade dieses Paar? Einstige Kriegsgegner bemühten sich um Frieden. Sadat und Begin erhielten den Friedensnobelpreis für ihre Bemühungen zur Beilegung des Konflikts zwischen ihren Ländern.",
+        "locator": "lemo1978, Textstelle 155",
+        "source_sha256": "2135c84b4e238ea51122ed6432a1cd23a06e60d2d0133976f7ac917367b3d701"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-soweto-zehn-jahre",
+    "fact_key": "q3.h.soweto.zehn.jahre",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1986 erinnerte Südafrika an zehn Jahre seit den Protesten von Soweto. In welches Jahrzehnt gehören die ursprünglichen Proteste der schwarzen Bevölkerung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In die 1970er-Jahre"
+      },
+      {
+        "id": "b",
+        "text": "In die 1950er-Jahre"
+      },
+      {
+        "id": "c",
+        "text": "In die 1960er-Jahre"
+      },
+      {
+        "id": "d",
+        "text": "In die 1980er-Jahre"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Proteste fanden 1976 in der Vorstadt von Johannesburg statt. 1986 waren die Auseinandersetzungen um die Apartheid weiter ungelöst.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1986",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1986.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "1986 erinnerte Südafrika an zehn Jahre seit den Protesten von Soweto. In welches Jahrzehnt gehören die ursprünglichen Proteste der schwarzen Bevölkerung? In die 1970er-Jahre. Die Proteste fanden 1976 in der Vorstadt von Johannesburg statt. 1986 waren die Auseinandersetzungen um die Apartheid weiter ungelöst.",
+        "locator": "lemo1986, Textstelle 155",
+        "source_sha256": "8af8f2c0b8c240efdeb110bc5cb1ad005e70dfe26eae7bdd7a6bfd5d536fe98d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-sandinisten-familie",
+    "fact_key": "q3.h.sandinisten.familie",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Die Herrschaft der Somoza-Familie endete 1979 nach 42 Jahren. In welches Jahrzehnt fällt ihr Beginn ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In die 1970er-Jahre"
+      },
+      {
+        "id": "b",
+        "text": "In die 1930er-Jahre"
+      },
+      {
+        "id": "c",
+        "text": "In die 1910er-Jahre"
+      },
+      {
+        "id": "d",
+        "text": "In die 1950er-Jahre"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Zurückgerechnet beginnt der Zeitraum um 1937. Anastasio Somoza Debayle floh 1979 aus Nicaragua.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1979",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1979.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Die Herrschaft der Somoza-Familie endete 1979 nach 42 Jahren. In welches Jahrzehnt fällt ihr Beginn ungefähr? In die 1930er-Jahre. Zurückgerechnet beginnt der Zeitraum um 1937. Anastasio Somoza Debayle floh 1979 aus Nicaragua.",
+        "locator": "lemo1979, Textstelle 153",
+        "source_sha256": "98dc6c6f0ad46c9b81cbc3324b62bd773c4320329c9939d2ecc14a4ccbdd2674"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-sinai-rueckgabe",
+    "fact_key": "q3.h.sinai.rueckgabe",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Die Sinai-Halbinsel liegt zwischen dem ägyptischen Kernland und Israel. Welcher Schritt entspannte 1982 den Konflikt zwischen beiden Nachbarn?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Beide Länder traten einem gemeinsamen Bundesstaat bei."
+      },
+      {
+        "id": "b",
+        "text": "Der Suezkanal wurde durch eine Landstraße ersetzt."
+      },
+      {
+        "id": "c",
+        "text": "Israel gab den Sinai vollständig an Ägypten zurück."
+      },
+      {
+        "id": "d",
+        "text": "Ägypten machte aus dem Sinai einen souveränen Inselstaat."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der israelische Rückzug von der Halbinsel wurde 1982 abgeschlossen. Die Änderung der Kontrolle war ein greifbares Ergebnis der Annäherung.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1982",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1982.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Die Sinai-Halbinsel liegt zwischen dem ägyptischen Kernland und Israel. Welcher Schritt entspannte 1982 den Konflikt zwischen beiden Nachbarn? Israel gab den Sinai vollständig an Ägypten zurück. Der israelische Rückzug von der Halbinsel wurde 1982 abgeschlossen. Die Änderung der Kontrolle war ein greifbares Ergebnis der Annäherung.",
+        "locator": "lemo1982, Textstelle 117",
+        "source_sha256": "0ef10fd51bbbc0fc8506b9ea4ae123427439cbb2b2853fe260ed83c2a5c45921"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-philippinen-insel",
+    "fact_key": "q3.h.philippinen.insel",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Ferdinand Marcos ging 1986 ins Exil auf Hawaii. Corazón Aquino übernahm in Manila sein Amt. In welchem Inselstaat fand dieser Machtwechsel statt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In Indonesien"
+      },
+      {
+        "id": "b",
+        "text": "In Japan"
+      },
+      {
+        "id": "c",
+        "text": "In Neuseeland"
+      },
+      {
+        "id": "d",
+        "text": "Auf den Philippinen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Aquino wurde Präsidentin der Philippinen. Vorangegangen waren der Druck der Opposition und der Verlust des Rückhalts für Marcos.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1986",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1986.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Ferdinand Marcos ging 1986 ins Exil auf Hawaii. Corazón Aquino übernahm in Manila sein Amt. In welchem Inselstaat fand dieser Machtwechsel statt? Auf den Philippinen. Aquino wurde Präsidentin der Philippinen. Vorangegangen waren der Druck der Opposition und der Verlust des Rückhalts für Marcos.",
+        "locator": "lemo1986, Textstelle 88",
+        "source_sha256": "8af8f2c0b8c240efdeb110bc5cb1ad005e70dfe26eae7bdd7a6bfd5d536fe98d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-mittelamerika-regional",
+    "fact_key": "q3.h.mittelamerika.regional",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Costa Ricas Präsident Arias schlug 1987 einen Friedensplan vor, dem auch Guatemala, Honduras und Nicaragua beitraten. Welche Idee zeigt diese Länderliste?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nachbarländer sollten regionale Konflikte gemeinsam lösen."
+      },
+      {
+        "id": "b",
+        "text": "Ein einziger Inselstaat sollte über alle anderen regieren."
+      },
+      {
+        "id": "c",
+        "text": "Das Abkommen sollte die gesamte Weltwährung vereinheitlichen."
+      },
+      {
+        "id": "d",
+        "text": "Die Staaten wollten ausschließlich ihre Seegrenzen neu vermessen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der mittelamerikanische Friedensprozess verknüpfte Konflikte mehrerer Nachbarstaaten. Arias erhielt dafür den Friedensnobelpreis.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1987",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1987.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Costa Ricas Präsident Arias schlug 1987 einen Friedensplan vor, dem auch Guatemala, Honduras und Nicaragua beitraten. Welche Idee zeigt diese Länderliste? Nachbarländer sollten regionale Konflikte gemeinsam lösen. Der mittelamerikanische Friedensprozess verknüpfte Konflikte mehrerer Nachbarstaaten. Arias erhielt dafür den Friedensnobelpreis.",
+        "locator": "lemo1987, Textstelle 285",
+        "source_sha256": "e81bcd65d6f6f654b6cee6e64fd4144f0f4dff967a11d8da5ef453910f1f23d2"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-pasternak-postum",
+    "fact_key": "q3.h.pasternak.postum",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Der bereits verstorbene Autor von „Doktor Schiwago“ wurde 1987 wieder in den sowjetischen Schriftstellerverband aufgenommen. Was konnte der Schritt noch bewirken?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die nachträgliche Veröffentlichung seines ersten Romans durch ihn selbst"
+      },
+      {
+        "id": "b",
+        "text": "Eine öffentliche Rehabilitierung des Schriftstellers"
+      },
+      {
+        "id": "c",
+        "text": "Ein neues Arbeitsmandat für den Autor"
+      },
+      {
+        "id": "d",
+        "text": "Seine persönliche Rückkehr nach Moskau"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Wiederaufnahme von Boris Pasternak war symbolisch. Sie stand im Zusammenhang mit der kulturpolitischen Öffnung in der Sowjetunion.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1987",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1987.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Der bereits verstorbene Autor von „Doktor Schiwago“ wurde 1987 wieder in den sowjetischen Schriftstellerverband aufgenommen. Was konnte der Schritt noch bewirken? Eine öffentliche Rehabilitierung des Schriftstellers. Die Wiederaufnahme von Boris Pasternak war symbolisch. Sie stand im Zusammenhang mit der kulturpolitischen Öffnung in der Sowjetunion.",
+        "locator": "lemo1987, Textstelle 90",
+        "source_sha256": "e81bcd65d6f6f654b6cee6e64fd4144f0f4dff967a11d8da5ef453910f1f23d2"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-gorbatschow-spielraum",
+    "fact_key": "q3.h.gorbatschow.spielraum",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Gorbatschow erklärte 1989, jeder sozialistische Staat dürfe seine eigene Entwicklung bestimmen. Was änderte sich gegenüber dem früheren sowjetischen Führungsanspruch?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alle mussten noch am selben Tag dieselbe Regierung wählen."
+      },
+      {
+        "id": "b",
+        "text": "Sämtliche Länder führten sofort den Rubel ein."
+      },
+      {
+        "id": "c",
+        "text": "Die osteuropäischen Staaten erhielten größeren politischen Spielraum."
+      },
+      {
+        "id": "d",
+        "text": "Sie wurden nach Moskau eingemeindet."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die frühere Breschnew-Doktrin hatte den Spielraum der Verbündeten begrenzt. Gorbatschows Erklärung rückte davon ab.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1989",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1989.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Gorbatschow erklärte 1989, jeder sozialistische Staat dürfe seine eigene Entwicklung bestimmen. Was änderte sich gegenüber dem früheren sowjetischen Führungsanspruch? Die osteuropäischen Staaten erhielten größeren politischen Spielraum. Die frühere Breschnew-Doktrin hatte den Spielraum der Verbündeten begrenzt. Gorbatschows Erklärung rückte davon ab.",
+        "locator": "lemo1989, Textstelle 158",
+        "source_sha256": "f5dbd6636e1c6e2cf652bab341efb52c21277906aad9b324ca3d5933f38a7161"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-tschechien-slowakei",
+    "fact_key": "q3.h.tschechien.slowakei",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Ein Passamt in Prag und eines in Bratislava gehörten Ende 1992 noch zu demselben Staat. Was änderte sich mit Jahresbeginn 1993?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Prag wurde die neue Hauptstadt der Slowakei."
+      },
+      {
+        "id": "b",
+        "text": "Beide Städte wurden in die Sowjetunion aufgenommen."
+      },
+      {
+        "id": "c",
+        "text": "Beide Städte tauschten lediglich ihre Namen."
+      },
+      {
+        "id": "d",
+        "text": "Sie lagen jetzt in Tschechien und der Slowakei."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Aus der Tschechoslowakei gingen zwei souveräne Republiken hervor. Prag und Bratislava wurden Hauptstädte der jeweiligen Staaten.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1993",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1993.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Ein Passamt in Prag und eines in Bratislava gehörten Ende 1992 noch zu demselben Staat. Was änderte sich mit Jahresbeginn 1993? Sie lagen jetzt in Tschechien und der Slowakei. Aus der Tschechoslowakei gingen zwei souveräne Republiken hervor. Prag und Bratislava wurden Hauptstädte der jeweiligen Staaten.",
+        "locator": "lemo1993, Textstelle 51",
+        "source_sha256": "97265d653277c073bccb547910ba6e1de7fd8958da2710c86b40fe3e4e6de2f7"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-uno-afrikaner",
+    "fact_key": "q3.h.uno.afrikaner",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Boutros Boutros-Ghali kam aus Ägypten, sein Nachfolger Kofi Annan aus Ghana. Was verband die beiden UN-Generalsekretäre trotz ihrer unterschiedlichen Herkunftsländer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Beide stammten aus Afrika."
+      },
+      {
+        "id": "b",
+        "text": "Beide stammten aus derselben ehemaligen Kolonie."
+      },
+      {
+        "id": "c",
+        "text": "Beide waren Staatsoberhäupter von Ghana."
+      },
+      {
+        "id": "d",
+        "text": "Beide waren vor ihrem Amtsantritt ägyptische Außenminister."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Boutros-Ghali trat 1992 als erster Afrikaner an die Spitze der Vereinten Nationen. Annan folgte ihm 1997.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1992",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1992.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Boutros Boutros-Ghali kam aus Ägypten, sein Nachfolger Kofi Annan aus Ghana. Was verband die beiden UN-Generalsekretäre trotz ihrer unterschiedlichen Herkunftsländer? Beide stammten aus Afrika. Boutros-Ghali trat 1992 als erster Afrikaner an die Spitze der Vereinten Nationen. Annan folgte ihm 1997.",
+        "locator": "lemo1992, Textstelle 51",
+        "source_sha256": "d9ba07a277507aff180184266a5ec3136344b1727d4dfe061bcc06380fc0eae4"
+      },
+      {
+        "id": "s2",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1997",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1997.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Boutros Boutros-Ghali kam aus Ägypten, sein Nachfolger Kofi Annan aus Ghana. Was verband die beiden UN-Generalsekretäre trotz ihrer unterschiedlichen Herkunftsländer? Beide stammten aus Afrika. Boutros-Ghali trat 1992 als erster Afrikaner an die Spitze der Vereinten Nationen. Annan folgte ihm 1997.",
+        "locator": "lemo1997, Textstelle 51",
+        "source_sha256": "b5df2b0083f809366fc28abf683a3bcc28bac680fad1f7eafdc3c1723fcc2be9"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-nordirland-belfast",
+    "fact_key": "q3.h.nordirland.belfast",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Eine Friedenskonferenz tagte 1998 in Belfast. London und Dublin waren beide beteiligt. Für welches Gebiet sollte das Abkommen mehr Selbstbestimmung ermöglichen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für die Isle of Man"
+      },
+      {
+        "id": "b",
+        "text": "Für Nordirland"
+      },
+      {
+        "id": "c",
+        "text": "Für Schottland"
+      },
+      {
+        "id": "d",
+        "text": "Für Wales"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Belfaster Abkommen war ein entscheidender Schritt im nordirischen Friedensprozess. Britische und irische Beteiligung spiegelten die Geschichte des Konflikts.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1998",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1998.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Eine Friedenskonferenz tagte 1998 in Belfast. London und Dublin waren beide beteiligt. Für welches Gebiet sollte das Abkommen mehr Selbstbestimmung ermöglichen? Für Nordirland. Das Belfaster Abkommen war ein entscheidender Schritt im nordirischen Friedensprozess. Britische und irische Beteiligung spiegelten die Geschichte des Konflikts.",
+        "locator": "lemo1998, Textstelle 135",
+        "source_sha256": "4b6f8a154fe40394c222e5b3d86dd4e02bf06eb0a0f13f3d6e66e21054e2d894"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-korea-familien",
+    "fact_key": "q3.h.korea.familien",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Als ausgewählte koreanische Familien einander 2000 nach über fünfzig Jahren besuchen durften, was wurde für sie persönlich überwunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine jahrzehntelange Pflicht zum Leben auf See"
+      },
+      {
+        "id": "b",
+        "text": "Die Sperrung einer einzelnen innerstädtischen Brücke"
+      },
+      {
+        "id": "c",
+        "text": "Die durch die Teilung entstandene Trennung"
+      },
+      {
+        "id": "d",
+        "text": "Die Einführung verschiedener Kalender in zwei Provinzen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die neue Annäherung zwischen den koreanischen Staaten ermöglichte einzelne Begegnungen. Familienbeziehungen reichten über die verschlossene Grenze.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 2000",
+        "url": "https://www.hdg.de/lemo/jahreschronik/2000.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Als ausgewählte koreanische Familien einander 2000 nach über fünfzig Jahren besuchen durften, was wurde für sie persönlich überwunden? Die durch die Teilung entstandene Trennung. Die neue Annäherung zwischen den koreanischen Staaten ermöglichte einzelne Begegnungen. Familienbeziehungen reichten über die verschlossene Grenze.",
+        "locator": "lemo2000, Textstelle 238",
+        "source_sha256": "7f9a458550483decb1916aa4624b9b170238ef1dd02ca804455735bee122cc4b"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-kuwait-abzug",
+    "fact_key": "q3.h.kuwait.abzug",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Ein Zeitungsbericht vom Frühjahr 1991 meldete den Abzug irakischer Truppen aus Kuwait. Welches Ziel der internationalen Staatengemeinschaft wurde damit erreicht?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Vereinigung beider Länder zu einem neuen Staat"
+      },
+      {
+        "id": "b",
+        "text": "Der Bau einer Landbrücke über den Persischen Golf"
+      },
+      {
+        "id": "c",
+        "text": "Die Verlegung der Hauptstadt Kuwaits nach Bagdad"
+      },
+      {
+        "id": "d",
+        "text": "Das Ende der irakischen Besetzung Kuwaits"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Irak kündigte zugleich die Anerkennung der UN-Resolutionen an. Der Sicherheitsrat legte anschließend Bedingungen für den Waffenstillstand fest.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1991",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1991.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Ein Zeitungsbericht vom Frühjahr 1991 meldete den Abzug irakischer Truppen aus Kuwait. Welches Ziel der internationalen Staatengemeinschaft wurde damit erreicht? Das Ende der irakischen Besetzung Kuwaits. Der Irak kündigte zugleich die Anerkennung der UN-Resolutionen an. Der Sicherheitsrat legte anschließend Bedingungen für den Waffenstillstand fest.",
+        "locator": "lemo1991, Textstelle 112",
+        "source_sha256": "e3c11a3d0bc59cfd77c4abd0fd351a03720f5010979636a578d0e71bc8144bf7"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-kobe-stadtgebiet",
+    "fact_key": "q3.h.kobe.stadtgebiet",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Eine historische Hilfeaktion von 1995 galt den schwer erschütterten Städten Kobe und Osaka. Welche Katastrophe erklärt, dass Bauwerke und Verkehrswege zugleich ausfielen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein starkes Erdbeben"
+      },
+      {
+        "id": "b",
+        "text": "Ein Taifun mit hohem Wellengang"
+      },
+      {
+        "id": "c",
+        "text": "Ein lang anhaltender Vulkanausbruch"
+      },
+      {
+        "id": "d",
+        "text": "Ein außergewöhnlich schneereicher Winter"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Region um die japanischen Großstädte wurde im Januar 1995 von einem schweren Beben getroffen. Tausende Menschen starben.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1995",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1995.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Eine historische Hilfeaktion von 1995 galt den schwer erschütterten Städten Kobe und Osaka. Welche Katastrophe erklärt, dass Bauwerke und Verkehrswege zugleich ausfielen? Ein starkes Erdbeben. Die Region um die japanischen Großstädte wurde im Januar 1995 von einem schweren Beben getroffen. Tausende Menschen starben.",
+        "locator": "lemo1995, Textstelle 57",
+        "source_sha256": "a55b1177f62ceb787c9b69ab8d7a5a2133981cf07752b6f505697344a55e95a3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-somalia-blauhelm",
+    "fact_key": "q3.h.somalia.blauhelm",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1995 verließen die letzten „Blauhelme“ Somalia. Auf welchen Auftrag weist dieser in Nachrichten gebräuchliche Ausdruck hin?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine eigenständige Beobachtermission der Europäischen Gemeinschaft"
+      },
+      {
+        "id": "b",
+        "text": "Eine internationale Friedensmission der UNO"
+      },
+      {
+        "id": "c",
+        "text": "Einen Grenzschutzdienst der Nachbarstaaten"
+      },
+      {
+        "id": "d",
+        "text": "Einen rein zivilen Hilfseinsatz des Roten Kreuzes"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Vereinten Nationen hatten 1992 eine Friedensmission begonnen. Mit dem Abzug endete diese Mission, während die Konflikte weitergingen.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1995",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1995.html",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "1995 verließen die letzten „Blauhelme“ Somalia. Auf welchen Auftrag weist dieser in Nachrichten gebräuchliche Ausdruck hin? Eine internationale Friedensmission der UNO. Die Vereinten Nationen hatten 1992 eine Friedensmission begonnen. Mit dem Abzug endete diese Mission, während die Konflikte weitergingen.",
+        "locator": "lemo1995, Textstelle 81",
+        "source_sha256": "a55b1177f62ceb787c9b69ab8d7a5a2133981cf07752b6f505697344a55e95a3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

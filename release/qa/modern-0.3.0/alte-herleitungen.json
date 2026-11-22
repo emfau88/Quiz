@@ -1,0 +1,926 @@
+[
+  {
+    "id": "k-craft-blaudruck-pattern",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": true,
+    "revision": 3
+  },
+  {
+    "id": "k-elvis-germany-reason",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "k-gram-attribute",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "k-gram-composition",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "k-gram-derivation",
+    "neu": "form_vergleichen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "k-gram-nominalisation",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "k-grammatik-ablaut-example",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "k-grammatik-adjektiv-beispiel",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "k-grammatik-adverb-zeit",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "k-media-casablanca-flucht",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "k-media-dinner",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "k-media-et-heimkehr",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "k-media-feuerzangenbowle-schule",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "k-media-graceland-partner",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "k-media-haendlerkarte",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "k-media-imagine-frieden",
+    "neu": "form_vergleichen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "k-media-lenin-wohnung",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "k-media-peking-trommeln",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "k-media-radiotatort",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "k-media-radsport-kamera",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "k-media-riley-zentrale",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "k-media-satellit-tokio",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "k-media-siebter-sinn",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "k-media-sonderzug-wunsch",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "k-media-torwand-sechs",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "k-perform-karagoz-light",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": true,
+    "revision": 3
+  },
+  {
+    "id": "k-spanish-enero",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "k-stage-orfeo-condition",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-abgaskatalysator-aufgabe",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-ahorn-flugfruechte",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-aktivkohle-filter",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-aletsch-konkordiaplatz-eis",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-altglas-rohstoffe",
+    "neu": "form_vergleichen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-aluminium-leichtbau",
+    "neu": "form_vergleichen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-aluminium-recycling-energie",
+    "neu": "form_vergleichen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-ameisenbaer-gang",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-amsel-maennchen-gefaeder",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-amurtiger-kaelte",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-analoge-fotografie-silberbromid",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 4
+  },
+  {
+    "id": "qs-b4-bahnrad-starre-nabe",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-b4-berliner-geisterbahnhoefe",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-b4-blindbacken",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-b4-einkochglas-unterdruck",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-b4-fahrrad-dichtmilch",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-b4-golfball-dellen",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-b4-hefeteig-zweite-ruhe",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-b4-holzbohrer-kegelsenker",
+    "neu": "form_vergleichen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-b4-kniffel-full-house",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-b4-labyrinth-gaengekarte",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-b4-laubbesen-zinken",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-b4-redensart-fettnaepfchen",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-b4-redensart-holzweg",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-b4-redensart-lange-bank",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-b4-salatschleuder",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-b4-schnellkochtopf-siedepunkt",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-b4-skat-stich-augen",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-biber-schneidezaehne",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": true,
+    "revision": 3
+  },
+  {
+    "id": "qs-biber-schwanzschlag",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-bismut-schmelzlegierung",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-blaumeise-scheitel",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-bluetooth-hindernisse",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-branntkalk-entwicklung",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": true,
+    "revision": 3
+  },
+  {
+    "id": "qs-carbonfaser-sport",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-chlor-beckenwasser",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-cinque-terre-terrassenbau",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-eberesche-voegel-samen",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-eichhoernchen-verteilte-vorraete",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-eifel-maar-trichter",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-elefant-ohren-kuehlung",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-erde-jahreszeiten",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-erdgas-geruch",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-erdkroete-fruehjahr-laichwanderung",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-erdmaennchen-wache",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-eule-augen-kopf",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-fledermaus-winterstollen-feuchte",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": true,
+    "revision": 2
+  },
+  {
+    "id": "qs-flugzeug-winglets",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-flusspferd-augen-nase",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-foehn-lee-warm-trocken",
+    "neu": "form_vergleichen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-fundybucht-resonanz",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-gestein-metamorphose",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-gluehlampe-schutzgas",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-hartmetall-bohrer",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-heidelandschaft-schnucken",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-hochspannung-verluste",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-induktionsherd-topftest",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-kalifornischer-kelp-seeigel",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": true,
+    "revision": 3
+  },
+  {
+    "id": "qs-kamera-verschlusszeit",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-kamera-weitwinkel",
+    "neu": "form_vergleichen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-kartenraster-os-ostwert",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-kelp-lichttiefe",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-krokodil-zahnwechsel",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-kuehlschrank-messgeraet",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-kuehlschrank-papiertest",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-kupfer-elektrokabel",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-lab-kaese",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-led-kuehlkoerper",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-lofoten-stockfisch-gestelle",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-logo-vektorgrafik",
+    "neu": "form_vergleichen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-magnesium-leichtbau",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-main-donau-schiffsroute",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-milch-pasteurisieren",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-mond-gebundene-rotation",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-mrt-magnet-helium",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": true,
+    "revision": 3
+  },
+  {
+    "id": "qs-namib-nebel-wasser",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-nasenbaer-nahrungssuche",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-nok-juetland-abkuerzung",
+    "neu": "form_vergleichen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-oeresund-peberholm-uebergang",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": true,
+    "revision": 2
+  },
+  {
+    "id": "qs-okapi-zunge",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-panamakanal-gatun-hoehe",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-pico-weinmauern",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-polarstern-orientierung",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-qr-fehlerkorrektur",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": true,
+    "revision": 3
+  },
+  {
+    "id": "qs-seeloewe-hinterflossen",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": true,
+    "revision": 3
+  },
+  {
+    "id": "qs-seewind-tagsueber-land",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-silber-spiegelbelag",
+    "neu": "form_vergleichen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-skocjan-reka-karst",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-standby-verbrauch",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-strahlungsnebel-klare-nacht",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-tafelseisberg-form",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-talsperre-speicher",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-tastatur-ausschneiden",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-tastatur-kopieren",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-teleskop-oeffnung",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-trockner-waermepumpe-luft",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": true,
+    "revision": 3
+  },
+  {
+    "id": "qs-uranus-achse",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-usb-c-beidseitig",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-wanderkarte-massstab-50000",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-wasserkocher-fuellmenge",
+    "neu": "form_anwenden",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-watt-niedrigwasser-flaeche",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 2
+  },
+  {
+    "id": "qs-windkraft-gondel-ausrichtung",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  },
+  {
+    "id": "qs-yosemite-granit-eis",
+    "neu": "form_herleiten",
+    "hinweisfrage": true,
+    "neuer_fragesatz": true,
+    "revision": 2
+  },
+  {
+    "id": "qs-zooplankton-nachtaufstieg",
+    "neu": "form_wiedererkennen",
+    "hinweisfrage": false,
+    "neuer_fragesatz": false,
+    "revision": 3
+  }
+]

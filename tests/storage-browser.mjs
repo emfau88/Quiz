@@ -20,7 +20,7 @@ for(let i=0;i<10;i++){
 const active=startRound(old,catalog,'old-install',now);
 old.schema=1;delete old.awards;delete old.lastView;
 let correctionCatalog;
-const qaDir='release/screenshots/sonderfaelle';
+const qaDir=process.argv[2] || 'release/screenshots/sonderfaelle';
 try {
   await mkdir(qaDir,{recursive:true});
   await page.goto(url+'/data/manifest.json');

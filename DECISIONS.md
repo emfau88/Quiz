@@ -1,5 +1,12 @@
 # Entscheidungen
 
+## Tagesrunde und Redaktion in 0.3.0
+
+- Eine neue Tagesrunde hat zehn Plätze. Genau einer ist für eine Schätzung und zwei sind für redaktionell geprüfte Hinweisfragen vorgesehen. Höchstens zwei Plätze können reines Wiedererkennen verlangen. Die Formbegrenzungen gelten ebenfalls bei fälligen Lernwiederholungen. [Produktregeln](specs/product_rules.json) · [Grenzfälle der Auswahl](tests/daily-formats.test.mjs)
+- Für die beiden Hinweisplätze gibt es eine bevorzugte Titelauswahl. Ein guter Hinweis liefert eine Beobachtung, einen Widerspruch oder mehrere Bedingungen, mit denen man Möglichkeiten ausschließen kann. Eine frische Runde erhält zwei Titel dieser Auswahl. Beim längeren Spielen können fällige oder weitere ungesehene Herleitungen einen der Plätze einnehmen. Mindestens ein bevorzugter Titel bleibt dabei vorgesehen, solange einer zur Verfügung steht. [Tagesauswahl nach Kategorie](specs/daily_clues.json)
+- Forschung erhält Publikationsdatum, Herausgeber und einen direkt verknüpften Originalbeleg. Die Frage und ihre Erklärung liegen lokal vor. Die Daten bleiben auch bei Spielunterbrechung Teil der gespeicherten Runde. [Forschungsredaktion](content/research/README.md)
+- Bei einer neuen Aufgabenstellung zum selben Sachverhalt wird die Inhaltsrevision erhöht. Der Lösungsschlüssel und die semantische Revision bleiben für diese Karten erhalten. Die 132 bisherigen Herleitungen wurden einzeln neu eingeordnet. [Einzelentscheidungen](release/qa/modern-0.3.0/alte-herleitungen.json) · [60 überarbeitete Wissensabfragen](release/qa/modern-0.3.0/ueberarbeitete-wissensabfragen.json)
+
 ## Deutscher Fragenpool 0.2.0
 
 - Der aktive Umfang bleibt bei 1.200. Für eine neue Karte wird ihre Austauschpartnerin aus derselben Kategorie festgehalten. Fachlich korrekte alte Karten bleiben in den Redaktionsdaten. Das öffentliche Archiv enthält nur ihre ID und semantische Revision. Für falsche Sachverhalte gilt weiter der datierte Korrekturablauf. [Austauschliste](release/qa/fragenpool/austausch.json) · [Korrekturen](docs/KORREKTUREN.md)

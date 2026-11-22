@@ -1,0 +1,2012 @@
+[
+  {
+    "id": "q3-e-abba-buehnenbuch",
+    "fact_key": "q3.e.abba.buehnenbuch",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wenn auf einer Bühne viele bekannte ABBA-Lieder eine neue Handlung erzählen, welcher Begriff beschreibt die Form am besten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Jukebox-Musical"
+      },
+      {
+        "id": "b",
+        "text": "Ein unveränderter Konzertmitschnitt"
+      },
+      {
+        "id": "c",
+        "text": "Ein rein gesprochenes Hörspiel"
+      },
+      {
+        "id": "d",
+        "text": "Eine Biografie in Interviews"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "ABBAs Repertoire inspirierte ein Musical und einen Film. Bei einem Jukebox-Musical trifft eine Bühnenhandlung auf bereits bekannte Songs.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · abba",
+        "url": "https://rockhall.com/inductees/abba/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Wenn auf einer Bühne viele bekannte ABBA-Lieder eine neue Handlung erzählen, welcher Begriff beschreibt die Form am besten? Ein Jukebox-Musical. ABBAs Repertoire inspirierte ein Musical und einen Film. Bei einem Jukebox-Musical trifft eine Bühnenhandlung auf bereits bekannte Songs.",
+        "locator": "hallabba, Textstelle 15",
+        "source_sha256": "988d940884ac2d7907f605afb4ef87841f781db2bbd7935ea8b813417119bc86"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-acdc-stimmenfolge",
+    "fact_key": "q3.e.acdc.stimmenfolge",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Auf einer älteren AC/DC-Platte singt Bon Scott, auf einem Konzertmitschnitt der Achtziger Brian Johnson. Was war dazwischen geschehen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aus der Instrumentalgruppe wurde erstmals eine Band mit Gesang."
+      },
+      {
+        "id": "b",
+        "text": "Nach Scotts Tod übernahm Johnson den Gesang."
+      },
+      {
+        "id": "c",
+        "text": "Scott und Johnson hatten die beiden Aufnahmen am gleichen Abend gemacht."
+      },
+      {
+        "id": "d",
+        "text": "Johnson hatte seine Rolle an den jüngeren Scott abgegeben."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Brian Johnson folgte auf Bon Scott. Die vertrauten Gitarrenriffs blieben auch mit dem neuen Frontmann hörbar.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · acdc",
+        "url": "https://rockhall.com/inductees/acdc/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Auf einer älteren AC/DC-Platte singt Bon Scott, auf einem Konzertmitschnitt der Achtziger Brian Johnson. Was war dazwischen geschehen? Nach Scotts Tod übernahm Johnson den Gesang. Brian Johnson folgte auf Bon Scott. Die vertrauten Gitarrenriffs blieben auch mit dem neuen Frontmann hörbar.",
+        "locator": "hallacdc, Textstelle 28",
+        "source_sha256": "7a0bebf27684651906f257b4595aa40ad26bca9a169a499cb3efc3d57668fe9f"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-aretha-cover",
+    "fact_key": "q3.e.aretha.cover",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Aretha Franklin nahm „Respect“ 1967 neu auf. Die frühere Fassung stammte von Otis Redding. Was hört man beim Abspielen beider Aufnahmen gegenübergestellt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dasselbe Masterband in verschiedenen Geschwindigkeiten"
+      },
+      {
+        "id": "b",
+        "text": "Zwei Stücke, die nur zufällig gleich heißen"
+      },
+      {
+        "id": "c",
+        "text": "Zwei Interpretationen desselben Songs"
+      },
+      {
+        "id": "d",
+        "text": "Zwei Ausschnitte derselben Konzertsituation"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Franklins Aufnahme ist eine eigenständige Interpretation des früheren Redding-Songs. Auch ein bekanntes Lied kann dadurch ein anderes Gewicht bekommen.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · aretha-franklin",
+        "url": "https://rockhall.com/inductees/aretha-franklin/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Aretha Franklin nahm „Respect“ 1967 neu auf. Die frühere Fassung stammte von Otis Redding. Was hört man beim Abspielen beider Aufnahmen gegenübergestellt? Zwei Interpretationen desselben Songs. Franklins Aufnahme ist eine eigenständige Interpretation des früheren Redding-Songs. Auch ein bekanntes Lied kann dadurch ein anderes Gewicht bekommen.",
+        "locator": "hallaretha, Textstelle 28",
+        "source_sha256": "28f3c94d05bff0182a3b8ad4f1340575630486a17187d690ffc1ea5505ef7b84"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-marley-tempo",
+    "fact_key": "q3.e.marley.tempo",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Bei Bob Marley lässt sich der Weg vom schnellen Ska zum Reggae nachhören. Was verändert sich, wenn der Gitarrenschlag zwischen den Hauptschlägen in einem langsameren Puls erklingt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Takt wird automatisch zum Dreiertakt."
+      },
+      {
+        "id": "b",
+        "text": "Die Melodie wechselt zwangsläufig in Moll."
+      },
+      {
+        "id": "c",
+        "text": "Die Musik kommt künftig ohne Bass aus."
+      },
+      {
+        "id": "d",
+        "text": "Der versetzte Rhythmus bekommt mehr Raum."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Marley griff Ska und Rocksteady auf, verlangsamte das Tempo und betonte versetzte Rhythmen. So prägte er den Groove des Reggae mit.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · bob-marley",
+        "url": "https://rockhall.com/inductees/bob-marley/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Bei Bob Marley lässt sich der Weg vom schnellen Ska zum Reggae nachhören. Was verändert sich, wenn der Gitarrenschlag zwischen den Hauptschlägen in einem langsameren Puls erklingt? Der versetzte Rhythmus bekommt mehr Raum. Marley griff Ska und Rocksteady auf, verlangsamte das Tempo und betonte versetzte Rhythmen. So prägte er den Groove des Reggae mit.",
+        "locator": "hallbob, Textstelle 28",
+        "source_sha256": "7f7cc82acc5d4360d628604571b0837cb7470cb7d630bba17123bc26b99febc9"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-blondie-stilreise",
+    "fact_key": "q3.e.blondie.stilreise",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein und dieselbe Blondie-Plattensammlung lässt sich mal zum Discoabend, mal zum Reggae- oder Rap-Abend auflegen. Welches Merkmal der Band erklärt das?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie wechselte musikalische Stile und behielt eingängige Popmelodien bei."
+      },
+      {
+        "id": "b",
+        "text": "Jedes Album bestand nur aus Fassungen desselben Lieds."
+      },
+      {
+        "id": "c",
+        "text": "Die Band machte ausschließlich Instrumentalaufnahmen."
+      },
+      {
+        "id": "d",
+        "text": "Der Name bezeichnete jeweils eine andere Studioband."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Blondie verband unterschiedliche Genres mit einer Vorliebe für melodischen Pop der Sechzigerjahre.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · blondie",
+        "url": "https://rockhall.com/inductees/blondie/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Ein und dieselbe Blondie-Plattensammlung lässt sich mal zum Discoabend, mal zum Reggae- oder Rap-Abend auflegen. Welches Merkmal der Band erklärt das? Sie wechselte musikalische Stile und behielt eingängige Popmelodien bei. Blondie verband unterschiedliche Genres mit einer Vorliebe für melodischen Pop der Sechzigerjahre.",
+        "locator": "hallblondie, Textstelle 19",
+        "source_sha256": "07c19241e2e468e84c248a2b0fc38816b809136605863e0811225b9e22508e03"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-cash-erzaehlen",
+    "fact_key": "q3.e.cash.erzaehlen",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Johnny Cash erzählte in direkter Sprache vom Leben einfacher Leute. Welche Idee für einen neuen Liedtext knüpft besonders eng an dieses Verfahren an?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alle Verse ausschließlich aus Fantasiewörtern bilden"
+      },
+      {
+        "id": "b",
+        "text": "Eine Schicht im Leben eines Arbeiters aus seiner Sicht erzählen"
+      },
+      {
+        "id": "c",
+        "text": "Eine Liste von Akkorden ohne Handlung aufsagen"
+      },
+      {
+        "id": "d",
+        "text": "Das Publikum nur eine Silbe wiederholen lassen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Viele seiner Songs sind kleine Erzählungen. Erfahrungen und Stimmen arbeitender Menschen stehen darin im Mittelpunkt.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · johnny-cash",
+        "url": "https://rockhall.com/inductees/johnny-cash/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Johnny Cash erzählte in direkter Sprache vom Leben einfacher Leute. Welche Idee für einen neuen Liedtext knüpft besonders eng an dieses Verfahren an? Eine Schicht im Leben eines Arbeiters aus seiner Sicht erzählen. Viele seiner Songs sind kleine Erzählungen. Erfahrungen und Stimmen arbeitender Menschen stehen darin im Mittelpunkt.",
+        "locator": "hallcash, Textstelle 20",
+        "source_sha256": "9fc3d8bc1d92e361687afb43763bbc09a4d2f89b07d7388f9a80915c90e9acd5"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-chuck-lebenswelt",
+    "fact_key": "q3.e.chuck.lebenswelt",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Chuck Berry erzählt in seinen Rock-’n’-Roll-Songs von amerikanischen Teenagern. Welche Textidee übernimmt diese Erzählperspektive am genauesten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Schuldirektor bewertet das Verhalten seiner Schüler."
+      },
+      {
+        "id": "b",
+        "text": "Eine Tanzlehrerin beschreibt ihre Erfahrungen mit einer Klasse."
+      },
+      {
+        "id": "c",
+        "text": "Ein Schüler schildert die Verabredung zum Tanzen."
+      },
+      {
+        "id": "d",
+        "text": "Ein Vater berichtet über die Sorgen seines Sohnes."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Alternativen kreisen um Jugendliche. Der Blick des Schülers rückt ihre eigene Alltagswelt in den Mittelpunkt, die Berry in seinen Texten lebendig werden ließ.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · chuck-berry",
+        "url": "https://rockhall.com/inductees/chuck-berry/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Chuck Berry erzählt in seinen Rock-’n’-Roll-Songs von amerikanischen Teenagern. Welche Textidee übernimmt diese Erzählperspektive am genauesten? Ein Schüler schildert die Verabredung zum Tanzen. Die Alternativen kreisen um Jugendliche. Der Blick des Schülers rückt ihre eigene Alltagswelt in den Mittelpunkt, die Berry in seinen Texten lebendig werden ließ.",
+        "locator": "hallchuck, Textstelle 20",
+        "source_sha256": "8edd480d37ae1f72b228adf52ebd78a79b3ab1257a65e2d44e150e1c4afd2b1d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-clapton-mehrfach",
+    "fact_key": "q3.e.clapton.mehrfach",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Die Rock Hall ehrte Eric Clapton als Solisten und mit seinen beiden Bands Yardbirds und Cream. Wie viele getrennte Aufnahmen in die Ruhmeshalle kamen so zusammen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zweimal"
+      },
+      {
+        "id": "b",
+        "text": "Siebenmal"
+      },
+      {
+        "id": "c",
+        "text": "Zwölfmal"
+      },
+      {
+        "id": "d",
+        "text": "Dreimal"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Aufnahmen galten seiner Solokarriere und seiner Arbeit in zwei Bands, den Yardbirds und Cream.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · eric-clapton",
+        "url": "https://rockhall.com/inductees/eric-clapton/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Die Rock Hall ehrte Eric Clapton als Solisten und mit seinen beiden Bands Yardbirds und Cream. Wie viele getrennte Aufnahmen in die Ruhmeshalle kamen so zusammen? Dreimal. Die Aufnahmen galten seiner Solokarriere und seiner Arbeit in zwei Bands, den Yardbirds und Cream.",
+        "locator": "hallclapton, Textstelle 16",
+        "source_sha256": "2d68e20494f1390ab9b19543efc8f4ecef90a4cef889428cd02000871775d3df"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-depeche-studio",
+    "fact_key": "q3.e.depeche.studio",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein Studiomusiker möchte für einen Depeche-Mode-Abend Klänge elektronisch formen und mit Tasten spielen. Welches Instrument passt zu diesem Teil des Bandsounds?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Synthesizer"
+      },
+      {
+        "id": "b",
+        "text": "Ein akustisches Klavier"
+      },
+      {
+        "id": "c",
+        "text": "Ein Cembalo"
+      },
+      {
+        "id": "d",
+        "text": "Ein Harmonium"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Band weitete ihren elektronischen Klang mit Synthesizertechnik aus. Alle vier Instrumente haben Tasten, ihr Klang entsteht unterschiedlich.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · depeche-mode",
+        "url": "https://rockhall.com/inductees/depeche-mode/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Ein Studiomusiker möchte für einen Depeche-Mode-Abend Klänge elektronisch formen und mit Tasten spielen. Welches Instrument passt zu diesem Teil des Bandsounds? Ein Synthesizer. Die Band weitete ihren elektronischen Klang mit Synthesizertechnik aus. Alle vier Instrumente haben Tasten, ihr Klang entsteht unterschiedlich.",
+        "locator": "halldepeche, Textstelle 16",
+        "source_sha256": "965615d16b16ac13a40c510e1cf8ab772bb1e320c151b7183276e9e76c641e1c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-fleetwood-zwei-ufer",
+    "fact_key": "q3.e.fleetwood.zwei.ufer",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Fleetwood Macs Anfänge lagen im britischen Blues der Sechziger. Welches spätere Kapitel verbindet diese Geschichte mit der amerikanischen Westküste?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Blüte des Londoner Skiffle in den Fünfzigern"
+      },
+      {
+        "id": "b",
+        "text": "Der ausgearbeitete California-Sound der Siebziger"
+      },
+      {
+        "id": "c",
+        "text": "Die New Yorker Swingzeit der Dreißiger"
+      },
+      {
+        "id": "d",
+        "text": "Der New Orleans Jazz der Jahrhundertwende"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Gruppe entwickelte sich von ihren britischen Blueswurzeln zu einem Pop- und Rockklang, den die Rock Hall als California-Sound beschreibt.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · fleetwood-mac",
+        "url": "https://rockhall.com/inductees/fleetwood-mac/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Fleetwood Macs Anfänge lagen im britischen Blues der Sechziger. Welches spätere Kapitel verbindet diese Geschichte mit der amerikanischen Westküste? Der ausgearbeitete California-Sound der Siebziger. Die Gruppe entwickelte sich von ihren britischen Blueswurzeln zu einem Pop- und Rockklang, den die Rock Hall als California-Sound beschreibt.",
+        "locator": "hallfleet, Textstelle 16",
+        "source_sha256": "e1f4547b1c345c8567968ad66ebd36952395349a936bee90b1f25ead796a987a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-madonna-medien",
+    "fact_key": "q3.e.madonna.medien",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Bei Madonna verdichten sich Mode, Choreografie und ein Song zu einem Auftritt, den man zuhause wiederholt sehen kann. Welches Medium trägt alle drei Elemente?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine gedruckte Hitparade"
+      },
+      {
+        "id": "b",
+        "text": "Ein Liederbuch mit Akkorden"
+      },
+      {
+        "id": "c",
+        "text": "Ein Musikvideo"
+      },
+      {
+        "id": "d",
+        "text": "Eine reine Audio-Single"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Madonna verband tanzbare Musik mit Mode und der Bildsprache des Videos. Bei einer reinen Tonaufnahme ginge ein Teil der Inszenierung verloren.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · madonna",
+        "url": "https://rockhall.com/inductees/madonna/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Bei Madonna verdichten sich Mode, Choreografie und ein Song zu einem Auftritt, den man zuhause wiederholt sehen kann. Welches Medium trägt alle drei Elemente? Ein Musikvideo. Madonna verband tanzbare Musik mit Mode und der Bildsprache des Videos. Bei einer reinen Tonaufnahme ginge ein Teil der Inszenierung verloren.",
+        "locator": "hallmadonna, Textstelle 15",
+        "source_sha256": "cdc165a2f9c5b587f909024b1ba27786013bdcc647783ef6203a5a2b3f230a12"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-pink-floyd-konzept",
+    "fact_key": "q3.e.pink.floyd.konzept",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Bei Pink Floyd kann eine ganze LP einem zusammenhängenden Gedanken folgen. Was würde den Zusammenhang eines solchen Konzeptalbums am ehesten unterbrechen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Album in der vorgesehenen Reihenfolge spielen"
+      },
+      {
+        "id": "b",
+        "text": "Die Texte mit den wiederkehrenden Motiven vergleichen"
+      },
+      {
+        "id": "c",
+        "text": "Die Übergänge zwischen den Stücken mitverfolgen"
+      },
+      {
+        "id": "d",
+        "text": "Die Stücke nur zufällig gemischt zwischen anderen Hits hören"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Bei einem Konzeptalbum trägt die Anordnung der Stücke zu einem größeren Ganzen bei. Die Rock Hall hebt solche Alben bei Pink Floyd ausdrücklich hervor.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · pink-floyd",
+        "url": "https://rockhall.com/inductees/pink-floyd/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Bei Pink Floyd kann eine ganze LP einem zusammenhängenden Gedanken folgen. Was würde den Zusammenhang eines solchen Konzeptalbums am ehesten unterbrechen? Die Stücke nur zufällig gemischt zwischen anderen Hits hören. Bei einem Konzeptalbum trägt die Anordnung der Stücke zu einem größeren Ganzen bei. Die Rock Hall hebt solche Alben bei Pink Floyd ausdrücklich hervor.",
+        "locator": "hallpink, Textstelle 32",
+        "source_sha256": "670c8b813d96d53de75c86cbddf68101dd84e5a7965ca0ff696443795b0dd810"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-prince-mehrspur",
+    "fact_key": "q3.e.prince.mehrspur",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Prince konnte selbst mehrere Instrumente spielen. Wie konnte ein Tonstudio diese Fähigkeit für den Klang einer ganzen Band nutzen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Instrumentalparts nacheinander auf getrennte Spuren aufnehmen"
+      },
+      {
+        "id": "b",
+        "text": "Nur die Lautstärke eines einzelnen Tons erhöhen"
+      },
+      {
+        "id": "c",
+        "text": "Die Band allein durch häufigere Pausen vergrößern"
+      },
+      {
+        "id": "d",
+        "text": "Alle Instrumente gleichzeitig mit einer Hand spielen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mehrere getrennte Aufnahmen lassen sich zusammenmischen. Das passt zu Princes Arbeit als vielseitiger Instrumentalist und eigenständiger Studiokünstler.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · prince",
+        "url": "https://rockhall.com/inductees/prince/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Prince konnte selbst mehrere Instrumente spielen. Wie konnte ein Tonstudio diese Fähigkeit für den Klang einer ganzen Band nutzen? Die Instrumentalparts nacheinander auf getrennte Spuren aufnehmen. Mehrere getrennte Aufnahmen lassen sich zusammenmischen. Das passt zu Princes Arbeit als vielseitiger Instrumentalist und eigenständiger Studiokünstler.",
+        "locator": "hallprince, Textstelle 15",
+        "source_sha256": "72b2522a683ecc06cd0298de48425fac17e2b78498bad5241ace41d7dbb5237f"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-zappa-umfang",
+    "fact_key": "q3.e.zappa.umfang",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Frank Zappa arbeitete von Rock über Jazz bis zur klassischen Musik. Welche Größenordnung gibt die Rock Hall für die Alben seiner Karriere an?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Über zweitausend Alben"
+      },
+      {
+        "id": "b",
+        "text": "Rund sechzig Alben"
+      },
+      {
+        "id": "c",
+        "text": "Etwa sechs Alben"
+      },
+      {
+        "id": "d",
+        "text": "Etwa sechshundert Alben"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Porträt nennt sechzig Alben. Die Zahl veranschaulicht, wie viel Musik neben seiner Arbeit als Gitarrist und Komponist entstand.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · frank-zappa",
+        "url": "https://rockhall.com/inductees/frank-zappa/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Frank Zappa arbeitete von Rock über Jazz bis zur klassischen Musik. Welche Größenordnung gibt die Rock Hall für die Alben seiner Karriere an? Rund sechzig Alben. Das Porträt nennt sechzig Alben. Die Zahl veranschaulicht, wie viel Musik neben seiner Arbeit als Gitarrist und Komponist entstand.",
+        "locator": "hallfrank, Textstelle 20",
+        "source_sha256": "9a2f878aa4020268f1c2e90739bf7f5eba4547a870fc3dfa7827cec0cc8666d2"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-tina-chronologie",
+    "fact_key": "q3.e.tina.chronologie",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein Fotobuch zeigt erst die Ike & Tina Turner Revue und danach Tina als Solostar in einer großen Arena. Welcher Zeitfolge entspricht der Aufbau?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Beide Phasen lagen vor dem Zweiten Weltkrieg."
+      },
+      {
+        "id": "b",
+        "text": "Die Solokarriere lag vollständig vor der Revuezeit."
+      },
+      {
+        "id": "c",
+        "text": "Abschied von der Revue in den Siebzigern, Soloerfolg in den Achtzigern"
+      },
+      {
+        "id": "d",
+        "text": "Soloerfolg in den Fünfzigern, Revuegründung in den Neunzigern"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Tina Turner verließ die Revue 1976. Ihre internationale Solokarriere im Pop und Rock wurde in den Achtzigerjahren besonders erfolgreich.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · tina-turner",
+        "url": "https://rockhall.com/inductees/tina-turner/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Ein Fotobuch zeigt erst die Ike & Tina Turner Revue und danach Tina als Solostar in einer großen Arena. Welcher Zeitfolge entspricht der Aufbau? Abschied von der Revue in den Siebzigern, Soloerfolg in den Achtzigern. Tina Turner verließ die Revue 1976. Ihre internationale Solokarriere im Pop und Rock wurde in den Achtzigerjahren besonders erfolgreich.",
+        "locator": "halltina, Textstelle 16",
+        "source_sha256": "6ff472aa6550d767ed8de498c4c43948cc6b0d493bb782228a8eb064aa03ecdc"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-zeppelin-live",
+    "fact_key": "q3.e.zeppelin.live",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Auf zwei Konzertmitschnitten von Led Zeppelin führt dasselbe Lied in unterschiedlich lange, spontan entwickelte Passagen. Welches Bühnenprinzip ist daran hörbar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wiedergabe desselben fertigen Tonbands"
+      },
+      {
+        "id": "b",
+        "text": "Bloße Änderung der Abspielgeschwindigkeit"
+      },
+      {
+        "id": "c",
+        "text": "Ein vollständiger Tausch der Liedsprache"
+      },
+      {
+        "id": "d",
+        "text": "Improvisation"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Band nutzte ihre Konzerte für Improvisationen. So konnte eine Livefassung deutlich von der Studioproduktion abweichen.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · led-zeppelin",
+        "url": "https://rockhall.com/inductees/led-zeppelin/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Auf zwei Konzertmitschnitten von Led Zeppelin führt dasselbe Lied in unterschiedlich lange, spontan entwickelte Passagen. Welches Bühnenprinzip ist daran hörbar? Improvisation. Die Band nutzte ihre Konzerte für Improvisationen. So konnte eine Livefassung deutlich von der Studioproduktion abweichen.",
+        "locator": "hallzepp, Textstelle 28",
+        "source_sha256": "17c70d548f097891bf8a92ad03493c7ac264d4a5dc7cf48e6ab4bb9f9b323dfc"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-orbison-buehne",
+    "fact_key": "q3.e.orbison.buehne",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Eine Ballade von Roy Orbison wirkt durch den groß geführten Gesang fast wie ein Stück aus dem Musiktheater. Welcher Vergleich trifft diese Seite seines Stils?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit einer Opernarie"
+      },
+      {
+        "id": "b",
+        "text": "Mit einem durchgehend gesprochenen Monolog"
+      },
+      {
+        "id": "c",
+        "text": "Mit einem unbegleiteten Trommelsolo"
+      },
+      {
+        "id": "d",
+        "text": "Mit einem reinen Geräuschstück"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Unter seinen unterschiedlichen Songformen hebt die Rock Hall ausdrücklich opernhaft gesungene Balladen hervor.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · roy-orbison",
+        "url": "https://rockhall.com/inductees/roy-orbison/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Eine Ballade von Roy Orbison wirkt durch den groß geführten Gesang fast wie ein Stück aus dem Musiktheater. Welcher Vergleich trifft diese Seite seines Stils? Mit einer Opernarie. Unter seinen unterschiedlichen Songformen hebt die Rock Hall ausdrücklich opernhaft gesungene Balladen hervor.",
+        "locator": "hallroy, Textstelle 16",
+        "source_sha256": "1b5076248a7f00fb79881b5c26229d0993a51e87ff307b90526580802e8cdcaa"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-eagles-bestof",
+    "fact_key": "q3.e.eagles.bestof",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Das frühe Platin-Album der Eagles bündelte bereits bekannte Hits. In welches Regal gehört eine solche Zusammenstellung im Plattenladen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zu den Alben mit Filmdialogen"
+      },
+      {
+        "id": "b",
+        "text": "Zu den Best-of-Sammlungen"
+      },
+      {
+        "id": "c",
+        "text": "Zu den neu eingespielten Debütalben"
+      },
+      {
+        "id": "d",
+        "text": "Zu den ungeschnittenen Konzertmitschnitten"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Album vereinte erfolgreiche frühere Aufnahmen der Gruppe. Eine solche Zusammenstellung kann eine Karriere rückblickend hörbar machen.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · eagles",
+        "url": "https://rockhall.com/inductees/eagles/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Das frühe Platin-Album der Eagles bündelte bereits bekannte Hits. In welches Regal gehört eine solche Zusammenstellung im Plattenladen? Zu den Best-of-Sammlungen. Das Album vereinte erfolgreiche frühere Aufnahmen der Gruppe. Eine solche Zusammenstellung kann eine Karriere rückblickend hörbar machen.",
+        "locator": "halleagles, Textstelle 15",
+        "source_sha256": "ea2be6bc168578552f29b46f365038ac7a887bf08efb60838b13cb2747b68ef9"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-holly-einordnung",
+    "fact_key": "q3.e.holly.einordnung",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Buddy Holly verband Rockabilly, Country und Rhythm and Blues schon als Jugendidol der Fünfziger. Welches spätere Jahrzehnt war bei diesen frühen Erfolgen noch Zukunft?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Zwanziger mit der Jazzbegeisterung"
+      },
+      {
+        "id": "b",
+        "text": "Die Vierziger mit dem Kriegsende"
+      },
+      {
+        "id": "c",
+        "text": "Die Sechziger mit der britischen Beatwelle"
+      },
+      {
+        "id": "d",
+        "text": "Die Dreißiger mit der Swingzeit"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Holly gehörte zu den frühen Rock-’n’-Roll-Musikern der Fünfzigerjahre. Die große britische Beatwelle folgte danach.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · buddy-holly",
+        "url": "https://rockhall.com/inductees/buddy-holly/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Buddy Holly verband Rockabilly, Country und Rhythm and Blues schon als Jugendidol der Fünfziger. Welches spätere Jahrzehnt war bei diesen frühen Erfolgen noch Zukunft? Die Sechziger mit der britischen Beatwelle. Holly gehörte zu den frühen Rock-’n’-Roll-Musikern der Fünfzigerjahre. Die große britische Beatwelle folgte danach.",
+        "locator": "hallbuddy, Textstelle 20",
+        "source_sha256": "452b6849790a855343bba4fc9cb990e642be84c5ac8aa14f400544812606e8dd"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-elvis-quellen",
+    "fact_key": "q3.e.elvis.quellen",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Ein Programm über Elvis Presley stellt Gospelgesang neben Blues und Country. Warum passen diese verschiedenen Hörbeispiele in dasselbe Porträt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alle drei Wörter bezeichnen genau dieselbe Musikrichtung."
+      },
+      {
+        "id": "b",
+        "text": "Elvis spielte jeden dieser Stile nur in Stummfilmen."
+      },
+      {
+        "id": "c",
+        "text": "Seine Platten wurden ausschließlich in Kirchen aufgenommen."
+      },
+      {
+        "id": "d",
+        "text": "Sein Rock ’n’ Roll griff mehrere dieser Traditionen auf."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Das Porträt der Rock Hall beschreibt, wie Presley mehrere musikalische Wurzeln zu seinem eigenen Stil verband.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · elvis-presley",
+        "url": "https://rockhall.com/inductees/elvis-presley/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Ein Programm über Elvis Presley stellt Gospelgesang neben Blues und Country. Warum passen diese verschiedenen Hörbeispiele in dasselbe Porträt? Sein Rock ’n’ Roll griff mehrere dieser Traditionen auf. Das Porträt der Rock Hall beschreibt, wie Presley mehrere musikalische Wurzeln zu seinem eigenen Stil verband.",
+        "locator": "hallelvis, Textstelle 27",
+        "source_sha256": "0b8315efd344ce23a766b9ea5604fe015fb46ebfddbf9c523ca78adca7e802a0"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-baez-engagement",
+    "fact_key": "q3.e.baez.engagement",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Joan Baez verband Folk mit öffentlichem Engagement. Welche Situation macht aus einem Bühnenlied am ehesten ein Protestlied?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es gibt einer politischen Forderung bei einer Kundgebung eine Stimme."
+      },
+      {
+        "id": "b",
+        "text": "Es wird mit einer besonders teuren Gitarre gespielt."
+      },
+      {
+        "id": "c",
+        "text": "Es dauert länger als die meisten Radiosingles."
+      },
+      {
+        "id": "d",
+        "text": "Es ist in einer ungewöhnlichen Tonart notiert."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Folk konnte politische Anliegen weit über die eigentliche Versammlung tragen. Baez war eine wichtige Stimme dieser Verbindung von Musik und Engagement.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · joan-baez",
+        "url": "https://rockhall.com/inductees/joan-baez/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Joan Baez verband Folk mit öffentlichem Engagement. Welche Situation macht aus einem Bühnenlied am ehesten ein Protestlied? Es gibt einer politischen Forderung bei einer Kundgebung eine Stimme. Folk konnte politische Anliegen weit über die eigentliche Versammlung tragen. Baez war eine wichtige Stimme dieser Verbindung von Musik und Engagement.",
+        "locator": "hallfolk, Textstelle 16",
+        "source_sha256": "133d9bc261a4deb5b633fc044fa8d3a8d84151abe8ca5709801e9572790d1481"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-genesis-gesang",
+    "fact_key": "q3.e.genesis.gesang",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Die Rock Hall stellt den bodenständigeren Stil mit Phil Collins und die Exzentrik mit Peter Gabriel gegenüber. Welchen Wandel durchlief Genesis beim Wechsel der Frontmänner?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Von einer reinen Instrumentalgruppe zu Gabriel und Collins als Gesangsduo"
+      },
+      {
+        "id": "b",
+        "text": "Von der verspielten Gabriel-Phase zur zugänglicheren Collins-Phase"
+      },
+      {
+        "id": "c",
+        "text": "Von der bodenständigeren Collins-Phase zur exzentrischen Gabriel-Phase"
+      },
+      {
+        "id": "d",
+        "text": "Von jahrelangem Wechselgesang zu zwei getrennten Genesis-Bands"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Auf die von Gabriel geprägte Phase folgte die Zeit mit Collins am Mikrofon. Damit veränderte sich auch der musikalische Schwerpunkt der Band.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · genesis",
+        "url": "https://rockhall.com/inductees/genesis/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Die Rock Hall stellt den bodenständigeren Stil mit Phil Collins und die Exzentrik mit Peter Gabriel gegenüber. Welchen Wandel durchlief Genesis beim Wechsel der Frontmänner? Von der verspielten Gabriel-Phase zur zugänglicheren Collins-Phase. Auf die von Gabriel geprägte Phase folgte die Zeit mit Collins am Mikrofon. Damit veränderte sich auch der musikalische Schwerpunkt der Band.",
+        "locator": "hallgenesis, Textstelle 15",
+        "source_sha256": "ab78fde9fe915efd105f5694fbc8546b863beda249cc7b8f11695cd252b17047"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-ray-soul",
+    "fact_key": "q3.e.ray.soul",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Ray Charles verband die Kraft kirchlichen Gospelgesangs mit dem Blues. Welcher Stilname passt zu der daraus mitentwickelten Musik und bedeutet auch „Seele“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Beat"
+      },
+      {
+        "id": "b",
+        "text": "Punk"
+      },
+      {
+        "id": "c",
+        "text": "Soul"
+      },
+      {
+        "id": "d",
+        "text": "Swing"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Soul entwickelte sich unter anderem aus Gospel und Blues. Ray Charles gehört zu den Musikern, bei denen diese Verbindung besonders gut zu hören ist.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · ray-charles",
+        "url": "https://rockhall.com/inductees/ray-charles/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Ray Charles verband die Kraft kirchlichen Gospelgesangs mit dem Blues. Welcher Stilname passt zu der daraus mitentwickelten Musik und bedeutet auch „Seele“? Soul. Soul entwickelte sich unter anderem aus Gospel und Blues. Ray Charles gehört zu den Musikern, bei denen diese Verbindung besonders gut zu hören ist.",
+        "locator": "hallray, Textstelle 16",
+        "source_sha256": "88325b2911c6241214df54bd3c8dcd2ddabb2686193d50aac18c70c02ef67462"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-bowie-dauer",
+    "fact_key": "q3.e.bowie.dauer",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "David Bowies Laufbahn umfasste laut Rock Hall rund fünf Jahrzehnte. Welcher Lebensabschnitt hat ungefähr dieselbe Länge?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Von der Einschulung bis zur Volljährigkeit"
+      },
+      {
+        "id": "b",
+        "text": "Vom dreißigsten bis zum vierzigsten Geburtstag"
+      },
+      {
+        "id": "c",
+        "text": "Vom fünfzigsten bis zum sechzigsten Geburtstag"
+      },
+      {
+        "id": "d",
+        "text": "Vom zwanzigsten bis zum siebzigsten Geburtstag"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Fünf Jahrzehnte entsprechen etwa fünfzig Jahren. Bowie veränderte seine künstlerische Gestalt über diesen langen Zeitraum immer wieder.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · david-bowie",
+        "url": "https://rockhall.com/inductees/david-bowie/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "David Bowies Laufbahn umfasste laut Rock Hall rund fünf Jahrzehnte. Welcher Lebensabschnitt hat ungefähr dieselbe Länge? Vom zwanzigsten bis zum siebzigsten Geburtstag. Fünf Jahrzehnte entsprechen etwa fünfzig Jahren. Bowie veränderte seine künstlerische Gestalt über diesen langen Zeitraum immer wieder.",
+        "locator": "hallbowie, Textstelle 16",
+        "source_sha256": "4e1e0e2f91b0e626283fe7fd9738d09676504791011409cdbf93feeeaaec4231"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-franklin-alter",
+    "fact_key": "q3.e.franklin.alter",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Aretha Franklin kam 1942 zur Welt. Wie alt war sie ungefähr, als sie 1967 ihre später weltberühmte Fassung von „Respect“ aufnahm?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mitte zwanzig"
+      },
+      {
+        "id": "b",
+        "text": "Anfang vierzig"
+      },
+      {
+        "id": "c",
+        "text": "Mitte fünfzig"
+      },
+      {
+        "id": "d",
+        "text": "Über siebzig"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Franklin war fünfundzwanzig Jahre alt. Die Aufnahme wurde in dieser frühen Phase ihrer Karriere zu einem ihrer bekanntesten Lieder.",
+    "tags": [
+      "thema_popmusik",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · aretha-franklin",
+        "url": "https://rockhall.com/inductees/aretha-franklin/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Aretha Franklin kam 1942 zur Welt. Wie alt war sie ungefähr, als sie 1967 ihre später weltberühmte Fassung von „Respect“ aufnahm? Mitte zwanzig. Franklin war fünfundzwanzig Jahre alt. Die Aufnahme wurde in dieser frühen Phase ihrer Karriere zu einem ihrer bekanntesten Lieder.",
+        "locator": "hallaretha, Textstelle 28",
+        "source_sha256": "28f3c94d05bff0182a3b8ad4f1340575630486a17187d690ffc1ea5505ef7b84"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-springsteen-stimmen",
+    "fact_key": "q3.e.springsteen.stimmen",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Für ein Programm über Bruce Springsteens Blick auf die Arbeitswelt fehlt eine Hauptfigur. Welche Figur entspricht seinen oft aufgegriffenen Alltagserfahrungen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Zauberlehrling in einer Märchenwelt"
+      },
+      {
+        "id": "b",
+        "text": "Ein Arbeiter, der zwischen Schichtende und Zukunftsplänen steht"
+      },
+      {
+        "id": "c",
+        "text": "Ein antiker Gott auf dem Olymp"
+      },
+      {
+        "id": "d",
+        "text": "Ein höfischer Sänger beim mittelalterlichen Turnier"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Springsteen brachte Erfahrungen der arbeitenden Bevölkerung in erzählerische Rocksongs ein. Persönliche Stimmen und gesellschaftliche Fragen begegnen sich darin.",
+    "tags": [
+      "thema_popmusik",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · bruce-springsteen",
+        "url": "https://rockhall.com/inductees/bruce-springsteen/",
+        "checked_at": "2026-11-22T22:25:52+00:00",
+        "verified_claim": "Für ein Programm über Bruce Springsteens Blick auf die Arbeitswelt fehlt eine Hauptfigur. Welche Figur entspricht seinen oft aufgegriffenen Alltagserfahrungen? Ein Arbeiter, der zwischen Schichtende und Zukunftsplänen steht. Springsteen brachte Erfahrungen der arbeitenden Bevölkerung in erzählerische Rocksongs ein. Persönliche Stimmen und gesellschaftliche Fragen begegnen sich darin.",
+        "locator": "hallspring, Textstelle 16",
+        "source_sha256": "58532aef953a83f515d88bd34e02696e1b3cc47e311b1bf62838f6ea17e9c2f8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:52+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

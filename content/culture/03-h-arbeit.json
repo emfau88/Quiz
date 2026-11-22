@@ -1,0 +1,2175 @@
+[
+  {
+    "id": "q3-h-new-lanark-schule",
+    "fact_key": "q3.h.new.lanark.schule",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In New Lanark stehen neben Baumwollspinnerei und Arbeiterwohnungen eine Schule und ein Bildungsinstitut. Was wollte Robert Owen damit zeigen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auch Bildung und Wohnen gehören zu einer guten Arbeitersiedlung."
+      },
+      {
+        "id": "b",
+        "text": "Die Fabrik sollte ausschließlich ein Internat beliefern."
+      },
+      {
+        "id": "c",
+        "text": "Schulkinder sollten die gesamte Produktion übernehmen."
+      },
+      {
+        "id": "d",
+        "text": "In den Fabrikhallen sollten nur noch Lehrbücher entstehen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Owen machte den schottischen Fabrikort im frühen 19. Jahrhundert zu einem sozialen Modellprojekt. Die Gebäude für Arbeit, Wohnen und Lernen stehen beieinander.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · New Lanark",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "In New Lanark stehen neben Baumwollspinnerei und Arbeiterwohnungen eine Schule und ein Bildungsinstitut. Was wollte Robert Owen damit zeigen? Auch Bildung und Wohnen gehören zu einer guten Arbeitersiedlung. Owen machte den schottischen Fabrikort im frühen 19. Jahrhundert zu einem sozialen Modellprojekt. Die Gebäude für Arbeit, Wohnen und Lernen stehen beieinander.",
+        "locator": "whc/429, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-ivrea-buero",
+    "fact_key": "q3.h.ivrea.buero",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Wer in der italienischen Modellstadt Ivrea bei Olivetti arbeitete, begegnete Schreibmaschinen und mechanischen Rechnern. Was verbindet diese Produkte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie bewegten die Webstühle in Spinnereien."
+      },
+      {
+        "id": "b",
+        "text": "Sie veränderten die Arbeit im Büro."
+      },
+      {
+        "id": "c",
+        "text": "Sie dienten vor allem dem Bergbau."
+      },
+      {
+        "id": "d",
+        "text": "Sie belichteten Kinofilme."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Olivetti stellte später auch Bürocomputer her. Fabrik, Wohnungen und soziale Einrichtungen wurden in Ivrea gemeinsam geplant.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Ivrea, industrial city of the 20th century",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Wer in der italienischen Modellstadt Ivrea bei Olivetti arbeitete, begegnete Schreibmaschinen und mechanischen Rechnern. Was verbindet diese Produkte? Sie veränderten die Arbeit im Büro. Olivetti stellte später auch Bürocomputer her. Fabrik, Wohnungen und soziale Einrichtungen wurden in Ivrea gemeinsam geplant.",
+        "locator": "whc/1538, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-fray-bentos-export",
+    "fact_key": "q3.h.fray.bentos.export",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Im Hafen von Fray Bentos wurde 1865 bereits Fleisch für Europa verladen. Welches Produkt ließ sich vor dem späteren Export von Gefrierfleisch verschicken?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Käse und gezuckerte Kondensmilch"
+      },
+      {
+        "id": "b",
+        "text": "Gefriergetrocknete Steaks und Bratwürste"
+      },
+      {
+        "id": "c",
+        "text": "Fleischextrakt und Corned Beef"
+      },
+      {
+        "id": "d",
+        "text": "Räucherfisch und Fischmehl"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Eine Fabrik in Uruguay verarbeitete Rindfleisch aus den umliegenden Weidegebieten. Gefrierfleisch wurde von dort ab 1924 exportiert.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Fray Bentos Industrial Landscape",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Im Hafen von Fray Bentos wurde 1865 bereits Fleisch für Europa verladen. Welches Produkt ließ sich vor dem späteren Export von Gefrierfleisch verschicken? Fleischextrakt und Corned Beef. Eine Fabrik in Uruguay verarbeitete Rindfleisch aus den umliegenden Weidegebieten. Gefrierfleisch wurde von dort ab 1924 exportiert.",
+        "locator": "whc/1464, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-sewell-treppe",
+    "fact_key": "q3.h.sewell.treppe",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In der Bergarbeiterstadt Sewell führte eine große Treppe vom Bahnhof durch den Ort. Warum übernahm sie eine Aufgabe, die anderswo Straßen erfüllen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Bahnhof lag auf einem kleinen See."
+      },
+      {
+        "id": "b",
+        "text": "Treppen waren damals überall billiger als Fußwege."
+      },
+      {
+        "id": "c",
+        "text": "Die Siedlung sollte einen königlichen Park nachbilden."
+      },
+      {
+        "id": "d",
+        "text": "Der Hang war zu steil für Fahrzeuge mit Rädern."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Sewell entstand hoch in den chilenischen Anden für ein Kupferbergwerk. Die Treppe erschloss die Gebäude am steilen Hang.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Sewell Mining Town",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "In der Bergarbeiterstadt Sewell führte eine große Treppe vom Bahnhof durch den Ort. Warum übernahm sie eine Aufgabe, die anderswo Straßen erfüllen? Der Hang war zu steil für Fahrzeuge mit Rädern. Sewell entstand hoch in den chilenischen Anden für ein Kupferbergwerk. Die Treppe erschloss die Gebäude am steilen Hang.",
+        "locator": "whc/1214, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-salpeter-pampa",
+    "fact_key": "q3.h.salpeter.pampa",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Chilenische Salpeterwerke mitten in der Wüste lieferten einen Stoff für Felder in weiter Ferne. Welcher Nutzen verbindet die beiden Landschaften?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Salpeter wurde als Dünger genutzt."
+      },
+      {
+        "id": "b",
+        "text": "Sand ersetzte dort die Ackererde."
+      },
+      {
+        "id": "c",
+        "text": "Die Werke pressten aus Pflanzen Speiseöl."
+      },
+      {
+        "id": "d",
+        "text": "Aus Wüstensalz entstand Bewässerungswasser."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In Humberstone und Santa Laura gewannen Arbeiter Natriumnitrat. Der Export veränderte die Landwirtschaft weit über Chile hinaus.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Humberstone and Santa Laura Saltpeter Works",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Chilenische Salpeterwerke mitten in der Wüste lieferten einen Stoff für Felder in weiter Ferne. Welcher Nutzen verbindet die beiden Landschaften? Salpeter wurde als Dünger genutzt. In Humberstone und Santa Laura gewannen Arbeiter Natriumnitrat. Der Export veränderte die Landwirtschaft weit über Chile hinaus.",
+        "locator": "whc/1178, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-mauritius-migration",
+    "fact_key": "q3.h.mauritius.migration",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Die Ankunftsstelle Aapravasi Ghat auf Mauritius empfing von 1834 bis 1920 Vertragsarbeiter aus Indien. Wie groß war diese Wanderung ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fünfzig Millionen Menschen"
+      },
+      {
+        "id": "b",
+        "text": "Eine halbe Million Menschen"
+      },
+      {
+        "id": "c",
+        "text": "Fünftausend Menschen"
+      },
+      {
+        "id": "d",
+        "text": "Fünfzigtausend Menschen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Fast eine halbe Million Menschen kamen an diesem Ort an. Viele arbeiteten auf Zuckerplantagen, andere wurden weitergeschickt.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Aapravasi Ghat",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Die Ankunftsstelle Aapravasi Ghat auf Mauritius empfing von 1834 bis 1920 Vertragsarbeiter aus Indien. Wie groß war diese Wanderung ungefähr? Eine halbe Million Menschen. Fast eine halbe Million Menschen kamen an diesem Ort an. Viele arbeiteten auf Zuckerplantagen, andere wurden weitergeschickt.",
+        "locator": "whc/1227, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-redbay-lampen",
+    "fact_key": "q3.h.redbay.lampen",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Baskische Seeleute brachten aus Red Bay in Kanada Walöl nach Europa. Welchen Bedarf deckte es in Städten vor der elektrischen Beleuchtung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Treibstoff für Elektromotoren"
+      },
+      {
+        "id": "b",
+        "text": "Kältemittel für Eiskeller"
+      },
+      {
+        "id": "c",
+        "text": "Brennstoff für Lampen"
+      },
+      {
+        "id": "d",
+        "text": "Bindemittel für Ziegel"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Walfangstation war im 16. Jahrhundert im Sommer in Betrieb. Aus dem Fett gewonnenes Öl wurde über den Atlantik verschifft.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Red Bay Basque Whaling Station",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Baskische Seeleute brachten aus Red Bay in Kanada Walöl nach Europa. Welchen Bedarf deckte es in Städten vor der elektrischen Beleuchtung? Brennstoff für Lampen. Die Walfangstation war im 16. Jahrhundert im Sommer in Betrieb. Aus dem Fett gewonnenes Öl wurde über den Atlantik verschifft.",
+        "locator": "whc/1412, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-augsburg-fleischhalle",
+    "fact_key": "q3.h.augsburg.fleischhalle",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die historische Stadtmetzg in Augsburg war Teil des städtischen Wassernetzes. Welchen Nutzen hatte das Wasser dort für die gelagerten Waren?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es ersetzte die Öfen beim Räuchern."
+      },
+      {
+        "id": "b",
+        "text": "Es lieferte das Salz zum Pökeln."
+      },
+      {
+        "id": "c",
+        "text": "Es trocknete die Würste an der Decke."
+      },
+      {
+        "id": "d",
+        "text": "Es hielt das Fleisch kühl."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Augsburg nutzte ein Netz von Kanälen und technischen Anlagen für ganz verschiedene Zwecke. Dazu gehörte die Kühlung der Fleischhalle.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Water Management System of Augsburg",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Die historische Stadtmetzg in Augsburg war Teil des städtischen Wassernetzes. Welchen Nutzen hatte das Wasser dort für die gelagerten Waren? Es hielt das Fleisch kühl. Augsburg nutzte ein Netz von Kanälen und technischen Anlagen für ganz verschiedene Zwecke. Dazu gehörte die Kühlung der Fleischhalle.",
+        "locator": "whc/1580, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-saltaire-gesamtanlage",
+    "fact_key": "q3.h.saltaire.gesamtanlage",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die Fabriken, Wohnhäuser und öffentlichen Gebäude von Saltaire haben einen auffallend einheitlichen Baustil. Worauf deutet das hin?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fabrik und Siedlung wurden als Ganzes geplant."
+      },
+      {
+        "id": "b",
+        "text": "Alle Bewohner bauten unabhängig dieselbe Art Bauernhof."
+      },
+      {
+        "id": "c",
+        "text": "Eine verlassene Klosteranlage wurde zur Hafenstadt."
+      },
+      {
+        "id": "d",
+        "text": "Die Häuser stammen aus vielen unverbundenen Epochen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die englische Textilsiedlung entstand in der zweiten Hälfte des 19. Jahrhunderts. Die Planung umfasste auch das Leben der Beschäftigten.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Saltaire",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:29:59+00:00",
+        "verified_claim": "Die Fabriken, Wohnhäuser und öffentlichen Gebäude von Saltaire haben einen auffallend einheitlichen Baustil. Worauf deutet das hin? Fabrik und Siedlung wurden als Ganzes geplant. Die englische Textilsiedlung entstand in der zweiten Hälfte des 19. Jahrhunderts. Die Planung umfasste auch das Leben der Beschäftigten.",
+        "locator": "whc/1028, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:59+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-rjukan-wasserkraft",
+    "fact_key": "q3.h.rjukan.wasserkraft",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Warum lagen im norwegischen Industriegebiet Rjukan Wasserfälle, Kraftwerke und Düngerfabriken in derselben Produktionslandschaft?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dünger wurde nur an Bergseen verkauft."
+      },
+      {
+        "id": "b",
+        "text": "Wasserkraft lieferte Energie für die Fabriken."
+      },
+      {
+        "id": "c",
+        "text": "Aus Wasserfällen wurde direkt Salpeter geschöpft."
+      },
+      {
+        "id": "d",
+        "text": "Die Wasserfälle dienten vor allem dem Export in Fässern."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Norsk-Hydro-Werke stellten mit viel Energie Kunstdünger aus dem Stickstoff der Luft her. Kraftwerke und Leitungen gehörten zum Industriekomplex.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Rjukan-Notodden Industrial Heritage Site",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:00+00:00",
+        "verified_claim": "Warum lagen im norwegischen Industriegebiet Rjukan Wasserfälle, Kraftwerke und Düngerfabriken in derselben Produktionslandschaft? Wasserkraft lieferte Energie für die Fabriken. Die Norsk-Hydro-Werke stellten mit viel Energie Kunstdünger aus dem Stickstoff der Luft her. Kraftwerke und Leitungen gehörten zum Industriekomplex.",
+        "locator": "whc/1486, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:00+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-zollverein-essen",
+    "fact_key": "q3.h.zollverein.essen",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Förderanlagen und große Industriebauten prägen die Zeche Zollverein in Essen. Welche Arbeitswelt lässt sich dort rekonstruieren?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Salzgewinnung in den Alpen"
+      },
+      {
+        "id": "b",
+        "text": "Die Porzellanmalerei in Sachsen"
+      },
+      {
+        "id": "c",
+        "text": "Die Steinkohlenförderung im Ruhrgebiet"
+      },
+      {
+        "id": "d",
+        "text": "Die Hochseefischerei der Nordsee"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Zollverein bewahrt die Infrastruktur eines Bergwerks. Die Bauten erzählen vom Aufstieg und späteren Rückgang der Kohleindustrie.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Zollverein Coal Mine Industrial Complex in Essen",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:00+00:00",
+        "verified_claim": "Förderanlagen und große Industriebauten prägen die Zeche Zollverein in Essen. Welche Arbeitswelt lässt sich dort rekonstruieren? Die Steinkohlenförderung im Ruhrgebiet. Zollverein bewahrt die Infrastruktur eines Bergwerks. Die Bauten erzählen vom Aufstieg und späteren Rückgang der Kohleindustrie.",
+        "locator": "whc/975, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:00+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-falun-kupfer",
+    "fact_key": "q3.h.falun.kupfer",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Eine riesige Grube prägt die alte Bergbaustadt Falun. Welcher Rohstoff machte den Ort seit dem Mittelalter bedeutend und eignet sich auch für elektrische Leitungen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kalkstein"
+      },
+      {
+        "id": "b",
+        "text": "Torf"
+      },
+      {
+        "id": "c",
+        "text": "Salz"
+      },
+      {
+        "id": "d",
+        "text": "Kupfer"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Das schwedische Revier förderte spätestens seit dem 13. Jahrhundert Kupfer. Die große Grube und die Siedlungen bezeugen diese lange Geschichte.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Mining Area of the Great Copper Mountain in Falun",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:00+00:00",
+        "verified_claim": "Eine riesige Grube prägt die alte Bergbaustadt Falun. Welcher Rohstoff machte den Ort seit dem Mittelalter bedeutend und eignet sich auch für elektrische Leitungen? Kupfer. Das schwedische Revier förderte spätestens seit dem 13. Jahrhundert Kupfer. Die große Grube und die Siedlungen bezeugen diese lange Geschichte.",
+        "locator": "whc/1027, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:00+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-plantin-lettern",
+    "fact_key": "q3.h.plantin.lettern",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In Antwerpens Haus Plantin-Moretus arbeiteten Setzer und Verleger unter einem Dach. Welches Produkt verließ die Werkstätten der Renaissance?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gedruckte Bücher"
+      },
+      {
+        "id": "b",
+        "text": "Gewebte Wandteppiche"
+      },
+      {
+        "id": "c",
+        "text": "Geschliffene Brillengläser"
+      },
+      {
+        "id": "d",
+        "text": "Ausgemalte Kirchenfenster"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Antwerpen gehörte neben Paris und Venedig zu den Zentren des frühen Buchdrucks. Die Verbindung von Druckerei und Verlag hat sich im Museum erhalten.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Plantin-Moretus House-Workshops-Museum Complex",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:00+00:00",
+        "verified_claim": "In Antwerpens Haus Plantin-Moretus arbeiteten Setzer und Verleger unter einem Dach. Welches Produkt verließ die Werkstätten der Renaissance? Gedruckte Bücher. Antwerpen gehörte neben Paris und Venedig zu den Zentren des frühen Buchdrucks. Die Verbindung von Druckerei und Verlag hat sich im Museum erhalten.",
+        "locator": "whc/1185, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:00+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-arzgebirge-silber",
+    "fact_key": "q3.h.arzgebirge.silber",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Ein Bergmann im sächsisch-böhmischen Erzgebirge um 1500 arbeitet in Europas damals wichtigstem Fördergebiet für welches Münzmetall?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zink"
+      },
+      {
+        "id": "b",
+        "text": "Silber"
+      },
+      {
+        "id": "c",
+        "text": "Aluminium"
+      },
+      {
+        "id": "d",
+        "text": "Platin"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Zwischen etwa 1460 und 1560 war das Erzgebirge die wichtigste europäische Quelle für Silbererz. Bergbau förderte dort auch technische Neuerungen.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Erzgebirge/Krušnohoří Mining Region",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:00+00:00",
+        "verified_claim": "Ein Bergmann im sächsisch-böhmischen Erzgebirge um 1500 arbeitet in Europas damals wichtigstem Fördergebiet für welches Münzmetall? Silber. Zwischen etwa 1460 und 1560 war das Erzgebirge die wichtigste europäische Quelle für Silbererz. Bergbau förderte dort auch technische Neuerungen.",
+        "locator": "whc/1478, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:00+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-semmering-spur",
+    "fact_key": "q3.h.semmering.spur",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Die Semmeringbahn durchquert hohe Berge mit Tunneln und Viadukten. Wann gelang ihr Bau, wenn die Strecke schon vor der Gründung des Deutschen Kaiserreichs fertig war?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In den 1950er-Jahren"
+      },
+      {
+        "id": "b",
+        "text": "Während der Renaissance"
+      },
+      {
+        "id": "c",
+        "text": "Mitte des 19. Jahrhunderts"
+      },
+      {
+        "id": "d",
+        "text": "Nach dem Ersten Weltkrieg"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die österreichische Gebirgsbahn entstand von 1848 bis 1854. Die Trasse zeigt, was der frühe Eisenbahnbau bereits leisten konnte.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Semmering Railway",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:00+00:00",
+        "verified_claim": "Die Semmeringbahn durchquert hohe Berge mit Tunneln und Viadukten. Wann gelang ihr Bau, wenn die Strecke schon vor der Gründung des Deutschen Kaiserreichs fertig war? Mitte des 19. Jahrhunderts. Die österreichische Gebirgsbahn entstand von 1848 bis 1854. Die Trasse zeigt, was der frühe Eisenbahnbau bereits leisten konnte.",
+        "locator": "whc/785, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:00+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-forth-spannweite",
+    "fact_key": "q3.h.forth.spannweite",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die Forth Bridge bei Edinburgh hielt 1890 mit ihren großen Spannweiten einen Rekord. Wie weit reicht eine ihrer Hauptöffnungen ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fünfzig Meter"
+      },
+      {
+        "id": "b",
+        "text": "Fünf Kilometer"
+      },
+      {
+        "id": "c",
+        "text": "Zwanzig Kilometer"
+      },
+      {
+        "id": "d",
+        "text": "Einen halben Kilometer"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Eine Hauptspannweite misst 541 Meter. Die Fachwerkbrücke war für den Eisenbahnverkehr über den Meeresarm bestimmt.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · The Forth Bridge",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:01+00:00",
+        "verified_claim": "Die Forth Bridge bei Edinburgh hielt 1890 mit ihren großen Spannweiten einen Rekord. Wie weit reicht eine ihrer Hauptöffnungen ungefähr? Einen halben Kilometer. Eine Hauptspannweite misst 541 Meter. Die Fachwerkbrücke war für den Eisenbahnverkehr über den Meeresarm bestimmt.",
+        "locator": "whc/1485, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-vizcaya-gondel",
+    "fact_key": "q3.h.vizcaya.gondel",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Bei Bilbao überqueren Menschen den Fluss an der Vizcaya-Brücke, obwohl sie nicht bis zur hohen Tragkonstruktion hinaufsteigen. Wie reisen sie hinüber?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In einer an der Brücke hängenden Gondel"
+      },
+      {
+        "id": "b",
+        "text": "Auf einer tief unter dem Fluss fahrenden Zahnradbahn"
+      },
+      {
+        "id": "c",
+        "text": "In einer geschlossenen Schleusenkammer"
+      },
+      {
+        "id": "d",
+        "text": "Auf einem schwimmenden Teil der Fahrbahn"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die 1893 fertiggestellte Schwebefähre trägt ihre Gondel an der hoch liegenden Konstruktion. Sie wurde Vorbild für weitere Anlagen.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Vizcaya Bridge",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:01+00:00",
+        "verified_claim": "Bei Bilbao überqueren Menschen den Fluss an der Vizcaya-Brücke, obwohl sie nicht bis zur hohen Tragkonstruktion hinaufsteigen. Wie reisen sie hinüber? In einer an der Brücke hängenden Gondel. Die 1893 fertiggestellte Schwebefähre trägt ihre Gondel an der hoch liegenden Konstruktion. Sie wurde Vorbild für weitere Anlagen.",
+        "locator": "whc/1217, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-kanalbruecke-wales",
+    "fact_key": "q3.h.kanalbruecke.wales",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Der Kanal von Pontcysyllte musste ein tiefes Tal queren, ohne Schleusen zu benutzen. Welche Lösung hielt das Wasser auf der Höhe der Strecke?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Hafen mit Umladung auf Pferde"
+      },
+      {
+        "id": "b",
+        "text": "Ein Aquädukt über das Tal"
+      },
+      {
+        "id": "c",
+        "text": "Ein tiefer Umweg bis ins Flussbett"
+      },
+      {
+        "id": "d",
+        "text": "Eine Treppe für die Lastkähne"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Thomas Telfords Kanalbau führte die Wasserstraße auf einem eisernen Aquädukt weiter. So blieb ihre Höhe beim Queren des Tals erhalten.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Pontcysyllte Aqueduct and Canal",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:01+00:00",
+        "verified_claim": "Der Kanal von Pontcysyllte musste ein tiefes Tal queren, ohne Schleusen zu benutzen. Welche Lösung hielt das Wasser auf der Höhe der Strecke? Ein Aquädukt über das Tal. Thomas Telfords Kanalbau führte die Wasserstraße auf einem eisernen Aquädukt weiter. So blieb ihre Höhe beim Queren des Tals erhalten.",
+        "locator": "whc/1303, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-kanada-kanal",
+    "fact_key": "q3.h.kanada.kanal",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Der Rideau-Kanal verbindet Ottawa mit Kingston am Ontariosee. Welche Länge passt eher zu einer Verbindung zwischen solchen Städten als zu einer einzelnen Schleuse?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rund 20 Kilometer"
+      },
+      {
+        "id": "b",
+        "text": "Rund 2.000 Kilometer"
+      },
+      {
+        "id": "c",
+        "text": "Rund 200 Kilometer"
+      },
+      {
+        "id": "d",
+        "text": "Rund 2 Kilometer"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die historische Wasserstraße ist etwa 202 Kilometer lang. Sie entstand im frühen 19. Jahrhundert.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Rideau Canal",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:01+00:00",
+        "verified_claim": "Der Rideau-Kanal verbindet Ottawa mit Kingston am Ontariosee. Welche Länge passt eher zu einer Verbindung zwischen solchen Städten als zu einer einzelnen Schleuse? Rund 200 Kilometer. Die historische Wasserstraße ist etwa 202 Kilometer lang. Sie entstand im frühen 19. Jahrhundert.",
+        "locator": "whc/1221, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-pont-gard-aufgabe",
+    "fact_key": "q3.h.pont.gard.aufgabe",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die Römer bauten den Pont du Gard in mehreren Bogenreihen über einen Fluss. Was sollte oben über diesen Fluss hinweggeleitet werden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Abraum aus einem nahen Silberbergwerk"
+      },
+      {
+        "id": "b",
+        "text": "Ein Gleis für Transportwagen"
+      },
+      {
+        "id": "c",
+        "text": "Ein Wehrgang um die Stadt Rom"
+      },
+      {
+        "id": "d",
+        "text": "Wasser für die Versorgung von Nîmes"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Brücke war ein Teil der fast 50 Kilometer langen Wasserleitung nach Nîmes. Das eingeschnittene Flusstal war ein Hindernis auf ihrem Weg.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Pont du Gard (Roman Aqueduct)",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:01+00:00",
+        "verified_claim": "Die Römer bauten den Pont du Gard in mehreren Bogenreihen über einen Fluss. Was sollte oben über diesen Fluss hinweggeleitet werden? Wasser für die Versorgung von Nîmes. Die Brücke war ein Teil der fast 50 Kilometer langen Wasserleitung nach Nîmes. Das eingeschnittene Flusstal war ein Hindernis auf ihrem Weg.",
+        "locator": "whc/344, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-struve-meridian",
+    "fact_key": "q3.h.struve.meridian",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Struves Messpunkte liegen in einer langen Kette zwischen Nordnorwegen und dem Schwarzen Meer. Warum legten Vermesser ein solches Netz über viele Länder?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Um Größe und Form der Erde genauer zu bestimmen"
+      },
+      {
+        "id": "b",
+        "text": "Um die Zahl der täglich fahrenden Schiffe zu zählen"
+      },
+      {
+        "id": "c",
+        "text": "Um den Salzgehalt der Ostsee zu vergleichen"
+      },
+      {
+        "id": "d",
+        "text": "Um eine politische Grenze zwischen Ost und West zu ziehen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Vermessungsdreiecke lieferten einen langen Abschnitt eines Erdmeridians. Kurze örtliche Messungen ergaben zusammen eine kontinentale Messstrecke.",
+    "tags": [
+      "thema_fruehe_wissenschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Struve Geodetic Arc",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:01+00:00",
+        "verified_claim": "Struves Messpunkte liegen in einer langen Kette zwischen Nordnorwegen und dem Schwarzen Meer. Warum legten Vermesser ein solches Netz über viele Länder? Um Größe und Form der Erde genauer zu bestimmen. Vermessungsdreiecke lieferten einen langen Abschnitt eines Erdmeridians. Kurze örtliche Messungen ergaben zusammen eine kontinentale Messstrecke.",
+        "locator": "whc/1187, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-jantar-mauerwerk",
+    "fact_key": "q3.h.jantar.mauerwerk",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "In Jaipur stehen riesige gemauerte Instrumente aus dem frühen 18. Jahrhundert. Was konnten Astronomen damit ohne Teleskop beobachten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Tiefenströmungen des Indischen Ozeans"
+      },
+      {
+        "id": "b",
+        "text": "Die Positionen von Gestirnen"
+      },
+      {
+        "id": "c",
+        "text": "Die chemische Zusammensetzung ferner Sterne"
+      },
+      {
+        "id": "d",
+        "text": "Die Oberfläche eines einzelnen Mondsteins"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Observatorium Jantar Mantar nutzt fest gebaute Messgeräte. Ihre Größe half beim Beobachten und Ablesen mit bloßem Auge.",
+    "tags": [
+      "thema_fruehe_wissenschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · The Jantar Mantar, Jaipur",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:01+00:00",
+        "verified_claim": "In Jaipur stehen riesige gemauerte Instrumente aus dem frühen 18. Jahrhundert. Was konnten Astronomen damit ohne Teleskop beobachten? Die Positionen von Gestirnen. Das Observatorium Jantar Mantar nutzt fest gebaute Messgeräte. Ihre Größe half beim Beobachten und Ablesen mit bloßem Auge.",
+        "locator": "whc/1338, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-chankillo-schatten",
+    "fact_key": "q3.h.chankillo.schatten",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Bei Chankillo in Peru stehen dreizehn Türme in einer Reihe. Welchem Zweck diente die Anlage, wenn der Sonnenstand im Jahreslauf entscheidend war?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie zeigte die Stärke von Erdbeben."
+      },
+      {
+        "id": "b",
+        "text": "Sie übermittelte Nachrichten zwischen Häfen."
+      },
+      {
+        "id": "c",
+        "text": "Sie half, Kalenderdaten zu bestimmen."
+      },
+      {
+        "id": "d",
+        "text": "Sie leitete Flusswasser zu Feldern."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Von festen Beobachtungsorten aus ließ sich die Sonne zu den Türmen in Beziehung setzen. Die Anlage entstand mehrere Jahrhunderte vor unserer Zeitrechnung.",
+    "tags": [
+      "thema_fruehe_wissenschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Chankillo Archaeoastronomical Complex",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:01+00:00",
+        "verified_claim": "Bei Chankillo in Peru stehen dreizehn Türme in einer Reihe. Welchem Zweck diente die Anlage, wenn der Sonnenstand im Jahreslauf entscheidend war? Sie half, Kalenderdaten zu bestimmen. Von festen Beobachtungsorten aus ließ sich die Sonne zu den Türmen in Beziehung setzen. Die Anlage entstand mehrere Jahrhunderte vor unserer Zeitrechnung.",
+        "locator": "whc/1624, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-haeinsa-holzdruck",
+    "fact_key": "q3.h.haeinsa.holzdruck",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Im koreanischen Tempel Haeinsa bewahrt man Druckstöcke für eine große buddhistische Textsammlung auf. In welcher Größenordnung liegt ihr Bestand?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einige Dutzend Holztafeln"
+      },
+      {
+        "id": "b",
+        "text": "Wenige Hundert Holztafeln"
+      },
+      {
+        "id": "c",
+        "text": "Mehrere Millionen Holztafeln"
+      },
+      {
+        "id": "d",
+        "text": "Zehntausende Holztafeln"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Im 13. Jahrhundert wurden etwa 80.000 Holzstöcke geschnitten. Für ihren Schutz entstanden später eigene Magazinbauten.",
+    "tags": [
+      "thema_fruehe_wissenschaft",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Haeinsa Temple Janggyeong Panjeon, the Depositories for the <em>Tripitaka Koreana</em> Woodblocks",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:02+00:00",
+        "verified_claim": "Im koreanischen Tempel Haeinsa bewahrt man Druckstöcke für eine große buddhistische Textsammlung auf. In welcher Größenordnung liegt ihr Bestand? Zehntausende Holztafeln. Im 13. Jahrhundert wurden etwa 80.000 Holzstöcke geschnitten. Für ihren Schutz entstanden später eigene Magazinbauten.",
+        "locator": "whc/737, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-qanat-gefaelle",
+    "fact_key": "q3.h.qanat.gefaelle",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Eine persische Oase bekam Wasser über unterirdische Gänge aus einem höher gelegenen Grundwassergebiet. Was ersetzte bei diesen Qanaten eine motorisierte Pumpe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das natürliche Gefälle"
+      },
+      {
+        "id": "b",
+        "text": "Der tägliche Wechsel der Gezeiten"
+      },
+      {
+        "id": "c",
+        "text": "Der Wind im offenen Wüstenbecken"
+      },
+      {
+        "id": "d",
+        "text": "Die Hitze der Mittagssonne"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Wasser floss unter der Erde allein durch die Schwerkraft über viele Kilometer zu den Siedlungen.",
+    "tags": [
+      "thema_fruehe_wissenschaft",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · The Persian Qanat",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:02+00:00",
+        "verified_claim": "Eine persische Oase bekam Wasser über unterirdische Gänge aus einem höher gelegenen Grundwassergebiet. Was ersetzte bei diesen Qanaten eine motorisierte Pumpe? Das natürliche Gefälle. Das Wasser floss unter der Erde allein durch die Schwerkraft über viele Kilometer zu den Siedlungen.",
+        "locator": "whc/1506, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-jelling-uebergang",
+    "fact_key": "q3.h.jelling.uebergang",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "In Jelling liegen dänische Grabhügel neben Runensteinen und einer Kirche. Welchen historischen Übergang macht dieses Nebeneinander sichtbar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vom französischen Königtum zur Republik"
+      },
+      {
+        "id": "b",
+        "text": "Vom nordischen Heidentum zum Christentum"
+      },
+      {
+        "id": "c",
+        "text": "Vom römischen Reich zum Hellenismus"
+      },
+      {
+        "id": "d",
+        "text": "Von der Reformation zur Industrialisierung"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Ein Teil der Anlage steht für ältere nordische Traditionen. Ein anderer Runenstein und die Kirche bezeugen die Christianisierung im 10. Jahrhundert.",
+    "tags": [
+      "thema_fruehe_wissenschaft",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Jelling Mounds, Runic Stones and Church",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:02+00:00",
+        "verified_claim": "In Jelling liegen dänische Grabhügel neben Runensteinen und einer Kirche. Welchen historischen Übergang macht dieses Nebeneinander sichtbar? Vom nordischen Heidentum zum Christentum. Ein Teil der Anlage steht für ältere nordische Traditionen. Ein anderer Runenstein und die Kirche bezeugen die Christianisierung im 10. Jahrhundert.",
+        "locator": "whc/697, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-pohnpei-inseln",
+    "fact_key": "q3.h.pohnpei.inseln",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In Nan Madol wurden Paläste und Heiligtümer auf künstlich gestalteten Inselchen verteilt. Um wie viele Inselchen handelt es sich ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ungefähr zwanzig Inselchen"
+      },
+      {
+        "id": "b",
+        "text": "Etwa zehntausend Inselchen"
+      },
+      {
+        "id": "c",
+        "text": "Rund hundert Inselchen"
+      },
+      {
+        "id": "d",
+        "text": "Etwa fünf Inselchen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Vor Pohnpei entstand zwischen etwa 1200 und 1500 ein weitläufiges Zeremonialzentrum. Mauern aus Basalt und Korallengestein fassten die Inselchen ein.",
+    "tags": [
+      "thema_fruehe_wissenschaft",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Nan Madol: Ceremonial Centre of Eastern Micronesia",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:02+00:00",
+        "verified_claim": "In Nan Madol wurden Paläste und Heiligtümer auf künstlich gestalteten Inselchen verteilt. Um wie viele Inselchen handelt es sich ungefähr? Rund hundert Inselchen. Vor Pohnpei entstand zwischen etwa 1200 und 1500 ein weitläufiges Zeremonialzentrum. Mauern aus Basalt und Korallengestein fassten die Inselchen ein.",
+        "locator": "whc/1503, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-badekultur-quellen",
+    "fact_key": "q3.h.badekultur.quellen",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Bath, Baden-Baden und Vichy wurden europäische Kurorte. Welche örtliche Voraussetzung verband sie, noch bevor Kurhäuser und Konzertsaal Besucher anzogen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein ganzjährig zugefrorener See"
+      },
+      {
+        "id": "b",
+        "text": "Der Ringschluss einer Stadtmauer"
+      },
+      {
+        "id": "c",
+        "text": "Ein großer tideabhängiger Seehafen"
+      },
+      {
+        "id": "d",
+        "text": "Natürlich austretendes Mineralwasser"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Kurbäder entwickelten sich um natürliche Mineralquellen. Daraus wuchs eine internationale Reisekultur mit eigenen Bauten.",
+    "tags": [
+      "thema_fruehe_wissenschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · The Great Spa Towns of Europe",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T21:30:02+00:00",
+        "verified_claim": "Bath, Baden-Baden und Vichy wurden europäische Kurorte. Welche örtliche Voraussetzung verband sie, noch bevor Kurhäuser und Konzertsaal Besucher anzogen? Natürlich austretendes Mineralwasser. Die Kurbäder entwickelten sich um natürliche Mineralquellen. Daraus wuchs eine internationale Reisekultur mit eigenen Bauten.",
+        "locator": "whc/1613, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:30:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

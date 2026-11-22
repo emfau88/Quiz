@@ -10,7 +10,7 @@ Zehn Fragen am Tag, sechs Themen und dein persönliches Wissensalbum
 
 ## Beschreibung
 
-Spiele jeden Tag zehn Wissensfragen in deinem Tempo. Du wählst aus vier Antworten und erfährst direkt nach deiner Wahl, warum die Lösung stimmt. Wenn du unterbrichst, kannst du an derselben Stelle weiterspielen.
+Spiele jeden Tag zehn Wissensfragen in deinem Tempo. Einmal schätzt du eine Größenordnung, zweimal bringen dich Hinweise auf die richtige Spur. An drei Tagen der Woche begegnest du einem Ergebnis aus der Forschung. Die Auflösung erklärt den Befund und verlinkt die Quelle. Wenn du unterbrichst, kannst du an derselben Stelle weiterspielen.
 
 Natur und Tiere, Länder und Reisen, Alltag und Technik, Geschichte und Entdeckungen, Film, Musik und Fernsehen sowie Sprache und Kultur bringen Abwechslung in deine Tagesrunde.
 

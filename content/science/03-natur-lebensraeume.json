@@ -252,9 +252,9 @@
     "explanation": "Amurtiger leben auch in schneereichen Gebieten. Ihr besonders dichtes Fell und eine Fettschicht schützen vor Kälte.",
     "tags": [
       "thema_tiermerkmale",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -270,28 +270,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.413462+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.399262+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.399274+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -904,7 +904,7 @@
     "fact_key": "ameisenbaer-zunge",
     "category": "nature_animals",
     "difficulty": "easy",
-    "question": "Womit holt der Große Ameisenbär seine Beute aus dem Insektenbau?",
+    "question": "Der Große Ameisenbär ist zahnlos. Die Beute sitzt in engen Gängen, in die sein Kopf nicht passt. Womit kann er die Insekten dort erreichen und herausholen?",
     "options": [
       {
         "id": "a",
@@ -927,9 +927,10 @@
     "explanation": "Der Große Ameisenbär ist zahnlos. Mit seiner spezialisierten Zunge nimmt er Ameisen und Termiten auf.",
     "tags": [
       "thema_nahrung",
-      "form_wiedererkennen"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -945,28 +946,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:49:26.312853+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:49:38.400385+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.400396+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1002,9 +1003,10 @@
     "explanation": "Auf diese Weise bleiben die Krallen scharf. Der Ameisenbär braucht sie zum Öffnen von Insektenbauten.",
     "tags": [
       "thema_tierverhalten",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1020,28 +1022,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.413551+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.399291+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.399294+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1527,9 +1529,10 @@
     "explanation": "Nur der obere Teil des Kopfes muss aus dem Wasser ragen, damit das Tier sehen, hören und atmen kann.",
     "tags": [
       "thema_tiermerkmale",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1545,28 +1548,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.413585+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.399303+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.399305+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1677,9 +1680,9 @@
     "explanation": "Wachende Erdmännchen suchen erhöhte Plätze auf. Bei Gefahr warnen sie die Gruppe mit Rufen.",
     "tags": [
       "thema_tierverhalten",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1695,28 +1698,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.413612+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.399312+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.399314+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1752,9 +1755,9 @@
     "explanation": "Die großen Augen einer Eule bewegen sich in den Augenhöhlen kaum. Die Beweglichkeit des Halses gleicht das aus.",
     "tags": [
       "thema_tiermerkmale",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1770,28 +1773,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.413649+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.399320+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.399322+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1954,7 +1957,7 @@
     "fact_key": "biber-schneidezaehne",
     "category": "nature_animals",
     "difficulty": "medium",
-    "question": "Was geschieht mit den großen Schneidezähnen eines Bibers im Laufe seines Lebens?",
+    "question": "Biber nagen oft an Holz. Dabei reiben sich ihre Schneidezähne ab. Auch alte Biber haben noch lange Schneidezähne. Wie wird der Abrieb ausgeglichen?",
     "options": [
       {
         "id": "a",
@@ -1962,24 +1965,25 @@
       },
       {
         "id": "b",
-        "text": "Sie werden jeden Herbst abgeworfen."
+        "text": "Sie schärfen sich nur beim jährlichen Zahnwechsel."
       },
       {
         "id": "c",
-        "text": "Sie wachsen nur im ersten Winter."
+        "text": "Sie nutzen sich nur im ersten Lebensjahr ab."
       },
       {
         "id": "d",
-        "text": "Sie wechseln nach jedem gefällten Baum."
+        "text": "Sie werden nach jedem Winter einmal ersetzt."
       }
     ],
     "correct_option_id": "a",
     "explanation": "Biber nagen häufig an Holz. Ihre Schneidezähne wachsen das ganze Leben hindurch weiter.",
     "tags": [
       "thema_tiermerkmale",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1995,28 +1999,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.413682+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.399329+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.399331+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2502,9 +2506,10 @@
     "explanation": "Kelp nutzt Sonnenlicht. Mit größerer Wassertiefe nimmt das verfügbare Licht ab.",
     "tags": [
       "thema_lebensraeume",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2520,28 +2525,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.413709+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.399338+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.399340+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -3229,7 +3234,7 @@
     "fact_key": "brackwasser-mischung",
     "category": "nature_animals",
     "difficulty": "medium",
-    "question": "Was ist Brackwasser, wie es an vielen Flussmündungen vorkommt?",
+    "question": "Nach der Flut ist das Wasser am Flussufer salziger, aber weniger salzig als draußen auf See. Welche Beschreibung passt zu einer Probe aus dieser Mündung?",
     "options": [
       {
         "id": "a",
@@ -3252,9 +3257,9 @@
     "explanation": "In einem Ästuar kann Flusswasser auf Meerwasser treffen. Dabei entsteht Brackwasser.",
     "tags": [
       "thema_meer_und_kueste",
-      "form_wiedererkennen"
+      "form_anwenden"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3270,28 +3275,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:49:26.312901+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:49:38.400416+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.400419+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },

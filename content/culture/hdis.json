@@ -304,7 +304,7 @@
     "fact_key": "research.13.1909",
     "category": "history_discoveries",
     "difficulty": "easy",
-    "question": "Wie wurden Nachrichten bei der Technik übermittelt, für die Guglielmo Marconi 1909 geehrt wurde?",
+    "question": "Zwei Telegrafen übertragen Nachrichten. Der eine braucht eine Leitung von Station zu Station, Marconis Verfahren überbrückt die Strecke auch ohne diese Verbindung. Wie?",
     "options": [
       {
         "id": "a",
@@ -327,9 +327,9 @@
     "explanation": "Die Auszeichnung würdigte Marconis Beiträge zur drahtlosen Telegrafie.",
     "tags": [
       "thema_wissenschaftsgeschichte",
-      "form_wiedererkennen"
+      "form_vergleichen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -345,28 +345,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
-        "at": "2026-11-22T18:43:00.903+00:00",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
+        "at": "2026-11-22T21:49:26.298476+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
-        "at": "2026-11-22T18:44:38.609+00:00",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
+        "at": "2026-11-22T21:49:38.364378+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.364392+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -754,7 +754,7 @@
     "fact_key": "research.127.1986",
     "category": "history_discoveries",
     "difficulty": "medium",
-    "question": "An welchem Instrument arbeitete Ernst Ruska, der dafür 1986 den Physik-Nobelpreis teilte?",
+    "question": "Ernst Ruska nutzte einen Elektronenstrahl zur Abbildung sehr kleiner Strukturen. An welchem Instrument arbeitete er, wenn Elektronen dort die Rolle des Lichts übernehmen?",
     "options": [
       {
         "id": "a",
@@ -777,9 +777,10 @@
     "explanation": "Ruska entwarf das erste Elektronenmikroskop. Grundlage waren seine Arbeiten auf dem Gebiet der Elektronenoptik.",
     "tags": [
       "thema_wissenschaftsgeschichte",
-      "form_wiedererkennen"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -795,28 +796,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
-        "at": "2026-11-22T18:43:00.903+00:00",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
+        "at": "2026-11-22T21:49:26.298532+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
-        "at": "2026-11-22T18:44:38.609+00:00",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
+        "at": "2026-11-22T21:49:38.364407+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.364410+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },

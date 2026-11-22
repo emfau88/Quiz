@@ -1,0 +1,2182 @@
+[
+  {
+    "id": "q3-h-paris-ballontuch",
+    "fact_key": "q3.h.paris.ballontuch",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Paris, 1783. Über einem Feuer bläht sich eine Stoffhülle, darunter hängt ein Korb. Was trug den Ballon der Brüder Montgolfier in die Höhe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Erwärmte Luft in der Hülle"
+      },
+      {
+        "id": "b",
+        "text": "Der Dampf einer Maschine im Korb"
+      },
+      {
+        "id": "c",
+        "text": "Ein Propeller auf dem Korbrand"
+      },
+      {
+        "id": "d",
+        "text": "Ein Vorrat an gepresster Druckluft"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Montgolfiers erprobten Heißluftballons. Im November 1783 starteten Pilâtre de Rozier und der Marquis d’Arlandes in Paris zur ersten freien bemannten Fahrt.",
+    "tags": [
+      "thema_entdeckungsgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Château de Versailles · Le premier vol en montgolfière",
+        "url": "https://www.chateauversailles.fr/decouvrir/histoire/grandes-dates/premier-vol-montgolfiere",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Paris, 1783. Über einem Feuer bläht sich eine Stoffhülle, darunter hängt ein Korb. Was trug den Ballon der Brüder Montgolfier in die Höhe? Erwärmte Luft in der Hülle. Die Montgolfiers erprobten Heißluftballons. Im November 1783 starteten Pilâtre de Rozier und der Marquis d’Arlandes in Paris zur ersten freien bemannten Fahrt.",
+        "locator": "ballon, Textstelle 121",
+        "source_sha256": "403f89d7216d3692caa714bd9c0f1bd1f9680649d4325ce2d7b4d40405caea32"
+      },
+      {
+        "id": "s2",
+        "title": "Library of Congress · The Dream of Flight",
+        "url": "https://www.loc.gov/exhibits/dreamofflight/dream-dream.html",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Paris, 1783. Über einem Feuer bläht sich eine Stoffhülle, darunter hängt ein Korb. Was trug den Ballon der Brüder Montgolfier in die Höhe? Erwärmte Luft in der Hülle. Die Montgolfiers erprobten Heißluftballons. Im November 1783 starteten Pilâtre de Rozier und der Marquis d’Arlandes in Paris zur ersten freien bemannten Fahrt.",
+        "locator": "flugdream, Textstelle 155",
+        "source_sha256": "94f46f4ab5d2d53a237805afe3e6574e195ae4c7ff51ae01dc9db60a9c5a8742"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-versailles-tiere",
+    "fact_key": "q3.h.versailles.tiere",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Im September 1783 landeten bei Versailles ein Schaf, eine Ente und ein Hahn nach einer Ballonfahrt lebend. Welchen Schritt wagten die Pioniere im November?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einen Linienflug mit zahlenden Passagieren"
+      },
+      {
+        "id": "b",
+        "text": "Eine freie Fahrt mit Menschen im Korb"
+      },
+      {
+        "id": "c",
+        "text": "Die erste Überquerung des Atlantiks"
+      },
+      {
+        "id": "d",
+        "text": "Die erste Landung auf einem Schiff"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Tierversuch ging der bemannten Fahrt voraus. Zwischen der Vorführung in Versailles und der Fahrt in Paris lagen rund zwei Monate.",
+    "tags": [
+      "thema_entdeckungsgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Château de Versailles · Le premier vol en montgolfière",
+        "url": "https://www.chateauversailles.fr/decouvrir/histoire/grandes-dates/premier-vol-montgolfiere",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Im September 1783 landeten bei Versailles ein Schaf, eine Ente und ein Hahn nach einer Ballonfahrt lebend. Welchen Schritt wagten die Pioniere im November? Eine freie Fahrt mit Menschen im Korb. Der Tierversuch ging der bemannten Fahrt voraus. Zwischen der Vorführung in Versailles und der Fahrt in Paris lagen rund zwei Monate.",
+        "locator": "ballon, Textstelle 124",
+        "source_sha256": "403f89d7216d3692caa714bd9c0f1bd1f9680649d4325ce2d7b4d40405caea32"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-paris-flugdauer",
+    "fact_key": "q3.h.paris.flugdauer",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die erste freie bemannte Ballonfahrt über Paris legte 1783 etwa neun Kilometer zurück. Welcher Zeitrahmen passt zur überlieferten Fahrt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein ganzer Tag"
+      },
+      {
+        "id": "b",
+        "text": "Eine volle Woche"
+      },
+      {
+        "id": "c",
+        "text": "Knapp eine halbe Stunde"
+      },
+      {
+        "id": "d",
+        "text": "Weniger als eine Minute"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Fahrt dauerte ungefähr 25 Minuten. Der Ballon landete rund fünfeinhalb Meilen vom Startpunkt entfernt.",
+    "tags": [
+      "thema_entdeckungsgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Library of Congress · The Dream of Flight",
+        "url": "https://www.loc.gov/exhibits/dreamofflight/dream-dream.html",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Die erste freie bemannte Ballonfahrt über Paris legte 1783 etwa neun Kilometer zurück. Welcher Zeitrahmen passt zur überlieferten Fahrt? Knapp eine halbe Stunde. Die Fahrt dauerte ungefähr 25 Minuten. Der Ballon landete rund fünfeinhalb Meilen vom Startpunkt entfernt.",
+        "locator": "flugdream, Textstelle 155",
+        "source_sha256": "94f46f4ab5d2d53a237805afe3e6574e195ae4c7ff51ae01dc9db60a9c5a8742"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-charliere-gas",
+    "fact_key": "q3.h.charliere.gas",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Kurz nach der ersten bemannten Heißluftfahrt stiegen Charles und Robert mit einem anderen Ballontyp auf. Welche Füllung unterschied ihre „Charlière“ vom Montgolfier-Ballon?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Warme Ausatemluft"
+      },
+      {
+        "id": "b",
+        "text": "Wasserdampf"
+      },
+      {
+        "id": "c",
+        "text": "Gewöhnliche kalte Luft"
+      },
+      {
+        "id": "d",
+        "text": "Wasserstoff"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Gasballon startete weniger als zwei Wochen nach der berühmten Heißluftfahrt. Er blieb länger in der Luft und legte eine größere Strecke zurück.",
+    "tags": [
+      "thema_entdeckungsgeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Library of Congress · The Dream of Flight",
+        "url": "https://www.loc.gov/exhibits/dreamofflight/dream-dream.html",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Kurz nach der ersten bemannten Heißluftfahrt stiegen Charles und Robert mit einem anderen Ballontyp auf. Welche Füllung unterschied ihre „Charlière“ vom Montgolfier-Ballon? Wasserstoff. Der Gasballon startete weniger als zwei Wochen nach der berühmten Heißluftfahrt. Er blieb länger in der Luft und legte eine größere Strecke zurück.",
+        "locator": "flugdream, Textstelle 172",
+        "source_sha256": "94f46f4ab5d2d53a237805afe3e6574e195ae4c7ff51ae01dc9db60a9c5a8742"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-leonardo-fluegel",
+    "fact_key": "q3.h.leonardo.fluegel",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Auf Renaissancezeichnungen Leonardo da Vincis finden sich Maschinen mit schlagenden Flügeln. Welche Naturbeobachtung half ihm gerade bei diesen Entwürfen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Flug von Vögeln"
+      },
+      {
+        "id": "b",
+        "text": "Die Strömung unter einem Bootsrumpf"
+      },
+      {
+        "id": "c",
+        "text": "Das Rollen von Steinen bergab"
+      },
+      {
+        "id": "d",
+        "text": "Die Drehung eines Kompasszeigers"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Leonardo studierte Vögel und entwarf verschiedene Flügelschlaggeräte. Seine Manuskripte waren zu seinen Lebzeiten nicht allgemein zugänglich.",
+    "tags": [
+      "thema_entdeckungsgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Library of Congress · The Dream of Flight",
+        "url": "https://www.loc.gov/exhibits/dreamofflight/dream-dream.html",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Auf Renaissancezeichnungen Leonardo da Vincis finden sich Maschinen mit schlagenden Flügeln. Welche Naturbeobachtung half ihm gerade bei diesen Entwürfen? Der Flug von Vögeln. Leonardo studierte Vögel und entwarf verschiedene Flügelschlaggeräte. Seine Manuskripte waren zu seinen Lebzeiten nicht allgemein zugänglich.",
+        "locator": "flugdream, Textstelle 120",
+        "source_sha256": "94f46f4ab5d2d53a237805afe3e6574e195ae4c7ff51ae01dc9db60a9c5a8742"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-lindbergh-sicht",
+    "fact_key": "q3.h.lindbergh.sicht",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Für den langen Flug von Lindbergh saßen vor dem Piloten zusätzliche Treibstofftanks. Welche Lösung ermöglichte trotzdem einen Blick geradeaus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein zweites Steuer im Gepäckraum"
+      },
+      {
+        "id": "b",
+        "text": "Ein Periskop"
+      },
+      {
+        "id": "c",
+        "text": "Ein Rückspiegel am Heck"
+      },
+      {
+        "id": "d",
+        "text": "Ein Fernglas durch den Tank"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die „Spirit of St. Louis“ hatte vorne keine übliche Windschutzscheibe. Lindbergh nutzte seitliche Fenster und das Periskop.",
+    "tags": [
+      "thema_entdeckungsgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Air and Space Museum · Spirit of St. Louis",
+        "url": "https://airandspace.si.edu/stories/editorial/stories-inside-spirit-st-louis",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Für den langen Flug von Lindbergh saßen vor dem Piloten zusätzliche Treibstofftanks. Welche Lösung ermöglichte trotzdem einen Blick geradeaus? Ein Periskop. Die „Spirit of St. Louis“ hatte vorne keine übliche Windschutzscheibe. Lindbergh nutzte seitliche Fenster und das Periskop.",
+        "locator": "lindy, Textstelle 74",
+        "source_sha256": "a1c83eee17bdd1bd1103e1ff334cf3cc297ebeafdb09f30256a3874dc9b9df08"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-apollo-rollen",
+    "fact_key": "q3.h.apollo.rollen",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Drei Menschen flogen bei Apollo zum Mond, doch das Landefahrzeug hatte nur zwei Plätze. Welche Aufgabe blieb beim Landemanöver für das dritte Besatzungsmitglied?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Rückflug schon allein beginnen"
+      },
+      {
+        "id": "b",
+        "text": "Im freien Raum neben dem Landefahrzeug warten"
+      },
+      {
+        "id": "c",
+        "text": "Das Kommandomodul in der Mondumlaufbahn betreuen"
+      },
+      {
+        "id": "d",
+        "text": "Das Landefahrzeug von der Erde aus steuern"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das Kommandomodul blieb für das spätere Wiedersehen im All. Nach der Landung stiegen die beiden anderen wieder zu ihrem Kollegen auf.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Das Apollo-Programm",
+        "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Drei Menschen flogen bei Apollo zum Mond, doch das Landefahrzeug hatte nur zwei Plätze. Welche Aufgabe blieb beim Landemanöver für das dritte Besatzungsmitglied? Das Kommandomodul in der Mondumlaufbahn betreuen. Das Kommandomodul blieb für das spätere Wiedersehen im All. Nach der Landung stiegen die beiden anderen wieder zu ihrem Kollegen auf.",
+        "locator": "nasaapollo, Textstelle 355",
+        "source_sha256": "e723923b313ff920bdab072eedf3e260f2281a6c9bc093327c6ab44c9e2f6ede"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-apollo-mondmenschen",
+    "fact_key": "q3.h.apollo.mondmenschen",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Sechs Apollo-Landungen gelangen, jeweils zwei Menschen betraten den Mond. Wie viele Menschen liefen in dieser Ära insgesamt auf seiner Oberfläche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Etwa fünfzig"
+      },
+      {
+        "id": "b",
+        "text": "Etwa dreißig"
+      },
+      {
+        "id": "c",
+        "text": "Etwa hundert"
+      },
+      {
+        "id": "d",
+        "text": "Etwa ein Dutzend"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Zwölf Astronauten arbeiteten zwischen 1969 und 1972 auf dem Mond. Pro Landung blieben zwei auf der Oberfläche.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Das Apollo-Programm",
+        "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Sechs Apollo-Landungen gelangen, jeweils zwei Menschen betraten den Mond. Wie viele Menschen liefen in dieser Ära insgesamt auf seiner Oberfläche? Etwa ein Dutzend. Zwölf Astronauten arbeiteten zwischen 1969 und 1972 auf dem Mond. Pro Landung blieben zwei auf der Oberfläche.",
+        "locator": "nasaapollo, Textstelle 352",
+        "source_sha256": "e723923b313ff920bdab072eedf3e260f2281a6c9bc093327c6ab44c9e2f6ede"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-apollo8-weihnachten",
+    "fact_key": "q3.h.apollo8.weihnachten",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "An Weihnachten 1968 sendete die Besatzung von Apollo 8 Bilder vom Mond. Was gelang vor den ersten Schritten von Menschen auf seiner Oberfläche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Menschen umrundeten den Mond in einem Raumschiff."
+      },
+      {
+        "id": "b",
+        "text": "Menschen fuhren dort bereits mit einem Mondauto."
+      },
+      {
+        "id": "c",
+        "text": "Eine dauerhafte Mondstation nahm den Betrieb auf."
+      },
+      {
+        "id": "d",
+        "text": "Eine Raumfähre transportierte Gestein zu einer anderen Mondbasis."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Apollo 8 brachte die erste Besatzung in eine Mondumlaufbahn. Die erste bemannte Landung folgte 1969.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Weihnachten mit Apollo 8",
+        "url": "https://www.nasa.gov/missions/apollo/apollo-8-christmas-at-the-moon/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "An Weihnachten 1968 sendete die Besatzung von Apollo 8 Bilder vom Mond. Was gelang vor den ersten Schritten von Menschen auf seiner Oberfläche? Menschen umrundeten den Mond in einem Raumschiff. Apollo 8 brachte die erste Besatzung in eine Mondumlaufbahn. Die erste bemannte Landung folgte 1969.",
+        "locator": "earthrise, Textstelle 343",
+        "source_sha256": "1dfb0bff086008f9bbbca8dda9f30c4d9468a46bc52b9ea55e9ecba2021ede1a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-earthrise-blick",
+    "fact_key": "q3.h.earthrise.blick",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Das Bild „Earthrise“ zeigt eine kleine, farbige Erde über einem grauen Horizont. Von wo aus konnte die Besatzung von Apollo 8 diese Perspektive sehen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Von der Internationalen Raumstation"
+      },
+      {
+        "id": "b",
+        "text": "Aus der Umlaufbahn um den Mond"
+      },
+      {
+        "id": "c",
+        "text": "Aus dem Inneren einer irdischen Sternwarte"
+      },
+      {
+        "id": "d",
+        "text": "Von einem Flugzeug über dem Pazifik"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Bill Anders fotografierte 1968 die Erde über dem Mondhorizont. Die Aufnahme veränderte für viele den Blick auf den eigenen Planeten.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Weihnachten mit Apollo 8",
+        "url": "https://www.nasa.gov/missions/apollo/apollo-8-christmas-at-the-moon/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Das Bild „Earthrise“ zeigt eine kleine, farbige Erde über einem grauen Horizont. Von wo aus konnte die Besatzung von Apollo 8 diese Perspektive sehen? Aus der Umlaufbahn um den Mond. Bill Anders fotografierte 1968 die Erde über dem Mondhorizont. Die Aufnahme veränderte für viele den Blick auf den eigenen Planeten.",
+        "locator": "earthrise, Textstelle 348",
+        "source_sha256": "1dfb0bff086008f9bbbca8dda9f30c4d9468a46bc52b9ea55e9ecba2021ede1a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-apollo13-ziel",
+    "fact_key": "q3.h.apollo13.ziel",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Nach einem Problem an Bord konnte Apollo 13 die vorgesehene Landung nicht durchführen. Welches neue Ziel rückte für die Bodenstation in den Mittelpunkt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine zweite Besatzung auf der Oberfläche ablösen"
+      },
+      {
+        "id": "b",
+        "text": "Den Landeplatz für spätere Touristen vermessen"
+      },
+      {
+        "id": "c",
+        "text": "Die Besatzung sicher zur Erde zurückbringen"
+      },
+      {
+        "id": "d",
+        "text": "Das erste Mondauto erproben"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Apollo 13 flog um den Mond und kehrte heim. Die erfolgreiche Rückkehr wurde zum entscheidenden Ergebnis der Mission.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Das Apollo-Programm",
+        "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Nach einem Problem an Bord konnte Apollo 13 die vorgesehene Landung nicht durchführen. Welches neue Ziel rückte für die Bodenstation in den Mittelpunkt? Die Besatzung sicher zur Erde zurückbringen. Apollo 13 flog um den Mond und kehrte heim. Die erfolgreiche Rückkehr wurde zum entscheidenden Ergebnis der Mission.",
+        "locator": "nasaapollo, Textstelle 406",
+        "source_sha256": "e723923b313ff920bdab072eedf3e260f2281a6c9bc093327c6ab44c9e2f6ede"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-mondauto-falten",
+    "fact_key": "q3.h.mondauto.falten",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Bei den letzten Apollo-Landungen reiste ein Fahrzeug im knapp bemessenen Stauraum der Mondfähre mit. Welche Eigenschaft half beim Transport?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es war vorab fest auf dem Mond montiert."
+      },
+      {
+        "id": "b",
+        "text": "Es schwebte außen an einem Ballon."
+      },
+      {
+        "id": "c",
+        "text": "Es wurde als eigenes bemanntes Raumschiff gestartet."
+      },
+      {
+        "id": "d",
+        "text": "Es ließ sich zusammenfalten."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Mondautos wurden für das Verstauen in der Mondfähre konstruiert. Auf der Oberfläche vergrößerten sie die Reichweite der Erkundungen.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Das Apollo-Programm",
+        "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Bei den letzten Apollo-Landungen reiste ein Fahrzeug im knapp bemessenen Stauraum der Mondfähre mit. Welche Eigenschaft half beim Transport? Es ließ sich zusammenfalten. Die Mondautos wurden für das Verstauen in der Mondfähre konstruiert. Auf der Oberfläche vergrößerten sie die Reichweite der Erkundungen.",
+        "locator": "nasaapollo, Textstelle 409",
+        "source_sha256": "e723923b313ff920bdab072eedf3e260f2281a6c9bc093327c6ab44c9e2f6ede"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-apollo-heimkehr",
+    "fact_key": "q3.h.apollo.heimkehr",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Ein Bergungsschiff wartete bei der Rückkehr einer Apollo-Kapsel. Was lässt das über den geplanten Abschluss der Reise erkennen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Kapsel sollte im Meer niedergehen."
+      },
+      {
+        "id": "b",
+        "text": "Sie sollte im Trockendock festmachen."
+      },
+      {
+        "id": "c",
+        "text": "Sie sollte auf einem Flugzeugträger ausrollen."
+      },
+      {
+        "id": "d",
+        "text": "Sie sollte die Reise unter Wasser fortsetzen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Kommandomodul wasserte im Ozean. Ein Schiff nahm die zurückgekehrten Astronauten auf.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Das Apollo-Programm",
+        "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Ein Bergungsschiff wartete bei der Rückkehr einer Apollo-Kapsel. Was lässt das über den geplanten Abschluss der Reise erkennen? Die Kapsel sollte im Meer niedergehen. Das Kommandomodul wasserte im Ozean. Ein Schiff nahm die zurückgekehrten Astronauten auf.",
+        "locator": "nasaapollo, Textstelle 410",
+        "source_sha256": "e723923b313ff920bdab072eedf3e260f2281a6c9bc093327c6ab44c9e2f6ede"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-hammer-feder",
+    "fact_key": "q3.h.hammer.feder",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Ein Astronaut ließ 1971 auf dem Mond Hammer und Feder gleichzeitig fallen. Welches Ergebnis passt zur fast fehlenden Luft an der Oberfläche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Feder blieb wie ein Fallschirm weit zurück."
+      },
+      {
+        "id": "b",
+        "text": "Beide erreichten den Boden gleichzeitig."
+      },
+      {
+        "id": "c",
+        "text": "Der Hammer blieb dauerhaft in der Schwebe."
+      },
+      {
+        "id": "d",
+        "text": "Die Feder stieg nach oben."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "David Scott zeigte bei Apollo 15 den Unterschied zwischen Schwerkraft und Luftwiderstand. Ohne nennenswerte Luft bremste die Feder kaum etwas.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Apollo 15 am Hadley-Gebirge",
+        "url": "https://www.nasa.gov/history/50-years-ago-apollo-15-on-the-moon-at-hadley-apennine/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Ein Astronaut ließ 1971 auf dem Mond Hammer und Feder gleichzeitig fallen. Welches Ergebnis passt zur fast fehlenden Luft an der Oberfläche? Beide erreichten den Boden gleichzeitig. David Scott zeigte bei Apollo 15 den Unterschied zwischen Schwerkraft und Luftwiderstand. Ohne nennenswerte Luft bremste die Feder kaum etwas.",
+        "locator": "hammer, Textstelle 369",
+        "source_sha256": "0b9af1eed139fff1cb02c382bcb8935b19197c5eb39e9d7b9f1aa7a2147b9afa"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-hubble-brille",
+    "fact_key": "q3.h.hubble.brille",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Hubbles erste Bilder waren unscharf, weil der Hauptspiegel leicht falsch geschliffen war. Welche Reparatur wirkte 1993 ähnlich wie eine passende Brille?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine andere Sonnenbatterie änderte die Brennweite."
+      },
+      {
+        "id": "b",
+        "text": "Man drehte das ganze Teleskop dauerhaft zur Erde."
+      },
+      {
+        "id": "c",
+        "text": "Zusätzliche Optik glich den Abbildungsfehler aus."
+      },
+      {
+        "id": "d",
+        "text": "Ein stärkerer Sender erhöhte die Bildschärfe."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Servicemission brachte eine neue Kamera und eine Korrekturoptik. Der ursprüngliche Hauptspiegel blieb an Bord.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Das Hubble-Weltraumteleskop",
+        "url": "https://science.nasa.gov/mission/hubble/overview/hubble-timeline/hubble-history-timeline-full-text/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Hubbles erste Bilder waren unscharf, weil der Hauptspiegel leicht falsch geschliffen war. Welche Reparatur wirkte 1993 ähnlich wie eine passende Brille? Zusätzliche Optik glich den Abbildungsfehler aus. Die Servicemission brachte eine neue Kamera und eine Korrekturoptik. Der ursprüngliche Hauptspiegel blieb an Bord.",
+        "locator": "hubble, Textstelle 493",
+        "source_sha256": "c66eb7cef714b046cdefd99b9c138dd63d8a9135c6442b9606baf23d92e7b3ca"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-hubble-spiegelmass",
+    "fact_key": "q3.h.hubble.spiegelmass",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Der Schlifffehler des Hubble-Spiegels betrug laut NASA nur etwa ein Fünfzigstel einer Haarbreite. Welche Größenordnung passt dazu?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wenige Millimeter"
+      },
+      {
+        "id": "b",
+        "text": "Mehrere Zentimeter"
+      },
+      {
+        "id": "c",
+        "text": "Ein halber Meter"
+      },
+      {
+        "id": "d",
+        "text": "Wenige Mikrometer"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Krümmung wich um ungefähr zwei Mikrometer von der Sollform ab. Bei einem Präzisionsspiegel genügte das für unscharfe Bilder.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Das Hubble-Weltraumteleskop",
+        "url": "https://science.nasa.gov/mission/hubble/overview/hubble-timeline/hubble-history-timeline-full-text/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Der Schlifffehler des Hubble-Spiegels betrug laut NASA nur etwa ein Fünfzigstel einer Haarbreite. Welche Größenordnung passt dazu? Wenige Mikrometer. Die Krümmung wich um ungefähr zwei Mikrometer von der Sollform ab. Bei einem Präzisionsspiegel genügte das für unscharfe Bilder.",
+        "locator": "hubble, Textstelle 452",
+        "source_sha256": "c66eb7cef714b046cdefd99b9c138dd63d8a9135c6442b9606baf23d92e7b3ca"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-hubble-transport",
+    "fact_key": "q3.h.hubble.transport",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1990 trug die Raumfähre Discovery das Hubble-Teleskop in ihrem Laderaum. Was musste vor den ersten Beobachtungen aus eigener Umlaufbahn geschehen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Teleskop musste im All ausgesetzt werden."
+      },
+      {
+        "id": "b",
+        "text": "Das Teleskop musste auf dem Mond aufgebaut werden."
+      },
+      {
+        "id": "c",
+        "text": "Die Kuppel einer Sternwarte musste sich öffnen."
+      },
+      {
+        "id": "d",
+        "text": "Die Fähre musste mit dem Teleskop wieder auf der Erde landen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein Roboterarm hielt das Teleskop über dem Frachtraum, bevor es freigegeben wurde. So wurde aus einer Nutzlast eine eigenständige Sternwarte.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Das Hubble-Weltraumteleskop",
+        "url": "https://science.nasa.gov/mission/hubble/overview/hubble-timeline/hubble-history-timeline-full-text/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "1990 trug die Raumfähre Discovery das Hubble-Teleskop in ihrem Laderaum. Was musste vor den ersten Beobachtungen aus eigener Umlaufbahn geschehen? Das Teleskop musste im All ausgesetzt werden. Ein Roboterarm hielt das Teleskop über dem Frachtraum, bevor es freigegeben wurde. So wurde aus einer Nutzlast eine eigenständige Sternwarte.",
+        "locator": "hubble, Textstelle 439",
+        "source_sha256": "c66eb7cef714b046cdefd99b9c138dd63d8a9135c6442b9606baf23d92e7b3ca"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-pathfinder-kissen",
+    "fact_key": "q3.h.pathfinder.kissen",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Bei der Marslandung von Pathfinder verlangsamte ein Fallschirm den Fall. Was fing 1997 den verbleibenden Stoß beim Aufsetzen ab?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine von der Erde aus gespannte Leine"
+      },
+      {
+        "id": "b",
+        "text": "Eine Hülle aus Luftkissen"
+      },
+      {
+        "id": "c",
+        "text": "Eine Wasserfläche am Landeplatz"
+      },
+      {
+        "id": "d",
+        "text": "Ein Fangnetz auf der Marsoberfläche"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Um die Sonde lagen große Airbags. Diese Technik erlaubte es ihr, nach dem ersten Bodenkontakt zu springen, bis sie zur Ruhe kam.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Mars Pathfinder",
+        "url": "https://science.nasa.gov/mission/mars-pathfinder/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Bei der Marslandung von Pathfinder verlangsamte ein Fallschirm den Fall. Was fing 1997 den verbleibenden Stoß beim Aufsetzen ab? Eine Hülle aus Luftkissen. Um die Sonde lagen große Airbags. Diese Technik erlaubte es ihr, nach dem ersten Bodenkontakt zu springen, bis sie zur Ruhe kam.",
+        "locator": "pathfinder, Textstelle 390",
+        "source_sha256": "b2b7fda30b979ac3c7671f760424bf51583da7cbb85733ad2f58e9f6ce749c19"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-sojourner-gewicht",
+    "fact_key": "q3.h.sojourner.gewicht",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Der kleine Rover Sojourner war 1997 nur etwa dreißig Zentimeter hoch. In welcher Gewichtsklasse lag das Fahrzeug auf der Erde?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rund zweihundert Kilogramm"
+      },
+      {
+        "id": "b",
+        "text": "Rund zwei Tonnen"
+      },
+      {
+        "id": "c",
+        "text": "Rund zehn Kilogramm"
+      },
+      {
+        "id": "d",
+        "text": "Rund hundert Gramm"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "NASA nennt 10,6 Kilogramm. Der Rover fuhr von der Landestation hinunter, um nahe gelegene Gesteine zu untersuchen.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Mars Pathfinder",
+        "url": "https://science.nasa.gov/mission/mars-pathfinder/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Der kleine Rover Sojourner war 1997 nur etwa dreißig Zentimeter hoch. In welcher Gewichtsklasse lag das Fahrzeug auf der Erde? Rund zehn Kilogramm. NASA nennt 10,6 Kilogramm. Der Rover fuhr von der Landestation hinunter, um nahe gelegene Gesteine zu untersuchen.",
+        "locator": "pathfinder, Textstelle 387",
+        "source_sha256": "b2b7fda30b979ac3c7671f760424bf51583da7cbb85733ad2f58e9f6ce749c19"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-ingenuity-wechsel",
+    "fact_key": "q3.h.ingenuity.wechsel",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Der Marshelikopter Ingenuity startete als Technikversuch. Welche neue Aufgabe passte besonders zur erhöhten Sicht seines Fluggeräts?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tiefe Gesteinsproben aus dem Untergrund bohren"
+      },
+      {
+        "id": "b",
+        "text": "Kleine Beben mit einem Instrument auf dem Boden verfolgen"
+      },
+      {
+        "id": "c",
+        "text": "Bodenproben direkt bis zur Erde zurückbringen"
+      },
+      {
+        "id": "d",
+        "text": "Vorausfliegen und das Gelände für den Rover erkunden"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Nach den ersten erfolgreichen Flügen diente Ingenuity als fliegender Kundschafter. Der Rover konnte die Luftperspektive für seine Fahrten nutzen.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Ingenuity Mars Helicopter",
+        "url": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Der Marshelikopter Ingenuity startete als Technikversuch. Welche neue Aufgabe passte besonders zur erhöhten Sicht seines Fluggeräts? Vorausfliegen und das Gelände für den Rover erkunden. Nach den ersten erfolgreichen Flügen diente Ingenuity als fliegender Kundschafter. Der Rover konnte die Luftperspektive für seine Fahrten nutzen.",
+        "locator": "marsheli, Textstelle 378",
+        "source_sha256": "20e93386e02f89a377e8deffcd0bcdaa5c31104ac302dd64b8eef591ee70dd2d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-ingenuity-umfang",
+    "fact_key": "q3.h.ingenuity.umfang",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Für Ingenuity waren höchstens fünf Testflüge vorgesehen, am Ende wurden es 72. Mit welchem Faktor übertraf er die geplante Flugzahl ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit dem Vierzehnfachen"
+      },
+      {
+        "id": "b",
+        "text": "Mit dem Doppelten"
+      },
+      {
+        "id": "c",
+        "text": "Mit dem Fünffachen"
+      },
+      {
+        "id": "d",
+        "text": "Mit dem Hundertfachen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "72 geteilt durch fünf ergibt gut 14. Der kleine Hubschrauber flog bis Januar 2024 auf dem Mars.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Ingenuity Mars Helicopter",
+        "url": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Für Ingenuity waren höchstens fünf Testflüge vorgesehen, am Ende wurden es 72. Mit welchem Faktor übertraf er die geplante Flugzahl ungefähr? Mit dem Vierzehnfachen. 72 geteilt durch fünf ergibt gut 14. Der kleine Hubschrauber flog bis Januar 2024 auf dem Mars.",
+        "locator": "marsheli, Textstelle 378",
+        "source_sha256": "20e93386e02f89a377e8deffcd0bcdaa5c31104ac302dd64b8eef591ee70dd2d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-insight-boden",
+    "fact_key": "q3.h.insight.boden",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Der Lander InSight setzte sein Seismometer mit einem Arm direkt auf den Marsboden. Was sollte es dort erfassen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Abstand zur nächsten Galaxie"
+      },
+      {
+        "id": "b",
+        "text": "Erschütterungen im Planeteninneren"
+      },
+      {
+        "id": "c",
+        "text": "Wolkenfarben über dem Horizont"
+      },
+      {
+        "id": "d",
+        "text": "Die Anzahl kleiner Marsmonde"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Instrument maß Marsbeben. Der direkte Kontakt zum Boden war für diese Art der Beobachtung wichtig.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · InSight",
+        "url": "https://science.nasa.gov/mission/insight/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Der Lander InSight setzte sein Seismometer mit einem Arm direkt auf den Marsboden. Was sollte es dort erfassen? Erschütterungen im Planeteninneren. Das Instrument maß Marsbeben. Der direkte Kontakt zum Boden war für diese Art der Beobachtung wichtig.",
+        "locator": "insight, Textstelle 377",
+        "source_sha256": "9bbabf0b7a6bb9346e920b2d707f6675615ef842d4fb93adf813bc651fb88487"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-huygens-cassini",
+    "fact_key": "q3.h.huygens.cassini",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Cassini und Huygens erreichten das Saturnsystem gemeinsam. Wie teilten sich die beiden Raumfahrzeuge die Erkundung von Titan?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cassini landete, während Huygens direkt zur Erde zurückkehrte."
+      },
+      {
+        "id": "b",
+        "text": "Beide setzten ihren Flug ohne Messungen an Titan vorbei fort."
+      },
+      {
+        "id": "c",
+        "text": "Huygens stieg zum Mond hinab, Cassini blieb im Saturnsystem auf Umlaufbahn."
+      },
+      {
+        "id": "d",
+        "text": "Beide landeten auf entgegengesetzten Seiten Titans."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die europäische Sonde Huygens reiste mit dem Orbiter Cassini. Im Januar 2005 landete Huygens auf Titan.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Huygens",
+        "url": "https://science.nasa.gov/mission/cassini-huygens/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Cassini und Huygens erreichten das Saturnsystem gemeinsam. Wie teilten sich die beiden Raumfahrzeuge die Erkundung von Titan? Huygens stieg zum Mond hinab, Cassini blieb im Saturnsystem auf Umlaufbahn. Die europäische Sonde Huygens reiste mit dem Orbiter Cassini. Im Januar 2005 landete Huygens auf Titan.",
+        "locator": "huygens, Textstelle 341",
+        "source_sha256": "a0b35349447e121d252a9880a9a0911bb140af403434a3df5abc2b13e9fa7d30"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-huygens-fallschirm",
+    "fact_key": "q3.h.huygens.fallschirm",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Huygens schwebte am Fallschirm durch Titans dichte Atmosphäre und konnte unterwegs messen. Wie lange dauerte ihr Abstieg ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zweieinhalb Minuten"
+      },
+      {
+        "id": "b",
+        "text": "Zweieinhalb Tage"
+      },
+      {
+        "id": "c",
+        "text": "Zweieinhalb Wochen"
+      },
+      {
+        "id": "d",
+        "text": "Zweieinhalb Stunden"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Abstieg dauerte rund 147 Minuten. Selbst nach dem Aufsetzen übermittelte die Sonde noch Messwerte und Bilder.",
+    "tags": [
+      "thema_raumfahrtgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NASA · Huygens",
+        "url": "https://science.nasa.gov/mission/cassini-huygens/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Huygens schwebte am Fallschirm durch Titans dichte Atmosphäre und konnte unterwegs messen. Wie lange dauerte ihr Abstieg ungefähr? Zweieinhalb Stunden. Der Abstieg dauerte rund 147 Minuten. Selbst nach dem Aufsetzen übermittelte die Sonde noch Messwerte und Bilder.",
+        "locator": "huygens, Textstelle 372",
+        "source_sha256": "a0b35349447e121d252a9880a9a0911bb140af403434a3df5abc2b13e9fa7d30"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-photo51-muster",
+    "fact_key": "q3.h.photo51.muster",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "„Foto 51“ zeigt ein Kreuzmuster aus Beugungspunkten. Welche Form der DNA legte es nahe, wenn sich regelmäßig wiederholende Windungen von der Seite kreuzen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine schraubenförmige Struktur"
+      },
+      {
+        "id": "b",
+        "text": "Eine geschlossene Kugelschale"
+      },
+      {
+        "id": "c",
+        "text": "Einen einzelnen flachen Ring"
+      },
+      {
+        "id": "d",
+        "text": "Einen Würfel aus sechs Platten"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Rosalind Franklin und Raymond Gosling gewannen die Aufnahme 1952. Das Beugungsmuster gab einen wichtigen Hinweis auf die Helixform.",
+    "tags": [
+      "thema_wissenschaft_und_entdeckung",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "King’s College London · Geschichte der Aufnahme 51",
+        "url": "https://www.kcl.ac.uk/the-story-behind-photograph-51",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "„Foto 51“ zeigt ein Kreuzmuster aus Beugungspunkten. Welche Form der DNA legte es nahe, wenn sich regelmäßig wiederholende Windungen von der Seite kreuzen? Eine schraubenförmige Struktur. Rosalind Franklin und Raymond Gosling gewannen die Aufnahme 1952. Das Beugungsmuster gab einen wichtigen Hinweis auf die Helixform.",
+        "locator": "photo51, Textstelle 94",
+        "source_sha256": "cf3964aad52d0fd7a38907b4e0e3c20af84017d28cd1ad66d41ae559dc26adc6"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-www-forschung",
+    "fact_key": "q3.h.www.forschung",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Am CERN arbeiteten Forschende aus vielen Ländern, nach Besuchen oft wieder an ihren Heimatuniversitäten. Welches Problem sollte das junge Web zunächst lösen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Allen Laboren dieselbe Ortszeit vorschreiben"
+      },
+      {
+        "id": "b",
+        "text": "Forschungsinformationen über verschiedene Orte hinweg teilen"
+      },
+      {
+        "id": "c",
+        "text": "Teilchen ohne Beschleuniger bewegen"
+      },
+      {
+        "id": "d",
+        "text": "Einheitliche nationale Schulbücher drucken"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Am CERN entwickelte Tim Berners-Lee ab 1989 das World Wide Web. Dahinter stand ein praktischer Bedarf der internationalen Forschungszusammenarbeit.",
+    "tags": [
+      "thema_wissenschaft_und_entdeckung",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "CERN · A short history of the Web",
+        "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Am CERN arbeiteten Forschende aus vielen Ländern, nach Besuchen oft wieder an ihren Heimatuniversitäten. Welches Problem sollte das junge Web zunächst lösen? Forschungsinformationen über verschiedene Orte hinweg teilen. Am CERN entwickelte Tim Berners-Lee ab 1989 das World Wide Web. Dahinter stand ein praktischer Bedarf der internationalen Forschungszusammenarbeit.",
+        "locator": "www, Textstelle 71",
+        "source_sha256": "b3208f720b3bb5cbe5fe840a680f40674aeb529b8863d665092ad412cad10b3c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-www-schalter",
+    "fact_key": "q3.h.www.schalter",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Am ersten Webserver des CERN warnte ein handgeschriebener Zettel vor dem Ausschalten. Welche Folge sollte der Hinweis verhindern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die angeschlossenen Telefone hätten ihre Nummern gewechselt."
+      },
+      {
+        "id": "b",
+        "text": "Jeder Ausdruck des Labors wäre sofort unlesbar geworden."
+      },
+      {
+        "id": "c",
+        "text": "Andere konnten die dort bereitgestellten Seiten nicht mehr abrufen."
+      },
+      {
+        "id": "d",
+        "text": "Alle Computer am CERN hätten ihre lokalen Dateien verloren."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der Rechner stand im Büro, erfüllte aber eine Aufgabe für andere Nutzer. Ein gewöhnlicher Feierabendgriff zum Schalter hätte diesen Dienst unterbrochen.",
+    "tags": [
+      "thema_wissenschaft_und_entdeckung",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "CERN · A short history of the Web",
+        "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "Am ersten Webserver des CERN warnte ein handgeschriebener Zettel vor dem Ausschalten. Welche Folge sollte der Hinweis verhindern? Andere konnten die dort bereitgestellten Seiten nicht mehr abrufen. Der Rechner stand im Büro, erfüllte aber eine Aufgabe für andere Nutzer. Ein gewöhnlicher Feierabendgriff zum Schalter hätte diesen Dienst unterbrochen.",
+        "locator": "www, Textstelle 76",
+        "source_sha256": "b3208f720b3bb5cbe5fe840a680f40674aeb529b8863d665092ad412cad10b3c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-mosaic-verbreitung",
+    "fact_key": "q3.h.mosaic.verbreitung",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "1993 kam der Browser Mosaic auf, bald auch auf verbreiteten PCs und Macintosh-Rechnern. Warum war das für das Web ein wichtiger Schritt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Webseiten mussten nun ausschließlich aus Zahlen bestehen."
+      },
+      {
+        "id": "b",
+        "text": "Die Computer brauchten keine Anzeigen oder Bildschirme mehr."
+      },
+      {
+        "id": "c",
+        "text": "Das Web blieb damit auf eine einzige Laborplattform beschränkt."
+      },
+      {
+        "id": "d",
+        "text": "Mehr Menschen konnten Seiten mit einer zugänglichen Oberfläche besuchen."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Grafische Browser für verbreitete Rechner machten die Bedienung leichter. Der Zugang war nicht mehr auf wenige spezialisierte Systeme begrenzt.",
+    "tags": [
+      "thema_wissenschaft_und_entdeckung",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "CERN · A short history of the Web",
+        "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/",
+        "checked_at": "2026-11-22T21:41:15+00:00",
+        "verified_claim": "1993 kam der Browser Mosaic auf, bald auch auf verbreiteten PCs und Macintosh-Rechnern. Warum war das für das Web ein wichtiger Schritt? Mehr Menschen konnten Seiten mit einer zugänglichen Oberfläche besuchen. Grafische Browser für verbreitete Rechner machten die Bedienung leichter. Der Zugang war nicht mehr auf wenige spezialisierte Systeme begrenzt.",
+        "locator": "www, Textstelle 86",
+        "source_sha256": "b3208f720b3bb5cbe5fe840a680f40674aeb529b8863d665092ad412cad10b3c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:41:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

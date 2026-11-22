@@ -1,0 +1,460 @@
+{
+  "q3-h-paris-ballontuch": {
+    "fingerprint": "053aad3afde7327998186f65a45d2b1fd29e27fff8ba070a9b9ec39610cd43a1",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "ballon",
+        "title": "Château de Versailles · Le premier vol en montgolfière",
+        "url": "https://www.chateauversailles.fr/decouvrir/histoire/grandes-dates/premier-vol-montgolfiere",
+        "downloaded_at": "2026-11-22T21:31:17+00:00",
+        "sha256": "403f89d7216d3692caa714bd9c0f1bd1f9680649d4325ce2d7b4d40405caea32",
+        "source_line": 121,
+        "source_line_sha256": "714fd75d4cac330ed920d8fdb23d7b50a83b3016960eb36f6d0abff56909dcf5",
+        "anchor": "pièce de tissu gonflée par un feu"
+      },
+      {
+        "key": "flugdream",
+        "title": "Library of Congress · The Dream of Flight",
+        "url": "https://www.loc.gov/exhibits/dreamofflight/dream-dream.html",
+        "downloaded_at": "2026-11-22T21:31:16+00:00",
+        "sha256": "94f46f4ab5d2d53a237805afe3e6574e195ae4c7ff51ae01dc9db60a9c5a8742",
+        "source_line": 155,
+        "source_line_sha256": "68f8c701070c46794a7f93dbde75d340c1e6260430885def95342f8ea568c2d5",
+        "anchor": "Montgolfier designed hot-air balloon"
+      }
+    ]
+  },
+  "q3-h-versailles-tiere": {
+    "fingerprint": "ad254a8c1a89b85e9a17fb64d3f1d9f13f02a9adf369ea6d5e082a51dd7dac6e",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "ballon",
+        "title": "Château de Versailles · Le premier vol en montgolfière",
+        "url": "https://www.chateauversailles.fr/decouvrir/histoire/grandes-dates/premier-vol-montgolfiere",
+        "downloaded_at": "2026-11-22T21:31:17+00:00",
+        "sha256": "403f89d7216d3692caa714bd9c0f1bd1f9680649d4325ce2d7b4d40405caea32",
+        "source_line": 124,
+        "source_line_sha256": "6f9a6292aab83db3e9a4cb52759f413f4aac2227bc48749ab96ecaf32a2a86cc",
+        "anchor": "un mouton, un canard et un coq"
+      }
+    ]
+  },
+  "q3-h-paris-flugdauer": {
+    "fingerprint": "d716d298b5a4523daa9ade5c1e32bc182d4fbc52296f84e3d00c020f1f22bf06",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "flugdream",
+        "title": "Library of Congress · The Dream of Flight",
+        "url": "https://www.loc.gov/exhibits/dreamofflight/dream-dream.html",
+        "downloaded_at": "2026-11-22T21:31:16+00:00",
+        "sha256": "94f46f4ab5d2d53a237805afe3e6574e195ae4c7ff51ae01dc9db60a9c5a8742",
+        "source_line": 155,
+        "source_line_sha256": "68f8c701070c46794a7f93dbde75d340c1e6260430885def95342f8ea568c2d5",
+        "anchor": "lasted twenty-five minutes"
+      }
+    ]
+  },
+  "q3-h-charliere-gas": {
+    "fingerprint": "3ac05eac9e7d7c085d18df700f6d82612a994bd817ec044f9a96a95189abed32",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "flugdream",
+        "title": "Library of Congress · The Dream of Flight",
+        "url": "https://www.loc.gov/exhibits/dreamofflight/dream-dream.html",
+        "downloaded_at": "2026-11-22T21:31:16+00:00",
+        "sha256": "94f46f4ab5d2d53a237805afe3e6574e195ae4c7ff51ae01dc9db60a9c5a8742",
+        "source_line": 172,
+        "source_line_sha256": "d80c1d3850a3a513db4c3f540981635aacb9d5f2d930a5408ac9c469cea7e588",
+        "anchor": "hydrogen balloon"
+      }
+    ]
+  },
+  "q3-h-leonardo-fluegel": {
+    "fingerprint": "4d96d623114c4ab2843d63525b075650c79f41d5ce6e668455bfba4e13eb2124",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "flugdream",
+        "title": "Library of Congress · The Dream of Flight",
+        "url": "https://www.loc.gov/exhibits/dreamofflight/dream-dream.html",
+        "downloaded_at": "2026-11-22T21:31:16+00:00",
+        "sha256": "94f46f4ab5d2d53a237805afe3e6574e195ae4c7ff51ae01dc9db60a9c5a8742",
+        "source_line": 120,
+        "source_line_sha256": "2ece152aea94a76fe28a7d04f955b9fc564822dab0d3a3603407c38365844ed2",
+        "anchor": "long study of birds"
+      }
+    ]
+  },
+  "q3-h-lindbergh-sicht": {
+    "fingerprint": "8afde726ed45f0e4f4ea25040ad6df60e4ccc5fec87a3c5067242fae07d47add",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "lindy",
+        "title": "National Air and Space Museum · Spirit of St. Louis",
+        "url": "https://airandspace.si.edu/stories/editorial/stories-inside-spirit-st-louis",
+        "downloaded_at": "2026-11-22T21:36:58+00:00",
+        "sha256": "a1c83eee17bdd1bd1103e1ff334cf3cc297ebeafdb09f30256a3874dc9b9df08",
+        "source_line": 74,
+        "source_line_sha256": "fca425557f0a5e73e5733e9ae91277acca340a4f7cc673d24357e4cb288869a6",
+        "anchor": "replaced the windscreen"
+      }
+    ]
+  },
+  "q3-h-apollo-rollen": {
+    "fingerprint": "75243a11fb092583c0f7cc9b43efbdc97442fac754953cab76e6660af6229908",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "nasaapollo",
+        "title": "NASA · Das Apollo-Programm",
+        "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program/",
+        "downloaded_at": "2026-11-22T21:18:07+00:00",
+        "sha256": "e723923b313ff920bdab072eedf3e260f2281a6c9bc093327c6ab44c9e2f6ede",
+        "source_line": 355,
+        "source_line_sha256": "8becf79ed277ae32b692435f39cb98663d4b4577e4d7ae7d1e86524786122549",
+        "anchor": "carried astronauts from orbit"
+      }
+    ]
+  },
+  "q3-h-apollo-mondmenschen": {
+    "fingerprint": "ad282271ecef33573a7c5e5d5f270d96270c8f90b577620452f920e943bd5ee9",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "nasaapollo",
+        "title": "NASA · Das Apollo-Programm",
+        "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program/",
+        "downloaded_at": "2026-11-22T21:18:07+00:00",
+        "sha256": "e723923b313ff920bdab072eedf3e260f2281a6c9bc093327c6ab44c9e2f6ede",
+        "source_line": 352,
+        "source_line_sha256": "d06eadb75faf4e479149c190b535fddc379dd224e0656f8b61f4ca9bb4db0e5c",
+        "anchor": "12 astronauts walked"
+      }
+    ]
+  },
+  "q3-h-apollo8-weihnachten": {
+    "fingerprint": "99f8a08d0236e643a6538f1e0d6b4edb6b0f4fedb58529f4db27df54087747c9",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "earthrise",
+        "title": "NASA · Weihnachten mit Apollo 8",
+        "url": "https://www.nasa.gov/missions/apollo/apollo-8-christmas-at-the-moon/",
+        "downloaded_at": "2026-11-22T21:36:57+00:00",
+        "sha256": "1dfb0bff086008f9bbbca8dda9f30c4d9468a46bc52b9ea55e9ecba2021ede1a",
+        "source_line": 343,
+        "source_line_sha256": "342014d9b4856c70dc50fb9c519094d572a767422b36808ce8640f9207cc5717",
+        "anchor": "first humans to orbit another world"
+      }
+    ]
+  },
+  "q3-h-earthrise-blick": {
+    "fingerprint": "c6b71555813c8283768433aaa38b7db746ff15ff202296f0ddb7d76a9e76ec87",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "earthrise",
+        "title": "NASA · Weihnachten mit Apollo 8",
+        "url": "https://www.nasa.gov/missions/apollo/apollo-8-christmas-at-the-moon/",
+        "downloaded_at": "2026-11-22T21:36:57+00:00",
+        "sha256": "1dfb0bff086008f9bbbca8dda9f30c4d9468a46bc52b9ea55e9ecba2021ede1a",
+        "source_line": 348,
+        "source_line_sha256": "373c4aa67006ddbaf7fb21a5c213048191f5b0bc99d6e19f66569a66e2ebc8f3",
+        "anchor": "iconic “Earthrise” image"
+      }
+    ]
+  },
+  "q3-h-apollo13-ziel": {
+    "fingerprint": "3dcc06650e91665e751560a957eba208c5e4ff7fac49f091b1056ee5fd4cda7e",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "nasaapollo",
+        "title": "NASA · Das Apollo-Programm",
+        "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program/",
+        "downloaded_at": "2026-11-22T21:18:07+00:00",
+        "sha256": "e723923b313ff920bdab072eedf3e260f2281a6c9bc093327c6ab44c9e2f6ede",
+        "source_line": 406,
+        "source_line_sha256": "3140918ca9b34db22a6f2b3eb47d27377287871feb566bed3262e2efa7b5f2e4",
+        "anchor": "bring the astronauts home safely"
+      }
+    ]
+  },
+  "q3-h-mondauto-falten": {
+    "fingerprint": "99517dfa3deaee03b5ad492f65c3988aa845ac7d970a94c4e2ce8bd409c257d3",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "nasaapollo",
+        "title": "NASA · Das Apollo-Programm",
+        "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program/",
+        "downloaded_at": "2026-11-22T21:18:07+00:00",
+        "sha256": "e723923b313ff920bdab072eedf3e260f2281a6c9bc093327c6ab44c9e2f6ede",
+        "source_line": 409,
+        "source_line_sha256": "86b00064734e9bffca5b3ba7a1483972c2dad39bb635014437748d7879a9ddd9",
+        "anchor": "could be folded"
+      }
+    ]
+  },
+  "q3-h-apollo-heimkehr": {
+    "fingerprint": "b88070825293c8017e789c9850f4ba518193f791eef0ff87b241b6a845d931c7",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "nasaapollo",
+        "title": "NASA · Das Apollo-Programm",
+        "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-was-the-apollo-program/",
+        "downloaded_at": "2026-11-22T21:18:07+00:00",
+        "sha256": "e723923b313ff920bdab072eedf3e260f2281a6c9bc093327c6ab44c9e2f6ede",
+        "source_line": 410,
+        "source_line_sha256": "ff6693bcff5bb519451d35ad3f87abb039f32874dee23694a0b873acc0df3d60",
+        "anchor": "landed in the ocean"
+      }
+    ]
+  },
+  "q3-h-hammer-feder": {
+    "fingerprint": "aca8d21744473b099caf8f438c51f4cdec81b854f1e48942d26423010e08fb15",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "hammer",
+        "title": "NASA · Apollo 15 am Hadley-Gebirge",
+        "url": "https://www.nasa.gov/history/50-years-ago-apollo-15-on-the-moon-at-hadley-apennine/",
+        "downloaded_at": "2026-11-22T21:36:57+00:00",
+        "sha256": "0b9af1eed139fff1cb02c382bcb8935b19197c5eb39e9d7b9f1aa7a2147b9afa",
+        "source_line": 369,
+        "source_line_sha256": "490dca553860146108fe881b2ceee44497847ec378aff7eb677d95a066ac00f4",
+        "anchor": "they hit the lunar dust at the same time"
+      }
+    ]
+  },
+  "q3-h-hubble-brille": {
+    "fingerprint": "2d84f121b555e0bbd4974579b37275baafbd4a9d8867fcd524c55c8d82645276",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "hubble",
+        "title": "NASA · Das Hubble-Weltraumteleskop",
+        "url": "https://science.nasa.gov/mission/hubble/overview/hubble-timeline/hubble-history-timeline-full-text/",
+        "downloaded_at": "2026-11-22T21:36:55+00:00",
+        "sha256": "c66eb7cef714b046cdefd99b9c138dd63d8a9135c6442b9606baf23d92e7b3ca",
+        "source_line": 493,
+        "source_line_sha256": "8adc7f64acb2383dd7ff2edabb671a3f32f99ebe6239f2b0b2142bd45f64972e",
+        "anchor": "corrective optics"
+      }
+    ]
+  },
+  "q3-h-hubble-spiegelmass": {
+    "fingerprint": "ad157fcc407985b116c56a12f2c80e839ab1000506b314e5549aa0854f76dbc7",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "hubble",
+        "title": "NASA · Das Hubble-Weltraumteleskop",
+        "url": "https://science.nasa.gov/mission/hubble/overview/hubble-timeline/hubble-history-timeline-full-text/",
+        "downloaded_at": "2026-11-22T21:36:55+00:00",
+        "sha256": "c66eb7cef714b046cdefd99b9c138dd63d8a9135c6442b9606baf23d92e7b3ca",
+        "source_line": 452,
+        "source_line_sha256": "f2ec8debc9b12aa794d9d75ce1f258b711f47c4885f223029f87aa33240074be",
+        "anchor": "off by 2 microns"
+      }
+    ]
+  },
+  "q3-h-hubble-transport": {
+    "fingerprint": "bd6424daf5a6728bbb661939a4d3fbcf0e1388af46ec697e132da6b44a06f254",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "hubble",
+        "title": "NASA · Das Hubble-Weltraumteleskop",
+        "url": "https://science.nasa.gov/mission/hubble/overview/hubble-timeline/hubble-history-timeline-full-text/",
+        "downloaded_at": "2026-11-22T21:36:55+00:00",
+        "sha256": "c66eb7cef714b046cdefd99b9c138dd63d8a9135c6442b9606baf23d92e7b3ca",
+        "source_line": 439,
+        "source_line_sha256": "102bf5aaa32fed4a9e32b71892c3b138d37e43685bfed9ef0b37ad5e580e4e80",
+        "anchor": "carrying five astronauts and the Hubble Space Telescope"
+      }
+    ]
+  },
+  "q3-h-pathfinder-kissen": {
+    "fingerprint": "4aeb30cd52a454f39c752af31a0f43593024bdeaf89529f4e4537861123e42ea",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "pathfinder",
+        "title": "NASA · Mars Pathfinder",
+        "url": "https://science.nasa.gov/mission/mars-pathfinder/",
+        "downloaded_at": "2026-11-22T21:36:55+00:00",
+        "sha256": "b2b7fda30b979ac3c7671f760424bf51583da7cbb85733ad2f58e9f6ce749c19",
+        "source_line": 390,
+        "source_line_sha256": "357eacb672126797817989efde8a3cf8e6cdecf94a6b38ebce93a55d2c2689fe",
+        "anchor": "airbags to cushion the impact"
+      }
+    ]
+  },
+  "q3-h-sojourner-gewicht": {
+    "fingerprint": "36f85802412df5dd07fb5ba9433293a43d1f9004555c4cc6793c20c55424e3d5",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "pathfinder",
+        "title": "NASA · Mars Pathfinder",
+        "url": "https://science.nasa.gov/mission/mars-pathfinder/",
+        "downloaded_at": "2026-11-22T21:36:55+00:00",
+        "sha256": "b2b7fda30b979ac3c7671f760424bf51583da7cbb85733ad2f58e9f6ce749c19",
+        "source_line": 387,
+        "source_line_sha256": "3eae7f9899bb9bddb8a62ff0c37eb400b8637f82d167962798889e107271d76b",
+        "anchor": "10.6 kilogram"
+      }
+    ]
+  },
+  "q3-h-ingenuity-wechsel": {
+    "fingerprint": "ec4cdbe5691f00dfb8f511c7aad51cb208c5309d6ae83554706cfa8295b03e12",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "marsheli",
+        "title": "NASA · Ingenuity Mars Helicopter",
+        "url": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/",
+        "downloaded_at": "2026-11-22T21:36:55+00:00",
+        "sha256": "20e93386e02f89a377e8deffcd0bcdaa5c31104ac302dd64b8eef591ee70dd2d",
+        "source_line": 378,
+        "source_line_sha256": "73681667b503dbdf975bdae63ac0bf22c61b8993588c3e7f0d236e2bd2a05b06",
+        "anchor": "serving as an aerial scout"
+      }
+    ]
+  },
+  "q3-h-ingenuity-umfang": {
+    "fingerprint": "5ed36f2e26917442a978d8336e773b5e5521b339d754c1de6c09bf339d0638e9",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "marsheli",
+        "title": "NASA · Ingenuity Mars Helicopter",
+        "url": "https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/",
+        "downloaded_at": "2026-11-22T21:36:55+00:00",
+        "sha256": "20e93386e02f89a377e8deffcd0bcdaa5c31104ac302dd64b8eef591ee70dd2d",
+        "source_line": 378,
+        "source_line_sha256": "73681667b503dbdf975bdae63ac0bf22c61b8993588c3e7f0d236e2bd2a05b06",
+        "anchor": "completed 72 flights"
+      }
+    ]
+  },
+  "q3-h-insight-boden": {
+    "fingerprint": "0d6663cf0531bcb16d4ef94804be3ff18d6d82ea6d7ae5ab55af1f53f91a39d3",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "insight",
+        "title": "NASA · InSight",
+        "url": "https://science.nasa.gov/mission/insight/",
+        "downloaded_at": "2026-11-22T21:36:55+00:00",
+        "sha256": "9bbabf0b7a6bb9346e920b2d707f6675615ef842d4fb93adf813bc651fb88487",
+        "source_line": 377,
+        "source_line_sha256": "0fedcbf77dc3f4583e0f6331f1196ad9385ae4e7f5ca2bd1aab235e999d2f2ee",
+        "anchor": "lifted a seismometer"
+      }
+    ]
+  },
+  "q3-h-huygens-cassini": {
+    "fingerprint": "d7c63bdc6a64dde093245406ab342e2bd36fa73975a145cd6efe6026f126b6f4",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "huygens",
+        "title": "NASA · Huygens",
+        "url": "https://science.nasa.gov/mission/cassini-huygens/",
+        "downloaded_at": "2026-11-22T21:36:55+00:00",
+        "sha256": "a0b35349447e121d252a9880a9a0911bb140af403434a3df5abc2b13e9fa7d30",
+        "source_line": 341,
+        "source_line_sha256": "ee714ae1a3f460d14e702fe9320b6c95da84198c9e9892595eb84f1dcec79c6b",
+        "anchor": "Huygens traveled to Saturn aboard"
+      }
+    ]
+  },
+  "q3-h-huygens-fallschirm": {
+    "fingerprint": "6338e2c04562404e142597eb1ded96fe364ad7655ff69f6f9f5edbf325f20741",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "huygens",
+        "title": "NASA · Huygens",
+        "url": "https://science.nasa.gov/mission/cassini-huygens/",
+        "downloaded_at": "2026-11-22T21:36:55+00:00",
+        "sha256": "a0b35349447e121d252a9880a9a0911bb140af403434a3df5abc2b13e9fa7d30",
+        "source_line": 372,
+        "source_line_sha256": "5bb2bbdd1f5f3a84638579d518f6b783752b00512bdbedc3fabf7d605e1c790e",
+        "anchor": "2.5-hour descent"
+      }
+    ]
+  },
+  "q3-h-photo51-muster": {
+    "fingerprint": "6f5c98fe047072003ea130a95b8a9e3de86f393dc012229aaf45b985da59083f",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "photo51",
+        "title": "King’s College London · Geschichte der Aufnahme 51",
+        "url": "https://www.kcl.ac.uk/the-story-behind-photograph-51",
+        "downloaded_at": "2026-11-22T21:36:58+00:00",
+        "sha256": "cf3964aad52d0fd7a38907b4e0e3c20af84017d28cd1ad66d41ae559dc26adc6",
+        "source_line": 94,
+        "source_line_sha256": "95e2f72e79ed345907633edf978616dff48d5663d586eeef89a94d626f4d4912",
+        "anchor": "cross pattern of diffraction spots"
+      }
+    ]
+  },
+  "q3-h-www-forschung": {
+    "fingerprint": "ea3ea9a7029a3f72b7a6356a07bcd154f6d016ac782ba9f1637b260623b9784e",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "www",
+        "title": "CERN · A short history of the Web",
+        "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/",
+        "downloaded_at": "2026-11-22T21:36:57+00:00",
+        "sha256": "b3208f720b3bb5cbe5fe840a680f40674aeb529b8863d665092ad412cad10b3c",
+        "source_line": 71,
+        "source_line_sha256": "4031542cd11e8522a9bec446c11096c97bd9caefbcd4ee1d03798c6734a4aef8",
+        "anchor": "information-sharing between scientists"
+      }
+    ]
+  },
+  "q3-h-www-schalter": {
+    "fingerprint": "86f6356a7d45dcb798ae89957c2d7ff088a6efc0949e27ec9ce3d2c176e9c537",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "www",
+        "title": "CERN · A short history of the Web",
+        "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/",
+        "downloaded_at": "2026-11-22T21:36:57+00:00",
+        "sha256": "b3208f720b3bb5cbe5fe840a680f40674aeb529b8863d665092ad412cad10b3c",
+        "source_line": 76,
+        "source_line_sha256": "020a875045b79c5e102c885819f39f393385a5506347d2d2eab9f024fe509afb",
+        "anchor": "hand-written label"
+      }
+    ]
+  },
+  "q3-h-mosaic-verbreitung": {
+    "fingerprint": "fbda64683a9ba5130d1e99720f8557448ec8752d4b0d82219730a1b5f4270cec",
+    "checked_at": "2026-11-22T21:41:15+00:00",
+    "sources": [
+      {
+        "key": "www",
+        "title": "CERN · A short history of the Web",
+        "url": "https://home.cern/science/computing/the-birth-of-the-web/short-history-web/",
+        "downloaded_at": "2026-11-22T21:36:57+00:00",
+        "sha256": "b3208f720b3bb5cbe5fe840a680f40674aeb529b8863d665092ad412cad10b3c",
+        "source_line": 86,
+        "source_line_sha256": "71ee648ee2c400adcd893cc652f93759d13ca12e1499c5d2f8cab6ee7b4b3f24",
+        "anchor": "Mosaic browser"
+      }
+    ]
+  }
+}

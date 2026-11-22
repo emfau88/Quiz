@@ -1369,7 +1369,7 @@
     "fact_key": "perform.gamelan.instruments",
     "category": "entertainment",
     "difficulty": "medium",
-    "question": "Was ist ein indonesisches Gamelan?",
+    "question": "Bei einer Gamelan-Aufführung siehst du Gongs, Trommeln und angeschlagene Metallplatten. Welche Beschreibung passt zum Zusammenspiel dieser Musiker?",
     "options": [
       {
         "id": "a",
@@ -1392,9 +1392,10 @@
     "explanation": "Zum Gamelan gehören häufig Gongs, Metallinstrumente und Trommeln. Der Name kann auch die Instrumente selbst bezeichnen.",
     "tags": [
       "thema_musiktraditionen",
-      "form_wiedererkennen"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1410,28 +1411,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
-        "at": "2026-11-22T18:43:00.903+00:00",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
+        "at": "2026-11-22T21:49:26.295461+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
-        "at": "2026-11-22T18:44:38.609+00:00",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
+        "at": "2026-11-22T21:49:38.360336+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.360351+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1594,7 +1595,7 @@
     "fact_key": "perform.karagoz.light",
     "category": "entertainment",
     "difficulty": "easy",
-    "question": "Wie entstehen die Bilder beim traditionellen türkischen Karagöz-Theater?",
+    "question": "Beim türkischen Karagöz sitzen die Zuschauer vor einem Schirm. Auf der Rückseite bewegen Spieler Lederfiguren zwischen Schirm und Lampe. Wie entsteht das Bild?",
     "options": [
       {
         "id": "a",
@@ -1617,9 +1618,10 @@
     "explanation": "Spielfiguren aus Leder werden zwischen eine Lichtquelle und einen Schirm gehalten.",
     "tags": [
       "thema_buehne",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1635,28 +1637,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
-        "at": "2026-11-22T18:43:00.903+00:00",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.389864+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
-        "at": "2026-11-22T18:44:38.609+00:00",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.376465+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.376477+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1894,7 +1896,7 @@
     "fact_key": "perform.khoomei.two",
     "category": "entertainment",
     "difficulty": "medium",
-    "question": "Was kann man beim mongolischen Obertongesang Khöömei aus einer einzigen Stimme zugleich hören?",
+    "question": "Beim mongolischen Khöömei hält eine Stimme einen tiefen Ton. Darüber wechseln helle Töne, ohne dass jemand Zweites einsetzt. Was hört man zugleich?",
     "options": [
       {
         "id": "a",
@@ -1917,9 +1919,10 @@
     "explanation": "Über einem gehaltenen Grundton macht die singende Person einzelne Obertöne als Melodie hörbar.",
     "tags": [
       "thema_musiktraditionen",
-      "form_wiedererkennen"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1935,28 +1938,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
-        "at": "2026-11-22T18:43:00.903+00:00",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
+        "at": "2026-11-22T21:49:26.295513+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
-        "at": "2026-11-22T18:44:38.609+00:00",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
+        "at": "2026-11-22T21:49:38.360381+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.360390+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },

@@ -1,12 +1,16 @@
 # Quizsalon · Roadmap und Nachweise
 
+## Fragenpool 0.3.0
+
+Die aktuelle Erweiterung umfasst den verdoppelten deutschen Fragenbestand, zwei feste Hinweisfragen und eine Schätzfrage pro neuer Tagesrunde sowie datierte Forschung mit Originalquellen. Prüf- und Auslieferungsnachweise stehen in den sechs Arbeitspaketen. [Stand der Erweiterung](UMSETZUNGSPLAN_FRAGENPOOL.md)
+
 ## Fragenpool 0.2.0
 
 Die sechs deutschen Kategorien enthalten zusammen 152 neue Sachverhalte. Alle 150 Referenzfragen sind weiter aktiv. Die veränderte Auswahl ist mit dem alten Algorithmus auf altem und neuem Bestand verglichen. Die einzelnen Arbeitspakete und Abnahmen werden im fortgeführten Fragenpoolplan abgehakt. Englisch ist dort als eigenes späteres Paket geführt. [Arbeitspakete mit Checkboxen](UMSETZUNGSPLAN_FRAGENPOOL.md) · [Inhaltsabgleich](release/qa/fragenpool/inhaltsabgleich.json) · [Auswahlmessung](release/qa/fragenpool/auswahlvergleich.json)
 
 ## Aufbau der Grundversion
 
-Die deutsche Browser-Testausgabe 0.2.0 ist über GitHub Pages erreichbar. Die Phasen 10 und 11 unten betreffen die Veröffentlichung der Android-App bei Google Play. [Browser-Testausgabe](https://emfau88.github.io/Quiz/) · [Prüfnachweis](QA_REPORT.md)
+Die deutsche Browser-Testausgabe ist über GitHub Pages erreichbar. Die Phasen 10 und 11 unten betreffen die Veröffentlichung der Android-App bei Google Play. [Browser-Testausgabe](https://emfau88.github.io/Quiz/spielen.html?v=0.3.0) · [Prüfnachweis](QA_REPORT.md)
 
 | Phase | Aufgabe | Status | Nachweis oder externe Abhängigkeit |
 | --- | --- | --- | --- |

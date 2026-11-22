@@ -74,6 +74,16 @@
       },
       "uniqueItems": true
     },
+    "research": {
+      "type": "object",
+      "properties": {
+        "published_on": {"type": "string", "format": "date"},
+        "publisher": {"type": "string", "minLength": 1},
+        "source_id": {"type": "string", "minLength": 1}
+      },
+      "required": ["published_on", "publisher", "source_id"],
+      "additionalProperties": false
+    },
     "content_revision": {
       "type": "integer",
       "minimum": 1

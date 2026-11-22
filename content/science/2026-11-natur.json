@@ -27,9 +27,10 @@
     "explanation": "Eichhörnchen bleiben im Winter zeitweise aktiv. Dann suchen sie ihre Vorräte im Boden, in Spalten und in Baumhöhlen wieder auf.",
     "tags": [
       "thema_tierverhalten",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -45,28 +46,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:36:03.964Z"
+        "at": "2026-11-22T21:39:47.430063+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.437094+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.437109+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -177,9 +178,9 @@
     "explanation": "Die Wanderung führt zur Fortpflanzung ans Wasser. Dafür legen manche Tiere mehrere Kilometer zurück.",
     "tags": [
       "thema_tierverhalten",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -195,28 +196,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:36:03.964Z"
+        "at": "2026-11-22T21:39:47.430111+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.437128+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.437132+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -379,7 +380,7 @@
     "fact_key": "fledermaus-winterstollen-feuchte",
     "category": "nature_animals",
     "difficulty": "medium",
-    "question": "Viele heimische Fledermäuse überwintern in Kellern oder Stollen. Welche Bedingungen suchen sie dabei?",
+    "question": "Eine Fledermaus soll im Winterquartier Energie sparen und wenig Wasser verlieren. Welche Kombination hilft ihr in einem frostfreien Stollen dabei?",
     "options": [
       {
         "id": "a",
@@ -402,9 +403,10 @@
     "explanation": "Ein geeignetes Quartier bleibt kühl und frostfrei. Genügend feuchte Luft schützt die Tiere davor, im Winterschlaf zu viel Wasser zu verlieren.",
     "tags": [
       "thema_tierverhalten",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -420,28 +422,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:36:03.964Z"
+        "at": "2026-11-22T21:39:47.430138+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.437147+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.437151+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -477,9 +479,9 @@
     "explanation": "Mit dem Boden kühlt die feuchte Luft unmittelbar darüber ab. Kondensiert ihr Wasserdampf, werden feine Nebeltröpfchen sichtbar.",
     "tags": [
       "thema_wetter",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -495,28 +497,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:33:22.587Z"
+        "at": "2026-11-22T21:39:47.430162+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.437165+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.437168+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -702,9 +704,10 @@
     "explanation": "Über dem warmen Land steigt Luft auf. Kühlere Luft strömt vom Meer her nach und kann die Hitze am Strand mildern.",
     "tags": [
       "thema_wetter",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -720,28 +723,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:33:22.588Z"
+        "at": "2026-11-22T21:39:47.430188+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.437179+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.437184+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -852,9 +855,9 @@
     "explanation": "Föhn bringt Wärme und Trockenheit auf die windabgewandte Seite eines Gebirges. So können benachbarte Täler sehr unterschiedliches Wetter haben.",
     "tags": [
       "thema_wetter",
-      "form_herleiten"
+      "form_vergleichen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -870,28 +873,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:33:22.588Z"
+        "at": "2026-11-22T21:39:47.430210+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.437197+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.437200+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },

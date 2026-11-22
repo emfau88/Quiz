@@ -1,5 +1,15 @@
 # Quizsalon · Release-Checkliste
 
+## Deutsche Ausgabe 0.3.0
+
+- [x] 36 datierte Forschungsveröffentlichungen fachlich geprüft und als Quellen in den Karten hinterlegt. Die jüngste Originalarbeit erschien am 18. November 2026. [Quellen und Belege](content/research/README.md)
+- [x] Die frühere Einordnung aller 132 Herleitungen überprüft und 60 weitere frühere Wissensabfragen redaktionell bearbeitet. [Herleitungen](release/qa/modern-0.3.0/alte-herleitungen.json) · [Weitere Karten](release/qa/modern-0.3.0/ueberarbeitete-wissensabfragen.json)
+- [x] Verdopplung auf 2.400 und die Anteile aller sechs Frageformen am endgültigen Katalog nachgewiesen. Die markierten ähnlichen Fragen wurden paarweise gesichtet. [Bestandsvergleich](release/qa/modern-0.3.0/bestand.json) · [Einzelentscheidungen](release/qa/modern-0.3.0/dublettenentscheidungen.json)
+- [x] Tagesplätze, Browser, Offline-Spiel, frühere Spielstände und alle Fragenlayouts geprüft. [Rundenauswahl](release/qa/modern-0.3.0/tagesrunden.json) · [Browserprüfungen](QA_REPORT.md)
+- [x] Eigenständige HTML-Datei und beide installierbaren APKs mit identischem Katalog geprüft. Ein gespeicherter Android-Spielstand aus der Ausgabe 0.2.0 blieb beim Update erhalten. [HTML-Dateiupdate](release/qa/modern-0.3.0/html-update.json) · [APK-Abgleich](release/android/artifacts.json) · [Android-Update](release/qa/modern-0.3.0/android-update/android-ui.json)
+- [ ] Die aktualisierte Browser-Testausgabe über GitHub Actions ausliefern und den README-Link öffentlich aufrufen.
+- [ ] Die Android-App bei Google Play zur Freigabe vorlegen. Die Betreiberentscheidung, der interne Kaufnachweis und die übrigen externen Voraussetzungen sind noch offen. [Externe Abhängigkeiten](BLOCKERS.md)
+
 ## Lokale Übergabe 0.2.0
 
 - [x] Deutsch, 1.200 aktive Sachverhalte, 152 Einzelaustausche, sechs Kategorien und alle 150 Referenzen nachgewiesen. [Katalogabgleich](release/qa/fragenpool/inhaltsabgleich.json)

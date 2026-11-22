@@ -1,0 +1,2020 @@
+[
+  {
+    "id": "q3-e-toys-buzz-glaubt",
+    "fact_key": "q3.e.toys.buzz.glaubt",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In „Toy Story“ werden die Spielsachen lebendig. Warum nimmt Buzz Lightyear seine Raumfahrerausrüstung anfangs viel ernster als der Cowboy Woody?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er hält sich für einen echten Weltraumhelden."
+      },
+      {
+        "id": "b",
+        "text": "Er glaubt, Woody sei sein Erfinder."
+      },
+      {
+        "id": "c",
+        "text": "Er soll Andy zu einem Raumfahrtkurs begleiten."
+      },
+      {
+        "id": "d",
+        "text": "Er erinnert sich an frühere Reisen mit Woody."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Buzz versteht noch nicht, dass er eine Spielfigur ist. Sein Glaube an einen geheimen Auftrag treibt den Streit mit Woody an.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · toy-story",
+        "url": "https://www.pixar.com/toy-story",
+        "checked_at": "2026-11-22T21:47:07+00:00",
+        "verified_claim": "In „Toy Story“ werden die Spielsachen lebendig. Warum nimmt Buzz Lightyear seine Raumfahrerausrüstung anfangs viel ernster als der Cowboy Woody? Er hält sich für einen echten Weltraumhelden. Buzz versteht noch nicht, dass er eine Spielfigur ist. Sein Glaube an einen geheimen Auftrag treibt den Streit mit Woody an.",
+        "locator": "px-toy-story, Textstelle 96",
+        "source_sha256": "ad97674ddec5a9e37017d03f6aeeaa4088b96794d9f26d1d8eef0a9a3459f2d4"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:07+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-woody-museum",
+    "fact_key": "q3.e.woody.museum",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In „Toy Story 2“ entdeckt der Cowboy Woody seinen Wert als Sammlerstück. Zwischen welchen zwei Leben muss er wählen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Selbst Kinder betreuen oder Spielzeug verkaufen"
+      },
+      {
+        "id": "b",
+        "text": "Ausgestellt werden oder bei einem Kind spielen"
+      },
+      {
+        "id": "c",
+        "text": "Zur Schule gehen oder zum Zirkus ziehen"
+      },
+      {
+        "id": "d",
+        "text": "Zurück ins Weltall oder aufs Land fliegen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Ein Sammler will Woody mit Figuren aus derselben alten Fernsehserie an ein Museum geben. Woody muss entscheiden, was ein Spielzeug für ihn ausmacht.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · toy-story-2",
+        "url": "https://www.pixar.com/toy-story-2",
+        "checked_at": "2026-11-22T21:47:07+00:00",
+        "verified_claim": "In „Toy Story 2“ entdeckt der Cowboy Woody seinen Wert als Sammlerstück. Zwischen welchen zwei Leben muss er wählen? Ausgestellt werden oder bei einem Kind spielen. Ein Sammler will Woody mit Figuren aus derselben alten Fernsehserie an ein Museum geben. Woody muss entscheiden, was ein Spielzeug für ihn ausmacht.",
+        "locator": "px-toy-story-2, Textstelle 89",
+        "source_sha256": "84aa71f28524b3e949d1833a08fd5e10042332499958ca6bffba12ab8a50e4e1"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:07+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-ameise-manegenprofis",
+    "fact_key": "q3.e.ameise.manegenprofis",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Die Ameisen in „Das große Krabbeln“ hoffen auf kampferprobte Helfer. Weshalb fällt die angeworbene Gruppe ausgerechnet durch Vorführung und Akrobatik auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie trainiert für die königliche Leibwache."
+      },
+      {
+        "id": "b",
+        "text": "Sie probt heimlich für eine Aufnahmeprüfung."
+      },
+      {
+        "id": "c",
+        "text": "Sie arbeitet in einem Zirkus."
+      },
+      {
+        "id": "d",
+        "text": "Sie kommt von einer Sportschule für Ameisen."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Flik hat die Zirkustruppe für Kämpfer gehalten. Nun müssen die Künstler mit ihren wirklichen Fähigkeiten helfen.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · a-bugs-life",
+        "url": "https://www.pixar.com/a-bugs-life",
+        "checked_at": "2026-11-22T21:47:07+00:00",
+        "verified_claim": "Die Ameisen in „Das große Krabbeln“ hoffen auf kampferprobte Helfer. Weshalb fällt die angeworbene Gruppe ausgerechnet durch Vorführung und Akrobatik auf? Sie arbeitet in einem Zirkus. Flik hat die Zirkustruppe für Kämpfer gehalten. Nun müssen die Künstler mit ihren wirklichen Fähigkeiten helfen.",
+        "locator": "px-a-bugs-life, Textstelle 83",
+        "source_sha256": "575546276e48d4925aa90f326736d45690d02e9369608043de32f4a1c9fb7d16"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:07+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-monster-lachen",
+    "fact_key": "q3.e.monster.lachen",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In „Die Monster AG“ liefern Kinderschreie Energie. Als Boo fröhlich lacht, reagiert die Anlage besonders stark. Welche neue Idee ergibt sich daraus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Fabrik sollte den Ton ganz abschalten."
+      },
+      {
+        "id": "b",
+        "text": "Nur schlafende Kinder können Energie liefern."
+      },
+      {
+        "id": "c",
+        "text": "Jedes Kind braucht seine eigene Fabrik."
+      },
+      {
+        "id": "d",
+        "text": "Kinder könnten die Stadt auch mit Lachen versorgen."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Fabrik hat lange auf Kinderschreie gesetzt. Durch Boo stoßen Sulley und Mike auf die Kraft des Lachens.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · monsters-inc",
+        "url": "https://www.pixar.com/monsters-inc",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "In „Die Monster AG“ liefern Kinderschreie Energie. Als Boo fröhlich lacht, reagiert die Anlage besonders stark. Welche neue Idee ergibt sich daraus? Kinder könnten die Stadt auch mit Lachen versorgen. Die Fabrik hat lange auf Kinderschreie gesetzt. Durch Boo stoßen Sulley und Mike auf die Kraft des Lachens.",
+        "locator": "px-monsters-inc, Textstelle 92",
+        "source_sha256": "d649c4c4afc9ba2dc80959aea7b327ed1a57b8aa56511c95e0fc6613db9fd5e4"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-bob-versicherung",
+    "fact_key": "q3.e.bob.versicherung",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Bob Parr muss in „Die Unglaublichen“ seine Superkräfte verbergen. Welche unscheinbare Arbeit passt zu den Beschwerden und Versicherungsakten auf seinem Schreibtisch?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er bearbeitet Schadensfälle."
+      },
+      {
+        "id": "b",
+        "text": "Er entwirft Supersportwagen."
+      },
+      {
+        "id": "c",
+        "text": "Er betreut Filmkulissen."
+      },
+      {
+        "id": "d",
+        "text": "Er ist Fernsehsprecher."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bob arbeitet im Versicherungsbüro. Mitunter hilft er den Kunden immerhin, einen Weg durch das Beschwerdeverfahren zu finden.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · the-incredibles",
+        "url": "https://www.pixar.com/the-incredibles",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Bob Parr muss in „Die Unglaublichen“ seine Superkräfte verbergen. Welche unscheinbare Arbeit passt zu den Beschwerden und Versicherungsakten auf seinem Schreibtisch? Er bearbeitet Schadensfälle. Bob arbeitet im Versicherungsbüro. Mitunter hilft er den Kunden immerhin, einen Weg durch das Beschwerdeverfahren zu finden.",
+        "locator": "px-the-incredibles, Textstelle 89",
+        "source_sha256": "bf2e8706b4fbbea1455d391c2a837c669bc6256389611c2d789a8b8b7c10bb91"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-cars-umweg",
+    "fact_key": "q3.e.cars.umweg",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein ehrgeiziger Rennwagen gerät in „Cars“ auf der Route 66 in ein vergessenes Städtchen. Was setzt die Begegnungen dort in Gang?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Reise zur Verschrottung seines Motors"
+      },
+      {
+        "id": "b",
+        "text": "Ein unbeabsichtigter Umweg"
+      },
+      {
+        "id": "c",
+        "text": "Ein Pflichtstopp während der Siegerehrung"
+      },
+      {
+        "id": "d",
+        "text": "Ein Termin zur Eröffnung seiner Rennschule"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "In Radiator Springs gewinnt Lightning McQueen neue Freunde. Ihre Sicht auf das Leben verändert seinen Blick auf die Rennstrecke.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · cars",
+        "url": "https://www.pixar.com/cars",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Ein ehrgeiziger Rennwagen gerät in „Cars“ auf der Route 66 in ein vergessenes Städtchen. Was setzt die Begegnungen dort in Gang? Ein unbeabsichtigter Umweg. In Radiator Springs gewinnt Lightning McQueen neue Freunde. Ihre Sicht auf das Leben verändert seinen Blick auf die Rennstrecke.",
+        "locator": "px-cars, Textstelle 83",
+        "source_sha256": "79c10a345d84f2108dcf94e7ee5c252944c90e33533b0c4b21c84f68554107e2"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-ratte-berufung",
+    "fact_key": "q3.e.ratte.berufung",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Remy kann in „Ratatouille“ sogar im Müll feine Gerüche unterscheiden. In welcher Umgebung hilft ihm diese Gabe, seinen Traum zu verwirklichen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In der Werkstatt eines Klavierstimmers"
+      },
+      {
+        "id": "b",
+        "text": "Im Fundbüro einer Métrostation"
+      },
+      {
+        "id": "c",
+        "text": "In einer Pariser Restaurantküche"
+      },
+      {
+        "id": "d",
+        "text": "In der Schneiderei eines Modehauses"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Remys Geruchssinn hilft ihm, Aromen zu kombinieren. Seine Familie nutzt dieselbe Begabung zunächst, um sicheres Futter zu erkennen.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · ratatouille",
+        "url": "https://www.pixar.com/ratatouille",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Remy kann in „Ratatouille“ sogar im Müll feine Gerüche unterscheiden. In welcher Umgebung hilft ihm diese Gabe, seinen Traum zu verwirklichen? In einer Pariser Restaurantküche. Remys Geruchssinn hilft ihm, Aromen zu kombinieren. Seine Familie nutzt dieselbe Begabung zunächst, um sicheres Futter zu erkennen.",
+        "locator": "px-ratatouille, Textstelle 89",
+        "source_sha256": "6d2f3f0c2afc15238d872663d558a51500dcdff3831f7f2b9a9d60d740a133d4"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-ratte-ghostcook",
+    "fact_key": "q3.e.ratte.ghostcook",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Linguini steht im Restaurant vor den Gästen, Remy hat den feineren Geschmack. Was macht ihr Zusammenspiel in „Ratatouille“ besonders?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Beide eröffnen gleichzeitig verfeindete Restaurants."
+      },
+      {
+        "id": "b",
+        "text": "Beide bewerten anonym die Speisen der Gäste."
+      },
+      {
+        "id": "c",
+        "text": "Der eine liefert die Zutaten, der andere schreibt nur Rezepte."
+      },
+      {
+        "id": "d",
+        "text": "Der sichtbare Koch setzt die Ideen der verborgenen Ratte um."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die ungewöhnliche Arbeitsteilung macht Linguini nach außen erfolgreich. Die kulinarischen Einfälle stammen von Remy.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · ratatouille",
+        "url": "https://www.pixar.com/ratatouille",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Linguini steht im Restaurant vor den Gästen, Remy hat den feineren Geschmack. Was macht ihr Zusammenspiel in „Ratatouille“ besonders? Der sichtbare Koch setzt die Ideen der verborgenen Ratte um. Die ungewöhnliche Arbeitsteilung macht Linguini nach außen erfolgreich. Die kulinarischen Einfälle stammen von Remy.",
+        "locator": "px-ratatouille, Textstelle 101",
+        "source_sha256": "6d2f3f0c2afc15238d872663d558a51500dcdff3831f7f2b9a9d60d740a133d4"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-walle-aufgabe",
+    "fact_key": "q3.e.walle.aufgabe",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein verlassener Planet ist in „WALL·E“ mit ordentlichen Würfelstapeln übersät. Welche frühere Aufgabe des Roboters erklärt dieses Bild?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er verdichtet weggeworfene Dinge zu Blöcken."
+      },
+      {
+        "id": "b",
+        "text": "Er schneidet Eis für die Raumschiffe."
+      },
+      {
+        "id": "c",
+        "text": "Er fertigt Bausteine für Spielzeugläden."
+      },
+      {
+        "id": "d",
+        "text": "Er markiert die Landebahnen mit Steinen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "WALL·E räumt die Abfälle auf einer verlassenen Erde auf. Beharrlich presst er den Müll zu Würfeln.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · wall-e",
+        "url": "https://www.pixar.com/wall-e",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Ein verlassener Planet ist in „WALL·E“ mit ordentlichen Würfelstapeln übersät. Welche frühere Aufgabe des Roboters erklärt dieses Bild? Er verdichtet weggeworfene Dinge zu Blöcken. WALL·E räumt die Abfälle auf einer verlassenen Erde auf. Beharrlich presst er den Müll zu Würfeln.",
+        "locator": "px-wall-e, Textstelle 90",
+        "source_sha256": "2d0645f9a37a61a27e137a9ed10559fef6c8405a66853869eca999b19ff0cc47"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-walle-jahrhunderte",
+    "fact_key": "q3.e.walle.jahrhunderte",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Die Erde ist in „WALL·E“ schon lange verlassen, als der kleine Müllroboter EVE begegnet. In welcher Größenordnung liegt seine einsame Arbeitszeit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mehrere Jahrmillionen"
+      },
+      {
+        "id": "b",
+        "text": "Mehrere Jahrhunderte"
+      },
+      {
+        "id": "c",
+        "text": "Einige Monate"
+      },
+      {
+        "id": "d",
+        "text": "Knapp zehn Jahre"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "In der Filmgeschichte verrichtet WALL·E seine Arbeit seit rund 700 Jahren. In dieser Zeit hat er eine eigene Persönlichkeit entwickelt.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · wall-e",
+        "url": "https://www.pixar.com/wall-e",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Die Erde ist in „WALL·E“ schon lange verlassen, als der kleine Müllroboter EVE begegnet. In welcher Größenordnung liegt seine einsame Arbeitszeit? Mehrere Jahrhunderte. In der Filmgeschichte verrichtet WALL·E seine Arbeit seit rund 700 Jahren. In dieser Zeit hat er eine eigene Persönlichkeit entwickelt.",
+        "locator": "px-wall-e, Textstelle 90",
+        "source_sha256": "2d0645f9a37a61a27e137a9ed10559fef6c8405a66853869eca999b19ff0cc47"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-oben-generationen",
+    "fact_key": "q3.e.oben.generationen",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In „Oben“ reisen ein 78-jähriger Witwer und der achtjährige Russell gemeinsam. Wie groß ist der Altersabstand der unfreiwilligen Reisegefährten ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "55 Jahre"
+      },
+      {
+        "id": "b",
+        "text": "85 Jahre"
+      },
+      {
+        "id": "c",
+        "text": "70 Jahre"
+      },
+      {
+        "id": "d",
+        "text": "40 Jahre"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Zwischen Carl und Russell liegen siebzig Jahre. Der Film macht aus dem Generationsunterschied eine unerwartete Freundschaft.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · upfilm",
+        "url": "https://www.pixar.com/upfilm",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "In „Oben“ reisen ein 78-jähriger Witwer und der achtjährige Russell gemeinsam. Wie groß ist der Altersabstand der unfreiwilligen Reisegefährten ungefähr? 70 Jahre. Zwischen Carl und Russell liegen siebzig Jahre. Der Film macht aus dem Generationsunterschied eine unerwartete Freundschaft.",
+        "locator": "px-upfilm, Textstelle 83",
+        "source_sha256": "777407da0f3caac15e7cde7038539f6aa20c5c5ffb666d2ceebe440104814e1d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-oben-hund",
+    "fact_key": "q3.e.oben.hund",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Der Hund Dug in „Oben“ redet plötzlich verständlich, sobald er sein besonderes Halsband trägt. Was leistet das Gerät innerhalb der Geschichte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es übersetzt Russells Wörter ins Bellen."
+      },
+      {
+        "id": "b",
+        "text": "Es spielt nur alte Kommandos seines Besitzers ab."
+      },
+      {
+        "id": "c",
+        "text": "Es macht aus Umgebungsgeräuschen Hundepfeifen."
+      },
+      {
+        "id": "d",
+        "text": "Es übersetzt seine Gedanken in Sprache."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Dug bleibt ein Hund mit ganz eigenen Gedanken. Durch das Halsband können Carl und Russell verstehen, was ihn beschäftigt.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · upfilm",
+        "url": "https://www.pixar.com/upfilm",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Der Hund Dug in „Oben“ redet plötzlich verständlich, sobald er sein besonderes Halsband trägt. Was leistet das Gerät innerhalb der Geschichte? Es übersetzt seine Gedanken in Sprache. Dug bleibt ein Hund mit ganz eigenen Gedanken. Durch das Halsband können Carl und Russell verstehen, was ihn beschäftigt.",
+        "locator": "px-upfilm, Textstelle 102",
+        "source_sha256": "777407da0f3caac15e7cde7038539f6aa20c5c5ffb666d2ceebe440104814e1d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-spielzeug-college",
+    "fact_key": "q3.e.spielzeug.college",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Die Spielzeuge von Andy waren einst seine täglichen Gefährten. Welcher Schritt seines Erwachsenwerdens bringt sie in „Toy Story 3“ um ihre Zukunft in Sorge?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er bricht zum Studium auf."
+      },
+      {
+        "id": "b",
+        "text": "Er kommt in die Grundschule."
+      },
+      {
+        "id": "c",
+        "text": "Er zieht in ein Altersheim."
+      },
+      {
+        "id": "d",
+        "text": "Er macht Urlaub im Ferienlager."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Andys Aufbruch ans College verändert den Platz des Spielzeugs in seinem Leben. Woody und die anderen müssen ihren Weg finden.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · toy-story-3",
+        "url": "https://www.pixar.com/toy-story-3",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Die Spielzeuge von Andy waren einst seine täglichen Gefährten. Welcher Schritt seines Erwachsenwerdens bringt sie in „Toy Story 3“ um ihre Zukunft in Sorge? Er bricht zum Studium auf. Andys Aufbruch ans College verändert den Platz des Spielzeugs in seinem Leben. Woody und die anderen müssen ihren Weg finden.",
+        "locator": "px-toy-story-3, Textstelle 83",
+        "source_sha256": "bfa6d781ce382bb43dd1c5080748176b3258a3d2ffc12f811f39f259eae69699"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-merida-baer",
+    "fact_key": "q3.e.merida.baer",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In „Merida“ verschwindet nach einem Zauber die Königin. Plötzlich folgt eine Bärin ihrer Tochter. Weshalb schützt Merida das Tier vor ihrem Vater, dem Bärenjäger?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Bärin trägt den verlorenen Ehering."
+      },
+      {
+        "id": "b",
+        "text": "Die Bärin ist ihre verzauberte Mutter."
+      },
+      {
+        "id": "c",
+        "text": "Sie soll die Bärin zum nächsten Turnier führen."
+      },
+      {
+        "id": "d",
+        "text": "Die Bärin kennt einen geheimen Goldschatz."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Königin Elinor ist in einen Bären verwandelt worden. Mutter und Tochter müssen gemeinsam den Zauber lösen.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · brave",
+        "url": "https://www.pixar.com/brave",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "In „Merida“ verschwindet nach einem Zauber die Königin. Plötzlich folgt eine Bärin ihrer Tochter. Weshalb schützt Merida das Tier vor ihrem Vater, dem Bärenjäger? Die Bärin ist ihre verzauberte Mutter. Königin Elinor ist in einen Bären verwandelt worden. Mutter und Tochter müssen gemeinsam den Zauber lösen.",
+        "locator": "px-brave, Textstelle 89",
+        "source_sha256": "ef83de35512b7fe1295c02406c3ea5c800f660b78bfd56edd682a2ffdc59e6c6"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-monster-vorgeschichte",
+    "fact_key": "q3.e.monster.vorgeschichte",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "„Die Monster Uni“ kam nach „Die Monster AG“ ins Kino. Wo gehört die Zeit an der Universität in die Lebensgeschichte von Mike und Sulley?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nach ihrem Ausscheiden aus dem Berufsleben"
+      },
+      {
+        "id": "b",
+        "text": "In die Kindheit ihrer eigenen Enkel"
+      },
+      {
+        "id": "c",
+        "text": "Vor ihre gemeinsame Arbeit in der Fabrik"
+      },
+      {
+        "id": "d",
+        "text": "Zwischen zwei Schichten in derselben Fabrik"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der später gedrehte Film erzählt die Vorgeschichte. Die zwei Monster müssen während des Studiums erst Freunde werden.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · monsters-university",
+        "url": "https://www.pixar.com/monsters-university",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "„Die Monster Uni“ kam nach „Die Monster AG“ ins Kino. Wo gehört die Zeit an der Universität in die Lebensgeschichte von Mike und Sulley? Vor ihre gemeinsame Arbeit in der Fabrik. Der später gedrehte Film erzählt die Vorgeschichte. Die zwei Monster müssen während des Studiums erst Freunde werden.",
+        "locator": "px-monsters-university, Textstelle 83",
+        "source_sha256": "4dd0b40191a07fdc3792eaea536370b6266de226ecadd1ba5f57630135a3dd37"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-dorie-gedaechtnis",
+    "fact_key": "q3.e.dorie.gedaechtnis",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Dorie erinnert sich plötzlich an ihre Eltern. Was macht deren Suche im Film „Findet Dorie“ für diesen Fisch besonders schwierig?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie kann im Meer nur rückwärts schwimmen."
+      },
+      {
+        "id": "b",
+        "text": "Sie versteht die Sprache anderer Fische nicht."
+      },
+      {
+        "id": "c",
+        "text": "Sie kann bei Tageslicht nicht sehen."
+      },
+      {
+        "id": "d",
+        "text": "Neue Erinnerungen gehen ihr rasch verloren."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Paletten-Doktorfisch hat Schwierigkeiten mit dem Kurzzeitgedächtnis. Die Erinnerung an seine Familie setzt die Reise in Gang.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · finding-dory",
+        "url": "https://www.pixar.com/finding-dory",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Dorie erinnert sich plötzlich an ihre Eltern. Was macht deren Suche im Film „Findet Dorie“ für diesen Fisch besonders schwierig? Neue Erinnerungen gehen ihr rasch verloren. Der Paletten-Doktorfisch hat Schwierigkeiten mit dem Kurzzeitgedächtnis. Die Erinnerung an seine Familie setzt die Reise in Gang.",
+        "locator": "px-finding-dory, Textstelle 90",
+        "source_sha256": "ea104ef65d0dfcb7b6106d5bb5e6de08419ff493f600c02a6de35235f1407dfb"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-coco-gedenktisch",
+    "fact_key": "q3.e.coco.gedenktisch",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Die Familie bewahrt in „Coco“ auf ihrem Gedenkaltar Bilder der Verstorbenen. Welches Stück würde Héctor dort nach der Filmregel den Besuch bei den Lebenden ermöglichen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sein Foto"
+      },
+      {
+        "id": "b",
+        "text": "Ein Konzertplakat eines Freundes"
+      },
+      {
+        "id": "c",
+        "text": "Seine alte Gitarre"
+      },
+      {
+        "id": "d",
+        "text": "Die Zeichnung einer Brücke"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Erinnerung der Lebenden ermöglicht im Film den Übergang. Das Bild auf der Ofrenda steht für diese fortbestehende Verbindung.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · coco",
+        "url": "https://www.pixar.com/coco",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Die Familie bewahrt in „Coco“ auf ihrem Gedenkaltar Bilder der Verstorbenen. Welches Stück würde Héctor dort nach der Filmregel den Besuch bei den Lebenden ermöglichen? Sein Foto. Die Erinnerung der Lebenden ermöglicht im Film den Übergang. Das Bild auf der Ofrenda steht für diese fortbestehende Verbindung.",
+        "locator": "px-coco, Textstelle 97",
+        "source_sha256": "ea8b7b5c043208f0941b86899632c7bb9060258ea09ea59ae8673ae94e5e64a4"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-soul-spreizung",
+    "fact_key": "q3.e.soul.spreizung",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In „Soul“ unterrichtet Joe eine Schulband und schwärmt vom Jazz. Ein früherer Schüler kennt eine Band mit freiem Platz am Klavier. Welcher Abend erfüllt Joes Bühnenwunsch?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Premiere seines eigenen Broadway-Musicals"
+      },
+      {
+        "id": "b",
+        "text": "Ein Auftritt am Klavier mit professionellen Jazzmusikern"
+      },
+      {
+        "id": "c",
+        "text": "Die Leitung eines berühmten klassischen Sinfonieorchesters"
+      },
+      {
+        "id": "d",
+        "text": "Ein Solokonzert als Geiger in einer Kammermusikreihe"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Joe träumt davon, als Jazzpianist auf der Bühne zu stehen. Unterricht und Bühnenwunsch gehören zu zwei Seiten seines Musiklebens.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · soul",
+        "url": "https://www.pixar.com/soul",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "In „Soul“ unterrichtet Joe eine Schulband und schwärmt vom Jazz. Ein früherer Schüler kennt eine Band mit freiem Platz am Klavier. Welcher Abend erfüllt Joes Bühnenwunsch? Ein Auftritt am Klavier mit professionellen Jazzmusikern. Joe träumt davon, als Jazzpianist auf der Bühne zu stehen. Unterricht und Bühnenwunsch gehören zu zwei Seiten seines Musiklebens.",
+        "locator": "px-soul, Textstelle 83",
+        "source_sha256": "88930dad45e7aa848f3b7c30da07d8c43bb617d4a498efb6c72fad02de007f1b"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-elemental-paar",
+    "fact_key": "q3.e.elemental.paar",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ember ist in „Elemental“ buchstäblich feurig. Was macht ihre Nähe zu Wade schon durch ihre körperlichen Eigenschaften so ungewöhnlich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er besteht aus Glas."
+      },
+      {
+        "id": "b",
+        "text": "Er besteht aus Metall."
+      },
+      {
+        "id": "c",
+        "text": "Er besteht aus Wasser."
+      },
+      {
+        "id": "d",
+        "text": "Er besteht aus Wachs."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "In Element City leben Feuer, Wasser, Erde und Luft als Figuren zusammen. Ember und Wade lernen, mit ihrem scheinbaren Gegensatz umzugehen.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · elemental",
+        "url": "https://www.pixar.com/elemental",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Ember ist in „Elemental“ buchstäblich feurig. Was macht ihre Nähe zu Wade schon durch ihre körperlichen Eigenschaften so ungewöhnlich? Er besteht aus Wasser. In Element City leben Feuer, Wasser, Erde und Luft als Figuren zusammen. Ember und Wade lernen, mit ihrem scheinbaren Gegensatz umzugehen.",
+        "locator": "px-elemental, Textstelle 152",
+        "source_sha256": "490ff4c7fb7bf73d9700247e76d93675b9d96fdbf48afd432060dfe4198427ae"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-luca-zwei-welten",
+    "fact_key": "q3.e.luca.zwei.welten",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "„Luca“ zeigt die Freunde in ihrem Zuhause unter der Meeresoberfläche. An Land hält man sie für ganz gewöhnliche Jungen. Welches Geheimnis können sie dort verbergen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie fahren heimlich mit einem U-Boot zur Schule."
+      },
+      {
+        "id": "b",
+        "text": "Ihre Familien betreiben einen schwimmenden Zirkus."
+      },
+      {
+        "id": "c",
+        "text": "Sie bewahren im Hafen einen versunkenen Schatz."
+      },
+      {
+        "id": "d",
+        "text": "Unter Wasser sind sie Meereswesen."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Luca und Alberto kommen aus einer Welt unter der Wasseroberfläche. Ihr Landabenteuer bringt dieses Geheimnis in Gefahr.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · luca",
+        "url": "https://www.pixar.com/luca",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "„Luca“ zeigt die Freunde in ihrem Zuhause unter der Meeresoberfläche. An Land hält man sie für ganz gewöhnliche Jungen. Welches Geheimnis können sie dort verbergen? Unter Wasser sind sie Meereswesen. Luca und Alberto kommen aus einer Welt unter der Wasseroberfläche. Ihr Landabenteuer bringt dieses Geheimnis in Gefahr.",
+        "locator": "px-luca, Textstelle 84",
+        "source_sha256": "5a85ab12da4df4f0c3854be8e4c913c6c82e841bf0d81f0df36386ebe21e7d25"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-rot-gefuehl",
+    "fact_key": "q3.e.rot.gefuehl",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Mei in „Rot“ wird in aufwühlenden Momenten zu einem großen Roten Panda. Welche Erfahrung eines Teenagers bekommt damit eine sichtbare Gestalt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Überwältigende Gefühle"
+      },
+      {
+        "id": "b",
+        "text": "Der Verlust des Farbsehens"
+      },
+      {
+        "id": "c",
+        "text": "Der erste selbst verdiente Lohn"
+      },
+      {
+        "id": "d",
+        "text": "Das Vergessen einer Fremdsprache"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Meis Verwandlung verbindet die Geschichte mit den starken Gefühlen der Pubertät. Zwischen Familie und Freundinnen sucht sie ihren eigenen Weg.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · turning-red",
+        "url": "https://www.pixar.com/turning-red",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Mei in „Rot“ wird in aufwühlenden Momenten zu einem großen Roten Panda. Welche Erfahrung eines Teenagers bekommt damit eine sichtbare Gestalt? Überwältigende Gefühle. Meis Verwandlung verbindet die Geschichte mit den starken Gefühlen der Pubertät. Zwischen Familie und Freundinnen sucht sie ihren eigenen Weg.",
+        "locator": "px-turning-red, Textstelle 95",
+        "source_sha256": "6d0124b3e84b67ec9e852876531222b5c55b27a03f62aa7d8fb4cab1c1e3f178"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-arlo-asteroid",
+    "fact_key": "q3.e.arlo.asteroid",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In „Arlo & Spot“ können sich ein Dinosaurier und ein Menschenkind begegnen. Welche Annahme der Filmwelt macht das möglich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Archäologen setzen aus Knochen einen lebenden Dinosaurier zusammen."
+      },
+      {
+        "id": "b",
+        "text": "Der verhängnisvolle Asteroid verfehlte die Erde."
+      },
+      {
+        "id": "c",
+        "text": "Der Junge besucht ein Museum mit ausgestopften Tieren."
+      },
+      {
+        "id": "d",
+        "text": "Die Geschichte spielt vollständig in einem Computerspiel."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Film entwirft eine andere Erdgeschichte. Die großen Dinosaurier starben darin nicht durch den bekannten Einschlag aus.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · the-good-dinosaur",
+        "url": "https://www.pixar.com/the-good-dinosaur",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "In „Arlo & Spot“ können sich ein Dinosaurier und ein Menschenkind begegnen. Welche Annahme der Filmwelt macht das möglich? Der verhängnisvolle Asteroid verfehlte die Erde. Der Film entwirft eine andere Erdgeschichte. Die großen Dinosaurier starben darin nicht durch den bekannten Einschlag aus.",
+        "locator": "px-the-good-dinosaur, Textstelle 83",
+        "source_sha256": "f0fee7a6969762b39090f7e8e8813a4c668adbaada0859b4e678adcb4e92c45f"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-riley-zweifel",
+    "fact_key": "q3.e.riley.zweifel",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "In „Alles steht Kopf 2“ plant eine neue Gefühlsfigur ständig für alle denkbaren Pannen. Welche Aufgabe erfüllt diese Figur für Riley?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie ersetzt Freude durch Tiefschlaf."
+      },
+      {
+        "id": "b",
+        "text": "Sie entscheidet nur über körperlichen Hunger."
+      },
+      {
+        "id": "c",
+        "text": "Sie spielt mögliche Gefahren im Voraus durch."
+      },
+      {
+        "id": "d",
+        "text": "Sie löscht jede unangenehme Erinnerung."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das neue Gefühl will die Jugendliche auf ungünstige Situationen vorbereiten. Sein ständiges Vorausdenken kann Riley aber überfordern.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · inside-out-2",
+        "url": "https://www.pixar.com/inside-out-2",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "In „Alles steht Kopf 2“ plant eine neue Gefühlsfigur ständig für alle denkbaren Pannen. Welche Aufgabe erfüllt diese Figur für Riley? Sie spielt mögliche Gefahren im Voraus durch. Das neue Gefühl will die Jugendliche auf ungünstige Situationen vorbereiten. Sein ständiges Vorausdenken kann Riley aber überfordern.",
+        "locator": "px-inside-out-2, Textstelle 96",
+        "source_sha256": "c68a66fdca79b55bdc4c134f07fb9bded6475270c1ed9ba630ca76f23de305f7"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-cars-generation",
+    "fact_key": "q3.e.cars.generation",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Lightning McQueen war in „Cars“ der ehrgeizige Neuling. Welche Veränderung rückt ihn in „Cars 3“ auf die andere Seite des Generationenvergleichs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er bestreitet zum ersten Mal überhaupt ein Rennen."
+      },
+      {
+        "id": "b",
+        "text": "Er beginnt seine Laufbahn als Straßenbahn."
+      },
+      {
+        "id": "c",
+        "text": "Er merkt, dass er sein ganzes Leben Abschleppwagen war."
+      },
+      {
+        "id": "d",
+        "text": "Jüngere, schnellere Rennwagen fordern ihn heraus."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Nun ist McQueen selbst ein erfahrener Champion. Neue Technik und eine jüngere Generation stellen ihn vor andere Aufgaben.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · cars-3",
+        "url": "https://www.pixar.com/cars-3",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Lightning McQueen war in „Cars“ der ehrgeizige Neuling. Welche Veränderung rückt ihn in „Cars 3“ auf die andere Seite des Generationenvergleichs? Jüngere, schnellere Rennwagen fordern ihn heraus. Nun ist McQueen selbst ein erfahrener Champion. Neue Technik und eine jüngere Generation stellen ihn vor andere Aufgaben.",
+        "locator": "px-cars-3, Textstelle 90",
+        "source_sha256": "f6e46e4ea4bca95365718cae82dabff47a7f8a22531eb908ff811ee2d0ec4d71"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-superfamilie-wechsel",
+    "fact_key": "q3.e.superfamilie.wechsel",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Was kehrt „Die Unglaublichen 2“ bei den Eltern um, als Helen wieder als Superheldin gebraucht wird?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bob übernimmt zu Hause den Alltag mit den Kindern."
+      },
+      {
+        "id": "b",
+        "text": "Bob führt jetzt Helens frühere Schulklasse."
+      },
+      {
+        "id": "c",
+        "text": "Helen verkauft ihre Fähigkeiten an Bobs Versicherung."
+      },
+      {
+        "id": "d",
+        "text": "Die Eltern tauschen ihre Superkräfte untereinander."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Helens Auftrag bringt sie zurück ins Rampenlicht. Bob muss als Vater im Haushalt andere Stärken entwickeln.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · incredibles-2",
+        "url": "https://www.pixar.com/incredibles-2",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Was kehrt „Die Unglaublichen 2“ bei den Eltern um, als Helen wieder als Superheldin gebraucht wird? Bob übernimmt zu Hause den Alltag mit den Kindern. Helens Auftrag bringt sie zurück ins Rampenlicht. Bob muss als Vater im Haushalt andere Stärken entwickeln.",
+        "locator": "px-incredibles-2, Textstelle 96",
+        "source_sha256": "92a00364a1a6114e6313a9871e9a648b46c2bcc1f77139a04f2b7017d73ae28f"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-forky-besteck",
+    "fact_key": "q3.e.forky.besteck",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Bonnie gibt einem Fundstück Zinken, Bastelarme und einen Namen. Warum hält sich Forky in „Toy Story 4“ trotzdem für etwas zum Wegwerfen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sein Hersteller hat seine Farbe zurückgerufen."
+      },
+      {
+        "id": "b",
+        "text": "Sie hat ihn aus einem Stück Essbesteck gebastelt."
+      },
+      {
+        "id": "c",
+        "text": "Er hat seinen Kaufpreis auf der Stirn stehen."
+      },
+      {
+        "id": "d",
+        "text": "Er kann mit den anderen Figuren nicht sprechen."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Aus einem Göffel wird durch Bonnies Bastelarbeit ein persönliches Spielzeug. Forky muss sich an diese neue Rolle erst gewöhnen.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · toy-story-4",
+        "url": "https://www.pixar.com/toy-story-4",
+        "checked_at": "2026-11-22T21:47:08+00:00",
+        "verified_claim": "Bonnie gibt einem Fundstück Zinken, Bastelarme und einen Namen. Warum hält sich Forky in „Toy Story 4“ trotzdem für etwas zum Wegwerfen? Sie hat ihn aus einem Stück Essbesteck gebastelt. Aus einem Göffel wird durch Bonnies Bastelarbeit ein persönliches Spielzeug. Forky muss sich an diese neue Rolle erst gewöhnen.",
+        "locator": "px-toy-story-4, Textstelle 102",
+        "source_sha256": "915bd48fdf97673c640090f37832eb646021343955cfc93095624beebf9733d8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:47:08+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

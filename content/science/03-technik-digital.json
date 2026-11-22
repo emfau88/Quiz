@@ -27,9 +27,9 @@
     "explanation": "Beim Kopieren bleibt die Markierung im Dokument erhalten. Eine Kopie liegt in der Zwischenablage.",
     "tags": [
       "thema_computernutzung",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -45,28 +45,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.418551+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.406034+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.406046+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -174,9 +174,9 @@
     "explanation": "Ausschneiden entfernt den Text an seiner bisherigen Stelle. Über die Zwischenablage lässt er sich wieder einsetzen.",
     "tags": [
       "thema_computernutzung",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -192,28 +192,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.418646+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.406061+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.406064+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1102,7 +1102,7 @@
     "fact_key": "datei-epub",
     "category": "everyday_technology",
     "difficulty": "easy",
-    "question": "Für welchen Lesestoff ist das Dateiformat EPUB gedacht?",
+    "question": "Dein Lesegerät öffnet eine heruntergeladene Datei mit der Endung .epub. Welche Art Veröffentlichung bekommst du in diesem Format?",
     "options": [
       {
         "id": "a",
@@ -1127,7 +1127,7 @@
       "thema_dateiformate",
       "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1143,28 +1143,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:49:26.315703+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:49:38.405187+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.405197+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1465,7 +1465,7 @@
     "fact_key": "datei-pptx",
     "category": "everyday_technology",
     "difficulty": "easy",
-    "question": "Eine Kollegin schickt eine Datei mit der Endung .pptx. Welche Art Inhalt ist zu erwarten?",
+    "question": "Für einen Vortrag erhältst du eine Datei mit der Endung .pptx. Welchen Dokumenttyp öffnest du?",
     "options": [
       {
         "id": "a",
@@ -1490,7 +1490,7 @@
       "thema_dateiformate",
       "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1506,28 +1506,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:49:26.315752+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:49:38.405208+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.405210+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },

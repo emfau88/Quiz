@@ -15,6 +15,32 @@ if (options.pages) {
   const entry = path.join(root, 'index.html');
   const html = await readFile(entry, 'utf8');
   await writeFile(entry, html.replace(/<title>[^<]*<\/title>/, '<title>Quizsalon · Browser-Testausgabe</title>'));
+  // This fresh entry point also reaches installations whose old worker still serves the previous app shell.
+  await writeFile(path.join(root, 'spielen.html'), `<!doctype html>
+<html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Quizsalon öffnen</title><style>body{margin:2rem;font:1.15rem/1.6 system-ui;color:#183d35;background:#f8f5ed}a{color:inherit}</style></head>
+<body><p>Die Tagesrunde wird geöffnet.</p><a href="./">Direkt zum Quiz</a>
+<script type="module">
+const destination = new URL('./', location.href);
+destination.search = location.search;
+destination.hash = location.hash;
+async function updateInstalledEdition() {
+  if (!navigator.serviceWorker?.controller) return;
+  const registration = await navigator.serviceWorker.getRegistration();
+  if (!registration) return;
+  await registration.update();
+  const worker = registration.installing || registration.waiting;
+  if (worker && worker.state !== 'activated' && worker.state !== 'redundant') {
+    await new Promise(done => worker.addEventListener('statechange', () => {
+      if (worker.state === 'activated' || worker.state === 'redundant') done();
+    }));
+  }
+}
+try {
+  await Promise.race([updateInstalledEdition(), new Promise(done => setTimeout(done,15000))]);
+} catch { /* The installed edition also works offline. */ }
+location.replace(destination.href);
+</script></body></html>\n`);
 }
 const data = async (file,mime) => 'data:' + mime + ';base64,' + (await readFile(file)).toString('base64');
 const notices = [
@@ -60,6 +86,10 @@ self.addEventListener('fetch', event => {
   const url = new URL(request.url);
   if (request.method !== 'GET' || url.origin !== self.location.origin) return;
   const scope = new URL(self.registration.scope);
+  if (request.mode === 'navigate' && url.pathname === scope.pathname + 'spielen.html' && paths.includes('./spielen.html')) {
+    event.respondWith(caches.open(cacheName).then(cache => cache.match(new URL('./spielen.html', scope))));
+    return;
+  }
   if (request.mode === 'navigate' && url.pathname !== scope.pathname && url.pathname !== scope.pathname + 'index.html') return;
   event.respondWith((async () => {
     const cache = await caches.open(cacheName);

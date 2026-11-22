@@ -1,0 +1,2397 @@
+[
+  {
+    "id": "q3-e-geraetegeld",
+    "fact_key": "q3.e.geraetegeld",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine Familie meldete in den Fünfzigern ihren Fernsehempfänger bei der Post an, sah aber nur sonntags fern. Wovon hing ihre damalige Teilnahmegebühr ab?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vom angemeldeten Empfänger"
+      },
+      {
+        "id": "b",
+        "text": "Von der Zahl eingeschalteter Minuten"
+      },
+      {
+        "id": "c",
+        "text": "Von der Zahl der Personen am Sonntag"
+      },
+      {
+        "id": "d",
+        "text": "Von den ausgewählten Sendungen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Gebührenregel erfasste den Betrieb eines Empfängers. Die tatsächliche Sehdauer entschied nicht über die Gebühr.",
+    "tags": [
+      "thema_fernsehgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bundeszentrale für politische Bildung · Fernsehen als Massenmedium",
+        "url": "https://www.bpb.de/themen/medien-journalismus/deutsche-fernsehgeschichte-in-ost-und-west/246194/entwicklung-zum-massenmedium/",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Eine Familie meldete in den Fünfzigern ihren Fernsehempfänger bei der Post an, sah aber nur sonntags fern. Wovon hing ihre damalige Teilnahmegebühr ab? Vom angemeldeten Empfänger. Die Gebührenregel erfasste den Betrieb eines Empfängers. Die tatsächliche Sehdauer entschied nicht über die Gebühr.",
+        "locator": "bpbfern, Textstelle 237",
+        "source_sha256": "b11e47a058712a72e88eaf67ea49fbfebab9ae6b90580da8000636b9291d02c8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-fernsehen-vierpersonen",
+    "fact_key": "q3.e.fernsehen.vierpersonen",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "1957 entsprach die erste Million angemeldeter Fernsehempfänger im Westen laut bpb etwa vier Millionen Zuschauern. Welcher Durchschnitt ergibt sich daraus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Weniger als ein Mensch je Anmeldung"
+      },
+      {
+        "id": "b",
+        "text": "Etwa vier Menschen je Anmeldung"
+      },
+      {
+        "id": "c",
+        "text": "Etwa vier Anmeldungen je Zuschauer"
+      },
+      {
+        "id": "d",
+        "text": "Etwa vierzig Menschen je Anmeldung"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Ein Fernseher wurde häufig gemeinsam genutzt. Die Zahl der Anmeldungen und die Zahl der Menschen vor dem Bildschirm waren unterschiedliche Größen.",
+    "tags": [
+      "thema_fernsehgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bundeszentrale für politische Bildung · Fernsehen als Massenmedium",
+        "url": "https://www.bpb.de/themen/medien-journalismus/deutsche-fernsehgeschichte-in-ost-und-west/246194/entwicklung-zum-massenmedium/",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "1957 entsprach die erste Million angemeldeter Fernsehempfänger im Westen laut bpb etwa vier Millionen Zuschauern. Welcher Durchschnitt ergibt sich daraus? Etwa vier Menschen je Anmeldung. Ein Fernseher wurde häufig gemeinsam genutzt. Die Zahl der Anmeldungen und die Zahl der Menschen vor dem Bildschirm waren unterschiedliche Größen.",
+        "locator": "bpbfern, Textstelle 237",
+        "source_sha256": "b11e47a058712a72e88eaf67ea49fbfebab9ae6b90580da8000636b9291d02c8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-fernsehen-stereo",
+    "fact_key": "q3.e.fernsehen.stereo",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine Fernsehproduktion ließ später einen Klang links, einen anderen rechts erscheinen. Welche Neuerung betraf dabei den Ton und keine Bildfarbe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Breitbild"
+      },
+      {
+        "id": "b",
+        "text": "Bildschirmtext"
+      },
+      {
+        "id": "c",
+        "text": "Stereoton"
+      },
+      {
+        "id": "d",
+        "text": "Farbfernsehen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die bpb nennt für die Bundesrepublik Farbe ab 1967 und Stereoton ab 1975. Räumlich unterscheidbare Kanäle gehören zum Ton.",
+    "tags": [
+      "thema_fernsehgeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bundeszentrale für politische Bildung · Fernsehen als Massenmedium",
+        "url": "https://www.bpb.de/themen/medien-journalismus/deutsche-fernsehgeschichte-in-ost-und-west/246194/entwicklung-zum-massenmedium/",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Eine Fernsehproduktion ließ später einen Klang links, einen anderen rechts erscheinen. Welche Neuerung betraf dabei den Ton und keine Bildfarbe? Stereoton. Die bpb nennt für die Bundesrepublik Farbe ab 1967 und Stereoton ab 1975. Räumlich unterscheidbare Kanäle gehören zum Ton.",
+        "locator": "bpbfern, Textstelle 252",
+        "source_sha256": "b11e47a058712a72e88eaf67ea49fbfebab9ae6b90580da8000636b9291d02c8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-fernsehen-foederal",
+    "fact_key": "q3.e.fernsehen.foederal",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "1961 scheiterte Adenauers geplante Fernsehkonstruktion vor dem Bundesverfassungsgericht. Wem ordnete das Gericht Rundfunk als Teil der Kultur in diesem Streit zu?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dem Bundesfinanzministerium allein"
+      },
+      {
+        "id": "b",
+        "text": "Der Deutschen Bundesbahn"
+      },
+      {
+        "id": "c",
+        "text": "Den damaligen Besatzungsmächten als ständigen Eigentümern"
+      },
+      {
+        "id": "d",
+        "text": "Den Ländern"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der historische Streit betraf die föderale Zuständigkeit. Kurz darauf gründeten die Länder das ZDF.",
+    "tags": [
+      "thema_fernsehgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bundeszentrale für politische Bildung · Fernsehen als Massenmedium",
+        "url": "https://www.bpb.de/themen/medien-journalismus/deutsche-fernsehgeschichte-in-ost-und-west/246194/entwicklung-zum-massenmedium/",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "1961 scheiterte Adenauers geplante Fernsehkonstruktion vor dem Bundesverfassungsgericht. Wem ordnete das Gericht Rundfunk als Teil der Kultur in diesem Streit zu? Den Ländern. Der historische Streit betraf die föderale Zuständigkeit. Kurz darauf gründeten die Länder das ZDF.",
+        "locator": "bpbfern, Textstelle 244",
+        "source_sha256": "b11e47a058712a72e88eaf67ea49fbfebab9ae6b90580da8000636b9291d02c8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-heimfernsehen-anteil",
+    "fact_key": "q3.e.heimfernsehen.anteil",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "1970 hatten rund 68 Prozent der westdeutschen Haushalte einen Fernseher. Welches Bild passt am besten zu zehn beliebig gedachten Haushalten dieser Zeit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ungefähr sieben mit Fernseher"
+      },
+      {
+        "id": "b",
+        "text": "Ungefähr drei mit Fernseher"
+      },
+      {
+        "id": "c",
+        "text": "Praktisch keiner mit Fernseher"
+      },
+      {
+        "id": "d",
+        "text": "Alle zehn sicher mit zwei Geräten"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "68 Prozent liegen nahe bei sieben Zehnteln. Die Angabe bezeichnet Haushalte und nicht die Zahl einzelner Zuschauer.",
+    "tags": [
+      "thema_fernsehgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bundeszentrale für politische Bildung · Fernsehen als Massenmedium",
+        "url": "https://www.bpb.de/themen/medien-journalismus/deutsche-fernsehgeschichte-in-ost-und-west/246194/entwicklung-zum-massenmedium/",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "1970 hatten rund 68 Prozent der westdeutschen Haushalte einen Fernseher. Welches Bild passt am besten zu zehn beliebig gedachten Haushalten dieser Zeit? Ungefähr sieben mit Fernseher. 68 Prozent liegen nahe bei sieben Zehnteln. Die Angabe bezeichnet Haushalte und nicht die Zahl einzelner Zuschauer.",
+        "locator": "bpbfern, Textstelle 252",
+        "source_sha256": "b11e47a058712a72e88eaf67ea49fbfebab9ae6b90580da8000636b9291d02c8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-antenne-richtung",
+    "fact_key": "q3.e.antenne.richtung",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In einer FDJ-Aktion wurden 1961 nach Westen gerichtete Fernsehantennen entfernt. Wozu richteten Haushalte ihre Empfangsantenne überhaupt in eine bestimmte Richtung aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Um die Farben des Bildschirms unabhängig vom Signal zu mischen"
+      },
+      {
+        "id": "b",
+        "text": "Um das Signal des gewünschten Senders besser einzufangen"
+      },
+      {
+        "id": "c",
+        "text": "Um die Uhrzeit des Senders selbst festzulegen"
+      },
+      {
+        "id": "d",
+        "text": "Um eigene Beiträge von zuhause ins Programm zu senden"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Richtung verriet, welche Sender empfangen werden sollten. Dadurch wurden Antennen zum politischen Streitgegenstand.",
+    "tags": [
+      "thema_fernsehgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1961",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1961.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "In einer FDJ-Aktion wurden 1961 nach Westen gerichtete Fernsehantennen entfernt. Wozu richteten Haushalte ihre Empfangsantenne überhaupt in eine bestimmte Richtung aus? Um das Signal des gewünschten Senders besser einzufangen. Die Richtung verriet, welche Sender empfangen werden sollten. Dadurch wurden Antennen zum politischen Streitgegenstand.",
+        "locator": "lemo1961, Textstelle 147",
+        "source_sha256": "0d5b43b70f150c1182f7ec10c777bffabb6ef77dfea40612ec21e79676d96f2f"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-weltspiegel-korrespondent",
+    "fact_key": "q3.e.weltspiegel.korrespondent",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein Auslandsjournalist möchte erklären, wie Familien die Folgen einer politischen Entscheidung erleben. Warum passt das zur ursprünglichen Idee des „Weltspiegel“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er ersetzt den Auslandsbericht durch ein reines Musikprogramm."
+      },
+      {
+        "id": "b",
+        "text": "Er schildert ausschließlich die Arbeit im deutschen Sendestudio."
+      },
+      {
+        "id": "c",
+        "text": "Der Beitrag verbindet Politik mit den Erfahrungen von Menschen vor Ort."
+      },
+      {
+        "id": "d",
+        "text": "Er beschränkt sich auf das Vorlesen der Börsenschlusskurse."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das Magazin gab Korrespondenten auch Platz für Hintergründe jenseits der tagesaktuellen Meldung.",
+    "tags": [
+      "thema_fernsehgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "WDR · Fernsehentwicklung 1956 bis 1985",
+        "url": "https://www1.wdr.de/unternehmen/der-wdr/profil/chronik/entwicklung-fernsehen-100.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Ein Auslandsjournalist möchte erklären, wie Familien die Folgen einer politischen Entscheidung erleben. Warum passt das zur ursprünglichen Idee des „Weltspiegel“? Der Beitrag verbindet Politik mit den Erfahrungen von Menschen vor Ort. Das Magazin gab Korrespondenten auch Platz für Hintergründe jenseits der tagesaktuellen Meldung.",
+        "locator": "wdrchron, Textstelle 127",
+        "source_sha256": "bd312347c884cfb1a8596cb7f59b658d10d4bb088acf1797128e376889172fd4"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-glashaus-medienkritik",
+    "fact_key": "q3.e.glashaus.medienkritik",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Im WDR-„Glashaus“ kamen interne Streitfragen der ARD selbst zur Sprache. Was war an dieser Blickrichtung für ein Fernsehmagazin ungewöhnlich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Studio wurde ausschließlich für den Wetterbericht genutzt."
+      },
+      {
+        "id": "b",
+        "text": "Das Programm zeigte nur unkommentierte Übernahmen aus dem Ausland."
+      },
+      {
+        "id": "c",
+        "text": "Der Sender gab seine Technik an eine Theaterbühne ab."
+      },
+      {
+        "id": "d",
+        "text": "Das Fernsehen machte die eigene Arbeit zum Gegenstand der Berichterstattung."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Reihe behandelte Rundfunkpolitik und Auseinandersetzungen innerhalb der ARD. Das eigene Medium wurde öffentlich diskutiert.",
+    "tags": [
+      "thema_fernsehgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "WDR · Fernsehentwicklung 1956 bis 1985",
+        "url": "https://www1.wdr.de/unternehmen/der-wdr/profil/chronik/entwicklung-fernsehen-100.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Im WDR-„Glashaus“ kamen interne Streitfragen der ARD selbst zur Sprache. Was war an dieser Blickrichtung für ein Fernsehmagazin ungewöhnlich? Das Fernsehen machte die eigene Arbeit zum Gegenstand der Berichterstattung. Die Reihe behandelte Rundfunkpolitik und Auseinandersetzungen innerhalb der ARD. Das eigene Medium wurde öffentlich diskutiert.",
+        "locator": "wdrchron, Textstelle 134",
+        "source_sha256": "bd312347c884cfb1a8596cb7f59b658d10d4bb088acf1797128e376889172fd4"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-aktuelle-kamera-ende",
+    "fact_key": "q3.e.aktuelle.kamera.ende",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "1990 endete die Nachrichtensendung „Aktuelle Kamera“, später waren auf bisherigen DFF-Frequenzen ARD-Angebote zu sehen. In welches Kapitel gehört dieser Übergang?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In den Umbau des Rundfunks nach der deutschen Einheit"
+      },
+      {
+        "id": "b",
+        "text": "In die Einführung des Rundfunks in der Weimarer Republik"
+      },
+      {
+        "id": "c",
+        "text": "In die Trennung von NWDR und RIAS unmittelbar nach Kriegsende"
+      },
+      {
+        "id": "d",
+        "text": "In die Erfindung der ersten mechanischen Fernsehgeräte"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit der deutschen Einheit änderte sich auch die Rundfunkordnung. Das Ende der „Aktuellen Kamera“ war ein sichtbares Zeichen.",
+    "tags": [
+      "thema_fernsehgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1990",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1990.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "1990 endete die Nachrichtensendung „Aktuelle Kamera“, später waren auf bisherigen DFF-Frequenzen ARD-Angebote zu sehen. In welches Kapitel gehört dieser Übergang? In den Umbau des Rundfunks nach der deutschen Einheit. Mit der deutschen Einheit änderte sich auch die Rundfunkordnung. Das Ende der „Aktuellen Kamera“ war ein sichtbares Zeichen.",
+        "locator": "lemo1990, Textstelle 419",
+        "source_sha256": "42ab09daf85e0459da1a913d260902da978e87cd46e009f4369a7e80895678b0"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-sattv-heim",
+    "fact_key": "q3.e.sattv.heim",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine Familie möchte die ausgestrahlten Fernsehbilder im frühen Satellitenversuch direkt zu Hause empfangen. Worauf muss sie ihre Empfangsantenne ausrichten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auf die verlegte Überlandleitung im Ort"
+      },
+      {
+        "id": "b",
+        "text": "Auf den Satelliten am Himmel"
+      },
+      {
+        "id": "c",
+        "text": "Auf die nächste Kabelverteilerdose im Haus"
+      },
+      {
+        "id": "d",
+        "text": "Auf das Funkhaus, in dem das Programm produziert wird"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der VDE verzeichnet Versuche für den direkten Heimempfang mit dem Satelliten ATS-6. Die Übertragung führt über den Weltraum.",
+    "tags": [
+      "thema_fernsehgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "VDE · Geschichte der Bildübertragung",
+        "url": "https://www.vde.com/de/geschichte/chronik/fernsehen-und-bilduebertragung",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Eine Familie möchte die ausgestrahlten Fernsehbilder im frühen Satellitenversuch direkt zu Hause empfangen. Worauf muss sie ihre Empfangsantenne ausrichten? Auf den Satelliten am Himmel. Der VDE verzeichnet Versuche für den direkten Heimempfang mit dem Satelliten ATS-6. Die Übertragung führt über den Weltraum.",
+        "locator": "vdechron, Textstelle 466",
+        "source_sha256": "4a6292f0ff02efcbd73726143e9419679d67e3bcf38ea841ae7717365150fea6"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-fernbedienung-ohne-kabel",
+    "fact_key": "q3.e.fernbedienung.ohne.kabel",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Frühe Fernbedienungen konnten am Kabel hängen. Was wurde bei einer Infrarot-Fernbedienung überflüssig?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Bedienelemente für den Senderwechsel"
+      },
+      {
+        "id": "b",
+        "text": "Der Empfänger für die Befehle im Gerät"
+      },
+      {
+        "id": "c",
+        "text": "Die Verbindungsleitung vom Handgerät zum Fernseher"
+      },
+      {
+        "id": "d",
+        "text": "Die Stromversorgung des Fernsehgeräts"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Infrarot überträgt die Steuerbefehle mit Licht. Ein Kabel zwischen Sitzplatz und Empfangsgerät entfällt.",
+    "tags": [
+      "thema_fernsehgeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "VDE · Geschichte der Bildübertragung",
+        "url": "https://www.vde.com/de/geschichte/chronik/fernsehen-und-bilduebertragung",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Frühe Fernbedienungen konnten am Kabel hängen. Was wurde bei einer Infrarot-Fernbedienung überflüssig? Die Verbindungsleitung vom Handgerät zum Fernseher. Infrarot überträgt die Steuerbefehle mit Licht. Ein Kabel zwischen Sitzplatz und Empfangsgerät entfällt.",
+        "locator": "vdechron, Textstelle 460",
+        "source_sha256": "4a6292f0ff02efcbd73726143e9419679d67e3bcf38ea841ae7717365150fea6"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-platten-kopie",
+    "fact_key": "q3.e.platten.kopie",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Kopien früher Wachswalzen waren schwierig. Was musste ein Musiker vor guten Kopierverfahren mitunter tun, wenn mehrere Exemplare desselben Lieds verkauft werden sollten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur den Titel mehrfach auf dieselbe Walze schreiben"
+      },
+      {
+        "id": "b",
+        "text": "Den Käufer ausschließlich mit den Noten wieder wegschicken"
+      },
+      {
+        "id": "c",
+        "text": "Eine einzige Wachswalze durch unterschiedlich schnelle Drehung vervielfältigen"
+      },
+      {
+        "id": "d",
+        "text": "Das Stück mehrfach neu einspielen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Viele frühe Walzen waren Einzelstücke. Auch paralleles Aufnehmen und Überspielen brachten Qualitätsverluste.",
+    "tags": [
+      "thema_musikmedien",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bundeszentrale für politische Bildung · Caruso auf Platte",
+        "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/sound-des-jahrhunderts/209608/caruso-auf-platte/",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Kopien früher Wachswalzen waren schwierig. Was musste ein Musiker vor guten Kopierverfahren mitunter tun, wenn mehrere Exemplare desselben Lieds verkauft werden sollten? Das Stück mehrfach neu einspielen. Viele frühe Walzen waren Einzelstücke. Auch paralleles Aufnehmen und Überspielen brachten Qualitätsverluste.",
+        "locator": "caruso, Textstelle 123",
+        "source_sha256": "212e3a4876a088830c7070c1f7ac934ac84c61437c0cb13ffb667f2582d8e922"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-phonograph-grammophon",
+    "fact_key": "q3.e.phonograph.grammophon",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Eine Familie möchte die eigene Stimme festhalten. Warum half ein zum Abspielen bestimmtes frühes Berliner-Grammophon dabei weniger als ein Phonograph?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dem Grammophon für die Wiedergabe fehlte eine eigene Aufnahmevorrichtung."
+      },
+      {
+        "id": "b",
+        "text": "Ein Grammophon konnte grundsätzlich nur Vogelstimmen speichern."
+      },
+      {
+        "id": "c",
+        "text": "Ein Phonograph konnte ausschließlich Noten drucken."
+      },
+      {
+        "id": "d",
+        "text": "Ein Phonograph funktionierte nur in einem öffentlichen Theater."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Trennung von Aufnahme und billigerer Wiedergabe war ein wichtiger Unterschied. Die Geräte waren für verschiedene Verwendungsweisen ausgelegt.",
+    "tags": [
+      "thema_musikmedien",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bundeszentrale für politische Bildung · Caruso auf Platte",
+        "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/sound-des-jahrhunderts/209608/caruso-auf-platte/",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Eine Familie möchte die eigene Stimme festhalten. Warum half ein zum Abspielen bestimmtes frühes Berliner-Grammophon dabei weniger als ein Phonograph? Dem Grammophon für die Wiedergabe fehlte eine eigene Aufnahmevorrichtung. Die Trennung von Aufnahme und billigerer Wiedergabe war ein wichtiger Unterschied. Die Geräte waren für verschiedene Verwendungsweisen ausgelegt.",
+        "locator": "caruso, Textstelle 124",
+        "source_sha256": "212e3a4876a088830c7070c1f7ac934ac84c61437c0cb13ffb667f2582d8e922"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-ton-ohne-wiedergabe",
+    "fact_key": "q3.e.ton.ohne.wiedergabe",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Ein Phonautograph von 1860 zeichnet Schwingungen als Linie auf. Was fehlt im Vergleich zu einem Gerät, mit dem man eine Stimme später auch hören kann?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Aufschrift mit dem Aufnahmejahr"
+      },
+      {
+        "id": "b",
+        "text": "Eine Möglichkeit, aus der Aufzeichnung wieder hörbaren Schall zu erzeugen"
+      },
+      {
+        "id": "c",
+        "text": "Die Farbe der Tinte allein"
+      },
+      {
+        "id": "d",
+        "text": "Ein zweites Blatt für den Namen des Sprechers"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Deutsche Patent- und Markenamt unterscheidet grafische Aufzeichnung und Wiedergabe. Der frühe Phonautograph beherrschte nur die Aufzeichnung.",
+    "tags": [
+      "thema_musikmedien",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Patent- und Markenamt · Grammophon",
+        "url": "https://www.dpma.de/entdecken/meilensteine/erfindungen-die-geschichten-schrieben/grammophon",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Ein Phonautograph von 1860 zeichnet Schwingungen als Linie auf. Was fehlt im Vergleich zu einem Gerät, mit dem man eine Stimme später auch hören kann? Eine Möglichkeit, aus der Aufzeichnung wieder hörbaren Schall zu erzeugen. Das Deutsche Patent- und Markenamt unterscheidet grafische Aufzeichnung und Wiedergabe. Der frühe Phonautograph beherrschte nur die Aufzeichnung.",
+        "locator": "gramm, Textstelle 972",
+        "source_sha256": "225e39f58d057511be1c5009b52414742013a8566cac8558356023b530b00a40"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-schellack-drehtempo",
+    "fact_key": "q3.e.schellack.drehtempo",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Eine alte Schellackplatte soll mit 78 Umdrehungen pro Minute laufen. Wie häufig umkreist die Nadelspur den Mittelpunkt dabei ungefähr in zehn Sekunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Achtundsiebzigmal"
+      },
+      {
+        "id": "b",
+        "text": "Knapp achthundertmal"
+      },
+      {
+        "id": "c",
+        "text": "Dreizehnmal"
+      },
+      {
+        "id": "d",
+        "text": "Dreimal"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Zehn Sekunden entsprechen einem Sechstel der Minute. Ein Sechstel von 78 sind 13 Umdrehungen.",
+    "tags": [
+      "thema_musikmedien",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Patent- und Markenamt · Grammophon",
+        "url": "https://www.dpma.de/entdecken/meilensteine/erfindungen-die-geschichten-schrieben/grammophon",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Eine alte Schellackplatte soll mit 78 Umdrehungen pro Minute laufen. Wie häufig umkreist die Nadelspur den Mittelpunkt dabei ungefähr in zehn Sekunden? Dreizehnmal. Zehn Sekunden entsprechen einem Sechstel der Minute. Ein Sechstel von 78 sind 13 Umdrehungen.",
+        "locator": "gramm, Textstelle 985",
+        "source_sha256": "225e39f58d057511be1c5009b52414742013a8566cac8558356023b530b00a40"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-video-bandsysteme",
+    "fact_key": "q3.e.video.bandsysteme",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Jemand findet eine alte Videokassette mit „VHS“ und einen Recorder für „Beta“. Welches Problem liegt vor, bevor man dem leeren Bildschirm die Schuld gibt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Film muss zwingend schwarzweiß sein."
+      },
+      {
+        "id": "b",
+        "text": "Jeder Film darf nur am Drehtag gezeigt werden."
+      },
+      {
+        "id": "c",
+        "text": "Die Kassette muss vor dem Abspielen hörbar klingeln."
+      },
+      {
+        "id": "d",
+        "text": "Kassette und Gerät gehören zu verschiedenen Videosystemen."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Beta und VHS waren konkurrierende Systeme für Heimvideo. Die Bezeichnung des Bandformats ist für die Auswahl des Geräts wichtig.",
+    "tags": [
+      "thema_musikmedien",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "VDE · Geschichte der Bildübertragung",
+        "url": "https://www.vde.com/de/geschichte/chronik/fernsehen-und-bilduebertragung",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Jemand findet eine alte Videokassette mit „VHS“ und einen Recorder für „Beta“. Welches Problem liegt vor, bevor man dem leeren Bildschirm die Schuld gibt? Kassette und Gerät gehören zu verschiedenen Videosystemen. Beta und VHS waren konkurrierende Systeme für Heimvideo. Die Bezeichnung des Bandformats ist für die Auswahl des Geräts wichtig.",
+        "locator": "vdechron, Textstelle 472",
+        "source_sha256": "4a6292f0ff02efcbd73726143e9419679d67e3bcf38ea841ae7717365150fea6"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-soul-tasten-animation",
+    "fact_key": "q3.e.soul.tasten.animation",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Für den Animationsfilm „Soul“ wurden Hände echter Jazzmusiker an den Tasten nah gefilmt. Welches Detail konnten die Zeichner mit diesem Material verbessern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ob Fingerbewegungen zu den tatsächlich gespielten Tönen passen"
+      },
+      {
+        "id": "b",
+        "text": "Wie viele Zuschauer einen Kinosaal betreten dürfen"
+      },
+      {
+        "id": "c",
+        "text": "Wie die Gitarre auf dem fertigen Konzertplakat geschrieben wird"
+      },
+      {
+        "id": "d",
+        "text": "Welche Eintrittskarte zur Abendvorstellung berechtigt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mehrere Kamerawinkel lieferten Vorlagen für glaubhafte Instrumentalbewegungen. Die hörbare Musik sollte zu den sichtbaren Händen passen.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · soul",
+        "url": "https://www.pixar.com/soul",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Für den Animationsfilm „Soul“ wurden Hände echter Jazzmusiker an den Tasten nah gefilmt. Welches Detail konnten die Zeichner mit diesem Material verbessern? Ob Fingerbewegungen zu den tatsächlich gespielten Tönen passen. Mehrere Kamerawinkel lieferten Vorlagen für glaubhafte Instrumentalbewegungen. Die hörbare Musik sollte zu den sichtbaren Händen passen.",
+        "locator": "px-soul, Textstelle 108",
+        "source_sha256": "88930dad45e7aa848f3b7c30da07d8c43bb617d4a498efb6c72fad02de007f1b"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-spur-steine-absetzung",
+    "fact_key": "q3.e.spur.steine.absetzung",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "„Spur der Steine“ zeigte Konflikte auf einer DDR-Großbaustelle und verschwand kurz nach der Premiere aus den Kinos. Welches Spannungsverhältnis macht das sichtbar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Unterschiede zwischen Kinoeintritt und Busfahrpreis"
+      },
+      {
+        "id": "b",
+        "text": "Offene Darstellung gesellschaftlicher Probleme und politische Kontrolle"
+      },
+      {
+        "id": "c",
+        "text": "Farbfilmtechnik und die Zahl der Sitzreihen"
+      },
+      {
+        "id": "d",
+        "text": "Den Tonumfang einer Schallplatte und die Dauer der Werbung"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Film mit Manfred Krug kam 1966 nur kurz regulär ins Kino. Seine freimütige Darstellung traf auf die Grenzen des damaligen Kulturbetriebs.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1966",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1966.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "„Spur der Steine“ zeigte Konflikte auf einer DDR-Großbaustelle und verschwand kurz nach der Premiere aus den Kinos. Welches Spannungsverhältnis macht das sichtbar? Offene Darstellung gesellschaftlicher Probleme und politische Kontrolle. Der Film mit Manfred Krug kam 1966 nur kurz regulär ins Kino. Seine freimütige Darstellung traf auf die Grenzen des damaligen Kulturbetriebs.",
+        "locator": "lemo1966, Textstelle 118",
+        "source_sha256": "15389c8352a80ca9e02b5dc707ebaed25ce409a5722633ae05be8604d0dacf86"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-urheber-filmverlag",
+    "fact_key": "q3.e.urheber.filmverlag",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Regisseure gründeten 1971 den Filmverlag der Autoren, um von großen Produktionsgesellschaften unabhängiger zu arbeiten. Was brachte ihnen ein gemeinsamer eigener Verlag?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Pflicht, sämtliche Drehbücher von einer Großfirma schreiben zu lassen"
+      },
+      {
+        "id": "b",
+        "text": "Ausschließlich neue Kameras bei unveränderter Abhängigkeit"
+      },
+      {
+        "id": "c",
+        "text": "Mehr Einfluss auf organisatorische und inhaltliche Entscheidungen"
+      },
+      {
+        "id": "d",
+        "text": "Das automatische Recht, jeden fremden Film unverändert zu kopieren"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Zum Gründerkreis gehörte Rainer Werner Fassbinder. Die gemeinsame Organisation sollte eigenständiges Filmemachen unterstützen.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1971",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1971.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Regisseure gründeten 1971 den Filmverlag der Autoren, um von großen Produktionsgesellschaften unabhängiger zu arbeiten. Was brachte ihnen ein gemeinsamer eigener Verlag? Mehr Einfluss auf organisatorische und inhaltliche Entscheidungen. Zum Gründerkreis gehörte Rainer Werner Fassbinder. Die gemeinsame Organisation sollte eigenständiges Filmemachen unterstützen.",
+        "locator": "lemo1971, Textstelle 111",
+        "source_sha256": "ae227cd8f1b6561c021f703a65d615a480459777ba2b71063bf33268898cd011"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-jurassic-wirkung",
+    "fact_key": "q3.e.jurassic.wirkung",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "„Jurassic Park“ zeigt Tiere, die seit Millionen Jahren ausgestorben sind, scheinbar lebendig neben Menschen. Welche Leistung bestaunte das Kinopublikum 1993?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die erste echte Beobachtung lebender Dinosaurier in freier Wildbahn"
+      },
+      {
+        "id": "b",
+        "text": "Die unveränderte Wiedergabe jahrmillionenalter Filmaufnahmen"
+      },
+      {
+        "id": "c",
+        "text": "Eine reine Radioreportage ohne Bilder"
+      },
+      {
+        "id": "d",
+        "text": "Die glaubwürdige Verbindung von Filmtrick und realer Szene"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Film setzte Dinosaurier mit aufwendiger Tricktechnik in Szene. Ihre glaubhafte Erscheinung trug zur Wirkung bei.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1993",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1993.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "„Jurassic Park“ zeigt Tiere, die seit Millionen Jahren ausgestorben sind, scheinbar lebendig neben Menschen. Welche Leistung bestaunte das Kinopublikum 1993? Die glaubwürdige Verbindung von Filmtrick und realer Szene. Der Film setzte Dinosaurier mit aufwendiger Tricktechnik in Szene. Ihre glaubhafte Erscheinung trug zur Wirkung bei.",
+        "locator": "lemo1993, Textstelle 312",
+        "source_sha256": "97265d653277c073bccb547910ba6e1de7fd8958da2710c86b40fe3e4e6de2f7"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-heimat-erzaehlzeit",
+    "fact_key": "q3.e.heimat.erzaehlzeit",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Die erste „Heimat“-Serie erzählt von einem Dorf zwischen 1919 und 1982. Auf welche Zeitspanne ist ihre Familiengeschichte ungefähr angelegt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auf gut sechs Jahrzehnte"
+      },
+      {
+        "id": "b",
+        "text": "Auf ungefähr drei Jahre"
+      },
+      {
+        "id": "c",
+        "text": "Auf ein einziges Jahrzehnt"
+      },
+      {
+        "id": "d",
+        "text": "Auf zweihundert Jahre"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zwischen den Jahreszahlen liegen 63 Jahre. Die elfteilige Serie konnte damit mehrere Generationen verfolgen.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1984",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1984.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Die erste „Heimat“-Serie erzählt von einem Dorf zwischen 1919 und 1982. Auf welche Zeitspanne ist ihre Familiengeschichte ungefähr angelegt? Auf gut sechs Jahrzehnte. Zwischen den Jahreszahlen liegen 63 Jahre. Die elfteilige Serie konnte damit mehrere Generationen verfolgen.",
+        "locator": "lemo1984, Textstelle 184",
+        "source_sha256": "0290f11db124e0c8cd276c00ab238462cb8e56d435febeeb90666f9b8ba82cca"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-iff-weitergabe",
+    "fact_key": "q3.e.iff.weitergabe",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Der Iffland-Ring geht traditionsgemäß auf Lebenszeit an einen Schauspieler. Warum wurde 1996 nach Josef Meinrads Tod die Frage nach dem Nachfolger konkret?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er darf ausschließlich an amtierende Theaterdirektoren gehen."
+      },
+      {
+        "id": "b",
+        "text": "Die bisherige persönliche Verleihung war zu Ende."
+      },
+      {
+        "id": "c",
+        "text": "Der Preis muss zwingend an jedem Geburtstag zurückgegeben werden."
+      },
+      {
+        "id": "d",
+        "text": "Der Ring wird nach jeder Premiere an eine neue Bühne geschickt."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Nach Meinrad erhielt Bruno Ganz den Ring. Die Lebenszeitregel unterscheidet die Auszeichnung von einem jährlich neu vergebenen Preis.",
+    "tags": [
+      "thema_buehne",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1996",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1996.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Der Iffland-Ring geht traditionsgemäß auf Lebenszeit an einen Schauspieler. Warum wurde 1996 nach Josef Meinrads Tod die Frage nach dem Nachfolger konkret? Die bisherige persönliche Verleihung war zu Ende. Nach Meinrad erhielt Bruno Ganz den Ring. Die Lebenszeitregel unterscheidet die Auszeichnung von einem jährlich neu vergebenen Preis.",
+        "locator": "lemo1996, Textstelle 76",
+        "source_sha256": "c8b5b2039566b8cb221b35c41b44234b43904e4a13426f6cd560de8a37ebc328"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-konzertsaal-berlin",
+    "fact_key": "q3.e.konzertsaal.berlin",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Das Berliner Schauspielhaus am Gendarmenmarkt wurde 1984 als Konzerthaus wiedereröffnet. Welche Nutzung stand mit dem neuen Namen stärker im Vordergrund?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Abfertigen von Bahnreisenden"
+      },
+      {
+        "id": "b",
+        "text": "Die städtische Handelsbörse"
+      },
+      {
+        "id": "c",
+        "text": "Musikalische Aufführungen"
+      },
+      {
+        "id": "d",
+        "text": "Ausschließlich Sportveranstaltungen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das im Krieg zerstörte Haus kehrte mit verändertem Schwerpunkt in das Berliner Kulturleben zurück.",
+    "tags": [
+      "thema_buehne",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1984",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1984.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Das Berliner Schauspielhaus am Gendarmenmarkt wurde 1984 als Konzerthaus wiedereröffnet. Welche Nutzung stand mit dem neuen Namen stärker im Vordergrund? Musikalische Aufführungen. Das im Krieg zerstörte Haus kehrte mit verändertem Schwerpunkt in das Berliner Kulturleben zurück.",
+        "locator": "lemo1984, Textstelle 191",
+        "source_sha256": "0290f11db124e0c8cd276c00ab238462cb8e56d435febeeb90666f9b8ba82cca"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-starlight-generation",
+    "fact_key": "q3.e.starlight.generation",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer als Zehnjährige 1988 bei der Bochumer Premiere von „Starlight Express“ dabei war, wann wurde ungefähr ihr dreißigster Geburtstag gefeiert?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Um 1998"
+      },
+      {
+        "id": "b",
+        "text": "Um 1988"
+      },
+      {
+        "id": "c",
+        "text": "Um 2018"
+      },
+      {
+        "id": "d",
+        "text": "Um 2008"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Zwischen dem zehnten und dem dreißigsten Geburtstag liegen zwanzig Jahre. Die Bochumer Premiere fand 1988 statt.",
+    "tags": [
+      "thema_buehne",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1988",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1988.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Wer als Zehnjährige 1988 bei der Bochumer Premiere von „Starlight Express“ dabei war, wann wurde ungefähr ihr dreißigster Geburtstag gefeiert? Um 2008. Zwischen dem zehnten und dem dreißigsten Geburtstag liegen zwanzig Jahre. Die Bochumer Premiere fand 1988 statt.",
+        "locator": "lemo1988, Textstelle 176",
+        "source_sha256": "5062bf33ca8f0d1d5bcc52173a4bf5eefdf3fa3a2fac42d1a2538c67f8a8b16d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-woodstock-ansturm",
+    "fact_key": "q3.e.woodstock.ansturm",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Für Woodstock wurden 60.000 Besucher erwartet, tatsächlich kamen mindestens 400.000. Wie viel größer war der Andrang selbst mit der kleineren Schätzung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mehr als sechsmal so groß"
+      },
+      {
+        "id": "b",
+        "text": "Nur etwa anderthalbmal so groß"
+      },
+      {
+        "id": "c",
+        "text": "Ungefähr dreimal so groß"
+      },
+      {
+        "id": "d",
+        "text": "Mehr als sechzigmal so groß"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "400.000 geteilt durch 60.000 ergibt rund 6,7. Die Chronik gibt eine Spanne bis 500.000 Besucher an.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1969",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1969.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Für Woodstock wurden 60.000 Besucher erwartet, tatsächlich kamen mindestens 400.000. Wie viel größer war der Andrang selbst mit der kleineren Schätzung? Mehr als sechsmal so groß. 400.000 geteilt durch 60.000 ergibt rund 6,7. Die Chronik gibt eine Spanne bis 500.000 Besucher an.",
+        "locator": "lemo1969, Textstelle 204",
+        "source_sha256": "ffe9dae785ba8e49098e2f531aeeebbd2bda5aa932af8d9fee8c9d67bb60eafb"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-liveoper-publikum",
+    "fact_key": "q3.e.liveoper.publikum",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Beim selben Opernabend sieht das Theaterpublikum die ganze Bühne, das Fernsehpublikum wechselnde Nahaufnahmen. Worin unterscheiden sich die beiden Live-Erlebnisse?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Im Theater legt die Kamera den Blick jedes Sitznachbarn genau fest."
+      },
+      {
+        "id": "b",
+        "text": "Beim Fernsehen bestimmt die Bildregie den jeweils sichtbaren Ausschnitt."
+      },
+      {
+        "id": "c",
+        "text": "Eine Fernseh-Nahaufnahme macht aus dem Gesang automatisch Playback."
+      },
+      {
+        "id": "d",
+        "text": "Bei einer Liveübertragung können keine Personen gleichzeitig zuhören."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "In den Siebzigern übertrug die ARD auch Opern live. Ein gemeinsamer Aufführungszeitpunkt bedeutet nicht denselben Blick auf die Bühne.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "WDR · Fernsehentwicklung 1956 bis 1985",
+        "url": "https://www1.wdr.de/unternehmen/der-wdr/profil/chronik/entwicklung-fernsehen-100.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Beim selben Opernabend sieht das Theaterpublikum die ganze Bühne, das Fernsehpublikum wechselnde Nahaufnahmen. Worin unterscheiden sich die beiden Live-Erlebnisse? Beim Fernsehen bestimmt die Bildregie den jeweils sichtbaren Ausschnitt. In den Siebzigern übertrug die ARD auch Opern live. Ein gemeinsamer Aufführungszeitpunkt bedeutet nicht denselben Blick auf die Bühne.",
+        "locator": "wdrchron, Textstelle 152",
+        "source_sha256": "bd312347c884cfb1a8596cb7f59b658d10d4bb088acf1797128e376889172fd4"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-olympia-doping-ergebnis",
+    "fact_key": "q3.e.olympia.doping.ergebnis",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In Seoul war Ben Johnson zunächst als Sprint-Sieger zu sehen. Warum zeigte die spätere offizielle Wertung ein anderes Ergebnis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Strecke wurde am nächsten Tag für alle verdoppelt."
+      },
+      {
+        "id": "b",
+        "text": "Die Medaille ging stets automatisch an das Gastgeberland."
+      },
+      {
+        "id": "c",
+        "text": "Ein Dopingnachweis führte zur Rückgabe der Goldmedaille."
+      },
+      {
+        "id": "d",
+        "text": "Die Zielkamera hatte grundsätzlich keine Bilder aufgenommen."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der Fall von 1988 zeigte, dass ein live gesehenes Ergebnis der späteren Prüfung unterliegt.",
+    "tags": [
+      "thema_sportmedien",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1988",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1988.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "In Seoul war Ben Johnson zunächst als Sprint-Sieger zu sehen. Warum zeigte die spätere offizielle Wertung ein anderes Ergebnis? Ein Dopingnachweis führte zur Rückgabe der Goldmedaille. Der Fall von 1988 zeigte, dass ein live gesehenes Ergebnis der späteren Prüfung unterliegt.",
+        "locator": "lemo1988, Textstelle 245",
+        "source_sha256": "5062bf33ca8f0d1d5bcc52173a4bf5eefdf3fa3a2fac42d1a2538c67f8a8b16d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-sporthilfe-materiell",
+    "fact_key": "q3.e.sporthilfe.materiell",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine Athletin hat Trainingszeit, aber kaum Mittel für die Vorbereitung. Welche Unterstützung entspricht dem 1967 formulierten Ziel der Deutschen Sporthilfe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Garantie auf eine bestimmte Medaille"
+      },
+      {
+        "id": "b",
+        "text": "Die Änderung des Ergebnisses nach dem Wettkampf"
+      },
+      {
+        "id": "c",
+        "text": "Die Abschaffung sämtlicher Auswahlregeln im Verband"
+      },
+      {
+        "id": "d",
+        "text": "Materielle Hilfe für die sportliche Laufbahn"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Sportbund und Olympische Gesellschaft gründeten die Stiftung zur Unterstützung der Aktiven. Sportliche Erfolge waren damit nicht vorweggenommen.",
+    "tags": [
+      "thema_sportmedien",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1967",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1967.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Eine Athletin hat Trainingszeit, aber kaum Mittel für die Vorbereitung. Welche Unterstützung entspricht dem 1967 formulierten Ziel der Deutschen Sporthilfe? Materielle Hilfe für die sportliche Laufbahn. Sportbund und Olympische Gesellschaft gründeten die Stiftung zur Unterstützung der Aktiven. Sportliche Erfolge waren damit nicht vorweggenommen.",
+        "locator": "lemo1967, Textstelle 104",
+        "source_sha256": "4267d975ae5f8e808d2c52d6bb286faf1abd3baa5facf78966f57317c2269429"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-sportschau-ton",
+    "fact_key": "q3.e.sportschau.ton",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Die frühe „Sportschau“ lehnte sich in ihrem nüchternen Ton an die „Tagesschau“ an. Welcher Kommentar entspricht diesem Stil am ehesten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "„Der Schuss ging links am Tor vorbei.“"
+      },
+      {
+        "id": "b",
+        "text": "„Das hätte er mit geschlossenen Augen besser gemacht!“"
+      },
+      {
+        "id": "c",
+        "text": "„So viel Pech können wir unserer Mannschaft nicht verzeihen!“"
+      },
+      {
+        "id": "d",
+        "text": "„Solche Minuten schreiben unsere Sporthelden für die Ewigkeit!“"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die WDR-Chronik beschreibt einen sachlichen, zurückhaltenden Reportagestil. Der Name verwies ebenfalls auf die Nachrichtensendung.",
+    "tags": [
+      "thema_sportmedien",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "WDR · Fernsehentwicklung 1956 bis 1985",
+        "url": "https://www1.wdr.de/unternehmen/der-wdr/profil/chronik/entwicklung-fernsehen-100.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Die frühe „Sportschau“ lehnte sich in ihrem nüchternen Ton an die „Tagesschau“ an. Welcher Kommentar entspricht diesem Stil am ehesten? „Der Schuss ging links am Tor vorbei.“. Die WDR-Chronik beschreibt einen sachlichen, zurückhaltenden Reportagestil. Der Name verwies ebenfalls auf die Nachrichtensendung.",
+        "locator": "wdrchron, Textstelle 149",
+        "source_sha256": "bd312347c884cfb1a8596cb7f59b658d10d4bb088acf1797128e376889172fd4"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-losangeles-finanzierung",
+    "fact_key": "q3.e.losangeles.finanzierung",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Was unterscheidet die Finanzierung der Olympischen Spiele von Los Angeles 1984 laut LeMO von einem aus dem Staatshaushalt bezahlten Sportfest?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Spiele kamen grundsätzlich ohne Ausgaben aus."
+      },
+      {
+        "id": "b",
+        "text": "Die Finanzierung lag bei der Privatwirtschaft."
+      },
+      {
+        "id": "c",
+        "text": "Alle Ausgaben trugen die Sportler über Startgebühren."
+      },
+      {
+        "id": "d",
+        "text": "Die Finanzierung bestand ausschließlich aus Sammlermünzen der Zuschauer."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Los Angeles setzte damals auf private Finanzierung. Damit änderte sich das Verhältnis zwischen Großereignis, Unternehmen und öffentlicher Hand.",
+    "tags": [
+      "thema_sportmedien",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1984",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1984.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Was unterscheidet die Finanzierung der Olympischen Spiele von Los Angeles 1984 laut LeMO von einem aus dem Staatshaushalt bezahlten Sportfest? Die Finanzierung lag bei der Privatwirtschaft. Los Angeles setzte damals auf private Finanzierung. Damit änderte sich das Verhältnis zwischen Großereignis, Unternehmen und öffentlicher Hand.",
+        "locator": "lemo1984, Textstelle 164",
+        "source_sha256": "0290f11db124e0c8cd276c00ab238462cb8e56d435febeeb90666f9b8ba82cca"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-leipzig-dokumentar",
+    "fact_key": "q3.e.leipzig.dokumentar",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Die Leipziger Filmwoche begann 1955 ausdrücklich mit Dokumentarfilmen. Was unterscheidet deren Anspruch von einer frei erfundenen Spielfilmgeschichte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alle Bilder müssen von den dargestellten Personen selbst stammen."
+      },
+      {
+        "id": "b",
+        "text": "Die gezeigten Personen müssen Berufsrollen nach einem Drehbuch verkörpern."
+      },
+      {
+        "id": "c",
+        "text": "Tatsächliche Menschen, Ereignisse oder Verhältnisse werden filmisch untersucht."
+      },
+      {
+        "id": "d",
+        "text": "Der Film muss zwingend während der Vorführung live gedreht werden."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Kultur- und Dokumentarfilmwoche entwickelte sich zum internationalen Festival. Auch dokumentarische Filme sind gestaltet und können unterschiedliche Formen nutzen.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1955",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1955.html",
+        "checked_at": "2026-11-22T22:25:03+00:00",
+        "verified_claim": "Die Leipziger Filmwoche begann 1955 ausdrücklich mit Dokumentarfilmen. Was unterscheidet deren Anspruch von einer frei erfundenen Spielfilmgeschichte? Tatsächliche Menschen, Ereignisse oder Verhältnisse werden filmisch untersucht. Die Kultur- und Dokumentarfilmwoche entwickelte sich zum internationalen Festival. Auch dokumentarische Filme sind gestaltet und können unterschiedliche Formen nutzen.",
+        "locator": "lemo1955, Textstelle 161",
+        "source_sha256": "cc26376d07ea4e9047f3786210e54665b106eb75b38b6b5338e8b114e844e543"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:03+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

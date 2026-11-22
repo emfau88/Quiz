@@ -1,0 +1,14 @@
+{
+  "device": "sdk_gphone16k_x86_64",
+  "api": "36",
+  "pageSize": "16384",
+  "run": "2026-11-22T22:51:25.990Z",
+  "checks": [
+    "Nach dem APK-Update sind offene Runde, Antworten, Fortschritt, Buchungen und Installationskennung identisch",
+    "Die gespeicherte Erklärung blieb sichtbar. Weiter führt in derselben Kennenlernrunde zur zweiten Frage."
+  ],
+  "screenshots": [],
+  "catalogBefore": "de-03c46c2cd256",
+  "catalogAfter": "de-d5a1d0585ed1",
+  "ok": true
+}

@@ -1,0 +1,418 @@
+{
+  "q3-e-camel-stapel": {
+    "fingerprint": "3284fc15e66b01bfdf31268e6ab9195a0457e5175d6ce351d1706d9e8a5adf72",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-camel-up",
+        "title": "Jury Spiel des Jahres · camel-up",
+        "url": "https://www.spiel-des-jahres.de/spiele/camel-up/",
+        "downloaded_at": "2026-11-22T21:31:20+00:00",
+        "sha256": "e8f9d85e23f42918569ef85c6219262e986dfb812717135442b1f3d87aad3023",
+        "source_line": 56,
+        "source_line_sha256": "65b8da006e776c470d5a05ca4d7f3393c76e59ea9fd42a20b882e5c97b84ac53",
+        "anchor": "unterste zieht"
+      }
+    ]
+  },
+  "q3-e-azul-ueberschuss": {
+    "fingerprint": "31d3d4074bdc00ced5952eaf3de343956c10a37fcda7ddf762052e18fd87ce10",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-azul",
+        "title": "Jury Spiel des Jahres · azul",
+        "url": "https://www.spiel-des-jahres.de/spiele/azul/",
+        "downloaded_at": "2026-11-22T21:31:20+00:00",
+        "sha256": "0f30f24784009a8f7ec18048528e9cf5a8ad589788d2eb246775b4f36c2319b2",
+        "source_line": 56,
+        "source_line_sha256": "ae322549111a9f2fd1ef3b0916b345b47f4b9e69a9b0172c1e8e3fd23a2fdbde",
+        "anchor": "alle genau einer Sorte"
+      }
+    ]
+  },
+  "q3-e-carcassonne-rand": {
+    "fingerprint": "f27e6456737480f4a8ce70686bfcb6f0a0aa8fba848ebd9f06c614878476681c",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-carcassonne",
+        "title": "Jury Spiel des Jahres · carcassonne",
+        "url": "https://www.spiel-des-jahres.de/spiele/carcassonne/",
+        "downloaded_at": "2026-11-22T21:31:16+00:00",
+        "sha256": "0ae2fcfc9c92a2beac6e3c9f9357eb07398f50d85684c33d26e9ff5bf4d5ad37",
+        "source_line": 58,
+        "source_line_sha256": "98a0390e59544215131b236801f38b71ef3ee53b0bb0143617dfa4f3d009de03",
+        "anchor": "Stadt an Stadt"
+      }
+    ]
+  },
+  "q3-e-cascadia-zweifach": {
+    "fingerprint": "7b193eabab17de69f71af679b6d258fc375b2e9cce74e62cea3781f3ce860682",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-casc",
+        "title": "Jury Spiel des Jahres · casc",
+        "url": "https://www.spiel-des-jahres.de/spiele/casc/",
+        "downloaded_at": "2026-11-22T21:31:22+00:00",
+        "sha256": "d6059f0137631503b89096f9da203d9af1a96cf9366186b79aca0127f62fe19e",
+        "source_line": 56,
+        "source_line_sha256": "f07b0079889366a9b07676656165c4b9bb28bd0959741eaa3251f54f1139df27",
+        "anchor": "zweigeteilten Knobelaufgabe"
+      }
+    ]
+  },
+  "q3-e-codenames-zahl": {
+    "fingerprint": "1ba6a0a9280b7aac4e28903e21c793795dfa60e912914f29a75b4ddc4d40e3da",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-codenames",
+        "title": "Jury Spiel des Jahres · codenames",
+        "url": "https://www.spiel-des-jahres.de/spiele/codenames/",
+        "downloaded_at": "2026-11-22T21:31:20+00:00",
+        "sha256": "d3596645030d87b27496c6eb01ec0ba577579f1497cdfc59151026c4f5b79f56",
+        "source_line": 56,
+        "source_line_sha256": "b6fc582ffc6a5497fc6044d077b21ad425011bbf12fe41c230cbdc599d873c0d",
+        "anchor": "zugehörige Zahl"
+      }
+    ]
+  },
+  "q3-e-dixit-mittelweg": {
+    "fingerprint": "e18920708b0b485668b7e59f28eb8d2202a495abd3410f9cbc0d50ee6a4fd5ea",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-dixit",
+        "title": "Jury Spiel des Jahres · dixit",
+        "url": "https://www.spiel-des-jahres.de/spiele/dixit/",
+        "downloaded_at": "2026-11-22T21:31:20+00:00",
+        "sha256": "58ff4c129635abcfb52172e103846aab1a3688ce3a4e06d594354206ef0db646",
+        "source_line": 56,
+        "source_line_sha256": "1dcb039c4d3d31e0fc2078f42b61fe350ff0a02ec10e2c6c8d2d878bbde79ab8",
+        "anchor": "alle richtig oder alle falsch"
+      }
+    ]
+  },
+  "q3-e-dominion-kreislauf": {
+    "fingerprint": "f2216bfb9fe3a2d0bd6ed929bc63219d8d67b332c4dc6dd8fb9ea5a3c185bc4f",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-dominion",
+        "title": "Jury Spiel des Jahres · dominion",
+        "url": "https://www.spiel-des-jahres.de/spiele/dominion/",
+        "downloaded_at": "2026-11-22T21:31:24+00:00",
+        "sha256": "12da098a59dc371432d2a4426844583040710386888892d03056bc782f663d52",
+        "source_line": 56,
+        "source_line_sha256": "6bae864cbf6a97ecc492ae256bc1c00db34b1004a6fb8b6c636f7c7d02c930ba",
+        "anchor": "neuen verdeckten Nachziehstapel"
+      }
+    ]
+  },
+  "q3-e-elfenland-fahrkarte": {
+    "fingerprint": "33213ffaa262b93106f068f89734d18a6d8c716b30cd417339122bc7f1d9da7d",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-elfenland",
+        "title": "Jury Spiel des Jahres · elfenland",
+        "url": "https://www.spiel-des-jahres.de/spiele/elfenland/",
+        "downloaded_at": "2026-11-22T21:31:24+00:00",
+        "sha256": "6dda2ff2e3f94d279937272c4b01b82a63e003bbffbad59697d490ba48d9eb6c",
+        "source_line": 58,
+        "source_line_sha256": "8e11faf5b037eca16e89f7c7859d139f9044f8d87401540fd7d6116039f2bb08",
+        "anchor": "erforderliche Reisekarte"
+      }
+    ]
+  },
+  "q3-e-focus-hoehe": {
+    "fingerprint": "40425934865a9ae4e30a3115ff560d4628369275e319bf6ac155f6d9fbe1de0f",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-focus",
+        "title": "Jury Spiel des Jahres · focus",
+        "url": "https://www.spiel-des-jahres.de/spiele/focus/",
+        "downloaded_at": "2026-11-22T21:31:24+00:00",
+        "sha256": "315ac9d0028e3141da8df99e59797b0b1dee032950553607d6a3237849fc808f",
+        "source_line": 56,
+        "source_line_sha256": "9e2d9ac88b7328d63f58ad2139b53ddeb9125bacf6df02d748592ea83d5eb5fb",
+        "anchor": "Zugweite sich nach ihrer Höhe richtet"
+      }
+    ]
+  },
+  "q3-e-hanabi-eigene-hand": {
+    "fingerprint": "d1dd2f5df44519afb9fccd26142907552a45d1e93ba4b9659567814276edd45d",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-hanabi",
+        "title": "Jury Spiel des Jahres · hanabi",
+        "url": "https://www.spiel-des-jahres.de/spiele/hanabi/",
+        "downloaded_at": "2026-11-22T21:31:20+00:00",
+        "sha256": "cbaa9c2a5c5d334569a68971037e2f2dd55299ea0c76745c07c6ea84acdbbbc2",
+        "source_line": 56,
+        "source_line_sha256": "faf26ce3ea9deec4745fd435403343e2765a2f9cea6b27f8ce0f22120a70f4f3",
+        "anchor": "nicht die eigene Kartenhand"
+      }
+    ]
+  },
+  "q3-e-justone-doppelt": {
+    "fingerprint": "9c9fe46e06582c34531c9a25a5bf7104bdd683a99122813fa543b46ab677b2f9",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-just-one",
+        "title": "Jury Spiel des Jahres · just-one",
+        "url": "https://www.spiel-des-jahres.de/spiele/just-one/",
+        "downloaded_at": "2026-11-22T21:31:20+00:00",
+        "sha256": "b0edace0452362a2116526b49da4fc1f2f407d5bcbb212597b520d1e117059f7",
+        "source_line": 56,
+        "source_line_sha256": "e3ec45a455fbc8a5d8b34dfda48bc738a54154ee98f743e6d78c703eb352f58d",
+        "anchor": "Doppelungen werden aussortiert"
+      }
+    ]
+  },
+  "q3-e-kingdomino-wertung": {
+    "fingerprint": "178dfc3535fb0b437223bd1bd5782404a2e7887f40f3d9c63d767e36b142d5e7",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-kingdomino",
+        "title": "Jury Spiel des Jahres · kingdomino",
+        "url": "https://www.spiel-des-jahres.de/spiele/kingdomino/",
+        "downloaded_at": "2026-11-22T21:31:21+00:00",
+        "sha256": "7e441bd44b5e32bc7a8e1db48bb345314a4f378696a017501e9ef2e161083e0d",
+        "source_line": 56,
+        "source_line_sha256": "1df0d872a5e47648ef25ee9a93ea13a73104806bea24b881076ddc9ec3c4a0ae",
+        "anchor": "Zahl der Felder mal Zahl der Kronen"
+      }
+    ]
+  },
+  "q3-e-pictures-abstraktion": {
+    "fingerprint": "5e7cb1b7b5b72c02fd6ea341f5a3436f0a555a1d1d65c13e6f12f16445ac9f87",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-pictures",
+        "title": "Jury Spiel des Jahres · pictures",
+        "url": "https://www.spiel-des-jahres.de/spiele/pictures/",
+        "downloaded_at": "2026-11-22T21:31:21+00:00",
+        "sha256": "524816f1bdebecca6cbf502a11b604de6a39a86580f1e9ef4b1c13b357778018",
+        "source_line": 56,
+        "source_line_sha256": "da44d2e89e05f7615389f6c51002fe948643c407336a98ad8d3ecceb9ffa89e2",
+        "anchor": "Foto-Motive"
+      }
+    ]
+  },
+  "q3-e-qwirkle-muster": {
+    "fingerprint": "d7487f54eba651dd664c4f5d99dea23959ed8c8ad0cec6778661095e8bd72157",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-qwirkle",
+        "title": "Jury Spiel des Jahres · qwirkle",
+        "url": "https://www.spiel-des-jahres.de/spiele/qwirkle/",
+        "downloaded_at": "2026-11-22T21:31:21+00:00",
+        "sha256": "6ced9a65e15a47eeb38a89adee99567f945c27667bca894199f74db856c6a08f",
+        "source_line": 56,
+        "source_line_sha256": "a098bebbc8d31eeebc6d1246ca6358b01cafbe321528c42b4cf8046b70630b52",
+        "anchor": "unterschiedlicher Farbe"
+      }
+    ]
+  },
+  "q3-e-rummikub-gruppe": {
+    "fingerprint": "100a992f34cb8f83536dcc3dc487347e9a9f221967f510e928d9cbebc3282c0e",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-rummikub",
+        "title": "Jury Spiel des Jahres · rummikub",
+        "url": "https://www.spiel-des-jahres.de/spiele/rummikub/",
+        "downloaded_at": "2026-11-22T21:31:24+00:00",
+        "sha256": "add81e9a2ad60acf21348ba7a8e6aaddd7d45f751562e95f0e6a90329d3201c1",
+        "source_line": 58,
+        "source_line_sha256": "a03145401d9e07ef583d4b54ee75a07052e85e73874e22cf83d0911d7fa6f39d",
+        "anchor": "gleicher Zahl"
+      }
+    ]
+  },
+  "q3-e-rummikub-material": {
+    "fingerprint": "5db8f23ae0d317c295f25d26b96980422fb18cf8852ac2f4e148fbf753d7420f",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-rummikub",
+        "title": "Jury Spiel des Jahres · rummikub",
+        "url": "https://www.spiel-des-jahres.de/spiele/rummikub/",
+        "downloaded_at": "2026-11-22T21:31:24+00:00",
+        "sha256": "add81e9a2ad60acf21348ba7a8e6aaddd7d45f751562e95f0e6a90329d3201c1",
+        "source_line": 57,
+        "source_line_sha256": "317332e932a61365b1e449a8d6a28253cb7c47a49bd71a594643394ae4370c4b",
+        "anchor": "106 Spielsteine"
+      }
+    ]
+  },
+  "q3-e-sagaland-merken": {
+    "fingerprint": "3f2adc7012435c79722a58ce65d6d83e3e73081255f34d246c405f8816aa7b1c",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-sagaland",
+        "title": "Jury Spiel des Jahres · sagaland",
+        "url": "https://www.spiel-des-jahres.de/spiele/sagaland/",
+        "downloaded_at": "2026-11-22T21:31:24+00:00",
+        "sha256": "d63f77d075596d6feae9026940abd7d5efeff1aaeff56f25e6277e97d53a07bf",
+        "source_line": 58,
+        "source_line_sha256": "eb17cd9d56eb47082edbff59359ac4049a0572437dbab16b983729a251c469ad",
+        "anchor": "unter Tannen"
+      }
+    ]
+  },
+  "q3-e-scotland-karte": {
+    "fingerprint": "c22089943a0231558e13c0a84d59c19ce2ebd14ed31ac6ebd7e4c52e4416342f",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-scotland-yard",
+        "title": "Jury Spiel des Jahres · scotland-yard",
+        "url": "https://www.spiel-des-jahres.de/spiele/scotland-yard/",
+        "downloaded_at": "2026-11-22T21:31:21+00:00",
+        "sha256": "8bc0c3e1023c1b0a5785569a7500877facd2ee3483673a7099f01115dd0466b3",
+        "source_line": 56,
+        "source_line_sha256": "f190f3d8fe7398cd4d6b5be485bd0739dcb1e082f275a6137f3aad169adfab67",
+        "anchor": "Fahrstrecken von Taxis"
+      }
+    ]
+  },
+  "q3-e-splendor-vorteil": {
+    "fingerprint": "f0a70d5ee6807a744bd83c3efbe5ce70f5603f1a0aab6d22f0a81e6ae39314b0",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-splendor",
+        "title": "Jury Spiel des Jahres · splendor",
+        "url": "https://www.spiel-des-jahres.de/spiele/splendor/",
+        "downloaded_at": "2026-11-22T21:31:21+00:00",
+        "sha256": "f3941f99c3b64103357e9e16fe5eee1db2e89bc7abbd3be314d502be49cac7dc",
+        "source_line": 56,
+        "source_line_sha256": "3aa88749c2729f04849e813c66ba2c7716106cf3c76adb1ea36139b89931239a",
+        "anchor": "künftige Investitionen verbilligen"
+      }
+    ]
+  },
+  "q3-e-radteam-wertung": {
+    "fingerprint": "a2a88fdff37bf3292b726c81cd1989fa4b274203b905aa413c3600ce556576e9",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-um-reifenbreite",
+        "title": "Jury Spiel des Jahres · um-reifenbreite",
+        "url": "https://www.spiel-des-jahres.de/spiele/um-reifenbreite/",
+        "downloaded_at": "2026-11-22T21:31:25+00:00",
+        "sha256": "3e94b7ce9da161025701a487effd0104bea5e90e1d47da7d99894c6e3af2b96f",
+        "source_line": 56,
+        "source_line_sha256": "cd75697b6ecd6f0bc524cebc18e4c96d7a1012d4368c9945af8e03be601dd6b9",
+        "anchor": "komplettes Viererteam"
+      }
+    ]
+  },
+  "q3-e-zugnetz-staedte": {
+    "fingerprint": "d1fb37b8906cae9b9410f2fe38fb0c6ec5a28f67a71bcab325965383ce2a6018",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-zug-um-zug",
+        "title": "Jury Spiel des Jahres · zug-um-zug",
+        "url": "https://www.spiel-des-jahres.de/spiele/zug-um-zug/",
+        "downloaded_at": "2026-11-22T21:31:24+00:00",
+        "sha256": "c04171f121aa407c83b69e28ed6d5e9aa50ea0058efce38c12d7042ed116cb90",
+        "source_line": 57,
+        "source_line_sha256": "106fd35708343f7c99e9b296fe4c9b2b154eae3014f10b64e945a5a0c08a7921",
+        "anchor": "angegebenen Orte zu verbinden"
+      }
+    ]
+  },
+  "q3-e-bluff-wuerfel": {
+    "fingerprint": "7c3ce1f6f3624e7d25c87c0880d8332c8eac0df2a418752255ee01d8a50cb75a",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-bluff",
+        "title": "Jury Spiel des Jahres · bluff",
+        "url": "https://www.spiel-des-jahres.de/spiele/bluff/",
+        "downloaded_at": "2026-11-22T21:31:25+00:00",
+        "sha256": "b6a73d20bf8b61976a24fac7da88c0535f7cf7ed9f3fced0c6071bebbdc1dd8b",
+        "source_line": 56,
+        "source_line_sha256": "13c5545fa66d39b0085042fb8ac36596593a0552be0037e53243e3ea4ea8e221",
+        "anchor": "dreißig gelben Würfeln"
+      }
+    ]
+  },
+  "q3-e-sechste-karte": {
+    "fingerprint": "f5c4feba11828ef3a582f850250fdbf8933ec216dd21d9db7e0462b06fcbe843",
+    "checked_at": "2026-11-22T22:19:54+00:00",
+    "sources": [
+      {
+        "key": "game-6-nimmt",
+        "title": "Jury Spiel des Jahres · 6-nimmt",
+        "url": "https://www.spiel-des-jahres.de/spiele/6-nimmt/",
+        "downloaded_at": "2026-11-22T21:31:25+00:00",
+        "sha256": "bbf9f11c38ca4db25453c8e601578c7bf1f644e54b2c8dd0dae2ebc83780bf66",
+        "source_line": 56,
+        "source_line_sha256": "fdc970c67cb697681409389ba7ee40d8d683eade9cdaf6216cb2bd673537de25",
+        "anchor": "höchstens fünf Karten"
+      }
+    ]
+  },
+  "q3-e-skat-abheben": {
+    "fingerprint": "63518c8ba3ba83fb2afd25c64cd78876ead397dfe5d26b9ed593abe4098c114d",
+    "checked_at": "2026-11-22T22:19:55+00:00",
+    "sources": [
+      {
+        "key": "skat",
+        "title": "Deutscher Skatverband · Internationale Skatordnung, 2022",
+        "url": "https://dskv.de/app/uploads/sites/18/2020/08/ISkO-2022-1.pdf",
+        "downloaded_at": "2026-11-22T21:17:58+00:00",
+        "sha256": "1069aa42121170108457fdf4b583ee887dc03d0d4ea8da07e81deb09d60f6f64",
+        "source_line": 344,
+        "source_line_sha256": "908e70e8324c71a695a14685d760c4273d050714fd425eca8165f9975a5c9166",
+        "anchor": "Abheben ist Pflicht"
+      }
+    ]
+  },
+  "q3-e-skat-schneider": {
+    "fingerprint": "c670fdab0d074bfcb12035c8ce9662c21f6730c254784783054647c9a14cc75d",
+    "checked_at": "2026-11-22T22:19:55+00:00",
+    "sources": [
+      {
+        "key": "skat",
+        "title": "Deutscher Skatverband · Internationale Skatordnung, 2022",
+        "url": "https://dskv.de/app/uploads/sites/18/2020/08/ISkO-2022-1.pdf",
+        "downloaded_at": "2026-11-22T21:17:58+00:00",
+        "sha256": "1069aa42121170108457fdf4b583ee887dc03d0d4ea8da07e81deb09d60f6f64",
+        "source_line": 271,
+        "source_line_sha256": "441283a2a6daebe6edf84c64f32e2bf80f811ae4233f01ddc941149d17ff84d6",
+        "anchor": "30 oder weniger Augen"
+      }
+    ]
+  },
+  "q3-e-skat-augen": {
+    "fingerprint": "e65ceed6e2b19da21386258db200f4015059cc9bf3f77afdf24b4d2721f0ae5d",
+    "checked_at": "2026-11-22T22:19:55+00:00",
+    "sources": [
+      {
+        "key": "skat",
+        "title": "Deutscher Skatverband · Internationale Skatordnung, 2022",
+        "url": "https://dskv.de/app/uploads/sites/18/2020/08/ISkO-2022-1.pdf",
+        "downloaded_at": "2026-11-22T21:17:58+00:00",
+        "sha256": "1069aa42121170108457fdf4b583ee887dc03d0d4ea8da07e81deb09d60f6f64",
+        "source_line": 1143,
+        "source_line_sha256": "656fcbb879b7a01e5a58b3946f1de29d0e046b24c1cdb6d97141e0b222dc47cf",
+        "anchor": "120 Augen"
+      }
+    ]
+  }
+}

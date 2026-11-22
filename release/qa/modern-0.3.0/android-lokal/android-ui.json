@@ -1,0 +1,15 @@
+{
+  "device": "sdk_gphone16k_x86_64",
+  "api": "36",
+  "pageSize": "16384",
+  "run": "2026-11-22T22:53:21.980Z",
+  "checks": [
+    "Separater Lokaltest: freie anspruchsvolle Themenrunde mit zehn Fragen abgeschlossen, keine Tages-XP",
+    "Native Lokaltestausgabe meldet keinen Kauf und erteilt kein Play-Entitlement"
+  ],
+  "screenshots": [
+    "lokaltest-themen.png",
+    "lokaltest-themenrunde.png"
+  ],
+  "ok": true
+}

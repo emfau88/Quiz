@@ -402,9 +402,9 @@
     "explanation": "Die Staumauer hält das Wasser im Speicher. Bei Bedarf kann es kontrolliert zur Turbine geleitet werden.",
     "tags": [
       "thema_energietechnik",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -420,28 +420,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.427847+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.429790+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.429811+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -552,9 +552,9 @@
     "explanation": "Ein USB-C-Stecker kann um eine halbe Drehung gewendet und in derselben Buchse verwendet werden.",
     "tags": [
       "thema_digitaltechnik",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -570,28 +570,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.427928+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.429833+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.429837+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -852,9 +852,9 @@
     "explanation": "Jeder zusätzliche Liter muss mit erwärmt werden. Die Mindestfüllmenge des Geräts gilt weiterhin.",
     "tags": [
       "thema_haushalt",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -870,28 +870,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.427966+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.429853+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.429856+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1452,9 +1452,9 @@
     "explanation": "An derselben Kamera bewirkt eine kurze Brennweite einen großen Bildwinkel.",
     "tags": [
       "thema_ton_und_bild",
-      "form_herleiten"
+      "form_vergleichen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1470,28 +1470,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.428003+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.429873+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.429876+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1677,9 +1677,10 @@
     "explanation": "Ein größerer Hauptspiegel oder eine größere Objektivlinse kann mehr vom Licht eines entfernten Objekts auffangen.",
     "tags": [
       "thema_ton_und_bild",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1695,28 +1696,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.428036+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.429888+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.429892+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2127,9 +2128,9 @@
     "explanation": "Linien und Kurven sind mathematisch beschrieben. Aus derselben Beschreibung kann das Bild in verschiedenen Größen gezeichnet werden.",
     "tags": [
       "thema_digitaltechnik",
-      "form_herleiten"
+      "form_vergleichen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2145,28 +2146,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.428071+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.429905+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.429908+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2277,9 +2278,9 @@
     "explanation": "Das erneute Verwerten von Aluminium braucht nur einen kleinen Teil der Energie der Primärproduktion.",
     "tags": [
       "thema_werkstoffe",
-      "form_herleiten"
+      "form_vergleichen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2295,28 +2296,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.428105+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.429921+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.429924+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2352,9 +2353,9 @@
     "explanation": "Aufbereitetes Altglas gelangt zurück in die Glasschmelze. Das spart neue Rohstoffe und kann den Energiebedarf senken.",
     "tags": [
       "thema_werkstoffe",
-      "form_herleiten"
+      "form_vergleichen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2370,28 +2371,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.428141+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.429933+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.429937+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2427,9 +2428,10 @@
     "explanation": "Je nach Material und Dicke können Hindernisse das Signal dämpfen.",
     "tags": [
       "thema_digitaltechnik",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2445,28 +2447,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.428174+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.429946+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.429949+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2479,7 +2481,7 @@
     "fact_key": "qr-fehlerkorrektur",
     "category": "everyday_technology",
     "difficulty": "medium",
-    "question": "Weshalb kann ein QR-Code trotz einer kleinen beschädigten Stelle noch lesbar sein?",
+    "question": "Ein Handy im Flugmodus kann einen gedruckten QR-Code trotz eines kleinen Flecks lesen. Auch unter dem Fleck lagen Daten. Was gleicht eine solche Lücke innerhalb des Codes aus?",
     "options": [
       {
         "id": "a",
@@ -2502,9 +2504,10 @@
     "explanation": "Die zusätzlichen Informationen erlauben, einen begrenzten Teil der beschädigten Daten zu rekonstruieren.",
     "tags": [
       "thema_digitaltechnik",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2520,28 +2523,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.428206+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.429959+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.429963+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2577,9 +2580,9 @@
     "explanation": "Eine Windfahne liefert die Windrichtung. Der Antrieb kann die Gondel daraufhin drehen.",
     "tags": [
       "thema_energietechnik",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2595,28 +2598,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.428237+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.429972+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.429975+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2952,9 +2955,9 @@
     "explanation": "Die Endstücke an den Flügelspitzen sind eine Möglichkeit, den aerodynamischen Widerstand zu verringern.",
     "tags": [
       "thema_verkehrstechnik",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2970,28 +2973,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.428271+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.429987+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.429991+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },

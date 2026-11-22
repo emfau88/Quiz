@@ -1,0 +1,1866 @@
+[
+  {
+    "id": "q3-e-tamino-tiere",
+    "fact_key": "q3.e.tamino.tiere",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Tamino spielt in der „Zauberflöte“. Im selben Augenblick treten Tiere heran und lauschen. Welche besondere Wirkung hat sein Instrument in der Szene?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Seine Musik zieht die Tiere in ihren Bann."
+      },
+      {
+        "id": "b",
+        "text": "Seine Töne verwandeln die Tiere in Menschen."
+      },
+      {
+        "id": "c",
+        "text": "Es warnt sie vor einer heranziehenden Flut."
+      },
+      {
+        "id": "d",
+        "text": "Es gibt dem Orchester nur das Ende des Akts an."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Flöte wirkt innerhalb der Handlung. Das Bühnengeschehen zeigt, was ihr Klang auslöst.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, magic-flute",
+        "url": "https://operavision.eu/performance/magic-flute",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Tamino spielt in der „Zauberflöte“. Im selben Augenblick treten Tiere heran und lauschen. Welche besondere Wirkung hat sein Instrument in der Szene? Seine Musik zieht die Tiere in ihren Bann. Die Flöte wirkt innerhalb der Handlung. Das Bühnengeschehen zeigt, was ihr Klang auslöst.",
+        "locator": "opmagic-flute, Textstelle 108",
+        "source_sha256": "ac8203a877035a97a25c6b87fdf69d1babf7b91c158672c39628f05fc27452f8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-papageno-glueck",
+    "fact_key": "q3.e.papageno.glueck",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Papageno und Papagena wiederholen im Duett ihre ähnlichen Namen und freuen sich auf kleine Papagenos und Papagenas. Welches Glück besingen sie?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Entdeckung eines verborgenen Schatzes"
+      },
+      {
+        "id": "b",
+        "text": "Das gemeinsame Leben mit Kindern"
+      },
+      {
+        "id": "c",
+        "text": "Einen Sieg über einen feindlichen König"
+      },
+      {
+        "id": "d",
+        "text": "Die Aufnahme in einen Priesterorden"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das wiedervereinte Paar stellt sich eine eigene Familie vor. Die Musik lässt ihre Freude unmittelbar hörbar werden.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, magic-flute",
+        "url": "https://operavision.eu/performance/magic-flute",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Papageno und Papagena wiederholen im Duett ihre ähnlichen Namen und freuen sich auf kleine Papagenos und Papagenas. Welches Glück besingen sie? Das gemeinsame Leben mit Kindern. Das wiedervereinte Paar stellt sich eine eigene Familie vor. Die Musik lässt ihre Freude unmittelbar hörbar werden.",
+        "locator": "opmagic-flute, Textstelle 92",
+        "source_sha256": "ac8203a877035a97a25c6b87fdf69d1babf7b91c158672c39628f05fc27452f8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-carmen-dienst",
+    "fact_key": "q3.e.carmen.dienst",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Don José soll Carmen bewachen, lässt sie aber entkommen. Welcher Konflikt ergibt sich für den Soldaten daraus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sein militärischer Rang steigt dadurch automatisch."
+      },
+      {
+        "id": "b",
+        "text": "Er hat damit die Arbeit in der Zigarettenfabrik beendet."
+      },
+      {
+        "id": "c",
+        "text": "Sein persönliches Gefühl steht gegen seinen dienstlichen Auftrag."
+      },
+      {
+        "id": "d",
+        "text": "Sein Dienst verlangt, dass er alle Gefangenen freilässt."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Don José wird wegen Carmens Flucht inhaftiert. Die Folgen seiner Entscheidung prägen sein weiteres Verhältnis zu ihr.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, carmen",
+        "url": "https://operavision.eu/performance/carmen",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Don José soll Carmen bewachen, lässt sie aber entkommen. Welcher Konflikt ergibt sich für den Soldaten daraus? Sein persönliches Gefühl steht gegen seinen dienstlichen Auftrag. Don José wird wegen Carmens Flucht inhaftiert. Die Folgen seiner Entscheidung prägen sein weiteres Verhältnis zu ihr.",
+        "locator": "opcarmen, Textstelle 71",
+        "source_sha256": "d60ade15b3e65c70b7e1973c86ca0065b93619f3171c57200924a40c70976d29"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-escamillo-konkurrenz",
+    "fact_key": "q3.e.escamillo.konkurrenz",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Als Carmen sich vom Soldaten Don José abwendet, interessiert sich der Stierkämpfer Escamillo für sie. Worum streiten die beiden Männer trotz ihrer unterschiedlichen Berufe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Um ein Preisgeld aus der Arena"
+      },
+      {
+        "id": "b",
+        "text": "Um den Schutzauftrag für eine Gruppe Reisender"
+      },
+      {
+        "id": "c",
+        "text": "Um die Besetzung einer Stelle in der Garnison"
+      },
+      {
+        "id": "d",
+        "text": "Um Carmens Zuneigung"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Escamillo zieht Carmen an. José begegnet ihm deshalb als persönlichem Rivalen.",
+    "tags": [
+      "thema_buehne",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, carmen",
+        "url": "https://operavision.eu/performance/carmen",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Als Carmen sich vom Soldaten Don José abwendet, interessiert sich der Stierkämpfer Escamillo für sie. Worum streiten die beiden Männer trotz ihrer unterschiedlichen Berufe? Um Carmens Zuneigung. Escamillo zieht Carmen an. José begegnet ihm deshalb als persönlichem Rivalen.",
+        "locator": "opcarmen, Textstelle 74",
+        "source_sha256": "d60ade15b3e65c70b7e1973c86ca0065b93619f3171c57200924a40c70976d29"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-violetta-freiheit",
+    "fact_key": "q3.e.violetta.freiheit",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Nach Alfredos Liebeserklärung singt Violetta „Sempre libera“, also „immer frei“. Welche zwei Wünsche geraten bei ihr aneinander?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Persönliche Freiheit und die Bindung an Alfredo"
+      },
+      {
+        "id": "b",
+        "text": "Künstlerische Ausbildung und ein politisches Amt"
+      },
+      {
+        "id": "c",
+        "text": "Eine Reise nach Paris und die Rückkehr nach Spanien"
+      },
+      {
+        "id": "d",
+        "text": "Erfolg als Ärztin und eine Laufbahn als Richterin"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Violetta erwägt, ob sie ihr bisheriges Leben für die Liebe verändern will. Die Arie beschließt den ersten Akt von „La traviata“.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, la-traviata",
+        "url": "https://operavision.eu/performance/la-traviata",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Nach Alfredos Liebeserklärung singt Violetta „Sempre libera“, also „immer frei“. Welche zwei Wünsche geraten bei ihr aneinander? Persönliche Freiheit und die Bindung an Alfredo. Violetta erwägt, ob sie ihr bisheriges Leben für die Liebe verändern will. Die Arie beschließt den ersten Akt von „La traviata“.",
+        "locator": "opla-traviata, Textstelle 67",
+        "source_sha256": "710fe6b766289a60a41a41886523c32ae9af1f499f06e4967ef7c6e3995f9411"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-traviata-familie",
+    "fact_key": "q3.e.traviata.familie",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Alfredos Familie hält in „La traviata“ die Beziehung zur früheren Kurtisane Violetta für einen Skandal. Wessen Eingreifen würde diesen gesellschaftlichen Druck verkörpern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Nachbar vermittelt eine neue Wohnung."
+      },
+      {
+        "id": "b",
+        "text": "Ein Mitglied seiner Familie bittet Violetta um Trennung."
+      },
+      {
+        "id": "c",
+        "text": "Ein Arzt erklärt Alfredo den Verlauf einer Krankheit."
+      },
+      {
+        "id": "d",
+        "text": "Ein Freund lädt beide zu einem Konzert ein."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Giorgio Germont greift als Vater in die Beziehung seines Sohnes ein. Der Ruf der Familie spielt dabei eine zentrale Rolle.",
+    "tags": [
+      "thema_buehne",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, la-traviata",
+        "url": "https://operavision.eu/performance/la-traviata",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Alfredos Familie hält in „La traviata“ die Beziehung zur früheren Kurtisane Violetta für einen Skandal. Wessen Eingreifen würde diesen gesellschaftlichen Druck verkörpern? Ein Mitglied seiner Familie bittet Violetta um Trennung. Giorgio Germont greift als Vater in die Beziehung seines Sohnes ein. Der Ruf der Familie spielt dabei eine zentrale Rolle.",
+        "locator": "opla-traviata, Textstelle 18",
+        "source_sha256": "710fe6b766289a60a41a41886523c32ae9af1f499f06e4967ef7c6e3995f9411"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-tosca-beruf",
+    "fact_key": "q3.e.tosca.beruf",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Tosca spricht in der Arie „Vissi d’arte“ von einem Leben für die Kunst. Auch innerhalb der Handlung verdient sie mit ihrer Stimme ihr Brot. Welchen Beruf hat die Figur?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tänzerin"
+      },
+      {
+        "id": "b",
+        "text": "Bildhauerin"
+      },
+      {
+        "id": "c",
+        "text": "Sängerin"
+      },
+      {
+        "id": "d",
+        "text": "Malerin"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Puccinis Titelheldin ist selbst Sängerin. In der Arie fragt sie, weshalb sie trotz ihrer Hingabe so leiden muss.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, tosca",
+        "url": "https://operavision.eu/performance/tosca",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Tosca spricht in der Arie „Vissi d’arte“ von einem Leben für die Kunst. Auch innerhalb der Handlung verdient sie mit ihrer Stimme ihr Brot. Welchen Beruf hat die Figur? Sängerin. Puccinis Titelheldin ist selbst Sängerin. In der Arie fragt sie, weshalb sie trotz ihrer Hingabe so leiden muss.",
+        "locator": "optosca, Textstelle 72",
+        "source_sha256": "2e134987f1536ea9555718aedbb7deae8bdc53001d2aa9d48066ba8a56948cf2"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-tosca-daemmerung",
+    "fact_key": "q3.e.tosca.daemmerung",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Auf der Engelsburg erinnert sich Cavaradossi an die Geliebte und die Sterne. Er erwartet die Hinrichtung. Was verleiht seiner Liebeserinnerung besondere Dringlichkeit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er übt gerade einen Toast für die Hochzeit."
+      },
+      {
+        "id": "b",
+        "text": "Er will seinen ersten Malunterricht vorbereiten."
+      },
+      {
+        "id": "c",
+        "text": "Er hat soeben Toscas nächste Konzerttour gebucht."
+      },
+      {
+        "id": "d",
+        "text": "Er nimmt möglicherweise für immer Abschied."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "„E lucevan le stelle“ steht im dritten Akt von „Tosca“. Die Erinnerung richtet sich auf das Leben, das Cavaradossi zu verlieren droht.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, tosca",
+        "url": "https://operavision.eu/performance/tosca",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Auf der Engelsburg erinnert sich Cavaradossi an die Geliebte und die Sterne. Er erwartet die Hinrichtung. Was verleiht seiner Liebeserinnerung besondere Dringlichkeit? Er nimmt möglicherweise für immer Abschied. „E lucevan le stelle“ steht im dritten Akt von „Tosca“. Die Erinnerung richtet sich auf das Leben, das Cavaradossi zu verlieren droht.",
+        "locator": "optosca, Textstelle 65",
+        "source_sha256": "2e134987f1536ea9555718aedbb7deae8bdc53001d2aa9d48066ba8a56948cf2"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-rigoletto-versteck",
+    "fact_key": "q3.e.rigoletto.versteck",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Der Hofnarr Rigoletto erlebt den zudringlichen Herzog aus nächster Nähe. Weshalb hält er sein eigenes Familienleben vor dem Hof geheim?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er möchte seine Tochter Gilda schützen."
+      },
+      {
+        "id": "b",
+        "text": "Er möchte selbst den Herzogstitel erben."
+      },
+      {
+        "id": "c",
+        "text": "Er möchte Gilda für den Hofchor anwerben."
+      },
+      {
+        "id": "d",
+        "text": "Er möchte seinen Wohnort zum offiziellen Palast machen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Spötter am Hof lebt zuhause als besorgter Vater. Der Gegensatz zwischen beiden Rollen treibt die Handlung voran.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, rigoletto",
+        "url": "https://operavision.eu/performance/rigoletto",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Der Hofnarr Rigoletto erlebt den zudringlichen Herzog aus nächster Nähe. Weshalb hält er sein eigenes Familienleben vor dem Hof geheim? Er möchte seine Tochter Gilda schützen. Der Spötter am Hof lebt zuhause als besorgter Vater. Der Gegensatz zwischen beiden Rollen treibt die Handlung voran.",
+        "locator": "oprigoletto, Textstelle 29",
+        "source_sha256": "af250548b087897266cd92287609b39c9691e9d8f63f745258335b8b044127ac"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-rigoletto-zensur",
+    "fact_key": "q3.e.rigoletto.zensur",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "In Victor Hugos Vorlage missbraucht ein französischer König seine Macht. Für „Rigoletto“ wurde daraus ein Herzog von Mantua. Welches Hindernis umging die Änderung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Verbot italienischer Texte in Frankreich"
+      },
+      {
+        "id": "b",
+        "text": "Den Einspruch der damaligen Zensur"
+      },
+      {
+        "id": "c",
+        "text": "Die fehlende Tenorstimme für eine Königsrolle"
+      },
+      {
+        "id": "d",
+        "text": "Die Kosten einer zweiten Krone allein"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Verdi und sein Librettist verhandelten mit den Zensoren. Schauplatz und Rang des Herrschers gehörten zum ausgehandelten Kompromiss.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, rigoletto",
+        "url": "https://operavision.eu/performance/rigoletto",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "In Victor Hugos Vorlage missbraucht ein französischer König seine Macht. Für „Rigoletto“ wurde daraus ein Herzog von Mantua. Welches Hindernis umging die Änderung? Den Einspruch der damaligen Zensur. Verdi und sein Librettist verhandelten mit den Zensoren. Schauplatz und Rang des Herrschers gehörten zum ausgehandelten Kompromiss.",
+        "locator": "oprigoletto, Textstelle 108",
+        "source_sha256": "af250548b087897266cd92287609b39c9691e9d8f63f745258335b8b044127ac"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-boheme-brennstoff",
+    "fact_key": "q3.e.boheme.brennstoff",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Am Weihnachtsabend frieren Rodolfo und Marcello in „La Bohème“ ohne Brennstoff. Rodolfo ist Dichter. Welches eigene Werk können die beiden zum Heizen opfern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine gegossene Bronzefigur"
+      },
+      {
+        "id": "b",
+        "text": "Ein gemaltes Fresko an der Wand"
+      },
+      {
+        "id": "c",
+        "text": "Das Papiermanuskript seines Theaterstücks"
+      },
+      {
+        "id": "d",
+        "text": "Einen gemeißelten Gedenkstein"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der Text des Dichters landet im Ofen. So zeigt die Oper den Winter und die Armut der Freunde in einer einzigen Handlung.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, la-boheme",
+        "url": "https://operavision.eu/performance/la-boheme",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Am Weihnachtsabend frieren Rodolfo und Marcello in „La Bohème“ ohne Brennstoff. Rodolfo ist Dichter. Welches eigene Werk können die beiden zum Heizen opfern? Das Papiermanuskript seines Theaterstücks. Der Text des Dichters landet im Ofen. So zeigt die Oper den Winter und die Armut der Freunde in einer einzigen Handlung.",
+        "locator": "opla-boheme, Textstelle 77",
+        "source_sha256": "e2cddd12798cbcf1304afa6e20ee4d1ed7a36fcbdf4c39ef47dd6fb1d905c38a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-mimi-schluessel",
+    "fact_key": "q3.e.mimi.schluessel",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Im Dunkeln sucht Mimì ihren Schlüssel. Rodolfo findet ihn, sagt aber nichts und ergreift ihre Hand. Was gewinnt er durch sein Schweigen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Besitz an ihrer Wohnung"
+      },
+      {
+        "id": "b",
+        "text": "Die Vergebung ihrer Mietschulden"
+      },
+      {
+        "id": "c",
+        "text": "Die Erlaubnis für eine Reise nach Italien"
+      },
+      {
+        "id": "d",
+        "text": "Einen weiteren Augenblick mit Mimì"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Schlüsselsuche bringt die beiden Nachbarn zusammen. Rodolfo lässt die Suche weitergehen, obwohl er den Schlüssel schon gefunden hat.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, la-boheme",
+        "url": "https://operavision.eu/performance/la-boheme",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Im Dunkeln sucht Mimì ihren Schlüssel. Rodolfo findet ihn, sagt aber nichts und ergreift ihre Hand. Was gewinnt er durch sein Schweigen? Einen weiteren Augenblick mit Mimì. Die Schlüsselsuche bringt die beiden Nachbarn zusammen. Rodolfo lässt die Suche weitergehen, obwohl er den Schlüssel schon gefunden hat.",
+        "locator": "opla-boheme, Textstelle 78",
+        "source_sha256": "e2cddd12798cbcf1304afa6e20ee4d1ed7a36fcbdf4c39ef47dd6fb1d905c38a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-musetta-schuh",
+    "fact_key": "q3.e.musetta.schuh",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Musetta möchte im Café mit Marcello flirten. Ihr Begleiter soll derweil neue Schuhe besorgen. Was bewirkt dieser Auftrag für die Szene?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er schafft Zeit ohne den Begleiter."
+      },
+      {
+        "id": "b",
+        "text": "Er zwingt Marcello, das Café zu verlassen."
+      },
+      {
+        "id": "c",
+        "text": "Er verlegt den Flirt in eine spätere Oper."
+      },
+      {
+        "id": "d",
+        "text": "Er beendet Musettas Beziehung zu allen Freunden."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Musetta schickt Alcindoro fort. Seine Abwesenheit erleichtert ihr die Annäherung an Marcello.",
+    "tags": [
+      "thema_buehne",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, la-boheme",
+        "url": "https://operavision.eu/performance/la-boheme",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Musetta möchte im Café mit Marcello flirten. Ihr Begleiter soll derweil neue Schuhe besorgen. Was bewirkt dieser Auftrag für die Szene? Er schafft Zeit ohne den Begleiter. Musetta schickt Alcindoro fort. Seine Abwesenheit erleichtert ihr die Annäherung an Marcello.",
+        "locator": "opla-boheme, Textstelle 80",
+        "source_sha256": "e2cddd12798cbcf1304afa6e20ee4d1ed7a36fcbdf4c39ef47dd6fb1d905c38a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-nabucco-ferne",
+    "fact_key": "q3.e.nabucco.ferne",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Im Chor „Va, pensiero“ sind die singenden Menschen in Babylon gefangen. Ihre Gedanken fliegen über die Entfernung hinweg. Welches Gefühl passt zu diesem Bild?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ungeduld vor einem sportlichen Wettkampf"
+      },
+      {
+        "id": "b",
+        "text": "Sehnsucht nach der verlorenen Heimat"
+      },
+      {
+        "id": "c",
+        "text": "Stolz auf die Eroberung eines fremden Landes"
+      },
+      {
+        "id": "d",
+        "text": "Freude über eine geplante Krönung"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Chor aus Verdis „Nabucco“ gibt der gemeinsamen Erinnerung der Verschleppten eine Stimme.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, nabucco",
+        "url": "https://operavision.eu/performance/nabucco",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Im Chor „Va, pensiero“ sind die singenden Menschen in Babylon gefangen. Ihre Gedanken fliegen über die Entfernung hinweg. Welches Gefühl passt zu diesem Bild? Sehnsucht nach der verlorenen Heimat. Der Chor aus Verdis „Nabucco“ gibt der gemeinsamen Erinnerung der Verschleppten eine Stimme.",
+        "locator": "opnabucco, Textstelle 94",
+        "source_sha256": "ef184f26409c9ceb244a02c4fddcd8148773086aa986963c81a5e7903a8a1c35"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-giovanni-register",
+    "fact_key": "q3.e.giovanni.register",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Leporello zeigt Donna Elvira das lange Verzeichnis der Frauen, denen Don Giovanni nachgestellt hat. Welchen Zweifel soll diese Liste wecken?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ob Leporello genügend Reisen bezahlt hat"
+      },
+      {
+        "id": "b",
+        "text": "Ob ein Verwandter die richtige Hochzeitseinladung erhielt"
+      },
+      {
+        "id": "c",
+        "text": "Ob sie seinen Treueschwüren glauben kann"
+      },
+      {
+        "id": "d",
+        "text": "Ob ihr eigener Name richtig geschrieben ist"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Registerarie macht aus vielen einzelnen Eroberungen ein Muster. Leporello hält Don Giovanni für keinen verlässlichen Partner.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, don-giovanni",
+        "url": "https://operavision.eu/performance/don-giovanni",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Leporello zeigt Donna Elvira das lange Verzeichnis der Frauen, denen Don Giovanni nachgestellt hat. Welchen Zweifel soll diese Liste wecken? Ob sie seinen Treueschwüren glauben kann. Die Registerarie macht aus vielen einzelnen Eroberungen ein Muster. Leporello hält Don Giovanni für keinen verlässlichen Partner.",
+        "locator": "opdon-giovanni, Textstelle 70",
+        "source_sha256": "68d80e690b59c9a53eb9b323b301e9294014707b42e1934cbd47042f7df55951"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-giovanni-stein",
+    "fact_key": "q3.e.giovanni.stein",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Don Giovanni wird auf dem Friedhof von einer Stimme gewarnt. Sie kommt aus dem steinernen Abbild des Toten. Welche Grenze überschreitet die Szene?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die zwischen zwei Ländern am selben Fluss"
+      },
+      {
+        "id": "b",
+        "text": "Die zwischen Orchesterprobe und Konzertpause"
+      },
+      {
+        "id": "c",
+        "text": "Die zwischen italienischer und deutscher Sprache"
+      },
+      {
+        "id": "d",
+        "text": "Die zwischen Lebenden und Toten"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Statue des Komturs spricht. Die Begegnung bereitet Don Giovannis übernatürliches Ende vor.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, don-giovanni",
+        "url": "https://operavision.eu/performance/don-giovanni",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Don Giovanni wird auf dem Friedhof von einer Stimme gewarnt. Sie kommt aus dem steinernen Abbild des Toten. Welche Grenze überschreitet die Szene? Die zwischen Lebenden und Toten. Die Statue des Komturs spricht. Die Begegnung bereitet Don Giovannis übernatürliches Ende vor.",
+        "locator": "opdon-giovanni, Textstelle 79",
+        "source_sha256": "68d80e690b59c9a53eb9b323b301e9294014707b42e1934cbd47042f7df55951"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-aida-loyalitaet",
+    "fact_key": "q3.e.aida.loyalitaet",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Aidas Vater führt Äthiopiens Truppen, ihr Geliebter Radamès kämpft für Ägypten. Was macht eine Siegesfeier für Aida so zwiespältig?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Sieg des Geliebten ist eine Niederlage ihres eigenen Volkes."
+      },
+      {
+        "id": "b",
+        "text": "Beide Männer führen dasselbe Heer zum Sieg."
+      },
+      {
+        "id": "c",
+        "text": "Aida kennt weder ihren Vater noch den Geliebten."
+      },
+      {
+        "id": "d",
+        "text": "Sie soll zugleich in beiden Heeren zum Feldherrn gekrönt werden."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Aida lebt in ägyptischer Gefangenschaft. Ihre Bindung an die Heimat und die Liebe zu Radamès geraten in Konflikt.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, aida",
+        "url": "https://operavision.eu/performance/aida",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Aidas Vater führt Äthiopiens Truppen, ihr Geliebter Radamès kämpft für Ägypten. Was macht eine Siegesfeier für Aida so zwiespältig? Der Sieg des Geliebten ist eine Niederlage ihres eigenen Volkes. Aida lebt in ägyptischer Gefangenschaft. Ihre Bindung an die Heimat und die Liebe zu Radamès geraten in Konflikt.",
+        "locator": "opaida, Textstelle 76",
+        "source_sha256": "fee90d3080b2fd7cb4d92604722de41d3bc553fe8d0f17d5d9ed17e73f9f6733"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-aida-zwei-ebenen",
+    "fact_key": "q3.e.aida.zwei.ebenen",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Im Schlussbild von „Aida“ sind Aida und Radamès im verschlossenen Gewölbe, Amneris betet im Tempel darüber. Welche Bühneneinteilung macht das gleichzeitig sichtbar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein einziger ferner Landschaftsprospekt ohne Figuren"
+      },
+      {
+        "id": "b",
+        "text": "Zwei übereinander angeordnete Spielorte"
+      },
+      {
+        "id": "c",
+        "text": "Ein leerer Marktplatz ohne Ebenen"
+      },
+      {
+        "id": "d",
+        "text": "Zwei aufeinanderfolgende Vorhänge ohne Bühnenbild"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Finale setzt die beiden Räume und ihre Figuren zueinander in Beziehung. Das Publikum kann beide Handlungsebenen wahrnehmen.",
+    "tags": [
+      "thema_buehne",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, aida",
+        "url": "https://operavision.eu/performance/aida",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Im Schlussbild von „Aida“ sind Aida und Radamès im verschlossenen Gewölbe, Amneris betet im Tempel darüber. Welche Bühneneinteilung macht das gleichzeitig sichtbar? Zwei übereinander angeordnete Spielorte. Das Finale setzt die beiden Räume und ihre Figuren zueinander in Beziehung. Das Publikum kann beide Handlungsebenen wahrnehmen.",
+        "locator": "opaida, Textstelle 64",
+        "source_sha256": "fee90d3080b2fd7cb4d92604722de41d3bc553fe8d0f17d5d9ed17e73f9f6733"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-fledermaus-maskenball",
+    "fact_key": "q3.e.fledermaus.maskenball",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Rosalinde hat sich vor ihrem Mann verkleidet. Eisenstein umwirbt sie auf dem Maskenball als angebliche Gräfin. Worin besteht für das Publikum der Witz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er verwechselt sie mit einer weiteren anwesenden Verwandten."
+      },
+      {
+        "id": "b",
+        "text": "Er versucht herauszufinden, wen sie am Abend umworben hat."
+      },
+      {
+        "id": "c",
+        "text": "Er flirtet mit der eigenen Frau und erkennt sie nicht."
+      },
+      {
+        "id": "d",
+        "text": "Er kennt ihre Identität und spielt die Unwissenheit nur vor."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Verkleidung lässt Rosalinde ihren Mann beobachten. Die Operette lebt vom Wissensvorsprung des Publikums.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, die-fledermaus",
+        "url": "https://operavision.eu/performance/die-fledermaus",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Rosalinde hat sich vor ihrem Mann verkleidet. Eisenstein umwirbt sie auf dem Maskenball als angebliche Gräfin. Worin besteht für das Publikum der Witz? Er flirtet mit der eigenen Frau und erkennt sie nicht. Die Verkleidung lässt Rosalinde ihren Mann beobachten. Die Operette lebt vom Wissensvorsprung des Publikums.",
+        "locator": "opdie-fledermaus, Textstelle 70",
+        "source_sha256": "b2f4e32f8d93190e062188de0906ce3346ec9339210a2f8e4815524854214d6c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-adele-ausrede",
+    "fact_key": "q3.e.adele.ausrede",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Adele erzählt ihrer Arbeitgeberin von einer kranken Tante und tanzt später beim Ball. Wozu diente die Krankengeschichte in „Die Fledermaus“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie wollte ihrer Schwester eine Einladung verschaffen."
+      },
+      {
+        "id": "b",
+        "text": "Sie wollte den Ort des Balls vor der Tante verbergen."
+      },
+      {
+        "id": "c",
+        "text": "Sie wollte die Arbeitgeberin zu einer frühen Heimkehr bewegen."
+      },
+      {
+        "id": "d",
+        "text": "Sie wollte für den Abend freibekommen."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die erfundene Erkrankung soll ihren Ausgang rechtfertigen. Auf dem Ball kann sie dann in eine andere Rolle schlüpfen.",
+    "tags": [
+      "thema_buehne",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, die-fledermaus",
+        "url": "https://operavision.eu/performance/die-fledermaus",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Adele erzählt ihrer Arbeitgeberin von einer kranken Tante und tanzt später beim Ball. Wozu diente die Krankengeschichte in „Die Fledermaus“? Sie wollte für den Abend freibekommen. Die erfundene Erkrankung soll ihren Ausgang rechtfertigen. Auf dem Ball kann sie dann in eine andere Rolle schlüpfen.",
+        "locator": "opdie-fledermaus, Textstelle 68",
+        "source_sha256": "b2f4e32f8d93190e062188de0906ce3346ec9339210a2f8e4815524854214d6c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-butterfly-hafen",
+    "fact_key": "q3.e.butterfly.hafen",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Pinkerton ist bei der amerikanischen Marine und hat Nagasaki verlassen. Warum verbindet Cio-Cio-San ihre Hoffnung auf Wiederkehr mit dem Blick auf den Hafen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie erwartet seine Rückkehr mit einem Schiff."
+      },
+      {
+        "id": "b",
+        "text": "Sie wartet auf den täglichen Zug aus Tokio."
+      },
+      {
+        "id": "c",
+        "text": "Sie erwartet dort die Eröffnung eines neuen Opernhauses."
+      },
+      {
+        "id": "d",
+        "text": "Sie möchte dort ihren verschwundenen Hausschlüssel zurückerhalten."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In „Madama Butterfly“ stellt sich Cio-Cio-San vor, wie ihr Mann über das Meer zurückkommt.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, madama-butterfly",
+        "url": "https://operavision.eu/performance/madama-butterfly",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Pinkerton ist bei der amerikanischen Marine und hat Nagasaki verlassen. Warum verbindet Cio-Cio-San ihre Hoffnung auf Wiederkehr mit dem Blick auf den Hafen? Sie erwartet seine Rückkehr mit einem Schiff. In „Madama Butterfly“ stellt sich Cio-Cio-San vor, wie ihr Mann über das Meer zurückkommt.",
+        "locator": "opmadama-butterfly, Textstelle 75",
+        "source_sha256": "678356bb28530e577f9dc9566338c7387624c7054564e9b5ca9fede353eb71c5"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-butterfly-jahre",
+    "fact_key": "q3.e.butterfly.jahre",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Die Hochzeit liegt lange zurück, als Pinkerton mit einer anderen Frau wiederkehrt. Welche Wartezeit umfasst die Handlung ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Drei Jahrzehnte"
+      },
+      {
+        "id": "b",
+        "text": "Drei Jahre"
+      },
+      {
+        "id": "c",
+        "text": "Drei Tage"
+      },
+      {
+        "id": "d",
+        "text": "Drei Wochen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Zwischen den Handlungsteilen vergehen drei Jahre. Für Cio-Cio-San ist diese Zeit von Warten und Hoffnung geprägt.",
+    "tags": [
+      "thema_buehne",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, madama-butterfly",
+        "url": "https://operavision.eu/performance/madama-butterfly",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Die Hochzeit liegt lange zurück, als Pinkerton mit einer anderen Frau wiederkehrt. Welche Wartezeit umfasst die Handlung ungefähr? Drei Jahre. Zwischen den Handlungsteilen vergehen drei Jahre. Für Cio-Cio-San ist diese Zeit von Warten und Hoffnung geprägt.",
+        "locator": "opmadama-butterfly, Textstelle 81",
+        "source_sha256": "678356bb28530e577f9dc9566338c7387624c7054564e9b5ca9fede353eb71c5"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-turandot-raetsel",
+    "fact_key": "q3.e.turandot.raetsel",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein Bewerber um Turandots Hand hat Rang und Reichtum, kann aber ihre Rätsel nicht lösen. Was zählt nach der Ankündigung der Prinzessin?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das wertvollste Hochzeitsgeschenk"
+      },
+      {
+        "id": "b",
+        "text": "Die längste Anreise"
+      },
+      {
+        "id": "c",
+        "text": "Die bestandene Rätselprüfung"
+      },
+      {
+        "id": "d",
+        "text": "Der höhere Adelstitel"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Turandot macht die Lösung ihrer Rätsel zur Bedingung. Für die Bewerber steht dabei das Leben auf dem Spiel.",
+    "tags": [
+      "thema_buehne",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, turandot",
+        "url": "https://operavision.eu/performance/turandot",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Ein Bewerber um Turandots Hand hat Rang und Reichtum, kann aber ihre Rätsel nicht lösen. Was zählt nach der Ankündigung der Prinzessin? Die bestandene Rätselprüfung. Turandot macht die Lösung ihrer Rätsel zur Bedingung. Für die Bewerber steht dabei das Leben auf dem Spiel.",
+        "locator": "opturandot, Textstelle 18",
+        "source_sha256": "0942f2c400dc100c51e7cfa3b718ddc45758abb27d7cba2d0ebfb5856e634746"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-orfeo-gott-liebe",
+    "fact_key": "q3.e.orfeo.gott.liebe",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In Glucks „Orfeo ed Euridice“ erscheint dem trauernden Musiker Amore. Welcher Gedanke bekommt mit diesem Namen eine eigene Bühnenfigur?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Vergessen"
+      },
+      {
+        "id": "b",
+        "text": "Der Schlaf"
+      },
+      {
+        "id": "c",
+        "text": "Der Ruhm"
+      },
+      {
+        "id": "d",
+        "text": "Die Liebe"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Amore tritt als personifizierte Liebe auf und bietet Orfeo Hilfe an. Gefühle werden so zu handelnden Figuren der Oper.",
+    "tags": [
+      "thema_buehne",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Opera Europa · OperaVision, orfeo-ed-euridice",
+        "url": "https://operavision.eu/performance/orfeo-ed-euridice",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "In Glucks „Orfeo ed Euridice“ erscheint dem trauernden Musiker Amore. Welcher Gedanke bekommt mit diesem Namen eine eigene Bühnenfigur? Die Liebe. Amore tritt als personifizierte Liebe auf und bietet Orfeo Hilfe an. Gefühle werden so zu handelnden Figuren der Oper.",
+        "locator": "oporfeo-ed-euridice, Textstelle 64",
+        "source_sha256": "dd8bfd039c6c7efb029f7c2161d02b977793a235643736615599a30c309adcdb"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

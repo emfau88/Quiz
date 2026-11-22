@@ -1,0 +1,620 @@
+{
+  "verifiedAt": "2026-11-22T22:53:00.615Z",
+  "urlPath": "/Quiz/spielen.html?v=0.3.0",
+  "rows": [
+    {
+      "label": "webkit-390-1",
+      "engine": "26.5",
+      "device": "iPhone 13",
+      "width": 390,
+      "height": 740,
+      "first": {
+        "clockMs": 6247,
+        "fontStatus": "loaded",
+        "faces": [
+          [
+            "DM Sans",
+            "loaded"
+          ],
+          [
+            "Spectral",
+            "loaded"
+          ]
+        ],
+        "dpr": 3.09375,
+        "viewportWidth": 378,
+        "viewportHeight": 717,
+        "root": {
+          "left": 0,
+          "right": 390.78790283203125,
+          "width": 390.78790283203125,
+          "top": 0,
+          "height": 1464.3636474609375,
+          "scrollWidth": 391,
+          "clientWidth": 379,
+          "offsetWidth": 391
+        },
+        "body": {
+          "left": 0,
+          "right": 390.78790283203125,
+          "width": 390.78790283203125,
+          "top": 0,
+          "height": 1464.3636474609375,
+          "scrollWidth": 391,
+          "clientWidth": 391,
+          "offsetWidth": 391
+        },
+        "scrollbarGutter": "auto",
+        "scrollXBefore": 0,
+        "scrollableX": 12,
+        "view": {
+          "width": 378.18182373046875,
+          "height": 717.5757446289062,
+          "scale": 1,
+          "offsetLeft": 0,
+          "pageLeft": 0
+        },
+        "rightmost": [
+          {
+            "name": "div",
+            "id": "app",
+            "cls": "",
+            "text": "Quizsalon\n\nSONNTAG, 22. NOVEMBER 2026\n\nDie Tages",
+            "left": 0,
+            "right": 390.78790283203125,
+            "width": 390.78790283203125,
+            "top": 0,
+            "height": 1464.3636474609375,
+            "scrollWidth": 391,
+            "clientWidth": 391,
+            "offsetWidth": 391
+          },
+          {
+            "name": "header",
+            "id": "",
+            "cls": "mast",
+            "text": "Quizsalon",
+            "left": 0,
+            "right": 390.78790283203125,
+            "width": 390.78790283203125,
+            "top": 0,
+            "height": 64.90909576416016,
+            "scrollWidth": 391,
+            "clientWidth": 391,
+            "offsetWidth": 391
+          },
+          {
+            "name": "div",
+            "id": "",
+            "cls": "shell mast-inner",
+            "text": "Quizsalon",
+            "left": 12,
+            "right": 378.78790283203125,
+            "width": 366.78790283203125,
+            "top": 0,
+            "height": 62,
+            "scrollWidth": 367,
+            "clientWidth": 367,
+            "offsetWidth": 367
+          },
+          {
+            "name": "button",
+            "id": "",
+            "cls": "settings-button",
+            "text": "",
+            "left": 330.78790283203125,
+            "right": 378.78790283203125,
+            "width": 48,
+            "top": 7,
+            "height": 48,
+            "scrollWidth": 49,
+            "clientWidth": 48,
+            "offsetWidth": 48
+          },
+          {
+            "name": "main",
+            "id": "main",
+            "cls": "shell main",
+            "text": "SONNTAG, 22. NOVEMBER 2026\n\nDie Tagesrunde\nPausi",
+            "left": 12,
+            "right": 378.78790283203125,
+            "width": 366.78790283203125,
+            "top": 64.90909576416016,
+            "height": 1399.45458984375,
+            "scrollWidth": 367,
+            "clientWidth": 367,
+            "offsetWidth": 367
+          }
+        ],
+        "beyondRoot": [
+          {
+            "name": "div",
+            "id": "app",
+            "cls": "",
+            "text": "Quizsalon\n\nSONNTAG, 22. NOVEMBER 2026\n\nDie Tages",
+            "left": 0,
+            "right": 390.78790283203125,
+            "width": 390.78790283203125,
+            "top": 0,
+            "height": 1464.3636474609375,
+            "scrollWidth": 391,
+            "clientWidth": 391,
+            "offsetWidth": 391
+          },
+          {
+            "name": "header",
+            "id": "",
+            "cls": "mast",
+            "text": "Quizsalon",
+            "left": 0,
+            "right": 390.78790283203125,
+            "width": 390.78790283203125,
+            "top": 0,
+            "height": 64.90909576416016,
+            "scrollWidth": 391,
+            "clientWidth": 391,
+            "offsetWidth": 391
+          }
+        ],
+        "title": "Das Sternpaar Bao teilte sich eine Gashülle. Darin verlor der kleinere Stern bei seinen Umläufen Bahnenergie. Welcher Weg führte ihn zum Kern des Riesensterns?"
+      },
+      "settled": {
+        "clockMs": 6697,
+        "fontStatus": "loaded",
+        "faces": [
+          [
+            "DM Sans",
+            "loaded"
+          ],
+          [
+            "Spectral",
+            "loaded"
+          ]
+        ],
+        "dpr": 3.09375,
+        "viewportWidth": 378,
+        "viewportHeight": 717,
+        "root": {
+          "left": 0,
+          "right": 390.78790283203125,
+          "width": 390.78790283203125,
+          "top": 0,
+          "height": 1464.3636474609375,
+          "scrollWidth": 391,
+          "clientWidth": 379,
+          "offsetWidth": 391
+        },
+        "body": {
+          "left": 0,
+          "right": 390.78790283203125,
+          "width": 390.78790283203125,
+          "top": 0,
+          "height": 1464.3636474609375,
+          "scrollWidth": 391,
+          "clientWidth": 391,
+          "offsetWidth": 391
+        },
+        "scrollbarGutter": "auto",
+        "scrollXBefore": 0,
+        "scrollableX": 12,
+        "view": {
+          "width": 378.18182373046875,
+          "height": 717.5757446289062,
+          "scale": 1,
+          "offsetLeft": 0,
+          "pageLeft": 0
+        },
+        "rightmost": [
+          {
+            "name": "div",
+            "id": "app",
+            "cls": "",
+            "text": "Quizsalon\n\nSONNTAG, 22. NOVEMBER 2026\n\nDie Tages",
+            "left": 0,
+            "right": 390.78790283203125,
+            "width": 390.78790283203125,
+            "top": 0,
+            "height": 1464.3636474609375,
+            "scrollWidth": 391,
+            "clientWidth": 391,
+            "offsetWidth": 391
+          },
+          {
+            "name": "header",
+            "id": "",
+            "cls": "mast",
+            "text": "Quizsalon",
+            "left": 0,
+            "right": 390.78790283203125,
+            "width": 390.78790283203125,
+            "top": 0,
+            "height": 64.90909576416016,
+            "scrollWidth": 391,
+            "clientWidth": 391,
+            "offsetWidth": 391
+          },
+          {
+            "name": "div",
+            "id": "",
+            "cls": "shell mast-inner",
+            "text": "Quizsalon",
+            "left": 12,
+            "right": 378.78790283203125,
+            "width": 366.78790283203125,
+            "top": 0,
+            "height": 62,
+            "scrollWidth": 367,
+            "clientWidth": 367,
+            "offsetWidth": 367
+          },
+          {
+            "name": "button",
+            "id": "",
+            "cls": "settings-button",
+            "text": "",
+            "left": 330.78790283203125,
+            "right": 378.78790283203125,
+            "width": 48,
+            "top": 7,
+            "height": 48,
+            "scrollWidth": 49,
+            "clientWidth": 48,
+            "offsetWidth": 48
+          },
+          {
+            "name": "main",
+            "id": "main",
+            "cls": "shell main",
+            "text": "SONNTAG, 22. NOVEMBER 2026\n\nDie Tagesrunde\nPausi",
+            "left": 12,
+            "right": 378.78790283203125,
+            "width": 366.78790283203125,
+            "top": 64.90909576416016,
+            "height": 1399.45458984375,
+            "scrollWidth": 367,
+            "clientWidth": 367,
+            "offsetWidth": 367
+          }
+        ],
+        "beyondRoot": [
+          {
+            "name": "div",
+            "id": "app",
+            "cls": "",
+            "text": "Quizsalon\n\nSONNTAG, 22. NOVEMBER 2026\n\nDie Tages",
+            "left": 0,
+            "right": 390.78790283203125,
+            "width": 390.78790283203125,
+            "top": 0,
+            "height": 1464.3636474609375,
+            "scrollWidth": 391,
+            "clientWidth": 391,
+            "offsetWidth": 391
+          },
+          {
+            "name": "header",
+            "id": "",
+            "cls": "mast",
+            "text": "Quizsalon",
+            "left": 0,
+            "right": 390.78790283203125,
+            "width": 390.78790283203125,
+            "top": 0,
+            "height": 64.90909576416016,
+            "scrollWidth": 391,
+            "clientWidth": 391,
+            "offsetWidth": 391
+          }
+        ],
+        "title": "Das Sternpaar Bao teilte sich eine Gashülle. Darin verlor der kleinere Stern bei seinen Umläufen Bahnenergie. Welcher Weg führte ihn zum Kern des Riesensterns?"
+      }
+    },
+    {
+      "label": "webkit-390-2",
+      "engine": "26.5",
+      "device": "iPhone 13",
+      "width": 390,
+      "height": 740,
+      "first": {
+        "clockMs": 3085,
+        "fontStatus": "loaded",
+        "faces": [
+          [
+            "DM Sans",
+            "loaded"
+          ],
+          [
+            "Spectral",
+            "loaded"
+          ]
+        ],
+        "dpr": 3.09375,
+        "viewportWidth": 378,
+        "viewportHeight": 717,
+        "root": {
+          "left": 0,
+          "right": 390.78790283203125,
+          "width": 390.78790283203125,
+          "top": 0,
+          "height": 1441.727294921875,
+          "scrollWidth": 391,
+          "clientWidth": 379,
+          "offsetWidth": 391
+        },
+        "body": {
+          "left": 0,
+          "right": 390.78790283203125,
+          "width": 390.78790283203125,
+          "top": 0,
+          "height": 1441.727294921875,
+          "scrollWidth": 391,
+          "clientWidth": 391,
+          "offsetWidth": 391
+        },
+        "scrollbarGutter": "auto",
+        "scrollXBefore": 0,
+        "scrollableX": 12,
+        "view": {
+          "width": 378.18182373046875,
+          "height": 717.5757446289062,
+          "scale": 1,
+          "offsetLeft": 0,
+          "pageLeft": 0
+        },
+        "rightmost": [
+          {
+            "name": "div",
+            "id": "app",
+            "cls": "",
+            "text": "Quizsalon\n\nSONNTAG, 22. NOVEMBER 2026\n\nDie Tages",
+            "left": 0,
+            "right": 390.78790283203125,
+            "width": 390.78790283203125,
+            "top": 0,
+            "height": 1441.727294921875,
+            "scrollWidth": 391,
+            "clientWidth": 391,
+            "offsetWidth": 391
+          },
+          {
+            "name": "header",
+            "id": "",
+            "cls": "mast",
+            "text": "Quizsalon",
+            "left": 0,
+            "right": 390.78790283203125,
+            "width": 390.78790283203125,
+            "top": 0,
+            "height": 64.90909576416016,
+            "scrollWidth": 391,
+            "clientWidth": 391,
+            "offsetWidth": 391
+          },
+          {
+            "name": "div",
+            "id": "",
+            "cls": "shell mast-inner",
+            "text": "Quizsalon",
+            "left": 12,
+            "right": 378.78790283203125,
+            "width": 366.78790283203125,
+            "top": 0,
+            "height": 62,
+            "scrollWidth": 367,
+            "clientWidth": 367,
+            "offsetWidth": 367
+          },
+          {
+            "name": "button",
+            "id": "",
+            "cls": "settings-button",
+            "text": "",
+            "left": 330.78790283203125,
+            "right": 378.78790283203125,
+            "width": 48,
+            "top": 7,
+            "height": 48,
+            "scrollWidth": 49,
+            "clientWidth": 48,
+            "offsetWidth": 48
+          },
+          {
+            "name": "main",
+            "id": "main",
+            "cls": "shell main",
+            "text": "SONNTAG, 22. NOVEMBER 2026\n\nDie Tagesrunde\nPausi",
+            "left": 12,
+            "right": 378.78790283203125,
+            "width": 366.78790283203125,
+            "top": 64.90909576416016,
+            "height": 1376.8182373046875,
+            "scrollWidth": 367,
+            "clientWidth": 367,
+            "offsetWidth": 367
+          }
+        ],
+        "beyondRoot": [
+          {
+            "name": "div",
+            "id": "app",
+            "cls": "",
+            "text": "Quizsalon\n\nSONNTAG, 22. NOVEMBER 2026\n\nDie Tages",
+            "left": 0,
+            "right": 390.78790283203125,
+            "width": 390.78790283203125,
+            "top": 0,
+            "height": 1441.727294921875,
+            "scrollWidth": 391,
+            "clientWidth": 391,
+            "offsetWidth": 391
+          },
+          {
+            "name": "header",
+            "id": "",
+            "cls": "mast",
+            "text": "Quizsalon",
+            "left": 0,
+            "right": 390.78790283203125,
+            "width": 390.78790283203125,
+            "top": 0,
+            "height": 64.90909576416016,
+            "scrollWidth": 391,
+            "clientWidth": 391,
+            "offsetWidth": 391
+          }
+        ],
+        "title": "Wer 1894 ins Kinetoskop schaute, musste sich über ein kleines Guckloch beugen. Was unterschied diesen Filmbesuch vom späteren gemeinsamen Kinosaal?"
+      },
+      "settled": {
+        "clockMs": 3747,
+        "fontStatus": "loaded",
+        "faces": [
+          [
+            "DM Sans",
+            "loaded"
+          ],
+          [
+            "Spectral",
+            "loaded"
+          ]
+        ],
+        "dpr": 3.09375,
+        "viewportWidth": 378,
+        "viewportHeight": 717,
+        "root": {
+          "left": 0,
+          "right": 390.78790283203125,
+          "width": 390.78790283203125,
+          "top": 0,
+          "height": 1441.727294921875,
+          "scrollWidth": 391,
+          "clientWidth": 379,
+          "offsetWidth": 391
+        },
+        "body": {
+          "left": 0,
+          "right": 390.78790283203125,
+          "width": 390.78790283203125,
+          "top": 0,
+          "height": 1441.727294921875,
+          "scrollWidth": 391,
+          "clientWidth": 391,
+          "offsetWidth": 391
+        },
+        "scrollbarGutter": "auto",
+        "scrollXBefore": 0,
+        "scrollableX": 12,
+        "view": {
+          "width": 378.18182373046875,
+          "height": 717.5757446289062,
+          "scale": 1,
+          "offsetLeft": 0,
+          "pageLeft": 0
+        },
+        "rightmost": [
+          {
+            "name": "div",
+            "id": "app",
+            "cls": "",
+            "text": "Quizsalon\n\nSONNTAG, 22. NOVEMBER 2026\n\nDie Tages",
+            "left": 0,
+            "right": 390.78790283203125,
+            "width": 390.78790283203125,
+            "top": 0,
+            "height": 1441.727294921875,
+            "scrollWidth": 391,
+            "clientWidth": 391,
+            "offsetWidth": 391
+          },
+          {
+            "name": "header",
+            "id": "",
+            "cls": "mast",
+            "text": "Quizsalon",
+            "left": 0,
+            "right": 390.78790283203125,
+            "width": 390.78790283203125,
+            "top": 0,
+            "height": 64.90909576416016,
+            "scrollWidth": 391,
+            "clientWidth": 391,
+            "offsetWidth": 391
+          },
+          {
+            "name": "div",
+            "id": "",
+            "cls": "shell mast-inner",
+            "text": "Quizsalon",
+            "left": 12,
+            "right": 378.78790283203125,
+            "width": 366.78790283203125,
+            "top": 0,
+            "height": 62,
+            "scrollWidth": 367,
+            "clientWidth": 367,
+            "offsetWidth": 367
+          },
+          {
+            "name": "button",
+            "id": "",
+            "cls": "settings-button",
+            "text": "",
+            "left": 330.78790283203125,
+            "right": 378.78790283203125,
+            "width": 48,
+            "top": 7,
+            "height": 48,
+            "scrollWidth": 49,
+            "clientWidth": 48,
+            "offsetWidth": 48
+          },
+          {
+            "name": "main",
+            "id": "main",
+            "cls": "shell main",
+            "text": "SONNTAG, 22. NOVEMBER 2026\n\nDie Tagesrunde\nPausi",
+            "left": 12,
+            "right": 378.78790283203125,
+            "width": 366.78790283203125,
+            "top": 64.90909576416016,
+            "height": 1376.8182373046875,
+            "scrollWidth": 367,
+            "clientWidth": 367,
+            "offsetWidth": 367
+          }
+        ],
+        "beyondRoot": [
+          {
+            "name": "div",
+            "id": "app",
+            "cls": "",
+            "text": "Quizsalon\n\nSONNTAG, 22. NOVEMBER 2026\n\nDie Tages",
+            "left": 0,
+            "right": 390.78790283203125,
+            "width": 390.78790283203125,
+            "top": 0,
+            "height": 1441.727294921875,
+            "scrollWidth": 391,
+            "clientWidth": 391,
+            "offsetWidth": 391
+          },
+          {
+            "name": "header",
+            "id": "",
+            "cls": "mast",
+            "text": "Quizsalon",
+            "left": 0,
+            "right": 390.78790283203125,
+            "width": 390.78790283203125,
+            "top": 0,
+            "height": 64.90909576416016,
+            "scrollWidth": 391,
+            "clientWidth": 391,
+            "offsetWidth": 391
+          }
+        ],
+        "title": "Wer 1894 ins Kinetoskop schaute, musste sich über ein kleines Guckloch beugen. Was unterschied diesen Filmbesuch vom späteren gemeinsamen Kinosaal?"
+      }
+    }
+  ]
+}

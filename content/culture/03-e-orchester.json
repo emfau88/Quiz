@@ -1,0 +1,1936 @@
+[
+  {
+    "id": "q3-e-geigen-pult",
+    "fact_key": "q3.e.geigen.pult",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Bei einem großen Orchester sitzen etwa 16 erste und 14 zweite Geigen zu zweit am Notenpult. Wie viele Pulte brauchen beide Gruppen zusammen ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "15"
+      },
+      {
+        "id": "b",
+        "text": "8"
+      },
+      {
+        "id": "c",
+        "text": "30"
+      },
+      {
+        "id": "d",
+        "text": "60"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Rund 30 Geiger teilen sich die Noten zu zweit. Die beiden Gruppen spielen unterschiedliche Stimmen.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · violin",
+        "url": "https://philharmonia.co.uk/resources/instruments/violin/",
+        "checked_at": "2026-11-22T21:29:30+00:00",
+        "verified_claim": "Bei einem großen Orchester sitzen etwa 16 erste und 14 zweite Geigen zu zweit am Notenpult. Wie viele Pulte brauchen beide Gruppen zusammen ungefähr? 15. Rund 30 Geiger teilen sich die Noten zu zweit. Die beiden Gruppen spielen unterschiedliche Stimmen.",
+        "locator": "p-violin, Textstelle 106",
+        "source_sha256": "3d51aad47b76c8aae37c2294bfc64dbbd76ea137f9cfbe7f1e17a093b1f3129b"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:30+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-bratsche-tiefer",
+    "fact_key": "q3.e.bratsche.tiefer",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine Musikerin hält ein Instrument wie eine Geige unter dem Kinn. Es ist aber größer und klingt in der Tiefe dunkler. Welches passt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Violoncello"
+      },
+      {
+        "id": "b",
+        "text": "Die Bratsche"
+      },
+      {
+        "id": "c",
+        "text": "Die Piccoloflöte"
+      },
+      {
+        "id": "d",
+        "text": "Die Mandoline"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Bratsche ist die Altstimme der Streicher. Ihre tiefste Saite reicht eine Quinte unter die tiefste Geigensaite.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · viola",
+        "url": "https://philharmonia.co.uk/resources/instruments/viola/",
+        "checked_at": "2026-11-22T21:29:30+00:00",
+        "verified_claim": "Eine Musikerin hält ein Instrument wie eine Geige unter dem Kinn. Es ist aber größer und klingt in der Tiefe dunkler. Welches passt? Die Bratsche. Die Bratsche ist die Altstimme der Streicher. Ihre tiefste Saite reicht eine Quinte unter die tiefste Geigensaite.",
+        "locator": "p-viola, Textstelle 96",
+        "source_sha256": "edf9bc37b1e7fc4af02741bd27c448b815824aba02363fff52e2b733b2e0f139"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:30+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-bratsche-c-saite",
+    "fact_key": "q3.e.bratsche.c.saite",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Über einer Bratschenstimme steht „sul C“. Die Passage ließe sich bequemer auf einer anderen Saite spielen. Was soll die Spielerin tun?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Ton C mehrfach wiederholen"
+      },
+      {
+        "id": "b",
+        "text": "Die C-Saite zusätzlich stimmen"
+      },
+      {
+        "id": "c",
+        "text": "Auf der C-Saite bleiben"
+      },
+      {
+        "id": "d",
+        "text": "Den Bogen am Frosch halten"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der vorgeschriebene Fingersatz dient hier der Klangfarbe. Die tiefe C-Saite klingt dunkler als eine höhere Saite.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · viola",
+        "url": "https://philharmonia.co.uk/resources/instruments/viola/",
+        "checked_at": "2026-11-22T21:29:30+00:00",
+        "verified_claim": "Über einer Bratschenstimme steht „sul C“. Die Passage ließe sich bequemer auf einer anderen Saite spielen. Was soll die Spielerin tun? Auf der C-Saite bleiben. Der vorgeschriebene Fingersatz dient hier der Klangfarbe. Die tiefe C-Saite klingt dunkler als eine höhere Saite.",
+        "locator": "p-viola, Textstelle 106",
+        "source_sha256": "edf9bc37b1e7fc4af02741bd27c448b815824aba02363fff52e2b733b2e0f139"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:30+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-cello-register",
+    "fact_key": "q3.e.cello.register",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Im Streichquartett sollen Bratsche und Cello dieselbe Melodie in verschiedener Höhe spielen. Welche Möglichkeit bietet das Cello im tiefen Register?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es reicht nur so tief wie die erste Geige."
+      },
+      {
+        "id": "b",
+        "text": "Sein tiefster Ton ist höher als der der Bratsche."
+      },
+      {
+        "id": "c",
+        "text": "Es hat in der Tiefe nur einen einzigen Ton."
+      },
+      {
+        "id": "d",
+        "text": "Es reicht eine Oktave tiefer als die Bratsche."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Das Cello übernimmt häufig die Tenorstimme. Seine Saiten liegen eine Oktave unter den entsprechenden Bratschensaiten.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · cello",
+        "url": "https://philharmonia.co.uk/resources/instruments/cello/",
+        "checked_at": "2026-11-22T21:29:30+00:00",
+        "verified_claim": "Im Streichquartett sollen Bratsche und Cello dieselbe Melodie in verschiedener Höhe spielen. Welche Möglichkeit bietet das Cello im tiefen Register? Es reicht eine Oktave tiefer als die Bratsche. Das Cello übernimmt häufig die Tenorstimme. Seine Saiten liegen eine Oktave unter den entsprechenden Bratschensaiten.",
+        "locator": "p-cello, Textstelle 99",
+        "source_sha256": "68871431c29087c1a64f26cf4bac6a63364cee10a941983e452aaf1cf4a5a93a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:30+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-bass-fundament",
+    "fact_key": "q3.e.bass.fundament",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Hinter den Geigen stehen sehr große Streichinstrumente. Welche Aufgabe übernehmen ihre tiefen Töne häufig für das gesamte Orchester?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie geben den Harmonien ein Fundament."
+      },
+      {
+        "id": "b",
+        "text": "Sie führen immer die höchste Melodie."
+      },
+      {
+        "id": "c",
+        "text": "Sie ersetzen das Zählen der Takte."
+      },
+      {
+        "id": "d",
+        "text": "Sie setzen für alle Instrumente die Lautstärke fest."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Kontrabässe stützen Harmonie und Rhythmus. Gelegentlich treten sie mit einer eigenen Melodie hervor.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · double-bass",
+        "url": "https://philharmonia.co.uk/resources/instruments/double-bass/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Hinter den Geigen stehen sehr große Streichinstrumente. Welche Aufgabe übernehmen ihre tiefen Töne häufig für das gesamte Orchester? Sie geben den Harmonien ein Fundament. Die Kontrabässe stützen Harmonie und Rhythmus. Gelegentlich treten sie mit einer eigenen Melodie hervor.",
+        "locator": "p-double-bass, Textstelle 96",
+        "source_sha256": "b9163fd043e33a5f518b45f0155dc5977a3397fc6cc6c265601f53a8c0b622d8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-floete-material",
+    "fact_key": "q3.e.floete.material",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine glänzende Querflöte sitzt im Orchester bei den Holzbläsern. Warum lässt sich die Gruppe an der Farbe des Materials schlecht erkennen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur das Mundstück besteht grundsätzlich aus Holz."
+      },
+      {
+        "id": "b",
+        "text": "Frühe Querflöten bestanden oft aus Holz."
+      },
+      {
+        "id": "c",
+        "text": "Silberfarbene Instrumente gehören stets zum Schlagwerk."
+      },
+      {
+        "id": "d",
+        "text": "Querflöten aus Metall haben immer ein Rohrblatt."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Viele moderne Konzertflöten bestehen aus Metall. Ihre hölzernen Vorgänger und die Spielweise erklären die Einordnung als Holzblasinstrument.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · flute",
+        "url": "https://philharmonia.co.uk/resources/instruments/flute/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Eine glänzende Querflöte sitzt im Orchester bei den Holzbläsern. Warum lässt sich die Gruppe an der Farbe des Materials schlecht erkennen? Frühe Querflöten bestanden oft aus Holz. Viele moderne Konzertflöten bestehen aus Metall. Ihre hölzernen Vorgänger und die Spielweise erklären die Einordnung als Holzblasinstrument.",
+        "locator": "p-flute, Textstelle 96",
+        "source_sha256": "49ed010237fca945e9cc62c30927709b8acb9edc1ac52c644153fc208191172a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-floeten-klappen",
+    "fact_key": "q3.e.floeten.klappen",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Im 19. Jahrhundert erleichterte ein System mit Klappen und Polstern komplizierte Läufe auf der Querflöte. Was leisten diese Teile?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie bringen Saiten zum Mitschwingen."
+      },
+      {
+        "id": "b",
+        "text": "Sie wandeln die Töne in elektrische Signale um."
+      },
+      {
+        "id": "c",
+        "text": "Sie öffnen und schließen die Tonlöcher."
+      },
+      {
+        "id": "d",
+        "text": "Sie lassen das Anblasen entfallen."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das Böhm-System erleichterte die Griffe. Mit den Fingern lassen sich damit auch weiter entfernte Tonlöcher bedienen.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · flute",
+        "url": "https://philharmonia.co.uk/resources/instruments/flute/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Im 19. Jahrhundert erleichterte ein System mit Klappen und Polstern komplizierte Läufe auf der Querflöte. Was leisten diese Teile? Sie öffnen und schließen die Tonlöcher. Das Böhm-System erleichterte die Griffe. Mit den Fingern lassen sich damit auch weiter entfernte Tonlöcher bedienen.",
+        "locator": "p-flute, Textstelle 95",
+        "source_sha256": "49ed010237fca945e9cc62c30927709b8acb9edc1ac52c644153fc208191172a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-piccolo-oktave",
+    "fact_key": "q3.e.piccolo.oktave",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Flöte und Piccoloflöte erhalten im Orchester dieselben geschriebenen Noten. Was hört man bei üblicher Notation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Piccolo klingt eine Oktave tiefer."
+      },
+      {
+        "id": "b",
+        "text": "Die beiden klingen genau gleich hoch."
+      },
+      {
+        "id": "c",
+        "text": "Das Piccolo spielt jeden zweiten Ton doppelt."
+      },
+      {
+        "id": "d",
+        "text": "Das Piccolo klingt eine Oktave höher."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die gewöhnliche Konzertflöte klingt wie notiert. Beim Piccolo liegt der gehörte Ton eine Oktave darüber.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · flute",
+        "url": "https://philharmonia.co.uk/resources/instruments/flute/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Flöte und Piccoloflöte erhalten im Orchester dieselben geschriebenen Noten. Was hört man bei üblicher Notation? Das Piccolo klingt eine Oktave höher. Die gewöhnliche Konzertflöte klingt wie notiert. Beim Piccolo liegt der gehörte Ton eine Oktave darüber.",
+        "locator": "p-flute, Textstelle 104",
+        "source_sha256": "49ed010237fca945e9cc62c30927709b8acb9edc1ac52c644153fc208191172a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-oboe-englischhorn",
+    "fact_key": "q3.e.oboe.englischhorn",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein Englischhorn klingt der Oboe ähnlich. Was haben beide gemeinsam, auch wenn der Name „Horn“ an Blechbläser denken lässt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Doppelrohrblatt am Mundstück"
+      },
+      {
+        "id": "b",
+        "text": "Einen Kessel aus Kupfer"
+      },
+      {
+        "id": "c",
+        "text": "Einen ausziehbaren Posaunenzug"
+      },
+      {
+        "id": "d",
+        "text": "Ein Mundstück mit einer einzelnen Metallzunge"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Oboe und Englischhorn gehören zur selben Holzbläserfamilie. Zwei dünne Blätter schwingen gegeneinander.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · oboe",
+        "url": "https://philharmonia.co.uk/resources/instruments/oboe/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Ein Englischhorn klingt der Oboe ähnlich. Was haben beide gemeinsam, auch wenn der Name „Horn“ an Blechbläser denken lässt? Ein Doppelrohrblatt am Mundstück. Oboe und Englischhorn gehören zur selben Holzbläserfamilie. Zwei dünne Blätter schwingen gegeneinander.",
+        "locator": "p-oboe, Textstelle 94",
+        "source_sha256": "dc98b18e243212e1a4ea3e9d1baa6834ebcf2ac48b95a632d5c1993acca8f230"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-englischhorn-form",
+    "fact_key": "q3.e.englischhorn.form",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Zwei Holzbläser liegen nebeneinander. Welches Merkmal spricht besonders für das Englischhorn und hilft bei der Unterscheidung von der Oboe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine waagerechte Anblaskante"
+      },
+      {
+        "id": "b",
+        "text": "Ein birnenförmiges Schallstück"
+      },
+      {
+        "id": "c",
+        "text": "Ein langer gerader Posaunenzug"
+      },
+      {
+        "id": "d",
+        "text": "Ein breiter Trichter wie bei einer Tuba"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Englischhorn ist größer als eine Oboe. Sein auffällig rundes Schallstück und sein tieferer Klang unterscheiden die beiden.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · cor-anglais",
+        "url": "https://philharmonia.co.uk/resources/instruments/cor-anglais/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Zwei Holzbläser liegen nebeneinander. Welches Merkmal spricht besonders für das Englischhorn und hilft bei der Unterscheidung von der Oboe? Ein birnenförmiges Schallstück. Das Englischhorn ist größer als eine Oboe. Sein auffällig rundes Schallstück und sein tieferer Klang unterscheiden die beiden.",
+        "locator": "p-cor-anglais, Textstelle 92",
+        "source_sha256": "93843bc37f668d1badf8d8c7d79656c51cbe0a4070d85032e06022ec1b3a8464"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-oboe-orchesterzeit",
+    "fact_key": "q3.e.oboe.orchesterzeit",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Die Oboe war schon lange vor dem elektrischen Radio im Orchester zu hören. In welcher Größenordnung liegt ihre dortige Geschichte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Knapp hundert Jahre"
+      },
+      {
+        "id": "b",
+        "text": "Mehrere Jahrtausende"
+      },
+      {
+        "id": "c",
+        "text": "Mehrere Jahrhunderte"
+      },
+      {
+        "id": "d",
+        "text": "Etwa fünfzig Jahre"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das Philharmonia Orchestra veranschlagt ungefähr vier Jahrhunderte. Vorformen von Rohrblattinstrumenten gab es schon lange zuvor.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · oboe",
+        "url": "https://philharmonia.co.uk/resources/instruments/oboe/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Die Oboe war schon lange vor dem elektrischen Radio im Orchester zu hören. In welcher Größenordnung liegt ihre dortige Geschichte? Mehrere Jahrhunderte. Das Philharmonia Orchestra veranschlagt ungefähr vier Jahrhunderte. Vorformen von Rohrblattinstrumenten gab es schon lange zuvor.",
+        "locator": "p-oboe, Textstelle 94",
+        "source_sha256": "dc98b18e243212e1a4ea3e9d1baa6834ebcf2ac48b95a632d5c1993acca8f230"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-kontrafagott-faltung",
+    "fact_key": "q3.e.kontrafagott.faltung",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Ein Kontrafagott klingt sehr tief, lässt sich aber noch auf einer Bühne spielen. Wie passt die dafür nötige lange Luftsäule in das Instrument?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Spieler verlängert das Rohr beim Ausatmen."
+      },
+      {
+        "id": "b",
+        "text": "Ein Lautsprecher erzeugt die ganze Basslage."
+      },
+      {
+        "id": "c",
+        "text": "Das Rohr läuft unter dem Bühnenboden weiter."
+      },
+      {
+        "id": "d",
+        "text": "Sein Rohr ist mehrfach zurückgebogen."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Das Rohr des Kontrafagotts kehrt mehrfach um. So passt seine große Länge in ein handhabbares Instrument.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · contrabassoon",
+        "url": "https://philharmonia.co.uk/resources/instruments/contrabassoon/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Ein Kontrafagott klingt sehr tief, lässt sich aber noch auf einer Bühne spielen. Wie passt die dafür nötige lange Luftsäule in das Instrument? Sein Rohr ist mehrfach zurückgebogen. Das Rohr des Kontrafagotts kehrt mehrfach um. So passt seine große Länge in ein handhabbares Instrument.",
+        "locator": "p-contrabassoon, Textstelle 93",
+        "source_sha256": "e7920565a6d83dc499e90af468b8d50108e74cdd874d24031f92d41254ba1e05"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-fagott-oktave",
+    "fact_key": "q3.e.fagott.oktave",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Ein Komponist will einen Fagottpart mit dem tieferen Instrument derselben Familie verstärken. Welches verlangt er dafür?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kontrafagott"
+      },
+      {
+        "id": "b",
+        "text": "Englischhorn"
+      },
+      {
+        "id": "c",
+        "text": "Bassposaune"
+      },
+      {
+        "id": "d",
+        "text": "Bassklarinette"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Kontrafagott klingt eine Oktave unter dem gewöhnlichen Fagott. Seine tiefen Töne können die Basslinie verstärken.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · bassoon",
+        "url": "https://philharmonia.co.uk/resources/instruments/bassoon/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Ein Komponist will einen Fagottpart mit dem tieferen Instrument derselben Familie verstärken. Welches verlangt er dafür? Kontrafagott. Das Kontrafagott klingt eine Oktave unter dem gewöhnlichen Fagott. Seine tiefen Töne können die Basslinie verstärken.",
+        "locator": "p-bassoon, Textstelle 99",
+        "source_sha256": "79982595561ff8b7d2ced490ef033557648eb200a451a71d4805c1f28479e09a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-saxophon-rohrblatt",
+    "fact_key": "q3.e.saxophon.rohrblatt",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Das Saxofon glänzt wie eine Trompete. Weshalb spielt es trotzdem bei den Holzbläsern mit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Trichter trägt eine Holzklappe zum Anblasen."
+      },
+      {
+        "id": "b",
+        "text": "Ein Rohrblatt schwingt am Mundstück."
+      },
+      {
+        "id": "c",
+        "text": "Ein hölzerner Becher verstärkt den Ton."
+      },
+      {
+        "id": "d",
+        "text": "Innen verlaufen vier gespannte Saiten."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Korpus ist meist aus Messing. Für die Klangerzeugung ist das einzelne Rohrblatt entscheidend.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · saxophone",
+        "url": "https://philharmonia.co.uk/resources/instruments/saxophone/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Das Saxofon glänzt wie eine Trompete. Weshalb spielt es trotzdem bei den Holzbläsern mit? Ein Rohrblatt schwingt am Mundstück. Der Korpus ist meist aus Messing. Für die Klangerzeugung ist das einzelne Rohrblatt entscheidend.",
+        "locator": "p-saxophone, Textstelle 97",
+        "source_sha256": "eb21b954af50627540573856d1312b294bfb1ba264160090629f7ff5787e1a1e"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-saxophon-baker",
+    "fact_key": "q3.e.saxophon.baker",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Wer die markante Melodie aus „Baker Street“ nachspielen will, braucht einen rauen Bläserklang mit Rohrblatt. Welches Instrument trifft das Original?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Posaune"
+      },
+      {
+        "id": "b",
+        "text": "Querflöte"
+      },
+      {
+        "id": "c",
+        "text": "Saxofon"
+      },
+      {
+        "id": "d",
+        "text": "Trompete"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das Saxofon prägt den Klang des Hits aus den 1970er-Jahren. Dasselbe Instrument kann auch weiche Big-Band-Melodien spielen.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · saxophone",
+        "url": "https://philharmonia.co.uk/resources/instruments/saxophone/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Wer die markante Melodie aus „Baker Street“ nachspielen will, braucht einen rauen Bläserklang mit Rohrblatt. Welches Instrument trifft das Original? Saxofon. Das Saxofon prägt den Klang des Hits aus den 1970er-Jahren. Dasselbe Instrument kann auch weiche Big-Band-Melodien spielen.",
+        "locator": "p-saxophone, Textstelle 92",
+        "source_sha256": "eb21b954af50627540573856d1312b294bfb1ba264160090629f7ff5787e1a1e"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-trompete-daempfer",
+    "fact_key": "q3.e.trompete.daempfer",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine Trompete soll in einer zarten Orchesterpassage weicher klingen. Welches Hilfsmittel kann die Musikerin dafür einsetzen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein weiteres Ventil im Mundrohr"
+      },
+      {
+        "id": "b",
+        "text": "Einen verlängerten Stimmzug für tiefere Stimmung"
+      },
+      {
+        "id": "c",
+        "text": "Einen zweiten Schallbecher in größerer Form"
+      },
+      {
+        "id": "d",
+        "text": "Einen Dämpfer im Schallbecher"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Ein Dämpfer verändert die Klangfarbe der Trompete. Schostakowitsch ließ eine gedämpfte Trompete und eine Oboe melodisch aufeinander antworten.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · trumpet",
+        "url": "https://philharmonia.co.uk/resources/instruments/trumpet/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Eine Trompete soll in einer zarten Orchesterpassage weicher klingen. Welches Hilfsmittel kann die Musikerin dafür einsetzen? Einen Dämpfer im Schallbecher. Ein Dämpfer verändert die Klangfarbe der Trompete. Schostakowitsch ließ eine gedämpfte Trompete und eine Oboe melodisch aufeinander antworten.",
+        "locator": "p-trumpet, Textstelle 94",
+        "source_sha256": "4510d8a0a3e71d14d6faf559c19d6de90f45753086a477cdde7afcd1b6e64497"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-posaune-rutsche",
+    "fact_key": "q3.e.posaune.rutsche",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Im Zeichentrickfilm gleitet ein Ton komisch abwärts, ohne hörbare Stufen. Welches Blechblasinstrument kann das mit seinem Zug besonders gut?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Posaune"
+      },
+      {
+        "id": "b",
+        "text": "Das Waldhorn"
+      },
+      {
+        "id": "c",
+        "text": "Die Ventiltrompete"
+      },
+      {
+        "id": "d",
+        "text": "Das Flügelhorn"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Glissando verschiebt der Spieler den Zug. Das Rohr wird länger oder kürzer und der Ton gleitet mit.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · trombone",
+        "url": "https://philharmonia.co.uk/resources/instruments/trombone/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Im Zeichentrickfilm gleitet ein Ton komisch abwärts, ohne hörbare Stufen. Welches Blechblasinstrument kann das mit seinem Zug besonders gut? Die Posaune. Beim Glissando verschiebt der Spieler den Zug. Das Rohr wird länger oder kürzer und der Ton gleitet mit.",
+        "locator": "p-trombone, Textstelle 97",
+        "source_sha256": "f77843aa84138d1b595c7d99f75cb9c8896797581d007c085142a6d99a9d17f3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-posaune-kirche",
+    "fact_key": "q3.e.posaune.kirche",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Heute sitzt die Posaune oft im großen Sinfonieorchester. In welcher Umgebung war sie in der Renaissance bereits für feine, leise Musik geschätzt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In der modernen Big Band"
+      },
+      {
+        "id": "b",
+        "text": "Beim Gottesdienst"
+      },
+      {
+        "id": "c",
+        "text": "Im Tonfilmstudio"
+      },
+      {
+        "id": "d",
+        "text": "Im Rundfunksendesaal"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Posaunenensembles begleiteten Kirchenmusik. Die feste Rolle im Orchester gewann die Posaune erst später.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · trombone",
+        "url": "https://philharmonia.co.uk/resources/instruments/trombone/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Heute sitzt die Posaune oft im großen Sinfonieorchester. In welcher Umgebung war sie in der Renaissance bereits für feine, leise Musik geschätzt? Beim Gottesdienst. Posaunenensembles begleiteten Kirchenmusik. Die feste Rolle im Orchester gewann die Posaune erst später.",
+        "locator": "p-trombone, Textstelle 93",
+        "source_sha256": "f77843aa84138d1b595c7d99f75cb9c8896797581d007c085142a6d99a9d17f3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-horn-jagd",
+    "fact_key": "q3.e.horn.jagd",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein Komponist wollte früher mit wenigen Takten an eine Jagd erinnern. Welcher Klang konnte diesen Zusammenhang besonders leicht herstellen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Triller des Cembalos"
+      },
+      {
+        "id": "b",
+        "text": "Ein Wirbel auf der kleinen Trommel"
+      },
+      {
+        "id": "c",
+        "text": "Ein Ruf der Hörner"
+      },
+      {
+        "id": "d",
+        "text": "Ein Lauf auf der Harfe"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das Orchesterhorn war mit den Jagdhörnern vertraut. Komponisten nutzten diese Verbindung für ländliche Szenen.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · horn",
+        "url": "https://philharmonia.co.uk/resources/instruments/horn/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Ein Komponist wollte früher mit wenigen Takten an eine Jagd erinnern. Welcher Klang konnte diesen Zusammenhang besonders leicht herstellen? Ein Ruf der Hörner. Das Orchesterhorn war mit den Jagdhörnern vertraut. Komponisten nutzten diese Verbindung für ländliche Szenen.",
+        "locator": "p-horn, Textstelle 95",
+        "source_sha256": "c6b8bbca07f1daf5eb0e669d788f2ea8140c4d02a27346ea2619b945bd423d0d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-tuba-ton",
+    "fact_key": "q3.e.tuba.ton",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Was erzeugt bei der Tuba den Ton, während bei einer Klarinette ein Rohrblatt schwingt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Finger klopfen direkt auf den Schallbecher."
+      },
+      {
+        "id": "b",
+        "text": "Ein Bogen streicht über das Mundrohr."
+      },
+      {
+        "id": "c",
+        "text": "Eine gespannte Membran schwingt im Ventil."
+      },
+      {
+        "id": "d",
+        "text": "Die Lippen schwingen am Mundstück."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Tuba gehört zu den Blechbläsern. Die schwingenden Lippen regen die Luft im Instrument an.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · tuba",
+        "url": "https://philharmonia.co.uk/resources/instruments/tuba/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Was erzeugt bei der Tuba den Ton, während bei einer Klarinette ein Rohrblatt schwingt? Die Lippen schwingen am Mundstück. Die Tuba gehört zu den Blechbläsern. Die schwingenden Lippen regen die Luft im Instrument an.",
+        "locator": "p-tuba, Textstelle 99",
+        "source_sha256": "8dd18d97a020ec054749eb9a14bc900a8adc5e693394f6931bfb79d94b29b6d4"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-harfe-pedale",
+    "fact_key": "q3.e.harfe.pedale",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine Harfenistin zupft mit beiden Händen und bewegt zugleich die Füße. Was kann sie mit den Pedalen der Konzertharfe ändern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Tonhöhen der Saiten"
+      },
+      {
+        "id": "b",
+        "text": "Die Zahl der gespielten Schläge pro Takt"
+      },
+      {
+        "id": "c",
+        "text": "Die Richtung der Saiten auf dem Rahmen"
+      },
+      {
+        "id": "d",
+        "text": "Den Standort des Notenpults"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Sieben Pedale verändern die Stimmung der Saiten. Dadurch kann die Spielerin während des Stücks andere Tonarten und Halbtöne erreichen.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · harp",
+        "url": "https://philharmonia.co.uk/resources/instruments/harp/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Eine Harfenistin zupft mit beiden Händen und bewegt zugleich die Füße. Was kann sie mit den Pedalen der Konzertharfe ändern? Die Tonhöhen der Saiten. Sieben Pedale verändern die Stimmung der Saiten. Dadurch kann die Spielerin während des Stücks andere Tonarten und Halbtöne erreichen.",
+        "locator": "p-harp, Textstelle 94",
+        "source_sha256": "4c6f48da84cffaa295b20a6a9af6875c1a3746b57ba06e29e33bcea67274cb4b"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-harfe-saitenzahl",
+    "fact_key": "q3.e.harfe.saitenzahl",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine große Konzertharfe kann ganze Akkorde und lange Tonläufe spielen. Wie viele Saiten hat sie ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mehr als 300"
+      },
+      {
+        "id": "b",
+        "text": "Knapp 50"
+      },
+      {
+        "id": "c",
+        "text": "Rund 10"
+      },
+      {
+        "id": "d",
+        "text": "Etwa 150"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die gebräuchliche Konzertharfe hat 47 Saiten. Ihre sieben Pedale beeinflussen die Tonhöhen.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · harp",
+        "url": "https://philharmonia.co.uk/resources/instruments/harp/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Eine große Konzertharfe kann ganze Akkorde und lange Tonläufe spielen. Wie viele Saiten hat sie ungefähr? Knapp 50. Die gebräuchliche Konzertharfe hat 47 Saiten. Ihre sieben Pedale beeinflussen die Tonhöhen.",
+        "locator": "p-harp, Textstelle 94",
+        "source_sha256": "4c6f48da84cffaa295b20a6a9af6875c1a3746b57ba06e29e33bcea67274cb4b"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-pauken-fusspedal",
+    "fact_key": "q3.e.pauken.fusspedal",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Der Paukist hat bei einer Probe beide Hände voller Schlägel. Wie kann er den Grundton einer modernen Pedalpauke trotzdem verändern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit dem Wechsel auf weichere Schlägel"
+      },
+      {
+        "id": "b",
+        "text": "Mit einem Dämpfkissen auf dem Fell"
+      },
+      {
+        "id": "c",
+        "text": "Mit dem Fußpedal"
+      },
+      {
+        "id": "d",
+        "text": "Mit einem anderen Schlagpunkt auf dem Fell"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das Pedal verändert die Spannung des Fells. Darum kann die Pauke im Unterschied zu vielen Trommeln gezielte Tonhöhen liefern.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · timpani",
+        "url": "https://philharmonia.co.uk/resources/instruments/timpani/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Der Paukist hat bei einer Probe beide Hände voller Schlägel. Wie kann er den Grundton einer modernen Pedalpauke trotzdem verändern? Mit dem Fußpedal. Das Pedal verändert die Spannung des Fells. Darum kann die Pauke im Unterschied zu vielen Trommeln gezielte Tonhöhen liefern.",
+        "locator": "p-timpani, Textstelle 92",
+        "source_sha256": "744e4167a3fc7abf8fcdef9d3a13cf0aebd8eba0f961b1f2bd7d514102aef8b9"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-schlagwerk-vielfalt",
+    "fact_key": "q3.e.schlagwerk.vielfalt",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Was verbindet ein Xylofon mit einer Triangel, obwohl nur eines eine ganze Melodie spielen kann?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Beide besitzen gestimmte Holzstäbe."
+      },
+      {
+        "id": "b",
+        "text": "Beide brauchen ein gespanntes Fell."
+      },
+      {
+        "id": "c",
+        "text": "Beide werden mit Luft zum Klingen gebracht."
+      },
+      {
+        "id": "d",
+        "text": "Beide werden angeschlagen."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Das Schlagwerk umfasst Instrumente mit unterschiedlichen Klangkörpern. Bestimmte Tonhöhen sind für die Zugehörigkeit zu dieser Gruppe keine Voraussetzung.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · percussion",
+        "url": "https://philharmonia.co.uk/resources/instruments/percussion/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "Was verbindet ein Xylofon mit einer Triangel, obwohl nur eines eine ganze Melodie spielen kann? Beide werden angeschlagen. Das Schlagwerk umfasst Instrumente mit unterschiedlichen Klangkörpern. Bestimmte Tonhöhen sind für die Zugehörigkeit zu dieser Gruppe keine Voraussetzung.",
+        "locator": "p-percussion, Textstelle 85",
+        "source_sha256": "1b1ab16586611a35f2df349e24105e91e6dfd1acb2f94380877070ddeab11966"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-cembalo-orchester",
+    "fact_key": "q3.e.cembalo.orchester",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "In einem Orchester des 18. Jahrhunderts war das Cembalo häufig dabei. Wie wandelte sich die Rolle der Tasteninstrumente mit dem klangkräftigen Klavier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie traten häufiger als Soloinstrumente hervor."
+      },
+      {
+        "id": "b",
+        "text": "Sie verschwanden vollständig aus öffentlichen Konzerten."
+      },
+      {
+        "id": "c",
+        "text": "Sie wurden hauptsächlich zum Stimmen der Streicher benutzt."
+      },
+      {
+        "id": "d",
+        "text": "Sie ersetzten in jedem Orchester die gesamte Bläsergruppe."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Cembalo gehörte oft zur Besetzung. Klangstärke und Tonumfang machten das spätere Klavier auch allein oder als Solist vor dem Orchester wirkungsvoll.",
+    "tags": [
+      "thema_musikinstrumente",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Philharmonia Orchestra · keyboards",
+        "url": "https://philharmonia.co.uk/resources/instruments/keyboards/",
+        "checked_at": "2026-11-22T21:29:31+00:00",
+        "verified_claim": "In einem Orchester des 18. Jahrhunderts war das Cembalo häufig dabei. Wie wandelte sich die Rolle der Tasteninstrumente mit dem klangkräftigen Klavier? Sie traten häufiger als Soloinstrumente hervor. Das Cembalo gehörte oft zur Besetzung. Klangstärke und Tonumfang machten das spätere Klavier auch allein oder als Solist vor dem Orchester wirkungsvoll.",
+        "locator": "p-keyboards, Textstelle 93",
+        "source_sha256": "8eae8f52d225002cb29cc8465acdd68b2cc5d5706b0b0f631d1dd827b59168a9"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:29:31+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

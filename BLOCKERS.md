@@ -1,6 +1,6 @@
 # Externe Abhängigkeiten
 
-Die Browser-Testausgabe ist öffentlich spielbar. Der Auftraggeber entscheidet nach dem Test über eine Veröffentlichung bei Google Play. Dafür fehlen die unten aufgeführten Voraussetzungen. [Spiel-Link](https://emfau88.github.io/Quiz/)
+Die Browser-Testausgabe ist öffentlich spielbar. Über eine Veröffentlichung bei Google Play entscheidet der Betreiber nach dem lokalen Test. Dafür fehlen die unten aufgeführten Voraussetzungen. [Spiel-Link](https://emfau88.github.io/Quiz/spielen.html?v=0.3.0)
 
 | Bereich | Benötigter Beitrag | Bis dahin möglich |
 | --- | --- | --- |

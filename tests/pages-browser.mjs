@@ -24,18 +24,44 @@ for (const name of process.argv.slice(3).length ? process.argv.slice(3) : Object
     const errors = [];
     page.on('pageerror', error => errors.push(error.message));
 
-    const response = await page.goto(start.href);
+    const playLink = new URL('spielen.html?v=0.3.0', start);
+    const response = await page.goto(playLink.href);
     assert.equal(response.status(), 200);
+    await page.waitForURL(url => url.pathname === start.pathname);
     const answer = page.locator('.answer:enabled').first();
     const feedback = page.locator('#feedback');
     const title = page.locator('.question-title');
+    const formats = [];
+    async function recordFormat() {
+      formats.push(await page.locator('#question-format').allTextContents().then(labels => labels.join(' ')));
+      const source = page.locator('#feedback a[href^="https://"]');
+      if (formats.at(-1).includes('Aus der Forschung')) assert.equal(await source.count(), 1);
+    }
+    async function checkPhoneLayout() {
+      const {scrollWidth, visibleWidth, clipped} = await page.evaluate(() => {
+        const root = document.documentElement;
+        const visibleWidth = window.visualViewport?.width ?? root.clientWidth;
+        const clipped = [...document.querySelectorAll('.question-title, .answer, .answer-text')].filter(el => {
+          const box = el.getBoundingClientRect();
+          return box.left < -1 || box.right > visibleWidth + 1 || el.scrollWidth > el.clientWidth + 1;
+        }).map(el => el.className);
+        return {scrollWidth: root.scrollWidth, visibleWidth, clipped};
+      });
+      // The configured phone width stays fixed. Windows WebKit subtracts a gutter from innerWidth;
+      // mobile Chromium can instead grow innerWidth when a descendant overflows.
+      assert.ok(scrollWidth <= width + 1, `${name}: document ${scrollWidth}px, configured viewport ${width}px`);
+      assert.deepEqual(clipped, [], `${name}: question or answers extend beyond the visible ${visibleWidth}px`);
+    }
     await answer.waitFor();
     assert.equal(await page.locator('.answer').count(), 4);
-    assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1));
+    await checkPhoneLayout();
+    await page.evaluate(() => document.fonts.ready);
+    await checkPhoneLayout();
     const firstQuestion = await title.innerText();
     await answer.tap();
     await feedback.waitFor();
     const firstFeedback = await feedback.innerText();
+    await recordFormat();
 
     await page.waitForFunction(() => navigator.serviceWorker.controller?.state === 'activated');
     assert.equal(await page.evaluate(async () => (await navigator.serviceWorker.ready).scope), start.href);
@@ -57,7 +83,10 @@ for (const name of process.argv.slice(3).length ? process.argv.slice(3) : Object
       await next.tap();
       await answer.tap();
       await feedback.waitFor();
+      await recordFormat();
     }
+    assert.equal(formats.filter(label => label.includes('Schätzfrage')).length, 1);
+    assert.equal(formats.filter(label => label.includes('Zum Herleiten')).length, 2);
     await next.tap();
     await page.locator('.score').waitFor();
     await page.locator('.nav-mobile [data-nav="topics"]').tap();

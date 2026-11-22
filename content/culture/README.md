@@ -1,5 +1,11 @@
 # Inhaltsberichte für Geschichte, Unterhaltung, Sprache und Kultur
 
+## Deutsche Ausgabe 0.3.0
+
+Geschichte, Unterhaltung und Sprache umfassen jeweils 400 aktive Fragen. Je Kategorie stammen 294 neue Sachverhalte aus der Fachredaktion und sechs aus der Forschungsredaktion. Die übrigen 100 sind aus der Vorversion übernommen. [Redaktion Geschichte und Unterhaltung](evidence/03/README.md) · [Prüfprotokoll Sprache und Kultur](evidence/03-modern-sprache-pruefung.json) · [Forschungsfragen](../research/README.md)
+
+## Austausch der Ausgabe 0.2.0
+
 Am 22. November 2026 ergänzte die Unterhaltungsredaktion 48 Fragen zu deutschsprachigem Fernsehen und Radio, Popmusik, Filmhandlungen und Sportübertragungen. Dafür gingen 35 der 65 Oscar-Zuordnungen und 13 der 33 Bühnenfragen der Ausgangsserien ins Archiv. Jedes der 48 Austauschpaare bewahrt die Schwierigkeitsstufe. Die Redaktion öffnete 49 Belegseiten und las jede Karte in einem zweiten Durchgang. [Unterhaltungsfragen](2026-11-unterhaltung.json) · [Einzelbelege und Textprüfung](evidence/2026-11-unterhaltung-pruefung.json) · [Austauschpaare](../rotation/2026-11/unterhaltung.json)
 
 Der Gesamtprüfer für die Rotation vergleicht den neuen Offline-Katalog mit der ausgelieferten Ausgangsversion. Er prüft alle sechs Kategorien und weist übernommene, archivierte und neue Karten aus. [Prüfung der Rotation](../../tools/audit_pool.py)

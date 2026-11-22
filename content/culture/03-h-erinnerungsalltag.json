@@ -1,0 +1,2339 @@
+[
+  {
+    "id": "q3-h-saarstatut-stimmen",
+    "fact_key": "q3.h.saarstatut.stimmen",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Bei der Abstimmung 1955 lehnten 67,71 Prozent das Saarstatut ab. Welche Beschreibung trifft die Mehrheit am besten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gut zwei von drei Stimmen"
+      },
+      {
+        "id": "b",
+        "text": "Knapp die Hälfte der Stimmen"
+      },
+      {
+        "id": "c",
+        "text": "Etwa eine von drei Stimmen"
+      },
+      {
+        "id": "d",
+        "text": "Deutlich mehr als neun von zehn Stimmen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das abgelehnte Statut sah politische Autonomie und wirtschaftliche Anbindung an Frankreich vor. Das Ergebnis ebnete den Weg für eine andere Zukunft des Saarlands.",
+    "tags": [
+      "thema_nachkriegsgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1955",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1955.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Bei der Abstimmung 1955 lehnten 67,71 Prozent das Saarstatut ab. Welche Beschreibung trifft die Mehrheit am besten? Gut zwei von drei Stimmen. Das abgelehnte Statut sah politische Autonomie und wirtschaftliche Anbindung an Frankreich vor. Das Ergebnis ebnete den Weg für eine andere Zukunft des Saarlands.",
+        "locator": "lemo1955, Textstelle 184",
+        "source_sha256": "cc26376d07ea4e9047f3786210e54665b106eb75b38b6b5338e8b114e844e543"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-suez-grossmaechte",
+    "fact_key": "q3.h.suez.grossmaechte",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1956 drängten sowohl die USA als auch die Sowjetunion auf ein Ende der Suezkrise. Was war an dieser Konstellation im Kalten Krieg bemerkenswert?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ägypten war ein Bundesstaat sowohl der USA als auch der Sowjetunion."
+      },
+      {
+        "id": "b",
+        "text": "Zwei rivalisierende Großmächte übten in derselben Frage Druck aus."
+      },
+      {
+        "id": "c",
+        "text": "Die beiden Großmächte gehörten damals demselben Militärbündnis an."
+      },
+      {
+        "id": "d",
+        "text": "Beide Staaten hatten den Kanal gemeinsam gebaut und besessen."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Verstaatlichung des Kanals löste die Krise aus. Im November trug der Druck aus Washington und Moskau zu ihrer Beilegung bei.",
+    "tags": [
+      "thema_nachkriegsgeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1956",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1956.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "1956 drängten sowohl die USA als auch die Sowjetunion auf ein Ende der Suezkrise. Was war an dieser Konstellation im Kalten Krieg bemerkenswert? Zwei rivalisierende Großmächte übten in derselben Frage Druck aus. Die Verstaatlichung des Kanals löste die Krise aus. Im November trug der Druck aus Washington und Moskau zu ihrer Beilegung bei.",
+        "locator": "lemo1956, Textstelle 161",
+        "source_sha256": "584fb483130e2c79f5c15888e6f1e54ab54b7e92e29f52304c266d3be11de6ad"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-ungarn-neutral",
+    "fact_key": "q3.h.ungarn.neutral",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Imre Nagy erklärte 1956 Ungarns Neutralität und wollte aus dem Warschauer Pakt austreten. Was sollte sich damit ändern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Amtssprache aller Nachbarländer"
+      },
+      {
+        "id": "b",
+        "text": "Der Name sämtlicher ungarischen Städte"
+      },
+      {
+        "id": "c",
+        "text": "Die militärische Bindung an den sowjetisch geführten Block"
+      },
+      {
+        "id": "d",
+        "text": "Die geografische Lage Ungarns in Europa"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Reformregierung suchte einen unabhängigen politischen Kurs. Sowjetische Truppen schlugen den Aufstand in Budapest nieder.",
+    "tags": [
+      "thema_nachkriegsgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1956",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1956.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Imre Nagy erklärte 1956 Ungarns Neutralität und wollte aus dem Warschauer Pakt austreten. Was sollte sich damit ändern? Die militärische Bindung an den sowjetisch geführten Block. Die Reformregierung suchte einen unabhängigen politischen Kurs. Sowjetische Truppen schlugen den Aufstand in Budapest nieder.",
+        "locator": "lemo1956, Textstelle 163",
+        "source_sha256": "584fb483130e2c79f5c15888e6f1e54ab54b7e92e29f52304c266d3be11de6ad"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-ehe-beruf",
+    "fact_key": "q3.h.ehe.beruf",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Eine Angestellte im öffentlichen Dienst heiratet. Was sollte nach der 1957 für ungültig erklärten „Zölibatsklausel“ zuvor unter bestimmten Umständen mit ihrer Stelle geschehen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Stelle wurde automatisch zur Beamtenstelle auf Lebenszeit."
+      },
+      {
+        "id": "b",
+        "text": "Die Angestellte musste zwingend ihren Betrieb kaufen."
+      },
+      {
+        "id": "c",
+        "text": "Die Arbeit durfte fortan nur noch der Ehemann im selben Amt leisten."
+      },
+      {
+        "id": "d",
+        "text": "Das Arbeitsverhältnis konnte wegen der Heirat enden."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Das Bundesarbeitsgericht verwarf die Klausel. Sie hatte die Berufstätigkeit verheirateter Frauen vom Familieneinkommen abhängig gemacht.",
+    "tags": [
+      "thema_nachkriegsgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1957",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1957.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Eine Angestellte im öffentlichen Dienst heiratet. Was sollte nach der 1957 für ungültig erklärten „Zölibatsklausel“ zuvor unter bestimmten Umständen mit ihrer Stelle geschehen? Das Arbeitsverhältnis konnte wegen der Heirat enden. Das Bundesarbeitsgericht verwarf die Klausel. Sie hatte die Berufstätigkeit verheirateter Frauen vom Familieneinkommen abhängig gemacht.",
+        "locator": "lemo1957, Textstelle 101",
+        "source_sha256": "25a99a17f0a4e059873cae68cdc33059f723cd4706cacd7f25f4cf1634812520"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-passierschein-fest",
+    "fact_key": "q3.h.passierschein.fest",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Eine West-Berlinerin wollte Weihnachten 1963 Verwandte im Ostteil der Stadt besuchen. Welchen Unterschied machte das erste Passierscheinabkommen für sie?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es eröffnete begrenzte Besuchsmöglichkeiten über die Mauer."
+      },
+      {
+        "id": "b",
+        "text": "Es beseitigte die Grenze für alle Menschen dauerhaft."
+      },
+      {
+        "id": "c",
+        "text": "Es erlaubte ausschließlich eine Reise von Ost nach West."
+      },
+      {
+        "id": "d",
+        "text": "Es führte im gesamten Stadtgebiet dieselbe Währung ein."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Regelung galt für Besuche über Weihnachten und Silvester. Der Mauerbau lag bereits mehr als zwei Jahre zurück.",
+    "tags": [
+      "thema_nachkriegsgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1963",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1963.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Eine West-Berlinerin wollte Weihnachten 1963 Verwandte im Ostteil der Stadt besuchen. Welchen Unterschied machte das erste Passierscheinabkommen für sie? Es eröffnete begrenzte Besuchsmöglichkeiten über die Mauer. Die Regelung galt für Besuche über Weihnachten und Silvester. Der Mauerbau lag bereits mehr als zwei Jahre zurück.",
+        "locator": "lemo1963, Textstelle 166",
+        "source_sha256": "cc80cca6acb406f9b0628b44575f138f6413f2339df37feb0aecd8ddbe12676a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-rentner-besuch",
+    "fact_key": "q3.h.rentner.besuch",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die DDR ließ 1964 unter bestimmten Bedingungen jährliche Westbesuche zu. Wer fiel unter die damals neu geschaffene Regel?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alle Jugendlichen ohne Begleitung"
+      },
+      {
+        "id": "b",
+        "text": "Eine Rentnerin mit Besuchserlaubnis"
+      },
+      {
+        "id": "c",
+        "text": "Eine Schulklasse ohne Reisegenehmigung"
+      },
+      {
+        "id": "d",
+        "text": "Jeder Berufstätige täglich auf dem Arbeitsweg"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Lockerung betraf Bürger im Rentenalter. Sie bedeutete keinen allgemeinen freien Reiseverkehr.",
+    "tags": [
+      "thema_nachkriegsgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1964",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1964.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Die DDR ließ 1964 unter bestimmten Bedingungen jährliche Westbesuche zu. Wer fiel unter die damals neu geschaffene Regel? Eine Rentnerin mit Besuchserlaubnis. Die Lockerung betraf Bürger im Rentenalter. Sie bedeutete keinen allgemeinen freien Reiseverkehr.",
+        "locator": "lemo1964, Textstelle 145",
+        "source_sha256": "e18bcffaa211912c8584e4a97329162aa460b3d48215d3b7e44d395aaacd5f5c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-verbraucher-vergleich",
+    "fact_key": "q3.h.verbraucher.vergleich",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die Bundesregierung beschloss 1964 eine Stiftung, deren Arbeit vor dem Kauf Orientierung geben sollte. Welche Tätigkeit entspricht diesem Zweck?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für jede Ware einen einheitlichen Kaufpreis festlegen"
+      },
+      {
+        "id": "b",
+        "text": "Allen Kunden denselben Hersteller vorschreiben"
+      },
+      {
+        "id": "c",
+        "text": "Vergleichbare Waren unabhängig untersuchen"
+      },
+      {
+        "id": "d",
+        "text": "Die Verkaufszahlen einzelner Händler geheim halten"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Stiftung Warentest nahm ihre Tätigkeit im Dezember 1964 auf. Verbraucher sollten auf der Grundlage vergleichbarer Informationen entscheiden können.",
+    "tags": [
+      "thema_nachkriegsgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1964",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1964.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Die Bundesregierung beschloss 1964 eine Stiftung, deren Arbeit vor dem Kauf Orientierung geben sollte. Welche Tätigkeit entspricht diesem Zweck? Vergleichbare Waren unabhängig untersuchen. Stiftung Warentest nahm ihre Tätigkeit im Dezember 1964 auf. Verbraucher sollten auf der Grundlage vergleichbarer Informationen entscheiden können.",
+        "locator": "lemo1964, Textstelle 149",
+        "source_sha256": "e18bcffaa211912c8584e4a97329162aa460b3d48215d3b7e44d395aaacd5f5c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-voelkermord-verjaehrung",
+    "fact_key": "q3.h.voelkermord.verjaehrung",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Der Bundestag hob 1969 die Verjährungsfrist für Völkermord auf. Was bedeutet dieser historische Beschluss für ein erst Jahrzehnte später bekannt gewordenes Verbrechen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ohne weitere Prüfung gilt jede Beschuldigung als Urteil."
+      },
+      {
+        "id": "b",
+        "text": "Ein Verfahren ist nur im selben Kalenderjahr zulässig."
+      },
+      {
+        "id": "c",
+        "text": "Der Tatort entscheidet, wie lang ein Jahrzehnt dauert."
+      },
+      {
+        "id": "d",
+        "text": "Der bloße Zeitablauf schließt seine Verfolgung nicht aus."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Frist für Völkermord entfiel vollständig. Die weiterhin erforderliche Prüfung des einzelnen Falls ist davon getrennt.",
+    "tags": [
+      "thema_nachkriegsgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1969",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1969.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Der Bundestag hob 1969 die Verjährungsfrist für Völkermord auf. Was bedeutet dieser historische Beschluss für ein erst Jahrzehnte später bekannt gewordenes Verbrechen? Der bloße Zeitablauf schließt seine Verfolgung nicht aus. Die Frist für Völkermord entfiel vollständig. Die weiterhin erforderliche Prüfung des einzelnen Falls ist davon getrennt.",
+        "locator": "lemo1969, Textstelle 166",
+        "source_sha256": "ffe9dae785ba8e49098e2f531aeeebbd2bda5aa932af8d9fee8c9d67bb60eafb"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-intercity-takt",
+    "fact_key": "q3.h.intercity.takt",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1971 führte die Bundesbahn auf ersten IC-Linien einen Zwei-Stunden-Takt ein. Ein Zug fährt laut diesem Takt um 10 Uhr, welchen nächsten Zeitpunkt legt das auf derselben Linie nahe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "12 Uhr"
+      },
+      {
+        "id": "b",
+        "text": "10.20 Uhr"
+      },
+      {
+        "id": "c",
+        "text": "10.30 Uhr"
+      },
+      {
+        "id": "d",
+        "text": "16 Uhr"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Taktfahrplan wiederholen sich Abfahrten in einem festgelegten Zeitabstand. Die ersten IC-Linien verbanden 33 Städte.",
+    "tags": [
+      "thema_nachkriegsgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1971",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1971.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "1971 führte die Bundesbahn auf ersten IC-Linien einen Zwei-Stunden-Takt ein. Ein Zug fährt laut diesem Takt um 10 Uhr, welchen nächsten Zeitpunkt legt das auf derselben Linie nahe? 12 Uhr. Beim Taktfahrplan wiederholen sich Abfahrten in einem festgelegten Zeitabstand. Die ersten IC-Linien verbanden 33 Städte.",
+        "locator": "lemo1971, Textstelle 186",
+        "source_sha256": "ae227cd8f1b6561c021f703a65d615a480459777ba2b71063bf33268898cd011"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-misstrauen-zwei",
+    "fact_key": "q3.h.misstrauen.zwei",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "1972 fehlten dem Antrag auf ein konstruktives Misstrauensvotum gegen Brandt zwei Stimmen zur erforderlichen Mehrheit. Was bedeutete das unmittelbar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Kanzleramt blieb automatisch zwei Jahre unbesetzt."
+      },
+      {
+        "id": "b",
+        "text": "Der angestrebte Kanzlerwechsel kam dadurch nicht zustande."
+      },
+      {
+        "id": "c",
+        "text": "Der Antrag galt trotz fehlender Mehrheit als angenommen."
+      },
+      {
+        "id": "d",
+        "text": "Die fehlenden Stimmen wurden durch den Bundesrat ersetzt."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die absolute Mehrheit wurde verfehlt. Brandt blieb nach der Abstimmung Bundeskanzler.",
+    "tags": [
+      "thema_nachkriegsgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1972",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1972.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "1972 fehlten dem Antrag auf ein konstruktives Misstrauensvotum gegen Brandt zwei Stimmen zur erforderlichen Mehrheit. Was bedeutete das unmittelbar? Der angestrebte Kanzlerwechsel kam dadurch nicht zustande. Die absolute Mehrheit wurde verfehlt. Brandt blieb nach der Abstimmung Bundeskanzler.",
+        "locator": "lemo1972, Textstelle 107",
+        "source_sha256": "cc83d7a145d5ea469c8a689dccfd21b6e3caf081d57fbadb4fb8ce958957f798"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-flensburg-wiederholung",
+    "fact_key": "q3.h.flensburg.wiederholung",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1974 begann Flensburg, Verkehrsverstöße mit Punkten festzuhalten. Weshalb hilft eine zentrale Kartei bei einem Fahrer, der in mehreren Städten auffällt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Punkte lassen sich nur am Heimatort zählen."
+      },
+      {
+        "id": "b",
+        "text": "Nur Verstöße mit demselben Fahrzeug werden sichtbar."
+      },
+      {
+        "id": "c",
+        "text": "Wiederholte Verstöße derselben Person können zusammen betrachtet werden."
+      },
+      {
+        "id": "d",
+        "text": "Jede Stadt muss ihren Straßennamen ändern."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das Kraftfahrtbundesamt führte die Punkte in der bestehenden Verkehrssünderkartei. Einzelne Meldungen konnten sich so zu einem Gesamtbild ergänzen.",
+    "tags": [
+      "thema_nachkriegsgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1974",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1974.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "1974 begann Flensburg, Verkehrsverstöße mit Punkten festzuhalten. Weshalb hilft eine zentrale Kartei bei einem Fahrer, der in mehreren Städten auffällt? Wiederholte Verstöße derselben Person können zusammen betrachtet werden. Das Kraftfahrtbundesamt führte die Punkte in der bestehenden Verkehrssünderkartei. Einzelne Meldungen konnten sich so zu einem Gesamtbild ergänzen.",
+        "locator": "lemo1974, Textstelle 119",
+        "source_sha256": "433fbb4cdb550e572c7500202640f8c5adfa6abd583623516f819aff9b9a8d6d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-guillaume-vertrauen",
+    "fact_key": "q3.h.guillaume.vertrauen",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Der DDR-Spion Günter Guillaume arbeitete als persönlicher Referent des westdeutschen Kanzlers. Was machte die Affäre politisch besonders schwerwiegend?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er war nur als Zuschauer im Bundestag gewesen."
+      },
+      {
+        "id": "b",
+        "text": "Er hatte ausschließlich Zugang zu öffentlichen Stadtplänen."
+      },
+      {
+        "id": "c",
+        "text": "Er hatte sein Amt außerhalb jeder Regierungsarbeit ausgeübt."
+      },
+      {
+        "id": "d",
+        "text": "Er hatte eine Vertrauensstellung in unmittelbarer Nähe des Kanzlers."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Brandt übernahm 1974 die politische Verantwortung und trat zurück. Der Bundestag setzte einen Untersuchungsausschuss ein.",
+    "tags": [
+      "thema_nachkriegsgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1974",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1974.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Der DDR-Spion Günter Guillaume arbeitete als persönlicher Referent des westdeutschen Kanzlers. Was machte die Affäre politisch besonders schwerwiegend? Er hatte eine Vertrauensstellung in unmittelbarer Nähe des Kanzlers. Brandt übernahm 1974 die politische Verantwortung und trat zurück. Der Bundestag setzte einen Untersuchungsausschuss ein.",
+        "locator": "lemo1974, Textstelle 112",
+        "source_sha256": "433fbb4cdb550e572c7500202640f8c5adfa6abd583623516f819aff9b9a8d6d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-fluechtlingsrecht-helfer",
+    "fact_key": "q3.h.fluechtlingsrecht.helfer",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1965 zeichnete der Friedensnobelpreis das Kinderhilfswerk der Vereinten Nationen aus. Welche Tätigkeit passt zu einem solchen Empfänger?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hilfe und Schutz für Kinder über Staatsgrenzen hinweg"
+      },
+      {
+        "id": "b",
+        "text": "Die Festlegung nationaler Fußballspielpläne"
+      },
+      {
+        "id": "c",
+        "text": "Die Prüfung von Patenten für Industriemaschinen"
+      },
+      {
+        "id": "d",
+        "text": "Die Ausgabe einer einzigen Weltwährung"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Auszeichnung ging an UNICEF. Sie würdigte damit eine internationale Organisation und keine einzelne Person.",
+    "tags": [
+      "thema_nachkriegsgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1965",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1965.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "1965 zeichnete der Friedensnobelpreis das Kinderhilfswerk der Vereinten Nationen aus. Welche Tätigkeit passt zu einem solchen Empfänger? Hilfe und Schutz für Kinder über Staatsgrenzen hinweg. Die Auszeichnung ging an UNICEF. Sie würdigte damit eine internationale Organisation und keine einzelne Person.",
+        "locator": "lemo1965, Textstelle 185",
+        "source_sha256": "aef155af8a52dfb323f6f88a8a5024bcb8d8c3e837c6c6ac015378fa11c0ff52"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-watergate-ziel",
+    "fact_key": "q3.h.watergate.ziel",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Beim Watergate-Einbruch 1972 war ausgerechnet das Wahlkampfbüro der gegnerischen Partei betroffen. Worin lag die besondere politische Brisanz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In der Änderung der Landesgrenze bei Washington"
+      },
+      {
+        "id": "b",
+        "text": "Im möglichen Ausspähen eines politischen Konkurrenten"
+      },
+      {
+        "id": "c",
+        "text": "In einer Beschädigung der nationalen Münzprägeanstalt"
+      },
+      {
+        "id": "d",
+        "text": "In der Übernahme eines fremden Parlamentsgebäudes"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Einbruch im Watergate-Komplex löste einen weitreichenden Skandal aus. Der Name des Gebäudes wurde zum Namen der Affäre.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1972",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1972.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Beim Watergate-Einbruch 1972 war ausgerechnet das Wahlkampfbüro der gegnerischen Partei betroffen. Worin lag die besondere politische Brisanz? Im möglichen Ausspähen eines politischen Konkurrenten. Der Einbruch im Watergate-Komplex löste einen weitreichenden Skandal aus. Der Name des Gebäudes wurde zum Namen der Affäre.",
+        "locator": "lemo1972, Textstelle 147",
+        "source_sha256": "cc83d7a145d5ea469c8a689dccfd21b6e3caf081d57fbadb4fb8ce958957f798"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-apollo-sojus-hand",
+    "fact_key": "q3.h.apollo.sojus.hand",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1975 dockten ein amerikanisches und ein sowjetisches Raumschiff im All aneinander. Welche politische Botschaft lag im erfolgreichen gemeinsamen Manöver?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Raumfahrt konnte nur noch ohne Besatzung stattfinden."
+      },
+      {
+        "id": "b",
+        "text": "Beide Länder hatten auf weitere Forschung verzichtet."
+      },
+      {
+        "id": "c",
+        "text": "Zusammenarbeit zwischen Rivalen war möglich."
+      },
+      {
+        "id": "d",
+        "text": "Beide Staaten hatten sich zu einem Land vereinigt."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das Apollo-Sojus-Projekt stand im Zeichen der Entspannung. Die bemannte Begegnung war daher mehr als eine technische Vorführung.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1975",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1975.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "1975 dockten ein amerikanisches und ein sowjetisches Raumschiff im All aneinander. Welche politische Botschaft lag im erfolgreichen gemeinsamen Manöver? Zusammenarbeit zwischen Rivalen war möglich. Das Apollo-Sojus-Projekt stand im Zeichen der Entspannung. Die bemannte Begegnung war daher mehr als eine technische Vorführung.",
+        "locator": "lemo1975, Textstelle 134",
+        "source_sha256": "f76ba780ede31037621da65380defbc24958d632a8134dd703922c4e7e953e47"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-liechtenstein-stimmende",
+    "fact_key": "q3.h.liechtenstein.stimmende",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1984 stimmten in Liechtenstein nur Männer über das Frauenwahlrecht ab. Warum durften die unmittelbar betroffenen Frauen noch nicht selbst mitentscheiden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Termin galt nur als Probe ohne Rechtswirkung."
+      },
+      {
+        "id": "b",
+        "text": "Alle weiblichen Bürgerinnen hielten sich gerade im Ausland auf."
+      },
+      {
+        "id": "c",
+        "text": "Die Verfassung schrieb grundsätzlich eine Abstimmung nach Berufen vor."
+      },
+      {
+        "id": "d",
+        "text": "Die Abstimmung sollte ihnen das landesweite Stimmrecht erst eröffnen."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Eine knappe Mehrheit der bisherigen männlichen Wahlberechtigten stimmte zu. Die Zusammensetzung der Abstimmenden gehörte zum Problem, über das entschieden wurde.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1984",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1984.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "1984 stimmten in Liechtenstein nur Männer über das Frauenwahlrecht ab. Warum durften die unmittelbar betroffenen Frauen noch nicht selbst mitentscheiden? Die Abstimmung sollte ihnen das landesweite Stimmrecht erst eröffnen. Eine knappe Mehrheit der bisherigen männlichen Wahlberechtigten stimmte zu. Die Zusammensetzung der Abstimmenden gehörte zum Problem, über das entschieden wurde.",
+        "locator": "lemo1984, Textstelle 147",
+        "source_sha256": "0290f11db124e0c8cd276c00ab238462cb8e56d435febeeb90666f9b8ba82cca"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-nairobi-jahrzehnt",
+    "fact_key": "q3.h.nairobi.jahrzehnt",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die Weltfrauenkonferenz 1985 in Nairobi schloss ein UN-Frauenjahrzehnt ab. In welcher Zeit hatten die zugehörigen zehn Jahre ungefähr begonnen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mitte der 1970er-Jahre"
+      },
+      {
+        "id": "b",
+        "text": "Anfang der 1950er-Jahre"
+      },
+      {
+        "id": "c",
+        "text": "Ende der 1980er-Jahre"
+      },
+      {
+        "id": "d",
+        "text": "Erst nach 1990"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Ende lag 1985. Ein Jahrzehnt zurück führt näherungsweise in die Mitte der Siebzigerjahre.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1985",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1985.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Die Weltfrauenkonferenz 1985 in Nairobi schloss ein UN-Frauenjahrzehnt ab. In welcher Zeit hatten die zugehörigen zehn Jahre ungefähr begonnen? Mitte der 1970er-Jahre. Das Ende lag 1985. Ein Jahrzehnt zurück führt näherungsweise in die Mitte der Siebzigerjahre.",
+        "locator": "lemo1985, Textstelle 207",
+        "source_sha256": "7550eadeab105c23251d4486c38ad816fde7c3b7c0a4269d34eeca38c140f3ce"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-tschernobyl-ernte",
+    "fact_key": "q3.h.tschernobyl.ernte",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Nach Tschernobyl erhielten 1986 Landwirte in der Bundesrepublik Hilfe, obwohl der Reaktor weit entfernt stand. Was verband den Unfall mit ihren Ernten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die betroffenen Felder waren in unmittelbarer Nähe des Kraftwerks."
+      },
+      {
+        "id": "b",
+        "text": "Radioaktive Belastung konnte Erzeugnisse unverkäuflich machen."
+      },
+      {
+        "id": "c",
+        "text": "Der Reaktor hatte die Höfe direkt mit Bewässerungswasser versorgt."
+      },
+      {
+        "id": "d",
+        "text": "Alle Bauern besaßen Anteile an demselben Transportwagen."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Radioaktiver Niederschlag konnte Lebensmittel auch in größerer Entfernung belasten. Die Soforthilfe galt dadurch entstandenen Einbußen.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1986",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1986.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Nach Tschernobyl erhielten 1986 Landwirte in der Bundesrepublik Hilfe, obwohl der Reaktor weit entfernt stand. Was verband den Unfall mit ihren Ernten? Radioaktive Belastung konnte Erzeugnisse unverkäuflich machen. Radioaktiver Niederschlag konnte Lebensmittel auch in größerer Entfernung belasten. Die Soforthilfe galt dadurch entstandenen Einbußen.",
+        "locator": "lemo1986, Textstelle 139",
+        "source_sha256": "8af8f2c0b8c240efdeb110bc5cb1ad005e70dfe26eae7bdd7a6bfd5d536fe98d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-aralsee-bewaesserung",
+    "fact_key": "q3.h.aralsee.bewaesserung",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Beim Aralsee wurde Flusswasser für große Bewässerungsprojekte abgezweigt. Welche Folge ist für einen See mit wenig anderem Zufluss naheliegend?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er verwandelt sich sofort in einen offenen Meeresarm."
+      },
+      {
+        "id": "b",
+        "text": "Er erhält von selbst mehrere neue Zuflüsse."
+      },
+      {
+        "id": "c",
+        "text": "Sein Wasserspiegel sinkt."
+      },
+      {
+        "id": "d",
+        "text": "Sein Wasserspiegel steigt allein durch weniger Zulauf."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "1988 berichtete eine sowjetische Zeitschrift über die ökologische Katastrophe. Die intensive Wasserentnahme trug zum Schrumpfen des Sees bei.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1988",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1988.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Beim Aralsee wurde Flusswasser für große Bewässerungsprojekte abgezweigt. Welche Folge ist für einen See mit wenig anderem Zufluss naheliegend? Sein Wasserspiegel sinkt. 1988 berichtete eine sowjetische Zeitschrift über die ökologische Katastrophe. Die intensive Wasserentnahme trug zum Schrumpfen des Sees bei.",
+        "locator": "lemo1988, Textstelle 51",
+        "source_sha256": "5062bf33ca8f0d1d5bcc52173a4bf5eefdf3fa3a2fac42d1a2538c67f8a8b16d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-exxon-riff",
+    "fact_key": "q3.h.exxon.riff",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1989 lief die „Exxon Valdez“ vor Alaska auf ein Riff. Weshalb betraf der Unfall nicht nur die Menschen an Bord, sondern auch weite Küstengebiete?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Tanker hatte die Küste als Schienenfahrzeug erreicht."
+      },
+      {
+        "id": "b",
+        "text": "Der Unfall unterbrach die gesamte Süßwasserversorgung der USA."
+      },
+      {
+        "id": "c",
+        "text": "Die Ladung bestand ausschließlich aus sauberem Trinkwasser."
+      },
+      {
+        "id": "d",
+        "text": "Aus dem beschädigten Tanker konnte Rohöl ins Meer gelangen."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Im Prinz-William-Sund kam es zu einer schweren Ölpest. Die Ladung machte den Schiffsunfall zugleich zur Umweltkatastrophe.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1989",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1989.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "1989 lief die „Exxon Valdez“ vor Alaska auf ein Riff. Weshalb betraf der Unfall nicht nur die Menschen an Bord, sondern auch weite Küstengebiete? Aus dem beschädigten Tanker konnte Rohöl ins Meer gelangen. Im Prinz-William-Sund kam es zu einer schweren Ölpest. Die Ladung machte den Schiffsunfall zugleich zur Umweltkatastrophe.",
+        "locator": "lemo1989, Textstelle 97",
+        "source_sha256": "f5dbd6636e1c6e2cf652bab341efb52c21277906aad9b324ca3d5933f38a7161"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-ungarn-zweite-seite",
+    "fact_key": "q3.h.ungarn.zweite.seite",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "1989 begann Ungarn mit dem Abbau von Grenzbefestigungen zu Österreich. Welcher Reiseweg berührte gerade diese sich verändernde Grenze?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Von Ungarn westwärts nach Österreich"
+      },
+      {
+        "id": "b",
+        "text": "Von Polen ostwärts in die Sowjetunion"
+      },
+      {
+        "id": "c",
+        "text": "Von Dänemark nordwärts nach Schweden"
+      },
+      {
+        "id": "d",
+        "text": "Von Italien südwärts nach Malta"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Abbau betraf die Westgrenze Ungarns. Im weiteren Verlauf wurde sie für die Flucht vieler DDR-Bürger bedeutsam.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1989",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1989.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "1989 begann Ungarn mit dem Abbau von Grenzbefestigungen zu Österreich. Welcher Reiseweg berührte gerade diese sich verändernde Grenze? Von Ungarn westwärts nach Österreich. Der Abbau betraf die Westgrenze Ungarns. Im weiteren Verlauf wurde sie für die Flucht vieler DDR-Bürger bedeutsam.",
+        "locator": "lemo1989, Textstelle 119",
+        "source_sha256": "f5dbd6636e1c6e2cf652bab341efb52c21277906aad9b324ca3d5933f38a7161"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-walesa-weg",
+    "fact_key": "q3.h.walesa.weg",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "1989 durfte Solidarność in Polen wieder legal arbeiten. Wo stand ihr bisheriger Anführer Lech Wałęsa im folgenden politischen Kapitel?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er wurde Chef der deutschen Bundesbank."
+      },
+      {
+        "id": "b",
+        "text": "Er wurde polnischer Präsident."
+      },
+      {
+        "id": "c",
+        "text": "Er wurde sofort Generalsekretär der UNO."
+      },
+      {
+        "id": "d",
+        "text": "Er übernahm das schwedische Königshaus."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Auf die Legalisierung folgte die demokratische Neuordnung Polens. Wałęsa wurde im Dezember 1990 als Präsident vereidigt.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1989",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1989.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "1989 durfte Solidarność in Polen wieder legal arbeiten. Wo stand ihr bisheriger Anführer Lech Wałęsa im folgenden politischen Kapitel? Er wurde polnischer Präsident. Auf die Legalisierung folgte die demokratische Neuordnung Polens. Wałęsa wurde im Dezember 1990 als Präsident vereidigt.",
+        "locator": "lemo1989, Textstelle 116",
+        "source_sha256": "f5dbd6636e1c6e2cf652bab341efb52c21277906aad9b324ca3d5933f38a7161"
+      },
+      {
+        "id": "s2",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1990",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1990.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "1989 durfte Solidarność in Polen wieder legal arbeiten. Wo stand ihr bisheriger Anführer Lech Wałęsa im folgenden politischen Kapitel? Er wurde polnischer Präsident. Auf die Legalisierung folgte die demokratische Neuordnung Polens. Wałęsa wurde im Dezember 1990 als Präsident vereidigt.",
+        "locator": "lemo1990, Textstelle 423",
+        "source_sha256": "42ab09daf85e0459da1a913d260902da978e87cd46e009f4369a7e80895678b0"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-mietumstellung-1990",
+    "fact_key": "q3.h.mietumstellung.1990",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1990 sollte eine damalige DDR-Miete im Verhältnis 1 zu 1 umgestellt werden. Wie lautete der Nennbetrag einer solchen Miete von 100 Mark nach der Umstellung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "200 D-Mark"
+      },
+      {
+        "id": "b",
+        "text": "1 D-Mark"
+      },
+      {
+        "id": "c",
+        "text": "100 D-Mark"
+      },
+      {
+        "id": "d",
+        "text": "50 D-Mark"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Laufende Beträge wie Mieten, Löhne und Renten wurden eins zu eins umgestellt. Für bestimmte Guthaben galten andere Regeln.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1990",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1990.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "1990 sollte eine damalige DDR-Miete im Verhältnis 1 zu 1 umgestellt werden. Wie lautete der Nennbetrag einer solchen Miete von 100 Mark nach der Umstellung? 100 D-Mark. Laufende Beträge wie Mieten, Löhne und Renten wurden eins zu eins umgestellt. Für bestimmte Guthaben galten andere Regeln.",
+        "locator": "lemo1990, Textstelle 208",
+        "source_sha256": "42ab09daf85e0459da1a913d260902da978e87cd46e009f4369a7e80895678b0"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-heilbutt-fang",
+    "fact_key": "q3.h.heilbutt.fang",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Kanada und die EU stritten 1995 um einen seltener gewordenen Fisch und vereinbarten Fangquoten. Welches Problem bearbeitet eine solche Quote?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Welche Farbe alle Fischerboote haben müssen"
+      },
+      {
+        "id": "b",
+        "text": "Welche Mannschaft dem anderen Land gehört"
+      },
+      {
+        "id": "c",
+        "text": "Wie tief genau der ganze Atlantik sein darf"
+      },
+      {
+        "id": "d",
+        "text": "Wie viel jede Seite aus dem Bestand fangen darf"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Beim Streit um Schwarzen Heilbutt ging es um die Nutzung einer begrenzten Ressource. Eine Quote verteilt erlaubte Fangmengen.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1995",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1995.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Kanada und die EU stritten 1995 um einen seltener gewordenen Fisch und vereinbarten Fangquoten. Welches Problem bearbeitet eine solche Quote? Wie viel jede Seite aus dem Bestand fangen darf. Beim Streit um Schwarzen Heilbutt ging es um die Nutzung einer begrenzten Ressource. Eine Quote verteilt erlaubte Fangmengen.",
+        "locator": "lemo1995, Textstelle 105",
+        "source_sha256": "a55b1177f62ceb787c9b69ab8d7a5a2133981cf07752b6f505697344a55e95a3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-oderdeich-1997",
+    "fact_key": "q3.h.oderdeich.1997",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Tagelanger Regen führte 1997 zu Hochwasser an der Oder. Warum war der Bruch eines Deichs für die Menschen dahinter so gefährlich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Flusswasser konnte in bisher geschützte Flächen eindringen."
+      },
+      {
+        "id": "b",
+        "text": "Der Fluss verlor schlagartig sein gesamtes Wasser an die Ostsee."
+      },
+      {
+        "id": "c",
+        "text": "Die Strömung vor dem Deich wurde überall vollständig gestoppt."
+      },
+      {
+        "id": "d",
+        "text": "Regenwasser konnte ausschließlich auf dem Fluss selbst niedergehen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Deiche halten Hochwasser von tieferem Hinterland fern. Beim Durchbruch können sich die Wassermassen dort ausbreiten.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1997",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1997.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Tagelanger Regen führte 1997 zu Hochwasser an der Oder. Warum war der Bruch eines Deichs für die Menschen dahinter so gefährlich? Flusswasser konnte in bisher geschützte Flächen eindringen. Deiche halten Hochwasser von tieferem Hinterland fern. Beim Durchbruch können sich die Wassermassen dort ausbreiten.",
+        "locator": "lemo1997, Textstelle 216",
+        "source_sha256": "b5df2b0083f809366fc28abf683a3bcc28bac680fad1f7eafdc3c1723fcc2be9"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-tgv-tempo",
+    "fact_key": "q3.h.tgv.tempo",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Ein französischer TGV-Prototyp erreichte 1978 im Test 260 km/h. Welche Strecke entspräche bei unverändertem Tempo ungefähr einer halben Stunde?",
+    "options": [
+      {
+        "id": "a",
+        "text": "520 Kilometer"
+      },
+      {
+        "id": "b",
+        "text": "130 Kilometer"
+      },
+      {
+        "id": "c",
+        "text": "26 Kilometer"
+      },
+      {
+        "id": "d",
+        "text": "260 Kilometer"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Chronik nennt 260 Kilometer pro Stunde. In einer halben Stunde entspräche das der halben Strecke.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1978",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1978.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Ein französischer TGV-Prototyp erreichte 1978 im Test 260 km/h. Welche Strecke entspräche bei unverändertem Tempo ungefähr einer halben Stunde? 130 Kilometer. Die Chronik nennt 260 Kilometer pro Stunde. In einer halben Stunde entspräche das der halben Strecke.",
+        "locator": "lemo1978, Textstelle 141",
+        "source_sha256": "2135c84b4e238ea51122ed6432a1cd23a06e60d2d0133976f7ac917367b3d701"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-bahn-sparten",
+    "fact_key": "q3.h.bahn.sparten",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die Bahnreform 1994 unterschied zwischen Personenverkehr, Güterverkehr und Schienennetz. Welche Aufgabe gehört zum Netz, auch wenn gerade kein Zug mit Fahrgästen fährt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einen Güterwagen mit Stahl beladen"
+      },
+      {
+        "id": "b",
+        "text": "In einem Speisewagen Fahrgäste bedienen"
+      },
+      {
+        "id": "c",
+        "text": "Die Gleise und Weichen als Infrastruktur betreuen"
+      },
+      {
+        "id": "d",
+        "text": "Für Pendler Fahrkarten im Zug kontrollieren"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Deutsche Bahn AG ging aus Bundesbahn und Reichsbahn hervor. Die organisatorische Aufteilung unterschied die Verkehrsangebote von ihrer gemeinsamen Infrastruktur.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1994",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1994.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Die Bahnreform 1994 unterschied zwischen Personenverkehr, Güterverkehr und Schienennetz. Welche Aufgabe gehört zum Netz, auch wenn gerade kein Zug mit Fahrgästen fährt? Die Gleise und Weichen als Infrastruktur betreuen. Die Deutsche Bahn AG ging aus Bundesbahn und Reichsbahn hervor. Die organisatorische Aufteilung unterschied die Verkehrsangebote von ihrer gemeinsamen Infrastruktur.",
+        "locator": "lemo1994, Textstelle 52",
+        "source_sha256": "db8c7be568dc0b6bdb69bd08ca598373a4353f707dc1c31b795515c86a3367f4"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-berlin-jubilaeum",
+    "fact_key": "q3.h.berlin.jubilaeum",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Berlin feierte 1987 sein 750-jähriges Stadtjubiläum. Auf ein Datum in welchem Jahrhundert verweist diese Rechnung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Im 10. Jahrhundert"
+      },
+      {
+        "id": "b",
+        "text": "Im 15. Jahrhundert"
+      },
+      {
+        "id": "c",
+        "text": "Im 17. Jahrhundert"
+      },
+      {
+        "id": "d",
+        "text": "Im 13. Jahrhundert"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "1987 minus 750 ergibt 1237. Das Jubiläum bezog sich auf eine mittelalterliche urkundliche Erwähnung.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1987",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1987.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Berlin feierte 1987 sein 750-jähriges Stadtjubiläum. Auf ein Datum in welchem Jahrhundert verweist diese Rechnung? Im 13. Jahrhundert. 1987 minus 750 ergibt 1237. Das Jubiläum bezog sich auf eine mittelalterliche urkundliche Erwähnung.",
+        "locator": "lemo1987, Textstelle 157",
+        "source_sha256": "e81bcd65d6f6f654b6cee6e64fd4144f0f4dff967a11d8da5ef453910f1f23d2"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-landwirtschaft-rentenanspruch",
+    "fact_key": "q3.h.landwirtschaft.rentenanspruch",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1994 sicherte eine Reform rund 300.000 Bäuerinnen einen eigenen Rentenanspruch. Was veränderte das Wort „eigen“ für die Betroffenen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ihr Anspruch konnte an die eigene Person geknüpft werden."
+      },
+      {
+        "id": "b",
+        "text": "Der Hof durfte ausschließlich über die Eltern vererbt werden."
+      },
+      {
+        "id": "c",
+        "text": "Die Bäuerinnen mussten aus der Landwirtschaft ausscheiden."
+      },
+      {
+        "id": "d",
+        "text": "Alle Höfe wurden in einen gemeinsamen Betrieb umgewandelt."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Reform betraf die soziale Sicherung von Frauen in der Landwirtschaft. Sie griff einen Unterschied in der eigenständigen Absicherung auf.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1994",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1994.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "1994 sicherte eine Reform rund 300.000 Bäuerinnen einen eigenen Rentenanspruch. Was veränderte das Wort „eigen“ für die Betroffenen? Ihr Anspruch konnte an die eigene Person geknüpft werden. Die Reform betraf die soziale Sicherung von Frauen in der Landwirtschaft. Sie griff einen Unterschied in der eigenständigen Absicherung auf.",
+        "locator": "lemo1994, Textstelle 129",
+        "source_sha256": "db8c7be568dc0b6bdb69bd08ca598373a4353f707dc1c31b795515c86a3367f4"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-kunst-bundestag-mehrheit",
+    "fact_key": "q3.h.kunst.bundestag.mehrheit",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "2000 stimmten 260 Abgeordnete für Hans Haackes Kunstprojekt im Reichstag und 258 dagegen. Wie viele hätten von Ja zu Nein wechseln müssen, damit Nein vorn läge?",
+    "options": [
+      {
+        "id": "a",
+        "text": "31 Abgeordnete"
+      },
+      {
+        "id": "b",
+        "text": "Zwei Abgeordnete"
+      },
+      {
+        "id": "c",
+        "text": "Ein Abgeordneter"
+      },
+      {
+        "id": "d",
+        "text": "Zehn Abgeordnete"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Ein Wechsel hätte ein Patt von 259 zu 259 bewirkt. Zwei Wechsel hätten 258 Ja- und 260 Neinstimmen ergeben.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 2000",
+        "url": "https://www.hdg.de/lemo/jahreschronik/2000.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "2000 stimmten 260 Abgeordnete für Hans Haackes Kunstprojekt im Reichstag und 258 dagegen. Wie viele hätten von Ja zu Nein wechseln müssen, damit Nein vorn läge? Zwei Abgeordnete. Ein Wechsel hätte ein Patt von 259 zu 259 bewirkt. Zwei Wechsel hätten 258 Ja- und 260 Neinstimmen ergeben.",
+        "locator": "lemo2000, Textstelle 140",
+        "source_sha256": "7f9a458550483decb1916aa4624b9b170238ef1dd02ca804455735bee122cc4b"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

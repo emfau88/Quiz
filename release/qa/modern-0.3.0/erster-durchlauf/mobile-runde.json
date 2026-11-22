@@ -1,0 +1,37 @@
+{
+  "at": "2026-11-22T21:43:38.546Z",
+  "day": "2026-11-22",
+  "catalog": "de-6c9b4c840f8f",
+  "questions": 1340,
+  "link": "http://127.0.0.1:57000/Quiz/spielen.html?v=0.3.0",
+  "browser": "149.0.7827.55",
+  "viewport": [
+    390,
+    780
+  ],
+  "offlineAfterFirstAnswer": true,
+  "formats": [
+    "Zum Herleiten",
+    "Zum Herleiten",
+    "Aus der Forschung 2024",
+    "",
+    "",
+    "",
+    "Schätzfrage",
+    "",
+    "",
+    ""
+  ],
+  "research": [
+    {
+      "id": "qs-studie-gesang-sprechrhythmus",
+      "source": "https://doi.org/10.1126/sciadv.adm9797",
+      "published": "2024-05-15"
+    }
+  ],
+  "correct": 10,
+  "awardedOnce": true,
+  "sha256Catalog": "1f70d6f46a4ea300fa0bb659ca1a9892dcacbd5149960e84b5ec0802d8b83301",
+  "external": [],
+  "errors": []
+}

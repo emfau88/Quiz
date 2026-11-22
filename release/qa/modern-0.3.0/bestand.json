@@ -1,0 +1,184 @@
+{
+  "at": "2026-11-22T22:45:16.352446+00:00",
+  "baselineCommit": "17e88f2d46c72ff1aa2128749757e1be453b550b",
+  "beforeVersion": "de-03c46c2cd256",
+  "afterVersion": "de-d5a1d0585ed1",
+  "before": {
+    "active": 1200,
+    "facts": 1200,
+    "categories": {
+      "entertainment": 200,
+      "everyday_technology": 200,
+      "geography_travel": 200,
+      "history_discoveries": 200,
+      "language_culture": 200,
+      "nature_animals": 200
+    },
+    "difficulties": {
+      "easy": 720,
+      "hard": 120,
+      "medium": 360
+    },
+    "forms": {
+      "form_herleiten": 132,
+      "form_vergleichen": 45,
+      "form_wiedererkennen": 1007,
+      "form_zeitlich_einordnen": 16
+    },
+    "languages": [
+      "de"
+    ],
+    "research": {},
+    "sources": 808,
+    "categoryForms": {
+      "entertainment": {
+        "form_herleiten": 19,
+        "form_vergleichen": 6,
+        "form_wiedererkennen": 172,
+        "form_zeitlich_einordnen": 3
+      },
+      "everyday_technology": {
+        "form_herleiten": 49,
+        "form_vergleichen": 8,
+        "form_wiedererkennen": 143
+      },
+      "geography_travel": {
+        "form_herleiten": 18,
+        "form_vergleichen": 15,
+        "form_wiedererkennen": 166,
+        "form_zeitlich_einordnen": 1
+      },
+      "history_discoveries": {
+        "form_herleiten": 1,
+        "form_vergleichen": 2,
+        "form_wiedererkennen": 188,
+        "form_zeitlich_einordnen": 9
+      },
+      "language_culture": {
+        "form_herleiten": 15,
+        "form_vergleichen": 2,
+        "form_wiedererkennen": 182,
+        "form_zeitlich_einordnen": 1
+      },
+      "nature_animals": {
+        "form_herleiten": 30,
+        "form_vergleichen": 12,
+        "form_wiedererkennen": 156,
+        "form_zeitlich_einordnen": 2
+      }
+    },
+    "topics": 82
+  },
+  "after": {
+    "active": 2400,
+    "facts": 2400,
+    "categories": {
+      "entertainment": 400,
+      "everyday_technology": 400,
+      "geography_travel": 400,
+      "history_discoveries": 400,
+      "language_culture": 400,
+      "nature_animals": 400
+    },
+    "difficulties": {
+      "easy": 1440,
+      "hard": 240,
+      "medium": 720
+    },
+    "forms": {
+      "form_anwenden": 648,
+      "form_herleiten": 700,
+      "form_schaetzen": 228,
+      "form_vergleichen": 275,
+      "form_wiedererkennen": 405,
+      "form_zeitlich_einordnen": 144
+    },
+    "languages": [
+      "de"
+    ],
+    "research": {
+      "2024": 11,
+      "2025": 14,
+      "2026": 11
+    },
+    "sources": 1085,
+    "categoryForms": {
+      "entertainment": {
+        "form_anwenden": 83,
+        "form_herleiten": 129,
+        "form_schaetzen": 38,
+        "form_vergleichen": 52,
+        "form_wiedererkennen": 77,
+        "form_zeitlich_einordnen": 21
+      },
+      "everyday_technology": {
+        "form_anwenden": 160,
+        "form_herleiten": 82,
+        "form_schaetzen": 39,
+        "form_vergleichen": 69,
+        "form_wiedererkennen": 48,
+        "form_zeitlich_einordnen": 2
+      },
+      "geography_travel": {
+        "form_anwenden": 99,
+        "form_herleiten": 123,
+        "form_schaetzen": 37,
+        "form_vergleichen": 36,
+        "form_wiedererkennen": 72,
+        "form_zeitlich_einordnen": 33
+      },
+      "history_discoveries": {
+        "form_anwenden": 44,
+        "form_herleiten": 163,
+        "form_schaetzen": 50,
+        "form_vergleichen": 24,
+        "form_wiedererkennen": 79,
+        "form_zeitlich_einordnen": 40
+      },
+      "language_culture": {
+        "form_anwenden": 166,
+        "form_herleiten": 76,
+        "form_schaetzen": 35,
+        "form_vergleichen": 38,
+        "form_wiedererkennen": 72,
+        "form_zeitlich_einordnen": 13
+      },
+      "nature_animals": {
+        "form_anwenden": 96,
+        "form_herleiten": 127,
+        "form_schaetzen": 29,
+        "form_vergleichen": 56,
+        "form_wiedererkennen": 57,
+        "form_zeitlich_einordnen": 35
+      }
+    },
+    "topics": 298
+  },
+  "retained": 600,
+  "new": 1800,
+  "archivedPreviouslyActive": 600,
+  "preservedReferences": 150,
+  "retainedWithEditorialRevision": 192,
+  "retainedWithNewPrompt": 72,
+  "retainedWithNewDistractors": 7,
+  "dailyClues": 241,
+  "dailyCluesByCategory": {
+    "entertainment": 39,
+    "everyday_technology": 48,
+    "geography_travel": 34,
+    "history_discoveries": 36,
+    "language_culture": 41,
+    "nature_animals": 43
+  },
+  "researchPublications": 36,
+  "earliestPublication": "2024-02-26",
+  "latestPublication": "2026-11-18",
+  "newForms": {
+    "form_anwenden": 602,
+    "form_herleiten": 636,
+    "form_schaetzen": 227,
+    "form_vergleichen": 211,
+    "form_zeitlich_einordnen": 124
+  },
+  "sha256Runtime": "b4412320586ede132b499e4c05e76200996b86b51e8d53d81750e89768d1dbc8"
+}

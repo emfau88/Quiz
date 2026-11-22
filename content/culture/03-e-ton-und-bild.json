@@ -1,0 +1,2326 @@
+[
+  {
+    "id": "q3-e-foley-schritte",
+    "fact_key": "q3.e.foley.schritte",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Die Kamera hat eine Verfolgung gefilmt. Im Tonstudio tritt eine Person im gleichen Takt auf Kies. Was soll auf dem Bild durch diese Aufnahme glaubwürdiger werden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Schritte der laufenden Figur"
+      },
+      {
+        "id": "b",
+        "text": "Die Farbe des Wegs"
+      },
+      {
+        "id": "c",
+        "text": "Die Stimme des Erzählers"
+      },
+      {
+        "id": "d",
+        "text": "Die Geschwindigkeit des Filmschnitts"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Geräuschemacher spielen die Bewegungen passend zum Bild nach. Ihre Aufnahmen ergänzen die Tonspur.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Australian Centre for the Moving Image · Foley sound",
+        "url": "https://www.acmi.net.au/education/school-program-and-resources/foley-sound/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Die Kamera hat eine Verfolgung gefilmt. Im Tonstudio tritt eine Person im gleichen Takt auf Kies. Was soll auf dem Bild durch diese Aufnahme glaubwürdiger werden? Die Schritte der laufenden Figur. Geräuschemacher spielen die Bewegungen passend zum Bild nach. Ihre Aufnahmen ergänzen die Tonspur.",
+        "locator": "foley, Textstelle 46",
+        "source_sha256": "f83cf5d7e6f248e3c066396e2768bfe5f5f7b594d9349298f936ffe76541024a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-kino-regen",
+    "fact_key": "q3.e.kino.regen",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Für einen Filmregen sucht das Team ein Geräusch, das wie viele feine Tropfen prasselt. Was schlägt das australische Filmmuseum als überraschenden Ersatz vor?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein einzelnes Blatt langsam falten"
+      },
+      {
+        "id": "b",
+        "text": "Etwas in der Pfanne brutzeln lassen"
+      },
+      {
+        "id": "c",
+        "text": "Ein einzelnes Glas anstoßen"
+      },
+      {
+        "id": "d",
+        "text": "Eine Saite mit dem Bogen streichen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Brutzelnder Speck kann in einer Filmtonspur wie prasselnder Regen klingen. Entscheidend ist, was man zusammen mit dem Bild wahrnimmt.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Australian Centre for the Moving Image · Foley sound",
+        "url": "https://www.acmi.net.au/education/school-program-and-resources/foley-sound/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Für einen Filmregen sucht das Team ein Geräusch, das wie viele feine Tropfen prasselt. Was schlägt das australische Filmmuseum als überraschenden Ersatz vor? Etwas in der Pfanne brutzeln lassen. Brutzelnder Speck kann in einer Filmtonspur wie prasselnder Regen klingen. Entscheidend ist, was man zusammen mit dem Bild wahrnimmt.",
+        "locator": "foley, Textstelle 37",
+        "source_sha256": "f83cf5d7e6f248e3c066396e2768bfe5f5f7b594d9349298f936ffe76541024a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-et-klang",
+    "fact_key": "q3.e.et.klang",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Spielberg wünschte für die Bewegungen von E.T. einen weichen, feucht klingenden Ton. In welcher Abteilung fand die Geräuschemacherin dafür Material?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Im Schlüsseldienst bei den Metallrohlingen"
+      },
+      {
+        "id": "b",
+        "text": "Im Schreibwarenladen bei den Bleistiften"
+      },
+      {
+        "id": "c",
+        "text": "Im Lebensmittelgeschäft"
+      },
+      {
+        "id": "d",
+        "text": "Im Musikalienhandel bei den Blechbläsern"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Unter anderem halfen Wackelpudding und verpackte Leber. Die unerwarteten Geräusche ließen die erfundene Figur lebendig wirken.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Australian Centre for the Moving Image · Foley sound",
+        "url": "https://www.acmi.net.au/education/school-program-and-resources/foley-sound/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Spielberg wünschte für die Bewegungen von E.T. einen weichen, feucht klingenden Ton. In welcher Abteilung fand die Geräuschemacherin dafür Material? Im Lebensmittelgeschäft. Unter anderem halfen Wackelpudding und verpackte Leber. Die unerwarteten Geräusche ließen die erfundene Figur lebendig wirken.",
+        "locator": "foley, Textstelle 52",
+        "source_sha256": "f83cf5d7e6f248e3c066396e2768bfe5f5f7b594d9349298f936ffe76541024a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-avatar-stimmen",
+    "fact_key": "q3.e.avatar.stimmen",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Bei „Avatar“ hört man den Ruf eines erfundenen Flugtiers. Schwanenküken, Pferde und Reptilien lieferten einzelne Laute. Welcher Arbeitsschritt führte zur neuen Tierstimme?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur das Bild mit größerer Brennweite aufnehmen"
+      },
+      {
+        "id": "b",
+        "text": "Alle Tierlaute durch Stummfilmtafeln ersetzen"
+      },
+      {
+        "id": "c",
+        "text": "Das Bild auf die doppelte Breite ziehen"
+      },
+      {
+        "id": "d",
+        "text": "Passende Tieraufnahmen zu einem Klang verbinden"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Für die Stimmen der fliegenden Banshees kombinierte das Tonteam verschiedene echte Tierlaute.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Australian Centre for the Moving Image · Foley sound",
+        "url": "https://www.acmi.net.au/education/school-program-and-resources/foley-sound/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Bei „Avatar“ hört man den Ruf eines erfundenen Flugtiers. Schwanenküken, Pferde und Reptilien lieferten einzelne Laute. Welcher Arbeitsschritt führte zur neuen Tierstimme? Passende Tieraufnahmen zu einem Klang verbinden. Für die Stimmen der fliegenden Banshees kombinierte das Tonteam verschiedene echte Tierlaute.",
+        "locator": "foley, Textstelle 58",
+        "source_sha256": "f83cf5d7e6f248e3c066396e2768bfe5f5f7b594d9349298f936ffe76541024a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-kinetoskop-loch",
+    "fact_key": "q3.e.kinetoskop.loch",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer 1894 ins Kinetoskop schaute, musste sich über ein kleines Guckloch beugen. Was unterschied diesen Filmbesuch vom späteren gemeinsamen Kinosaal?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jeweils eine Person konnte das Bild sehen."
+      },
+      {
+        "id": "b",
+        "text": "Das Bild füllte die ganze Saalwand."
+      },
+      {
+        "id": "c",
+        "text": "Die Zuschauer mussten selbst die Rollen spielen."
+      },
+      {
+        "id": "d",
+        "text": "Mehrere Bildwände umgaben das Publikum."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Kinetoskop präsentierte bewegte Bilder im Guckkasten. Erst eine Vorführung auf der Leinwand machte dasselbe Bild für viele zugleich sichtbar.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "British Film Institute · Geschichte der frühen Filmvorführung",
+        "url": "https://www.bfi.org.uk/sight-and-sound/features/origins-cinema-early-inventors-pioneers",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Wer 1894 ins Kinetoskop schaute, musste sich über ein kleines Guckloch beugen. Was unterschied diesen Filmbesuch vom späteren gemeinsamen Kinosaal? Jeweils eine Person konnte das Bild sehen. Das Kinetoskop präsentierte bewegte Bilder im Guckkasten. Erst eine Vorführung auf der Leinwand machte dasselbe Bild für viele zugleich sichtbar.",
+        "locator": "bfix, Textstelle 20",
+        "source_sha256": "7f2ac118c29ea9c755b83b59282ef9bc603107492220da08775e4a998f0f2ed8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-erste-einstellung",
+    "fact_key": "q3.e.erste.einstellung",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In einen frühen Cinématographe passten nur etwa 17 Meter Film. Wie lange konnte eine Einstellung mit dieser Rolle ungefähr dauern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Etwa drei Stunden"
+      },
+      {
+        "id": "b",
+        "text": "Weniger als eine Minute"
+      },
+      {
+        "id": "c",
+        "text": "Etwa eine Viertelstunde"
+      },
+      {
+        "id": "d",
+        "text": "Etwa eine Stunde"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das British Film Institute nennt rund 50 Sekunden. Kurze Alltagsszenen passten gut zu dieser begrenzten Kapazität.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "British Film Institute · Geschichte der frühen Filmvorführung",
+        "url": "https://www.bfi.org.uk/sight-and-sound/features/origins-cinema-early-inventors-pioneers",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "In einen frühen Cinématographe passten nur etwa 17 Meter Film. Wie lange konnte eine Einstellung mit dieser Rolle ungefähr dauern? Weniger als eine Minute. Das British Film Institute nennt rund 50 Sekunden. Kurze Alltagsszenen passten gut zu dieser begrenzten Kapazität.",
+        "locator": "bfix, Textstelle 29",
+        "source_sha256": "7f2ac118c29ea9c755b83b59282ef9bc603107492220da08775e4a998f0f2ed8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-filtransport",
+    "fact_key": "q3.e.filtransport",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Ein Filmstreifen soll im Projektor jedes Einzelbild kurz ruhig zeigen. Welcher Transport eignet sich für dieses mechanische Verfahren?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ihn ohne Halt langsam durch das helle Bildfenster ziehen"
+      },
+      {
+        "id": "b",
+        "text": "Nur den Anfang und das Ende der Rolle beleuchten"
+      },
+      {
+        "id": "c",
+        "text": "Ruckweise um ein Bild weiterschalten"
+      },
+      {
+        "id": "d",
+        "text": "Den Streifen ruhig liegen lassen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die frühe Kameratechnik brauchte einen schrittweisen Transport. Die Mechanik ließ einzelne Filmabschnitte nacheinander an derselben Stelle ruhen.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "British Film Institute · Geschichte der frühen Filmvorführung",
+        "url": "https://www.bfi.org.uk/sight-and-sound/features/origins-cinema-early-inventors-pioneers",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Ein Filmstreifen soll im Projektor jedes Einzelbild kurz ruhig zeigen. Welcher Transport eignet sich für dieses mechanische Verfahren? Ruckweise um ein Bild weiterschalten. Die frühe Kameratechnik brauchte einen schrittweisen Transport. Die Mechanik ließ einzelne Filmabschnitte nacheinander an derselben Stelle ruhen.",
+        "locator": "bfix, Textstelle 25",
+        "source_sha256": "7f2ac118c29ea9c755b83b59282ef9bc603107492220da08775e4a998f0f2ed8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-filmfrueh-sport",
+    "fact_key": "q3.e.filmfrueh.sport",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "1895 filmte Birt Acres ein Bootsrennen, die Lumières das Verlassen einer Fabrik. Was verbindet diese Szenen in der Geschichte des jungen Kinos?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie entstanden beide als abendfüllende Tonfilmkomödien."
+      },
+      {
+        "id": "b",
+        "text": "Sie verwendeten schon digitales Zeitlupenvideo."
+      },
+      {
+        "id": "c",
+        "text": "Sie waren beide für eine weltweite Liveübertragung gedacht."
+      },
+      {
+        "id": "d",
+        "text": "Sie hielten sichtbare Bewegung aus dem wirklichen Leben fest."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Ein Rennen und eine Menge in Bewegung eigneten sich, um die Möglichkeiten des neuen Mediums zu zeigen.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "British Film Institute · Geschichte der frühen Filmvorführung",
+        "url": "https://www.bfi.org.uk/sight-and-sound/features/origins-cinema-early-inventors-pioneers",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "1895 filmte Birt Acres ein Bootsrennen, die Lumières das Verlassen einer Fabrik. Was verbindet diese Szenen in der Geschichte des jungen Kinos? Sie hielten sichtbare Bewegung aus dem wirklichen Leben fest. Ein Rennen und eine Menge in Bewegung eigneten sich, um die Möglichkeiten des neuen Mediums zu zeigen.",
+        "locator": "bfix, Textstelle 26",
+        "source_sha256": "7f2ac118c29ea9c755b83b59282ef9bc603107492220da08775e4a998f0f2ed8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-boxfilm-newyork",
+    "fact_key": "q3.e.boxfilm.newyork",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Ein New Yorker Projektor konnte 1895 bereits einen Boxkampf ohne Unterbrechung zeigen. Welche Spieldauer erreichte die vom BFI beschriebene Vorführung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Etwas über zehn Minuten"
+      },
+      {
+        "id": "b",
+        "text": "Kaum zwei Sekunden"
+      },
+      {
+        "id": "c",
+        "text": "Fast zwei Stunden"
+      },
+      {
+        "id": "d",
+        "text": "Eine ganze Nacht"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Eidoloscope zeigte einen zwölfminütigen Boxkampf. Andere frühe Apparate waren auf wesentlich kürzere Streifen begrenzt.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "British Film Institute · Geschichte der frühen Filmvorführung",
+        "url": "https://www.bfi.org.uk/sight-and-sound/features/origins-cinema-early-inventors-pioneers",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Ein New Yorker Projektor konnte 1895 bereits einen Boxkampf ohne Unterbrechung zeigen. Welche Spieldauer erreichte die vom BFI beschriebene Vorführung? Etwas über zehn Minuten. Das Eidoloscope zeigte einen zwölfminütigen Boxkampf. Andere frühe Apparate waren auf wesentlich kürzere Streifen begrenzt.",
+        "locator": "bfix, Textstelle 32",
+        "source_sha256": "7f2ac118c29ea9c755b83b59282ef9bc603107492220da08775e4a998f0f2ed8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-film-illusion",
+    "fact_key": "q3.e.film.illusion",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein Filmstreifen zeigt einen gehenden Menschen auf vielen leicht verschiedenen unbewegten Bildern. Was muss der Vorführer tun, damit Bewegung erscheint?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Streifen flach auf dem Boden auslegen"
+      },
+      {
+        "id": "b",
+        "text": "Die Einzelbilder schnell nacheinander zeigen"
+      },
+      {
+        "id": "c",
+        "text": "Alle Bilder gleichzeitig übereinander projizieren"
+      },
+      {
+        "id": "d",
+        "text": "Nur das erste und das letzte Bild beleuchten"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Film nutzt die rasche Folge von Momentaufnahmen. Ein einzelnes Filmbild bleibt für sich unbewegt.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Science and Media Museum · A very short history of cinema",
+        "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/very-short-history-of-cinema",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Ein Filmstreifen zeigt einen gehenden Menschen auf vielen leicht verschiedenen unbewegten Bildern. Was muss der Vorführer tun, damit Bewegung erscheint? Die Einzelbilder schnell nacheinander zeigen. Der Film nutzt die rasche Folge von Momentaufnahmen. Ein einzelnes Filmbild bleibt für sich unbewegt.",
+        "locator": "cinema, Textstelle 128",
+        "source_sha256": "ab1296885736b40500856d854d8c16cc7aea3bd93c1e2ad47726561a552c2d48"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-stummfilm-pianist",
+    "fact_key": "q3.e.stummfilm.pianist",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Im Programm eines Stummfilmabends steht ein Pianist. Wie passt das zusammen, obwohl aus dem Film keine aufgezeichneten Dialoge zu hören sind?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sein Spiel färbt die Bilder beim Vorführen ein."
+      },
+      {
+        "id": "b",
+        "text": "Der Pianist ersetzt den Projektor durch eine Notenrolle."
+      },
+      {
+        "id": "c",
+        "text": "Der Musiker begleitet die Bilder live im Saal."
+      },
+      {
+        "id": "d",
+        "text": "Das Klavier dient ausschließlich zum Abspielen der Filmrolle."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Stummfilme liefen häufig mit Musik. Auch Vortrag und Reaktionen des Publikums konnten einen Kinobesuch hörbar prägen.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Science and Media Museum · A very short history of cinema",
+        "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/very-short-history-of-cinema",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Im Programm eines Stummfilmabends steht ein Pianist. Wie passt das zusammen, obwohl aus dem Film keine aufgezeichneten Dialoge zu hören sind? Der Musiker begleitet die Bilder live im Saal. Stummfilme liefen häufig mit Musik. Auch Vortrag und Reaktionen des Publikums konnten einen Kinobesuch hörbar prägen.",
+        "locator": "cinema, Textstelle 146",
+        "source_sha256": "ab1296885736b40500856d854d8c16cc7aea3bd93c1e2ad47726561a552c2d48"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-filmfrueh-farbe",
+    "fact_key": "q3.e.filmfrueh.farbe",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Ein frühes Filmbild ist fast ganz schwarzweiß. Nur das Kleid wechselt auf einer Aufnahme seine Farbe. Welche Methode konnte damals gezielt einzelne Bildflächen einfärben?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein gleichmäßiger Farbfilter vor dem ganzen Projektionsbild"
+      },
+      {
+        "id": "b",
+        "text": "Eine getönte Leinwand für die gesamte Szene"
+      },
+      {
+        "id": "c",
+        "text": "Ein Einfärben des vollständigen Filmstreifens in nur einem einzigen Farbton"
+      },
+      {
+        "id": "d",
+        "text": "Handkolorierung oder Arbeiten mit Schablonen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Schon frühe Filme konnten durch Handkolorierung oder Schablonen Farbe erhalten, lange vor der Verbreitung des modernen Farbfilms.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Science and Media Museum · A very short history of cinema",
+        "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/very-short-history-of-cinema",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Ein frühes Filmbild ist fast ganz schwarzweiß. Nur das Kleid wechselt auf einer Aufnahme seine Farbe. Welche Methode konnte damals gezielt einzelne Bildflächen einfärben? Handkolorierung oder Arbeiten mit Schablonen. Schon frühe Filme konnten durch Handkolorierung oder Schablonen Farbe erhalten, lange vor der Verbreitung des modernen Farbfilms.",
+        "locator": "cinema, Textstelle 152",
+        "source_sha256": "ab1296885736b40500856d854d8c16cc7aea3bd93c1e2ad47726561a552c2d48"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-jazz-singer-platte",
+    "fact_key": "q3.e.jazz.singer.platte",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Bei „The Jazz Singer“ gehörte zu jeder Filmrolle eine gesonderte Tonplatte. Welches Problem entsteht, wenn nur die Platte ein Stück zu spät startet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lippenbewegung und Gesang passen zeitlich nicht zusammen."
+      },
+      {
+        "id": "b",
+        "text": "Schwarzweiße Bilder verlieren ihren Kontrast."
+      },
+      {
+        "id": "c",
+        "text": "Die Leinwand wird im Verlauf der Szene schmaler."
+      },
+      {
+        "id": "d",
+        "text": "Die Stimmen werden vertauscht, bleiben aber synchron."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Vitaphone musste zwei getrennte Träger aufeinander abstimmen. Eine Verschiebung wurde bei sprechenden oder singenden Figuren bemerkbar.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Science and Media Museum · A very short history of cinema",
+        "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/very-short-history-of-cinema",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Bei „The Jazz Singer“ gehörte zu jeder Filmrolle eine gesonderte Tonplatte. Welches Problem entsteht, wenn nur die Platte ein Stück zu spät startet? Lippenbewegung und Gesang passen zeitlich nicht zusammen. Vitaphone musste zwei getrennte Träger aufeinander abstimmen. Eine Verschiebung wurde bei sprechenden oder singenden Figuren bemerkbar.",
+        "locator": "cinema, Textstelle 175",
+        "source_sha256": "ab1296885736b40500856d854d8c16cc7aea3bd93c1e2ad47726561a552c2d48"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-lichtton-filmrand",
+    "fact_key": "q3.e.lichtton.filmrand",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Ein alter Tonfilm trägt seine Tonspur als Streifen direkt neben dem Bild. Welchen Vorteil hat das gegenüber einer getrennt gestarteten Schallplatte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Bild erhält automatisch neue Farben."
+      },
+      {
+        "id": "b",
+        "text": "Bild und Ton laufen auf demselben Träger mit."
+      },
+      {
+        "id": "c",
+        "text": "Der Projektor braucht keine Lichtquelle mehr."
+      },
+      {
+        "id": "d",
+        "text": "Filmrollen können beliebig rückwärts laufen, ohne dass man es hört."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Beim Lichtton ist die Toninformation am Filmrand aufgezeichnet. Das erleichtert die feste Zuordnung zum Bild.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Science and Media Museum · A very short history of cinema",
+        "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/very-short-history-of-cinema",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Ein alter Tonfilm trägt seine Tonspur als Streifen direkt neben dem Bild. Welchen Vorteil hat das gegenüber einer getrennt gestarteten Schallplatte? Bild und Ton laufen auf demselben Träger mit. Beim Lichtton ist die Toninformation am Filmrand aufgezeichnet. Das erleichtert die feste Zuordnung zum Bild.",
+        "locator": "cinema, Textstelle 176",
+        "source_sha256": "ab1296885736b40500856d854d8c16cc7aea3bd93c1e2ad47726561a552c2d48"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-kinopalast-plaetze",
+    "fact_key": "q3.e.kinopalast.plaetze",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Manche Kinopaläste der Dreißigerjahre boten Café und Tanzsaal. Wie viele Menschen konnten laut britischem Medienmuseum schon in einem einzigen großen Vorführsaal sitzen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Höchstens hundert"
+      },
+      {
+        "id": "b",
+        "text": "Mehrere Hunderttausend"
+      },
+      {
+        "id": "c",
+        "text": "Mehrere Tausend"
+      },
+      {
+        "id": "d",
+        "text": "Einige Dutzend"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Einige dieser Säle fassten über 3.000 Menschen. Ein solcher Besuch unterschied sich erheblich vom heutigen kleinen Studiokino.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Science and Media Museum · A very short history of cinema",
+        "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/very-short-history-of-cinema",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Manche Kinopaläste der Dreißigerjahre boten Café und Tanzsaal. Wie viele Menschen konnten laut britischem Medienmuseum schon in einem einzigen großen Vorführsaal sitzen? Mehrere Tausend. Einige dieser Säle fassten über 3.000 Menschen. Ein solcher Besuch unterschied sich erheblich vom heutigen kleinen Studiokino.",
+        "locator": "cinema, Textstelle 179",
+        "source_sha256": "ab1296885736b40500856d854d8c16cc7aea3bd93c1e2ad47726561a552c2d48"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-britisches-kino-1946",
+    "fact_key": "q3.e.britisches.kino.1946",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Großbritannien verzeichnete 1946 über 31 Millionen Kinobesuche pro Woche. Wie viele Eintritte waren das pro Tag im Durchschnitt ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vier- bis fünfhunderttausend"
+      },
+      {
+        "id": "b",
+        "text": "Dreißig Millionen"
+      },
+      {
+        "id": "c",
+        "text": "Hundert Millionen"
+      },
+      {
+        "id": "d",
+        "text": "Vier bis fünf Millionen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Auf sieben Tage verteilt ergeben 31 Millionen rund 4,4 Millionen. Gezählt sind Besuche, also auch wiederkehrende Zuschauer.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Science and Media Museum · A very short history of cinema",
+        "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/very-short-history-of-cinema",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Großbritannien verzeichnete 1946 über 31 Millionen Kinobesuche pro Woche. Wie viele Eintritte waren das pro Tag im Durchschnitt ungefähr? Vier bis fünf Millionen. Auf sieben Tage verteilt ergeben 31 Millionen rund 4,4 Millionen. Gezählt sind Besuche, also auch wiederkehrende Zuschauer.",
+        "locator": "cinema, Textstelle 180",
+        "source_sha256": "ab1296885736b40500856d854d8c16cc7aea3bd93c1e2ad47726561a552c2d48"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-seitenformat",
+    "fact_key": "q3.e.seitenformat",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine Leinwand im alten Format 4 zu 3 ist acht Meter breit. Welche Höhe erhält das ursprüngliche Bildverhältnis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sechs Meter"
+      },
+      {
+        "id": "b",
+        "text": "Drei Meter"
+      },
+      {
+        "id": "c",
+        "text": "Acht Meter"
+      },
+      {
+        "id": "d",
+        "text": "Zwölf Meter"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Verhältnis beschreibt Breite zu Höhe. Werden beide Werte verdoppelt, ergeben sich acht zu sechs Meter.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Science and Media Museum · A very short history of cinema",
+        "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/very-short-history-of-cinema",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Eine Leinwand im alten Format 4 zu 3 ist acht Meter breit. Welche Höhe erhält das ursprüngliche Bildverhältnis? Sechs Meter. Das Verhältnis beschreibt Breite zu Höhe. Werden beide Werte verdoppelt, ergeben sich acht zu sechs Meter.",
+        "locator": "cinema, Textstelle 186",
+        "source_sha256": "ab1296885736b40500856d854d8c16cc7aea3bd93c1e2ad47726561a552c2d48"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-cinerama-drei",
+    "fact_key": "q3.e.cinerama.drei",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "1952 warf Cinerama mehrere Bildteile nebeneinander auf eine stark gebogene Leinwand. Welche Anzahl von Projektoren brauchte das damalige Verfahren?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zwanzig"
+      },
+      {
+        "id": "b",
+        "text": "Drei"
+      },
+      {
+        "id": "c",
+        "text": "Einen"
+      },
+      {
+        "id": "d",
+        "text": "Acht"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Drei Projektoren erzeugten zusammen das breite Panorama. Der Aufbau war technisch aufwendig.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Science and Media Museum · A very short history of cinema",
+        "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/very-short-history-of-cinema",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "1952 warf Cinerama mehrere Bildteile nebeneinander auf eine stark gebogene Leinwand. Welche Anzahl von Projektoren brauchte das damalige Verfahren? Drei. Drei Projektoren erzeugten zusammen das breite Panorama. Der Aufbau war technisch aufwendig.",
+        "locator": "cinema, Textstelle 193",
+        "source_sha256": "ab1296885736b40500856d854d8c16cc7aea3bd93c1e2ad47726561a552c2d48"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-cinemascope-linse",
+    "fact_key": "q3.e.cinemascope.linse",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Auf einer CinemaScope-Filmkopie sehen Personen unnatürlich schmal aus. Wie muss das Objektiv das Bild für die breite Leinwand verändern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Um neunzig Grad drehen"
+      },
+      {
+        "id": "b",
+        "text": "Nur den mittleren Bildteil vergrößern"
+      },
+      {
+        "id": "c",
+        "text": "Seitlich auseinanderziehen"
+      },
+      {
+        "id": "d",
+        "text": "In der Höhe verdoppeln"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "CinemaScope speicherte das breite Bild seitlich gestaucht auf 35-mm-Film. Die Projektionsoptik hob die Stauchung wieder auf.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Science and Media Museum · A very short history of cinema",
+        "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/very-short-history-of-cinema",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Auf einer CinemaScope-Filmkopie sehen Personen unnatürlich schmal aus. Wie muss das Objektiv das Bild für die breite Leinwand verändern? Seitlich auseinanderziehen. CinemaScope speicherte das breite Bild seitlich gestaucht auf 35-mm-Film. Die Projektionsoptik hob die Stauchung wieder auf.",
+        "locator": "cinema, Textstelle 196",
+        "source_sha256": "ab1296885736b40500856d854d8c16cc7aea3bd93c1e2ad47726561a552c2d48"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-toddao-format",
+    "fact_key": "q3.e.toddao.format",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "35-Millimeter-Film war im Kino verbreitet. Wie breit war dagegen der im Todd-AO-Verfahren verwendete große Filmstreifen ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Halb so breit"
+      },
+      {
+        "id": "b",
+        "text": "Dreimal so breit"
+      },
+      {
+        "id": "c",
+        "text": "Zehnmal so breit"
+      },
+      {
+        "id": "d",
+        "text": "Doppelt so breit"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Todd-AO verwendete 70-mm-Film. Die beiden Zahlen bezeichnen die Breite des Streifens, nicht die Breite der Leinwand.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Science and Media Museum · A very short history of cinema",
+        "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/very-short-history-of-cinema",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "35-Millimeter-Film war im Kino verbreitet. Wie breit war dagegen der im Todd-AO-Verfahren verwendete große Filmstreifen ungefähr? Doppelt so breit. Todd-AO verwendete 70-mm-Film. Die beiden Zahlen bezeichnen die Breite des Streifens, nicht die Breite der Leinwand.",
+        "locator": "cinema, Textstelle 196",
+        "source_sha256": "ab1296885736b40500856d854d8c16cc7aea3bd93c1e2ad47726561a552c2d48"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-kino-fernseher",
+    "fact_key": "q3.e.kino.fernseher",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Als Fernsehgeräte in Wohnzimmer einzogen, warb das Kino mit extra breiten Bildern und räumlichem Ton. Welches Erlebnis wollte es besonders herausstellen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die große gemeinsame Vorführung im Kinosaal"
+      },
+      {
+        "id": "b",
+        "text": "Die private Wahl des Sendezeitpunkts zu Hause"
+      },
+      {
+        "id": "c",
+        "text": "Den gedruckten Abdruck aller Dialoge"
+      },
+      {
+        "id": "d",
+        "text": "Das Radiohören ohne sichtbare Handlung"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Breitwand und neue Tonverfahren halfen dem Kino, sich gegenüber dem damals kleinen Fernsehbild abzuheben.",
+    "tags": [
+      "thema_filmgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "National Science and Media Museum · A very short history of cinema",
+        "url": "https://www.scienceandmediamuseum.org.uk/objects-and-stories/very-short-history-of-cinema",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Als Fernsehgeräte in Wohnzimmer einzogen, warb das Kino mit extra breiten Bildern und räumlichem Ton. Welches Erlebnis wollte es besonders herausstellen? Die große gemeinsame Vorführung im Kinosaal. Breitwand und neue Tonverfahren halfen dem Kino, sich gegenüber dem damals kleinen Fernsehbild abzuheben.",
+        "locator": "cinema, Textstelle 192",
+        "source_sha256": "ab1296885736b40500856d854d8c16cc7aea3bd93c1e2ad47726561a552c2d48"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-caruso-stimme",
+    "fact_key": "q3.e.caruso.stimme",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine Partitur bewahrt die Töne einer Arie. Was kann eine erhaltene Caruso-Platte darüber hinaus vermitteln?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alle späteren Änderungen der gedruckten Partitur"
+      },
+      {
+        "id": "b",
+        "text": "Den Klang seiner tatsächlichen Gesangsstimme"
+      },
+      {
+        "id": "c",
+        "text": "Das vollständige Bühnenbild der Premiere"
+      },
+      {
+        "id": "d",
+        "text": "Den Platz jedes Zuhörers im Saal"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Eine Tonaufnahme bewahrt eine konkrete Interpretation. Dieselben Noten können bei einem anderen Sänger anders klingen.",
+    "tags": [
+      "thema_musikmedien",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bundeszentrale für politische Bildung · Caruso auf Platte",
+        "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/sound-des-jahrhunderts/209608/caruso-auf-platte/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Eine Partitur bewahrt die Töne einer Arie. Was kann eine erhaltene Caruso-Platte darüber hinaus vermitteln? Den Klang seiner tatsächlichen Gesangsstimme. Eine Tonaufnahme bewahrt eine konkrete Interpretation. Dieselben Noten können bei einem anderen Sänger anders klingen.",
+        "locator": "caruso, Textstelle 119",
+        "source_sha256": "212e3a4876a088830c7070c1f7ac934ac84c61437c0cb13ffb667f2582d8e922"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-schellack-mischung",
+    "fact_key": "q3.e.schellack.mischung",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Ein frühes Plattenrezept von Emil Berliner enthielt Gesteinsmehl und Schellack. Welcher Stoff machte ungefähr zwei Drittel der Mischung aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schallplattenwachs"
+      },
+      {
+        "id": "b",
+        "text": "Reines Vinyl"
+      },
+      {
+        "id": "c",
+        "text": "Gesteinsmehl"
+      },
+      {
+        "id": "d",
+        "text": "Schellack"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der VDE nennt rund 70 Prozent Gesteinsmehl und 30 Prozent Schellack für diese Mischung.",
+    "tags": [
+      "thema_musikmedien",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Verband der Elektrotechnik · Geschichte der Tonaufzeichnung",
+        "url": "https://www.vde.com/de/geschichte/chronik/tonaufzeichnung",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Ein frühes Plattenrezept von Emil Berliner enthielt Gesteinsmehl und Schellack. Welcher Stoff machte ungefähr zwei Drittel der Mischung aus? Gesteinsmehl. Der VDE nennt rund 70 Prozent Gesteinsmehl und 30 Prozent Schellack für diese Mischung.",
+        "locator": "vdeton, Textstelle 78",
+        "source_sha256": "83c2f3762acfc0da26b9f93430bd5195c0ab677fad995d72226de7c95456653c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-musikbox-vorwahl",
+    "fact_key": "q3.e.musikbox.vorwahl",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine historische Musikbox bot im Lokal ausdrücklich eine „Vorwahl“ von Schallplatten. Was konnte der Gast damit zusätzlich zum bloßen Einschalten tun?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Tonspur der Platte durch eigenen Gesang ersetzen"
+      },
+      {
+        "id": "b",
+        "text": "Dem Musiker während eines Liveauftritts einen Wunsch zurufen"
+      },
+      {
+        "id": "c",
+        "text": "Eine mitgebrachte Radiosendung auf die Münze aufnehmen"
+      },
+      {
+        "id": "d",
+        "text": "Vor dem Abspielen einen Titel aus dem Vorrat auswählen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der VDE verzeichnet eine Musikbox mit Platten und Vorwahl von John Gabel. Die Auswahl des Gastes gehörte zum Erlebnis im Lokal.",
+    "tags": [
+      "thema_musikmedien",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Verband der Elektrotechnik · Geschichte der Tonaufzeichnung",
+        "url": "https://www.vde.com/de/geschichte/chronik/tonaufzeichnung",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Eine historische Musikbox bot im Lokal ausdrücklich eine „Vorwahl“ von Schallplatten. Was konnte der Gast damit zusätzlich zum bloßen Einschalten tun? Vor dem Abspielen einen Titel aus dem Vorrat auswählen. Der VDE verzeichnet eine Musikbox mit Platten und Vorwahl von John Gabel. Die Auswahl des Gastes gehörte zum Erlebnis im Lokal.",
+        "locator": "vdeton, Textstelle 88",
+        "source_sha256": "83c2f3762acfc0da26b9f93430bd5195c0ab677fad995d72226de7c95456653c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-videoband-spur",
+    "fact_key": "q3.e.videoband.spur",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Im Familienarchiv liegen ein reines Tonband und ein Videoband eines Auftritts. Was kann nur das passend bespielte Videoband zusätzlich bewahren?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die sichtbaren Bewegungen auf der Bühne"
+      },
+      {
+        "id": "b",
+        "text": "Die Stimmlage der Sängerin"
+      },
+      {
+        "id": "c",
+        "text": "Das Klatschen des Publikums"
+      },
+      {
+        "id": "d",
+        "text": "Den hörbaren Beginn des Refrains"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein Videoband kann neben dem Ton auch Bilder magnetisch speichern. Ein reines Tonband überliefert die akustische Seite.",
+    "tags": [
+      "thema_musikmedien",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Verband der Elektrotechnik · Geschichte der Tonaufzeichnung",
+        "url": "https://www.vde.com/de/geschichte/chronik/tonaufzeichnung",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Im Familienarchiv liegen ein reines Tonband und ein Videoband eines Auftritts. Was kann nur das passend bespielte Videoband zusätzlich bewahren? Die sichtbaren Bewegungen auf der Bühne. Ein Videoband kann neben dem Ton auch Bilder magnetisch speichern. Ein reines Tonband überliefert die akustische Seite.",
+        "locator": "vdeton, Textstelle 156",
+        "source_sha256": "83c2f3762acfc0da26b9f93430bd5195c0ab677fad995d72226de7c95456653c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-cd-laser",
+    "fact_key": "q3.e.cd.laser",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein CD-Spieler tastet die Scheibe mit Licht ab. Welches Bauteil einer klassischen Plattenwiedergabe berührt den CD-Tonträger deshalb nicht?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Halterung in der Mitte"
+      },
+      {
+        "id": "b",
+        "text": "Eine Nadel in einer Schallrille"
+      },
+      {
+        "id": "c",
+        "text": "Ein Motor, der die Scheibe dreht"
+      },
+      {
+        "id": "d",
+        "text": "Eine Taste zum Starten"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Compact Disc wird optisch mit einem Laser gelesen. Die mechanische Abtastung der Schallplattenrille entfällt.",
+    "tags": [
+      "thema_musikmedien",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Verband der Elektrotechnik · Geschichte der Tonaufzeichnung",
+        "url": "https://www.vde.com/de/geschichte/chronik/tonaufzeichnung",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Ein CD-Spieler tastet die Scheibe mit Licht ab. Welches Bauteil einer klassischen Plattenwiedergabe berührt den CD-Tonträger deshalb nicht? Eine Nadel in einer Schallrille. Die Compact Disc wird optisch mit einem Laser gelesen. Die mechanische Abtastung der Schallplattenrille entfällt.",
+        "locator": "vdeton, Textstelle 170",
+        "source_sha256": "83c2f3762acfc0da26b9f93430bd5195c0ab677fad995d72226de7c95456653c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-mp3-telefon",
+    "fact_key": "q3.e.mp3.telefon",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Der ursprüngliche Erlanger Wunsch war Musik über Telefonleitungen. Welche Eigenschaft eines Audioformats half bei der knappen Übertragungskapazität besonders?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mehr Einzelbilder pro Filmsekunde"
+      },
+      {
+        "id": "b",
+        "text": "Ein eigener Lautsprecher für jedes Instrument"
+      },
+      {
+        "id": "c",
+        "text": "Weniger zu übertragende Daten bei ähnlichem Höreindruck"
+      },
+      {
+        "id": "d",
+        "text": "Eine größere bedruckte Plattenhülle"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Idee der Datenreduktion wurde im mp3-Verfahren hörpraktisch wirksam. Das half später auch beim Übertragen über das Internet.",
+    "tags": [
+      "thema_musikmedien",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Fraunhofer IIS · 30 Jahre mp3",
+        "url": "https://www.iis.fraunhofer.de/de/magazin/panorama/2025/30-jahre-mp3.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Der ursprüngliche Erlanger Wunsch war Musik über Telefonleitungen. Welche Eigenschaft eines Audioformats half bei der knappen Übertragungskapazität besonders? Weniger zu übertragende Daten bei ähnlichem Höreindruck. Die Idee der Datenreduktion wurde im mp3-Verfahren hörpraktisch wirksam. Das half später auch beim Übertragen über das Internet.",
+        "locator": "mp3, Textstelle 187",
+        "source_sha256": "e856e3fe06087175a3597e483e9306c4bb94a5cd0dac1f57f9ecd45311ceb1a8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-mp3-wahrnehmung",
+    "fact_key": "q3.e.mp3.wahrnehmung",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Zwei Signalanteile kosten Speicher. Einen hört ein Mensch im Musikgemisch kaum, den anderen deutlich. Welchen behandelt mp3 für die Verkleinerung bevorzugt ungenauer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stets nur die erste Sekunde des Liedes"
+      },
+      {
+        "id": "b",
+        "text": "Jeden zweiten Takt unabhängig vom Klang"
+      },
+      {
+        "id": "c",
+        "text": "Ausschließlich den linken Stereokanal"
+      },
+      {
+        "id": "d",
+        "text": "Den kaum wahrnehmbaren Anteil"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Das Verfahren nutzt Eigenschaften des menschlichen Gehörs und speichert weniger wichtige Anteile mit weniger Bits.",
+    "tags": [
+      "thema_musikmedien",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Fraunhofer IIS · 30 Jahre mp3",
+        "url": "https://www.iis.fraunhofer.de/de/magazin/panorama/2025/30-jahre-mp3.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Zwei Signalanteile kosten Speicher. Einen hört ein Mensch im Musikgemisch kaum, den anderen deutlich. Welchen behandelt mp3 für die Verkleinerung bevorzugt ungenauer? Den kaum wahrnehmbaren Anteil. Das Verfahren nutzt Eigenschaften des menschlichen Gehörs und speichert weniger wichtige Anteile mit weniger Bits.",
+        "locator": "mp3, Textstelle 194",
+        "source_sha256": "e856e3fe06087175a3597e483e9306c4bb94a5cd0dac1f57f9ecd45311ceb1a8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-mp3-speicher",
+    "fact_key": "q3.e.mp3.speicher",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine Musiksammlung belegt unkomprimiert ein Gigabyte. Wie viel bliebe ungefähr, wenn mp3 die beschriebene zehnfache Verkleinerung erreicht?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hundert Megabyte"
+      },
+      {
+        "id": "b",
+        "text": "Zehn Megabyte"
+      },
+      {
+        "id": "c",
+        "text": "Fünfhundert Megabyte"
+      },
+      {
+        "id": "d",
+        "text": "Zehn Gigabyte"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein Zehntel eines Gigabytes entspricht grob hundert Megabyte. Wie klein eine Datei tatsächlich wird, hängt von der Kodierung ab.",
+    "tags": [
+      "thema_musikmedien",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Fraunhofer IIS · 30 Jahre mp3",
+        "url": "https://www.iis.fraunhofer.de/de/magazin/panorama/2025/30-jahre-mp3.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Eine Musiksammlung belegt unkomprimiert ein Gigabyte. Wie viel bliebe ungefähr, wenn mp3 die beschriebene zehnfache Verkleinerung erreicht? Hundert Megabyte. Ein Zehntel eines Gigabytes entspricht grob hundert Megabyte. Wie klein eine Datei tatsächlich wird, hängt von der Kodierung ab.",
+        "locator": "mp3, Textstelle 194",
+        "source_sha256": "e856e3fe06087175a3597e483e9306c4bb94a5cd0dac1f57f9ecd45311ceb1a8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-mp3-name",
+    "fact_key": "q3.e.mp3.name",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Die Dateiendung .mp3 wurde im Juli 1995 per E-Mail am Fraunhofer IIS festgelegt. In welche Medienwelt fiel diese Namensentscheidung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In die Einführung der mechanischen Musikautomaten"
+      },
+      {
+        "id": "b",
+        "text": "In die Jahre des aufkommenden Internets und der tragbaren Digitalmusik"
+      },
+      {
+        "id": "c",
+        "text": "In die Anfangsjahre des Röhrenradios"
+      },
+      {
+        "id": "d",
+        "text": "In die ersten Jahre des öffentlichen Farbfernsehens"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Bezeichnung steht für den dritten Audiolayer des MPEG-1-Standards. In den Neunzigern suchte das Team auch nach tragbaren Abspielmöglichkeiten.",
+    "tags": [
+      "thema_musikmedien",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Fraunhofer IIS · 30 Jahre mp3",
+        "url": "https://www.iis.fraunhofer.de/de/magazin/panorama/2025/30-jahre-mp3.html",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Die Dateiendung .mp3 wurde im Juli 1995 per E-Mail am Fraunhofer IIS festgelegt. In welche Medienwelt fiel diese Namensentscheidung? In die Jahre des aufkommenden Internets und der tragbaren Digitalmusik. Die Bezeichnung steht für den dritten Audiolayer des MPEG-1-Standards. In den Neunzigern suchte das Team auch nach tragbaren Abspielmöglichkeiten.",
+        "locator": "mp3, Textstelle 197",
+        "source_sha256": "e856e3fe06087175a3597e483e9306c4bb94a5cd0dac1f57f9ecd45311ceb1a8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

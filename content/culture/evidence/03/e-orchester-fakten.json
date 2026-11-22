@@ -1,0 +1,402 @@
+{
+  "q3-e-geigen-pult": {
+    "fingerprint": "3556cb81406bb358f383b5e66d9e0a019c2e47a728f0d1f08caa0c701607a52b",
+    "checked_at": "2026-11-22T21:29:30+00:00",
+    "sources": [
+      {
+        "key": "p-violin",
+        "title": "Philharmonia Orchestra · violin",
+        "url": "https://philharmonia.co.uk/resources/instruments/violin/",
+        "downloaded_at": "2026-11-22T21:17:58+00:00",
+        "sha256": "3d51aad47b76c8aae37c2294bfc64dbbd76ea137f9cfbe7f1e17a093b1f3129b",
+        "source_line": 106,
+        "source_line_sha256": "c57d1eea023d585dbef69e0ace111835cb701bdb7a32113709f204452d506ec2",
+        "anchor": "sixteen Firsts and fourteen Seconds"
+      }
+    ]
+  },
+  "q3-e-bratsche-tiefer": {
+    "fingerprint": "164063329cd973fee60e7843583ce417dc08cb0f0b8fbae3f9ef298d0320a52b",
+    "checked_at": "2026-11-22T21:29:30+00:00",
+    "sources": [
+      {
+        "key": "p-viola",
+        "title": "Philharmonia Orchestra · viola",
+        "url": "https://philharmonia.co.uk/resources/instruments/viola/",
+        "downloaded_at": "2026-11-22T21:17:58+00:00",
+        "sha256": "edf9bc37b1e7fc4af02741bd27c448b815824aba02363fff52e2b733b2e0f139",
+        "source_line": 96,
+        "source_line_sha256": "6f084f3ea55b3966b85609e1ced2e46d61711e0680032b41206f524d9a4a58cd",
+        "anchor": "larger than the violin"
+      }
+    ]
+  },
+  "q3-e-bratsche-c-saite": {
+    "fingerprint": "e05da0045b98c4ae612ae95cb8a167600d297b4f5bb26afbe1a13e704bf1d02b",
+    "checked_at": "2026-11-22T21:29:30+00:00",
+    "sources": [
+      {
+        "key": "p-viola",
+        "title": "Philharmonia Orchestra · viola",
+        "url": "https://philharmonia.co.uk/resources/instruments/viola/",
+        "downloaded_at": "2026-11-22T21:17:58+00:00",
+        "sha256": "edf9bc37b1e7fc4af02741bd27c448b815824aba02363fff52e2b733b2e0f139",
+        "source_line": 106,
+        "source_line_sha256": "cf3167813733162eb57182b3b9d3af31175ae0915edbd54b51fa3ba7a5743beb",
+        "anchor": "Writing Sul C"
+      }
+    ]
+  },
+  "q3-e-cello-register": {
+    "fingerprint": "7896ce23b06fb45aac883bf851ee7dd153b8e7a05bba988b8166d0439ff1285c",
+    "checked_at": "2026-11-22T21:29:30+00:00",
+    "sources": [
+      {
+        "key": "p-cello",
+        "title": "Philharmonia Orchestra · cello",
+        "url": "https://philharmonia.co.uk/resources/instruments/cello/",
+        "downloaded_at": "2026-11-22T21:17:48+00:00",
+        "sha256": "68871431c29087c1a64f26cf4bac6a63364cee10a941983e452aaf1cf4a5a93a",
+        "source_line": 99,
+        "source_line_sha256": "1f283b9118ae674a2e39b382b18ae674fcec60b4f6ac8dd7690c20c1f2b4d42f",
+        "anchor": "octave lower than the viola"
+      }
+    ]
+  },
+  "q3-e-bass-fundament": {
+    "fingerprint": "78e55e466236bfd3ab0931a068d215cb198c5154b2bd39ae67ddf703c7e5a12c",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-double-bass",
+        "title": "Philharmonia Orchestra · double-bass",
+        "url": "https://philharmonia.co.uk/resources/instruments/double-bass/",
+        "downloaded_at": "2026-11-22T21:17:49+00:00",
+        "sha256": "b9163fd043e33a5f518b45f0155dc5977a3397fc6cc6c265601f53a8c0b622d8",
+        "source_line": 96,
+        "source_line_sha256": "5cf625be9529164c9d3c92abddf067af1f710dcf81c92973398137e6656c3f10",
+        "anchor": "supporting the harmonies"
+      }
+    ]
+  },
+  "q3-e-floete-material": {
+    "fingerprint": "296c92f83ce8cf85cb828349c8921452231f364b34056c9d10d76abd7f1da851",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-flute",
+        "title": "Philharmonia Orchestra · flute",
+        "url": "https://philharmonia.co.uk/resources/instruments/flute/",
+        "downloaded_at": "2026-11-22T21:17:52+00:00",
+        "sha256": "49ed010237fca945e9cc62c30927709b8acb9edc1ac52c644153fc208191172a",
+        "source_line": 96,
+        "source_line_sha256": "94b013331e5cde863de3077e594d7bf5ad9a0fa1733c54882e84be75d71934e1",
+        "anchor": "modern flutes are metal"
+      }
+    ]
+  },
+  "q3-e-floeten-klappen": {
+    "fingerprint": "ea52501d0621825a1714bf6d2d890d86f287cb0c85ae760d2f742998253482f1",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-flute",
+        "title": "Philharmonia Orchestra · flute",
+        "url": "https://philharmonia.co.uk/resources/instruments/flute/",
+        "downloaded_at": "2026-11-22T21:17:52+00:00",
+        "sha256": "49ed010237fca945e9cc62c30927709b8acb9edc1ac52c644153fc208191172a",
+        "source_line": 95,
+        "source_line_sha256": "5a67fd80b949e0f810d1ee47bc96a73f3ec7568ae72e2573cd5f62fc5440a891",
+        "anchor": "metal keys and pads"
+      }
+    ]
+  },
+  "q3-e-piccolo-oktave": {
+    "fingerprint": "101da2ad5e0f09b01aecf61cb6ed5a46a2ff53651597aeec92f45989c385ed01",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-flute",
+        "title": "Philharmonia Orchestra · flute",
+        "url": "https://philharmonia.co.uk/resources/instruments/flute/",
+        "downloaded_at": "2026-11-22T21:17:52+00:00",
+        "sha256": "49ed010237fca945e9cc62c30927709b8acb9edc1ac52c644153fc208191172a",
+        "source_line": 104,
+        "source_line_sha256": "5b480bb2a44fe80aa910667c1ee60775a09dd4e79a21b0dab312461e9f6d441e",
+        "anchor": "an octave higher than written"
+      }
+    ]
+  },
+  "q3-e-oboe-englischhorn": {
+    "fingerprint": "c9507b9ed057c4930515047ac4771bfed749b9f6f55cc0a0aaeee282808b8cc5",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-oboe",
+        "title": "Philharmonia Orchestra · oboe",
+        "url": "https://philharmonia.co.uk/resources/instruments/oboe/",
+        "downloaded_at": "2026-11-22T21:17:53+00:00",
+        "sha256": "dc98b18e243212e1a4ea3e9d1baa6834ebcf2ac48b95a632d5c1993acca8f230",
+        "source_line": 94,
+        "source_line_sha256": "0d72f252ca3ec729048c8a0e691c136ee17cc04bb0205517a7a2630352436279",
+        "anchor": "double reed instruments"
+      }
+    ]
+  },
+  "q3-e-englischhorn-form": {
+    "fingerprint": "55846758e16162cc31d777f8d652646c574b7d157bd77b022d547493fea82444",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-cor-anglais",
+        "title": "Philharmonia Orchestra · cor-anglais",
+        "url": "https://philharmonia.co.uk/resources/instruments/cor-anglais/",
+        "downloaded_at": "2026-11-22T21:17:51+00:00",
+        "sha256": "93843bc37f668d1badf8d8c7d79656c51cbe0a4070d85032e06022ec1b3a8464",
+        "source_line": 92,
+        "source_line_sha256": "14a9da0f6717f946ac8bcdbe7a3a90fd8aa5eea5217abfa87b90279c12281f3e",
+        "anchor": "pear-shaped bell"
+      }
+    ]
+  },
+  "q3-e-oboe-orchesterzeit": {
+    "fingerprint": "bd819bd8f7c20f21076a1af33719e422451e1dc7580ae5a22db3ed4b52cb4090",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-oboe",
+        "title": "Philharmonia Orchestra · oboe",
+        "url": "https://philharmonia.co.uk/resources/instruments/oboe/",
+        "downloaded_at": "2026-11-22T21:17:53+00:00",
+        "sha256": "dc98b18e243212e1a4ea3e9d1baa6834ebcf2ac48b95a632d5c1993acca8f230",
+        "source_line": 94,
+        "source_line_sha256": "0d72f252ca3ec729048c8a0e691c136ee17cc04bb0205517a7a2630352436279",
+        "anchor": "about 400 years"
+      }
+    ]
+  },
+  "q3-e-kontrafagott-faltung": {
+    "fingerprint": "6c7d830d2f5c64f95a496af70c14b2c32c57670dfef8eff2fad52bb5729ebecd",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-contrabassoon",
+        "title": "Philharmonia Orchestra · contrabassoon",
+        "url": "https://philharmonia.co.uk/resources/instruments/contrabassoon/",
+        "downloaded_at": "2026-11-22T21:17:47+00:00",
+        "sha256": "e7920565a6d83dc499e90af468b8d50108e74cdd874d24031f92d41254ba1e05",
+        "source_line": 93,
+        "source_line_sha256": "1c74bcf061dd376158526ec81101fd74189f95d100289e0f284f16ee6549861b",
+        "anchor": "doubles back twice"
+      }
+    ]
+  },
+  "q3-e-fagott-oktave": {
+    "fingerprint": "b9870d55dd9f7a46ee4da1045e19c78fcddca4ff6e744c84265427b4734b95e6",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-bassoon",
+        "title": "Philharmonia Orchestra · bassoon",
+        "url": "https://philharmonia.co.uk/resources/instruments/bassoon/",
+        "downloaded_at": "2026-11-22T21:17:48+00:00",
+        "sha256": "79982595561ff8b7d2ced490ef033557648eb200a451a71d4805c1f28479e09a",
+        "source_line": 99,
+        "source_line_sha256": "11f61da609c761f11e4cefce8416cbd43f58ef8f19522aed830291e017e67215",
+        "anchor": "octave lower than the bassoon"
+      }
+    ]
+  },
+  "q3-e-saxophon-rohrblatt": {
+    "fingerprint": "c77bcf47e2559588c3e967927b5d8a6dc39ee0dce40370e286f562d4236ff43c",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-saxophone",
+        "title": "Philharmonia Orchestra · saxophone",
+        "url": "https://philharmonia.co.uk/resources/instruments/saxophone/",
+        "downloaded_at": "2026-11-22T21:17:56+00:00",
+        "sha256": "eb21b954af50627540573856d1312b294bfb1ba264160090629f7ff5787e1a1e",
+        "source_line": 97,
+        "source_line_sha256": "d55254f3817ea6bc28c7fa991413001a9aff9ee99eeec38a8b068d8894e20d09",
+        "anchor": "single reed"
+      }
+    ]
+  },
+  "q3-e-saxophon-baker": {
+    "fingerprint": "efd747ef21325566838ce9457b6d4c8e2331c41b02eba961c066e7c8818d1d5a",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-saxophone",
+        "title": "Philharmonia Orchestra · saxophone",
+        "url": "https://philharmonia.co.uk/resources/instruments/saxophone/",
+        "downloaded_at": "2026-11-22T21:17:56+00:00",
+        "sha256": "eb21b954af50627540573856d1312b294bfb1ba264160090629f7ff5787e1a1e",
+        "source_line": 92,
+        "source_line_sha256": "374484e31cbfcd713f404d01d984ee04ea0e4368bf15dace7ba72bf868438cf4",
+        "anchor": "Baker Street"
+      }
+    ]
+  },
+  "q3-e-trompete-daempfer": {
+    "fingerprint": "c8d0dab03705521a38f80a6f86124400e40044f82729319d01a0bd2bbf6a5de7",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-trumpet",
+        "title": "Philharmonia Orchestra · trumpet",
+        "url": "https://philharmonia.co.uk/resources/instruments/trumpet/",
+        "downloaded_at": "2026-11-22T21:17:55+00:00",
+        "sha256": "4510d8a0a3e71d14d6faf559c19d6de90f45753086a477cdde7afcd1b6e64497",
+        "source_line": 94,
+        "source_line_sha256": "4414daacb1791b8cb27d18b9da677d003a33f12a49a036038d3664a5a12adc6b",
+        "anchor": "soft melody with a mute"
+      }
+    ]
+  },
+  "q3-e-posaune-rutsche": {
+    "fingerprint": "9c2c970c3d5122a11d429b69647576855ff69a0e44697bd86b2597cd3856f93e",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-trombone",
+        "title": "Philharmonia Orchestra · trombone",
+        "url": "https://philharmonia.co.uk/resources/instruments/trombone/",
+        "downloaded_at": "2026-11-22T21:17:56+00:00",
+        "sha256": "f77843aa84138d1b595c7d99f75cb9c8896797581d007c085142a6d99a9d17f3",
+        "source_line": 97,
+        "source_line_sha256": "4731734733cfb9ce7055b9b19335fc801170a075b180480cfcc6b9440f71c43d",
+        "anchor": "cartoon soundtracks"
+      }
+    ]
+  },
+  "q3-e-posaune-kirche": {
+    "fingerprint": "875ec7771d740f7c88430b015d5d3fcee1db0472d8e8beebf3fcd324db90d91a",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-trombone",
+        "title": "Philharmonia Orchestra · trombone",
+        "url": "https://philharmonia.co.uk/resources/instruments/trombone/",
+        "downloaded_at": "2026-11-22T21:17:56+00:00",
+        "sha256": "f77843aa84138d1b595c7d99f75cb9c8896797581d007c085142a6d99a9d17f3",
+        "source_line": 93,
+        "source_line_sha256": "638e892406d4b60c35c9975a3d74de04799a7a8c7d5abc97515329f52ba24244",
+        "anchor": "church services"
+      }
+    ]
+  },
+  "q3-e-horn-jagd": {
+    "fingerprint": "0669e907a5920f13d08956ef914d845dfccb8027538d09420a85021b8f0c154c",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-horn",
+        "title": "Philharmonia Orchestra · horn",
+        "url": "https://philharmonia.co.uk/resources/instruments/horn/",
+        "downloaded_at": "2026-11-22T21:17:54+00:00",
+        "sha256": "c6b8bbca07f1daf5eb0e669d788f2ea8140c4d02a27346ea2619b945bd423d0d",
+        "source_line": 95,
+        "source_line_sha256": "daedfcc6485770a1146fcd7e8dca2aa3f0cc4b2e2f2fbf0a1303d35ca20afd0f",
+        "anchor": "hunting horns"
+      }
+    ]
+  },
+  "q3-e-tuba-ton": {
+    "fingerprint": "21772cd848de7c55257148c2f95f77317c003b99f5d76d2b787c5c07e32275de",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-tuba",
+        "title": "Philharmonia Orchestra · tuba",
+        "url": "https://philharmonia.co.uk/resources/instruments/tuba/",
+        "downloaded_at": "2026-11-22T21:17:55+00:00",
+        "sha256": "8dd18d97a020ec054749eb9a14bc900a8adc5e693394f6931bfb79d94b29b6d4",
+        "source_line": 99,
+        "source_line_sha256": "5ee528db24a46eedc73d51cb8e46c70ea7f636606886260bdab32253aed86fbd",
+        "anchor": "buzzing the lips"
+      }
+    ]
+  },
+  "q3-e-harfe-pedale": {
+    "fingerprint": "2c4e8b2d221b242531d6d19cf6dc1b1fe804e9368ffef7e451b34fa7e2656c8d",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-harp",
+        "title": "Philharmonia Orchestra · harp",
+        "url": "https://philharmonia.co.uk/resources/instruments/harp/",
+        "downloaded_at": "2026-11-22T21:17:53+00:00",
+        "sha256": "4c6f48da84cffaa295b20a6a9af6875c1a3746b57ba06e29e33bcea67274cb4b",
+        "source_line": 94,
+        "source_line_sha256": "69c155a5c67bb3759319f5b534cc680e19fdfdf85991d5e9a9ab7139ffa5bcd7",
+        "anchor": "7 foot pedals"
+      }
+    ]
+  },
+  "q3-e-harfe-saitenzahl": {
+    "fingerprint": "bd564a4fdb933400dbcd42fb548f3f3ec375d67dd26dda37033150b94bdd0592",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-harp",
+        "title": "Philharmonia Orchestra · harp",
+        "url": "https://philharmonia.co.uk/resources/instruments/harp/",
+        "downloaded_at": "2026-11-22T21:17:53+00:00",
+        "sha256": "4c6f48da84cffaa295b20a6a9af6875c1a3746b57ba06e29e33bcea67274cb4b",
+        "source_line": 94,
+        "source_line_sha256": "69c155a5c67bb3759319f5b534cc680e19fdfdf85991d5e9a9ab7139ffa5bcd7",
+        "anchor": "47 strings"
+      }
+    ]
+  },
+  "q3-e-pauken-fusspedal": {
+    "fingerprint": "dd5d232d0ac31d3cb184ee1bd7334c6fbbedcdfed7692324f737ceed935f9bb1",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-timpani",
+        "title": "Philharmonia Orchestra · timpani",
+        "url": "https://philharmonia.co.uk/resources/instruments/timpani/",
+        "downloaded_at": "2026-11-22T21:17:54+00:00",
+        "sha256": "744e4167a3fc7abf8fcdef9d3a13cf0aebd8eba0f961b1f2bd7d514102aef8b9",
+        "source_line": 92,
+        "source_line_sha256": "e9ee3760d82cc5bab242e64b9ab0228f6098abca879d55c2963a4d261758eff2",
+        "anchor": "foot pedals for changing pitch"
+      }
+    ]
+  },
+  "q3-e-schlagwerk-vielfalt": {
+    "fingerprint": "1b0c9cc4a0adc36af418c0dd430b663735bcea85f56886dd8274f86d9dc4a6a7",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-percussion",
+        "title": "Philharmonia Orchestra · percussion",
+        "url": "https://philharmonia.co.uk/resources/instruments/percussion/",
+        "downloaded_at": "2026-11-22T21:17:52+00:00",
+        "sha256": "1b1ab16586611a35f2df349e24105e91e6dfd1acb2f94380877070ddeab11966",
+        "source_line": 85,
+        "source_line_sha256": "1282b1eb92c4a01a3652eb39a34f3dbbf6186482e2875f18e9636616380dc4c0",
+        "anchor": "xylophones, triangles"
+      }
+    ]
+  },
+  "q3-e-cembalo-orchester": {
+    "fingerprint": "433b911105d4cb37628a444c644271306144c2065c04477899b10d9258117e9b",
+    "checked_at": "2026-11-22T21:29:31+00:00",
+    "sources": [
+      {
+        "key": "p-keyboards",
+        "title": "Philharmonia Orchestra · keyboards",
+        "url": "https://philharmonia.co.uk/resources/instruments/keyboards/",
+        "downloaded_at": "2026-11-22T21:17:53+00:00",
+        "sha256": "8eae8f52d225002cb29cc8465acdd68b2cc5d5706b0b0f631d1dd827b59168a9",
+        "source_line": 93,
+        "source_line_sha256": "1ebefdb2a3bd1be1ff02f38a0ab4d6607c51387b392b35229bb336e50bb57933",
+        "anchor": "harpsichord were a standard feature"
+      }
+    ]
+  }
+}

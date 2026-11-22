@@ -27,9 +27,9 @@
     "explanation": "Die Wärmebehandlung vermindert die Keimzahl. Anschließend wird die Milch wieder gekühlt.",
     "tags": [
       "thema_lebensmittel",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -45,28 +45,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.419712+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.408471+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.408484+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -402,9 +402,9 @@
     "explanation": "Lab wirkt auf das Milcheiweiß Kasein. Die Milch wird dick und kann weiterverarbeitet werden.",
     "tags": [
       "thema_lebensmittel",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -420,28 +420,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.419781+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.408499+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.408502+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -979,7 +979,7 @@
     "fact_key": "buegeleisen-punkte",
     "category": "everyday_technology",
     "difficulty": "easy",
-    "question": "Wofür stehen die Punkte im Bügeleisensymbol auf einem Kleidungsetikett?",
+    "question": "Ein Hemd und ein Tuch tragen dasselbe Bügeleisenzeichen, darin aber verschieden viele Punkte. Für welche Einstellung am Bügeleisen kann dieser Unterschied entscheidend sein?",
     "options": [
       {
         "id": "a",
@@ -1002,9 +1002,9 @@
     "explanation": "Die Punkte ordnen den Stoff einem Temperaturbereich zu. So findet man die passende Einstellung am Bügeleisen.",
     "tags": [
       "thema_textilpflege",
-      "form_wiedererkennen"
+      "form_vergleichen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1020,28 +1020,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:49:26.316453+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:49:38.407775+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.407800+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1204,7 +1204,7 @@
     "fact_key": "trockner-waermepumpe-luft",
     "category": "everyday_technology",
     "difficulty": "easy",
-    "question": "Was passiert mit der Luft in einem Wärmepumpentrockner?",
+    "question": "Ein Wärmepumpentrockner kommt ohne Abluftschlauch aus. Ein Behälter sammelt das Wasser aus der Wäsche. Was geschieht nach der Entfeuchtung mit der warmen Prozessluft?",
     "options": [
       {
         "id": "a",
@@ -1212,24 +1212,25 @@
       },
       {
         "id": "b",
-        "text": "Sie entweicht immer durch einen Schlauch ins Freie."
+        "text": "Sie wird bei jedem Umlauf vollständig durch Raumluft ersetzt."
       },
       {
         "id": "c",
-        "text": "Sie wird zusammen mit dem Flusenfilter entsorgt."
+        "text": "Sie entweicht mit dem flüssigen Wasser in den Vorratsbehälter."
       },
       {
         "id": "d",
-        "text": "Sie bleibt nur in der nassen Wäsche."
+        "text": "Sie bleibt bis zum Programmende im Wärmetauscher eingeschlossen."
       }
     ],
     "correct_option_id": "a",
     "explanation": "Das Gerät führt die Luft in einem Kreislauf. Es entzieht ihr Feuchtigkeit und setzt sie wieder zum Trocknen ein.",
     "tags": [
       "thema_haushalt",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1245,28 +1246,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.419818+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.408513+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.408515+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1527,9 +1528,10 @@
     "explanation": "Ein Gerät kann in Bereitschaft etwa Anschlüsse versorgen oder nach Aktualisierungen sehen.",
     "tags": [
       "thema_haushalt",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1545,28 +1547,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.419845+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.408522+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.408525+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1602,9 +1604,9 @@
     "explanation": "Ein Zwischenstecker kann die verbrauchten Kilowattstunden über einen längeren Zeitraum erfassen.",
     "tags": [
       "thema_haushalt",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1620,28 +1622,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.419869+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.408531+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.408533+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1677,9 +1679,9 @@
     "explanation": "Lässt sich der Streifen bei geschlossener Tür leicht herausziehen, kann die Dichtung an dieser Stelle schlecht anliegen.",
     "tags": [
       "thema_haushalt",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1695,28 +1697,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.419892+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.408540+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.408542+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1827,9 +1829,9 @@
     "explanation": "Auch Leuchtdioden erzeugen Wärme. Der Kühlkörper gibt sie an die Umgebung ab.",
     "tags": [
       "thema_lichttechnik",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1845,28 +1847,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.419913+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.408548+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.408550+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2127,9 +2129,9 @@
     "explanation": "Bei gegebener Leistung kann mit höherer Spannung der Strom kleiner sein. Dadurch gehen in der Leitung weniger Kilowatt als Wärme verloren.",
     "tags": [
       "thema_energietechnik",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2145,28 +2147,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.419936+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.408557+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.408559+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2577,9 +2579,9 @@
     "explanation": "Die Verschlusszeit bestimmt die Dauer der Belichtung. Sie kann etwa als Bruchteil einer Sekunde angegeben werden.",
     "tags": [
       "thema_ton_und_bild",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2595,28 +2597,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.419959+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.408566+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.408568+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },

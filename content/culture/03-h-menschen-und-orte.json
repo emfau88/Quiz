@@ -1,0 +1,2796 @@
+[
+  {
+    "id": "q3-h-nansen-reisedokument",
+    "fact_key": "q3.h.nansen.reisedokument",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Viele Geflüchtete konnten nach dem Ersten Weltkrieg ohne anerkannten Staat keinen nationalen Pass bekommen. Welches unmittelbare Hindernis sollte der Nansen-Pass beseitigen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die fehlenden Reisepapiere beim Grenzübertritt"
+      },
+      {
+        "id": "b",
+        "text": "Die fehlende Wahlkarte für ein neues Parlament"
+      },
+      {
+        "id": "c",
+        "text": "Den fehlenden Berufsabschluss für akademische Berufe"
+      },
+      {
+        "id": "d",
+        "text": "Die fehlende Fahrkarte für einen bestimmten Zug"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Völkerbund stellte staatenlosen Geflüchteten diese Dokumente aus. Ein Nansen-Pass ersetzte dabei nicht automatisch die Staatsangehörigkeit.",
+    "tags": [
+      "thema_hilfe_und_menschenrechte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Fridtjof Nansen, Facts",
+        "url": "https://www.nobelprize.org/prizes/peace/1922/nansen/facts/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Viele Geflüchtete konnten nach dem Ersten Weltkrieg ohne anerkannten Staat keinen nationalen Pass bekommen. Welches unmittelbare Hindernis sollte der Nansen-Pass beseitigen? Die fehlenden Reisepapiere beim Grenzübertritt. Der Völkerbund stellte staatenlosen Geflüchteten diese Dokumente aus. Ein Nansen-Pass ersetzte dabei nicht automatisch die Staatsangehörigkeit.",
+        "locator": "nansen, Textstelle 68",
+        "source_sha256": "348c762bd28660c157f00cd42a31bf0c7ad052795fd868ccb0fb5a7a04421b2f"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-nansen-heimkehr",
+    "fact_key": "q3.h.nansen.heimkehr",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Nansen organisierte nach dem Ersten Weltkrieg den Austausch von Gefangenen zwischen Russland, Deutschland und dem früheren Österreich-Ungarn. In welcher Größenordnung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mehr als vierzig Millionen Menschen"
+      },
+      {
+        "id": "b",
+        "text": "Mehrere Hunderttausend Menschen"
+      },
+      {
+        "id": "c",
+        "text": "Einige Hundert Menschen"
+      },
+      {
+        "id": "d",
+        "text": "Einige Tausend Menschen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Nobel Prize Outreach nennt rund 400.000 Gefangene. Ihre Heimkehr war eine umfangreiche internationale Aufgabe.",
+    "tags": [
+      "thema_hilfe_und_menschenrechte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Fridtjof Nansen, Facts",
+        "url": "https://www.nobelprize.org/prizes/peace/1922/nansen/facts/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Nansen organisierte nach dem Ersten Weltkrieg den Austausch von Gefangenen zwischen Russland, Deutschland und dem früheren Österreich-Ungarn. In welcher Größenordnung? Mehrere Hunderttausend Menschen. Nobel Prize Outreach nennt rund 400.000 Gefangene. Ihre Heimkehr war eine umfangreiche internationale Aufgabe.",
+        "locator": "nansen, Textstelle 66",
+        "source_sha256": "348c762bd28660c157f00cd42a31bf0c7ad052795fd868ccb0fb5a7a04421b2f"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-dunant-parteien",
+    "fact_key": "q3.h.dunant.parteien",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Dunant sah bei Solferino Verwundete mehrerer Armeen. Welcher Gedanke machte aus der Hilfe für einzelne Landsleute eine neue humanitäre Idee?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur Soldaten mit Geld sollten behandelt werden."
+      },
+      {
+        "id": "b",
+        "text": "Die Hilfsorganisation sollte die Uniformen einer Armee verteilen."
+      },
+      {
+        "id": "c",
+        "text": "Hilfe sollte sich nach der Verwundung richten, unabhängig von der Kriegspartei."
+      },
+      {
+        "id": "d",
+        "text": "Nur Angehörige der siegreichen Armee sollten Hilfe bekommen."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Dunant warb für Hilfe für Verwundete unabhängig von ihrer Seite. Seine Erfahrungen mündeten im Roten Kreuz und in der Genfer Konvention.",
+    "tags": [
+      "thema_hilfe_und_menschenrechte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Henry Dunant, Facts",
+        "url": "https://www.nobelprize.org/prizes/peace/1901/dunant/facts/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Dunant sah bei Solferino Verwundete mehrerer Armeen. Welcher Gedanke machte aus der Hilfe für einzelne Landsleute eine neue humanitäre Idee? Hilfe sollte sich nach der Verwundung richten, unabhängig von der Kriegspartei. Dunant warb für Hilfe für Verwundete unabhängig von ihrer Seite. Seine Erfahrungen mündeten im Roten Kreuz und in der Genfer Konvention.",
+        "locator": "dunant, Textstelle 67",
+        "source_sha256": "7d59c94d864e0f5b35286c59db2ae01657812b32a9d1522a8972fbd28510af55"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-genf-vierte",
+    "fact_key": "q3.h.genf.vierte",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Drei Genfer Konventionen betrafen bereits Verwundete, Betroffene des Seekriegs und Kriegsgefangene. Welche erkennbare Lücke sollte 1949 die vierte Konvention schließen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Festlegung der Regeln für diplomatische Empfänge"
+      },
+      {
+        "id": "b",
+        "text": "Die Zuteilung von Medaillen an Soldaten"
+      },
+      {
+        "id": "c",
+        "text": "Die Festlegung von Staatsgrenzen auf Seekarten"
+      },
+      {
+        "id": "d",
+        "text": "Den Schutz von Zivilpersonen unter gegnerischer Kontrolle"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die vierte Konvention rückte die Zivilbevölkerung ausdrücklich in den Mittelpunkt. Die Textrevision folgte den Erfahrungen des Zweiten Weltkriegs.",
+    "tags": [
+      "thema_hilfe_und_menschenrechte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Internationales Komitee vom Roten Kreuz · Geschichte",
+        "url": "https://www.icrc.org/en/our-history",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Drei Genfer Konventionen betrafen bereits Verwundete, Betroffene des Seekriegs und Kriegsgefangene. Welche erkennbare Lücke sollte 1949 die vierte Konvention schließen? Den Schutz von Zivilpersonen unter gegnerischer Kontrolle. Die vierte Konvention rückte die Zivilbevölkerung ausdrücklich in den Mittelpunkt. Die Textrevision folgte den Erfahrungen des Zweiten Weltkriegs.",
+        "locator": "redhist, Textstelle 117",
+        "source_sha256": "c302aabf9ec5cc9d6c70276d5edcd4188adbb16ccaa97b5ce4745c9f70686b8b"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-wfp-soforthilfe",
+    "fact_key": "q3.h.wfp.soforthilfe",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Das Welternährungsprogramm liefert in Krisen Essen und unterstützt längerfristig die lokale Produktion. Was unterscheidet den zweiten Ansatz von der akuten Lieferung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er soll zukünftige Versorgung vor Ort stärken."
+      },
+      {
+        "id": "b",
+        "text": "Er besteht ausschließlich aus der sofortigen Ausgabe fertiger Rationen."
+      },
+      {
+        "id": "c",
+        "text": "Er erreicht nur Menschen außerhalb der betroffenen Region."
+      },
+      {
+        "id": "d",
+        "text": "Er verlangt das Ende jeder örtlichen Landwirtschaft."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Nothilfe und die Stärkung der Lebensmittelversorgung erfüllen unterschiedliche Aufgaben. Das WFP arbeitete auf beiden Ebenen.",
+    "tags": [
+      "thema_hilfe_und_menschenrechte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · World Food Programme, Facts",
+        "url": "https://www.nobelprize.org/prizes/peace/2020/wfp/facts/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Das Welternährungsprogramm liefert in Krisen Essen und unterstützt längerfristig die lokale Produktion. Was unterscheidet den zweiten Ansatz von der akuten Lieferung? Er soll zukünftige Versorgung vor Ort stärken. Nothilfe und die Stärkung der Lebensmittelversorgung erfüllen unterschiedliche Aufgaben. Das WFP arbeitete auf beiden Ebenen.",
+        "locator": "wfp, Textstelle 69",
+        "source_sha256": "bb6a218617794022948ebaf9c41bcad680cc49f098bbc15a47880e169bfb6b31"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-wfp-finanzierung",
+    "fact_key": "q3.h.wfp.finanzierung",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Regierungen, Organisationen und Privatpersonen unterstützen das Welternährungsprogramm mit freiwilligen Beiträgen. Was folgt daraus für sein Budget?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Höhe ist unabhängig von allen Zuwendungen für immer garantiert."
+      },
+      {
+        "id": "b",
+        "text": "Es hängt auch davon ab, wie viel Unterstützung zugesagt wird."
+      },
+      {
+        "id": "c",
+        "text": "Es entsteht vollständig durch eine weltweite Pflichtsteuer je Brot."
+      },
+      {
+        "id": "d",
+        "text": "Es besteht ausschließlich aus den Eintrittsgeldern der UNO."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das WFP wurde 1961 von der UN-Generalversammlung und der FAO gegründet. Freiwillige Beiträge tragen die Finanzierung.",
+    "tags": [
+      "thema_hilfe_und_menschenrechte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · World Food Programme, Facts",
+        "url": "https://www.nobelprize.org/prizes/peace/2020/wfp/facts/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Regierungen, Organisationen und Privatpersonen unterstützen das Welternährungsprogramm mit freiwilligen Beiträgen. Was folgt daraus für sein Budget? Es hängt auch davon ab, wie viel Unterstützung zugesagt wird. Das WFP wurde 1961 von der UN-Generalversammlung und der FAO gegründet. Freiwillige Beiträge tragen die Finanzierung.",
+        "locator": "wfp, Textstelle 68",
+        "source_sha256": "bb6a218617794022948ebaf9c41bcad680cc49f098bbc15a47880e169bfb6b31"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-maathai-baeume",
+    "fact_key": "q3.h.maathai.baeume",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In Kenia bedrohte der Verlust von Wald die Lebensgrundlagen vieler Familien. Welche Tätigkeit verband Wangari Maathais Bewegung mit der Beteiligung örtlicher Frauen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Holzernte unabhängig vom Nachwuchs erhöhen"
+      },
+      {
+        "id": "b",
+        "text": "Baumschulen durch den Verkauf fertiger Holzmöbel ersetzen"
+      },
+      {
+        "id": "c",
+        "text": "Bäume in den Gemeinden pflanzen"
+      },
+      {
+        "id": "d",
+        "text": "Ackerflächen ausschließlich mit Beton befestigen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das Green Belt Movement begann 1977. Die Pflanzaktionen verbanden Umweltschutz mit gesellschaftlicher Beteiligung.",
+    "tags": [
+      "thema_hilfe_und_menschenrechte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Wangari Maathai, Facts",
+        "url": "https://www.nobelprize.org/prizes/peace/2004/maathai/facts/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "In Kenia bedrohte der Verlust von Wald die Lebensgrundlagen vieler Familien. Welche Tätigkeit verband Wangari Maathais Bewegung mit der Beteiligung örtlicher Frauen? Bäume in den Gemeinden pflanzen. Das Green Belt Movement begann 1977. Die Pflanzaktionen verbanden Umweltschutz mit gesellschaftlicher Beteiligung.",
+        "locator": "greenbelt, Textstelle 69",
+        "source_sha256": "ffd9c01c699fc5c3f92501e2f5868e6dc3e1235997350683ca328552a62d89c6"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-malala-oeffentlichkeit",
+    "fact_key": "q3.h.malala.oeffentlichkeit",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Malala berichtete aus einer Region, in der Mädchen wegen ihrer Schulbesuche bedroht wurden. Wofür stand ihre spätere Rede vor den Vereinten Nationen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für die Abschaffung des Schulbesuchs bis zum Erwachsenenalter"
+      },
+      {
+        "id": "b",
+        "text": "Für ein ausschließliches Ausbildungsrecht von Beamtenkindern"
+      },
+      {
+        "id": "c",
+        "text": "Für den Umzug sämtlicher Schulen in die Hauptstadt"
+      },
+      {
+        "id": "d",
+        "text": "Für gleiches Recht auf Bildung für Mädchen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "An ihrem 16. Geburtstag trat Malala vor der UNO für das Bildungsrecht ein. Erfahrungen aus dem pakistanischen Swat-Tal gingen ihrem Engagement voraus.",
+    "tags": [
+      "thema_hilfe_und_menschenrechte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Malala Yousafzai, Facts",
+        "url": "https://www.nobelprize.org/prizes/peace/2014/yousafzai/facts/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Malala berichtete aus einer Region, in der Mädchen wegen ihrer Schulbesuche bedroht wurden. Wofür stand ihre spätere Rede vor den Vereinten Nationen? Für gleiches Recht auf Bildung für Mädchen. An ihrem 16. Geburtstag trat Malala vor der UNO für das Bildungsrecht ein. Erfahrungen aus dem pakistanischen Swat-Tal gingen ihrem Engagement voraus.",
+        "locator": "malala, Textstelle 67",
+        "source_sha256": "a5b53ef2156dcfaf68bba136c20f0f55e7219464cf75560aae2c49c33d866181"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-yunus-kleinkredit",
+    "fact_key": "q3.h.yunus.kleinkredit",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Eine Person in Bangladesch möchte mit wenig Startkapital eine eigene kleine Arbeit beginnen. Welcher Ansatz entspricht der von Yunus gegründeten Grameen Bank?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein kleiner rückzahlbarer Kredit"
+      },
+      {
+        "id": "b",
+        "text": "Die Ausgabe einer Staatsanleihe ausschließlich an Großbanken"
+      },
+      {
+        "id": "c",
+        "text": "Eine lebenslange Rente ohne Bezug zum Vorhaben"
+      },
+      {
+        "id": "d",
+        "text": "Ein großer Kredit allein zum Ankauf eines Konzerns"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mikrokredite sollten armen Menschen Zugang zu kleinen Finanzierungssummen eröffnen. Die Bank wurde 1983 gegründet.",
+    "tags": [
+      "thema_hilfe_und_menschenrechte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Muhammad Yunus, Facts",
+        "url": "https://www.nobelprize.org/prizes/peace/2006/yunus/facts/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Eine Person in Bangladesch möchte mit wenig Startkapital eine eigene kleine Arbeit beginnen. Welcher Ansatz entspricht der von Yunus gegründeten Grameen Bank? Ein kleiner rückzahlbarer Kredit. Mikrokredite sollten armen Menschen Zugang zu kleinen Finanzierungssummen eröffnen. Die Bank wurde 1983 gegründet.",
+        "locator": "yunus, Textstelle 69",
+        "source_sha256": "ff87059847a5f8b4809a35f2c76c31b1c012ab56fe0108cfe535fd6b96d7a107"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-teppich-kinderarbeit",
+    "fact_key": "q3.h.teppich.kinderarbeit",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Bei einem Teppich sieht ein Käufer dem Muster kaum an, wer ihn geknüpft hat. Welches Problem wollte das von Satyarthi mitbegründete GoodWeave-Siegel lösen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für alle Muster einen festen Preis bestimmen"
+      },
+      {
+        "id": "b",
+        "text": "Herstellung ohne Kinderarbeit erkennbar machen"
+      },
+      {
+        "id": "c",
+        "text": "Die Bedeutung der Teppichfarben übersetzen"
+      },
+      {
+        "id": "d",
+        "text": "Den Weiterverkauf gebrauchter Teppiche untersagen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Organisation zertifiziert Hersteller, die ohne Kinderarbeit produzieren. Ein Zeichen am Produkt macht die Herstellungsbedingungen zum Thema.",
+    "tags": [
+      "thema_hilfe_und_menschenrechte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · Kailash Satyarthi, Facts",
+        "url": "https://www.nobelprize.org/prizes/peace/2014/satyarthi/facts/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Bei einem Teppich sieht ein Käufer dem Muster kaum an, wer ihn geknüpft hat. Welches Problem wollte das von Satyarthi mitbegründete GoodWeave-Siegel lösen? Herstellung ohne Kinderarbeit erkennbar machen. Die Organisation zertifiziert Hersteller, die ohne Kinderarbeit produzieren. Ein Zeichen am Produkt macht die Herstellungsbedingungen zum Thema.",
+        "locator": "youthwork, Textstelle 70",
+        "source_sha256": "0f505963fff43f7026dcab1ea8565fb27746fb51d5de993ff155341ac638fe31"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-roteskreuz-jubilaeum",
+    "fact_key": "q3.h.roteskreuz.jubilaeum",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1963 wurde das hundertjährige Bestehen des Roten Kreuzes begangen. In welchem Jahrzehnt entstand die Organisation?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In den 1890er-Jahren"
+      },
+      {
+        "id": "b",
+        "text": "In den 1910er-Jahren"
+      },
+      {
+        "id": "c",
+        "text": "In den 1860er-Jahren"
+      },
+      {
+        "id": "d",
+        "text": "In den 1810er-Jahren"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das Internationale Komitee entstand 1863. Sein hundertjähriges Bestehen war ein Anlass für die Friedensnobelpreisentscheidung von 1963.",
+    "tags": [
+      "thema_hilfe_und_menschenrechte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · International Committee of the Red Cross, Facts 1963",
+        "url": "https://www.nobelprize.org/prizes/peace/1963/red-cross/facts/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "1963 wurde das hundertjährige Bestehen des Roten Kreuzes begangen. In welchem Jahrzehnt entstand die Organisation? In den 1860er-Jahren. Das Internationale Komitee entstand 1863. Sein hundertjähriges Bestehen war ein Anlass für die Friedensnobelpreisentscheidung von 1963.",
+        "locator": "c3red, Textstelle 68",
+        "source_sha256": "a8cebc9599fb7c16d208372d95e6185d6bf4a9f76db1a73bb0abb1d6e6d34d40"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-unicef-nachkrieg",
+    "fact_key": "q3.h.unicef.nachkrieg",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1946 stand UNICEF vor notleidenden Kindern in Ländern beider früherer Kriegsseiten. Welches Kriterium sollte über Hilfe entscheiden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ob das Land zu den militärischen Siegern gehörte"
+      },
+      {
+        "id": "b",
+        "text": "Ob die Kinder bereits wählen durften"
+      },
+      {
+        "id": "c",
+        "text": "Ob ihre Eltern im Staatsdienst beschäftigt waren"
+      },
+      {
+        "id": "d",
+        "text": "Die Not der Kinder, unabhängig von der früheren Rolle ihres Landes"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der ursprüngliche Auftrag bezog sich auf gefährdete Kinder und Jugendliche nach dem Weltkrieg. Die frühere Rolle ihrer Heimat sollte kein Ausschlussgrund sein.",
+    "tags": [
+      "thema_hilfe_und_menschenrechte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNICEF · Gründungsgeschichte",
+        "url": "https://www.unicef.org/history",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "1946 stand UNICEF vor notleidenden Kindern in Ländern beider früherer Kriegsseiten. Welches Kriterium sollte über Hilfe entscheiden? Die Not der Kinder, unabhängig von der früheren Rolle ihres Landes. Der ursprüngliche Auftrag bezog sich auf gefährdete Kinder und Jugendliche nach dem Weltkrieg. Die frühere Rolle ihrer Heimat sollte kein Ausschlussgrund sein.",
+        "locator": "unicefh, Textstelle 150",
+        "source_sha256": "3f2ef3db72d72455aad9686ab2f1be4af44a3acd54c0acde3d584f95e8727e95"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-unesco-idee",
+    "fact_key": "q3.h.unesco.idee",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Schon 1942 dachten Regierungen über dauerhaften Frieden durch Schule, Wissenschaft und Kultur nach. Worin unterschied sich dieser Ansatz von einem reinen Waffenstillstand?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auch Verständigung und gemeinsames Wissen sollten Konflikten vorbeugen."
+      },
+      {
+        "id": "b",
+        "text": "Alle Länder sollten dieselben Schulgebäude erhalten."
+      },
+      {
+        "id": "c",
+        "text": "Ein Friedensschluss sollte nur durch eine gemeinsame Währung erfolgen."
+      },
+      {
+        "id": "d",
+        "text": "Öffentliche Bildung sollte erst nach hundert Jahren beginnen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Aus den Überlegungen ging die UNESCO hervor. Der Ansatz sollte nach den Weltkriegen über kurzfristiges Schweigen der Waffen hinausreichen.",
+    "tags": [
+      "thema_hilfe_und_menschenrechte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Geschichte der UNESCO",
+        "url": "https://www.unesco.org/en/history",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Schon 1942 dachten Regierungen über dauerhaften Frieden durch Schule, Wissenschaft und Kultur nach. Worin unterschied sich dieser Ansatz von einem reinen Waffenstillstand? Auch Verständigung und gemeinsames Wissen sollten Konflikten vorbeugen. Aus den Überlegungen ging die UNESCO hervor. Der Ansatz sollte nach den Weltkriegen über kurzfristiges Schweigen der Waffen hinausreichen.",
+        "locator": "unescoh, Textstelle 76",
+        "source_sha256": "ae89056f5e4823b839decb0f0302c43bbd1dde1725d4ef1fc21ed240badafd98"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-ozean-warnnetz",
+    "fact_key": "q3.h.ozean.warnnetz",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Ein Tsunami kann mehrere Küsten nacheinander erreichen. Warum begann die UNESCO mit einem Warnsystem für ein ganzes Ozeanbecken?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Binnenstaat muss den Meeresspiegel täglich neu festsetzen."
+      },
+      {
+        "id": "b",
+        "text": "Weiter entfernte Küsten können vor der herannahenden Welle gewarnt werden."
+      },
+      {
+        "id": "c",
+        "text": "Alle Küsten erreichen die Wellen grundsätzlich zur gleichen Sekunde."
+      },
+      {
+        "id": "d",
+        "text": "Ein Staat kann die Wellen an seiner Grenze anhalten."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Warnsystem begann im Pazifik und wurde auf weitere Ozeanbecken ausgedehnt. Internationale Zusammenarbeit nutzt den zeitlichen Vorsprung.",
+    "tags": [
+      "thema_hilfe_und_menschenrechte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Geschichte der UNESCO",
+        "url": "https://www.unesco.org/en/history",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Ein Tsunami kann mehrere Küsten nacheinander erreichen. Warum begann die UNESCO mit einem Warnsystem für ein ganzes Ozeanbecken? Weiter entfernte Küsten können vor der herannahenden Welle gewarnt werden. Das Warnsystem begann im Pazifik und wurde auf weitere Ozeanbecken ausgedehnt. Internationale Zusammenarbeit nutzt den zeitlichen Vorsprung.",
+        "locator": "unescoh, Textstelle 105",
+        "source_sha256": "ae89056f5e4823b839decb0f0302c43bbd1dde1725d4ef1fc21ed240badafd98"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-ottawa-netz",
+    "fact_key": "q3.h.ottawa.netz",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Mehr als 1.000 Organisationen aus 60 Ländern unterstützten 1997 die internationale Kampagne gegen Landminen. Welcher Durchschnitt ergibt sich als ungefähre Untergrenze je Land?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Etwa sechzig Organisationen"
+      },
+      {
+        "id": "b",
+        "text": "Über tausend Organisationen"
+      },
+      {
+        "id": "c",
+        "text": "Etwa siebzehn Organisationen"
+      },
+      {
+        "id": "d",
+        "text": "Weniger als zwei Organisationen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "1.000 geteilt durch 60 sind knapp 17. Die Zahl ist nur ein rechnerischer Durchschnitt und sagt nichts über das einzelne Land aus.",
+    "tags": [
+      "thema_hilfe_und_menschenrechte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nobel Prize Outreach · International Campaign to Ban Landmines, Facts",
+        "url": "https://www.nobelprize.org/prizes/peace/1997/icbl/facts/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Mehr als 1.000 Organisationen aus 60 Ländern unterstützten 1997 die internationale Kampagne gegen Landminen. Welcher Durchschnitt ergibt sich als ungefähre Untergrenze je Land? Etwa siebzehn Organisationen. 1.000 geteilt durch 60 sind knapp 17. Die Zahl ist nur ein rechnerischer Durchschnitt und sagt nichts über das einzelne Land aus.",
+        "locator": "landmines, Textstelle 67",
+        "source_sha256": "89466d6961e93df92db028306dea495bafc074a47a93eb0917e6503470f50f94"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-warenstadt-macao",
+    "fact_key": "q3.h.warenstadt.macao",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Macaos historisches Zentrum enthält portugiesische und chinesische Bauten. Welcher Verwaltungsschritt im Jahr 1999 erklärt die Zäsur zwischen zwei Kapiteln der Stadtgeschichte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Macao trat der portugiesischen Republik als europäische Provinz bei."
+      },
+      {
+        "id": "b",
+        "text": "Portugal erwarb damals zum ersten Mal den Hafen."
+      },
+      {
+        "id": "c",
+        "text": "China machte den Ort zur Hauptstadt seines Reiches."
+      },
+      {
+        "id": "d",
+        "text": "Macao kam unter chinesische Souveränität."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der portugiesischen Verwaltung über mehrere Jahrhunderte folgte 1999 die Übergabe. Das gebaute Stadtbild erinnert an beide Traditionen.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Historic Centre of Macao",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Macaos historisches Zentrum enthält portugiesische und chinesische Bauten. Welcher Verwaltungsschritt im Jahr 1999 erklärt die Zäsur zwischen zwei Kapiteln der Stadtgeschichte? Macao kam unter chinesische Souveränität. Der portugiesischen Verwaltung über mehrere Jahrhunderte folgte 1999 die Übergabe. Das gebaute Stadtbild erinnert an beide Traditionen.",
+        "locator": "whc/1110, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-kanal-getreide",
+    "fact_key": "q3.h.kanal.getreide",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Der chinesische Kaiserkanal verknüpfte Flussbecken und trug Lastboote durch viele Regionen. Welche Versorgung konnte das Netz besonders erleichtern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Große Mengen Getreide aus Anbaugebieten in andere Landesteile bringen"
+      },
+      {
+        "id": "b",
+        "text": "Einzelne Eilbriefe schneller als mit jedem anderen Verkehrsmittel zustellen"
+      },
+      {
+        "id": "c",
+        "text": "Meerwasser direkt zum Trinken in die Hauptstadt leiten"
+      },
+      {
+        "id": "d",
+        "text": "Frische Bergluft von Süden in trockene Landstriche lenken"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Getreide, Reis und weitere Güter gelangten auf Binnenwasserwegen durch das Reich. Das Kanalsystem verband mehrere große Flussgebiete.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · The Grand Canal",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Der chinesische Kaiserkanal verknüpfte Flussbecken und trug Lastboote durch viele Regionen. Welche Versorgung konnte das Netz besonders erleichtern? Große Mengen Getreide aus Anbaugebieten in andere Landesteile bringen. Getreide, Reis und weitere Güter gelangten auf Binnenwasserwegen durch das Reich. Das Kanalsystem verband mehrere große Flussgebiete.",
+        "locator": "whc/1443, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-abu-simbel-nil",
+    "fact_key": "q3.h.abu.simbel.nil",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In Nubien stieg der Wasserspiegel, während Tempel an ihren historischen Plätzen standen. Welche Bedrohung gab den Anstoß zur internationalen Rettungskampagne?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Gebäude standen bereits an einer sinkenden Meeresküste."
+      },
+      {
+        "id": "b",
+        "text": "Die Bauwerke drohten überflutet zu werden."
+      },
+      {
+        "id": "c",
+        "text": "Die Tempel drohten wegen schmelzender Gletscher einzufrieren."
+      },
+      {
+        "id": "d",
+        "text": "Die Fundamente waren für eine Eisenbahndrehbrücke vorgesehen."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die UNESCO-Kampagne von 1960 bis 1980 half unter anderem den Monumenten von Abu Simbel und Philae.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Nubian Monuments from Abu Simbel to Philae",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "In Nubien stieg der Wasserspiegel, während Tempel an ihren historischen Plätzen standen. Welche Bedrohung gab den Anstoß zur internationalen Rettungskampagne? Die Bauwerke drohten überflutet zu werden. Die UNESCO-Kampagne von 1960 bis 1980 half unter anderem den Monumenten von Abu Simbel und Philae.",
+        "locator": "whc/88, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-mostar-wieder",
+    "fact_key": "q3.h.mostar.wieder",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die Alte Brücke von Mostar verbindet zwei Seiten der Neretva. Welche Bedeutung konnte ihr Wiederaufbau nach der Zerstörung im Krieg über den Fußweg hinaus haben?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die endgültige Sperrung der Straße zwischen beiden Ufern"
+      },
+      {
+        "id": "b",
+        "text": "Die Umwandlung der Stadt in einen reinen Binnenhafen"
+      },
+      {
+        "id": "c",
+        "text": "Ein sichtbares Zeichen wiederhergestellter Verbindung"
+      },
+      {
+        "id": "d",
+        "text": "Die Ausrufung zweier neuer Staaten an ihren Enden"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Stari Most wurde nach dem Krieg der Neunzigerjahre wieder aufgebaut. Die Brücke gilt auch als Symbol des Zusammenlebens unterschiedlicher Gemeinschaften.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Old Bridge Area of the Old City of Mostar",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Die Alte Brücke von Mostar verbindet zwei Seiten der Neretva. Welche Bedeutung konnte ihr Wiederaufbau nach der Zerstörung im Krieg über den Fußweg hinaus haben? Ein sichtbares Zeichen wiederhergestellter Verbindung. Stari Most wurde nach dem Krieg der Neunzigerjahre wieder aufgebaut. Die Brücke gilt auch als Symbol des Zusammenlebens unterschiedlicher Gemeinschaften.",
+        "locator": "whc/946, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-warschau-rekonstruktion",
+    "fact_key": "q3.h.warschau.rekonstruktion",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Mehr als 85 Prozent von Warschaus historischem Zentrum wurden 1944 zerstört. Wie viel blieb damals höchstens von der Zerstörung verschont?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Etwa ein Drittel"
+      },
+      {
+        "id": "b",
+        "text": "Mehr als die Hälfte"
+      },
+      {
+        "id": "c",
+        "text": "Gut drei Viertel"
+      },
+      {
+        "id": "d",
+        "text": "Weniger als ein Sechstel"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Weniger als 15 Prozent lagen außerhalb des zerstörten Anteils. Die Altstadt entstand in einer ausgedehnten Wiederaufbaukampagne neu.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Historic Centre of Warsaw",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Mehr als 85 Prozent von Warschaus historischem Zentrum wurden 1944 zerstört. Wie viel blieb damals höchstens von der Zerstörung verschont? Weniger als ein Sechstel. Weniger als 15 Prozent lagen außerhalb des zerstörten Anteils. Die Altstadt entstand in einer ausgedehnten Wiederaufbaukampagne neu.",
+        "locator": "whc/30, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-haiti-eigene-zeichen",
+    "fact_key": "q3.h.haiti.eigene.zeichen",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Die Zitadelle und der Palast Sans Souci entstanden nach Haitis Unabhängigkeit. Warum bekamen solche Bauten dort eine besondere politische Bedeutung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ehemals Versklavte schufen Zeichen ihrer nun eigenen staatlichen Ordnung."
+      },
+      {
+        "id": "b",
+        "text": "Sie waren rein geologische Überreste einer unbewohnten Insel."
+      },
+      {
+        "id": "c",
+        "text": "Sie dokumentierten eine fortdauernde französische Hofhaltung vor Ort."
+      },
+      {
+        "id": "d",
+        "text": "Sie waren ausschließlich Lagerhäuser für den Sklavenhandel."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Monumente gehören in die Zeit nach der Befreiung. Die UNESCO beschreibt sie als Zeichen der Freiheit.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · National History Park – Citadel, Sans Souci, Ramiers",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Die Zitadelle und der Palast Sans Souci entstanden nach Haitis Unabhängigkeit. Warum bekamen solche Bauten dort eine besondere politische Bedeutung? Ehemals Versklavte schufen Zeichen ihrer nun eigenen staatlichen Ordnung. Die Monumente gehören in die Zeit nach der Befreiung. Die UNESCO beschreibt sie als Zeichen der Freiheit.",
+        "locator": "whc/180, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-mexiko-schichten",
+    "fact_key": "q3.h.mexiko.schichten",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Unter Bauten der Kolonialzeit in Mexiko-Stadt finden sich Überreste von Tenochtitlan. Wie erklärt sich diese Überlagerung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Stadt wurde im 20. Jahrhundert erstmals besiedelt."
+      },
+      {
+        "id": "b",
+        "text": "Die spanische Stadt entstand auf der früheren aztekischen Hauptstadt."
+      },
+      {
+        "id": "c",
+        "text": "Die aztekische Stadt wurde erst nach den Kolonialbauten gegründet."
+      },
+      {
+        "id": "d",
+        "text": "Die Funde wurden sämtlich aus Europa eingeführt."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das heutige Stadtzentrum enthält Spuren mehrerer Epochen. Die Spanier bauten im 16. Jahrhundert auf den Ruinen der älteren Stadt.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Historic Centre of Mexico City and Xochimilco",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Unter Bauten der Kolonialzeit in Mexiko-Stadt finden sich Überreste von Tenochtitlan. Wie erklärt sich diese Überlagerung? Die spanische Stadt entstand auf der früheren aztekischen Hauptstadt. Das heutige Stadtzentrum enthält Spuren mehrerer Epochen. Die Spanier bauten im 16. Jahrhundert auf den Ruinen der älteren Stadt.",
+        "locator": "whc/412, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-melbourne-messe",
+    "fact_key": "q3.h.melbourne.messe",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Für die internationalen Ausstellungen 1880 und 1888 in Melbourne brauchte man viel überdachten Raum für Aussteller und Publikum. Welcher Bau passt zu diesem Anlass?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein einzelner Brückenpfeiler in einem Fluss"
+      },
+      {
+        "id": "b",
+        "text": "Ein unterirdisches Trinkwasserreservoir ohne Säle"
+      },
+      {
+        "id": "c",
+        "text": "Ein großes Ausstellungsgebäude mit angrenzendem Park"
+      },
+      {
+        "id": "d",
+        "text": "Ein abgelegener Leuchtturm mit schmaler Wendeltreppe"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das Royal Exhibition Building und die Carlton Gardens entstanden für diese internationalen Ausstellungen.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Royal Exhibition Building and Carlton Gardens",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Für die internationalen Ausstellungen 1880 und 1888 in Melbourne brauchte man viel überdachten Raum für Aussteller und Publikum. Welcher Bau passt zu diesem Anlass? Ein großes Ausstellungsgebäude mit angrenzendem Park. Das Royal Exhibition Building und die Carlton Gardens entstanden für diese internationalen Ausstellungen.",
+        "locator": "whc/1131, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-alt-havanna-werft",
+    "fact_key": "q3.h.alt.havanna.werft",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Havanna war im 17. Jahrhundert ein Zentrum des Schiffbaus. Welches Tätigkeitsbild auf einem historischen Hafenbild würde genau diese Rolle zeigen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Händler beim Ausladen einer fertigen Zuckerlieferung"
+      },
+      {
+        "id": "b",
+        "text": "Passagiere, die für eine Überfahrt einchecken"
+      },
+      {
+        "id": "c",
+        "text": "Lotsen, die ein ankommendes Schiff in den Hafen führen"
+      },
+      {
+        "id": "d",
+        "text": "Zimmerleute an einem noch unvollständigen Schiffsrumpf"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Alle Szenen könnten in einem Hafen vorkommen. Nur der Bau des Rumpfs zeigt die Werftfunktion unmittelbar.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Old Havana and its Fortification System",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Havanna war im 17. Jahrhundert ein Zentrum des Schiffbaus. Welches Tätigkeitsbild auf einem historischen Hafenbild würde genau diese Rolle zeigen? Zimmerleute an einem noch unvollständigen Schiffsrumpf. Alle Szenen könnten in einem Hafen vorkommen. Nur der Bau des Rumpfs zeigt die Werftfunktion unmittelbar.",
+        "locator": "whc/204, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-djenne-hochwasser",
+    "fact_key": "q3.h.djenne.hochwasser",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Viele traditionelle Häuser in Djenné in Mali stehen auf kleinen Erhöhungen. Welche saisonale Gefahr erklärt diese Bauweise?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Überschwemmungen"
+      },
+      {
+        "id": "b",
+        "text": "Saharasand allein auf den Dächern"
+      },
+      {
+        "id": "c",
+        "text": "Ständiger Bodenfrost"
+      },
+      {
+        "id": "d",
+        "text": "Lawinen von nahen Hochgebirgsgletschern"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die „Toguere“ genannten Erhöhungen schützen Häuser vor jahreszeitlichen Überflutungen. Sie prägen die historische Siedlungsform.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Old Towns of Djenné",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:14+00:00",
+        "verified_claim": "Viele traditionelle Häuser in Djenné in Mali stehen auf kleinen Erhöhungen. Welche saisonale Gefahr erklärt diese Bauweise? Überschwemmungen. Die „Toguere“ genannten Erhöhungen schützen Häuser vor jahreszeitlichen Überflutungen. Sie prägen die historische Siedlungsform.",
+        "locator": "whc/116, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:14+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-dschidda-pilger",
+    "fact_key": "q3.h.dschidda.pilger",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Dschidda liegt am Roten Meer, Mekka im Landesinneren. Welchen Schritt auf der Reise machte der historische Hafen für viele Pilger möglich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Fortsetzung über Land ausschließlich nach Medina ohne Mekka"
+      },
+      {
+        "id": "b",
+        "text": "Den Wechsel vom Seeschiff auf den Landweg nach Mekka"
+      },
+      {
+        "id": "c",
+        "text": "Die unmittelbare Einfahrt mit dem Schiff in die Kaaba"
+      },
+      {
+        "id": "d",
+        "text": "Einen Grenzübertritt zu Fuß von Mekka nach Europa"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Neben Waren kamen über Dschidda Pilger ins Land. Beide Funktionen machten den Hafen zu einem Ort vielfältiger Begegnungen.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Historic Jeddah, the Gate to Makkah",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:15+00:00",
+        "verified_claim": "Dschidda liegt am Roten Meer, Mekka im Landesinneren. Welchen Schritt auf der Reise machte der historische Hafen für viele Pilger möglich? Den Wechsel vom Seeschiff auf den Landweg nach Mekka. Neben Waren kamen über Dschidda Pilger ins Land. Beide Funktionen machten den Hafen zu einem Ort vielfältiger Begegnungen.",
+        "locator": "whc/1361, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-safranbolu-verkehr",
+    "fact_key": "q3.h.safranbolu.verkehr",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Safranbolu war lange ein wichtiger Halt für Handelskarawanen. Warum änderte eine neue Bahnverbindung im frühen 20. Jahrhundert die Bedeutung solcher Stationen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für jede Bahnfahrt waren zusätzliche Lasttiere vorgeschrieben."
+      },
+      {
+        "id": "b",
+        "text": "Die Waren mussten auf jeder Strecke weiterhin in Safranbolu umgeladen werden."
+      },
+      {
+        "id": "c",
+        "text": "Waren und Reisende konnten andere, schnellere Transportwege nutzen."
+      },
+      {
+        "id": "d",
+        "text": "Handel über Land war danach grundsätzlich verboten."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Stadt war über Jahrhunderte eine Station auf einer Ost-West-Route. Die Eisenbahn veränderte die wirtschaftliche Rolle des Karawanenverkehrs.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · City of Safranbolu",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:15+00:00",
+        "verified_claim": "Safranbolu war lange ein wichtiger Halt für Handelskarawanen. Warum änderte eine neue Bahnverbindung im frühen 20. Jahrhundert die Bedeutung solcher Stationen? Waren und Reisende konnten andere, schnellere Transportwege nutzen. Die Stadt war über Jahrhunderte eine Station auf einer Ost-West-Route. Die Eisenbahn veränderte die wirtschaftliche Rolle des Karawanenverkehrs.",
+        "locator": "whc/614, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-potosi-silber",
+    "fact_key": "q3.h.potosi.silber",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "In Potosí findet man sowohl Anlagen für Silbererz als auch die Casa de la Moneda, die Münzstätte. Welche wirtschaftliche Kette verbinden diese Orte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Von importierten fertigen Münzen zum Anbau von Nutzpflanzen"
+      },
+      {
+        "id": "b",
+        "text": "Vom Schaf zur goldfarben gefärbten Wolle"
+      },
+      {
+        "id": "c",
+        "text": "Vom Druck einer Banknote zum Abbau von Papiererz"
+      },
+      {
+        "id": "d",
+        "text": "Vom geförderten Edelmetall zum geprägten Geld"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Silbergewinnung machte die bolivianische Stadt im 16. Jahrhundert zu einem großen Produktionszentrum. Wasseranlagen versorgten die Mühlen.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · City of Potosí",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:15+00:00",
+        "verified_claim": "In Potosí findet man sowohl Anlagen für Silbererz als auch die Casa de la Moneda, die Münzstätte. Welche wirtschaftliche Kette verbinden diese Orte? Vom geförderten Edelmetall zum geprägten Geld. Die Silbergewinnung machte die bolivianische Stadt im 16. Jahrhundert zu einem großen Produktionszentrum. Wasseranlagen versorgten die Mühlen.",
+        "locator": "whc/420, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-ouro-preto-ende",
+    "fact_key": "q3.h.ouro.preto.ende",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Ouro Preto verdankte seinen Aufstieg einem Goldrausch. Was erklärt, weshalb prachtvolle Kirchen blieben, obwohl der wirtschaftliche Einfluss der Stadt im 19. Jahrhundert sank?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Lager erschöpften sich. Die Bauten aus der Boomzeit blieben zurück."
+      },
+      {
+        "id": "b",
+        "text": "Die Kirchen wurden vor dem ersten Goldfund vollständig nach Europa verschoben."
+      },
+      {
+        "id": "c",
+        "text": "Die Goldförderung nahm zu, das Gold war aber farblos geworden."
+      },
+      {
+        "id": "d",
+        "text": "Die Stadt wurde erst nach Ende des Bergbaus überhaupt gegründet."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Architektur bezeugt früheren Reichtum. Sie kann eine wirtschaftliche Blüte länger überdauern als das einträgliche Vorkommen.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Historic Town of Ouro Preto",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:15+00:00",
+        "verified_claim": "Ouro Preto verdankte seinen Aufstieg einem Goldrausch. Was erklärt, weshalb prachtvolle Kirchen blieben, obwohl der wirtschaftliche Einfluss der Stadt im 19. Jahrhundert sank? Die Lager erschöpften sich. Die Bauten aus der Boomzeit blieben zurück. Die Architektur bezeugt früheren Reichtum. Sie kann eine wirtschaftliche Blüte länger überdauern als das einträgliche Vorkommen.",
+        "locator": "whc/124, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-pfahlbau-spuren",
+    "fact_key": "q3.h.pfahlbau.spuren",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Am Rand eines Alpensees finden sich in regelmäßiger Anordnung vorgeschichtliche Pfähle. Welche Deutung passt besonders zur Lage und Anordnung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine mittelalterliche Landstraße aus gegossenem Eisen"
+      },
+      {
+        "id": "b",
+        "text": "Reste von Siedlungsbauten am Wasser"
+      },
+      {
+        "id": "c",
+        "text": "Ein Steinbruch für römische Marmorplatten"
+      },
+      {
+        "id": "d",
+        "text": "Eine zufällige Ansammlung weit auseinanderliegender Grenzsteine"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die alpinen Pfahlbaustellen liegen unter anderem an Seen, Flüssen und Feuchtgebieten. Ihre Reste geben Einblick in den prähistorischen Alltag.",
+    "tags": [
+      "thema_entdeckungsgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Prehistoric Pile Dwellings around the Alps",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:15+00:00",
+        "verified_claim": "Am Rand eines Alpensees finden sich in regelmäßiger Anordnung vorgeschichtliche Pfähle. Welche Deutung passt besonders zur Lage und Anordnung? Reste von Siedlungsbauten am Wasser. Die alpinen Pfahlbaustellen liegen unter anderem an Seen, Flüssen und Feuchtgebieten. Ihre Reste geben Einblick in den prähistorischen Alltag.",
+        "locator": "whc/1363, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-lascaux-zeitpunkt",
+    "fact_key": "q3.h.lascaux.zeitpunkt",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "1940 wurden die Höhlenbilder von Lascaux entdeckt. Welche Unterscheidung ist für die Datierung eines Bildes entscheidend?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Entdeckung ist älter als das Malen auf der Felswand."
+      },
+      {
+        "id": "b",
+        "text": "Das Alter einer Höhlenwand datiert jedes Bild auf das Jahr genau."
+      },
+      {
+        "id": "c",
+        "text": "Altsteinzeitliche Bilder wurden im 20. Jahrhundert entdeckt."
+      },
+      {
+        "id": "d",
+        "text": "Die Bilder entstanden im Jahr ihrer Entdeckung."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Höhlen des Vézère-Tals gehören zu den wichtigen Fundorten der Altsteinzeit. Funddatum und Herstellungszeit sind unterschiedliche Angaben.",
+    "tags": [
+      "thema_entdeckungsgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Prehistoric Sites and Decorated Caves of the Vézère Valley",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:15+00:00",
+        "verified_claim": "1940 wurden die Höhlenbilder von Lascaux entdeckt. Welche Unterscheidung ist für die Datierung eines Bildes entscheidend? Altsteinzeitliche Bilder wurden im 20. Jahrhundert entdeckt. Die Höhlen des Vézère-Tals gehören zu den wichtigen Fundorten der Altsteinzeit. Funddatum und Herstellungszeit sind unterschiedliche Angaben.",
+        "locator": "whc/85, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-atapuerca-zeit",
+    "fact_key": "q3.h.atapuerca.zeit",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Die Höhlen von Atapuerca liefern laut UNESCO menschliche Spuren aus annähernd einer Million Jahren vor unserer Zeit. Welcher Maßstab passt dazu?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einige Jahrhunderte"
+      },
+      {
+        "id": "b",
+        "text": "Wenige Jahrzehnte"
+      },
+      {
+        "id": "c",
+        "text": "Hunderte von Millionen Jahren"
+      },
+      {
+        "id": "d",
+        "text": "Hunderte von Jahrtausenden"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Funde gehören zur Erforschung sehr früher Menschen in Europa. Ein Kalender in Jahrhunderten wäre für diese Zeitspanne viel zu grob.",
+    "tags": [
+      "thema_entdeckungsgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Archaeological Site of Atapuerca",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:15+00:00",
+        "verified_claim": "Die Höhlen von Atapuerca liefern laut UNESCO menschliche Spuren aus annähernd einer Million Jahren vor unserer Zeit. Welcher Maßstab passt dazu? Hunderte von Jahrtausenden. Die Funde gehören zur Erforschung sehr früher Menschen in Europa. Ein Kalender in Jahrhunderten wäre für diese Zeitspanne viel zu grob.",
+        "locator": "whc/989, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-gobekli-vor-keramik",
+    "fact_key": "q3.h.gobekli.vor.keramik",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Funde von Göbekli Tepe werden der vorkeramischen Jungsteinzeit zugerechnet. Was darf man daraus über die dortigen monumentalen Steinbauten folgern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Große Gemeinschaftsbauten waren dort vor der Verbreitung von Tongefäßen möglich."
+      },
+      {
+        "id": "b",
+        "text": "Ihre Erbauer kannten keine Werkzeuge aus Stein."
+      },
+      {
+        "id": "c",
+        "text": "Alle älteren Menschen lebten ausschließlich in Städten."
+      },
+      {
+        "id": "d",
+        "text": "Vor den Steinbauten wurde dort industriell Porzellan hergestellt."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Jäger und Sammler errichteten die Anlagen zwischen etwa 9600 und 8200 vor Christus. Die übliche Epochenbezeichnung verweist auf die noch fehlende Keramik.",
+    "tags": [
+      "thema_entdeckungsgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Göbekli Tepe",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:15+00:00",
+        "verified_claim": "Funde von Göbekli Tepe werden der vorkeramischen Jungsteinzeit zugerechnet. Was darf man daraus über die dortigen monumentalen Steinbauten folgern? Große Gemeinschaftsbauten waren dort vor der Verbreitung von Tongefäßen möglich. Jäger und Sammler errichteten die Anlagen zwischen etwa 9600 und 8200 vor Christus. Die übliche Epochenbezeichnung verweist auf die noch fehlende Keramik.",
+        "locator": "whc/1572, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-radiosternwarte-ort",
+    "fact_key": "q3.h.radiosternwarte.ort",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Jodrell Bank entstand in einer ländlichen Gegend mit wenig Funkstörung. Weshalb war der Abstand von starken Sendern für das Observatorium günstig?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Radiowellen können nur außerhalb von Ortschaften entstehen."
+      },
+      {
+        "id": "b",
+        "text": "Schwache Radiosignale aus dem All wurden weniger überlagert."
+      },
+      {
+        "id": "c",
+        "text": "Sterne leuchteten dort grundsätzlich heller als überall sonst."
+      },
+      {
+        "id": "d",
+        "text": "Fernmeldeantennen benötigen Schutz vor jedem sichtbaren Stern."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Ein Radioteleskop untersucht elektromagnetische Signale statt eines sichtbaren Bildes. Störarme Umgebung war deshalb ein Standortvorteil.",
+    "tags": [
+      "thema_entdeckungsgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Jodrell Bank Observatory",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:15+00:00",
+        "verified_claim": "Jodrell Bank entstand in einer ländlichen Gegend mit wenig Funkstörung. Weshalb war der Abstand von starken Sendern für das Observatorium günstig? Schwache Radiosignale aus dem All wurden weniger überlagert. Ein Radioteleskop untersucht elektromagnetische Signale statt eines sichtbaren Bildes. Störarme Umgebung war deshalb ein Standortvorteil.",
+        "locator": "whc/1594, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-burgess-weichteile",
+    "fact_key": "q3.h.burgess.weichteile",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Im Burgess-Schiefer der kanadischen Rocky Mountains blieben sogar weichkörperige Meerestiere fossil erhalten. Welche Lücke in der Überlieferung hilft das schließen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ausschließlich harte Zähne und Muschelschalen sind nun auffindbar."
+      },
+      {
+        "id": "b",
+        "text": "Meerestiere lassen sich damit grundsätzlich nicht an Land nachweisen."
+      },
+      {
+        "id": "c",
+        "text": "Auch Tiere ohne leicht erhaltbare Schale werden sichtbar."
+      },
+      {
+        "id": "d",
+        "text": "Alle Lebewesen können damit bis auf den Geburtstag datiert werden."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Weiche Körperteile verschwinden normalerweise rasch. Ihre Erhaltung erweitert das Bild früherer Lebensgemeinschaften über harte Skelette hinaus.",
+    "tags": [
+      "thema_entdeckungsgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Canadian Rocky Mountain Parks",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:15+00:00",
+        "verified_claim": "Im Burgess-Schiefer der kanadischen Rocky Mountains blieben sogar weichkörperige Meerestiere fossil erhalten. Welche Lücke in der Überlieferung hilft das schließen? Auch Tiere ohne leicht erhaltbare Schale werden sichtbar. Weiche Körperteile verschwinden normalerweise rasch. Ihre Erhaltung erweitert das Bild früherer Lebensgemeinschaften über harte Skelette hinaus.",
+        "locator": "whc/304, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-ringburgen-muster",
+    "fact_key": "q3.h.ringburgen.muster",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Fünf dänische Ringburgen aus etwa 970 bis 980 weisen gleichzeitig einheitliche geometrische Pläne auf. Welche Deutung passt besser als fünf ganz unabhängige Zufallsformen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fünf zu unterschiedlichen Jahrtausenden entstandene Naturhügel"
+      },
+      {
+        "id": "b",
+        "text": "Eine einzige Anlage, die in jedem Sommer an einen neuen Ort wanderte"
+      },
+      {
+        "id": "c",
+        "text": "Fünf aufeinanderfolgende freie Umbauten desselben Wohnhauses"
+      },
+      {
+        "id": "d",
+        "text": "Ein gemeinsam organisierter Bau nach einem einheitlichen Entwurf"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Anlagen liegen an strategisch wichtigen Land- und Seewegen. Zeitstellung und Geometrie sprechen für eine übergreifende Planung.",
+    "tags": [
+      "thema_entdeckungsgeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Viking-Age Ring Fortresses",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:20:15+00:00",
+        "verified_claim": "Fünf dänische Ringburgen aus etwa 970 bis 980 weisen gleichzeitig einheitliche geometrische Pläne auf. Welche Deutung passt besser als fünf ganz unabhängige Zufallsformen? Ein gemeinsam organisierter Bau nach einem einheitlichen Entwurf. Die Anlagen liegen an strategisch wichtigen Land- und Seewegen. Zeitstellung und Geometrie sprechen für eine übergreifende Planung.",
+        "locator": "whc/1660, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:20:15+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

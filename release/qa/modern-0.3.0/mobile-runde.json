@@ -1,0 +1,37 @@
+{
+  "at": "2026-11-22T22:46:56.662Z",
+  "day": "2026-11-22",
+  "catalog": "de-d5a1d0585ed1",
+  "questions": 2400,
+  "link": "http://127.0.0.1:65357/Quiz/spielen.html?v=0.3.0",
+  "browser": "149.0.7827.55",
+  "viewport": [
+    390,
+    780
+  ],
+  "offlineAfterFirstAnswer": true,
+  "formats": [
+    "Zum Herleiten",
+    "",
+    "",
+    "Schätzfrage",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Zum Herleiten · Aus der Forschung 2026"
+  ],
+  "research": [
+    {
+      "id": "qs-studie-bao-spirale",
+      "source": "https://doi.org/10.1038/s41586-026-11221-z",
+      "published": "2026-11-18"
+    }
+  ],
+  "correct": 10,
+  "awardedOnce": true,
+  "sha256Catalog": "b4412320586ede132b499e4c05e76200996b86b51e8d53d81750e89768d1dbc8",
+  "external": [],
+  "errors": []
+}

@@ -1,0 +1,492 @@
+{
+  "q3-h-weimar-inkraft": {
+    "fingerprint": "ef0b5fe8158d82009125babe08a16b933d304318330d62a6f885fbfafb022485",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1919",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1919",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1919.html",
+        "downloaded_at": "2026-11-20T01:32:29+00:00",
+        "sha256": "28c0d638685602aeaa8545f5c6012595fcd7477907f2e4a5222b5a1a8fa1b66b",
+        "source_line": 247,
+        "source_line_sha256": "99f6a7676ee7f5c917e9aa96f1846751071f0fe99127798697f73d581721b7e1",
+        "anchor": "Veröffentlichung im Reichsgesetzblatt"
+      }
+    ]
+  },
+  "q3-h-versailles-spiegelsaal": {
+    "fingerprint": "e240cc7f1da35c51d903ee1cb657c0c0c49a1490137e8f4bd2eafc950f42fedb",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1919",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1919",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1919.html",
+        "downloaded_at": "2026-11-20T01:32:29+00:00",
+        "sha256": "28c0d638685602aeaa8545f5c6012595fcd7477907f2e4a5222b5a1a8fa1b66b",
+        "source_line": 208,
+        "source_line_sha256": "30c10c7237fc47991800de6f9aa520ff658c001741eb39453a6a5f672084f41d",
+        "anchor": "Spiegelsaal des Versailler Schlosses"
+      }
+    ]
+  },
+  "q3-h-preussen-freistaat": {
+    "fingerprint": "386787bcf874334a2f4bb94959498ea9ef05d1cc82177e115eaab1721217ad69",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1920",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1920",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1920.html",
+        "downloaded_at": "2026-11-20T01:32:30+00:00",
+        "sha256": "e8a1f15caf0dfa41cf87b7b04c3f6678c70058863f40fbf39fe19ded9d9334fe",
+        "source_line": 302,
+        "source_line_sha256": "28ec07559f6beb5800456e49cb1264b26e0d5261f4294966ff907050bf8c638f",
+        "anchor": "demokratisch-parlamentarischen Freistaat"
+      }
+    ]
+  },
+  "q3-h-tuerkei-republik": {
+    "fingerprint": "bd673e518a74a9056abd686e6ab977d598190152d65db3b6a225986616a13ffc",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1922",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1922",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1922.html",
+        "downloaded_at": "2026-11-20T01:32:30+00:00",
+        "sha256": "82c4a721eab8cd7af5ac908f6657d9c12ea2cf4d4603006897664fb7d2ce3ac2",
+        "source_line": 228,
+        "source_line_sha256": "b0794eb69a6b0ff2aaa795513f06b432c0b8854a6adecf45e6fbd69dd17331bb",
+        "anchor": "Abschaffung der Monarchie"
+      },
+      {
+        "key": "dh1923",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1923",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1923.html",
+        "downloaded_at": "2026-11-20T01:32:30+00:00",
+        "sha256": "46add25b1d60e584c08e902702c980c3c99e3228cbd74cbadd7a1ef3ea8bbbfd",
+        "source_line": 269,
+        "source_line_sha256": "7b9edd65654ee33ede5e0dc8253181992c64291740ff4f6ef73ef9a1f541d569",
+        "anchor": "Türkei zur Republik"
+      }
+    ]
+  },
+  "q3-h-spanien-laizismus": {
+    "fingerprint": "9dcaa37caf4fee3118e28e280e5d6d649394ca3a351bb5831beef229fdaa57a7",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1931",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1931",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1931.html",
+        "downloaded_at": "2026-11-20T01:32:31+00:00",
+        "sha256": "0122f65216e72687d571939d3df935e9065d6dd8e22487747a7d59b07297391e",
+        "source_line": 287,
+        "source_line_sha256": "82ebe3c7eb0e653482cacf82900f1a2892627e28c38d8eb6762526cd61fdd7f3",
+        "anchor": "Staat und Kirche werden getrennt"
+      }
+    ]
+  },
+  "q3-h-locarno-grenze": {
+    "fingerprint": "a24d82292040a6e782a83e0ceb8f4ef02317997cc3bd426df85d6adc22c572d0",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1925",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1925",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1925.html",
+        "downloaded_at": "2026-11-20T01:32:30+00:00",
+        "sha256": "9ee97a72d01176dd4b0174fd6b267a124ebd09fabb1bd80eb8e1d5f7f7c75b58",
+        "source_line": 204,
+        "source_line_sha256": "3b83f8b602decddda74fc96a5b616775bc5d06bffab7b444271d665c41ebd35f",
+        "anchor": "gewaltsame Veränderung ihrer gemeinsamen"
+      }
+    ]
+  },
+  "q3-h-oslo-stadtname": {
+    "fingerprint": "9adf78928c99bb49a67e575d81284ea4b5cd87fc7cc02707154d90f112b2a727",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1925",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1925",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1925.html",
+        "downloaded_at": "2026-11-20T01:32:30+00:00",
+        "sha256": "9ee97a72d01176dd4b0174fd6b267a124ebd09fabb1bd80eb8e1d5f7f7c75b58",
+        "source_line": 38,
+        "source_line_sha256": "dec3120b608fcc61ba3c20170bc1bc3f1708ea510819ef5ff1fa19ae0c153265",
+        "anchor": "ihren alten Namen Oslo"
+      }
+    ]
+  },
+  "q3-h-petrograd-lenin": {
+    "fingerprint": "2529c295d4d64740e39168576d520758acf83ca82d2e1028e66b3ca2fb30786f",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1924",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1924",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1924.html",
+        "downloaded_at": "2026-11-20T01:32:30+00:00",
+        "sha256": "8ff109a63440d99f2674bce801039c7d3de3c5c0267f637d5b2ae61fb3d005b8",
+        "source_line": 54,
+        "source_line_sha256": "1331fc38d2f9234124bff98765cc6eb9e9f7dd62440fa6fbbcdb80d756fe509b",
+        "anchor": "in Leningrad umbenannt"
+      }
+    ]
+  },
+  "q3-h-suedtirol-schule": {
+    "fingerprint": "055de04f88b9ef775c835d81188359bddd6c3241a9e5b17b87a97ba340d58ddd",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1927",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1927",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1927.html",
+        "downloaded_at": "2026-11-20T01:32:31+00:00",
+        "sha256": "4996ab972dabe75e1ef35310abbe05cdaf8908a532ca84a298771f5ad7b90930",
+        "source_line": 183,
+        "source_line_sha256": "daaf1bc84962ad7070fa44f10b9c98c0c8a0be8e04cd730a067efb9a4f8a8941",
+        "anchor": "italienischsprachigen Unterricht"
+      }
+    ]
+  },
+  "q3-h-prohibition-wirt": {
+    "fingerprint": "1fb2920ab938286ec6eedb74e8ce3f6c121a59e815f35465081cd3eb5bc3d296",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1920",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1920",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1920.html",
+        "downloaded_at": "2026-11-20T01:32:30+00:00",
+        "sha256": "e8a1f15caf0dfa41cf87b7b04c3f6678c70058863f40fbf39fe19ded9d9334fe",
+        "source_line": 50,
+        "source_line_sha256": "c6b569afe16e6600418c39a6c13cb8707b459961fd1dca0ec84e443221f5aca5",
+        "anchor": "Vertrieb alkoholischer Getränke"
+      }
+    ]
+  },
+  "q3-h-bahnstreik-umfang": {
+    "fingerprint": "63734c9b794bc104ecc02cdaa0faf5ac488dd6da7d1ce30208c913d4a231bda3",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1922",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1922",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1922.html",
+        "downloaded_at": "2026-11-20T01:32:30+00:00",
+        "sha256": "82c4a721eab8cd7af5ac908f6657d9c12ea2cf4d4603006897664fb7d2ce3ac2",
+        "source_line": 53,
+        "source_line_sha256": "7bcf0f507a45893fabd4fafe66bd5b76f3411750023e82dd38f92ee18c9aa165",
+        "anchor": "700.000 Arbeiter"
+      }
+    ]
+  },
+  "q3-h-versorgungsstreik": {
+    "fingerprint": "8a5ad6915d96f025a2cc8889ed2dfb647474c9a2c3fb1f9b379e3457fd7c4ad7",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1920",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1920",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1920.html",
+        "downloaded_at": "2026-11-20T01:32:30+00:00",
+        "sha256": "e8a1f15caf0dfa41cf87b7b04c3f6678c70058863f40fbf39fe19ded9d9334fe",
+        "source_line": 295,
+        "source_line_sha256": "1b73983b0be60907f8095de1f3708d9202990812ff18b3188bf9a5d1854bfc65",
+        "anchor": "Gas-, Wasser- und Elektrizitätsversorgung"
+      }
+    ]
+  },
+  "q3-h-ruhr-reparation-kohle": {
+    "fingerprint": "a68ad7eef526924269996ea9fd9f48b93e18827466cc75b7ed3374b4180601c1",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1923",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1923",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1923.html",
+        "downloaded_at": "2026-11-20T01:32:30+00:00",
+        "sha256": "46add25b1d60e584c08e902702c980c3c99e3228cbd74cbadd7a1ef3ea8bbbfd",
+        "source_line": 47,
+        "source_line_sha256": "13cdabc34fcf8368548ad928792656d0bf627f7c1ad87ec312d1952fa197d65e",
+        "anchor": "Kohlelieferungen sichern"
+      }
+    ]
+  },
+  "q3-h-rentenmark-umtausch": {
+    "fingerprint": "c37efd6d856d28366df65272a0372be6d00772b62b3d049ef33b5e93bd286ab9",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1923",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1923",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1923.html",
+        "downloaded_at": "2026-11-20T01:32:30+00:00",
+        "sha256": "46add25b1d60e584c08e902702c980c3c99e3228cbd74cbadd7a1ef3ea8bbbfd",
+        "source_line": 293,
+        "source_line_sha256": "e44642768c4558641e3861de152909a748e400737c8b477fa9fe8eb401fdfe2f",
+        "anchor": "Für eine Billion Mark"
+      }
+    ]
+  },
+  "q3-h-hanomag-kleinwagen": {
+    "fingerprint": "f119d837bdaefd16e860a2e73625290c4efbd329b14385a223dbf688f68176c2",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1924",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1924",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1924.html",
+        "downloaded_at": "2026-11-20T01:32:30+00:00",
+        "sha256": "8ff109a63440d99f2674bce801039c7d3de3c5c0267f637d5b2ae61fb3d005b8",
+        "source_line": 262,
+        "source_line_sha256": "a01f8aa3ac4e5f79a5a375e7c598dc53e522d1d88c244c9c78d1f891c25b0a9c",
+        "anchor": "einfachen Kleinwagen"
+      }
+    ]
+  },
+  "q3-h-werftarbeiter-zeit": {
+    "fingerprint": "24671f9355093a1fea833edbdd2a7a8eefe6f8d52bccba9026161f92441353f4",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1928",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1928",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1928.html",
+        "downloaded_at": "2026-11-20T01:32:31+00:00",
+        "sha256": "f22d86d5e85d6f527b7230d4d69869bc8dfa15337bde9118d1eae6e4ed207945",
+        "source_line": 211,
+        "source_line_sha256": "6d45fbcaf3c89865f51f730e840a99511b646894f9f3e1aea4add9a0d853ccd9",
+        "anchor": "48-Stunden-Woche"
+      }
+    ]
+  },
+  "q3-h-krise-kurs": {
+    "fingerprint": "ed1ffcbacc020712fa8f150afd7e2c0aa84d98ab166f9fadb9a3a7db04303cb3",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1929",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1929",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1929.html",
+        "downloaded_at": "2026-11-20T01:32:31+00:00",
+        "sha256": "e53de97563d99f64c596cb1491930f3288b1eb1f43b12807871c0dce08da5f16",
+        "source_line": 249,
+        "source_line_sha256": "2b08de1df2e252c76143abf8d3a3a7b64659e65a797b99b70f0052a8efd3d3e8",
+        "anchor": "Kurssturz an der New-Yorker Börse"
+      }
+    ]
+  },
+  "q3-h-arbeitslose-versicherung": {
+    "fingerprint": "1ce8e776a2c851ac8c2fa0e779631c1ccfabec6926008d26e91a4cc7f5b8c7b6",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1931",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1931",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1931.html",
+        "downloaded_at": "2026-11-20T01:32:31+00:00",
+        "sha256": "0122f65216e72687d571939d3df935e9065d6dd8e22487747a7d59b07297391e",
+        "source_line": 93,
+        "source_line_sha256": "893a7cdf0d434f1fc6190bad6d01e83db061b836fd93faeb332a1063cfac2c52",
+        "anchor": "Nur die Hälfte von ihnen"
+      }
+    ]
+  },
+  "q3-h-steuer-beruf-diskrim": {
+    "fingerprint": "778f9f72db1cc5c6fa16fe2e683634015f733b0f39405ed4558bdc7ade2a3f15",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1938",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1938",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1938.html",
+        "downloaded_at": "2026-11-20T01:32:32+00:00",
+        "sha256": "d7a682b5937acda9cf6ec2d6c0715e6e181c3ef0acbf9180bdcb5f908c65c82c",
+        "source_line": 44,
+        "source_line_sha256": "d71f75785ea76d241100c8f9c6471e2c52187d772e41d5b89d224ae07743bee8",
+        "anchor": "jüdische Zahnärzte aus den Krankenkassen"
+      }
+    ]
+  },
+  "q3-h-wannsee-groesse": {
+    "fingerprint": "e63378c2fa565593c76bf09c9bb04ad5cf6db533e1e6326044f0f884bfe9bbaf",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1930",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1930",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1930.html",
+        "downloaded_at": "2026-11-20T01:32:31+00:00",
+        "sha256": "56f5dd1b039c81fd79ad0e7979314f39b0f7693cea9b83e2968b2d9371b02475",
+        "source_line": 217,
+        "source_line_sha256": "28e7bbc1172add4e3c7aab2e8d3dcd9510a893d05e09f17b63d5cb055e4ead58",
+        "anchor": "über 60.000 Besucher"
+      }
+    ]
+  },
+  "q3-h-fotokopie-wartezeit": {
+    "fingerprint": "8775c526f5b2561931134b305161bcdd5255801f15d0d68b3d162f3cf9813d56",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1930",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1930",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1930.html",
+        "downloaded_at": "2026-11-20T01:32:31+00:00",
+        "sha256": "56f5dd1b039c81fd79ad0e7979314f39b0f7693cea9b83e2968b2d9371b02475",
+        "source_line": 264,
+        "source_line_sha256": "5f636b723b9253d9a7941056430dad7731ae0e726b15ef6ad0bae3039fc91e4e",
+        "anchor": "eine Kopie dreißig Minuten"
+      }
+    ]
+  },
+  "q3-h-antikriegs-roman-vorab": {
+    "fingerprint": "3e33178c9f6166fd0ceb736d0f0ee66fd608a5e181dc6046a2a8211ae0015a54",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1929",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1929",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1929.html",
+        "downloaded_at": "2026-11-20T01:32:31+00:00",
+        "sha256": "e53de97563d99f64c596cb1491930f3288b1eb1f43b12807871c0dce08da5f16",
+        "source_line": 52,
+        "source_line_sha256": "c55a1292182e92e4e41354b826cf38c132806186e5512e5da826a3e6e3897312",
+        "anchor": "Vorabdruck in der"
+      }
+    ]
+  },
+  "q3-h-berliner-schaukino": {
+    "fingerprint": "e543075b93f8c08014037d966df776cf083588d966e46cbbb9839e7a743591cd",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1928",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1928",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1928.html",
+        "downloaded_at": "2026-11-20T01:32:31+00:00",
+        "sha256": "f22d86d5e85d6f527b7230d4d69869bc8dfa15337bde9118d1eae6e4ed207945",
+        "source_line": 198,
+        "source_line_sha256": "0c38ec46088997ae939adc42cfd70224201b5436a700cc72692576df872c5315",
+        "anchor": "Lichtspielhauses Universum"
+      }
+    ]
+  },
+  "q3-h-fotograf-freiheit": {
+    "fingerprint": "cf9124d1055ae521fb2c2f28f82faa3dd721e4e5131b283354130e223a39a09e",
+    "checked_at": "2026-11-22T22:09:22+00:00",
+    "sources": [
+      {
+        "key": "dh1936",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1936",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1936.html",
+        "downloaded_at": "2026-11-20T01:32:32+00:00",
+        "sha256": "b3df3dc5b4331eb2e3e0d98ecc21732380bd6f4c52870824ed7c1617dd577e12",
+        "source_line": 216,
+        "source_line_sha256": "8f37e1dcc54c752eea598ce83506b940ed5ad2e34120a6b5d135e9fde4e2c7e0",
+        "anchor": "jede Form von \"Kunstkritik\""
+      }
+    ]
+  },
+  "q3-h-nathan-buehne": {
+    "fingerprint": "f6832b1dc624a2b49a179afbc5fdcafd372d38c2d0a753627b24189725e15894",
+    "checked_at": "2026-11-22T22:09:23+00:00",
+    "sources": [
+      {
+        "key": "dh1945",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1945",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1945.html",
+        "downloaded_at": "2026-11-20T01:32:33+00:00",
+        "sha256": "5926ca3d28955ff3cb2b1b7ad1b9d5a5255eed5df96827e3268ef87b8a0b2da3",
+        "source_line": 257,
+        "source_line_sha256": "14573fa7bc380b441e2a6d82ffc8dc16f976b9e6be4f6d1c51156ae1dcb0a082",
+        "anchor": "während der NS-Zeit verbotenen Drama"
+      }
+    ]
+  },
+  "q3-h-segelflug-schlepp": {
+    "fingerprint": "cd65d160ac5c655c38899505d8b44f441e3e6a4310f515932bc953d0e8a7b8d1",
+    "checked_at": "2026-11-22T22:09:23+00:00",
+    "sources": [
+      {
+        "key": "dh1927",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1927",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1927.html",
+        "downloaded_at": "2026-11-20T01:32:31+00:00",
+        "sha256": "4996ab972dabe75e1ef35310abbe05cdaf8908a532ca84a298771f5ad7b90930",
+        "source_line": 72,
+        "source_line_sha256": "1ab27553714626edad915ee062c5fcba1cafff4e3e348f0545d9fdb39dddd0cb",
+        "anchor": "Motorschlepp von Segelflugzeugen"
+      }
+    ]
+  },
+  "q3-h-normandie-lang": {
+    "fingerprint": "d7b243476adf7c44847fbbe5fb229b7cf42df18ea50a7881ce90a6010914a4f5",
+    "checked_at": "2026-11-22T22:09:23+00:00",
+    "sources": [
+      {
+        "key": "dh1932",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1932",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1932.html",
+        "downloaded_at": "2026-11-20T01:32:31+00:00",
+        "sha256": "8f91b96f97fa2ca19e9db9d092a699e7eb3477d90f349b8e4b7644cdfae6a863",
+        "source_line": 261,
+        "source_line_sha256": "085bf6553df366c7e26e7ee19fd57ef77282b9a19d042bcaeafbda3831db9071",
+        "anchor": "313 Meter lange"
+      }
+    ]
+  },
+  "q3-h-haftpflicht-1939": {
+    "fingerprint": "a3df22e7293fb766fed558c8911ee0e6488f460eeff407f38a9914e4761515ee",
+    "checked_at": "2026-11-22T22:09:23+00:00",
+    "sources": [
+      {
+        "key": "dh1939",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1939",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1939.html",
+        "downloaded_at": "2026-11-20T01:32:32+00:00",
+        "sha256": "3e3860853171d95d28c24a369ff5272ded25b6bbaab26d714157624b3f37f9bd",
+        "source_line": 262,
+        "source_line_sha256": "13bed548dda6b8b8ecc623a28e160bbe136a5f925f01c02ad32bc99dfba2a20b",
+        "anchor": "Haftpflichtversicherung für alle Kraftfahrzeughalter"
+      }
+    ]
+  },
+  "q3-h-antwerpen-teilnahme": {
+    "fingerprint": "17ed1c530967eef6edcafc8acec6ba934ba9a4f81ebe59f45ebc38cf48f31871",
+    "checked_at": "2026-11-22T22:09:23+00:00",
+    "sources": [
+      {
+        "key": "dh1920",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1920",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1920.html",
+        "downloaded_at": "2026-11-20T01:32:30+00:00",
+        "sha256": "e8a1f15caf0dfa41cf87b7b04c3f6678c70058863f40fbf39fe19ded9d9334fe",
+        "source_line": 241,
+        "source_line_sha256": "889b4d2947a9b8166e0ad449a7d00c2129bc85f47118707294606610f657574e",
+        "anchor": "Vertreter der ehemaligen Mittelmächte"
+      }
+    ]
+  },
+  "q3-h-eisenbahn-elektrisch": {
+    "fingerprint": "b4e9e33f475daf9b5379739ff18f05e73c092984ab5d2ffd52ea3a55d72b2d72",
+    "checked_at": "2026-11-22T22:09:23+00:00",
+    "sources": [
+      {
+        "key": "dh1928",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1928",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1928.html",
+        "downloaded_at": "2026-11-20T01:32:31+00:00",
+        "sha256": "f22d86d5e85d6f527b7230d4d69869bc8dfa15337bde9118d1eae6e4ed207945",
+        "source_line": 73,
+        "source_line_sha256": "7af4bdce6f4c13c65bb0f68f7d5e9d7ff241f3a4582603d4f3a195741209b780",
+        "anchor": "Betrieb elektrischer Schnellzüge"
+      }
+    ]
+  }
+}

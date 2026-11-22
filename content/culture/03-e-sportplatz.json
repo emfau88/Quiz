@@ -1,0 +1,2087 @@
+[
+  {
+    "id": "q3-e-curling-wo-ist-haus",
+    "fact_key": "q3.e.curling.wo.ist.haus",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Beim Curling soll der rote Stein möglichst nah an die Mitte des „Hauses“. Welches Ziel meint der Fernsehkommentar damit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Zielkreise im Eis"
+      },
+      {
+        "id": "b",
+        "text": "Den Startblock am anderen Ende"
+      },
+      {
+        "id": "c",
+        "text": "Die Begrenzung am Hallendach"
+      },
+      {
+        "id": "d",
+        "text": "Den Mannschaftsbereich neben der Bahn"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die konzentrischen Ringe helfen, die Lage der Steine zueinander und zur Mitte zu erkennen.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "World Curling · What is curling?",
+        "url": "https://worldcurling.org/about/curling/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Beim Curling soll der rote Stein möglichst nah an die Mitte des „Hauses“. Welches Ziel meint der Fernsehkommentar damit? Die Zielkreise im Eis. Die konzentrischen Ringe helfen, die Lage der Steine zueinander und zur Mitte zu erkennen.",
+        "locator": "curling, Textstelle 56",
+        "source_sha256": "e4fd1fe95f0117e72c3c8e6a510d0425fd679c9a2b339f7ca57dba4f41d93098"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-curling-steinlast",
+    "fact_key": "q3.e.curling.steinlast",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein Curlingstein gleitet so leicht über das Eis, dass sein Gewicht täuschen kann. Womit ist seine Masse ungefähr vergleichbar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mit einem Kleinwagen"
+      },
+      {
+        "id": "b",
+        "text": "Mit einem gut gefüllten Reisekoffer von etwa 20 Kilo"
+      },
+      {
+        "id": "c",
+        "text": "Mit einem Tennisball"
+      },
+      {
+        "id": "d",
+        "text": "Mit einem Brief von 20 Gramm"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Ein Wettkampfstein besteht aus Granit und wiegt annähernd zwanzig Kilogramm.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "World Curling · What is curling?",
+        "url": "https://worldcurling.org/about/curling/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Ein Curlingstein gleitet so leicht über das Eis, dass sein Gewicht täuschen kann. Womit ist seine Masse ungefähr vergleichbar? Mit einem gut gefüllten Reisekoffer von etwa 20 Kilo. Ein Wettkampfstein besteht aus Granit und wiegt annähernd zwanzig Kilogramm.",
+        "locator": "curling, Textstelle 66",
+        "source_sha256": "e4fd1fe95f0117e72c3c8e6a510d0425fd679c9a2b339f7ca57dba4f41d93098"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-curling-zaehlen",
+    "fact_key": "q3.e.curling.zaehlen",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Drei Steine liegen im Curling-Haus. Von der Mitte aus kommt erst Rot, dann Rot, dann Gelb. Nur Steine näher als der beste gegnerische zählen. Wie endet das End?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Drei Punkte für Rot"
+      },
+      {
+        "id": "b",
+        "text": "Ein Punkt für Gelb"
+      },
+      {
+        "id": "c",
+        "text": "Zwei Punkte für Rot"
+      },
+      {
+        "id": "d",
+        "text": "Je ein Punkt für beide Teams"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die zwei roten Steine liegen vor dem besten gelben. In einem End punktet höchstens eine Mannschaft.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "World Curling · What is curling?",
+        "url": "https://worldcurling.org/about/curling/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Drei Steine liegen im Curling-Haus. Von der Mitte aus kommt erst Rot, dann Rot, dann Gelb. Nur Steine näher als der beste gegnerische zählen. Wie endet das End? Zwei Punkte für Rot. Die zwei roten Steine liegen vor dem besten gelben. In einem End punktet höchstens eine Mannschaft.",
+        "locator": "curling, Textstelle 51",
+        "source_sha256": "e4fd1fe95f0117e72c3c8e6a510d0425fd679c9a2b339f7ca57dba4f41d93098"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-curling-skip",
+    "fact_key": "q3.e.curling.skip",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Der Skip steht normalerweise am Ziel und gibt die Richtung vor. Warum übernimmt dort jemand anderes, wenn der Skip seinen eigenen Stein spielt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Skip verliert dadurch dauerhaft seine Teamrolle."
+      },
+      {
+        "id": "b",
+        "text": "Jeder letzte Stein muss von der gegnerischen Mannschaft gelenkt werden."
+      },
+      {
+        "id": "c",
+        "text": "Der Zielkreis wird vor diesem Stein vollständig entfernt."
+      },
+      {
+        "id": "d",
+        "text": "Er kann nicht gleichzeitig am Start und am Ziel stehen."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Stellvertretung übernimmt die Aufgaben des Skips für dessen Abgabe. So bleibt die Verständigung vom Start bis ins Haus möglich.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "World Curling · What is curling?",
+        "url": "https://worldcurling.org/about/curling/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Der Skip steht normalerweise am Ziel und gibt die Richtung vor. Warum übernimmt dort jemand anderes, wenn der Skip seinen eigenen Stein spielt? Er kann nicht gleichzeitig am Start und am Ziel stehen. Die Stellvertretung übernimmt die Aufgaben des Skips für dessen Abgabe. So bleibt die Verständigung vom Start bis ins Haus möglich.",
+        "locator": "curling, Textstelle 43",
+        "source_sha256": "e4fd1fe95f0117e72c3c8e6a510d0425fd679c9a2b339f7ca57dba4f41d93098"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-curling-letzter",
+    "fact_key": "q3.e.curling.letzter",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein Curlingteam besitzt den „Hammer“. Es darf nach dem Gegner noch einen Stein spielen. Weshalb ist diese Reihenfolge wertvoll?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Team kann auf die letzte Lage der gegnerischen Steine reagieren."
+      },
+      {
+        "id": "b",
+        "text": "Der letzte Stein zählt immer doppelt."
+      },
+      {
+        "id": "c",
+        "text": "Der letzte Stein darf das Haus verlassen und punktet trotzdem."
+      },
+      {
+        "id": "d",
+        "text": "Der Gegner muss vor diesem Stein alle eigenen Steine entfernen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der letzte Stein ist ein taktischer Vorteil. Er ermöglicht auch einen abschließenden Versuch, das End zu punkten.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "World Curling · What is curling?",
+        "url": "https://worldcurling.org/about/curling/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Ein Curlingteam besitzt den „Hammer“. Es darf nach dem Gegner noch einen Stein spielen. Weshalb ist diese Reihenfolge wertvoll? Das Team kann auf die letzte Lage der gegnerischen Steine reagieren. Der letzte Stein ist ein taktischer Vorteil. Er ermöglicht auch einen abschließenden Versuch, das End zu punkten.",
+        "locator": "curling, Textstelle 57",
+        "source_sha256": "e4fd1fe95f0117e72c3c8e6a510d0425fd679c9a2b339f7ca57dba4f41d93098"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-curling-zeichen",
+    "fact_key": "q3.e.curling.zeichen",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine Curlingmannschaft will sich über die lange Bahn verständigen, ohne gegen das Hallengeräusch anzurufen. Welche Alternative nutzen manche Teams?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Spieler der anderen Mannschaft für jede Anweisung befragen"
+      },
+      {
+        "id": "b",
+        "text": "Verabredete Handzeichen"
+      },
+      {
+        "id": "c",
+        "text": "Erst nach jedem Durchgang schriftliche Briefe austauschen"
+      },
+      {
+        "id": "d",
+        "text": "Die Zielkreise mit jeder Ansage neu färben"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Teams können neben Zurufen ein eigenes System aus Handzeichen nutzen. Sichtkontakt hilft über die lange Eisbahn hinweg.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "World Curling · What is curling?",
+        "url": "https://worldcurling.org/about/curling/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Eine Curlingmannschaft will sich über die lange Bahn verständigen, ohne gegen das Hallengeräusch anzurufen. Welche Alternative nutzen manche Teams? Verabredete Handzeichen. Teams können neben Zurufen ein eigenes System aus Handzeichen nutzen. Sichtkontakt hilft über die lange Eisbahn hinweg.",
+        "locator": "curling, Textstelle 78",
+        "source_sha256": "e4fd1fe95f0117e72c3c8e6a510d0425fd679c9a2b339f7ca57dba4f41d93098"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-curling-mixed",
+    "fact_key": "q3.e.curling.mixed",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Im Curling-Mixed-Doppel liegt vor jedem End schon ein Stein pro Team. Dazu kommen fünf gespielte Steine. Wie viele eigene Steine können bei der Wertung höchstens zählen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fünf"
+      },
+      {
+        "id": "b",
+        "text": "Zehn"
+      },
+      {
+        "id": "c",
+        "text": "Sechs"
+      },
+      {
+        "id": "d",
+        "text": "Vier"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die fünf gespielten Steine und der bereits liegende Stein ergeben sechs mögliche Zählsteine für eine Mannschaft.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "World Curling · What is curling?",
+        "url": "https://worldcurling.org/about/curling/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Im Curling-Mixed-Doppel liegt vor jedem End schon ein Stein pro Team. Dazu kommen fünf gespielte Steine. Wie viele eigene Steine können bei der Wertung höchstens zählen? Sechs. Die fünf gespielten Steine und der bereits liegende Stein ergeben sechs mögliche Zählsteine für eine Mannschaft.",
+        "locator": "curling, Textstelle 46",
+        "source_sha256": "e4fd1fe95f0117e72c3c8e6a510d0425fd679c9a2b339f7ca57dba4f41d93098"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-curling-bahnlaenge",
+    "fact_key": "q3.e.curling.bahnlaenge",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Die Curlingbahn ist höchstens fünf Meter breit, aber mehr als 45 Meter lang. Welcher Grundriss kommt ihr am nächsten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein nahezu quadratischer Platz"
+      },
+      {
+        "id": "b",
+        "text": "Ein kleiner Kreis von fünf Metern Durchmesser"
+      },
+      {
+        "id": "c",
+        "text": "Ein breites Halboval mit fast gleicher Länge und Breite"
+      },
+      {
+        "id": "d",
+        "text": "Ein langes schmales Band"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Das Verhältnis liegt bei ungefähr neun zu eins oder darüber. Auf dieser langen Bahn ist Verständigung zwischen den Enden wichtig.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "World Curling · What is curling?",
+        "url": "https://worldcurling.org/about/curling/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Die Curlingbahn ist höchstens fünf Meter breit, aber mehr als 45 Meter lang. Welcher Grundriss kommt ihr am nächsten? Ein langes schmales Band. Das Verhältnis liegt bei ungefähr neun zu eins oder darüber. Auf dieser langen Bahn ist Verständigung zwischen den Enden wichtig.",
+        "locator": "curling, Textstelle 49",
+        "source_sha256": "e4fd1fe95f0117e72c3c8e6a510d0425fd679c9a2b339f7ca57dba4f41d93098"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-curling-guard",
+    "fact_key": "q3.e.curling.guard",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Ein Stein liegt vor dem Haus genau in der Bahn zu einem guten eigenen Zählstein. Welchen taktischen Nutzen hat dieser sogenannte Guard?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er erschwert einen direkten gegnerischen Schuss auf den Zählstein."
+      },
+      {
+        "id": "b",
+        "text": "Er bringt dort immer doppelte Punkte."
+      },
+      {
+        "id": "c",
+        "text": "Er beendet das End ohne weitere Steine."
+      },
+      {
+        "id": "d",
+        "text": "Er darf nach jeder Abgabe von Hand versetzt werden."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Guards werden vor dem Haus platziert, um den Weg zu dahinterliegenden Steinen abzudecken.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "World Curling · What is curling?",
+        "url": "https://worldcurling.org/about/curling/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Ein Stein liegt vor dem Haus genau in der Bahn zu einem guten eigenen Zählstein. Welchen taktischen Nutzen hat dieser sogenannte Guard? Er erschwert einen direkten gegnerischen Schuss auf den Zählstein. Guards werden vor dem Haus platziert, um den Weg zu dahinterliegenden Steinen abzudecken.",
+        "locator": "curling, Textstelle 70",
+        "source_sha256": "e4fd1fe95f0117e72c3c8e6a510d0425fd679c9a2b339f7ca57dba4f41d93098"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-rollstuhl-curling",
+    "fact_key": "q3.e.rollstuhl.curling",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Beim Rollstuhlcurling können Abgabestäbe helfen. Welcher gut sichtbare Teil des üblichen Teamcurlings entfällt in dieser Disziplin?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Vergleich der Steinlagen"
+      },
+      {
+        "id": "b",
+        "text": "Das Wischen vor dem Stein"
+      },
+      {
+        "id": "c",
+        "text": "Das Spielen auf Eis"
+      },
+      {
+        "id": "d",
+        "text": "Die gemeinsame Zielscheibe"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Rollstuhlcurling wird in gemischten Teams gespielt. Die Abgabe darf unterstützt werden, der Lauf wird nicht durch Wischen beeinflusst.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "World Curling · What is curling?",
+        "url": "https://worldcurling.org/about/curling/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Beim Rollstuhlcurling können Abgabestäbe helfen. Welcher gut sichtbare Teil des üblichen Teamcurlings entfällt in dieser Disziplin? Das Wischen vor dem Stein. Rollstuhlcurling wird in gemischten Teams gespielt. Die Abgabe darf unterstützt werden, der Lauf wird nicht durch Wischen beeinflusst.",
+        "locator": "curling, Textstelle 81",
+        "source_sha256": "e4fd1fe95f0117e72c3c8e6a510d0425fd679c9a2b339f7ca57dba4f41d93098"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-tennis-einstand",
+    "fact_key": "q3.e.tennis.einstand",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Bei Einstand im klassischen Tennisspiel gewinnt erst Anna einen Punkt, dann Bea. Welchen Stand ruft der Schiedsrichter nun aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spiel Bea"
+      },
+      {
+        "id": "b",
+        "text": "Satzball für beide"
+      },
+      {
+        "id": "c",
+        "text": "Wieder Einstand"
+      },
+      {
+        "id": "d",
+        "text": "Spiel Anna"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Nach Einstand sind zwei Punkte in Folge zum Spielgewinn nötig. Ein Vorteil geht bei einem verlorenen nächsten Punkt wieder verloren.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Lawn Tennis Association · Regeln und Zählweise",
+        "url": "https://www.lta.org.uk/play/how-to-get-started/rules-scoring/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Bei Einstand im klassischen Tennisspiel gewinnt erst Anna einen Punkt, dann Bea. Welchen Stand ruft der Schiedsrichter nun aus? Wieder Einstand. Nach Einstand sind zwei Punkte in Folge zum Spielgewinn nötig. Ein Vorteil geht bei einem verlorenen nächsten Punkt wieder verloren.",
+        "locator": "tennisde, Textstelle 337",
+        "source_sha256": "54fbbf4664e3324fda1b51e541663c29a5c155b3cf367237f0b807f56e2b13c1"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-tennis-love",
+    "fact_key": "q3.e.tennis.love",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Im englischen Tenniskommentar steht es „thirty–love“. Was zeigt die deutsch beschriftete Anzeige an?",
+    "options": [
+      {
+        "id": "a",
+        "text": "30 zu 15"
+      },
+      {
+        "id": "b",
+        "text": "30 zu 30"
+      },
+      {
+        "id": "c",
+        "text": "0 zu 30"
+      },
+      {
+        "id": "d",
+        "text": "30 zu 0"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "„Love“ bezeichnet null Punkte. Die Zahl des Aufschlägers wird zuerst genannt.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Lawn Tennis Association · Regeln und Zählweise",
+        "url": "https://www.lta.org.uk/play/how-to-get-started/rules-scoring/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Im englischen Tenniskommentar steht es „thirty–love“. Was zeigt die deutsch beschriftete Anzeige an? 30 zu 0. „Love“ bezeichnet null Punkte. Die Zahl des Aufschlägers wird zuerst genannt.",
+        "locator": "tennisde, Textstelle 331",
+        "source_sha256": "54fbbf4664e3324fda1b51e541663c29a5c155b3cf367237f0b807f56e2b13c1"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-tennis-diagonale",
+    "fact_key": "q3.e.tennis.diagonale",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Ein Aufschlag landet im Feld auf derselben Seite der gedachten Mittellinie wie der aufschlagende Spieler. Weshalb ist das trotz Netzüberquerung ein Fehler?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Ziel ist das diagonal gegenüberliegende Aufschlagfeld."
+      },
+      {
+        "id": "b",
+        "text": "Jeder Aufschlag muss die Netzstange berühren."
+      },
+      {
+        "id": "c",
+        "text": "Der Ball muss vor dem Netz erst auf der eigenen Hälfte aufspringen."
+      },
+      {
+        "id": "d",
+        "text": "Der Ball darf erst nach drei Bodenkontakten angenommen werden."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Aufschlag bestimmt die Ausgangsseite, welches Feld auf der Gegenseite zählt. Anschließend wird die Seite gewechselt.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Lawn Tennis Association · Regeln und Zählweise",
+        "url": "https://www.lta.org.uk/play/how-to-get-started/rules-scoring/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Ein Aufschlag landet im Feld auf derselben Seite der gedachten Mittellinie wie der aufschlagende Spieler. Weshalb ist das trotz Netzüberquerung ein Fehler? Das Ziel ist das diagonal gegenüberliegende Aufschlagfeld. Beim Aufschlag bestimmt die Ausgangsseite, welches Feld auf der Gegenseite zählt. Anschließend wird die Seite gewechselt.",
+        "locator": "tennisde, Textstelle 245",
+        "source_sha256": "54fbbf4664e3324fda1b51e541663c29a5c155b3cf367237f0b807f56e2b13c1"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-tennis-volley",
+    "fact_key": "q3.e.tennis.volley",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Im laufenden Ballwechsel trifft eine Tennisspielerin den Ball am Netz aus der Luft. Weshalb muss sie ihn vorher nicht aufspringen lassen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Schläger darf den Ball erst nach einem Zuruf berühren."
+      },
+      {
+        "id": "b",
+        "text": "Während des Ballwechsels ist eine direkte Rückgabe als Volley erlaubt."
+      },
+      {
+        "id": "c",
+        "text": "Jeder Ball muss genau zweimal aufspringen."
+      },
+      {
+        "id": "d",
+        "text": "Die Netznähe zählt automatisch als Punktgewinn."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Im normalen Ballwechsel darf man einen Ball vor dem ersten Aufsprung schlagen. Länger als einen Aufsprung darf man nicht warten.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Lawn Tennis Association · Regeln und Zählweise",
+        "url": "https://www.lta.org.uk/play/how-to-get-started/rules-scoring/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Im laufenden Ballwechsel trifft eine Tennisspielerin den Ball am Netz aus der Luft. Weshalb muss sie ihn vorher nicht aufspringen lassen? Während des Ballwechsels ist eine direkte Rückgabe als Volley erlaubt. Im normalen Ballwechsel darf man einen Ball vor dem ersten Aufsprung schlagen. Länger als einen Aufsprung darf man nicht warten.",
+        "locator": "tennisde, Textstelle 198",
+        "source_sha256": "54fbbf4664e3324fda1b51e541663c29a5c155b3cf367237f0b807f56e2b13c1"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-tennis-zweiter-aufschlag",
+    "fact_key": "q3.e.tennis.zweiter.aufschlag",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Der erste Aufschlag landet im Netz. Was folgt im normalen Punktspiel, solange noch kein zweiter Aufschlag gespielt wurde?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Aufschläger tauschen ohne Punktwertung."
+      },
+      {
+        "id": "b",
+        "text": "Der erste Ballwechsel wird auf beiden Seiten als gewonnen gezählt."
+      },
+      {
+        "id": "c",
+        "text": "Dieselbe Person bekommt einen zweiten Aufschlag."
+      },
+      {
+        "id": "d",
+        "text": "Die Gegenseite erhält sofort den Satz."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Für den Beginn eines Punkts sind zwei Aufschlagversuche vorgesehen. Erst zwei Fehler kosten den Punkt.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Lawn Tennis Association · Regeln und Zählweise",
+        "url": "https://www.lta.org.uk/play/how-to-get-started/rules-scoring/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Der erste Aufschlag landet im Netz. Was folgt im normalen Punktspiel, solange noch kein zweiter Aufschlag gespielt wurde? Dieselbe Person bekommt einen zweiten Aufschlag. Für den Beginn eines Punkts sind zwei Aufschlagversuche vorgesehen. Erst zwei Fehler kosten den Punkt.",
+        "locator": "tennisde, Textstelle 246",
+        "source_sha256": "54fbbf4664e3324fda1b51e541663c29a5c155b3cf367237f0b807f56e2b13c1"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-tennis-fussfehler",
+    "fact_key": "q3.e.tennis.fussfehler",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Ein Aufschlag landet gut, aber der Aufschläger tritt schon beim Schlag in das Feld hinein. Warum kann der Versuch dennoch fehlerhaft sein?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Ball darf bei korrektem Aufschlag gar nicht ins Feld gelangen."
+      },
+      {
+        "id": "b",
+        "text": "Nur der zweite Aufschlag darf von der Grundlinie kommen."
+      },
+      {
+        "id": "c",
+        "text": "Die Fußstellung entscheidet nur bei einem Netzroller."
+      },
+      {
+        "id": "d",
+        "text": "Auch die Fußstellung gehört zu den Aufschlagregeln."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Ein Fußfehler kann einen ansonsten passend platzierten Aufschlag ungültig machen. Er wird als Aufschlagfehler gewertet.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Lawn Tennis Association · Regeln und Zählweise",
+        "url": "https://www.lta.org.uk/play/how-to-get-started/rules-scoring/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Ein Aufschlag landet gut, aber der Aufschläger tritt schon beim Schlag in das Feld hinein. Warum kann der Versuch dennoch fehlerhaft sein? Auch die Fußstellung gehört zu den Aufschlagregeln. Ein Fußfehler kann einen ansonsten passend platzierten Aufschlag ungültig machen. Er wird als Aufschlagfehler gewertet.",
+        "locator": "tennisde, Textstelle 247",
+        "source_sha256": "54fbbf4664e3324fda1b51e541663c29a5c155b3cf367237f0b807f56e2b13c1"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-tiebreak-zaehlweise",
+    "fact_key": "q3.e.tiebreak.zaehlweise",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Im normalen Tennisspiel folgen 15, 30 und 40. Was verändert sich auf der Anzeigetafel, wenn ein Tie-Break beginnt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Punkte werden einzeln mit 1, 2, 3 und so weiter gezählt."
+      },
+      {
+        "id": "b",
+        "text": "Jeder Punkt wird sofort als ganzer Satz gerechnet."
+      },
+      {
+        "id": "c",
+        "text": "Die Anzeige bleibt bis zum Ende auf 40 zu 40."
+      },
+      {
+        "id": "d",
+        "text": "Es werden nur die Fehler, keine Punkte gezählt."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Tie-Break wechselt die Zählweise. Die einzelnen gewonnenen Ballwechsel sind dadurch unmittelbar sichtbar.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Lawn Tennis Association · Regeln und Zählweise",
+        "url": "https://www.lta.org.uk/play/how-to-get-started/rules-scoring/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Im normalen Tennisspiel folgen 15, 30 und 40. Was verändert sich auf der Anzeigetafel, wenn ein Tie-Break beginnt? Die Punkte werden einzeln mit 1, 2, 3 und so weiter gezählt. Beim Tie-Break wechselt die Zählweise. Die einzelnen gewonnenen Ballwechsel sind dadurch unmittelbar sichtbar.",
+        "locator": "tennisde, Textstelle 279",
+        "source_sha256": "54fbbf4664e3324fda1b51e541663c29a5c155b3cf367237f0b807f56e2b13c1"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-tennis-match-tiebreak",
+    "fact_key": "q3.e.tennis.match.tiebreak",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Ein Match-Tie-Break ersetzt bisweilen den letzten Satz. Welche Zielmarke ist bei diesem längeren Tie-Break üblich, wenn der nötige Vorsprung erreicht ist?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vierzig Sätze"
+      },
+      {
+        "id": "b",
+        "text": "Zehn Punkte"
+      },
+      {
+        "id": "c",
+        "text": "Drei Punkte"
+      },
+      {
+        "id": "d",
+        "text": "Fünfzehn Spiele"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Bei diesem Format wird bis zehn gespielt. Auch dann ist der vorgeschriebene Vorsprung zu beachten.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Lawn Tennis Association · Regeln und Zählweise",
+        "url": "https://www.lta.org.uk/play/how-to-get-started/rules-scoring/",
+        "checked_at": "2026-11-22T22:24:39+00:00",
+        "verified_claim": "Ein Match-Tie-Break ersetzt bisweilen den letzten Satz. Welche Zielmarke ist bei diesem längeren Tie-Break üblich, wenn der nötige Vorsprung erreicht ist? Zehn Punkte. Bei diesem Format wird bis zehn gespielt. Auch dann ist der vorgeschriebene Vorsprung zu beachten.",
+        "locator": "tennisde, Textstelle 280",
+        "source_sha256": "54fbbf4664e3324fda1b51e541663c29a5c155b3cf367237f0b807f56e2b13c1"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:39+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-fussball-linie",
+    "fact_key": "q3.e.fussball.linie",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein Fußball ragt zur Hälfte über die Seitenlinie, der übrige Teil noch über das Feld. Was gilt für diese Szene?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Ball ist genau im Moment der ersten Berührung der Linie aus."
+      },
+      {
+        "id": "b",
+        "text": "Der Schiedsrichter muss einen Eckstoß geben."
+      },
+      {
+        "id": "c",
+        "text": "Der Ball ist weiterhin im Spiel."
+      },
+      {
+        "id": "d",
+        "text": "Es gibt sofort Einwurf."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der Ball ist erst aus, wenn er die Linie ganz überschritten hat. Ein Teil des Balles über der Linie reicht dafür nicht.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "IFAB · Laws of the Game 2025/26",
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-2025-26-single-pages?l=en",
+        "checked_at": "2026-11-22T22:24:45+00:00",
+        "verified_claim": "Ein Fußball ragt zur Hälfte über die Seitenlinie, der übrige Teil noch über das Feld. Was gilt für diese Szene? Der Ball ist weiterhin im Spiel. Der Ball ist erst aus, wenn er die Linie ganz überschritten hat. Ein Teil des Balles über der Linie reicht dafür nicht.",
+        "locator": "fifa25, Textstelle 3169",
+        "source_sha256": "48b81a71a1e02598ae88ae2332970c0f9e6a1e5b86c20a98d156ad28fbf2eae8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-fussball-einwurf",
+    "fact_key": "q3.e.fussball.einwurf",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine Spielerin holt beim Einwurf mit beiden Händen über dem Kopf aus. Welche Ausführung passt zur Regel?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Ball wie beim Kegeln mit einer Hand rollen"
+      },
+      {
+        "id": "b",
+        "text": "Den Ball aus der Hand mit dem Fuß ins Feld schlagen"
+      },
+      {
+        "id": "c",
+        "text": "Den Ball einhändig seitlich wie beim Handball passen"
+      },
+      {
+        "id": "d",
+        "text": "Den Ball mit beiden Händen von hinten über den Kopf werfen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die vorgeschriebene Wurfbewegung unterscheidet den Fußball-Einwurf vom Handballpass. Die Füße müssen ebenfalls regelkonform stehen.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "IFAB · Laws of the Game 2025/26",
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-2025-26-single-pages?l=en",
+        "checked_at": "2026-11-22T22:24:45+00:00",
+        "verified_claim": "Eine Spielerin holt beim Einwurf mit beiden Händen über dem Kopf aus. Welche Ausführung passt zur Regel? Den Ball mit beiden Händen von hinten über den Kopf werfen. Die vorgeschriebene Wurfbewegung unterscheidet den Fußball-Einwurf vom Handballpass. Die Füße müssen ebenfalls regelkonform stehen.",
+        "locator": "fifa25, Textstelle 2590",
+        "source_sha256": "48b81a71a1e02598ae88ae2332970c0f9e6a1e5b86c20a98d156ad28fbf2eae8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-fussball-abstoss",
+    "fact_key": "q3.e.fussball.abstoss",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Ein Abstoß fliegt ohne Berührung bis ins gegnerische Tor. Welches Ergebnis lässt die Fußballregel ausdrücklich zu?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein direkt erzieltes Tor gegen den Gegner"
+      },
+      {
+        "id": "b",
+        "text": "Zwingend einen indirekten Freistoß für den Gegner"
+      },
+      {
+        "id": "c",
+        "text": "Ein Tor nur, wenn der Ball vorher einen Mitspieler berührt"
+      },
+      {
+        "id": "d",
+        "text": "Eine automatische Wiederholung jedes so weiten Abstoßes"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Aus einem Abstoß darf direkt ein Tor gegen die gegnerische Mannschaft erzielt werden.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "IFAB · Laws of the Game 2025/26",
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-2025-26-single-pages?l=en",
+        "checked_at": "2026-11-22T22:24:45+00:00",
+        "verified_claim": "Ein Abstoß fliegt ohne Berührung bis ins gegnerische Tor. Welches Ergebnis lässt die Fußballregel ausdrücklich zu? Ein direkt erzieltes Tor gegen den Gegner. Aus einem Abstoß darf direkt ein Tor gegen die gegnerische Mannschaft erzielt werden.",
+        "locator": "fifa25, Textstelle 2624",
+        "source_sha256": "48b81a71a1e02598ae88ae2332970c0f9e6a1e5b86c20a98d156ad28fbf2eae8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-fussball-karten",
+    "fact_key": "q3.e.fussball.karten",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Im Fußball zeigt der Schiedsrichter erst einem Spieler Gelb, später einem anderen sofort Rot. Was unterscheidet die beiden Zeichen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rot ermahnt, Gelb verweist immer sofort vom Feld."
+      },
+      {
+        "id": "b",
+        "text": "Gelb verwarnt, Rot verweist vom Feld."
+      },
+      {
+        "id": "c",
+        "text": "Gelb beendet die Halbzeit, Rot das ganze Spiel."
+      },
+      {
+        "id": "d",
+        "text": "Beide Farben bedeuten dieselbe Verwarnung."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Gelbe und rote Karten machen die persönliche Entscheidung weithin sichtbar. Ein direkter Feldverweis braucht keine vorherige Verwarnung.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "IFAB · Laws of the Game 2025/26",
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-2025-26-single-pages?l=en",
+        "checked_at": "2026-11-22T22:24:45+00:00",
+        "verified_claim": "Im Fußball zeigt der Schiedsrichter erst einem Spieler Gelb, später einem anderen sofort Rot. Was unterscheidet die beiden Zeichen? Gelb verwarnt, Rot verweist vom Feld. Gelbe und rote Karten machen die persönliche Entscheidung weithin sichtbar. Ein direkter Feldverweis braucht keine vorherige Verwarnung.",
+        "locator": "fifa25, Textstelle 2081",
+        "source_sha256": "48b81a71a1e02598ae88ae2332970c0f9e6a1e5b86c20a98d156ad28fbf2eae8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-fussball-anstoess-abstand",
+    "fact_key": "q3.e.fussball.anstoess.abstand",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Beim Fußball-Anstoß müssen Gegner zunächst 9,15 Meter vom Ball entfernt bleiben. Welcher Abstand kommt dieser Regel am nächsten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine halbe Platzlänge von rund fünfzig Metern"
+      },
+      {
+        "id": "b",
+        "text": "Zwei Zentimeter"
+      },
+      {
+        "id": "c",
+        "text": "Etwa neun große Schritte von je einem Meter"
+      },
+      {
+        "id": "d",
+        "text": "Armeslänge"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Vorgabe entspricht zehn Yards. In Metern wird sie als 9,15 angegeben.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "IFAB · Laws of the Game 2025/26",
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-2025-26-single-pages?l=en",
+        "checked_at": "2026-11-22T22:24:45+00:00",
+        "verified_claim": "Beim Fußball-Anstoß müssen Gegner zunächst 9,15 Meter vom Ball entfernt bleiben. Welcher Abstand kommt dieser Regel am nächsten? Etwa neun große Schritte von je einem Meter. Die Vorgabe entspricht zehn Yards. In Metern wird sie als 9,15 angegeben.",
+        "locator": "fifa25, Textstelle 2390",
+        "source_sha256": "48b81a71a1e02598ae88ae2332970c0f9e6a1e5b86c20a98d156ad28fbf2eae8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-fussball-anstoess-haelfte",
+    "fact_key": "q3.e.fussball.anstoess.haelfte",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Vor dem Anstoß stehen zwei Mitspieler des Ausführenden bereits tief in der gegnerischen Hälfte. Wessen Standort ist beim Anstoß die ausdrückliche Ausnahme?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der beider vorgeschobener Mitspieler"
+      },
+      {
+        "id": "b",
+        "text": "Der des ältesten Feldspielers"
+      },
+      {
+        "id": "c",
+        "text": "Der des Spielführers unabhängig von der Ausführung"
+      },
+      {
+        "id": "d",
+        "text": "Der des ausführenden Spielers"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Alle Spieler außer dem Ausführenden müssen sich in der eigenen Hälfte befinden. Für die Gegner kommt der Mindestabstand zum Ball hinzu.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "IFAB · Laws of the Game 2025/26",
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-2025-26-single-pages?l=en",
+        "checked_at": "2026-11-22T22:24:45+00:00",
+        "verified_claim": "Vor dem Anstoß stehen zwei Mitspieler des Ausführenden bereits tief in der gegnerischen Hälfte. Wessen Standort ist beim Anstoß die ausdrückliche Ausnahme? Der des ausführenden Spielers. Alle Spieler außer dem Ausführenden müssen sich in der eigenen Hälfte befinden. Für die Gegner kommt der Mindestabstand zum Ball hinzu.",
+        "locator": "fifa25, Textstelle 1657",
+        "source_sha256": "48b81a71a1e02598ae88ae2332970c0f9e6a1e5b86c20a98d156ad28fbf2eae8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-fussball-abseits-einwurf",
+    "fact_key": "q3.e.fussball.abseits.einwurf",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Ein Angreifer erhält den Ball unmittelbar aus dem Einwurf eines Mitspielers. Wie wird die mögliche Abseitsstellung bei genau dieser ersten Ballannahme beurteilt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Unmittelbar aus dem Einwurf gibt es kein Abseitsvergehen."
+      },
+      {
+        "id": "b",
+        "text": "Es gibt bei jedem Einwurf automatisch Abseits."
+      },
+      {
+        "id": "c",
+        "text": "Der Einwurf muss in jeder Situation wiederholt werden."
+      },
+      {
+        "id": "d",
+        "text": "Der Schiedsrichter muss immer einen Elfmeter geben."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Einwurf, Abstoß und Eckstoß gehören zu den Ausnahmen beim unmittelbaren Ballbezug. Nach einer weiteren Spielaktion gelten die gewöhnlichen Regeln.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "IFAB · Laws of the Game 2025/26",
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-2025-26-single-pages?l=en",
+        "checked_at": "2026-11-22T22:24:45+00:00",
+        "verified_claim": "Ein Angreifer erhält den Ball unmittelbar aus dem Einwurf eines Mitspielers. Wie wird die mögliche Abseitsstellung bei genau dieser ersten Ballannahme beurteilt? Unmittelbar aus dem Einwurf gibt es kein Abseitsvergehen. Einwurf, Abstoß und Eckstoß gehören zu den Ausnahmen beim unmittelbaren Ballbezug. Nach einer weiteren Spielaktion gelten die gewöhnlichen Regeln.",
+        "locator": "fifa25, Textstelle 2037",
+        "source_sha256": "48b81a71a1e02598ae88ae2332970c0f9e6a1e5b86c20a98d156ad28fbf2eae8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-fussball-eckfahne",
+    "fact_key": "q3.e.fussball.eckfahne",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein Platzwart prüft vor dem Anpfiff die Begrenzungen. Welche Markierung gehört nach den Fußballregeln an jede der vier Ecken?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Abstandstafel für den Einwurf"
+      },
+      {
+        "id": "b",
+        "text": "Eine Fahnenstange"
+      },
+      {
+        "id": "c",
+        "text": "Eine Begrenzungslinie genau wie am Strafstoßpunkt"
+      },
+      {
+        "id": "d",
+        "text": "Eine zusätzliche Torlinienstange ohne Fahne"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Eckfahnen markieren die Spielfeldecken. Andere Fahnen neben der Mittellinie sind dagegen optional.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "IFAB · Laws of the Game 2025/26",
+        "url": "https://downloads.theifab.com/downloads/laws-of-the-game-2025-26-single-pages?l=en",
+        "checked_at": "2026-11-22T22:24:45+00:00",
+        "verified_claim": "Ein Platzwart prüft vor dem Anpfiff die Begrenzungen. Welche Markierung gehört nach den Fußballregeln an jede der vier Ecken? Eine Fahnenstange. Die Eckfahnen markieren die Spielfeldecken. Andere Fahnen neben der Mittellinie sind dagegen optional.",
+        "locator": "fifa25, Textstelle 656",
+        "source_sha256": "48b81a71a1e02598ae88ae2332970c0f9e6a1e5b86c20a98d156ad28fbf2eae8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-curling-schuhe",
+    "fact_key": "q3.e.curling.schuhe",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein Curlingspieler muss bei der Abgabe gleichzeitig stabil abstoßen und vorwärts gleiten. Welche Ausrüstung löst diesen Gegensatz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zwei Schlittschuhe mit langen Sprungkufen"
+      },
+      {
+        "id": "b",
+        "text": "Zwei Schuhe mit einziehbaren Rollen"
+      },
+      {
+        "id": "c",
+        "text": "Ein Schuh mit griffiger, der andere mit gleitender Sohle"
+      },
+      {
+        "id": "d",
+        "text": "Zwei identische Fußballstollen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Curlingschuhe verbinden Halt und Gleiten über unterschiedlich ausgelegte Sohlen. Das unterstützt die kontrollierte Steinabgabe.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "World Curling · What is curling?",
+        "url": "https://worldcurling.org/about/curling/",
+        "checked_at": "2026-11-22T22:24:45+00:00",
+        "verified_claim": "Ein Curlingspieler muss bei der Abgabe gleichzeitig stabil abstoßen und vorwärts gleiten. Welche Ausrüstung löst diesen Gegensatz? Ein Schuh mit griffiger, der andere mit gleitender Sohle. Curlingschuhe verbinden Halt und Gleiten über unterschiedlich ausgelegte Sohlen. Das unterstützt die kontrollierte Steinabgabe.",
+        "locator": "curling, Textstelle 67",
+        "source_sha256": "e4fd1fe95f0117e72c3c8e6a510d0425fd679c9a2b339f7ca57dba4f41d93098"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:24:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

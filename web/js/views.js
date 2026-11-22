@@ -68,7 +68,7 @@ export function todayPage({state, day}) {
   const label = !session ? 'Tagesrunde starten' : {active:'Runde fortsetzen',completed:'Ergebnis ansehen',abandoned:'Heute aufgegeben'}[session.status];
   const copy = session?.status === 'completed' ? 'Du hast heute ' + session.result.correct + ' von ' + session.result.valid + ' Fragen richtig beantwortet.' :
     session?.status === 'abandoned' ? 'Morgen erwartet dich eine neue Tagesrunde. Deine bisherigen Antworten bleiben im Wissensalbum.' :
-    session?.status === 'active' ? 'Deine Runde ist gespeichert. Spiele bei Frage ' + (session.cursor + 1) + ' weiter.' : 'Zehn Fragen aus der Welt des Wissens. Du bestimmst das Tempo.';
+    session?.status === 'active' ? 'Deine Runde ist gespeichert. Spiele bei Frage ' + (session.cursor + 1) + ' weiter.' : 'Heute erwarten dich zehn Fragen, darunter eine Schätzung und zwei Rätsel mit Hinweisen.';
   return heading(fullDay(day),'Heute im Quizsalon') + '<div class="two-col"><div><section class="cover"><img src="./assets/salon.webp" alt=""><div class="cover-text"><div class="cover-kind">' +
     icon('today') + ' Tagesquiz</div><h2>Deine Tagesrunde</h2><p>' + esc(copy) + '</p>' +
     (session?.status === 'abandoned' ? action('themes','Themen entdecken','light') : action('daily',esc(label),'light')) + '</div></section>' +
@@ -82,6 +82,9 @@ export function quizPage({state, session: s, day}) {
   const count = 'Frage ' + (pos + 1) + ' von ' + s.items.length;
   const segments = s.items.map((_,i) => '<span class="' + (i < pos ? 'done' : i === pos ? 'current' : '') + '"></span>').join('');
   const selected = item.answer;
+  const task = q.tags?.includes('form_schaetzen') ? 'Schätzfrage' : q.tags?.includes('form_herleiten') ? 'Zum Herleiten' : '';
+  const researchYear = q.research?.published_on.slice(0, 4);
+  const context = [task, researchYear && 'Aus der Forschung ' + researchYear].filter(Boolean).join(' · ');
   let body;
   if (item.void) {
     body = '<h2 class="question-title" id="question" tabindex="-1">Diese Frage wird korrigiert.</h2><p>Wir überspringen diese Position. Sie zählt für dieses Ergebnis nicht mit.</p>';
@@ -96,13 +99,18 @@ export function quizPage({state, session: s, day}) {
         '><span class="letter" aria-hidden="true">' + marker + '</span><span class="answer-text">' + esc(text) + '</span>' +
         (result ? '<span class="answer-state">' + result + '</span>' : '') + '</button>';
     }).join('');
-    body = '<h2 class="question-title" id="question" tabindex="-1" aria-describedby="position">' + esc(q.question) +
+    body = (context ? '<p class="question-format" id="question-format">' + esc(context) + '</p>' : '') +
+      '<h2 class="question-title" id="question" tabindex="-1" aria-describedby="position' + (context ? ' question-format' : '') + '">' + esc(q.question) +
       '</h2><div class="answers" role="group" aria-labelledby="question">' + opts + '</div>';
     if (selected) {
       const answerText = q.options.find(o => o.id === q.correct_option_id).text;
       body += '<section class="feedback" tabindex="-1" id="feedback" aria-labelledby="feedback-heading"><h3 id="feedback-heading">' +
         icon(selected.correct ? 'check' : 'info') + (selected.correct ? 'Richtig gewusst!' : 'Richtig ist „' + esc(answerText) + '“.') +
-        '</h3><p>' + esc(q.explanation) + '</p>' + (selected.recalled ? '<p class="earned">' + icon('replay') + 'Wiedergewusst · Diesmal richtig erinnert.</p>' : '') +
+        '</h3><p>' + esc(q.explanation) + '</p>' +
+        (researchYear ? '<p class="research-source"><a target="_blank" rel="noopener noreferrer" href="' + esc(q.research.url) +
+          '">Quelle · ' + esc(q.research.publisher) + '</a> · <time datetime="' + esc(q.research.published_on) + '">' +
+          esc(displayDay(q.research.published_on,{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'})) + '</time></p>' : '') +
+        (selected.recalled ? '<p class="earned">' + icon('replay') + 'Wiedergewusst · Diesmal richtig erinnert.</p>' : '') +
         (selected.newlyMastered ? '<p class="earned">' + icon('medal') + 'Sicher gewusst · Karte im Wissensalbum.</p>' : '') + '</section>';
     }
   }
@@ -172,14 +180,20 @@ export function knowledgePage({state,catalog,day,tab,filter}) {
       '<details class="rules-detail"><summary><strong>Wie entsteht „Wiedergewusst“?</strong>' + icon('down') +
       '</summary><p>War deine letzte Antwort auf eine Frage falsch und erinnerst du dich mindestens drei Kalendertage später richtig, erscheint „Wiedergewusst“.</p></details>';
   } else {
-    const filtered = cards.filter(c => filter === 'all' || (filter === 'mastered' ? c.mastered : c.category === filter));
+    const hasResearch = cards.some(c=>c.q?.research);
+    if (filter === 'research' && !hasResearch) filter = 'all';
+    const filtered = cards.filter(c => filter === 'all' || (filter === 'mastered' && c.mastered) ||
+      (filter === 'research' && c.q?.research) || c.category === filter);
     panel = '<div class="panel-line"><h2>Wissensalbum</h2><span class="mini-count">' + cards.length + (cards.length === 1 ? ' Karte' : ' Karten') +
       '</span></div><p class="quiet">Hier kannst du die Erklärungen deiner gespielten Fragen nachlesen.</p>';
     if (cards.length) {
-      panel += '<label class="filter">Karten anzeigen<select id="album-filter">' + [['all','Alle Karten'],['mastered','Sicher gewusst'],...Object.entries(RULES.categories)].map(([id,name]) =>
+      const filters = [['all','Alle Karten'],['mastered','Sicher gewusst']];
+      if (hasResearch) filters.push(['research','Aus der Forschung']);
+      panel += '<label class="filter">Karten anzeigen<select id="album-filter">' + [...filters,...Object.entries(RULES.categories)].map(([id,name]) =>
         '<option value="' + id + '"' + (id===filter?' selected':'') + '>' + esc(name) + '</option>').join('') + '</select></label>';
     }
     panel += filtered.length ? filtered.map(c => '<details class="album-item"><summary><span><small>' + esc(nameOf(c.category)) +
+      (c.q?.research ? ' · Forschung '+esc(c.q.research.published_on.slice(0,4)) : '') +
       (c.q?.tags.includes('damals_und_heute') ? ' · Damals und heute' : '') + (c.mastered ? (c.corrected ? ' · Auszeichnung aus früherer Fassung' : ' · Sicher gewusst') : '') + (c.corrected ? ' · Korrektur' : '') + '</small><strong>' +
       esc(c.q?.question || 'Diese Erklärung wird überprüft.') + '</strong></span>' + icon('down') +
       '</summary>' + (c.q ? '<p><b>' + esc(c.q.options.find(o => o.id === c.q.correct_option_id)?.text) + '</b></p><p>' +

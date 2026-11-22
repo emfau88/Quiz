@@ -54,8 +54,8 @@ try{
   await click('[data-nav=today]');await click('[data-action=daily]');
   for(let i=1;i<10;i++){await click('.answer');await page.waitForSelector('#feedback');await click('[data-action=next]');}
   await page.waitForSelector('.score');await click('details.virtual summary');await audit('Ergebnis mit offener Vergleichstabelle');
-  const file='release/qa/barrierefreiheit-browser.json';
-  await mkdir('release/qa',{recursive:true});await writeFile(file,JSON.stringify({at:new Date().toISOString(),browser:browser.version(),
+  const out=process.argv[2] || 'release/qa';
+  await mkdir(out,{recursive:true});await writeFile(out+'/barrierefreiheit-browser.json',JSON.stringify({at:new Date().toISOString(),browser:browser.version(),
     axe:require('axe-core/package.json').version,checks:findings,focus:'Erklärung, nächste Frage und Rückkehr aus Pausendialog geprüft.'},null,2));
   const failures=findings.flatMap(f=>f.automatedViolations.map(v=>({view:f.view,...v})));
   for(const f of findings)if(f.contrast.below.length)failures.push({view:f.view,contrast:f.contrast.below});

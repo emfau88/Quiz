@@ -26,7 +26,9 @@ def verify_apk(name, package, label, local):
     with zipfile.ZipFile(path) as archive:
         manifest = json.loads(archive.read("assets/data/manifest.json"))
         catalog = json.loads(archive.read("assets/data/catalog.json"))
-        if not (manifest["release_distribution_complete"] and len(catalog["questions"]) >= 1200):
+        rules = json.loads((root / "specs/product_rules.json").read_text(encoding="utf-8"))
+        expected = len(rules["categories"]) * sum(rules["catalog"]["release_mix"])
+        if not (manifest["release_distribution_complete"] and len(catalog["questions"]) == expected):
             raise ValueError(f"{name}: finaler Katalog fehlt")
         packaged = {p[7:] for p in archive.namelist() if p.startswith("assets/") and not p.endswith("/")}
         files = {p.relative_to(root / "web").as_posix(): p for p in (root / "web").rglob("*") if p.is_file()}

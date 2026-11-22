@@ -25,7 +25,9 @@ def main():
     commit = subprocess.check_output(["git", "rev-parse", "--verify", (args.source_commit or "HEAD") + "^{commit}"], cwd=ROOT, text=True).strip()
     catalog = (ROOT / "web/data/catalog.json").read_bytes()
     manifest = json.loads((ROOT / "web/data/manifest.json").read_text(encoding="utf-8"))
-    assert manifest["release_distribution_complete"] and manifest["active"] == manifest["facts"] == 1200
+    rules = json.loads((ROOT / "specs/product_rules.json").read_text(encoding="utf-8"))
+    expected = len(rules["categories"]) * sum(rules["catalog"]["release_mix"])
+    assert manifest["release_distribution_complete"] and manifest["active"] == manifest["facts"] == expected
     apks = [OUT / "android/Quizsalon-Lokaltest.apk", OUT / "android/Quizsalon-Play-Vorschau.apk"]
     for apk, access in zip(apks, ["tests/local-theme-access.js", "web/js/access.js"]):
         with ZipFile(apk) as archive:
@@ -64,7 +66,8 @@ def main():
     assert app_version == inspected[0]["versionName"]
     result = {("base_commit" if args.working_tree else "source_commit"): commit, "assembled_at_utc": datetime.now(timezone.utc).isoformat(),
               "source": "working_tree" if args.working_tree else "commit", "app_version": app_version, "version_code": inspected[0]["versionCode"],
-              "catalog": manifest, "public_release": False, "verified_local_builds": apk_builds,
+              "catalog": manifest, "public_release": False, "public_release_platform": "Google Play",
+              "browser_test_url": f"https://emfau88.github.io/Quiz/spielen.html?v={app_version}", "verified_local_builds": apk_builds,
               "artifacts": [{"path": p.relative_to(OUT).as_posix(), "bytes": p.stat().st_size, "sha256": sha(p.read_bytes())} for p in artifacts]}
     (OUT / "BUILDINFO.json").write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
     checksum = "\n".join(item["sha256"] + "  " + item["path"] for item in result["artifacts"])
@@ -103,7 +106,10 @@ def main():
             archive.getinfo(required)
         if args.working_tree:
             for name in ("UMSETZUNGSPLAN_FRAGENPOOL.md", "release/qa/fragenpool/ausgangsversion.zip",
-                         "release/qa/fragenpool/auswahlvergleich.json"):
+                         "release/qa/fragenpool/auswahlvergleich.json", "specs/daily_clues.json",
+                         "content/research/nachweise/quellenabrufe.json", "release/qa/modern-0.3.0/bestand.json",
+                         "release/qa/modern-0.3.0/tagesrunden.json", "release/qa/modern-0.3.0/mobile-runde.json",
+                         "release/qa/modern-0.3.0/dublettenentscheidungen.json"):
                 archive.getinfo(name)
     temporary.replace(target)
     print(f"{target.name} · {target.stat().st_size} Bytes · SHA-256 {sha(target.read_bytes())}")

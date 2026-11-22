@@ -1,6 +1,6 @@
 # Quizsalon lokal ausprobieren
 
-Aktuelle lokale Ausgabe **0.2.0** mit dem deutschen Katalog `de-03c46c2cd256`. Um einen HTML-Spielstand aus 0.1.0 zu übernehmen, die bisherige Datei am selben Ort durch die neue Ausgabe ersetzen und mit demselben Browserprofil öffnen. Bei der Android-App die neue APK als Update über die vorhandene lokale Ausgabe installieren. [Nachweis des HTML-Updates](qa/fragenpool/html-update.json)
+Die aktuelle lokale Ausgabe **0.3.0** enthält das deutsche Quiz mit 2.400 Fragen. Um einen früheren HTML-Spielstand zu übernehmen, ersetze die bisherige Datei am selben Ort und öffne sie im selben Browserprofil. Auf Android lässt sich die neue APK über die bisherige lokale Ausgabe installieren. Begonnene Runden behalten ihre gespeicherten Fragen. [Einstieg ohne Download](https://emfau88.github.io/Quiz/spielen.html?v=0.3.0) · [Versionsabgleich](qa/modern-0.3.0/bestand.json)
 
 **Am Computer** öffnest du Quizsalon-Lokaltest.html per Doppelklick in Chrome oder Edge. Fragen, Bilder und Schriften sind in der Datei enthalten. Du kannst sofort mit der ersten Frage beginnen.
 

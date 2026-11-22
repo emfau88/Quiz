@@ -1,0 +1,875 @@
+{
+  "daten": "culture/03-modern-sprache.json",
+  "sha256_datei": "b70e24f0e9e5be7ee6bafd82e4c40d0a755461ec598e73f4e2854888e9fa2d4a",
+  "eintraege": 294,
+  "unterschiedliche_quellen": 77,
+  "redaktion": "Codex. Redaktionelle Agentenprüfung der deutschen Karten. Es wurden keine Beobachtungen menschlicher Testpersonen erhoben.",
+  "ablauf": [
+    "Veröffentlichungen der Herausgeber geöffnet und die zugrunde liegenden Regeln und Sachangaben geprüft. Beträge, Texte und Situationen in den ausdrücklich vorgegebenen Rechen- und Wortspielen sind eigene Beispiele.",
+    "Karten erneut mit allen vier Antworten gelesen. Mehrdeutige Fragen, sachfremde Alternativen und Dopplungen wurden im Entwurf ersetzt oder geändert. Anschließend wurden die Antwort-IDs im gemischten Datensatz geprüft.",
+    "Die gemeinsame Validatorfunktion verify und die Formprüfung verify_classification bestanden. Es waren keine Längenausnahmen erforderlich."
+  ],
+  "schwierigkeit": {
+    "easy": 176,
+    "medium": 88,
+    "hard": 30
+  },
+  "formen": {
+    "form_schaetzen": 35,
+    "form_anwenden": 149,
+    "form_herleiten": 68,
+    "form_vergleichen": 31,
+    "form_zeitlich_einordnen": 11
+  },
+  "korrektpositionen": {
+    "c": 60,
+    "a": 80,
+    "b": 72,
+    "d": 82
+  },
+  "quelle_zu_karten": [
+    {
+      "titel": "OpenStax – Prealgebra, Ratios and Percents",
+      "url": "https://openstax.org/books/prealgebra/pages/6-key-concepts",
+      "abruf_utc": "2026-11-22T21:20:04Z",
+      "karten": [
+        "qs03-l-fahnenkorrektur",
+        "qs03-l-bibelduenn",
+        "qs03-l-schriftzug",
+        "qs03-l-sammelband",
+        "qs03-l-korrekturquote",
+        "qs03-l-programmheft",
+        "qs03-l-wechselpause",
+        "qs03-l-wiederholungen",
+        "qs03-l-besetzung",
+        "qs03-l-uebungsfolge",
+        "qs03-l-buchtausch",
+        "qs03-l-druckfarbe",
+        "qs03-l-marathonlesen",
+        "qs03-l-wortschwund",
+        "qs03-l-seitenwechsel"
+      ]
+    },
+    {
+      "titel": "Bayeux Museum – Tapestry or Embroidery?",
+      "url": "https://www.bayeuxmuseum.com/en/the-bayeux-tapestry/discover-the-bayeux-tapestry/tapestry-or-embroidery/",
+      "abruf_utc": "2026-11-22T22:15:38Z",
+      "karten": [
+        "qs03-l-bayeux-stickfeld"
+      ]
+    },
+    {
+      "titel": "OpenStax – Contemporary Mathematics, Probability",
+      "url": "https://openstax.org/books/contemporary-mathematics/pages/7-key-concepts",
+      "abruf_utc": "2026-11-22T21:18:50Z",
+      "karten": [
+        "qs03-l-bildpaar-auswahl",
+        "qs03-l-vokalbeutel",
+        "qs03-l-zweiwurf",
+        "qs03-l-wuerfelgleichstand",
+        "qs03-l-kartenpaar",
+        "qs03-l-fairemuenzkette"
+      ]
+    },
+    {
+      "titel": "OpenStax – Contemporary Mathematics, Statistics",
+      "url": "https://openstax.org/books/contemporary-mathematics/pages/8-key-concepts",
+      "abruf_utc": "2026-11-22T21:18:54Z",
+      "karten": [
+        "qs03-l-satzlaenge",
+        "qs03-l-medianwort",
+        "qs03-l-gewichtetsprache",
+        "qs03-l-umfragebindung"
+      ]
+    },
+    {
+      "titel": "Yamaha – Why Aren’t There More Than 88 Keys on a Piano?",
+      "url": "https://hub.yamaha.com/pianos/p-acoustic/why-arent-there-more-than-88-keys-on-a-piano/",
+      "abruf_utc": "2026-11-22T22:08:26Z",
+      "karten": [
+        "qs03-l-klavierumfang"
+      ]
+    },
+    {
+      "titel": "OpenStax – Contemporary Mathematics, Geometry",
+      "url": "https://openstax.org/books/contemporary-mathematics/pages/10-key-concepts",
+      "abruf_utc": "2026-11-22T21:20:04Z",
+      "karten": [
+        "qs03-l-galerieabstand",
+        "qs03-l-wandbildmass",
+        "qs03-l-kulissenvorhang",
+        "qs03-l-modelltheater",
+        "qs03-l-papierbuehne"
+      ]
+    },
+    {
+      "titel": "OpenStax – Contemporary Mathematics, Sets",
+      "url": "https://openstax.org/books/contemporary-mathematics/pages/1-key-concepts",
+      "abruf_utc": "2026-11-22T21:22:10Z",
+      "karten": [
+        "qs03-l-sprachtandem",
+        "qs03-l-bibliotheksluecke",
+        "qs03-l-termin-schnitt",
+        "qs03-l-buchregal-luecke",
+        "qs03-l-tag-verschoben",
+        "qs03-l-reihenfolge-bericht",
+        "qs03-l-zeitfenster",
+        "qs03-l-platz-ende",
+        "qs03-l-reihenprogram",
+        "qs03-l-nummernzweig",
+        "qs03-l-beide-zeichen",
+        "qs03-l-komplement",
+        "qs03-l-alphabetkarten",
+        "qs03-l-gruppe-odergruppe"
+      ]
+    },
+    {
+      "titel": "Exploratorium – Exponential Growth and Folding Paper",
+      "url": "https://annex.exploratorium.edu/exploratopia/activity_pennies.html",
+      "abruf_utc": "2026-11-22T22:08:11Z",
+      "karten": [
+        "qs03-l-falten-buehnenbrief"
+      ]
+    },
+    {
+      "titel": "Rat für deutsche Rechtschreibung – Amtliches Regelwerk 2024",
+      "url": "https://www.rechtschreibrat.com/DOX/RfdR_Amtliches-Regelwerk_2024.pdf",
+      "abruf_utc": "2026-11-22T21:19:54.684191+00:00",
+      "karten": [
+        "qs03-l-vokativ",
+        "qs03-l-kurzantwort",
+        "qs03-l-listenkomma",
+        "qs03-l-nebensatzklammer",
+        "qs03-l-vergleichsatz",
+        "qs03-l-umzu",
+        "qs03-l-direkterede",
+        "qs03-l-sagtestellung",
+        "qs03-l-doppelpunktliste",
+        "qs03-l-titelpunkt",
+        "qs03-l-drei-punkte",
+        "qs03-l-abkuerzungamende",
+        "qs03-l-abkuerzungfrage",
+        "qs03-l-strichevergleich",
+        "qs03-l-apostrophgenitiv",
+        "qs03-l-ordinalpunkt",
+        "qs03-l-substantiviertesverb",
+        "qs03-l-nominaladjektiv",
+        "qs03-l-anredegross",
+        "qs03-l-morgen",
+        "qs03-l-sprachadjektiv",
+        "qs03-l-namenableitung",
+        "qs03-l-zahlwort",
+        "qs03-l-zahlenbindestrich",
+        "qs03-l-einzelbuchstabe",
+        "qs03-l-drei-konsonanten",
+        "qs03-l-verlaengern",
+        "qs03-l-ableitung-ae",
+        "qs03-l-sslang",
+        "qs03-l-dasprobe",
+        "qs03-l-trennenck",
+        "qs03-l-trenneneinzel",
+        "qs03-l-zusammen-zu",
+        "qs03-l-getrennt-gehen",
+        "qs03-l-bindestrichname",
+        "qs03-l-mehrzahlkurz",
+        "qs03-l-zahlundendung",
+        "qs03-l-neues-jahr",
+        "qs03-l-nach-doppelpunkt",
+        "qs03-l-viele-verschiedene",
+        "qs03-l-klammerzusatz",
+        "qs03-l-zeilenstrich",
+        "qs03-l-zeitschrift-spiel"
+      ],
+      "pdf_seiten": 348,
+      "sha256_original_pdf": "329d42ee861ca41067c5103628950cd7f06f8672219f233c5a40d06fb00e8559"
+    },
+    {
+      "titel": "Leibniz-Institut für Deutsche Sprache – Verzeichnis grundlegender grammatischer Fachausdrücke",
+      "url": "https://grammis.ids-mannheim.de/pdf/sgt/Verzeichnis%20grammatischer%20Fachausdruecke%20Finale%20Version%20Januar%202020.pdf",
+      "abruf_utc": "2026-11-22T21:19:35.471915+00:00",
+      "karten": [
+        "qs03-l-hundbeisst",
+        "qs03-l-wemfall",
+        "qs03-l-bezugmehrdeutig",
+        "qs03-l-ihr-zwei",
+        "qs03-l-vorvergangen",
+        "qs03-l-praesenszukunft",
+        "qs03-l-seit-ab",
+        "qs03-l-modus-hoeflich",
+        "qs03-l-konjunktivbericht",
+        "qs03-l-waere-wenn",
+        "qs03-l-passiv-brief",
+        "qs03-l-ist-geoeffnet",
+        "qs03-l-steigerung",
+        "qs03-l-alle-kommentar",
+        "qs03-l-praep-wechsel",
+        "qs03-l-pluraletantum",
+        "qs03-l-partikelverneinung",
+        "qs03-l-obwohl-folge",
+        "qs03-l-zweckgrund",
+        "qs03-l-wodurch",
+        "qs03-l-bevor",
+        "qs03-l-frageverb",
+        "qs03-l-du-subjekt",
+        "qs03-l-verschiebeprobe",
+        "qs03-l-ersatzprobe",
+        "qs03-l-relativkasus",
+        "qs03-l-grundwort",
+        "qs03-l-genuskompositum",
+        "qs03-l-sinnvorsilbe",
+        "qs03-l-bar",
+        "qs03-l-los",
+        "qs03-l-heit",
+        "qs03-l-verwechselnwort",
+        "qs03-l-buchstabensilbe",
+        "qs03-l-laut-sch",
+        "qs03-l-stammflex",
+        "qs03-l-suppletion",
+        "qs03-l-verkleinerung",
+        "qs03-l-fugens",
+        "qs03-l-perspektivwechsel",
+        "qs03-l-gesternschreiben",
+        "qs03-l-spezialbezug",
+        "qs03-l-indirektefrage",
+        "qs03-l-nur-ina",
+        "qs03-l-wieder-oder-weiter",
+        "qs03-l-noch-nicht",
+        "qs03-l-schon-wieder",
+        "qs03-l-drei-bis",
+        "qs03-l-zuvor-noch",
+        "qs03-l-bis-einschl",
+        "qs03-l-beinah",
+        "qs03-l-aus-sicht",
+        "qs03-l-zweideutigbank",
+        "qs03-l-mehrdeutigschloss",
+        "qs03-l-punktmehrdeutig",
+        "qs03-l-umkehren",
+        "qs03-l-palindrom",
+        "qs03-l-anagrammw",
+        "qs03-l-gemeinsamefuge",
+        "qs03-l-silbentausch",
+        "qs03-l-vokal-einsetzen",
+        "qs03-l-konsonantenband",
+        "qs03-l-schuhewandel",
+        "qs03-l-versteckzahl",
+        "qs03-l-wortschlange",
+        "qs03-l-doppelbuch",
+        "qs03-l-strichliste",
+        "qs03-l-vokalgruppe",
+        "qs03-l-doppelsinn-sieben",
+        "qs03-l-vertauschbuch",
+        "qs03-l-bitte-passiv",
+        "qs03-l-zusammenbezueglich"
+      ],
+      "pdf_seiten": 40,
+      "sha256_original_pdf": "ef9a07ed6d0e8cb9dd65c9a49e1a1df306654744330d9243a67e9be1a71fadb4"
+    },
+    {
+      "titel": "FIDE und Deutscher Schachbund – FIDE-Schachregeln, Fassung vom 7. Juli 2026",
+      "url": "https://www.schachbund.de/srk-downloads.html?cid=65466&file=files/dsb/referate/srk/fide-regeln/FIDE-Regeln_2023_ger_2026-07-07.pdf",
+      "abruf_utc": "2026-11-22T21:34:48Z",
+      "karten": [
+        "qs03-l-schach-diagonale",
+        "qs03-l-schach-springer",
+        "qs03-l-schach-linie",
+        "qs03-l-bauer-umwandlung",
+        "qs03-l-bauerschlag",
+        "qs03-l-schach-flucht",
+        "qs03-l-patt-oder-matt",
+        "qs03-l-fesselung",
+        "qs03-l-schachuhr",
+        "qs03-l-remisangebot",
+        "qs03-l-schach-fuenffach"
+      ]
+    },
+    {
+      "titel": "Deutscher Skatverband – Internationale Skatordnung",
+      "url": "https://dskv.de/app/uploads/sites/18/2020/08/ISkO-2022-1.pdf",
+      "abruf_utc": "2026-11-22T21:19:30.122040+00:00",
+      "karten": [
+        "qs03-l-skat-allein",
+        "qs03-l-skat-null",
+        "qs03-l-skat-farbe",
+        "qs03-l-skat-hand",
+        "qs03-l-skat-schwarz",
+        "qs03-l-skat-reizen",
+        "qs03-l-skat-nullrang"
+      ],
+      "pdf_seiten": 57,
+      "sha256_original_pdf": "1069aa42121170108457fdf4b583ee887dc03d0d4ea8da07e81deb09d60f6f64"
+    },
+    {
+      "titel": "Hans im Glück – Carcassonne, Regeln",
+      "url": "https://www.hans-im-glueck.de/_Resources/Persistent/3581b911bf5113e36646fe91e1f4b47ee03f67b0/CarcBB6_Rule_D_Final_2_Web.pdf",
+      "abruf_utc": "2026-11-22T21:19:50.946468+00:00",
+      "karten": [
+        "qs03-l-carc-letztes-plaettchen",
+        "qs03-l-carc-kloster",
+        "qs03-l-carc-meeple",
+        "qs03-l-carc-gleichstand",
+        "qs03-l-carc-rueckkehr",
+        "qs03-l-carc-bauer"
+      ],
+      "pdf_seiten": 24,
+      "sha256_original_pdf": "f085c9e81799a8e3bf2e012e267015034f19295be8e9890c5d08fa33062d6f4c"
+    },
+    {
+      "titel": "CATAN – Das Spiel, Basis-Spielregeln",
+      "url": "https://www.catan.com/sites/default/files/2021-06/CATAN_DasSpiel_Spielregel.pdf",
+      "abruf_utc": "2026-11-22T21:19:37.053819+00:00",
+      "karten": [
+        "qs03-l-catan-sieben",
+        "qs03-l-catan-raeuber",
+        "qs03-l-catan-abstand",
+        "qs03-l-catan-seehandel",
+        "qs03-l-catan-ausbau",
+        "qs03-l-catan-sieg"
+      ],
+      "pdf_seiten": 4,
+      "sha256_original_pdf": "0a7c3b725604e7531b02fdaffbb4ca89c26713d1d8635dcb8f87fb4fafb755dd"
+    },
+    {
+      "titel": "Scrabble – Verlagsspielregel, Grundspiel",
+      "url": "https://assets.contentstack.io/v3/assets/blt485dfa12bf05dba5/bltbe648345b2a2cee5/653eff8d2797e3040709bd37/scrabble_aneitung.pdf",
+      "abruf_utc": "2026-11-22T21:34:18Z",
+      "karten": [
+        "qs03-l-scrab-stern",
+        "qs03-l-scrab-blank",
+        "qs03-l-scrab-praemie",
+        "qs03-l-scrab-querwort"
+      ]
+    },
+    {
+      "titel": "Schmidt Spiele – Kniffel, Originalregeln",
+      "url": "https://www.schmidtspiele.de/files/Produkte/4/49030%20-%20Kniffel/49030_Kniffel_DE.pdf",
+      "abruf_utc": "2026-11-22T21:34:20Z",
+      "karten": [
+        "qs03-l-kniffel-behalten",
+        "qs03-l-kniffel-strasse",
+        "qs03-l-kniffel-chance",
+        "qs03-l-kniffel-bonus"
+      ]
+    },
+    {
+      "titel": "British Go Association – How to Play",
+      "url": "https://www.britgo.org/intro/intro2.html",
+      "abruf_utc": "2026-11-22T21:34:20Z",
+      "karten": [
+        "qs03-l-go-kreuzung",
+        "qs03-l-go-freiheit",
+        "qs03-l-go-diagonal",
+        "qs03-l-go-letztefreiheit"
+      ]
+    },
+    {
+      "titel": "OpenStax – Contemporary Mathematics, Compound Statements",
+      "url": "https://openstax.org/books/contemporary-mathematics/pages/2-2-compound-statements",
+      "abruf_utc": "2026-11-22T21:18:51Z",
+      "karten": [
+        "qs03-l-wedernoch",
+        "qs03-l-nichtbeide",
+        "qs03-l-mindestens",
+        "qs03-l-hoechstens",
+        "qs03-l-entweder",
+        "qs03-l-ausnahme-mittag",
+        "qs03-l-ausschluss-doppelt",
+        "qs03-l-wanderschluessel",
+        "qs03-l-einige-alle",
+        "qs03-l-verneint-jede",
+        "qs03-l-verschachtelte-oder",
+        "qs03-l-negierte-kombi"
+      ]
+    },
+    {
+      "titel": "OpenStax – Conditional and Biconditional",
+      "url": "https://openstax.org/books/contemporary-mathematics/pages/2-4-truth-tables-for-the-conditional-and-biconditional",
+      "abruf_utc": "2026-11-22T21:22:11Z",
+      "karten": [
+        "qs03-l-wenn-badge",
+        "qs03-l-wenn-rueckschluss",
+        "qs03-l-nur-mit",
+        "qs03-l-genaudann",
+        "qs03-l-regel-kette",
+        "qs03-l-einzige-wahr",
+        "qs03-l-kein-obwohl"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – alliteration",
+      "url": "https://poets.org/glossary/alliteration",
+      "abruf_utc": "2026-11-22T21:43:42Z",
+      "karten": [
+        "qs03-l-windwort"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – anaphora",
+      "url": "https://poets.org/glossary/anaphora",
+      "abruf_utc": "2026-11-22T21:43:40Z",
+      "karten": [
+        "qs03-l-dreimal-hier"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – enjambment",
+      "url": "https://poets.org/glossary/enjambment",
+      "abruf_utc": "2026-11-22T21:43:39Z",
+      "karten": [
+        "qs03-l-verssprung"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – simile",
+      "url": "https://poets.org/glossary/simile",
+      "abruf_utc": "2026-11-22T21:43:38Z",
+      "karten": [
+        "qs03-l-vergleich-wie"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – personification",
+      "url": "https://poets.org/glossary/personification",
+      "abruf_utc": "2026-11-22T21:43:38Z",
+      "karten": [
+        "qs03-l-zeitung-schlummert"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – metaphor",
+      "url": "https://poets.org/glossary/metaphor",
+      "abruf_utc": "2026-11-22T21:43:42Z",
+      "karten": [
+        "qs03-l-woerterbruecke"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – acrostic",
+      "url": "https://poets.org/glossary/acrostic",
+      "abruf_utc": "2026-11-22T21:43:40Z",
+      "karten": [
+        "qs03-l-zeilenanfang-see"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – assonance",
+      "url": "https://poets.org/glossary/assonance",
+      "abruf_utc": "2026-11-22T21:43:39Z",
+      "karten": [
+        "qs03-l-assonanz-aa"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – caesura",
+      "url": "https://poets.org/glossary/caesura",
+      "abruf_utc": "2026-11-22T21:43:40Z",
+      "karten": [
+        "qs03-l-sprechpause"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – couplet",
+      "url": "https://poets.org/glossary/couplet",
+      "abruf_utc": "2026-11-22T21:43:38Z",
+      "karten": [
+        "qs03-l-verspaar"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – stanza",
+      "url": "https://poets.org/glossary/stanza",
+      "abruf_utc": "2026-11-22T21:43:44Z",
+      "karten": [
+        "qs03-l-strophen-abstand"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – Rhyme",
+      "url": "https://poets.org/glossary/rhyme",
+      "abruf_utc": "2026-11-22T21:43:27Z",
+      "karten": [
+        "qs03-l-kreuzreim",
+        "qs03-l-umschliessender-reim"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – Poetry Glossary",
+      "url": "https://poets.org/lesson-plan/poetry-glossary",
+      "abruf_utc": "2026-11-22T21:43:27Z",
+      "karten": [
+        "qs03-l-uebertreibung",
+        "qs03-l-ironisch-trocken",
+        "qs03-l-lautbild",
+        "qs03-l-jambus",
+        "qs03-l-daktylus"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – chiasmus",
+      "url": "https://poets.org/glossary/chiasmus",
+      "abruf_utc": "2026-11-22T21:43:44Z",
+      "karten": [
+        "qs03-l-chiasmus"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – free-verse",
+      "url": "https://poets.org/glossary/free-verse",
+      "abruf_utc": "2026-11-22T21:43:38Z",
+      "karten": [
+        "qs03-l-freier-vers"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – limerick",
+      "url": "https://poets.org/glossary/limerick",
+      "abruf_utc": "2026-11-22T21:43:42Z",
+      "karten": [
+        "qs03-l-limerick-ende"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – sonnet",
+      "url": "https://poets.org/glossary/sonnet",
+      "abruf_utc": "2026-11-22T21:43:44Z",
+      "karten": [
+        "qs03-l-sonett-bloecke"
+      ]
+    },
+    {
+      "titel": "Academy of American Poets – blank-verse",
+      "url": "https://poets.org/glossary/blank-verse",
+      "abruf_utc": "2026-11-22T21:43:40Z",
+      "karten": [
+        "qs03-l-blankvers"
+      ]
+    },
+    {
+      "titel": "The Metropolitan Museum of Art – Woodcut",
+      "url": "https://www.metmuseum.org/perspectives/materials-and-techniques-printmaking-woodcut",
+      "abruf_utc": "2026-11-22T21:43:27Z",
+      "karten": [
+        "qs03-l-holzschnitt-weiss",
+        "qs03-l-schrift-spiegel"
+      ]
+    },
+    {
+      "titel": "The Metropolitan Museum of Art – engraving",
+      "url": "https://www.metmuseum.org/perspectives/materials-and-techniques-printmaking-engraving",
+      "abruf_utc": "2026-11-22T21:44:01Z",
+      "karten": [
+        "qs03-l-kupferstich-wischen"
+      ]
+    },
+    {
+      "titel": "The Metropolitan Museum of Art – etching",
+      "url": "https://www.metmuseum.org/perspectives/materials-and-techniques-printmaking-etching",
+      "abruf_utc": "2026-11-22T21:44:02Z",
+      "karten": [
+        "qs03-l-radierung-prozess"
+      ]
+    },
+    {
+      "titel": "The Metropolitan Museum of Art – screenprint",
+      "url": "https://www.metmuseum.org/perspectives/materials-and-techniques-printmaking-screenprint",
+      "abruf_utc": "2026-11-22T21:44:06Z",
+      "karten": [
+        "qs03-l-siebdruck-motiv"
+      ]
+    },
+    {
+      "titel": "Philharmonia Orchestra – oboe",
+      "url": "https://philharmonia.co.uk/resources/instruments/oboe/",
+      "abruf_utc": "2026-11-22T21:44:01Z",
+      "karten": [
+        "qs03-l-oboenblatt"
+      ]
+    },
+    {
+      "titel": "Philharmonia Orchestra – trombone",
+      "url": "https://philharmonia.co.uk/resources/instruments/trombone/",
+      "abruf_utc": "2026-11-22T21:44:05Z",
+      "karten": [
+        "qs03-l-posaunenzug"
+      ]
+    },
+    {
+      "titel": "Philharmonia Orchestra – trumpet",
+      "url": "https://philharmonia.co.uk/resources/instruments/trumpet/",
+      "abruf_utc": "2026-11-22T21:44:05Z",
+      "karten": [
+        "qs03-l-trompetenventil"
+      ]
+    },
+    {
+      "titel": "Philharmonia Orchestra – harp",
+      "url": "https://philharmonia.co.uk/resources/instruments/harp/",
+      "abruf_utc": "2026-11-22T21:44:01Z",
+      "karten": [
+        "qs03-l-harfenpedal"
+      ]
+    },
+    {
+      "titel": "Philharmonia Orchestra – violin",
+      "url": "https://philharmonia.co.uk/resources/instruments/violin/",
+      "abruf_utc": "2026-11-22T21:44:01Z",
+      "karten": [
+        "qs03-l-pizzicato"
+      ]
+    },
+    {
+      "titel": "Yamaha – The Structure of the Clarinet, Transposing Instruments",
+      "url": "https://www.yamaha.com/en/musical_instrument_guide/clarinet/mechanism/mechanism005.html",
+      "abruf_utc": "2026-11-22T22:17:42Z",
+      "karten": [
+        "qs03-l-klarinettenstimmen"
+      ]
+    },
+    {
+      "titel": "Philharmonia Orchestra – double-bass",
+      "url": "https://philharmonia.co.uk/resources/instruments/double-bass/",
+      "abruf_utc": "2026-11-22T21:44:04Z",
+      "karten": [
+        "qs03-l-orchesterfundament"
+      ]
+    },
+    {
+      "titel": "International ISBN Agency – ISBN Assignment",
+      "url": "https://www.isbn-international.org/node/88",
+      "abruf_utc": "2026-11-22T21:43:25Z",
+      "karten": [
+        "qs03-l-isbn-ausgaben",
+        "qs03-l-isbn-sammelwerk"
+      ]
+    },
+    {
+      "titel": "ISSN International Centre – What is an ISSN?",
+      "url": "https://www.issn.org/understanding-the-issn/what-is-an-issn/",
+      "abruf_utc": "2026-11-22T21:22:12Z",
+      "karten": [
+        "qs03-l-issn-zeitschrift"
+      ]
+    },
+    {
+      "titel": "Deutsche UNESCO-Kommission – Buchbinderhandwerk",
+      "url": "https://www.unesco.de/staette/buchbinderhandwerk/",
+      "abruf_utc": "2026-11-22T21:52:19Z",
+      "karten": [
+        "qs03-l-buchschnitt",
+        "qs03-l-buchdeckel"
+      ]
+    },
+    {
+      "titel": "Deutsche UNESCO-Kommission – Reetdachdecker-Handwerk",
+      "url": "https://www.unesco.de/staette/reetdachdecker-handwerk/",
+      "abruf_utc": "2026-11-22T21:52:16Z",
+      "karten": [
+        "qs03-l-reetwinter"
+      ]
+    },
+    {
+      "titel": "Deutsche UNESCO-Kommission – floesserei",
+      "url": "https://www.unesco.de/staette/floesserei/",
+      "abruf_utc": "2026-11-22T21:52:49Z",
+      "karten": [
+        "qs03-l-floesserfracht"
+      ]
+    },
+    {
+      "titel": "Deutsche UNESCO-Kommission – orgelbau und orgelmusik",
+      "url": "https://www.unesco.de/staette/orgelbau-und-orgelmusik/",
+      "abruf_utc": "2026-11-22T21:52:51Z",
+      "karten": [
+        "qs03-l-orgelraum"
+      ]
+    },
+    {
+      "titel": "Deutsche UNESCO-Kommission – kaspertheater als spielprinzip",
+      "url": "https://www.unesco.de/staette/kaspertheater-als-spielprinzip/",
+      "abruf_utc": "2026-11-22T21:52:51Z",
+      "karten": [
+        "qs03-l-kasperfolge"
+      ]
+    },
+    {
+      "titel": "Deutsche UNESCO-Kommission – morsetelegrafie",
+      "url": "https://www.unesco.de/staette/morsetelegrafie/",
+      "abruf_utc": "2026-11-22T21:52:53Z",
+      "karten": [
+        "qs03-l-morsemedien"
+      ]
+    },
+    {
+      "titel": "Deutsche UNESCO-Kommission – chormusik in deutschen amateurchoeren",
+      "url": "https://www.unesco.de/staette/chormusik-in-deutschen-amateurchoeren/",
+      "abruf_utc": "2026-11-22T21:52:53Z",
+      "karten": [
+        "qs03-l-chorwandel"
+      ]
+    },
+    {
+      "titel": "Philharmonia Orchestra – A beginner’s guide to orchestral concerts",
+      "url": "https://philharmonia.co.uk/orchestral-concerts-a-60-second-beginners-guide/",
+      "abruf_utc": "2026-11-22T21:52:16Z",
+      "karten": [
+        "qs03-l-konzerteinlass"
+      ]
+    },
+    {
+      "titel": "The Metropolitan Museum of Art – Watercolor",
+      "url": "https://www.metmuseum.org/perspectives/materials-and-techniques-drawing-watercolor",
+      "abruf_utc": "2026-11-22T21:52:18Z",
+      "karten": [
+        "qs03-l-aquarelllicht",
+        "qs03-l-gummiarabikum"
+      ]
+    },
+    {
+      "titel": "The Metropolitan Museum of Art – Charcoal",
+      "url": "https://www.metmuseum.org/perspectives/materials-and-techniques-drawing-charcoal",
+      "abruf_utc": "2026-11-22T21:52:17Z",
+      "karten": [
+        "qs03-l-kohle-licht"
+      ]
+    },
+    {
+      "titel": "The Metropolitan Museum of Art – Pastel",
+      "url": "https://www.metmuseum.org/perspectives/materials-and-techniques-drawing-pastel",
+      "abruf_utc": "2026-11-22T21:52:17Z",
+      "karten": [
+        "qs03-l-pastellpapier",
+        "qs03-l-pastellbreit"
+      ]
+    },
+    {
+      "titel": "Braille Authority of North America – Guidelines for Braille Signage",
+      "url": "https://www.brailleauthority.org/sites/default/files/2024-01/BANA%20Guidelines%20for%20the%20Creation%20of%20Braille%20Signage%20Approved%2010-2023.pdf",
+      "abruf_utc": "2026-11-22T21:52:17Z",
+      "karten": [
+        "qs03-l-braille-ecke",
+        "qs03-l-braille-muster"
+      ]
+    },
+    {
+      "titel": "Unicode Consortium – Characters and Combining Marks",
+      "url": "https://www.unicode.org/faq/char_combmark.html",
+      "abruf_utc": "2026-11-22T21:52:21Z",
+      "karten": [
+        "qs03-l-akzentfolge",
+        "qs03-l-diakritisch"
+      ]
+    },
+    {
+      "titel": "Unicode Consortium – Unicode Emoji, UTS #51",
+      "url": "https://www.unicode.org/reports/tr51/",
+      "abruf_utc": "2026-11-22T21:52:16Z",
+      "karten": [
+        "qs03-l-emoji-familie"
+      ]
+    },
+    {
+      "titel": "W3C – What is a character encoding?",
+      "url": "https://www.w3.org/International/questions/qa-what-is-encoding",
+      "abruf_utc": "2026-11-22T21:52:19Z",
+      "karten": [
+        "qs03-l-zeichenwirrwarr"
+      ]
+    },
+    {
+      "titel": "Unicode Consortium – Case Mapping",
+      "url": "https://www.unicode.org/faq/casemap_charprop.html",
+      "abruf_utc": "2026-11-22T21:52:16Z",
+      "karten": [
+        "qs03-l-gross-rueckweg"
+      ]
+    },
+    {
+      "titel": "Unicode CLDR – Date/Time Patterns",
+      "url": "https://cldr.unicode.org/translation/date-time/date-time-patterns",
+      "abruf_utc": "2026-11-22T21:52:16Z",
+      "karten": [
+        "qs03-l-datum-lesen"
+      ]
+    },
+    {
+      "titel": "Duden – Faden",
+      "url": "https://www.duden.de/rechtschreibung/Faden",
+      "abruf_utc": "2026-11-22T21:56:34Z",
+      "karten": [
+        "qs03-l-roter-faden"
+      ]
+    },
+    {
+      "titel": "Duden – Blume",
+      "url": "https://www.duden.de/rechtschreibung/Blume",
+      "abruf_utc": "2026-11-22T21:56:30Z",
+      "karten": [
+        "qs03-l-durch-die-blume"
+      ]
+    },
+    {
+      "titel": "Duden – Oel",
+      "url": "https://www.duden.de/rechtschreibung/Oel",
+      "abruf_utc": "2026-11-22T21:56:30Z",
+      "karten": [
+        "qs03-l-oel-feuer"
+      ]
+    },
+    {
+      "titel": "Duden – Fliege",
+      "url": "https://www.duden.de/rechtschreibung/Fliege",
+      "abruf_utc": "2026-11-22T21:56:34Z",
+      "karten": [
+        "qs03-l-zwei-fliegen"
+      ]
+    },
+    {
+      "titel": "Duden – Zaunpfahl",
+      "url": "https://www.duden.de/rechtschreibung/Zaunpfahl",
+      "abruf_utc": "2026-11-22T21:56:32Z",
+      "karten": [
+        "qs03-l-zaunpfahl-wink"
+      ]
+    },
+    {
+      "titel": "Duden – Blatt",
+      "url": "https://www.duden.de/rechtschreibung/Blatt",
+      "abruf_utc": "2026-11-22T21:56:32Z",
+      "karten": [
+        "qs03-l-kein-blatt"
+      ]
+    },
+    {
+      "titel": "Duden – Zeile",
+      "url": "https://www.duden.de/rechtschreibung/Zeile",
+      "abruf_utc": "2026-11-22T21:56:34Z",
+      "karten": [
+        "qs03-l-zwischen-zeilen"
+      ]
+    },
+    {
+      "titel": "Duden – Tropfen",
+      "url": "https://www.duden.de/rechtschreibung/Tropfen",
+      "abruf_utc": "2026-11-22T21:56:31Z",
+      "karten": [
+        "qs03-l-tropfen-stein"
+      ]
+    },
+    {
+      "titel": "Duden – Apfel",
+      "url": "https://www.duden.de/rechtschreibung/Apfel",
+      "abruf_utc": "2026-11-22T21:56:31Z",
+      "karten": [
+        "qs03-l-saurer-apfel"
+      ]
+    },
+    {
+      "titel": "International Telecommunication Union – International Morse Code",
+      "url": "https://www.itu.int/dms_pubrec/itu-r/rec/m/R-REC-M.1677-1-200910-I!!PDF-E.pdf",
+      "abruf_utc": "2026-11-22T21:56:56Z",
+      "karten": [
+        "qs03-l-morse-zeit",
+        "qs03-l-morse-wort"
+      ]
+    }
+  ]
+}

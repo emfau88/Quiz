@@ -1,0 +1,2012 @@
+[
+  {
+    "id": "q3-e-camel-stapel",
+    "fact_key": "q3.e.camel.stapel",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Bei „Camel Up“ tragen Kamele die Tiere auf ihrem Rücken mit. Blau steht unten, Gelb sitzt darauf. Wessen Standort ändert sich, wenn Blau vorwärtszieht?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der von Blau und Gelb"
+      },
+      {
+        "id": "b",
+        "text": "Nur der von Blau"
+      },
+      {
+        "id": "c",
+        "text": "Nur der von Gelb"
+      },
+      {
+        "id": "d",
+        "text": "Keiner der beiden Standorte"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zieht das untere Kamel, nimmt es den Stapel darüber mit. Das kann eine Wette auf die Reihenfolge plötzlich verändern.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · camel-up",
+        "url": "https://www.spiel-des-jahres.de/spiele/camel-up/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Bei „Camel Up“ tragen Kamele die Tiere auf ihrem Rücken mit. Blau steht unten, Gelb sitzt darauf. Wessen Standort ändert sich, wenn Blau vorwärtszieht? Der von Blau und Gelb. Zieht das untere Kamel, nimmt es den Stapel darüber mit. Das kann eine Wette auf die Reihenfolge plötzlich verändern.",
+        "locator": "game-camel-up, Textstelle 56",
+        "source_sha256": "e8f9d85e23f42918569ef85c6219262e986dfb812717135442b1f3d87aad3023"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-azul-ueberschuss",
+    "fact_key": "q3.e.azul.ueberschuss",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Bei „Azul“ nimmt man von einer Manufaktur sämtliche Fliesen einer gewählten Sorte. Dort liegen vier blaue, in die Musterreihe passen nur zwei. Was droht?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die überzähligen Fliesen zählen doppelt als Bonus."
+      },
+      {
+        "id": "b",
+        "text": "Überschüssige Fliesen kosten Punkte."
+      },
+      {
+        "id": "c",
+        "text": "Die zwei übrigen bleiben automatisch in der Manufaktur."
+      },
+      {
+        "id": "d",
+        "text": "Die Reihe darf um zwei Felder verlängert werden."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Beim Auswählen genügt die richtige Farbe allein nicht. Die Menge muss zur verbliebenen Kapazität der Musterreihe passen.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · azul",
+        "url": "https://www.spiel-des-jahres.de/spiele/azul/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Bei „Azul“ nimmt man von einer Manufaktur sämtliche Fliesen einer gewählten Sorte. Dort liegen vier blaue, in die Musterreihe passen nur zwei. Was droht? Überschüssige Fliesen kosten Punkte. Beim Auswählen genügt die richtige Farbe allein nicht. Die Menge muss zur verbliebenen Kapazität der Musterreihe passen.",
+        "locator": "game-azul, Textstelle 56",
+        "source_sha256": "0f30f24784009a8f7ec18048528e9cf5a8ad589788d2eb246775b4f36c2319b2"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-carcassonne-rand",
+    "fact_key": "q3.e.carcassonne.rand",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Bei „Carcassonne“ sollen die Landschaften an den Kanten zueinander passen. Auf dem angrenzenden Plättchen führt eine Straße bis an den Rand. Was darf dort anschließen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur ein Plättchen mit einem unbesetzten Bauern"
+      },
+      {
+        "id": "b",
+        "text": "Jedes Plättchen mit einer geschlossenen Stadtmauer"
+      },
+      {
+        "id": "c",
+        "text": "Ein Plättchen mit einer passenden Straße an dieser Kante"
+      },
+      {
+        "id": "d",
+        "text": "Jedes Plättchen mit einem Kloster in seiner Mitte"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Straßenführung muss an der gemeinsamen Kante weitergehen. Auch Wiesen und Stadtteile müssen zu den Nachbarkanten passen.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · carcassonne",
+        "url": "https://www.spiel-des-jahres.de/spiele/carcassonne/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Bei „Carcassonne“ sollen die Landschaften an den Kanten zueinander passen. Auf dem angrenzenden Plättchen führt eine Straße bis an den Rand. Was darf dort anschließen? Ein Plättchen mit einer passenden Straße an dieser Kante. Die Straßenführung muss an der gemeinsamen Kante weitergehen. Auch Wiesen und Stadtteile müssen zu den Nachbarkanten passen.",
+        "locator": "game-carcassonne, Textstelle 58",
+        "source_sha256": "0ae2fcfc9c92a2beac6e3c9f9357eb07398f50d85684c33d26e9ff5bf4d5ad37"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-cascadia-zweifach",
+    "fact_key": "q3.e.cascadia.zweifach",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "In „Cascadia“ können zwei gleich große Waldgebiete unterschiedlich gut abschneiden. Worauf kommt es neben den verbundenen Landschaftsflächen an?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auf die Anzahl aller gezogenen Landschaftsplättchen"
+      },
+      {
+        "id": "b",
+        "text": "Auf die Höhe der aufgeschichteten Landschaften"
+      },
+      {
+        "id": "c",
+        "text": "Auf die Anzahl der völlig unbewohnten Randfelder"
+      },
+      {
+        "id": "d",
+        "text": "Auf die passende Anordnung der Tierplättchen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Landschaften und Tiere werden nach eigenen Bedingungen gewertet. Ein großes Gebiet allein sichert daher noch kein gutes Gesamtergebnis.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · casc",
+        "url": "https://www.spiel-des-jahres.de/spiele/casc/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "In „Cascadia“ können zwei gleich große Waldgebiete unterschiedlich gut abschneiden. Worauf kommt es neben den verbundenen Landschaftsflächen an? Auf die passende Anordnung der Tierplättchen. Landschaften und Tiere werden nach eigenen Bedingungen gewertet. Ein großes Gebiet allein sichert daher noch kein gutes Gesamtergebnis.",
+        "locator": "game-casc, Textstelle 56",
+        "source_sha256": "d6059f0137631503b89096f9da203d9af1a96cf9366186b79aca0127f62fe19e"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-codenames-zahl",
+    "fact_key": "q3.e.codenames.zahl",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Bei „Codenames“ darf der Tipp aus einem Wort und einer Zahl bestehen. Was besagt bei „Wald, zwei“ die Zwei?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zwei gesuchte Wortkarten passen zum Hinweis."
+      },
+      {
+        "id": "b",
+        "text": "Der Begriff hat genau zwei Silben."
+      },
+      {
+        "id": "c",
+        "text": "Zwei Gegner müssen bei der Antwort helfen."
+      },
+      {
+        "id": "d",
+        "text": "Der Hinweis gilt nur in der zweiten Reihe."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Zahl verrät, wie viele eigene Karten gemeint sind. Welche Wörter zum Oberbegriff passen, muss das Team erschließen.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · codenames",
+        "url": "https://www.spiel-des-jahres.de/spiele/codenames/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Bei „Codenames“ darf der Tipp aus einem Wort und einer Zahl bestehen. Was besagt bei „Wald, zwei“ die Zwei? Zwei gesuchte Wortkarten passen zum Hinweis. Die Zahl verrät, wie viele eigene Karten gemeint sind. Welche Wörter zum Oberbegriff passen, muss das Team erschließen.",
+        "locator": "game-codenames, Textstelle 56",
+        "source_sha256": "d3596645030d87b27496c6eb01ec0ba577579f1497cdfc59151026c4f5b79f56"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-dixit-mittelweg",
+    "fact_key": "q3.e.dixit.mittelweg",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Bei „Dixit“ bekommt der Erzähler keine Punkte, wenn alle oder niemand sein Bild erraten. Welche Art Hinweis ist für ihn deshalb günstig?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der offen genannte Standort der eigenen Karte"
+      },
+      {
+        "id": "b",
+        "text": "Ein Hinweis, den wohl nur ein Teil der Runde versteht"
+      },
+      {
+        "id": "c",
+        "text": "Eine Beschreibung jedes sichtbaren Details"
+      },
+      {
+        "id": "d",
+        "text": "Eine zufällige Zahl ohne Bezug zum Bild"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Erzähler möchte einige Mitspielende auf seine Spur bringen. Zwischen einem offensichtlichen und einem völlig rätselhaften Hinweis liegt sein Spielraum.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · dixit",
+        "url": "https://www.spiel-des-jahres.de/spiele/dixit/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Bei „Dixit“ bekommt der Erzähler keine Punkte, wenn alle oder niemand sein Bild erraten. Welche Art Hinweis ist für ihn deshalb günstig? Ein Hinweis, den wohl nur ein Teil der Runde versteht. Der Erzähler möchte einige Mitspielende auf seine Spur bringen. Zwischen einem offensichtlichen und einem völlig rätselhaften Hinweis liegt sein Spielraum.",
+        "locator": "game-dixit, Textstelle 56",
+        "source_sha256": "58ff4c129635abcfb52172e103846aab1a3688ce3a4e06d594354206ef0db646"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-dominion-kreislauf",
+    "fact_key": "q3.e.dominion.kreislauf",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Bei „Dominion“ werden benutzte eigene Karten nach dem Leeren des Nachziehstapels neu gemischt. Warum kann sich ein früher Kartenkauf mehrfach lohnen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie wird nach jedem Zug an alle anderen kopiert."
+      },
+      {
+        "id": "b",
+        "text": "Sie liegt nach dem Ausspielen dauerhaft obenauf."
+      },
+      {
+        "id": "c",
+        "text": "Die gekaufte Karte kann später erneut auf die Hand kommen."
+      },
+      {
+        "id": "d",
+        "text": "Ihr Kaufpreis wird bei jeder Runde sofort zurückgezahlt."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der eigene Kartenbestand verändert sich während der Partie. Gekaufte Karten können in späteren Durchläufen wieder auftauchen.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · dominion",
+        "url": "https://www.spiel-des-jahres.de/spiele/dominion/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Bei „Dominion“ werden benutzte eigene Karten nach dem Leeren des Nachziehstapels neu gemischt. Warum kann sich ein früher Kartenkauf mehrfach lohnen? Die gekaufte Karte kann später erneut auf die Hand kommen. Der eigene Kartenbestand verändert sich während der Partie. Gekaufte Karten können in späteren Durchläufen wieder auftauchen.",
+        "locator": "game-dominion, Textstelle 56",
+        "source_sha256": "12da098a59dc371432d2a4426844583040710386888892d03056bc782f663d52"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-elfenland-fahrkarte",
+    "fact_key": "q3.e.elfenland.fahrkarte",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In „Elfenland“ liegen für einzelne Wege bestimmte Verkehrsmittel aus. Auf meinem Weg liegt eine magische Wolke. Was fehlt mir zum Reisen noch?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein zusätzlicher eigener Ortsstein am Ziel"
+      },
+      {
+        "id": "b",
+        "text": "Eine Karte mit genau demselben Städtenamen"
+      },
+      {
+        "id": "c",
+        "text": "Die Zustimmung sämtlicher anderen Reisenden"
+      },
+      {
+        "id": "d",
+        "text": "Eine zur Wolke passende Reisekarte"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Strecke braucht ein zulässiges Verkehrsmittel, die Figur die passende Karte. Die Reiseplanung verbindet daher Material auf dem Brett und Karten auf der Hand.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · elfenland",
+        "url": "https://www.spiel-des-jahres.de/spiele/elfenland/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "In „Elfenland“ liegen für einzelne Wege bestimmte Verkehrsmittel aus. Auf meinem Weg liegt eine magische Wolke. Was fehlt mir zum Reisen noch? Eine zur Wolke passende Reisekarte. Die Strecke braucht ein zulässiges Verkehrsmittel, die Figur die passende Karte. Die Reiseplanung verbindet daher Material auf dem Brett und Karten auf der Hand.",
+        "locator": "game-elfenland, Textstelle 58",
+        "source_sha256": "6dda2ff2e3f94d279937272c4b01b82a63e003bbffbad59697d490ba48d9eb6c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-focus-hoehe",
+    "fact_key": "q3.e.focus.hoehe",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Bei „Focus“ richtet sich die Zugweite nach der Turmhöhe. Was verändert sich, wenn ich einen einzelnen Stein auf einen Turm setze?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Turm kann bei seinem nächsten Zug weiter reichen."
+      },
+      {
+        "id": "b",
+        "text": "Der Turm wird unbeweglich."
+      },
+      {
+        "id": "c",
+        "text": "Der Turm muss beim nächsten Zug rückwärts ziehen."
+      },
+      {
+        "id": "d",
+        "text": "Der Turm darf nur noch diagonal springen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Höhe bestimmt die mögliche Reichweite. Für einen kürzeren Zug kann ein Teil der Steine zurückbleiben.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · focus",
+        "url": "https://www.spiel-des-jahres.de/spiele/focus/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Bei „Focus“ richtet sich die Zugweite nach der Turmhöhe. Was verändert sich, wenn ich einen einzelnen Stein auf einen Turm setze? Der Turm kann bei seinem nächsten Zug weiter reichen. Die Höhe bestimmt die mögliche Reichweite. Für einen kürzeren Zug kann ein Teil der Steine zurückbleiben.",
+        "locator": "game-focus, Textstelle 56",
+        "source_sha256": "315ac9d0028e3141da8df99e59797b0b1dee032950553607d6a3237849fc808f"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-hanabi-eigene-hand",
+    "fact_key": "q3.e.hanabi.eigene.hand",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Was kehrt „Hanabi“ im Vergleich zu den meisten Kartenspielen um, wenn man seine Karten mit der Bildseite nach außen hält?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jeder sieht allein die oberste eigene Karte."
+      },
+      {
+        "id": "b",
+        "text": "Andere sehen meine Karten, ich selbst sehe ihre."
+      },
+      {
+        "id": "c",
+        "text": "Alle sehen nur die Rückseite sämtlicher Karten."
+      },
+      {
+        "id": "d",
+        "text": "Die Karten liegen offen auf dem Tisch."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der ungewohnte Blick auf die Karten der anderen macht Hinweise nötig. Gemeinsam versucht die Runde, das Feuerwerk richtig auszulegen.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · hanabi",
+        "url": "https://www.spiel-des-jahres.de/spiele/hanabi/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Was kehrt „Hanabi“ im Vergleich zu den meisten Kartenspielen um, wenn man seine Karten mit der Bildseite nach außen hält? Andere sehen meine Karten, ich selbst sehe ihre. Der ungewohnte Blick auf die Karten der anderen macht Hinweise nötig. Gemeinsam versucht die Runde, das Feuerwerk richtig auszulegen.",
+        "locator": "game-hanabi, Textstelle 56",
+        "source_sha256": "cbaa9c2a5c5d334569a68971037e2f2dd55299ea0c76745c07c6ea84acdbbbc2"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-justone-doppelt",
+    "fact_key": "q3.e.justone.doppelt",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Bei „Just One“ werden gleiche Hinweise gestrichen. Vier Personen schreiben „Biene“, „Glas“, „Biene“ und „süß“. Was darf die ratende Person lesen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur „Biene“"
+      },
+      {
+        "id": "b",
+        "text": "Alle drei verschiedenen Wörter"
+      },
+      {
+        "id": "c",
+        "text": "„Glas“ und „süß“"
+      },
+      {
+        "id": "d",
+        "text": "„Biene“ und „Glas“"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Beide Exemplare des doppelten Hinweises fallen weg. Die unterschiedlichen Hinweise bleiben sichtbar.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · just-one",
+        "url": "https://www.spiel-des-jahres.de/spiele/just-one/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Bei „Just One“ werden gleiche Hinweise gestrichen. Vier Personen schreiben „Biene“, „Glas“, „Biene“ und „süß“. Was darf die ratende Person lesen? „Glas“ und „süß“. Beide Exemplare des doppelten Hinweises fallen weg. Die unterschiedlichen Hinweise bleiben sichtbar.",
+        "locator": "game-just-one, Textstelle 56",
+        "source_sha256": "b0edace0452362a2116526b49da4fc1f2f407d5bcbb212597b520d1e117059f7"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-kingdomino-wertung",
+    "fact_key": "q3.e.kingdomino.wertung",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "In „Kingdomino“ zählt Gebietsgröße mal Kronenzahl. Was bringt mehr, vier zusammenhängende Felder mit zwei Kronen oder sieben ohne Krone?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Siebenergebiet bringt sieben Punkte."
+      },
+      {
+        "id": "b",
+        "text": "Beide Gebiete bringen jeweils vier Punkte."
+      },
+      {
+        "id": "c",
+        "text": "Die Kronenzahl macht erst bei Gleichstand einen Unterschied."
+      },
+      {
+        "id": "d",
+        "text": "Das Vierergebiet bringt acht Punkte."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die zwei Kronen verdoppeln den Wert der vier Felder. Ein Gebiet ohne Krone bleibt bei der Multiplikation ohne Punkte.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · kingdomino",
+        "url": "https://www.spiel-des-jahres.de/spiele/kingdomino/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "In „Kingdomino“ zählt Gebietsgröße mal Kronenzahl. Was bringt mehr, vier zusammenhängende Felder mit zwei Kronen oder sieben ohne Krone? Das Vierergebiet bringt acht Punkte. Die zwei Kronen verdoppeln den Wert der vier Felder. Ein Gebiet ohne Krone bleibt bei der Multiplikation ohne Punkte.",
+        "locator": "game-kingdomino, Textstelle 56",
+        "source_sha256": "7e441bd44b5e32bc7a8e1db48bb345314a4f378696a017501e9ef2e161083e0d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-pictures-abstraktion",
+    "fact_key": "q3.e.pictures.abstraktion",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In „Pictures“ erhält eine Person nur Schnürsenkel für die Darstellung eines Fotos. Welche Eigenschaft des Bildes lässt sich damit besonders gut andeuten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Linien und Umrisse des Motivs"
+      },
+      {
+        "id": "b",
+        "text": "Sein genauer Farbverlauf"
+      },
+      {
+        "id": "c",
+        "text": "Die Auflösung der Kamera"
+      },
+      {
+        "id": "d",
+        "text": "Die Belichtungszeit der Aufnahme"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Gruppe soll das Foto unter mehreren Bildern wiedererkennen. Dazu müssen die wenigen geeigneten Merkmale für das jeweilige Material reichen.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · pictures",
+        "url": "https://www.spiel-des-jahres.de/spiele/pictures/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "In „Pictures“ erhält eine Person nur Schnürsenkel für die Darstellung eines Fotos. Welche Eigenschaft des Bildes lässt sich damit besonders gut andeuten? Die Linien und Umrisse des Motivs. Die Gruppe soll das Foto unter mehreren Bildern wiedererkennen. Dazu müssen die wenigen geeigneten Merkmale für das jeweilige Material reichen.",
+        "locator": "game-pictures, Textstelle 56",
+        "source_sha256": "524816f1bdebecca6cbf502a11b604de6a39a86580f1e9ef4b1c13b357778018"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-qwirkle-muster",
+    "fact_key": "q3.e.qwirkle.muster",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In einer „Qwirkle“-Reihe liegen ein grüner und ein blauer Kreis. Alle Steine sollen dieselbe Form, aber verschiedene Farben haben. Was darf dazu?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein gelber Stern"
+      },
+      {
+        "id": "b",
+        "text": "Ein roter Kreis"
+      },
+      {
+        "id": "c",
+        "text": "Ein weiterer grüner Kreis"
+      },
+      {
+        "id": "d",
+        "text": "Ein blaues Quadrat"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Reihe sammelt Kreise in unterschiedlichen Farben. Eine bereits vertretene Farbe darf innerhalb dieser Reihe nicht wiederholt werden.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · qwirkle",
+        "url": "https://www.spiel-des-jahres.de/spiele/qwirkle/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "In einer „Qwirkle“-Reihe liegen ein grüner und ein blauer Kreis. Alle Steine sollen dieselbe Form, aber verschiedene Farben haben. Was darf dazu? Ein roter Kreis. Die Reihe sammelt Kreise in unterschiedlichen Farben. Eine bereits vertretene Farbe darf innerhalb dieser Reihe nicht wiederholt werden.",
+        "locator": "game-qwirkle, Textstelle 56",
+        "source_sha256": "6ced9a65e15a47eeb38a89adee99567f945c27667bca894199f74db856c6a08f"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-rummikub-gruppe",
+    "fact_key": "q3.e.rummikub.gruppe",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Auf dem Tisch liegen bei „Rummikub“ eine rote, eine schwarze und eine blaue Acht. Was unterscheidet diese Gruppe von einer Zahlenreihe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Zahlen müssen sich jeweils verdoppeln."
+      },
+      {
+        "id": "b",
+        "text": "Jeder Stein muss aus einer anderen Schachtel stammen."
+      },
+      {
+        "id": "c",
+        "text": "Die Zahl bleibt gleich, die Farben wechseln."
+      },
+      {
+        "id": "d",
+        "text": "Die Farbe bleibt gleich, die Zahl steigt."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Eine Gruppe verbindet gleiche Zahlen in verschiedenen Farben. Eine Reihe beruht auf einer lückenlosen Zahlenfolge.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · rummikub",
+        "url": "https://www.spiel-des-jahres.de/spiele/rummikub/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Auf dem Tisch liegen bei „Rummikub“ eine rote, eine schwarze und eine blaue Acht. Was unterscheidet diese Gruppe von einer Zahlenreihe? Die Zahl bleibt gleich, die Farben wechseln. Eine Gruppe verbindet gleiche Zahlen in verschiedenen Farben. Eine Reihe beruht auf einer lückenlosen Zahlenfolge.",
+        "locator": "game-rummikub, Textstelle 58",
+        "source_sha256": "add81e9a2ad60acf21348ba7a8e6aaddd7d45f751562e95f0e6a90329d3201c1"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-rummikub-material",
+    "fact_key": "q3.e.rummikub.material",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "„Rummikub“ hat die Zahlen 1 bis 13 in vier Farben, jede Zahl-Farbe-Kombination zweimal, dazu zwei Joker. Wie viele Steine liegen damit ungefähr im Kasten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Etwa zwanzig"
+      },
+      {
+        "id": "b",
+        "text": "Knapp vierhundert"
+      },
+      {
+        "id": "c",
+        "text": "Mehr als tausend"
+      },
+      {
+        "id": "d",
+        "text": "Rund hundert"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "13 Zahlen mal vier Farben ergeben 52 Kombinationen. Doppelt genommen sind es 104, mit den beiden Jokern 106 Spielsteine.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · rummikub",
+        "url": "https://www.spiel-des-jahres.de/spiele/rummikub/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "„Rummikub“ hat die Zahlen 1 bis 13 in vier Farben, jede Zahl-Farbe-Kombination zweimal, dazu zwei Joker. Wie viele Steine liegen damit ungefähr im Kasten? Rund hundert. 13 Zahlen mal vier Farben ergeben 52 Kombinationen. Doppelt genommen sind es 104, mit den beiden Jokern 106 Spielsteine.",
+        "locator": "game-rummikub, Textstelle 57",
+        "source_sha256": "add81e9a2ad60acf21348ba7a8e6aaddd7d45f751562e95f0e6a90329d3201c1"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-sagaland-merken",
+    "fact_key": "q3.e.sagaland.merken",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In „Sagaland“ verbergen Bäumchen verschiedene Märchenschätze. Warum ist es nützlich, sich auch einen gerade nicht gesuchten Fundort zu merken?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Später kann der König genau diesen Schatz suchen."
+      },
+      {
+        "id": "b",
+        "text": "Der Baum erhält nach jedem Fund eine andere Farbe."
+      },
+      {
+        "id": "c",
+        "text": "Jeder gemerkte Ort verkürzt den Würfelwurf."
+      },
+      {
+        "id": "d",
+        "text": "Am Ende zählen allein die Namen aller Mitspielenden."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wer dem König die Orte der gesuchten Gegenstände nennen kann, kommt dem Sieg näher. Ein früherer Blick unter einen Baum kann sich später auszahlen.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · sagaland",
+        "url": "https://www.spiel-des-jahres.de/spiele/sagaland/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "In „Sagaland“ verbergen Bäumchen verschiedene Märchenschätze. Warum ist es nützlich, sich auch einen gerade nicht gesuchten Fundort zu merken? Später kann der König genau diesen Schatz suchen. Wer dem König die Orte der gesuchten Gegenstände nennen kann, kommt dem Sieg näher. Ein früherer Blick unter einen Baum kann sich später auszahlen.",
+        "locator": "game-sagaland, Textstelle 58",
+        "source_sha256": "d63f77d075596d6feae9026940abd7d5efeff1aaeff56f25e6277e97d53a07bf"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-scotland-karte",
+    "fact_key": "q3.e.scotland.karte",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Bei „Scotland Yard“ liegen nummerierte Haltestellen und Linien für Bus, Taxi und U-Bahn auf dem Brett. Welche Überlegung hilft den Detektiven?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Welche Station am weitesten vom letzten Hinweis entfernt liegt"
+      },
+      {
+        "id": "b",
+        "text": "Welche Stationen mit dem benutzten Verkehrsmittel erreichbar waren"
+      },
+      {
+        "id": "c",
+        "text": "Welche Station im Nummernplan direkt auf die letzte folgt"
+      },
+      {
+        "id": "d",
+        "text": "Welche Endstation die meisten Taxilinien besitzt"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Spielplan verbindet bestimmte Stationen durch bestimmte Verkehrsmittel. Dadurch lässt sich der mögliche Aufenthaltsort von Mister X eingrenzen.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · scotland-yard",
+        "url": "https://www.spiel-des-jahres.de/spiele/scotland-yard/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Bei „Scotland Yard“ liegen nummerierte Haltestellen und Linien für Bus, Taxi und U-Bahn auf dem Brett. Welche Überlegung hilft den Detektiven? Welche Stationen mit dem benutzten Verkehrsmittel erreichbar waren. Der Spielplan verbindet bestimmte Stationen durch bestimmte Verkehrsmittel. Dadurch lässt sich der mögliche Aufenthaltsort von Mister X eingrenzen.",
+        "locator": "game-scotland-yard, Textstelle 56",
+        "source_sha256": "8bc0c3e1023c1b0a5785569a7500877facd2ee3483673a7099f01115dd0466b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-splendor-vorteil",
+    "fact_key": "q3.e.splendor.vorteil",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In „Splendor“ kann eine früh erworbene Karte spätere Einkäufe verbilligen. Weshalb lohnt sich mitunter ein Kauf, der noch wenige Siegpunkte bringt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er verhindert jeden weiteren Kauf der Gegenseite."
+      },
+      {
+        "id": "b",
+        "text": "Er gibt sofort alle ausgegebenen Chips zurück."
+      },
+      {
+        "id": "c",
+        "text": "Er erleichtert spätere, teurere Erwerbungen."
+      },
+      {
+        "id": "d",
+        "text": "Er beendet die Partie vor dem nächsten Zug."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Zum Spiel gehören sowohl kurzfristige Punkte als auch dauerhafte Vorteile für spätere Käufe.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · splendor",
+        "url": "https://www.spiel-des-jahres.de/spiele/splendor/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "In „Splendor“ kann eine früh erworbene Karte spätere Einkäufe verbilligen. Weshalb lohnt sich mitunter ein Kauf, der noch wenige Siegpunkte bringt? Er erleichtert spätere, teurere Erwerbungen. Zum Spiel gehören sowohl kurzfristige Punkte als auch dauerhafte Vorteile für spätere Käufe.",
+        "locator": "game-splendor, Textstelle 56",
+        "source_sha256": "f3941f99c3b64103357e9e16fe5eee1db2e89bc7abbd3be314d502be49cac7dc"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-radteam-wertung",
+    "fact_key": "q3.e.radteam.wertung",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Im Brettspiel „Um Reifenbreite“ führt jede Person eine Mannschaft. Was unterscheidet ihre Aufgabe vom bloßen Sieg eines einzelnen Radfahrers?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie muss ausschließlich einen Einzelfahrrekord brechen."
+      },
+      {
+        "id": "b",
+        "text": "Sie entscheidet nur über die Streckenlänge des Rennens."
+      },
+      {
+        "id": "c",
+        "text": "Sie darf nur mit einem einzigen Fahrer ins Ziel kommen."
+      },
+      {
+        "id": "d",
+        "text": "Sie muss das Abschneiden mehrerer Fahrer im Blick behalten."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Spieler übernehmen die Rolle von Teamchefs. Ein ganzes Viererteam soll erfolgreich abschneiden.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · um-reifenbreite",
+        "url": "https://www.spiel-des-jahres.de/spiele/um-reifenbreite/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Im Brettspiel „Um Reifenbreite“ führt jede Person eine Mannschaft. Was unterscheidet ihre Aufgabe vom bloßen Sieg eines einzelnen Radfahrers? Sie muss das Abschneiden mehrerer Fahrer im Blick behalten. Die Spieler übernehmen die Rolle von Teamchefs. Ein ganzes Viererteam soll erfolgreich abschneiden.",
+        "locator": "game-um-reifenbreite, Textstelle 56",
+        "source_sha256": "3e94b7ce9da161025701a487effd0104bea5e90e1d47da7d99894c6e3af2b96f"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-zugnetz-staedte",
+    "fact_key": "q3.e.zugnetz.staedte",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein Zielkärtchen bei „Zug um Zug“ nennt zwei entfernte Städte. Was zählt für den Auftrag, wenn meine Strecke unterwegs mehrmals abbiegt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dass das eigene Schienennetz beide Städte verbindet"
+      },
+      {
+        "id": "b",
+        "text": "Dass alle benutzten Strecken dieselbe Farbe haben"
+      },
+      {
+        "id": "c",
+        "text": "Dass jede Strecke direkt in Richtung Norden führt"
+      },
+      {
+        "id": "d",
+        "text": "Dass nur eine einzige Teilstrecke genutzt wird"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Zielkarte belohnt eine durchgehende Verbindung der angegebenen Orte. Der Verlauf darf über Zwischenstationen führen.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · zug-um-zug",
+        "url": "https://www.spiel-des-jahres.de/spiele/zug-um-zug/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Ein Zielkärtchen bei „Zug um Zug“ nennt zwei entfernte Städte. Was zählt für den Auftrag, wenn meine Strecke unterwegs mehrmals abbiegt? Dass das eigene Schienennetz beide Städte verbindet. Die Zielkarte belohnt eine durchgehende Verbindung der angegebenen Orte. Der Verlauf darf über Zwischenstationen führen.",
+        "locator": "game-zug-um-zug, Textstelle 57",
+        "source_sha256": "c04171f121aa407c83b69e28ed6d5e9aa50ea0058efce38c12d7042ed116cb90"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-bluff-wuerfel",
+    "fact_key": "q3.e.bluff.wuerfel",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Bei „Bluff“ beginnen sechs Personen jeweils mit fünf verdeckten Würfeln. In welcher Größenordnung liegt die Zahl der Würfel, über die sie gemeinsam wetten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Etwa dreihundert"
+      },
+      {
+        "id": "b",
+        "text": "Etwa dreißig"
+      },
+      {
+        "id": "c",
+        "text": "Etwa zehn"
+      },
+      {
+        "id": "d",
+        "text": "Etwa hundert"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Sechs mal fünf ergibt dreißig verdeckte Würfel. Der zusätzliche rote Würfel der beschriebenen Ausgabe markiert das Gebot auf dem Plan.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · bluff",
+        "url": "https://www.spiel-des-jahres.de/spiele/bluff/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Bei „Bluff“ beginnen sechs Personen jeweils mit fünf verdeckten Würfeln. In welcher Größenordnung liegt die Zahl der Würfel, über die sie gemeinsam wetten? Etwa dreißig. Sechs mal fünf ergibt dreißig verdeckte Würfel. Der zusätzliche rote Würfel der beschriebenen Ausgabe markiert das Gebot auf dem Plan.",
+        "locator": "game-bluff, Textstelle 56",
+        "source_sha256": "b6a73d20bf8b61976a24fac7da88c0535f7cf7ed9f3fced0c6071bebbdc1dd8b"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-sechste-karte",
+    "fact_key": "q3.e.sechste.karte",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine Reihe bei „6 nimmt!“ enthält bereits fünf Karten. Ich müsste dort die nächste Karte anlegen. Was passiert mit den fünf vorhandenen Karten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie zählen als gemeinsame Pluspunkte."
+      },
+      {
+        "id": "b",
+        "text": "Sie bleiben liegen und die Reihe wird länger."
+      },
+      {
+        "id": "c",
+        "text": "Ich muss sie als Minuspunkte nehmen."
+      },
+      {
+        "id": "d",
+        "text": "Alle Mitspielenden erhalten je eine davon."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die sechste Karte bildet den Anfang einer neuen Reihe. Die Hornochsen auf den aufgenommenen Karten bringen Minuspunkte.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Jury Spiel des Jahres · 6-nimmt",
+        "url": "https://www.spiel-des-jahres.de/spiele/6-nimmt/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Eine Reihe bei „6 nimmt!“ enthält bereits fünf Karten. Ich müsste dort die nächste Karte anlegen. Was passiert mit den fünf vorhandenen Karten? Ich muss sie als Minuspunkte nehmen. Die sechste Karte bildet den Anfang einer neuen Reihe. Die Hornochsen auf den aufgenommenen Karten bringen Minuspunkte.",
+        "locator": "game-6-nimmt, Textstelle 56",
+        "source_sha256": "bbf9f11c38ca4db25453c8e601578c7bf1f644e54b2c8dd0dae2ebc83780bf66"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-skat-abheben",
+    "fact_key": "q3.e.skat.abheben",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Vor dem Austeilen beim Skat mischt eine Person, eine andere hebt ab. Was bewirkt dieses Abheben zusätzlich zum Mischen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jede zweite Karte wird dauerhaft aus dem Spiel genommen."
+      },
+      {
+        "id": "b",
+        "text": "Die nächste Trumpffarbe wird dadurch verbindlich festgelegt."
+      },
+      {
+        "id": "c",
+        "text": "Der Geber darf sich die besten Karten auswählen."
+      },
+      {
+        "id": "d",
+        "text": "Ein Teil des Stapels wechselt als Paket seine Lage."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die internationale Skatordnung schreibt das Abheben vor. Dabei werden Teile des gemischten Stapels gegeneinander versetzt.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutscher Skatverband · Internationale Skatordnung, 2022",
+        "url": "https://dskv.de/app/uploads/sites/18/2020/08/ISkO-2022-1.pdf",
+        "checked_at": "2026-11-22T22:19:55+00:00",
+        "verified_claim": "Vor dem Austeilen beim Skat mischt eine Person, eine andere hebt ab. Was bewirkt dieses Abheben zusätzlich zum Mischen? Ein Teil des Stapels wechselt als Paket seine Lage. Die internationale Skatordnung schreibt das Abheben vor. Dabei werden Teile des gemischten Stapels gegeneinander versetzt.",
+        "locator": "skat, Textstelle 344",
+        "source_sha256": "1069aa42121170108457fdf4b583ee887dc03d0d4ea8da07e81deb09d60f6f64"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:55+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-skat-schneider",
+    "fact_key": "q3.e.skat.schneider",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Bei einem Farbspiel im Skat nennt man die Gegenpartei mit höchstens 30 Augen „Schneider“. Welches Ergebnis liegt gerade noch auf dieser Seite der Grenze?",
+    "options": [
+      {
+        "id": "a",
+        "text": "30 Augen für die Gegenpartei"
+      },
+      {
+        "id": "b",
+        "text": "31 Augen für die Gegenpartei"
+      },
+      {
+        "id": "c",
+        "text": "40 Augen für die Gegenpartei"
+      },
+      {
+        "id": "d",
+        "text": "60 Augen für die Gegenpartei"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Schwelle ist einschließlich 30 definiert. Bei 31 Augen ist die Gegenpartei aus dem Schneider.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutscher Skatverband · Internationale Skatordnung, 2022",
+        "url": "https://dskv.de/app/uploads/sites/18/2020/08/ISkO-2022-1.pdf",
+        "checked_at": "2026-11-22T22:19:55+00:00",
+        "verified_claim": "Bei einem Farbspiel im Skat nennt man die Gegenpartei mit höchstens 30 Augen „Schneider“. Welches Ergebnis liegt gerade noch auf dieser Seite der Grenze? 30 Augen für die Gegenpartei. Die Schwelle ist einschließlich 30 definiert. Bei 31 Augen ist die Gegenpartei aus dem Schneider.",
+        "locator": "skat, Textstelle 271",
+        "source_sha256": "1069aa42121170108457fdf4b583ee887dc03d0d4ea8da07e81deb09d60f6f64"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:55+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-skat-augen",
+    "fact_key": "q3.e.skat.augen",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Ein Skatblatt hat 32 Karten, aber nicht jede bringt Augen. Wie viele Augen sind in einem vollständigen Blatt insgesamt zu verteilen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rund 1.200"
+      },
+      {
+        "id": "b",
+        "text": "Rund 120"
+      },
+      {
+        "id": "c",
+        "text": "Rund 30"
+      },
+      {
+        "id": "d",
+        "text": "Rund 300"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Asse zählen elf, Zehnen zehn, die Figuren weniger. Über die vier Farben summieren sich die Werte auf 120 Augen.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutscher Skatverband · Internationale Skatordnung, 2022",
+        "url": "https://dskv.de/app/uploads/sites/18/2020/08/ISkO-2022-1.pdf",
+        "checked_at": "2026-11-22T22:19:55+00:00",
+        "verified_claim": "Ein Skatblatt hat 32 Karten, aber nicht jede bringt Augen. Wie viele Augen sind in einem vollständigen Blatt insgesamt zu verteilen? Rund 120. Asse zählen elf, Zehnen zehn, die Figuren weniger. Über die vier Farben summieren sich die Werte auf 120 Augen.",
+        "locator": "skat, Textstelle 1143",
+        "source_sha256": "1069aa42121170108457fdf4b583ee887dc03d0d4ea8da07e81deb09d60f6f64"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:55+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

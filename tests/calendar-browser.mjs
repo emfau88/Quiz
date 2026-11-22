@@ -48,8 +48,9 @@ try{
   await page.clock.setSystemTime(new Date('2026-03-29T22:03:00Z'));await playToday();
   assert.equal((await state()).sessions[monday].status,'active');
   checks.push('Zehn Jahre vorgestellte und wieder korrigierte Uhr verursacht keine Sperre der tatsächlichen Tagesrunde.');
-  await mkdir('release/qa',{recursive:true});
-  await writeFile('release/qa/kalender-browser.json',JSON.stringify({at:new Date().toISOString(),browser:browser.version(),
+  const out=process.argv[2] || 'release/qa';
+  await mkdir(out,{recursive:true});
+  await writeFile(out+'/kalender-browser.json',JSON.stringify({at:new Date().toISOString(),browser:browser.version(),
     fixture:'Kontrollierte Browseruhr und echte Intl-Zeitzonenregeln. Bedienung über die normale HTML-Oberfläche.',checks},null,2));
   console.log(checks.join('\n'));
 }finally{await browser.close();server.close();}

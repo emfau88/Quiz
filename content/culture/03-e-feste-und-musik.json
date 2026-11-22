@@ -1,0 +1,1935 @@
+[
+  {
+    "id": "q3-e-kutiyattam-augen",
+    "fact_key": "q3.e.kutiyattam.augen",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine Figur im indischen Kutiyattam-Theater soll ihre Gedanken ohne gesprochenen inneren Monolog zeigen. Worauf lenkt diese Bühnenkunst den Blick des Publikums?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auf fein wechselnde Augenbewegungen und Handgesten"
+      },
+      {
+        "id": "b",
+        "text": "Auf geschriebene Zwischentitel oberhalb der Bühne"
+      },
+      {
+        "id": "c",
+        "text": "Auf Schattenbilder hinter einer Leinwand"
+      },
+      {
+        "id": "d",
+        "text": "Auf ein zweites Ensemble, das jede Szene nachspielt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Bühnenkunst verwendet eine ausgearbeitete Sprache der Augen und Hände. Auch innere Vorgänge können so sichtbar werden.",
+    "tags": [
+      "thema_buehne",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Kutiyattam, Sanskrit theatre",
+        "url": "https://ich.unesco.org/en/RL/kutiyattam-sanskrit-theatre-00010",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Eine Figur im indischen Kutiyattam-Theater soll ihre Gedanken ohne gesprochenen inneren Monolog zeigen. Worauf lenkt diese Bühnenkunst den Blick des Publikums? Auf fein wechselnde Augenbewegungen und Handgesten. Die Bühnenkunst verwendet eine ausgearbeitete Sprache der Augen und Hände. Auch innere Vorgänge können so sichtbar werden.",
+        "locator": "i00010, Textstelle 381",
+        "source_sha256": "ff8c2204267d2aade358134cd97782d935dfa9dde5c74a119243208905feb09e"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-sizilien-impro",
+    "fact_key": "q3.e.sizilien.impro",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Im sizilianischen Puppentheater konnten dieselben Ritterabenteuer an zwei Abenden verschieden klingen. Die Spieler legten den Wortlaut erst auf der Bühne fest. Warum?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine einzige Tonplatte gab jede Silbe vor."
+      },
+      {
+        "id": "b",
+        "text": "Sie improvisierten die Dialoge."
+      },
+      {
+        "id": "c",
+        "text": "Sie spielten ausschließlich stumme Figuren."
+      },
+      {
+        "id": "d",
+        "text": "Die Rittergeschichte wurde jedes Mal rückwärts erzählt."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Opera dei Pupi schöpft unter anderem aus mittelalterlichen Rittererzählungen. Der Dialog ließ Raum für die jeweilige Vorstellung.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Opera dei Pupi, Sicilian puppet theatre",
+        "url": "https://ich.unesco.org/en/RL/opera-dei-pupi-sicilian-puppet-theatre-00011",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Im sizilianischen Puppentheater konnten dieselben Ritterabenteuer an zwei Abenden verschieden klingen. Die Spieler legten den Wortlaut erst auf der Bühne fest. Warum? Sie improvisierten die Dialoge. Die Opera dei Pupi schöpft unter anderem aus mittelalterlichen Rittererzählungen. Der Dialog ließ Raum für die jeweilige Vorstellung.",
+        "locator": "i00011, Textstelle 381",
+        "source_sha256": "c85fc698a097a94a1e14cc590d9d997cb951f61c717929407ebb203782b8686c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-wayang-ellbogen",
+    "fact_key": "q3.e.wayang.ellbogen",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine Wayang-Figur hat bewegliche Arme, an denen dünne Stäbe befestigt sind. Wie kann ein Spieler eine Handbewegung der Figur auslösen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Hintergrund aufrollen"
+      },
+      {
+        "id": "b",
+        "text": "Das Begleitlied langsamer singen"
+      },
+      {
+        "id": "c",
+        "text": "Den entsprechenden Stab führen"
+      },
+      {
+        "id": "d",
+        "text": "Nur die Helligkeit des Saals erhöhen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der Dalang bewegt die Gelenke der Figur mithilfe der Stäbe. So lässt sich eine einzelne Geste darstellen.",
+    "tags": [
+      "thema_buehne",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Wayang puppet theatre",
+        "url": "https://ich.unesco.org/en/RL/wayang-puppet-theatre-00063",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Eine Wayang-Figur hat bewegliche Arme, an denen dünne Stäbe befestigt sind. Wie kann ein Spieler eine Handbewegung der Figur auslösen? Den entsprechenden Stab führen. Der Dalang bewegt die Gelenke der Figur mithilfe der Stäbe. So lässt sich eine einzelne Geste darstellen.",
+        "locator": "i00063, Textstelle 382",
+        "source_sha256": "c1f02eb7bad3b0ad3f207fd4134d30aebf44c0d1bef7e252bb139b46f418ae0d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-bunraku-stimmen",
+    "fact_key": "q3.e.bunraku.stimmen",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Im Bunraku spricht ein Erzähler mehrere Männer- und Frauenrollen, während andere die Puppen bewegen. Woran kann man allein im Ton einen Rollenwechsel erkennen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Am sichtbaren Wechsel einer Kopfbedeckung"
+      },
+      {
+        "id": "b",
+        "text": "Am Material der Puppenfüße"
+      },
+      {
+        "id": "c",
+        "text": "An der Farbe des Bühnenvorhangs"
+      },
+      {
+        "id": "d",
+        "text": "An anderer Stimmführung und Betonung"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Tayu verwendet unterschiedliche Stimmen für Rollen und Situationen. Gesprochenes Erzählen und Figurenführung sind verteilt.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Ningyo Johruri Bunraku puppet theatre",
+        "url": "https://ich.unesco.org/en/RL/ningyo-johruri-bunraku-puppet-theatre-00064",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Im Bunraku spricht ein Erzähler mehrere Männer- und Frauenrollen, während andere die Puppen bewegen. Woran kann man allein im Ton einen Rollenwechsel erkennen? An anderer Stimmführung und Betonung. Der Tayu verwendet unterschiedliche Stimmen für Rollen und Situationen. Gesprochenes Erzählen und Figurenführung sind verteilt.",
+        "locator": "i00064, Textstelle 382",
+        "source_sha256": "c061fc540f838809c13bc66c3dc58a40cd331502c086c87b749100092ccdf83d"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-kabuki-steg",
+    "fact_key": "q3.e.kabuki.steg",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Beim Kabuki führt ein schmaler Steg von der Bühne mitten ins Publikum. Welcher Effekt wird damit bei einem Auftritt möglich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Darsteller kann sich durch die Zuschauerränge nähern."
+      },
+      {
+        "id": "b",
+        "text": "Der gesamte Saal wird zu einer geschlossenen Hinterbühne."
+      },
+      {
+        "id": "c",
+        "text": "Alle Zuschauer müssen während der Vorstellung die Plätze wechseln."
+      },
+      {
+        "id": "d",
+        "text": "Die Schauspieler bleiben grundsätzlich hinter dem Vorhang."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Hanamichi erweitert den Spielraum in Richtung Publikum. Er gehört zu den charakteristischen Bühneneinrichtungen des Kabuki.",
+    "tags": [
+      "thema_buehne",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Kabuki theatre",
+        "url": "https://ich.unesco.org/en/RL/kabuki-theatre-00163",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Beim Kabuki führt ein schmaler Steg von der Bühne mitten ins Publikum. Welcher Effekt wird damit bei einem Auftritt möglich? Ein Darsteller kann sich durch die Zuschauerränge nähern. Der Hanamichi erweitert den Spielraum in Richtung Publikum. Er gehört zu den charakteristischen Bühneneinrichtungen des Kabuki.",
+        "locator": "i00163, Textstelle 382",
+        "source_sha256": "2e221f51954b6b1979f8df4e39498adf64fe4c065f1ac0087f24c2811d0f7ce6"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-karagoez-beginn",
+    "fact_key": "q3.e.karagoez.beginn",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Zu Beginn eines Karagöz-Stücks erscheint eine einleitende Figur auf dem Schirm. Sie verschwindet mit einem Pfiff. Wo in der Vorstellung befindet man sich dann?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In einer stets stummen Pause zwischen zwei Spieltagen"
+      },
+      {
+        "id": "b",
+        "text": "Am Übergang von der Einführung zur Haupthandlung"
+      },
+      {
+        "id": "c",
+        "text": "Schon nach dem Schlussapplaus"
+      },
+      {
+        "id": "d",
+        "text": "Erst beim Bau der Figuren vor der Premiere"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Einleitungsfigur stellt auf die Themen ein. Ihr Verschwinden eröffnet die eigentliche Darbietung.",
+    "tags": [
+      "thema_buehne",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Karagöz",
+        "url": "https://ich.unesco.org/en/RL/karagoz-00180",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Zu Beginn eines Karagöz-Stücks erscheint eine einleitende Figur auf dem Schirm. Sie verschwindet mit einem Pfiff. Wo in der Vorstellung befindet man sich dann? Am Übergang von der Einführung zur Haupthandlung. Die Einleitungsfigur stellt auf die Themen ein. Ihr Verschwinden eröffnet die eigentliche Darbietung.",
+        "locator": "i00180, Textstelle 383",
+        "source_sha256": "2356c60a8c37acec56e63f6b083df6458fdd9b7b7289dbefff9abe7d9df10327"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-srilanka-rollen",
+    "fact_key": "q3.e.srilanka.rollen",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Im Rūkada Nātya aus Sri Lanka bauen Puppenspieler ihre Holzfiguren selbst und sprechen ihre Rollen. Welche Fähigkeiten kommen dabei in einer Person zusammen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur Kulissenmalerei und Beleuchtung"
+      },
+      {
+        "id": "b",
+        "text": "Eintrittskontrolle und Kartenbuchung"
+      },
+      {
+        "id": "c",
+        "text": "Handwerk und darstellerisches Spiel"
+      },
+      {
+        "id": "d",
+        "text": "Nur Schreiben und stilles Lesen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Spieler fertigen die Puppen und Skripte und führen die Szenen mit Sprache und Gesang auf. Eine kleine Musikgruppe begleitet sie.",
+    "tags": [
+      "thema_buehne",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Rūkada Nātya, traditional string puppet drama in Sri Lanka",
+        "url": "https://ich.unesco.org/en/RL/rkada-ntya-traditional-string-puppet-drama-in-sri-lanka-01370",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Im Rūkada Nātya aus Sri Lanka bauen Puppenspieler ihre Holzfiguren selbst und sprechen ihre Rollen. Welche Fähigkeiten kommen dabei in einer Person zusammen? Handwerk und darstellerisches Spiel. Die Spieler fertigen die Puppen und Skripte und führen die Szenen mit Sprache und Gesang auf. Eine kleine Musikgruppe begleitet sie.",
+        "locator": "i01370, Textstelle 384",
+        "source_sha256": "39875495d49ec73489c085ee9565c90f186f431715dcb6888ef28c814eb3f3a4"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-oruro-hoehe",
+    "fact_key": "q3.e.oruro.hoehe",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer zum Karneval nach Oruro reist, gelangt in das bolivianische Hochland. In welcher Höhenstufe findet der Umzug ungefähr statt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wenig über dem Meeresspiegel"
+      },
+      {
+        "id": "b",
+        "text": "Zwischen 400 und 600 Metern"
+      },
+      {
+        "id": "c",
+        "text": "Oberhalb von 7.000 Metern"
+      },
+      {
+        "id": "d",
+        "text": "Zwischen 3.000 und 4.000 Metern"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Oruro liegt auf rund 3.700 Metern. Der Karneval füllt die hochgelegene Bergbaustadt mit Musik und Tanz.",
+    "tags": [
+      "thema_feste_und_feiern",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Carnival of Oruro",
+        "url": "https://ich.unesco.org/en/RL/carnival-of-oruro-00003",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Wer zum Karneval nach Oruro reist, gelangt in das bolivianische Hochland. In welcher Höhenstufe findet der Umzug ungefähr statt? Zwischen 3.000 und 4.000 Metern. Oruro liegt auf rund 3.700 Metern. Der Karneval füllt die hochgelegene Bergbaustadt mit Musik und Tanz.",
+        "locator": "i00003, Textstelle 383",
+        "source_sha256": "353f66ecb3217140cbcaaccb5421ff257dc2463a0d571b9c46c4cfd9c86ce54a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-binche-kalender",
+    "fact_key": "q3.e.binche.kalender",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Der Karneval von Binche füllt die drei Tage vor der Fastenzeit. Welche Abfolge passt zu der Ankündigung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sonntag bis zum Fastnachtsdienstag"
+      },
+      {
+        "id": "b",
+        "text": "Ostersonntag bis Dienstag nach Ostern"
+      },
+      {
+        "id": "c",
+        "text": "Heiligabend bis zum zweiten Weihnachtstag"
+      },
+      {
+        "id": "d",
+        "text": "Drei Sonntage nach Pfingsten"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Höhepunkt ist der Mardi Gras, der Fastnachtsdienstag. Im belgischen Binche treten dann die Gilles auf.",
+    "tags": [
+      "thema_feste_und_feiern",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Carnival of Binche",
+        "url": "https://ich.unesco.org/en/RL/carnival-of-binche-00033",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Der Karneval von Binche füllt die drei Tage vor der Fastenzeit. Welche Abfolge passt zu der Ankündigung? Sonntag bis zum Fastnachtsdienstag. Der Höhepunkt ist der Mardi Gras, der Fastnachtsdienstag. Im belgischen Binche treten dann die Gilles auf.",
+        "locator": "i00033, Textstelle 381",
+        "source_sha256": "a3c0350988fca74099ce834436d05fe5237a417fae3212416d9d758b9fc3e2da"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-barranquilla-hafen",
+    "fact_key": "q3.e.barranquilla.hafen",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Im Karneval von Barranquilla mischen sich europäische, afrikanische und indigene Traditionen. Welche Eigenschaft der kolumbianischen Stadt begünstigte solche Begegnungen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie hatte bis vor kurzem keine Verbindung zu anderen Orten."
+      },
+      {
+        "id": "b",
+        "text": "Sie war ein Handelszentrum an der Karibikküste."
+      },
+      {
+        "id": "c",
+        "text": "Sie lag ohne Reisewege auf einer einsamen Hochfläche."
+      },
+      {
+        "id": "d",
+        "text": "Sie diente ausschließlich als verlassener Grenzposten."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Hafen- und Handelsgeschichte brachte Bevölkerungsgruppen zusammen. Das spiegelt sich bis heute in den Festformen.",
+    "tags": [
+      "thema_feste_und_feiern",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Carnival of Barranquilla",
+        "url": "https://ich.unesco.org/en/RL/carnival-of-barranquilla-00051",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Im Karneval von Barranquilla mischen sich europäische, afrikanische und indigene Traditionen. Welche Eigenschaft der kolumbianischen Stadt begünstigte solche Begegnungen? Sie war ein Handelszentrum an der Karibikküste. Die Hafen- und Handelsgeschichte brachte Bevölkerungsgruppen zusammen. Das spiegelt sich bis heute in den Festformen.",
+        "locator": "i00051, Textstelle 381",
+        "source_sha256": "48ca3ef9f8465a133915f62b9340b230c7bbd4fb64ae7f2533459ed0acef2a56"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-mohacs-jahreszeit",
+    "fact_key": "q3.e.mohacs.jahreszeit",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In Mohács ziehen Ende Februar Gestalten mit schweren Wollumhängen und furchterregenden Holzmasken umher. Welchen Jahreszeitenwechsel markiert das Busó-Fest?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Zeit der längsten Sommertage"
+      },
+      {
+        "id": "b",
+        "text": "Den Übergang zum ersten Advent"
+      },
+      {
+        "id": "c",
+        "text": "Den Abschied vom Winter"
+      },
+      {
+        "id": "d",
+        "text": "Den Beginn der Weinlese im Herbst"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der sechstägige Karneval gehört zum Ende des Winters. Maskenschnitzer und viele weitere Mitwirkende gestalten das Fest.",
+    "tags": [
+      "thema_feste_und_feiern",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Busó festivities at Mohács: masked end-of-winter carnival custom",
+        "url": "https://ich.unesco.org/en/RL/buso-festivities-at-mohacs-masked-end-of-winter-carnival-custom-00252",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "In Mohács ziehen Ende Februar Gestalten mit schweren Wollumhängen und furchterregenden Holzmasken umher. Welchen Jahreszeitenwechsel markiert das Busó-Fest? Den Abschied vom Winter. Der sechstägige Karneval gehört zum Ende des Winters. Maskenschnitzer und viele weitere Mitwirkende gestalten das Fest.",
+        "locator": "i00252, Textstelle 385",
+        "source_sha256": "22be714904f597234a11c2e8d127d04dd4d7aa8b6d6aa8266a43e4ef73aad019"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-imst-glocken",
+    "fact_key": "q3.e.imst.glocken",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Die größeren Glocken eines Tänzers beim Imster Schemenlaufen können zusammen bis zu 35 Kilogramm wiegen. Welcher Vergleich macht das Gewicht greifbar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ungefähr zwei Bücher zu je einem Kilo"
+      },
+      {
+        "id": "b",
+        "text": "Ungefähr eine volle Kaffeetasse"
+      },
+      {
+        "id": "c",
+        "text": "Ungefähr ein leerer Briefumschlag"
+      },
+      {
+        "id": "d",
+        "text": "Ungefähr zwei schwere Reisekoffer zu je 17 Kilo"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Glocken klingen bei Sprüngen und Verbeugungen. Ihre beträchtliche Last gehört zur körperlichen Herausforderung.",
+    "tags": [
+      "thema_feste_und_feiern",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Schemenlaufen, the carnival of Imst, Austria",
+        "url": "https://ich.unesco.org/en/RL/schemenlaufen-the-carnival-of-imst-austria-00726",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Die größeren Glocken eines Tänzers beim Imster Schemenlaufen können zusammen bis zu 35 Kilogramm wiegen. Welcher Vergleich macht das Gewicht greifbar? Ungefähr zwei schwere Reisekoffer zu je 17 Kilo. Die Glocken klingen bei Sprüngen und Verbeugungen. Ihre beträchtliche Last gehört zur körperlichen Herausforderung.",
+        "locator": "i00726, Textstelle 383",
+        "source_sha256": "6dbeee9b17dbccb6787ce1c9c999a05a65311e29a0b39e59be80e6ab8e64e016"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-drachenboot-luna",
+    "fact_key": "q3.e.drachenboot.luna",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Das Drachenbootfest richtet sich traditionell nach dem fünften Tag des fünften Mondmonats. Weshalb liegt es im üblichen deutschen Kalender auf wechselnden Daten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mondmonate folgen einem anderen Kalendersystem."
+      },
+      {
+        "id": "b",
+        "text": "Der Veranstaltungsort springt täglich in eine andere Zeitzone."
+      },
+      {
+        "id": "c",
+        "text": "Jedes Jahr wird der Wochentag durch Abstimmung gewählt."
+      },
+      {
+        "id": "d",
+        "text": "Man feiert nur dann, wenn der fünfte Mai ein Sonntag ist."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die gebräuchliche Datumsangabe folgt dem chinesischen Mondkalender. Sie ist nicht gleichbedeutend mit dem 5. Mai des gregorianischen Kalenders.",
+    "tags": [
+      "thema_feste_und_feiern",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Dragon Boat festival",
+        "url": "https://ich.unesco.org/en/RL/dragon-boat-festival-00225",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Das Drachenbootfest richtet sich traditionell nach dem fünften Tag des fünften Mondmonats. Weshalb liegt es im üblichen deutschen Kalender auf wechselnden Daten? Mondmonate folgen einem anderen Kalendersystem. Die gebräuchliche Datumsangabe folgt dem chinesischen Mondkalender. Sie ist nicht gleichbedeutend mit dem 5. Mai des gregorianischen Kalenders.",
+        "locator": "i00225, Textstelle 383",
+        "source_sha256": "c11b59437e8d20ffeedc6109fcd26d454de9aa990420ab0f7af0b3ed13d9cd65"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-guatemala-drachenpapier",
+    "fact_key": "q3.e.guatemala.drachenpapier",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In Guatemala soll die große Schauseite eines Festdrachens ein farbiges Bild erhalten und möglichst leicht bleiben. Welches Material wird für die Dekoration verwendet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Getrocknete geflochtene Blätter"
+      },
+      {
+        "id": "b",
+        "text": "Buntes Seidenpapier"
+      },
+      {
+        "id": "c",
+        "text": "Dünne bemalte Holztafeln"
+      },
+      {
+        "id": "d",
+        "text": "Bemalte Leinwand auf kleinen Holzrahmen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Drachenbauer gestalten die Sichtseite mit farbigem dünnem Papier. Futterseite, Fransen und Schwanz werden anschließend zusammengefügt.",
+    "tags": [
+      "thema_feste_und_feiern",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Technique of making the giant kites of Santiago Sacatepéquez and Sumpango, Guatemala",
+        "url": "https://ich.unesco.org/en/RL/technique-of-making-the-giant-kites-of-santiago-sacatepequez-and-sumpango-guatemala-01991",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "In Guatemala soll die große Schauseite eines Festdrachens ein farbiges Bild erhalten und möglichst leicht bleiben. Welches Material wird für die Dekoration verwendet? Buntes Seidenpapier. Die Drachenbauer gestalten die Sichtseite mit farbigem dünnem Papier. Futterseite, Fransen und Schwanz werden anschließend zusammengefügt.",
+        "locator": "i01991, Textstelle 389",
+        "source_sha256": "441a44b8be80da4487bf6aaaf5bd0d86b680d663a5b909ac6cb8add4f516e485"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-tango-milieu",
+    "fact_key": "q3.e.tango.milieu",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Der Tango wurde später weltberühmt. In welchem Umfeld begann seine Entwicklung, bevor er in repräsentativen Ballsälen zu hören war?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Als reine Klostermusik im antiken Rom"
+      },
+      {
+        "id": "b",
+        "text": "Als amtlicher Tanz eines einzigen Kolonialgouverneurs"
+      },
+      {
+        "id": "c",
+        "text": "In städtischen Milieus der einfachen Bevölkerung am Río de la Plata"
+      },
+      {
+        "id": "d",
+        "text": "Als exklusives Hofzeremoniell im europäischen Mittelalter"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "In den Hafenstädten kamen Einwanderer, Nachkommen versklavter Menschen und ortsansässige Gruppen zusammen. Der Tango entstand aus diesen Begegnungen.",
+    "tags": [
+      "thema_musiktraditionen",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Tango",
+        "url": "https://ich.unesco.org/en/RL/tango-00258",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Der Tango wurde später weltberühmt. In welchem Umfeld begann seine Entwicklung, bevor er in repräsentativen Ballsälen zu hören war? In städtischen Milieus der einfachen Bevölkerung am Río de la Plata. In den Hafenstädten kamen Einwanderer, Nachkommen versklavter Menschen und ortsansässige Gruppen zusammen. Der Tango entstand aus diesen Begegnungen.",
+        "locator": "i00258, Textstelle 385",
+        "source_sha256": "5e8e401534a0b6de442b590c53623cd6b423740dbbbf786280773595e7538a89"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-gagaku-ueberlieferung",
+    "fact_key": "q3.e.gagaku.ueberlieferung",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Junge Gagaku-Musiker lernen bei erfahrenen Meistern. Was verdeutlicht gegenüber der rein schriftlichen Überlieferung den Wert dieses Wegs?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Lernenden erhalten damit automatisch die Rechte am Werk."
+      },
+      {
+        "id": "b",
+        "text": "Das Stück lässt sich auf diesem Weg nur ein einziges Mal hören."
+      },
+      {
+        "id": "c",
+        "text": "Die Überlieferung bleibt selbst ohne Unterricht erhalten."
+      },
+      {
+        "id": "d",
+        "text": "Die Lernenden können die Ausführung hören und unmittelbar nachahmen."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Tradition wird von Meistern an Lernende weitergegeben. In einigen Familien reicht diese Verbindung über Generationen.",
+    "tags": [
+      "thema_musiktraditionen",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Gagaku",
+        "url": "https://ich.unesco.org/en/RL/gagaku-00265",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Junge Gagaku-Musiker lernen bei erfahrenen Meistern. Was verdeutlicht gegenüber der rein schriftlichen Überlieferung den Wert dieses Wegs? Die Lernenden können die Ausführung hören und unmittelbar nachahmen. Die Tradition wird von Meistern an Lernende weitergegeben. In einigen Familien reicht diese Verbindung über Generationen.",
+        "locator": "i00265, Textstelle 383",
+        "source_sha256": "a062ae6cb363049e9fcd9c8d7068012ca3fdacddd8d93b0fc45b609ff68eaa1a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-flamenco-klatschen",
+    "fact_key": "q3.e.flamenco.klatschen",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Hände klatschen, Füße stampfen, ein Tänzer antwortet auf die Gitarre. Welche musikalische Aufgabe erfüllen Hände und Füße dabei besonders?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie gestalten den Rhythmus hörbar mit."
+      },
+      {
+        "id": "b",
+        "text": "Sie stimmen die Gitarrensaiten höher."
+      },
+      {
+        "id": "c",
+        "text": "Sie ersetzen das gesungene Wort durch Übersetzung."
+      },
+      {
+        "id": "d",
+        "text": "Sie verändern die Tonart der Gitarre mechanisch."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Im Flamenco ergänzen Klatschen und Fußarbeit den Gesang, das Gitarrenspiel und den Tanz.",
+    "tags": [
+      "thema_musiktraditionen",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Flamenco",
+        "url": "https://ich.unesco.org/en/RL/flamenco-00363",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Hände klatschen, Füße stampfen, ein Tänzer antwortet auf die Gitarre. Welche musikalische Aufgabe erfüllen Hände und Füße dabei besonders? Sie gestalten den Rhythmus hörbar mit. Im Flamenco ergänzen Klatschen und Fußarbeit den Gesang, das Gitarrenspiel und den Tanz.",
+        "locator": "i00363, Textstelle 387",
+        "source_sha256": "7fadb215656d785d76516b62a093c4ca0b6f0cb28cbffa5beb907b87987d2784"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-irische-harfe-alter",
+    "fact_key": "q3.e.irische.harfe.alter",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Auf der Insel erklang die irische Harfe schon im Mittelalter. Welche Größenordnung nennt die UNESCO für die überlieferte Spieltradition?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mindestens hunderttausend Jahre"
+      },
+      {
+        "id": "b",
+        "text": "Über ein Jahrtausend"
+      },
+      {
+        "id": "c",
+        "text": "Erst einige Jahrzehnte"
+      },
+      {
+        "id": "d",
+        "text": "Knapp zwei Jahrhunderte"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die UNESCO nennt eine über tausendjährige Geschichte. In Mythen, Dichtung und Musik taucht die Harfe immer wieder auf.",
+    "tags": [
+      "thema_musiktraditionen",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Irish harping",
+        "url": "https://ich.unesco.org/en/RL/irish-harping-01461",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Auf der Insel erklang die irische Harfe schon im Mittelalter. Welche Größenordnung nennt die UNESCO für die überlieferte Spieltradition? Über ein Jahrtausend. Die UNESCO nennt eine über tausendjährige Geschichte. In Mythen, Dichtung und Musik taucht die Harfe immer wieder auf.",
+        "locator": "i01461, Textstelle 384",
+        "source_sha256": "89aa577e03fb0fb17ee4e636548254e158f1a13b827c174d30d7d06666567556"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-mariachi-bass",
+    "fact_key": "q3.e.mariachi.bass",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein modernes Mariachi-Ensemble braucht unter Trompeten und Geigen ein tiefes Fundament. Welches Instrument erfüllt diese Rolle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine besonders kleine Piccoloflöte"
+      },
+      {
+        "id": "b",
+        "text": "Ein Triangel ohne Tonhöhe"
+      },
+      {
+        "id": "c",
+        "text": "Das große gezupfte Guitarrón"
+      },
+      {
+        "id": "d",
+        "text": "Eine zusätzliche hohe Trompete"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das Guitarrón ist das tiefe Saiteninstrument im Ensemble. Die UNESCO nennt es neben Violinen, Trompeten und Vihuela.",
+    "tags": [
+      "thema_musiktraditionen",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Mariachi, string music, song and trumpet",
+        "url": "https://ich.unesco.org/en/RL/mariachi-string-music-song-and-trumpet-00575",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Ein modernes Mariachi-Ensemble braucht unter Trompeten und Geigen ein tiefes Fundament. Welches Instrument erfüllt diese Rolle? Das große gezupfte Guitarrón. Das Guitarrón ist das tiefe Saiteninstrument im Ensemble. Die UNESCO nennt es neben Violinen, Trompeten und Vihuela.",
+        "locator": "i00575, Textstelle 383",
+        "source_sha256": "ac5416779cc256bdb84fbe719060248c9a140a58e2962d44776b55391f88b2af"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-sega-schlag",
+    "fact_key": "q3.e.sega.schlag",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Beim Sega Tambour auf Rodrigues gibt eine Trommel dem Gesang und Tanz den Antrieb. In welcher Instrumentengruppe liegt damit der klangliche Schwerpunkt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bei den Streichern"
+      },
+      {
+        "id": "b",
+        "text": "Bei den Holzbläsern"
+      },
+      {
+        "id": "c",
+        "text": "Bei den Zungenorgeln"
+      },
+      {
+        "id": "d",
+        "text": "Bei den Schlaginstrumenten"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die führende Trommel wird kräftig geschlagen. Weitere Instrumente und rhythmisches Klatschen stützen die Darbietung.",
+    "tags": [
+      "thema_musiktraditionen",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Sega tambour of Rodrigues Island",
+        "url": "https://ich.unesco.org/en/RL/sega-tambour-of-rodrigues-island-01257",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Beim Sega Tambour auf Rodrigues gibt eine Trommel dem Gesang und Tanz den Antrieb. In welcher Instrumentengruppe liegt damit der klangliche Schwerpunkt? Bei den Schlaginstrumenten. Die führende Trommel wird kräftig geschlagen. Weitere Instrumente und rhythmisches Klatschen stützen die Darbietung.",
+        "locator": "i01257, Textstelle 385",
+        "source_sha256": "de46058010b2ec1063aa52a269d68ac47de6f73fddfa44ee66a9d329371dc87e"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-irische-harfe-zupfen",
+    "fact_key": "q3.e.irische.harfe.zupfen",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Die alte irische Drahtharfe wurde mit den Fingernägeln gespielt. Wie unterscheidet sich laut UNESCO die heute verbreitete Spielweise auf Darm- oder Nylonsaiten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Man zupft überwiegend mit den Fingerkuppen."
+      },
+      {
+        "id": "b",
+        "text": "Man streicht alle Saiten mit einem Bogen."
+      },
+      {
+        "id": "c",
+        "text": "Man schlägt jede Saite nur mit Trommelstöcken."
+      },
+      {
+        "id": "d",
+        "text": "Man bringt die Saiten ausschließlich durch Anblasen zum Schwingen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die traditionelle Drahtharfe wird weiter gepflegt. Bau und Besaitung der verbreiteten neueren Harfen begünstigen eine andere Anschlagsweise.",
+    "tags": [
+      "thema_musiktraditionen",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Irish harping",
+        "url": "https://ich.unesco.org/en/RL/irish-harping-01461",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Die alte irische Drahtharfe wurde mit den Fingernägeln gespielt. Wie unterscheidet sich laut UNESCO die heute verbreitete Spielweise auf Darm- oder Nylonsaiten? Man zupft überwiegend mit den Fingerkuppen. Die traditionelle Drahtharfe wird weiter gepflegt. Bau und Besaitung der verbreiteten neueren Harfen begünstigen eine andere Anschlagsweise.",
+        "locator": "i01461, Textstelle 384",
+        "source_sha256": "89aa577e03fb0fb17ee4e636548254e158f1a13b827c174d30d7d06666567556"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-gamelan-relief",
+    "fact_key": "q3.e.gamelan.relief",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Kein Mikrofon konnte ein Gamelan des 8. Jahrhunderts aufnehmen. Welche Spur am Borobudur belegt trotzdem die frühe indonesische Musikpraxis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Schallplatte mit der ersten Aufführung"
+      },
+      {
+        "id": "b",
+        "text": "Darstellungen der Musik in Steinreliefs"
+      },
+      {
+        "id": "c",
+        "text": "Magnetbänder aus einem Tempelarchiv"
+      },
+      {
+        "id": "d",
+        "text": "Ein gedrucktes Programmheft mit Fotografien"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Welterbezeugnis stammt aus Reliefdarstellungen. Bildquellen können eine Aufführung zeigen, auch wenn ihr Klang nicht erhalten ist.",
+    "tags": [
+      "thema_musiktraditionen",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Gamelan",
+        "url": "https://ich.unesco.org/en/RL/gamelan-01607",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Kein Mikrofon konnte ein Gamelan des 8. Jahrhunderts aufnehmen. Welche Spur am Borobudur belegt trotzdem die frühe indonesische Musikpraxis? Darstellungen der Musik in Steinreliefs. Das Welterbezeugnis stammt aus Reliefdarstellungen. Bildquellen können eine Aufführung zeigen, auch wenn ihr Klang nicht erhalten ist.",
+        "locator": "i01607, Textstelle 384",
+        "source_sha256": "a23f43a4eeb2be1a32d421e2128d8adef2f87af3f27f49c8665a2688afff493a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-capoeira-kreis",
+    "fact_key": "q3.e.capoeira.kreis",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Zwei Menschen stehen im Zentrum der Capoeira-Runde. Was tragen die übrigen im Kreis außer Zuschauen zum gemeinsamen Spiel bei?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie zählen ausschließlich die verkauften Karten."
+      },
+      {
+        "id": "b",
+        "text": "Sie verlassen während jeder Begegnung den Raum."
+      },
+      {
+        "id": "c",
+        "text": "Sie singen, klatschen und spielen Instrumente."
+      },
+      {
+        "id": "d",
+        "text": "Sie müssen bis zum Ende völlig schweigen."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die afrobrasilianische Tradition verbindet Bewegung, Rhythmus und gemeinsames Musizieren. Die Gruppe gestaltet das Geschehen mit.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Capoeira circle",
+        "url": "https://ich.unesco.org/en/RL/capoeira-circle-00892",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Zwei Menschen stehen im Zentrum der Capoeira-Runde. Was tragen die übrigen im Kreis außer Zuschauen zum gemeinsamen Spiel bei? Sie singen, klatschen und spielen Instrumente. Die afrobrasilianische Tradition verbindet Bewegung, Rhythmus und gemeinsames Musizieren. Die Gruppe gestaltet das Geschehen mit.",
+        "locator": "i00892, Textstelle 384",
+        "source_sha256": "8ed2c4ce922168db650359c1d3ec2fa30f83ecb30c9cb24be0fc1d38c2331b3e"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-hurling-schlaeger",
+    "fact_key": "q3.e.hurling.schlaeger",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Beim irischen Hurling trägt ein Spieler den flachen Holzschläger, vor ihm liegt der kleine Ball. Welche Aktion entspricht dem Ziel des Spiels?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Schläger anstelle des Balls ins Tor werfen"
+      },
+      {
+        "id": "b",
+        "text": "Den Ball ausschließlich in einen Korb über Kopfhöhe legen"
+      },
+      {
+        "id": "c",
+        "text": "Allein eine möglichst weite Strecke ohne Ziel zurücklegen"
+      },
+      {
+        "id": "d",
+        "text": "Den Ball zwischen die gegnerischen Torpfosten schlagen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Hurley bewegt den Sliotar, einen kleinen Ball. Die gegnerischen Torpfosten bestimmen die Spielrichtung.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Hurling",
+        "url": "https://ich.unesco.org/en/RL/hurling-01263",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Beim irischen Hurling trägt ein Spieler den flachen Holzschläger, vor ihm liegt der kleine Ball. Welche Aktion entspricht dem Ziel des Spiels? Den Ball zwischen die gegnerischen Torpfosten schlagen. Der Hurley bewegt den Sliotar, einen kleinen Ball. Die gegnerischen Torpfosten bestimmen die Spielrichtung.",
+        "locator": "i01263, Textstelle 384",
+        "source_sha256": "cb146ed655f3fee282d6c4a0ee6fae5d8f95095ba4e751de4f5ac03b575f9143"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-e-naadam-spielzahl",
+    "fact_key": "q3.e.naadam.spielzahl",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ringen und Pferderennen stehen beim mongolischen Naadam neben einer dritten traditionellen Disziplin. Welche passt zur Kombination ländlicher Steppenfertigkeiten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bogenschießen"
+      },
+      {
+        "id": "b",
+        "text": "Eiskunstlauf"
+      },
+      {
+        "id": "c",
+        "text": "Turmspringen"
+      },
+      {
+        "id": "d",
+        "text": "Wasserball"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Fest vereint die drei überlieferten Disziplinen im Juli. Daneben gehören Musik, Handwerk und weitere Kulturformen dazu.",
+    "tags": [
+      "thema_spiele_und_sport",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO · Immaterielles Kulturerbe · Naadam, Mongolian traditional festival",
+        "url": "https://ich.unesco.org/en/RL/naadam-mongolian-traditional-festival-00395",
+        "checked_at": "2026-11-22T22:23:45+00:00",
+        "verified_claim": "Ringen und Pferderennen stehen beim mongolischen Naadam neben einer dritten traditionellen Disziplin. Welche passt zur Kombination ländlicher Steppenfertigkeiten? Bogenschießen. Das Fest vereint die drei überlieferten Disziplinen im Juli. Daneben gehören Musik, Handwerk und weitere Kulturformen dazu.",
+        "locator": "i00395, Textstelle 384",
+        "source_sha256": "b5db952df0eb320013466ed129000387d0813eb9b9ab54c4fec12f94d61a11a5"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:23:45+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

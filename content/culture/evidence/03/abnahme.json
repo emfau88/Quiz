@@ -1,0 +1,169 @@
+{
+  "checked_at": "2026-11-22T22:51:38+00:00",
+  "files": {
+    "e-buehnenmotive": {
+      "count": 24,
+      "content_sha256": "4ef6ae05f39927fe3d4d7b80add12b7065297c7bde29697b713c7807c3ecace7"
+    },
+    "e-deutsches-kino": {
+      "count": 27,
+      "content_sha256": "ae2de0dded414e14f7cf519636a30e4c1a0fbb9c49d6f65e73d2a20cb2d3b76d"
+    },
+    "e-fernsehabend": {
+      "count": 27,
+      "content_sha256": "40e1adb341b76ccc7a2c45be0f4034d73a70e4601a88ef136416a37ef2a911a0"
+    },
+    "e-feste-und-musik": {
+      "count": 25,
+      "content_sha256": "3cd8b3bb770734d02abdee469a9a24a94ca0fa8b016ed19fb42aca04823fb75c"
+    },
+    "e-filmgeschichten": {
+      "count": 26,
+      "content_sha256": "a1b4359421871478d5003ac1380a661c801dda779f1e202590c587032b72a46c"
+    },
+    "e-medienerlebnisse": {
+      "count": 31,
+      "content_sha256": "9ef53c2bb5b62641f3000e15cb4a3373df8c1aad39f1dece734d79558d2c0a99"
+    },
+    "e-orchester": {
+      "count": 25,
+      "content_sha256": "80bd04fe354f2e43a799b16ed5b126ef749934bf7cc5a75bd61339fedae6cc78"
+    },
+    "e-popspuren": {
+      "count": 26,
+      "content_sha256": "d17aa7d3b574f02c2d1d5c8880b3348c001814af0b983fbeeae6c9bda219f44d"
+    },
+    "e-spieltisch": {
+      "count": 26,
+      "content_sha256": "144d5bdfda1e8bb43f43295ecb71f2d4f7d0f93006786888c6700117000afe7c"
+    },
+    "e-sportplatz": {
+      "count": 27,
+      "content_sha256": "d131d79087a4ec3e57e76ebc99367f59310a85b1742e741b616f934b4760fcef"
+    },
+    "e-ton-und-bild": {
+      "count": 30,
+      "content_sha256": "67acc4a217c322d8ea11625bd4f76e9d0618f99449a9a7b27745c317119fe60e"
+    },
+    "h-alltag": {
+      "count": 29,
+      "content_sha256": "1e23ee35e53914a843175990ae6c8922fa5880e7af5e74f1fa904bebee6f1e48"
+    },
+    "h-arbeit": {
+      "count": 28,
+      "content_sha256": "4c53aff9251a6eb3e6d94e64403460159a58c53a4765abb1479bf4588173ca93"
+    },
+    "h-entdeckungen": {
+      "count": 28,
+      "content_sha256": "8f48307f84a89efeb68ff340b1286984a438413e19b858fee11eb04de25a7776"
+    },
+    "h-erinnerungsalltag": {
+      "count": 30,
+      "content_sha256": "1849ed2d7600d1ef2ce764e9438fcc29ba92efc59cb492428170500f6027a244"
+    },
+    "h-europa": {
+      "count": 25,
+      "content_sha256": "22897fb2fc3e18f71b43ea2a886072e9163e290186cf93791e89cc6f43a6362f"
+    },
+    "h-menschen-und-orte": {
+      "count": 36,
+      "content_sha256": "3bd8ff43c3dd6a463f0748aa48d167f86b905e0cea4edd070397a2481faa20d2"
+    },
+    "h-neunzehntes": {
+      "count": 30,
+      "content_sha256": "d0369523a143105b08c304b760c5788988931bfb2a96081843c609701e871434"
+    },
+    "h-spuren": {
+      "count": 32,
+      "content_sha256": "38626088c56e7559802a308a0b56563420c85b3931b6361f07422885aa1b97c1"
+    },
+    "h-welt": {
+      "count": 26,
+      "content_sha256": "2ac8cbcf49ce980df6432eb47c40f5c50a05323131dadadba9c67bab68b38568"
+    },
+    "h-zwischenkriegszeit": {
+      "count": 30,
+      "content_sha256": "f01508a5a721876baac03a54d941ecbd827d7855d69a875f5d452d115612cb77"
+    }
+  },
+  "categories": {
+    "history_discoveries": {
+      "count": 294,
+      "difficulties": {
+        "easy": 176,
+        "medium": 88,
+        "hard": 30
+      },
+      "forms": {
+        "anwenden": 43,
+        "herleiten": 152,
+        "schaetzen": 48,
+        "vergleichen": 21,
+        "zeitlich_einordnen": 30
+      },
+      "topics": {
+        "arbeit_und_wirtschaft": 43,
+        "archaeologie": 12,
+        "bildung_und_soziales": 8,
+        "demokratiegeschichte": 9,
+        "deutsche_teilung": 10,
+        "entdeckungsgeschichte": 13,
+        "europaeische_geschichte": 10,
+        "europageschichte": 25,
+        "fruehe_wissenschaft": 8,
+        "handel_und_reisen": 7,
+        "hilfe_und_menschenrechte": 15,
+        "nachkriegsgeschichte": 13,
+        "raumfahrtgeschichte": 18,
+        "stadtkultur": 6,
+        "wege_und_verkehr": 21,
+        "weltgeschichte": 72,
+        "wissenschaft_und_entdeckung": 4
+      },
+      "tagesraetsel": 152
+    },
+    "entertainment": {
+      "count": 294,
+      "difficulties": {
+        "easy": 176,
+        "medium": 88,
+        "hard": 30
+      },
+      "forms": {
+        "anwenden": 79,
+        "herleiten": 118,
+        "schaetzen": 38,
+        "vergleichen": 41,
+        "zeitlich_einordnen": 18
+      },
+      "topics": {
+        "buehne": 34,
+        "fernsehen": 22,
+        "fernsehgeschichte": 11,
+        "feste_und_feiern": 7,
+        "filmgeschichte": 30,
+        "filmgeschichten": 50,
+        "gesellschaftsspiele": 26,
+        "musikgeschichte": 26,
+        "musikinstrumente": 25,
+        "musikmedien": 14,
+        "musiktraditionen": 8,
+        "popmusik": 2,
+        "spiele_und_sport": 30,
+        "sportmedien": 9
+      },
+      "tagesraetsel": 118
+    }
+  },
+  "count": 588,
+  "source_keys": 349,
+  "distinct_source_urls": 270,
+  "factual_review_utc": [
+    "2026-11-22T21:29:30+00:00",
+    "2026-11-22T22:25:52+00:00"
+  ],
+  "editorial_release_utc": [
+    "2026-11-22T22:26:06+00:00",
+    "2026-11-22T22:26:06+00:00"
+  ]
+}

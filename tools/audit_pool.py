@@ -2,6 +2,7 @@
 from collections import Counter
 import json
 from pathlib import Path
+import subprocess
 from zipfile import ZipFile
 
 from catalog import read, distribution, LEVELS, require
@@ -30,6 +31,9 @@ def main():
         before = json.loads(archive.read("catalog.json"))
     require(before["version"] == "de-7363fcba52a1", "Unerwartete Ausgangsversion")
     current = read(ROOT / "web/data/catalog.json")
+    if current["version"] != "de-03c46c2cd256":
+        current = json.loads(subprocess.check_output(
+            ["git", "show", "17e88f2d46c72ff1aa2128749757e1be453b550b:web/data/catalog.json"], cwd=ROOT))
     old, active = indexed(before["questions"]), indexed(current["questions"])
     initial = indexed(read(QA / "klassifikation-ausgang.json")["questions"])
     require(set(old) == set(initial), "Ausgangsraster unvollständig")

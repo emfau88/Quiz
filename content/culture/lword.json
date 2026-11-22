@@ -1849,7 +1849,7 @@
     "fact_key": "cldr.fr.relative.-1",
     "category": "language_culture",
     "difficulty": "easy",
-    "question": "Was bedeutet „hier“ im Französischen?",
+    "question": "„Aujourd’hui“ ist heute. Eine französische Chronik beschreibt denselben Besuch am folgenden Tag mit „hier“. Welcher Zeitpunkt ist jetzt aus Sicht des Schreibers gemeint?",
     "options": [
       {
         "id": "a",
@@ -1872,9 +1872,9 @@
     "explanation": "„hier“ ist im Französischen die Bezeichnung für „gestern“.",
     "tags": [
       "thema_fremdsprachen",
-      "form_wiedererkennen"
+      "form_zeitlich_einordnen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1890,28 +1890,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
-        "at": "2026-11-22T18:43:00.903+00:00",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
+        "at": "2026-11-22T21:49:26.305828+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
-        "at": "2026-11-22T18:44:38.609+00:00",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
+        "at": "2026-11-22T21:49:38.385498+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.385510+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2368,7 +2368,7 @@
     "fact_key": "cldr.es.unit.duration-second",
     "category": "language_culture",
     "difficulty": "easy",
-    "question": "Welche Zeiteinheit bezeichnet „segundos“ im Spanischen?",
+    "question": "In einem spanischen Kochvideo laufen die „segundos“ auf der Uhr von 30 auf 0, während eine halbe Minute verstreicht. Welche Einheit zählt die Anzeige?",
     "options": [
       {
         "id": "a",
@@ -2391,9 +2391,9 @@
     "explanation": "„segundos“ ist im Spanischen die Bezeichnung für „Sekunden“.",
     "tags": [
       "thema_fremdsprachen",
-      "form_wiedererkennen"
+      "form_anwenden"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2409,28 +2409,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
-        "at": "2026-11-22T18:43:00.903+00:00",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
+        "at": "2026-11-22T21:49:26.305875+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
-        "at": "2026-11-22T18:44:38.609+00:00",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
+        "at": "2026-11-22T21:49:38.385526+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.385529+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },

@@ -1,0 +1,2336 @@
+[
+  {
+    "id": "q3-h-wiener-neuordnung",
+    "fact_key": "q3.h.wiener.neuordnung",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In Wien verhandelten europäische Mächte 1815 über Grenzen und die Verteilung von Gebieten. Welches Ereignis machte diese Neuordnung nötig?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Ende von Napoleons Vorherrschaft"
+      },
+      {
+        "id": "b",
+        "text": "Der Ausbruch des Ersten Weltkriegs"
+      },
+      {
+        "id": "c",
+        "text": "Die Auflösung der Sowjetunion"
+      },
+      {
+        "id": "d",
+        "text": "Die Gründung des Deutschen Zollvereins"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Verhandlungen begannen 1814. Auf die napoleonischen Kriege folgte eine neue politische Ordnung Europas.",
+    "tags": [
+      "thema_europaeische_geschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1815",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1815.html",
+        "checked_at": "2026-11-22T22:25:01+00:00",
+        "verified_claim": "In Wien verhandelten europäische Mächte 1815 über Grenzen und die Verteilung von Gebieten. Welches Ereignis machte diese Neuordnung nötig? Das Ende von Napoleons Vorherrschaft. Die Verhandlungen begannen 1814. Auf die napoleonischen Kriege folgte eine neue politische Ordnung Europas.",
+        "locator": "dh1815, Textstelle 38",
+        "source_sha256": "53be760ddc4d4b4c9c111bdac5ece21909e98e83f0d02397902433f26d9cde26"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-elba-rueckkehr",
+    "fact_key": "q3.h.elba.rueckkehr",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Napoleon landete 1815 bei Cannes und zog wieder nach Paris. Woher kehrte er unmittelbar vor dieser kurzen Phase erneuter Herrschaft zurück?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Von der Krönung zum Kaiser in Paris"
+      },
+      {
+        "id": "b",
+        "text": "Aus der Verbannung auf Elba"
+      },
+      {
+        "id": "c",
+        "text": "Von seinem Russlandfeldzug"
+      },
+      {
+        "id": "d",
+        "text": "Aus seinem letzten Exil auf St. Helena"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Fahrt von Elba leitete Napoleons Rückkehr an die Macht ein. St. Helena wurde erst später sein letzter Verbannungsort.",
+    "tags": [
+      "thema_europaeische_geschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1815",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1815.html",
+        "checked_at": "2026-11-22T22:25:01+00:00",
+        "verified_claim": "Napoleon landete 1815 bei Cannes und zog wieder nach Paris. Woher kehrte er unmittelbar vor dieser kurzen Phase erneuter Herrschaft zurück? Aus der Verbannung auf Elba. Die Fahrt von Elba leitete Napoleons Rückkehr an die Macht ein. St. Helena wurde erst später sein letzter Verbannungsort.",
+        "locator": "dh1815, Textstelle 43",
+        "source_sha256": "53be760ddc4d4b4c9c111bdac5ece21909e98e83f0d02397902433f26d9cde26"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-tambora-ernte",
+    "fact_key": "q3.h.tambora.ernte",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Nach dem Ausbruch des Tambora in Indonesien wurde das Wetter sogar in Europa ungewöhnlich. Welche Not konnte eine Folge für europäische Bauern sein?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lavaströme vom indonesischen Vulkan bis nach Europa"
+      },
+      {
+        "id": "b",
+        "text": "Ein für alle Produkte vorgeschriebener neuer Erntetermin"
+      },
+      {
+        "id": "c",
+        "text": "Missernten infolge veränderter Witterung"
+      },
+      {
+        "id": "d",
+        "text": "Salzwasser aus dem Krater auf ihren Feldern"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der Ausbruch von 1815 beeinflusste das Klima. Seine Folgen reichten weit über die unmittelbare Umgebung des Vulkans hinaus.",
+    "tags": [
+      "thema_europaeische_geschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1815",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1815.html",
+        "checked_at": "2026-11-22T22:25:01+00:00",
+        "verified_claim": "Nach dem Ausbruch des Tambora in Indonesien wurde das Wetter sogar in Europa ungewöhnlich. Welche Not konnte eine Folge für europäische Bauern sein? Missernten infolge veränderter Witterung. Der Ausbruch von 1815 beeinflusste das Klima. Seine Folgen reichten weit über die unmittelbare Umgebung des Vulkans hinaus.",
+        "locator": "dh1815, Textstelle 46",
+        "source_sha256": "53be760ddc4d4b4c9c111bdac5ece21909e98e83f0d02397902433f26d9cde26"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-niederlande-vereint",
+    "fact_key": "q3.h.niederlande.vereint",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Ein niederländischer Atlas von 1816 zeigt Brüssel und Amsterdam im selben Königreich. Welche frühere Entscheidung erklärt das?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Belgien war gerade der Europäischen Gemeinschaft beigetreten."
+      },
+      {
+        "id": "b",
+        "text": "Frankreich hatte die niederländische Krone übernommen."
+      },
+      {
+        "id": "c",
+        "text": "Beide Städte waren zeitgleich zu freien Reichsstädten erklärt worden."
+      },
+      {
+        "id": "d",
+        "text": "Der Wiener Kongress vereinte nördliche und südliche Niederlande."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Beschluss verband den Norden mit Gebieten des heutigen Belgien. Die Grenzen des Königreichs unterschieden sich von heutigen Staatsgrenzen.",
+    "tags": [
+      "thema_europaeische_geschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1815",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1815.html",
+        "checked_at": "2026-11-22T22:25:01+00:00",
+        "verified_claim": "Ein niederländischer Atlas von 1816 zeigt Brüssel und Amsterdam im selben Königreich. Welche frühere Entscheidung erklärt das? Der Wiener Kongress vereinte nördliche und südliche Niederlande. Der Beschluss verband den Norden mit Gebieten des heutigen Belgien. Die Grenzen des Königreichs unterschieden sich von heutigen Staatsgrenzen.",
+        "locator": "dh1815, Textstelle 44",
+        "source_sha256": "53be760ddc4d4b4c9c111bdac5ece21909e98e83f0d02397902433f26d9cde26"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-bundesfarben",
+    "fact_key": "q3.h.bundesfarben",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Für eine öffentliche Kundgebung 1848 wird ein Band in den eben anerkannten deutschen Nationalfarben bestellt. Welche Farbreihenfolge passt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schwarz, Rot, Gold"
+      },
+      {
+        "id": "b",
+        "text": "Schwarz, Weiß, Rot"
+      },
+      {
+        "id": "c",
+        "text": "Rot, Weiß, Blau"
+      },
+      {
+        "id": "d",
+        "text": "Grün, Weiß, Rot"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Frankfurter Bundestag erklärte Schwarz-Rot-Gold im März 1848 zu den deutschen Nationalfarben.",
+    "tags": [
+      "thema_europaeische_geschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1848",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1848.html",
+        "checked_at": "2026-11-22T22:25:01+00:00",
+        "verified_claim": "Für eine öffentliche Kundgebung 1848 wird ein Band in den eben anerkannten deutschen Nationalfarben bestellt. Welche Farbreihenfolge passt? Schwarz, Rot, Gold. Der Frankfurter Bundestag erklärte Schwarz-Rot-Gold im März 1848 zu den deutschen Nationalfarben.",
+        "locator": "dh1848, Textstelle 52",
+        "source_sha256": "84e89bce69e13458e5ff9a35be2e6153a748552a757719545eb587baa939ce10"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-maerz-zeitung",
+    "fact_key": "q3.h.maerz.zeitung",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Ein Zeitungsmacher möchte 1848 einen politischen Artikel ohne vorherige staatliche Genehmigung drucken. Welche Märzforderung betrifft seinen Alltag?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Allgemeine Freizügigkeit auf Flüssen"
+      },
+      {
+        "id": "b",
+        "text": "Pressefreiheit"
+      },
+      {
+        "id": "c",
+        "text": "Zollfreiheit"
+      },
+      {
+        "id": "d",
+        "text": "Freie Berufswahl für Richter"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Aufhebung der Pressezensur gehörte zu den Forderungen der Revolution. Der Frankfurter Bundestag veranlasste sie im März.",
+    "tags": [
+      "thema_europaeische_geschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1848",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1848.html",
+        "checked_at": "2026-11-22T22:25:01+00:00",
+        "verified_claim": "Ein Zeitungsmacher möchte 1848 einen politischen Artikel ohne vorherige staatliche Genehmigung drucken. Welche Märzforderung betrifft seinen Alltag? Pressefreiheit. Die Aufhebung der Pressezensur gehörte zu den Forderungen der Revolution. Der Frankfurter Bundestag veranlasste sie im März.",
+        "locator": "dh1848, Textstelle 49",
+        "source_sha256": "84e89bce69e13458e5ff9a35be2e6153a748552a757719545eb587baa939ce10"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-frauenz-oeffentlichkeit",
+    "fact_key": "q3.h.frauenz.oeffentlichkeit",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Louise Otto-Peters brachte 1849 eine Frauen-Zeitung für Leserinnen in verschiedenen Regionen heraus. Welchen Austausch machte das einfacher?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Hochschulzeugnis ohne Studium ausstellen"
+      },
+      {
+        "id": "b",
+        "text": "Eine gesetzliche Regelung unmittelbar in Kraft setzen"
+      },
+      {
+        "id": "c",
+        "text": "Frauenrechte über den eigenen Wohnort hinaus diskutieren"
+      },
+      {
+        "id": "d",
+        "text": "Wahlstimmen ohne Wahlurne übertragen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das eigene überregionale Blatt schuf Öffentlichkeit für Anliegen von Frauen. Zwischen publizistischer Debatte und Gesetzgebung lag ein großer Unterschied.",
+    "tags": [
+      "thema_europaeische_geschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1849",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1849.html",
+        "checked_at": "2026-11-22T22:25:01+00:00",
+        "verified_claim": "Louise Otto-Peters brachte 1849 eine Frauen-Zeitung für Leserinnen in verschiedenen Regionen heraus. Welchen Austausch machte das einfacher? Frauenrechte über den eigenen Wohnort hinaus diskutieren. Das eigene überregionale Blatt schuf Öffentlichkeit für Anliegen von Frauen. Zwischen publizistischer Debatte und Gesetzgebung lag ein großer Unterschied.",
+        "locator": "dh1849, Textstelle 60",
+        "source_sha256": "d89f3aac9dc9dd358100b498bf80c8688e2045b6cb75eda152e7feac9b95198a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-verfassungs-zaehlen",
+    "fact_key": "q3.h.verfassungs.zaehlen",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Die Frankfurter Versammlung wählte 1849 den preußischen König mit 290 Stimmen bei 248 Enthaltungen und 20 Gegenstimmen. Welcher Anteil der 558 Stimmen war dafür?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kaum ein Viertel"
+      },
+      {
+        "id": "b",
+        "text": "Knapp neun Zehntel"
+      },
+      {
+        "id": "c",
+        "text": "Genau ein Drittel"
+      },
+      {
+        "id": "d",
+        "text": "Etwas mehr als die Hälfte"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "290 von 558 entsprechen rund 52 Prozent. Die vielen Enthaltungen erklären die knappe absolute Mehrheit.",
+    "tags": [
+      "thema_europaeische_geschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1849",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1849.html",
+        "checked_at": "2026-11-22T22:25:01+00:00",
+        "verified_claim": "Die Frankfurter Versammlung wählte 1849 den preußischen König mit 290 Stimmen bei 248 Enthaltungen und 20 Gegenstimmen. Welcher Anteil der 558 Stimmen war dafür? Etwas mehr als die Hälfte. 290 von 558 entsprechen rund 52 Prozent. Die vielen Enthaltungen erklären die knappe absolute Mehrheit.",
+        "locator": "dh1849, Textstelle 50",
+        "source_sha256": "d89f3aac9dc9dd358100b498bf80c8688e2045b6cb75eda152e7feac9b95198a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-mark-und-pfennig",
+    "fact_key": "q3.h.mark.und.pfennig",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1871 stand neben alten Talern plötzlich die neue Mark zu 100 Pfennig. Was zeigt das Nebeneinander auf damaligen Preislisten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Umstellung der Währungen geschah nicht an einem einzigen Tag."
+      },
+      {
+        "id": "b",
+        "text": "Jeder Pfennig war so viel wert wie hundert Mark."
+      },
+      {
+        "id": "c",
+        "text": "Alle Landeswährungen waren schon vor der Mark abgeschafft."
+      },
+      {
+        "id": "d",
+        "text": "Mark und Pfennig waren zwei voneinander unabhängige Landeswährungen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Mark wurde eingeführt, während die bisherigen Landeswährungen zunächst noch galten.",
+    "tags": [
+      "thema_europaeische_geschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1871",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1871.html",
+        "checked_at": "2026-11-22T22:25:01+00:00",
+        "verified_claim": "1871 stand neben alten Talern plötzlich die neue Mark zu 100 Pfennig. Was zeigt das Nebeneinander auf damaligen Preislisten? Die Umstellung der Währungen geschah nicht an einem einzigen Tag. Die Mark wurde eingeführt, während die bisherigen Landeswährungen zunächst noch galten.",
+        "locator": "dh1871, Textstelle 111",
+        "source_sha256": "1f6191bac58f2e22faa71200a2c8e215e6d48508ce42081465880aa61cfe26d0"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-rumaenien-oberhoheit",
+    "fact_key": "q3.h.rumaenien.oberhoheit",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Rumänien proklamierte 1878 seine Unabhängigkeit, der Berliner Kongress bestätigte sie. Welche Beziehung endete damit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die gemeinsame Regierung mit Schweden"
+      },
+      {
+        "id": "b",
+        "text": "Die Zugehörigkeit zur osmanischen Oberhoheit"
+      },
+      {
+        "id": "c",
+        "text": "Die Mitgliedschaft in der Europäischen Union"
+      },
+      {
+        "id": "d",
+        "text": "Die Zugehörigkeit zum britischen Kolonialreich"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Rumänien wurde als unabhängiger Staat anerkannt. Auch die Grenzen und der Status anderer Balkangebiete waren Gegenstand des Kongresses.",
+    "tags": [
+      "thema_europaeische_geschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1878",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1878.html",
+        "checked_at": "2026-11-22T22:25:01+00:00",
+        "verified_claim": "Rumänien proklamierte 1878 seine Unabhängigkeit, der Berliner Kongress bestätigte sie. Welche Beziehung endete damit? Die Zugehörigkeit zur osmanischen Oberhoheit. Rumänien wurde als unabhängiger Staat anerkannt. Auch die Grenzen und der Status anderer Balkangebiete waren Gegenstand des Kongresses.",
+        "locator": "dh1878, Textstelle 78",
+        "source_sha256": "3049814619ad337c5b3a83f119840adef350dc22439afc36b87c52f797c13984"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-fabrikaufsicht",
+    "fact_key": "q3.h.fabrikaufsicht",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Eine Arbeiterschutzregel von 1878 führte staatliche Fabrikinspektoren verbindlich ein. Warum genügte es dem Staat nicht, den Schutz nur aufs Papier zu schreiben?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jeder Beschäftigte sollte zugleich staatlicher Beamter werden."
+      },
+      {
+        "id": "b",
+        "text": "Die Fabrikräume sollten nur noch für Behörden reserviert sein."
+      },
+      {
+        "id": "c",
+        "text": "Jemand musste die Einhaltung vor Ort kontrollieren."
+      },
+      {
+        "id": "d",
+        "text": "Alle Fabriken sollten dadurch dieselben Produkte herstellen."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Novelle verankerte die obligatorische Fabrikaufsicht. Damit entstand ein Mittel zur Kontrolle der Arbeitsbedingungen.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1878",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1878.html",
+        "checked_at": "2026-11-22T22:25:01+00:00",
+        "verified_claim": "Eine Arbeiterschutzregel von 1878 führte staatliche Fabrikinspektoren verbindlich ein. Warum genügte es dem Staat nicht, den Schutz nur aufs Papier zu schreiben? Jemand musste die Einhaltung vor Ort kontrollieren. Die Novelle verankerte die obligatorische Fabrikaufsicht. Damit entstand ein Mittel zur Kontrolle der Arbeitsbedingungen.",
+        "locator": "dh1878, Textstelle 81",
+        "source_sha256": "3049814619ad337c5b3a83f119840adef350dc22439afc36b87c52f797c13984"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-krakatau-meer",
+    "fact_key": "q3.h.krakatau.meer",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1883 brach Krakatau zwischen Sumatra und Java aus, große Teile der Insel stürzten ins Meer. Welche Gefahr bedrohte dadurch auch entfernte Küsten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Lawine aus Alpengletschern"
+      },
+      {
+        "id": "b",
+        "text": "Eine Landabsenkung im gesamten Himalaja"
+      },
+      {
+        "id": "c",
+        "text": "Ein plötzliches Zufrieren des tropischen Ozeans"
+      },
+      {
+        "id": "d",
+        "text": "Hohe Flutwellen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Einsturz löste gewaltige Flutwellen aus. Sie trafen Küsten der benachbarten indonesischen Inseln.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1883",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1883.html",
+        "checked_at": "2026-11-22T22:25:01+00:00",
+        "verified_claim": "1883 brach Krakatau zwischen Sumatra und Java aus, große Teile der Insel stürzten ins Meer. Welche Gefahr bedrohte dadurch auch entfernte Küsten? Hohe Flutwellen. Der Einsturz löste gewaltige Flutwellen aus. Sie trafen Küsten der benachbarten indonesischen Inseln.",
+        "locator": "dh1883, Textstelle 71",
+        "source_sha256": "f1c860f20510a4744ac0a43b7c67a1d067e9914c19774471ff40da385da3c8a7"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-aege-name",
+    "fact_key": "q3.h.aege.name",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Aus Rathenaus Deutscher Edison-Gesellschaft wurde 1887 die AEG. Welches Geschäftsfeld verrät der ausgeschriebene Name?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Elektrotechnik"
+      },
+      {
+        "id": "b",
+        "text": "Eisenbahn-Gastronomie"
+      },
+      {
+        "id": "c",
+        "text": "Getreidehandel"
+      },
+      {
+        "id": "d",
+        "text": "Textilfärberei"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "AEG steht historisch für Allgemeine Elektricitäts-Gesellschaft. Rathenau hatte die Vorgängergesellschaft 1883 in Berlin gegründet.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1883",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1883.html",
+        "checked_at": "2026-11-22T22:25:01+00:00",
+        "verified_claim": "Aus Rathenaus Deutscher Edison-Gesellschaft wurde 1887 die AEG. Welches Geschäftsfeld verrät der ausgeschriebene Name? Elektrotechnik. AEG steht historisch für Allgemeine Elektricitäts-Gesellschaft. Rathenau hatte die Vorgängergesellschaft 1883 in Berlin gegründet.",
+        "locator": "dh1883, Textstelle 51",
+        "source_sha256": "f1c860f20510a4744ac0a43b7c67a1d067e9914c19774471ff40da385da3c8a7"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:01+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-arbeitsfelder-anteil",
+    "fact_key": "q3.h.arbeitsfelder.anteil",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "1895 zählte die Berufsstatistik 20 Millionen Industriearbeiter, vier Millionen mehr als 1882. Um welchen Anteil der früheren Zahl war die Gruppe gewachsen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Um das Doppelte"
+      },
+      {
+        "id": "b",
+        "text": "Um ein Viertel"
+      },
+      {
+        "id": "c",
+        "text": "Um ein Fünftel"
+      },
+      {
+        "id": "d",
+        "text": "Um die Hälfte"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Vor dem Anstieg waren es 16 Millionen. Vier Millionen mehr entsprechen einem Viertel der früheren Zahl.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1895",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1895.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "1895 zählte die Berufsstatistik 20 Millionen Industriearbeiter, vier Millionen mehr als 1882. Um welchen Anteil der früheren Zahl war die Gruppe gewachsen? Um ein Viertel. Vor dem Anstieg waren es 16 Millionen. Vier Millionen mehr entsprechen einem Viertel der früheren Zahl.",
+        "locator": "dh1895, Textstelle 66",
+        "source_sha256": "02f576e4ddb8bde5c42132699e542c68378b6e1ff8697fba2c2ccd26b00368d5"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-bergbau-obligat",
+    "fact_key": "q3.h.bergbau.obligat",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Ein österreichisches Gesetz nannte 1888 die Arbeiterkrankenversicherung „obligat“. Was galt damit für erfasste Berg- und Industriearbeiter?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur freiwillige Feierabendvereine waren erfasst."
+      },
+      {
+        "id": "b",
+        "text": "Der Abschluss war erst im Ruhestand möglich."
+      },
+      {
+        "id": "c",
+        "text": "Die Mitgliedschaft war vorgeschrieben."
+      },
+      {
+        "id": "d",
+        "text": "Jeder Betrieb durfte frei entscheiden."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "„Obligat“ bedeutet verpflichtend. Das Gesetz erfasste unter anderem Arbeiter in Bergwerken und Industriebetrieben.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1888",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1888.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "Ein österreichisches Gesetz nannte 1888 die Arbeiterkrankenversicherung „obligat“. Was galt damit für erfasste Berg- und Industriearbeiter? Die Mitgliedschaft war vorgeschrieben. „Obligat“ bedeutet verpflichtend. Das Gesetz erfasste unter anderem Arbeiter in Bergwerken und Industriebetrieben.",
+        "locator": "dh1888, Textstelle 52",
+        "source_sha256": "4f3d7ea4719f0e1b91f354a488bdcebd2bb35fd35345d1fa67e4787245d6384b"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-schulgeld-wohnort",
+    "fact_key": "q3.h.schulgeld.wohnort",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Ein Kind besucht 1888 die Volksschule an seinem Wohnort. Welche Ausgabe konnte seine Familie nach dem neuen Reichsgesetz streichen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Preis für jedes Paar Schuhe"
+      },
+      {
+        "id": "b",
+        "text": "Alle Kosten für Mahlzeiten"
+      },
+      {
+        "id": "c",
+        "text": "Die Miete für die Familienwohnung"
+      },
+      {
+        "id": "d",
+        "text": "Das Schulgeld für diesen Besuch"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Regel beseitigte das Schulgeld für Kinder, die am Wohnort zur Volksschule gingen.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1888",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1888.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "Ein Kind besucht 1888 die Volksschule an seinem Wohnort. Welche Ausgabe konnte seine Familie nach dem neuen Reichsgesetz streichen? Das Schulgeld für diesen Besuch. Die Regel beseitigte das Schulgeld für Kinder, die am Wohnort zur Volksschule gingen.",
+        "locator": "dh1888, Textstelle 68",
+        "source_sha256": "4f3d7ea4719f0e1b91f354a488bdcebd2bb35fd35345d1fa67e4787245d6384b"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-frauen-studium",
+    "fact_key": "q3.h.frauen.studium",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Hedwig Kettlers Frauenverein „Reform“ warb 1888 für Frauenstudium. Welche Maßnahme hätte sein Ziel direkter gefördert als eine zusätzliche Mädchenvolksschule?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Frauen den Zugang zu Vorlesungen und Abschlüssen an Hochschulen eröffnen"
+      },
+      {
+        "id": "b",
+        "text": "Die Zahl der Grundschulplätze für Sechsjährige erhöhen"
+      },
+      {
+        "id": "c",
+        "text": "Mehr Lehrstellen allein für den Verkauf im örtlichen Handel anbieten"
+      },
+      {
+        "id": "d",
+        "text": "Haushaltsunterricht nach der Volksschule verlängern"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der in Weimar gegründete Verein trat für Bildungswege ein, die Frauen den Zugang zum Studium eröffnen sollten.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1888",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1888.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "Hedwig Kettlers Frauenverein „Reform“ warb 1888 für Frauenstudium. Welche Maßnahme hätte sein Ziel direkter gefördert als eine zusätzliche Mädchenvolksschule? Frauen den Zugang zu Vorlesungen und Abschlüssen an Hochschulen eröffnen. Der in Weimar gegründete Verein trat für Bildungswege ein, die Frauen den Zugang zum Studium eröffnen sollten.",
+        "locator": "dh1888, Textstelle 53",
+        "source_sha256": "4f3d7ea4719f0e1b91f354a488bdcebd2bb35fd35345d1fa67e4787245d6384b"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-warenhaus-steuer",
+    "fact_key": "q3.h.warenhaus.steuer",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Württemberg diskutierte 1903 eine besondere Steuer für die neu aufkommenden Warenhäuser. Wem sollte diese unterschiedliche Belastung im Wettbewerb helfen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Anteilseignern der Eisenbahnen"
+      },
+      {
+        "id": "b",
+        "text": "Kleineren Einzelhändlern"
+      },
+      {
+        "id": "c",
+        "text": "Den besteuerten Warenhausketten allein"
+      },
+      {
+        "id": "d",
+        "text": "Den Betreibern von Bergwerken"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Vorschlag zielte auf den Schutz des Kleinhandels. Große Warenhäuser veränderten das Einkaufen in den Städten.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1903",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1903.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "Württemberg diskutierte 1903 eine besondere Steuer für die neu aufkommenden Warenhäuser. Wem sollte diese unterschiedliche Belastung im Wettbewerb helfen? Kleineren Einzelhändlern. Der Vorschlag zielte auf den Schutz des Kleinhandels. Große Warenhäuser veränderten das Einkaufen in den Städten.",
+        "locator": "dh1903, Textstelle 81",
+        "source_sha256": "0ba3d466fb2905e84034349b6cf6a60c8de46778a1ac6118edd3ad5b4e968f92"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-bruessel-mechelen",
+    "fact_key": "q3.h.bruessel.mechelen",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1835 verband eine belgische Dampfeisenbahn Brüssel und Mechelen. Was unterschied eine solche Reise von der Fahrt in der Postkutsche am klarsten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Straßenkutsche nutzte nun dieselbe Fahrspur aus Eisen."
+      },
+      {
+        "id": "b",
+        "text": "Die Strecke konnte nur bei günstigem Segelwind fahren."
+      },
+      {
+        "id": "c",
+        "text": "Ein Zug fuhr auf Schienen und wurde maschinell gezogen."
+      },
+      {
+        "id": "d",
+        "text": "Die Reisenden mussten selbst die Räder antreiben."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die neue Verkehrsverbindung gehörte zu den frühen Dampfeisenbahnen auf dem europäischen Festland.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1835",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1835.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "1835 verband eine belgische Dampfeisenbahn Brüssel und Mechelen. Was unterschied eine solche Reise von der Fahrt in der Postkutsche am klarsten? Ein Zug fuhr auf Schienen und wurde maschinell gezogen. Die neue Verkehrsverbindung gehörte zu den frühen Dampfeisenbahnen auf dem europäischen Festland.",
+        "locator": "dh1835, Textstelle 44",
+        "source_sha256": "8be26f65bb6cba07ff30261b5671570d4c02782ffa3fb07b60071b3ce642dbc2"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-vega-nordost",
+    "fact_key": "q3.h.vega.nordost",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Die „Vega“ brach 1878 von Tromsø zur Nordostpassage auf. An welcher Seite Eurasiens musste das Schiff dafür entlangfahren?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Durch das Mittelmeer nach Gibraltar"
+      },
+      {
+        "id": "b",
+        "text": "An der afrikanischen Westküste Richtung Kap der Guten Hoffnung"
+      },
+      {
+        "id": "c",
+        "text": "Vom Ärmelkanal direkt nach Nordamerika"
+      },
+      {
+        "id": "d",
+        "text": "An der arktischen Küste Richtung Pazifik"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der schwedische Polarforscher Nordenskjöld suchte den Seeweg im Norden Eurasiens bis zum Pazifik.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1878",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1878.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "Die „Vega“ brach 1878 von Tromsø zur Nordostpassage auf. An welcher Seite Eurasiens musste das Schiff dafür entlangfahren? An der arktischen Küste Richtung Pazifik. Der schwedische Polarforscher Nordenskjöld suchte den Seeweg im Norden Eurasiens bis zum Pazifik.",
+        "locator": "dh1878, Textstelle 83",
+        "source_sha256": "3049814619ad337c5b3a83f119840adef350dc22439afc36b87c52f797c13984"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-omnibus-siegen",
+    "fact_key": "q3.h.omnibus.siegen",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Der Benzinbus bei Siegen fuhr 1895 ohne Pferde auf einer 15 Kilometer langen Linie. Wie viele Kilometer kamen für eine Hin- und Rückfahrt ungefähr zusammen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dreißig Kilometer"
+      },
+      {
+        "id": "b",
+        "text": "Sieben Kilometer"
+      },
+      {
+        "id": "c",
+        "text": "Fünfzig Kilometer"
+      },
+      {
+        "id": "d",
+        "text": "Hundertfünfzig Kilometer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Hin- und Rückfahrt über dieselbe Strecke ergab etwa 30 Kilometer. Der Motorbus bediente benachbarte Orte unabhängig von Schienen.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1895",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1895.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "Der Benzinbus bei Siegen fuhr 1895 ohne Pferde auf einer 15 Kilometer langen Linie. Wie viele Kilometer kamen für eine Hin- und Rückfahrt ungefähr zusammen? Dreißig Kilometer. Die Hin- und Rückfahrt über dieselbe Strecke ergab etwa 30 Kilometer. Der Motorbus bediente benachbarte Orte unabhängig von Schienen.",
+        "locator": "dh1895, Textstelle 46",
+        "source_sha256": "02f576e4ddb8bde5c42132699e542c68378b6e1ff8697fba2c2ccd26b00368d5"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-transvaal-route",
+    "fact_key": "q3.h.transvaal.route",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Eine Bahn verband das Binnenland Transvaal mit der portugiesischen Delagoabucht. Welche neue Möglichkeit schuf der Endpunkt am Meer?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einen direkten Güterzug nach Europa fahren lassen"
+      },
+      {
+        "id": "b",
+        "text": "Waren über einen Hafen verschiffen"
+      },
+      {
+        "id": "c",
+        "text": "Waren ausschließlich per Binnenschlitten befördern"
+      },
+      {
+        "id": "d",
+        "text": "Das Landesinnere allein per Hochseeschiff erreichen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Strecke verband ein Binnengebiet mit einem Seehafen. Der Zugang zur Küste war wirtschaftlich und politisch bedeutsam.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1895",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1895.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "Eine Bahn verband das Binnenland Transvaal mit der portugiesischen Delagoabucht. Welche neue Möglichkeit schuf der Endpunkt am Meer? Waren über einen Hafen verschiffen. Die Strecke verband ein Binnengebiet mit einem Seehafen. Der Zugang zur Küste war wirtschaftlich und politisch bedeutsam.",
+        "locator": "dh1895, Textstelle 71",
+        "source_sha256": "02f576e4ddb8bde5c42132699e542c68378b6e1ff8697fba2c2ccd26b00368d5"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-campanile-wiederaufbau",
+    "fact_key": "q3.h.campanile.wiederaufbau",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Der Campanile in Venedig stürzte 1902 ein. Warum sieht ein Foto von 1912 trotzdem wieder einen fast ebenso aussehenden Turm am Markusplatz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Originalturm wurde unversehrt ins Nachbarhaus geschoben."
+      },
+      {
+        "id": "b",
+        "text": "Er war auf beiden Fotos nur eine gemalte Fassade."
+      },
+      {
+        "id": "c",
+        "text": "Er wurde nach dem früheren Erscheinungsbild neu gebaut."
+      },
+      {
+        "id": "d",
+        "text": "Der Einsturz betraf ausschließlich den Platzbelag."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "1903 legte man den Grundstein. Zehn Jahre nach dem Einsturz wurde der rekonstruierte Glockenturm eingeweiht.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1903",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1903.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "Der Campanile in Venedig stürzte 1902 ein. Warum sieht ein Foto von 1912 trotzdem wieder einen fast ebenso aussehenden Turm am Markusplatz? Er wurde nach dem früheren Erscheinungsbild neu gebaut. 1903 legte man den Grundstein. Zehn Jahre nach dem Einsturz wurde der rekonstruierte Glockenturm eingeweiht.",
+        "locator": "dh1903, Textstelle 72",
+        "source_sha256": "0ba3d466fb2905e84034349b6cf6a60c8de46778a1ac6118edd3ad5b4e968f92"
+      },
+      {
+        "id": "s2",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1912",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1912.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "Der Campanile in Venedig stürzte 1902 ein. Warum sieht ein Foto von 1912 trotzdem wieder einen fast ebenso aussehenden Turm am Markusplatz? Er wurde nach dem früheren Erscheinungsbild neu gebaut. 1903 legte man den Grundstein. Zehn Jahre nach dem Einsturz wurde der rekonstruierte Glockenturm eingeweiht.",
+        "locator": "dh1912, Textstelle 82",
+        "source_sha256": "02a1a18271ed2492520d0da04669d616ddc04c4f918d05077381d47fc027b37a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-dreikaiser-dauer",
+    "fact_key": "q3.h.dreikaiser.dauer",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Friedrich III. regierte im Dreikaiserjahr 1888 nur 99 Tage. Welcher Zeitraum kommt dem ungefähr gleich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Knapp zwei Wochen"
+      },
+      {
+        "id": "b",
+        "text": "Fast ein ganzes Jahr"
+      },
+      {
+        "id": "c",
+        "text": "Zwei volle Jahre"
+      },
+      {
+        "id": "d",
+        "text": "Gut drei Monate"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Nach dem Tod Friedrichs III. folgte sein Sohn Wilhelm II. Die kurze Regierungszeit lag zwischen zwei deutlich längeren.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1888",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1888.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "Friedrich III. regierte im Dreikaiserjahr 1888 nur 99 Tage. Welcher Zeitraum kommt dem ungefähr gleich? Gut drei Monate. Nach dem Tod Friedrichs III. folgte sein Sohn Wilhelm II. Die kurze Regierungszeit lag zwischen zwei deutlich längeren.",
+        "locator": "dh1888, Textstelle 70",
+        "source_sha256": "4f3d7ea4719f0e1b91f354a488bdcebd2bb35fd35345d1fa67e4787245d6384b"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-gaudi-lebenswerk",
+    "fact_key": "q3.h.gaudi.lebenswerk",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Gaudí übernahm 1883 die Arbeit an der Sagrada Família. Wenn er ihr anschließend 43 Jahre widmete, bis in welches Jahrzehnt reicht sein Einsatz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bis in die 1920er-Jahre"
+      },
+      {
+        "id": "b",
+        "text": "Bis in die 1890er-Jahre"
+      },
+      {
+        "id": "c",
+        "text": "Bis in die 1940er-Jahre"
+      },
+      {
+        "id": "d",
+        "text": "Bis in die 1960er-Jahre"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Rechnung führt zu 1926, Gaudís Todesjahr. Die Baugeschichte in Barcelona reicht über seine Lebenszeit hinaus.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1883",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1883.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "Gaudí übernahm 1883 die Arbeit an der Sagrada Família. Wenn er ihr anschließend 43 Jahre widmete, bis in welches Jahrzehnt reicht sein Einsatz? Bis in die 1920er-Jahre. Die Rechnung führt zu 1926, Gaudís Todesjahr. Die Baugeschichte in Barcelona reicht über seine Lebenszeit hinaus.",
+        "locator": "dh1883, Textstelle 88",
+        "source_sha256": "f1c860f20510a4744ac0a43b7c67a1d067e9914c19774471ff40da385da3c8a7"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-china-kaiserende",
+    "fact_key": "q3.h.china.kaiserende",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In China verzichtete 1912 die letzte Kaiserdynastie auf den Thron. Welche Bezeichnung passt zur danach eingerichteten Staatsform?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Päpstlicher Kirchenstaat"
+      },
+      {
+        "id": "b",
+        "text": "Republik"
+      },
+      {
+        "id": "c",
+        "text": "Erbkaisertum"
+      },
+      {
+        "id": "d",
+        "text": "Europäisches Protektorat"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Abdankung der Mandschu-Dynastie beendete die Kaiserherrschaft. Die Regierungsvollmachten gingen an Yuan Shikai über.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1912",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1912.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "In China verzichtete 1912 die letzte Kaiserdynastie auf den Thron. Welche Bezeichnung passt zur danach eingerichteten Staatsform? Republik. Die Abdankung der Mandschu-Dynastie beendete die Kaiserherrschaft. Die Regierungsvollmachten gingen an Yuan Shikai über.",
+        "locator": "dh1912, Textstelle 57",
+        "source_sha256": "02a1a18271ed2492520d0da04669d616ddc04c4f918d05077381d47fc027b37a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-us-bundesstaaten",
+    "fact_key": "q3.h.us.bundesstaaten",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Arizona trat den USA 1912 als 48. Bundesstaat bei. Wie viele zusätzliche Staaten brauchte es noch bis zur heutigen Zahl von fünfzig?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vier"
+      },
+      {
+        "id": "b",
+        "text": "Zwölf"
+      },
+      {
+        "id": "c",
+        "text": "Zwei"
+      },
+      {
+        "id": "d",
+        "text": "Einen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Auf den Staat mit der Ordnungszahl 48 konnten bis zur Zahl 50 noch zwei folgen. New Mexico war kurz vor Arizona beigetreten.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1912",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1912.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "Arizona trat den USA 1912 als 48. Bundesstaat bei. Wie viele zusätzliche Staaten brauchte es noch bis zur heutigen Zahl von fünfzig? Zwei. Auf den Staat mit der Ordnungszahl 48 konnten bis zur Zahl 50 noch zwei folgen. New Mexico war kurz vor Arizona beigetreten.",
+        "locator": "dh1912, Textstelle 59",
+        "source_sha256": "02a1a18271ed2492520d0da04669d616ddc04c4f918d05077381d47fc027b37a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-berlin-zweckverband",
+    "fact_key": "q3.h.berlin.zweckverband",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1912 fasste ein Zweckverband Berlin und Nachbarorte wie Charlottenburg für gemeinsame Aufgaben zusammen. Welches Vorhaben wäre dafür besonders geeignet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur das Namensschild eines einzelnen Geschäfts austauschen"
+      },
+      {
+        "id": "b",
+        "text": "Die Aufgabenverteilung in einer einzelnen Familie organisieren"
+      },
+      {
+        "id": "c",
+        "text": "Die Schicht einer einzelnen Verkäuferin kurzfristig tauschen"
+      },
+      {
+        "id": "d",
+        "text": "Verkehrswege planen, die mehrere Gemeindegrenzen überschreiten"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Zweckverband Groß-Berlin bündelte kommunale Aufgaben über einzelne Stadtgrenzen hinweg. Er ging der späteren Bildung Groß-Berlins voraus.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1912",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1912.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "1912 fasste ein Zweckverband Berlin und Nachbarorte wie Charlottenburg für gemeinsame Aufgaben zusammen. Welches Vorhaben wäre dafür besonders geeignet? Verkehrswege planen, die mehrere Gemeindegrenzen überschreiten. Der Zweckverband Groß-Berlin bündelte kommunale Aufgaben über einzelne Stadtgrenzen hinweg. Er ging der späteren Bildung Groß-Berlins voraus.",
+        "locator": "dh1912, Textstelle 76",
+        "source_sha256": "02a1a18271ed2492520d0da04669d616ddc04c4f918d05077381d47fc027b37a"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-moskau-regierung",
+    "fact_key": "q3.h.moskau.regierung",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Ein Brief an die sowjetrussische Regierung sollte nach ihrem Umzug im Frühjahr 1918 die neue Hauptstadt erreichen. Welche Adresse passte nun?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Moskau"
+      },
+      {
+        "id": "b",
+        "text": "Kiew"
+      },
+      {
+        "id": "c",
+        "text": "Warschau"
+      },
+      {
+        "id": "d",
+        "text": "Helsinki"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Regierung verlegte ihren Sitz aus strategischen Gründen nach Moskau. Die Stadt wurde zur Hauptstadt.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1918",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1918.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "Ein Brief an die sowjetrussische Regierung sollte nach ihrem Umzug im Frühjahr 1918 die neue Hauptstadt erreichen. Welche Adresse passte nun? Moskau. Die Regierung verlegte ihren Sitz aus strategischen Gründen nach Moskau. Die Stadt wurde zur Hauptstadt.",
+        "locator": "dh1918, Textstelle 80",
+        "source_sha256": "4cf331121cff80167c96fd334efa2fe152990f09c5a0dceaf36fb30644eae2ba"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-lebensmittelamt-krieg",
+    "fact_key": "q3.h.lebensmittelamt.krieg",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1917 entstand in Berlin mitten in einer Hungersnot ein neues Ministerium. Welche Aufgabe lag für dieses Amt am nächsten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reisepässe für Theatergäste ausstellen"
+      },
+      {
+        "id": "b",
+        "text": "Die Versorgung mit Lebensmitteln organisieren"
+      },
+      {
+        "id": "c",
+        "text": "Die Schifffahrt mit Sportbooten fördern"
+      },
+      {
+        "id": "d",
+        "text": "Die Hochschulprüfungen vereinheitlichen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Erste Weltkrieg belastete die Ernährung der Bevölkerung. Das neue Ministerium galt der knappen Lebensmittelversorgung.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1917",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1917.html",
+        "checked_at": "2026-11-22T22:25:02+00:00",
+        "verified_claim": "1917 entstand in Berlin mitten in einer Hungersnot ein neues Ministerium. Welche Aufgabe lag für dieses Amt am nächsten? Die Versorgung mit Lebensmitteln organisieren. Der Erste Weltkrieg belastete die Ernährung der Bevölkerung. Das neue Ministerium galt der knappen Lebensmittelversorgung.",
+        "locator": "dh1917, Textstelle 66",
+        "source_sha256": "c81f0efdc4c035de565a6cd7929ecfe113bb7f156a96fb7e0c4aa9efab72e2ee"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:25:02+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

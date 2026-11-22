@@ -3148,7 +3148,7 @@
     "fact_key": "ironbridge.epoch",
     "category": "history_discoveries",
     "difficulty": "easy",
-    "question": "Für welchen historischen Umbruch steht die Ironbridge-Schlucht in England?",
+    "question": "Frühe Eisenwerke, Fabriken und eine gusseiserne Brücke prägen die Ironbridge-Schlucht. Zu welchem Umbruch passen diese Zeugnisse in einer historischen Zeitleiste?",
     "options": [
       {
         "id": "a",
@@ -3171,9 +3171,9 @@
     "explanation": "In der Schlucht blieben Anlagen erhalten, die den frühen Aufschwung der Industrie dokumentieren.",
     "tags": [
       "thema_wirtschaftsgeschichte",
-      "form_wiedererkennen"
+      "form_zeitlich_einordnen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3189,28 +3189,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
-        "at": "2026-11-22T18:43:00.903+00:00",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
+        "at": "2026-11-22T21:49:26.299967+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
-        "at": "2026-11-22T18:44:38.609+00:00",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
+        "at": "2026-11-22T21:49:38.368387+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.368404+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -3598,7 +3598,7 @@
     "fact_key": "cappadocia.churches",
     "category": "history_discoveries",
     "difficulty": "easy",
-    "question": "Wie entstanden viele der historischen Heiligtümer im Tal von Göreme?",
+    "question": "Bei Heiligtümern in Göreme gehen die Innenwände direkt in den umgebenden Fels über. Dazu passen Räume ohne gemauerte Fugen. Wie sind viele dieser Heiligtümer entstanden?",
     "options": [
       {
         "id": "a",
@@ -3621,9 +3621,10 @@
     "explanation": "Die Felsheiligtümer Kappadokiens bewahren Zeugnisse byzantinischer Kunst.",
     "tags": [
       "thema_religion",
-      "form_wiedererkennen"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3639,28 +3640,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
-        "at": "2026-11-22T18:43:00.903+00:00",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
+        "at": "2026-11-22T21:49:26.300023+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
-        "at": "2026-11-22T18:44:38.609+00:00",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
+        "at": "2026-11-22T21:49:38.368421+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.368424+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -5173,7 +5174,7 @@
     "fact_key": "silkroad.connections",
     "category": "history_discoveries",
     "difficulty": "easy",
-    "question": "Welchen Zweck erfüllte das Netz der historischen Seidenstraßen?",
+    "question": "Auf Karten alter Karawanenwege verzweigt sich die Seidenstraße zwischen Oasen, Märkten und Städten. Was leistete ein solches Netz über den einzelnen Warenverkauf hinaus?",
     "options": [
       {
         "id": "a",
@@ -5196,9 +5197,10 @@
     "explanation": "Ein von der UNESCO erfasster Abschnitt führt von den alten chinesischen Hauptstädten bis nach Zentralasien.",
     "tags": [
       "thema_wirtschaftsgeschichte",
-      "form_wiedererkennen"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -5214,28 +5216,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
-        "at": "2026-11-22T18:43:00.903+00:00",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
+        "at": "2026-11-22T21:49:26.300049+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
-        "at": "2026-11-22T18:44:38.609+00:00",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
+        "at": "2026-11-22T21:49:38.368445+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.368448+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },

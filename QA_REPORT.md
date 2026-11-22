@@ -1,5 +1,20 @@
 # Quizsalon · Prüfbericht
 
+## Deutsche Ausgabe 0.3.0
+
+HTML und Rundenauswahl wurden mit dem Katalog `de-d5a1d0585ed1` geprüft. Der Katalog hat 2.400 aktive und eindeutige Sachverhaltskennungen. Alle 150 Referenzfragen und die richtige Lösung aller 600 übernommenen Karten sind erhalten. [Bestandsvergleich](release/qa/modern-0.3.0/bestand.json)
+
+| Prüfgegenstand | Beobachtung |
+| --- | --- |
+| Neue Tagesrunden | 1.000 frische Installationen und 365 aufeinanderfolgende Spieltage hielten genau eine Schätzung, zwei Hinweisfragen und höchstens zwei Wiedererkennungsfragen ein. Im Jahresspielstand entstanden 365 einmalige Abschlussbuchungen. [Rundenmessung](release/qa/modern-0.3.0/tagesrunden.json) |
+| Erreichbarkeit | In 240 normalen Themenrunden ließ sich jede der 2.400 Karten über den regulären Auswahlalgorithmus beantworten. Die Themenrunden vergaben keine Tages-XP. [Messung nach Kategorie](release/qa/modern-0.3.0/tagesrunden.json) |
+| Handy, Quelle und Offline-Spiel | Vollständige Zehnerrunde bei 390 × 780 CSS-Pixeln. Nach Antwort eins wurde die Verbindung getrennt und die App neu geladen. Datum, Quelladresse und Wiederauffinden der Forschungskarte im Album wurden geprüft. [Mobiler Durchlauf](release/qa/modern-0.3.0/mobile-runde.json) · [Bildschirmaufnahmen](release/screenshots/modern-0.3.0/) |
+| Update | Eine begonnene Tagesrunde aus 0.2.0 behielt Frage, Antwort und Reihenfolge sowohl beim Austausch der einzelnen HTML-Datei als auch beim Öffnen des neuen README-Links mit installiertem altem Service Worker. [HTML-Datei](release/qa/modern-0.3.0/html-update.json) · [Browserlink](release/qa/modern-0.3.0/pages-update.json) |
+| Kalender und Speicher | Tageswechsel, Zeitzonen, manipulierte Uhr, Migration, konkurrierende Schreibvorgänge und nachträglich korrigierte Fragen wurden mit isolierten Browserprofilen geprüft. [Kalender](release/qa/modern-0.3.0/kalender-browser.json) · [Spielstand und Korrekturen](release/qa/modern-0.3.0/sonderfaelle/pruefung.json) |
+| Lesbarkeit | 14.400 gerenderte Frage- und Auflösungsansichten bei 360 Pixeln Breite und 100, 150 und 200 Prozent Schrift. Die kleinste Antwortfläche war 64 Pixel hoch. In 8 Ansichten ergab die automatisierte WCAG-A/AA-Prüfung keine Befunde. Der schwächste gemessene Textkontrast betrug 5,45 zu 1. [Korpuslayout](release/qa/modern-0.3.0/korpus-layout.json) · [Kontraste und Fokus](release/qa/modern-0.3.0/barrierefreiheit-browser.json) |
+
+Die Android-Abnahme dokumentiert die installierten APKs, das Update des früheren Spielstands und die Bedienprüfung auf dem Emulator. [Android-Prüfbericht](android/QA.md)
+
 ## Öffentlicher Browser-Testlink vom 22. November 2026
 
 Der in der README verlinkte Einstieg lieferte HTTP 200 und exakt dieselben Katalogbytes wie die lokale Fassung 0.2.0. Im mobilen Chromium-Profil waren die erste Antwort und ihre Erklärung nach dem Offline-Neustart erhalten. Die Tagesrunde ließ sich abschließen und danach eine anspruchsvolle Themenrunde starten. Der GitHub-Workflow prüfte diesen Ablauf zusätzlich bei 360 CSS-Pixeln in Chromium und 390 CSS-Pixeln in WebKit. In beiden Durchläufen war der Testserver vor dem Wiederöffnen abgeschaltet. [Spiel-Link](https://emfau88.github.io/Quiz/) · [Erster erfolgreicher Actions-Lauf](https://github.com/emfau88/Quiz/actions/runs/45067096203) · [Screenshot des öffentlichen Einstiegs](release/screenshots/fragenpool-0.2.0/12-Browserlink-360.png)

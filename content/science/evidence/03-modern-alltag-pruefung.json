@@ -1,0 +1,1075 @@
+{
+  "daten": "science/03-modern-alltag.json",
+  "sha256_datei": "fd57a6700dce299c54e295c975a6dc3c188ceca5d3a3078716408b2ba3c244c1",
+  "eintraege": 294,
+  "unterschiedliche_quellen": 107,
+  "redaktion": "Codex. Redaktionelle Agentenprüfung der deutschen Karten. Es wurden keine Beobachtungen menschlicher Testpersonen erhoben.",
+  "ablauf": [
+    "Veröffentlichungen der Herausgeber geöffnet und die zugrunde liegenden Regeln und Sachangaben geprüft. Beträge, Texte und Situationen in den ausdrücklich vorgegebenen Rechen- und Wortspielen sind eigene Beispiele.",
+    "Karten erneut mit allen vier Antworten gelesen. Mehrdeutige Fragen, sachfremde Alternativen und Dopplungen wurden im Entwurf ersetzt oder geändert. Anschließend wurden die Antwort-IDs im gemischten Datensatz geprüft.",
+    "Die gemeinsame Validatorfunktion verify und die Formprüfung verify_classification bestanden. Es waren keine Längenausnahmen erforderlich."
+  ],
+  "schwierigkeit": {
+    "easy": 176,
+    "medium": 88,
+    "hard": 30
+  },
+  "formen": {
+    "form_schaetzen": 39,
+    "form_anwenden": 139,
+    "form_herleiten": 63,
+    "form_vergleichen": 52,
+    "form_zeitlich_einordnen": 1
+  },
+  "korrektpositionen": {
+    "c": 83,
+    "d": 73,
+    "a": 66,
+    "b": 72
+  },
+  "quelle_zu_karten": [
+    {
+      "titel": "OpenStax – Contemporary Mathematics, Geometry",
+      "url": "https://openstax.org/books/contemporary-mathematics/pages/10-key-concepts",
+      "abruf_utc": "2026-11-22T21:20:04Z",
+      "karten": [
+        "qs03-t-regenfass",
+        "qs03-t-farbe",
+        "qs03-t-radumfang",
+        "qs03-t-folie",
+        "qs03-t-schnur",
+        "qs03-t-tankfuellung",
+        "qs03-t-bilddiagonale",
+        "qs03-t-terrassenplatten"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Arbeit und Energie",
+      "url": "https://openstax.org/books/college-physics-2e/pages/7-section-summary",
+      "abruf_utc": "2026-11-22T21:18:51Z",
+      "karten": [
+        "qs03-t-heizluefter",
+        "qs03-t-standbytag",
+        "qs03-t-akkuinhalt",
+        "qs03-t-aufzug",
+        "qs03-t-rollenenerg",
+        "qs03-t-solarzelle"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Kinematics",
+      "url": "https://openstax.org/books/college-physics-2e/pages/2-section-summary",
+      "abruf_utc": "2026-11-22T21:20:06Z",
+      "karten": [
+        "qs03-t-pendelzeit",
+        "qs03-t-entgegengesetzt",
+        "qs03-t-durchschnitt",
+        "qs03-t-wanderpause"
+      ]
+    },
+    {
+      "titel": "Mozilla – Digital audio concepts",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Audio_concepts",
+      "abruf_utc": "2026-11-22T21:20:06Z",
+      "karten": [
+        "qs03-t-audiominute",
+        "qs03-t-podcastdauer",
+        "qs03-t-abtastrate",
+        "qs03-t-bittiefe",
+        "qs03-t-mono-stereo"
+      ]
+    },
+    {
+      "titel": "OpenStax – Prealgebra, Ratios and Percents",
+      "url": "https://openstax.org/books/prealgebra/pages/6-key-concepts",
+      "abruf_utc": "2026-11-22T21:20:04Z",
+      "karten": [
+        "qs03-t-fotoplatz",
+        "qs03-t-downloadfortschritt",
+        "qs03-t-druckbeidseitig",
+        "qs03-t-timelapse",
+        "qs03-t-routerrate",
+        "qs03-t-scanrate",
+        "qs03-t-saftmischung",
+        "qs03-t-ersparnis",
+        "qs03-t-kaffeefilter",
+        "qs03-t-verduennung",
+        "qs03-t-nachtanteil",
+        "qs03-t-garnrolle",
+        "qs03-t-verschnitt",
+        "qs03-t-mehrweg-break"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Sound",
+      "url": "https://openstax.org/books/college-physics-2e/pages/17-section-summary",
+      "abruf_utc": "2026-11-22T21:18:52Z",
+      "karten": [
+        "qs03-t-echowand",
+        "qs03-t-tonfrequenz",
+        "qs03-t-doppler"
+      ]
+    },
+    {
+      "titel": "OpenStax – Physics, Simple Machines",
+      "url": "https://openstax.org/books/physics/pages/9-3-simple-machines",
+      "abruf_utc": "2026-11-22T21:18:50Z",
+      "karten": [
+        "qs03-t-hebelarm",
+        "qs03-t-tuerklinke",
+        "qs03-t-rampe-wagen",
+        "qs03-t-feste-rolle",
+        "qs03-t-lose-rolle",
+        "qs03-t-schraubengewinde",
+        "qs03-t-keil",
+        "qs03-t-winde",
+        "qs03-t-richtung-drehmoment"
+      ]
+    },
+    {
+      "titel": "NIST – SI units and prefixes",
+      "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+      "abruf_utc": "2026-11-22T21:18:56Z",
+      "karten": [
+        "qs03-t-papierstapel",
+        "qs03-t-thermoskala",
+        "qs03-t-schrittmass"
+      ]
+    },
+    {
+      "titel": "Physikalisch-Technische Bundesanstalt – ThEx, Gasdichte bei Normaldruck und 20 °C",
+      "url": "https://oar.ptb.de/files/download/110.20210906.pdf",
+      "abruf_utc": "2026-11-22T21:26:38Z",
+      "karten": [
+        "qs03-t-luftmasse-zimmer"
+      ]
+    },
+    {
+      "titel": "The Document Foundation – Getting Started with Calc",
+      "url": "https://books.libreoffice.org/en/GS262/GS26203-GettingStartedWithCalc.html",
+      "abruf_utc": "2026-11-22T21:18:54Z",
+      "karten": [
+        "qs03-t-sortieradresse",
+        "qs03-t-filterrunde",
+        "qs03-t-zahlentext",
+        "qs03-t-prozentformat",
+        "qs03-t-rundungsanzeige",
+        "qs03-t-umsatzsumme",
+        "qs03-t-ausfuellreihe",
+        "qs03-t-spaltenkopf",
+        "qs03-t-bedingtefarbe",
+        "qs03-t-zellbereich",
+        "qs03-t-blattform",
+        "qs03-t-zahlen-rechnen-text",
+        "qs03-t-diagrammwahl",
+        "qs03-t-formelbereichfrei"
+      ]
+    },
+    {
+      "titel": "The Document Foundation – Addresses and References, Absolute and Relative",
+      "url": "https://help.libreoffice.org/latest/en-GB/text/scalc/guide/relativ_absolut_ref.html",
+      "abruf_utc": "2026-11-22T22:11:52Z",
+      "karten": [
+        "qs03-t-formelkopie",
+        "qs03-t-feste-zelle"
+      ]
+    },
+    {
+      "titel": "The Document Foundation – Getting Started with Writer",
+      "url": "https://books.libreoffice.org/en/GS262/GS26202-GettingStartedWithWriter.html",
+      "abruf_utc": "2026-11-22T21:18:52Z",
+      "karten": [
+        "qs03-t-vorlage-aendern",
+        "qs03-t-seitensprung",
+        "qs03-t-absatzzeile",
+        "qs03-t-seitenzahlfeld",
+        "qs03-t-kommentar",
+        "qs03-t-aenderungsspur",
+        "qs03-t-tabulator",
+        "qs03-t-listenautomatik",
+        "qs03-t-suche-stil"
+      ]
+    },
+    {
+      "titel": "IETF – RFC 5322 Internet Message Format",
+      "url": "https://www.rfc-editor.org/rfc/rfc5322.html",
+      "abruf_utc": "2026-11-22T21:18:57Z",
+      "karten": [
+        "qs03-t-bcc-rundbrief",
+        "qs03-t-cc-auftrag",
+        "qs03-t-reply-to",
+        "qs03-t-email-faden",
+        "qs03-t-email-datum"
+      ]
+    },
+    {
+      "titel": "IETF – RFC 5545 iCalendar",
+      "url": "https://www.rfc-editor.org/rfc/rfc5545.html",
+      "abruf_utc": "2026-11-22T21:18:51Z",
+      "karten": [
+        "qs03-t-termin-ausnahme",
+        "qs03-t-ical-ende",
+        "qs03-t-termin-alarm",
+        "qs03-t-serientermin-zusatz",
+        "qs03-t-zeitzone-termin",
+        "qs03-t-jedezweite",
+        "qs03-t-kalenderende"
+      ]
+    },
+    {
+      "titel": "Mozilla – How the web works",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works",
+      "abruf_utc": "2026-11-22T21:18:51Z",
+      "karten": [
+        "qs03-t-dns-rolle",
+        "qs03-t-clientserver"
+      ]
+    },
+    {
+      "titel": "Mozilla – HTTP 404 Not Found",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/404",
+      "abruf_utc": "2026-11-22T22:11:51Z",
+      "karten": [
+        "qs03-t-404-ort"
+      ]
+    },
+    {
+      "titel": "Mozilla – What is a URL?",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/What_is_a_URL",
+      "abruf_utc": "2026-11-22T21:22:14Z",
+      "karten": [
+        "qs03-t-sprungmarke",
+        "qs03-t-url-wechsel",
+        "qs03-t-url-parameter"
+      ]
+    },
+    {
+      "titel": "Mozilla Support – Private Browsing",
+      "url": "https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history",
+      "abruf_utc": "2026-11-22T21:26:20Z",
+      "karten": [
+        "qs03-t-privat-download",
+        "qs03-t-privat-lokal"
+      ]
+    },
+    {
+      "titel": "Mozilla Support – Bookmarks",
+      "url": "https://support.mozilla.org/en-US/kb/bookmarks-firefox",
+      "abruf_utc": "2026-11-22T21:26:23Z",
+      "karten": [
+        "qs03-t-lesezeichen-vs-datei"
+      ]
+    },
+    {
+      "titel": "Mozilla Support – Site permissions",
+      "url": "https://support.mozilla.org/en-US/kb/site-permissions-panel",
+      "abruf_utc": "2026-11-22T21:26:22Z",
+      "karten": [
+        "qs03-t-mikrostandort"
+      ]
+    },
+    {
+      "titel": "Mozilla – HTTPS",
+      "url": "https://developer.mozilla.org/en-US/docs/Glossary/HTTPS",
+      "abruf_utc": "2026-11-22T21:26:23Z",
+      "karten": [
+        "qs03-t-https-scope"
+      ]
+    },
+    {
+      "titel": "IETF – RFC 4180, Comma-Separated Values",
+      "url": "https://www.rfc-editor.org/rfc/rfc4180.html",
+      "abruf_utc": "2026-11-22T21:26:21Z",
+      "karten": [
+        "qs03-t-csv-komma",
+        "qs03-t-kopfzeile-csv",
+        "qs03-t-csvzitat"
+      ]
+    },
+    {
+      "titel": "SQLite – Transactional",
+      "url": "https://www.sqlite.org/transactional.html",
+      "abruf_utc": "2026-11-22T21:26:21Z",
+      "karten": [
+        "qs03-t-datenbank-paar"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Dynamics",
+      "url": "https://openstax.org/books/college-physics-2e/pages/4-section-summary",
+      "abruf_utc": "2026-11-22T21:31:39Z",
+      "karten": [
+        "qs03-t-bus-anrollen",
+        "qs03-t-wagenmassen",
+        "qs03-t-abwaage",
+        "qs03-t-rudern",
+        "qs03-t-gleichlauf",
+        "qs03-t-waageaufzug"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Friction, Drag and Elasticity",
+      "url": "https://openstax.org/books/college-physics-2e/pages/5-section-summary",
+      "abruf_utc": "2026-11-22T21:31:38Z",
+      "karten": [
+        "qs03-t-haftreibung",
+        "qs03-t-breiteflaechen",
+        "qs03-t-fallende-filter",
+        "qs03-t-federkalibrierung"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Rotational Motion",
+      "url": "https://openstax.org/books/college-physics-2e/pages/10-section-summary",
+      "abruf_utc": "2026-11-22T21:31:39Z",
+      "karten": [
+        "qs03-t-plattennadel",
+        "qs03-t-drehstuhl",
+        "qs03-t-schwungrad"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Fluid Statics",
+      "url": "https://openstax.org/books/college-physics-2e/pages/11-section-summary",
+      "abruf_utc": "2026-11-22T21:18:55Z",
+      "karten": [
+        "qs03-t-breitefuessel",
+        "qs03-t-see-tiefe",
+        "qs03-t-hydraulik",
+        "qs03-t-bootladung",
+        "qs03-t-salzwasser",
+        "qs03-t-kapillar",
+        "qs03-t-tropfenoberfl"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Temperature and Gases",
+      "url": "https://openstax.org/books/college-physics-2e/pages/13-section-summary",
+      "abruf_utc": "2026-11-22T21:31:41Z",
+      "karten": [
+        "qs03-t-dehnfuge",
+        "qs03-t-bimetall",
+        "qs03-t-ball-kalt",
+        "qs03-t-fahrraddruck",
+        "qs03-t-beschlagglas"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Heat Transfer",
+      "url": "https://openstax.org/books/college-physics-2e/pages/14-section-summary",
+      "abruf_utc": "2026-11-22T21:18:52Z",
+      "karten": [
+        "qs03-t-metallgriff",
+        "qs03-t-topf-konvektion",
+        "qs03-t-strahlung-vakuum",
+        "qs03-t-nasses-tuch",
+        "qs03-t-eisplateau",
+        "qs03-t-daemmdecke",
+        "qs03-t-isolierdicke",
+        "qs03-t-eiswasser"
+      ]
+    },
+    {
+      "titel": "Nikon – Understanding Maximum Aperture",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-maximum-aperture",
+      "abruf_utc": "2026-11-22T21:26:21Z",
+      "karten": [
+        "qs03-t-blendenvergleich",
+        "qs03-t-portraetblende",
+        "qs03-t-zoom-grenzblenden"
+      ]
+    },
+    {
+      "titel": "Nikon – Understanding Shutter Speed",
+      "url": "https://www.nikonusa.com/learn-and-explore/c/tips-and-techniques/understanding-shutter-speed",
+      "abruf_utc": "2026-11-22T21:31:39Z",
+      "karten": [
+        "qs03-t-laufbewegung",
+        "qs03-t-lichtspur",
+        "qs03-t-stativbewegung"
+      ]
+    },
+    {
+      "titel": "GIMP – Scale Image",
+      "url": "https://docs.gimp.org/3.0/en/gimp-image-scale.html",
+      "abruf_utc": "2026-11-22T21:37:32Z",
+      "karten": [
+        "qs03-t-pixel-druck",
+        "qs03-t-verhaeltnis",
+        "qs03-t-interpolation"
+      ]
+    },
+    {
+      "titel": "GIMP – Leinwandgröße",
+      "url": "https://docs.gimp.org/3.0/de/gimp-image-resize.html",
+      "abruf_utc": "2026-11-22T21:20:07Z",
+      "karten": [
+        "qs03-t-leinwand"
+      ]
+    },
+    {
+      "titel": "GIMP – Combining Images, Introduction to Layers",
+      "url": "https://docs.gimp.org/3.0/en/gimp-image-combining.html",
+      "abruf_utc": "2026-11-22T21:37:31Z",
+      "karten": [
+        "qs03-t-ebenenreihenfolge",
+        "qs03-t-alpha",
+        "qs03-t-undurchsichtig",
+        "qs03-t-ebene-ausblenden"
+      ]
+    },
+    {
+      "titel": "GIMP – Levels",
+      "url": "https://docs.gimp.org/3.0/en/gimp-tool-levels.html",
+      "abruf_utc": "2026-11-22T21:37:33Z",
+      "karten": [
+        "qs03-t-histogramm"
+      ]
+    },
+    {
+      "titel": "Mozilla – Image file type and format guide",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Image_types",
+      "abruf_utc": "2026-11-22T21:22:12Z",
+      "karten": [
+        "qs03-t-verlustfrei",
+        "qs03-t-jpeg-neu",
+        "qs03-t-gif-palette"
+      ]
+    },
+    {
+      "titel": "Mozilla – Vector graphics",
+      "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Including_vector_graphics_in_HTML",
+      "abruf_utc": "2026-11-22T21:22:16Z",
+      "karten": [
+        "qs03-t-logo-vektor"
+      ]
+    },
+    {
+      "titel": "OpenStax – University Physics, Standing Waves and Resonance",
+      "url": "https://openstax.org/books/university-physics-volume-1/pages/16-6-standing-waves-and-resonance",
+      "abruf_utc": "2026-11-22T22:04:07Z",
+      "karten": [
+        "qs03-t-saitenton"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Oscillations and Waves",
+      "url": "https://openstax.org/books/college-physics-2e/pages/16-section-summary",
+      "abruf_utc": "2026-11-22T21:20:03Z",
+      "karten": [
+        "qs03-t-resonanz-spiel"
+      ]
+    },
+    {
+      "titel": "University of Salford – Sound Absorption, Messung im Hallraum",
+      "url": "https://acoustics.salford.ac.uk/industrial-collaboration/testing/sound-absorption/",
+      "abruf_utc": "2026-11-22T22:11:52Z",
+      "karten": [
+        "qs03-t-schallraum"
+      ]
+    },
+    {
+      "titel": "Audacity – Fades",
+      "url": "https://manual.audacityteam.org/man/fades.html",
+      "abruf_utc": "2026-11-22T21:37:33Z",
+      "karten": [
+        "qs03-t-fade-end"
+      ]
+    },
+    {
+      "titel": "Audacity – Amplify and Normalize",
+      "url": "https://manual.audacityteam.org/man/amplify_and_normalize.html",
+      "abruf_utc": "2026-11-22T21:37:34Z",
+      "karten": [
+        "qs03-t-pegelspitze"
+      ]
+    },
+    {
+      "titel": "Audacity – Envelope Tool",
+      "url": "https://manual.audacityteam.org/man/envelope_tool.html",
+      "abruf_utc": "2026-11-22T21:37:33Z",
+      "karten": [
+        "qs03-t-huellkurve"
+      ]
+    },
+    {
+      "titel": "Audacity – Audio Tracks",
+      "url": "https://manual.audacityteam.org/man/audio_tracks.html",
+      "abruf_utc": "2026-11-22T21:37:33Z",
+      "karten": [
+        "qs03-t-pan-links",
+        "qs03-t-spur-solo"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Geometric Optics",
+      "url": "https://openstax.org/books/college-physics-2e/pages/25-section-summary",
+      "abruf_utc": "2026-11-22T21:18:59Z",
+      "karten": [
+        "qs03-t-spiegelwinkel",
+        "qs03-t-scheinbarer-knick",
+        "qs03-t-faser-total",
+        "qs03-t-konvex-spiegel",
+        "qs03-t-lupe"
+      ]
+    },
+    {
+      "titel": "NASA – Wave Behaviors",
+      "url": "https://science.nasa.gov/ems/03_behaviors/",
+      "abruf_utc": "2026-11-22T21:37:32Z",
+      "karten": [
+        "qs03-t-schwarzesmaterial",
+        "qs03-t-schattenkante",
+        "qs03-t-farbe-rot"
+      ]
+    },
+    {
+      "titel": "Bundeszentrum für Ernährung – Einfach selber kochen",
+      "url": "https://www.bzfe.de/kueche-und-alltag/kochen/einfach-selber-kochen",
+      "abruf_utc": "2026-11-22T21:42:37Z",
+      "karten": [
+        "qs03-t-duensten-daempfen",
+        "qs03-t-duensttopf",
+        "qs03-t-quellmethode",
+        "qs03-t-frittieren",
+        "qs03-t-bruehenansatz"
+      ]
+    },
+    {
+      "titel": "King Arthur Baking – Baker’s Percentage",
+      "url": "https://www.kingarthurbaking.com/pro/reference/bakers-percentage",
+      "abruf_utc": "2026-11-22T21:42:34Z",
+      "karten": [
+        "qs03-t-baeckerprozent",
+        "qs03-t-vorteig-rechnen"
+      ]
+    },
+    {
+      "titel": "King Arthur Baking – Recipe Success Guide",
+      "url": "https://www.kingarthurbaking.com/recipes/resources/recipe-success-guide",
+      "abruf_utc": "2026-11-22T21:42:36Z",
+      "karten": [
+        "qs03-t-mehl-verdichtet",
+        "qs03-t-fluessigkeit-messen"
+      ]
+    },
+    {
+      "titel": "Bundeszentrum für Ernährung – Was gehört wohin im Kühlschrank?",
+      "url": "https://www.bzfe.de/presse/pressemeldungen-archiv-2024-und-frueher/was-gehoert-wohin-im-kuehlschrank",
+      "abruf_utc": "2026-11-22T21:42:37Z",
+      "karten": [
+        "qs03-t-fach-roh",
+        "qs03-t-tuer-stabil",
+        "qs03-t-einkauf-kette"
+      ]
+    },
+    {
+      "titel": "Umweltbundesamt – Klimabewusstes Wäschewaschen",
+      "url": "https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/haushalt-wohnen/waesche-waschen-waschmittel",
+      "abruf_utc": "2026-11-22T21:42:36Z",
+      "karten": [
+        "qs03-t-waesche-color",
+        "qs03-t-wasch-baukasten",
+        "qs03-t-fleck-vorbehandeln"
+      ]
+    },
+    {
+      "titel": "Umweltbundesamt – Waschmaschine",
+      "url": "https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/waschmaschine-bei-kauf-nutzung-auf-energieeffizienz",
+      "abruf_utc": "2026-11-22T21:42:35Z",
+      "karten": [
+        "qs03-t-wasch-klasse",
+        "qs03-t-trommelgross"
+      ]
+    },
+    {
+      "titel": "Umweltbundesamt – Geschirrspüler",
+      "url": "https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/geschirrspueler-im-eco-programm-wasser-strom-sparen",
+      "abruf_utc": "2026-11-22T21:37:31Z",
+      "karten": [
+        "qs03-t-spuelmaschinensalz",
+        "qs03-t-offene-kueche"
+      ]
+    },
+    {
+      "titel": "Verbraucherzentrale – Thermostat richtig einstellen",
+      "url": "https://www.verbraucherzentrale.de/wissen/energie/heizen-und-warmwasser/heizkosten-sparen-thermostat-richtig-einstellen-und-wechseln-7940?pic=0",
+      "abruf_utc": "2026-11-22T21:42:34Z",
+      "karten": [
+        "qs03-t-thermofuenf",
+        "qs03-t-vorhangthermo",
+        "qs03-t-heizzeitplan",
+        "qs03-t-fensterkontakt"
+      ]
+    },
+    {
+      "titel": "U.S. Department of Energy – Air Sealing the Home",
+      "url": "https://www.energy.gov/sites/default/files/2021-08/ES-Air%20Sealing_080421.pdf",
+      "abruf_utc": "2026-11-22T21:42:34Z",
+      "karten": [
+        "qs03-t-dichten-daemmen",
+        "qs03-t-bewegliche-fuge"
+      ]
+    },
+    {
+      "titel": "Umweltbundesamt – Altglas richtig trennen",
+      "url": "https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/altglas-richtig-trennen-entsorgen",
+      "abruf_utc": "2026-11-22T21:42:34Z",
+      "karten": [
+        "qs03-t-blauglas",
+        "qs03-t-ofenglas"
+      ]
+    },
+    {
+      "titel": "Bosch DIY – Der Schleif-Guide",
+      "url": "https://www.bosch-diy.com/de/de/all-about-diy/abschleifen-guide",
+      "abruf_utc": "2026-11-22T21:42:38Z",
+      "karten": [
+        "qs03-t-koernungszahl",
+        "qs03-t-schleifschwamm",
+        "qs03-t-schliffstufen"
+      ]
+    },
+    {
+      "titel": "GARDENA – Die richtige Schnitthöhe",
+      "url": "https://www.gardena.com/de/c/entdecke/garteninspiration/gartenmagazin/die-richtige-schnitthoehe",
+      "abruf_utc": "2026-11-22T21:42:36Z",
+      "karten": [
+        "qs03-t-rasen-schnitthoehe"
+      ]
+    },
+    {
+      "titel": "Schwalbe – Reifenmaße",
+      "url": "https://www.schwalbe.com/service/technik-faq/reifenmasse/",
+      "abruf_utc": "2026-11-22T21:42:34Z",
+      "karten": [
+        "qs03-t-etrto-felge",
+        "qs03-t-breite-auswahl"
+      ]
+    },
+    {
+      "titel": "Schwalbe – Tech Info Fahrradreifen",
+      "url": "https://www.schwalbe.com/media/a7/68/30/1741329630/TechInfo_DE.pdf",
+      "abruf_utc": "2026-11-22T21:42:36Z",
+      "karten": [
+        "qs03-t-felgenband",
+        "qs03-t-rollgrund",
+        "qs03-t-ventil-laenge"
+      ]
+    },
+    {
+      "titel": "ADAC – Reifenkennzeichnung",
+      "url": "https://www.adac.de/rund-ums-fahrzeug/ausstattung-technik-zubehoer/reifen/reifenkauf/reifenkennzeichnung/",
+      "abruf_utc": "2026-11-22T21:42:35Z",
+      "karten": [
+        "qs03-t-querschnittreifen",
+        "qs03-t-dotzeit",
+        "qs03-t-felgenzoll"
+      ]
+    },
+    {
+      "titel": "W3C – WAI Images Tutorial",
+      "url": "https://www.w3.org/WAI/tutorials/images/",
+      "abruf_utc": "2026-11-22T21:18:52Z",
+      "karten": [
+        "qs03-t-alternativtext",
+        "qs03-t-funktionsbild",
+        "qs03-t-deko-alt",
+        "qs03-t-diagrammdaten"
+      ]
+    },
+    {
+      "titel": "W3C – Understanding Use of Color",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html",
+      "abruf_utc": "2026-11-22T21:49:12Z",
+      "karten": [
+        "qs03-t-rote-felder"
+      ]
+    },
+    {
+      "titel": "W3C – Understanding Focus Visible",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/focus-visible.html",
+      "abruf_utc": "2026-11-22T21:49:14Z",
+      "karten": [
+        "qs03-t-fokusring"
+      ]
+    },
+    {
+      "titel": "W3C – Understanding Reflow",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/reflow.html",
+      "abruf_utc": "2026-11-22T21:49:12Z",
+      "karten": [
+        "qs03-t-zoomumbruch"
+      ]
+    },
+    {
+      "titel": "W3C – Captions/Subtitles",
+      "url": "https://www.w3.org/WAI/media/av/captions/",
+      "abruf_utc": "2026-11-22T21:49:15Z",
+      "karten": [
+        "qs03-t-geraeschuntertitel"
+      ]
+    },
+    {
+      "titel": "W3C – Understanding Keyboard",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/keyboard.html",
+      "abruf_utc": "2026-11-22T21:49:12Z",
+      "karten": [
+        "qs03-t-nurziehen"
+      ]
+    },
+    {
+      "titel": "W3C – Understanding Target Size",
+      "url": "https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html",
+      "abruf_utc": "2026-11-22T21:49:13Z",
+      "karten": [
+        "qs03-t-touchabstand"
+      ]
+    },
+    {
+      "titel": "W3C – Labeling Controls",
+      "url": "https://www.w3.org/WAI/tutorials/forms/labels/",
+      "abruf_utc": "2026-11-22T21:22:12Z",
+      "karten": [
+        "qs03-t-eingabename"
+      ]
+    },
+    {
+      "titel": "W3C – Tables Tutorial",
+      "url": "https://www.w3.org/WAI/tutorials/tables/",
+      "abruf_utc": "2026-11-22T21:22:14Z",
+      "karten": [
+        "qs03-t-zellenkopf"
+      ]
+    },
+    {
+      "titel": "W3C – Headings",
+      "url": "https://www.w3.org/WAI/tutorials/page-structure/headings/",
+      "abruf_utc": "2026-11-22T21:22:10Z",
+      "karten": [
+        "qs03-t-seitenstruktur"
+      ]
+    },
+    {
+      "titel": "W3C – User Notifications",
+      "url": "https://www.w3.org/WAI/tutorials/forms/notifications/",
+      "abruf_utc": "2026-11-22T21:49:14Z",
+      "karten": [
+        "qs03-t-fehlermeldung"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Resistors in Series and Parallel",
+      "url": "https://openstax.org/books/college-physics-2e/pages/21-1-resistors-in-series-and-parallel",
+      "abruf_utc": "2026-11-22T21:18:50Z",
+      "karten": [
+        "qs03-t-lichterkette-reihe",
+        "qs03-t-parallelzweig",
+        "qs03-t-widerstand-zwei",
+        "qs03-t-teiler"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, DC Voltmeters and Ammeters",
+      "url": "https://openstax.org/books/college-physics-2e/pages/21-4-dc-voltmeters-and-ammeters",
+      "abruf_utc": "2026-11-22T22:04:08Z",
+      "karten": [
+        "qs03-t-messzweig"
+      ]
+    },
+    {
+      "titel": "YKK – Why zippers don’t come open on their own",
+      "url": "https://www.ykk.com/english/ykk/tech/03.html",
+      "abruf_utc": "2026-11-22T22:15:40Z",
+      "karten": [
+        "qs03-t-reissverschluss-sperrstift"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Current and Resistance",
+      "url": "https://openstax.org/books/college-physics-2e/pages/20-section-summary",
+      "abruf_utc": "2026-11-22T21:31:40Z",
+      "karten": [
+        "qs03-t-doppelquerschnitt",
+        "qs03-t-stromleistung",
+        "qs03-t-amperezeit"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Electric Potential and Capacitance",
+      "url": "https://openstax.org/books/college-physics-2e/pages/19-section-summary",
+      "abruf_utc": "2026-11-22T21:49:12Z",
+      "karten": [
+        "qs03-t-plattenc",
+        "qs03-t-kapazitaet-denk"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Electromagnetic Induction",
+      "url": "https://openstax.org/books/college-physics-2e/pages/23-section-summary",
+      "abruf_utc": "2026-11-22T21:31:39Z",
+      "karten": [
+        "qs03-t-magnet-spule",
+        "qs03-t-lenzrichtung",
+        "qs03-t-trafo-windungen",
+        "qs03-t-motor-generator"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Magnetism",
+      "url": "https://openstax.org/books/college-physics-2e/pages/22-section-summary",
+      "abruf_utc": "2026-11-22T21:49:14Z",
+      "karten": [
+        "qs03-t-magnet-teilen",
+        "qs03-t-kompass-def",
+        "qs03-t-feldlinien"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Electric Charge",
+      "url": "https://openstax.org/books/college-physics-2e/pages/18-section-summary",
+      "abruf_utc": "2026-11-22T21:31:42Z",
+      "karten": [
+        "qs03-t-ballonwand",
+        "qs03-t-leiterisolator",
+        "qs03-t-ladung-reiben"
+      ]
+    },
+    {
+      "titel": "Umweltbundesamt – Fragen und Antworten zur Bonpflicht, Thermopapier",
+      "url": "https://www.umweltbundesamt.de/themen/fragen-antworten-zur-bonpflicht",
+      "abruf_utc": "2026-11-22T22:17:56Z",
+      "karten": [
+        "qs03-t-thermobon-schicht"
+      ]
+    },
+    {
+      "titel": "IETF – RFC 3339 Date and Time on the Internet",
+      "url": "https://www.rfc-editor.org/rfc/rfc3339.html",
+      "abruf_utc": "2026-11-22T21:49:17Z",
+      "karten": [
+        "qs03-t-datumgrenze-datei"
+      ]
+    },
+    {
+      "titel": "University of Canterbury – CS Field Guide, Searching",
+      "url": "https://www.csfieldguide.org.nz/en/chapters/algorithms/searching/",
+      "abruf_utc": "2026-11-22T21:52:20Z",
+      "karten": [
+        "qs03-t-telefonbuchmitte",
+        "qs03-t-sucheunsortiert"
+      ]
+    },
+    {
+      "titel": "University of Canterbury – CS Field Guide, Sorting",
+      "url": "https://www.csfieldguide.org.nz/en/chapters/algorithms/sorting/",
+      "abruf_utc": "2026-11-22T21:52:18Z",
+      "karten": [
+        "qs03-t-karteneinsortieren",
+        "qs03-t-kleinsterstapel"
+      ]
+    },
+    {
+      "titel": "University of Canterbury – CS Field Guide, Run Length Encoding",
+      "url": "https://www.csfieldguide.org.nz/en/chapters/coding-compression/run-length-encoding/",
+      "abruf_utc": "2026-11-22T21:52:16Z",
+      "karten": [
+        "qs03-t-lauflaenge",
+        "qs03-t-lauflaenge-schach"
+      ]
+    },
+    {
+      "titel": "University of Canterbury – CS Field Guide, Huffman Coding",
+      "url": "https://www.csfieldguide.org.nz/en/chapters/coding-compression/huffman-coding/",
+      "abruf_utc": "2026-11-22T21:56:57Z",
+      "karten": [
+        "qs03-t-haeufigkurz",
+        "qs03-t-praefixlesen"
+      ]
+    },
+    {
+      "titel": "University of Canterbury – Computer Science Field Guide, data-representation / numbers",
+      "url": "https://www.csfieldguide.org.nz/en/chapters/data-representation/numbers/",
+      "abruf_utc": "2026-11-22T21:58:35Z",
+      "karten": [
+        "qs03-t-schalterzustaende",
+        "qs03-t-binaeruebertrag",
+        "qs03-t-mehrbits"
+      ]
+    },
+    {
+      "titel": "W3C – CSS Color Module Level 4",
+      "url": "https://www.w3.org/TR/css-color-4/",
+      "abruf_utc": "2026-11-22T21:57:01Z",
+      "karten": [
+        "qs03-t-rgbwerte",
+        "qs03-t-hexgrau"
+      ]
+    },
+    {
+      "titel": "IETF – RFC 4648, Base Encodings",
+      "url": "https://www.rfc-editor.org/rfc/rfc4648.html",
+      "abruf_utc": "2026-11-22T21:58:33Z",
+      "karten": [
+        "qs03-t-base64gross"
+      ]
+    },
+    {
+      "titel": "IETF – RFC 3629 UTF-8",
+      "url": "https://www.rfc-editor.org/rfc/rfc3629.html",
+      "abruf_utc": "2026-11-22T21:56:55Z",
+      "karten": [
+        "qs03-t-byteszeichen"
+      ]
+    },
+    {
+      "titel": "University of Canterbury – Computer Science Field Guide, coding-error-control / check-digits-on-barcodes",
+      "url": "https://www.csfieldguide.org.nz/en/chapters/coding-error-control/check-digits-on-barcodes/",
+      "abruf_utc": "2026-11-22T21:58:33Z",
+      "karten": [
+        "qs03-t-pruefziffer"
+      ]
+    },
+    {
+      "titel": "University of Canterbury – Computer Science Field Guide, coding-error-control",
+      "url": "https://www.csfieldguide.org.nz/en/chapters/coding-error-control/",
+      "abruf_utc": "2026-11-22T21:58:31Z",
+      "karten": [
+        "qs03-t-paritaet-beispiel",
+        "qs03-t-mehrheitslesung"
+      ]
+    },
+    {
+      "titel": "OpenStax – Accuracy, Precision and Significant Figures",
+      "url": "https://openstax.org/books/college-physics-2e/pages/1-3-accuracy-precision-and-significant-figures",
+      "abruf_utc": "2026-11-22T21:56:54Z",
+      "karten": [
+        "qs03-t-genau-praezise",
+        "qs03-t-aufloesung",
+        "qs03-t-grenzmass",
+        "qs03-t-messintervall",
+        "qs03-t-relativegenau"
+      ]
+    },
+    {
+      "titel": "METTLER TOLEDO – Betriebsanleitung BPA224",
+      "url": "https://www.mt.com/dam/mt_ext_files/Editorial/Generic/3/BPA224_Operating_instructions_Editorial-Generic_1137756140006_files/72186658_a.pdf",
+      "abruf_utc": "2026-11-22T22:04:08Z",
+      "karten": [
+        "qs03-t-tara"
+      ]
+    },
+    {
+      "titel": "OpenStax – Contemporary Mathematics, Graph Structures",
+      "url": "https://openstax.org/books/contemporary-mathematics/pages/12-2-graph-structures",
+      "abruf_utc": "2026-11-22T21:56:55Z",
+      "karten": [
+        "qs03-t-einbahnplan",
+        "qs03-t-verbindungskosten"
+      ]
+    },
+    {
+      "titel": "OpenStax – Contemporary Mathematics, Euler Trails",
+      "url": "https://openstax.org/books/contemporary-mathematics/pages/12-6-euler-trails",
+      "abruf_utc": "2026-11-22T22:04:08Z",
+      "karten": [
+        "qs03-t-verbindungsbruecke",
+        "qs03-t-eulerweg"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Two-Dimensional Kinematics",
+      "url": "https://openstax.org/books/college-physics-2e/pages/3-section-summary",
+      "abruf_utc": "2026-11-22T21:56:56Z",
+      "karten": [
+        "qs03-t-weg-versatz",
+        "qs03-t-heimweg-versatz"
+      ]
+    },
+    {
+      "titel": "OpenStax – Microscopes",
+      "url": "https://openstax.org/books/college-physics-2e/pages/26-4-microscopes",
+      "abruf_utc": "2026-11-22T21:58:35Z",
+      "karten": [
+        "qs03-t-mikroskopprodukt"
+      ]
+    },
+    {
+      "titel": "OpenStax – Dispersion, Rainbow and Prisms",
+      "url": "https://openstax.org/books/college-physics-2e/pages/25-5-dispersion-the-rainbow-and-prisms",
+      "abruf_utc": "2026-11-22T21:58:31Z",
+      "karten": [
+        "qs03-t-prisma-farben"
+      ]
+    },
+    {
+      "titel": "OpenStax – The Simple Pendulum",
+      "url": "https://openstax.org/books/college-physics-2e/pages/16-4-the-simple-pendulum",
+      "abruf_utc": "2026-11-22T21:58:33Z",
+      "karten": [
+        "qs03-t-pendelkuerzen",
+        "qs03-t-pendelmasse"
+      ]
+    },
+    {
+      "titel": "OpenStax – Humidity, Evaporation and Boiling",
+      "url": "https://openstax.org/books/college-physics-2e/pages/13-6-humidity-evaporation-and-boiling",
+      "abruf_utc": "2026-11-22T21:58:31Z",
+      "karten": [
+        "qs03-t-lufterwaermen",
+        "qs03-t-trockene-luft"
+      ]
+    },
+    {
+      "titel": "OpenStax – College Physics, Vision and Optical Instruments",
+      "url": "https://openstax.org/books/college-physics-2e/pages/26-section-summary",
+      "abruf_utc": "2026-11-22T21:56:58Z",
+      "karten": [
+        "qs03-t-dioptrie"
+      ]
+    },
+    {
+      "titel": "University of Canterbury – Computer Science Field Guide, human-computer-interaction / usability-heuristics",
+      "url": "https://www.csfieldguide.org.nz/en/chapters/human-computer-interaction/usability-heuristics/",
+      "abruf_utc": "2026-11-22T21:58:33Z",
+      "karten": [
+        "qs03-t-uploaderfolg",
+        "qs03-t-rueckgaengig",
+        "qs03-t-wiedererkennen-ui",
+        "qs03-t-fehlervorbeugen"
+      ]
+    },
+    {
+      "titel": "DENSO Wave – Point for determining the code area",
+      "url": "https://www.qrcode.com/en/howto/code.html/index.html",
+      "abruf_utc": "2026-11-22T22:15:38Z",
+      "karten": [
+        "qs03-t-qr-ruhezone"
+      ]
+    },
+    {
+      "titel": "GEZE – Correctly setting door closers",
+      "url": "https://www.geze.com/en/discover/product-knowledge/correctly-setting-door-closers",
+      "abruf_utc": "2026-11-22T22:15:38Z",
+      "karten": [
+        "qs03-t-tuerschliesser-endschlag"
+      ]
+    },
+    {
+      "titel": "W3C – Portable Network Graphics Specification",
+      "url": "https://www.w3.org/TR/png-3/",
+      "abruf_utc": "2026-11-22T21:56:56Z",
+      "karten": [
+        "qs03-t-alpha-mitte"
+      ]
+    },
+    {
+      "titel": "STANLEY – Beweglicher Endhaken am Rollbandmaß",
+      "url": "https://support.stanleytools.com/hc/en-us/articles/360012682938-Why-does-the-hook-on-the-end-of-the-Stanley-tape-rule-move",
+      "abruf_utc": "2026-11-22T22:04:40Z",
+      "karten": [
+        "qs03-t-bandmass-haken"
+      ]
+    }
+  ]
+}

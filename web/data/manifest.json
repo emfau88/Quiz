@@ -1,40 +1,40 @@
 {
-  "version": "de-03c46c2cd256",
-  "sha256": "03c46c2cd2565f9143b2ba531986a5e2cbb8785091a2f11de41dcc273c685b8b",
-  "active": 1200,
-  "facts": 1200,
+  "version": "de-d5a1d0585ed1",
+  "sha256": "d5a1d0585ed1ef7953a0ab54b25e36ffb847495755264486395cdd3ce2668021",
+  "active": 2400,
+  "facts": 2400,
   "starter": 24,
   "reference": 150,
   "categories": {
     "nature_animals": [
+      240,
       120,
-      60,
-      20
+      40
     ],
     "geography_travel": [
+      240,
       120,
-      60,
-      20
+      40
     ],
     "everyday_technology": [
+      240,
       120,
-      60,
-      20
+      40
     ],
     "history_discoveries": [
+      240,
       120,
-      60,
-      20
+      40
     ],
     "entertainment": [
+      240,
       120,
-      60,
-      20
+      40
     ],
     "language_culture": [
+      240,
       120,
-      60,
-      20
+      40
     ]
   },
   "reference_categories": {
@@ -72,6 +72,17 @@
   "reference_complete": true,
   "release_distribution_complete": true,
   "corrections": 0,
-  "archived": 152,
+  "archived": 752,
+  "forms": {
+    "form_anwenden": 648,
+    "form_herleiten": 700,
+    "form_schaetzen": 228,
+    "form_vergleichen": 275,
+    "form_wiedererkennen": 405,
+    "form_zeitlich_einordnen": 144
+  },
+  "research": 36,
+  "daily_formats": true,
+  "daily_clues": 241,
   "human_observations": 0
 }

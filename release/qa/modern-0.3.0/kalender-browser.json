@@ -1,0 +1,11 @@
+{
+  "at": "2026-11-22T22:46:49.854Z",
+  "browser": "149.0.7827.55",
+  "fixture": "Kontrollierte Browseruhr und echte Intl-Zeitzonenregeln. Bedienung über die normale HTML-Oberfläche.",
+  "checks": [
+    "Sommerzeitsprung CET auf CEST verändert weder day_key noch Fragen oder Reihenfolge.",
+    "Zwei Minuten über Mitternacht. Montag hat seine eigene Tagesrunde, Sonntag bleibt unverändert und reserviert seine Fragen.",
+    "Zeitzonenwechsel über die Datumsgrenze zieht keine weitere Runde. Später Abschluss über den Verlauf zählt zur ursprünglichen Woche.",
+    "Zehn Jahre vorgestellte und wieder korrigierte Uhr verursacht keine Sperre der tatsächlichen Tagesrunde."
+  ]
+}

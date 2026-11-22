@@ -1,5 +1,12 @@
 # Änderungen
 
+## 0.3.0
+
+- Der deutsche Katalog wächst von 1.200 auf 2.400 Fragen. 1.800 Sachverhalte sind neu, 600 frühere bleiben aktiv und 600 frühere wurden archiviert. Jede Kategorie enthält 400 Fragen. Reines Wiedererkennen sinkt von 1.007 auf 405 Karten und von 83,9 auf 16,9 Prozent. [Vorher-nachher-Vergleich](release/qa/modern-0.3.0/bestand.json)
+- Die Tagesrunde enthält eine Schätzfrage und zwei eigens formulierte Hinweisfragen. Auch fällige Wiederholungen berücksichtigen diese Plätze. Höchstens zwei der zehn Aufgaben verlangen reines Wiedererkennen.
+- 36 Forschungskarten nennen Publikationsdatum und Originalquelle in der Auflösung. Bereits gespielte Forschungsfragen lassen sich im Wissensalbum gezielt wiederfinden. [Forschungsredaktion](content/research/README.md)
+- Der README-Spiel-Link aktualisiert eine zuvor offline gespeicherte Browserausgabe. Eine begonnene Runde behält ihre gespeicherten Fragen und Antworten. [Spiel-Link](https://emfau88.github.io/Quiz/spielen.html?v=0.3.0)
+
 ## 0.2.0 · 22. November 2026
 
 - 152 neue deutsche Sachverhalte aus sechs Kategorien. 1.048 frühere Sachverhalte und alle 150 Referenzfragen sind weiter aktiv. Die sechs Kategorien umfassen jeweils 200 Fragen.

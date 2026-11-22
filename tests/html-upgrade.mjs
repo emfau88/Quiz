@@ -9,7 +9,8 @@ import {chromium} from 'playwright-core';
 const previous = process.argv[2];
 assert.ok(previous,'Aufruf: node tests/html-upgrade.mjs PFAD_ZUR_VORHERIGEN_HTML');
 const current = 'release/Quizsalon-Lokaltest.html';
-const out = 'release/qa/fragenpool';
+const out = process.argv[3] || 'release/qa/fragenpool';
+const oldSelection = Number(process.argv[4] || 1);
 const work = await mkdtemp(resolve('.cache/fragenpool/html-'));
 const local = join(work,'Quizsalon.html'), profile = join(work,'browser');
 const digest = value => createHash('sha256').update(value).digest('hex');
@@ -55,7 +56,7 @@ try {
   await page.locator('#feedback').waitFor();
   const after=await readOrigin(page);
   assert.deepEqual(after,before);
-  assert.equal(session.selectionVersion,1);
+  assert.equal(session.selectionVersion,oldSelection);
   await page.locator('[data-action="next"]').click();
   await page.locator('button.answer').first().waitFor();
   for (let n=1;n<10;n++) {
@@ -80,6 +81,7 @@ try {
     newHtmlSHA256:digest(await readFile(current)),oldCatalog:session.catalogVersion,
     newCatalog:JSON.parse(await readFile('web/data/manifest.json','utf8')).version,
     savedStateAndInstallationEqual:true,answerAndProgressRestored:true,retainedOrder:true,
+    oldSelectionVersion:session.selectionVersion,
     completedValid:completed.result.valid,ledgerEntries:Object.keys(final.game.ledger).length,xp:completed.result.xp,
     externalRequests:net,pageErrors:errors
   },null,2)+'\n');

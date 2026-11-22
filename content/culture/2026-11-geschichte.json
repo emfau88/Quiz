@@ -910,10 +910,10 @@
     "explanation": "Einige Linien zwischen West-Berliner Stadtteilen verliefen unter Ost-Berlin. Die Züge passierten dort geschlossene und bewachte Bahnhöfe, ohne für Fahrgäste zu halten.",
     "tags": [
       "thema_alltagsgeschichte",
-      "form_herleiten",
+      "form_wiedererkennen",
       "damals_und_heute"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -930,30 +930,30 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:38:29Z",
+        "at": "2026-11-22T21:39:47.384101+00:00",
         "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Stiftung dokumentiert abgesperrte und bewachte Ost-Berliner Stationen auf West-Berliner Linien, an denen die Züge ohne Halt durchfuhren."
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:41:15Z",
+        "at": "2026-11-22T21:39:54.368334+00:00",
         "note": "Die Frage beschränkt sich auf manche Stationen. Die Lösung erklärt die Durchfahrt ohne Halt und bezieht sich nicht auf alle Ost-Berliner Bahnhöfe."
       },
-      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
-      "approved_at": "2026-11-22T18:41:15Z",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.368349+00:00",
       "issues": [],
       "length_exception": null
     },

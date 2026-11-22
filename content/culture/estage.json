@@ -1953,9 +1953,9 @@
     "explanation": "Orfeo soll seinen Blick von Euridice abwenden, bis beide die Unterwelt verlassen haben.",
     "tags": [
       "thema_buehne",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1971,28 +1971,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
-        "at": "2026-11-22T18:43:00.903+00:00",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.392662+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
-        "at": "2026-11-22T18:44:38.609+00:00",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.379179+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.379194+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },

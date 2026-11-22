@@ -2942,7 +2942,7 @@
     "fact_key": "chronik.oil.carfree",
     "category": "history_discoveries",
     "difficulty": "easy",
-    "question": "Was gab in der Bundesrepublik 1973 den Anlass für autofreie Sonntage?",
+    "question": "1973 sollten autofreie Sonntage in der Bundesrepublik Treibstoff sparen. Welche damals akute Krise traf ausgerechnet den Rohstoff für Benzin und Diesel?",
     "options": [
       {
         "id": "a",
@@ -2966,9 +2966,10 @@
     "tags": [
       "damals_und_heute",
       "thema_wirtschaftsgeschichte",
-      "form_wiedererkennen"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2984,28 +2985,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
-        "at": "2026-11-22T18:43:00.903+00:00",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
+        "at": "2026-11-22T21:49:26.301407+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
-        "at": "2026-11-22T18:44:38.609+00:00",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
+        "at": "2026-11-22T21:49:38.373504+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.373519+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -3702,7 +3703,7 @@
     "fact_key": "chronik.schengen.border",
     "category": "history_discoveries",
     "difficulty": "easy",
-    "question": "Was sollte das 1985 vereinbarte Schengener Abkommen schrittweise abbauen?",
+    "question": "Du reist nach der Umsetzung des Schengener Abkommens über eine gemeinsame Grenze zweier Teilnehmerstaaten. Welche Art von Kontrolle sollte dort im Regelfall entfallen?",
     "options": [
       {
         "id": "a",
@@ -3726,9 +3727,9 @@
     "tags": [
       "damals_und_heute",
       "thema_europa",
-      "form_wiedererkennen"
+      "form_anwenden"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3744,28 +3745,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
-        "at": "2026-11-22T18:43:00.903+00:00",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
+        "at": "2026-11-22T21:49:26.301451+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
-        "at": "2026-11-22T18:44:38.609+00:00",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
+        "at": "2026-11-22T21:49:38.373538+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.373541+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -4082,7 +4083,7 @@
     "fact_key": "chronik.mandela.detention",
     "category": "history_discoveries",
     "difficulty": "easy",
-    "question": "Ungefähr wie lange war Nelson Mandela vor seiner Freilassung 1990 inhaftiert?",
+    "question": "Nelson Mandela kam Anfang der 1960er-Jahre ins Gefängnis und 1990 frei. Welche Haftdauer kommt der tatsächlichen Zeit am nächsten?",
     "options": [
       {
         "id": "a",
@@ -4106,9 +4107,9 @@
     "tags": [
       "damals_und_heute",
       "thema_gesellschaftsgeschichte",
-      "form_wiedererkennen"
+      "form_schaetzen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -4124,28 +4125,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
-        "at": "2026-11-22T18:43:00.903+00:00",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
+        "at": "2026-11-22T21:49:26.301474+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
-        "at": "2026-11-22T18:44:38.609+00:00",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
+        "at": "2026-11-22T21:49:38.373549+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.373551+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },

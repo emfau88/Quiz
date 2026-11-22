@@ -79,7 +79,7 @@
     "fact_key": "pisa-turm-funktion",
     "category": "geography_travel",
     "difficulty": "easy",
-    "question": "Welche Aufgabe hat der Schiefe Turm von Pisa am Domplatz?",
+    "question": "Der Schiefe Turm von Pisa steht frei neben dem Dom. Von dort oben ruft es zum Gottesdienst, ohne dass jemand sprechen muss. Welche Aufgabe hat der Turm?",
     "options": [
       {
         "id": "a",
@@ -102,9 +102,10 @@
     "explanation": "Der schiefe Turm ist der separat stehende Glockenturm des Doms von Pisa. Solche Türme heißen in Italien Campanile.",
     "tags": [
       "thema_bauwerke",
-      "form_wiedererkennen"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -120,28 +121,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:49:26.311368+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:49:38.396180+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.396189+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1452,9 +1453,9 @@
     "explanation": "Die schmalen Mauern unterteilen die Weinanbaufläche in viele kleine Rechtecke und schirmen die Reben gegen Wind und Meerwasser ab.",
     "tags": [
       "thema_kulturlandschaften",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1470,28 +1471,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.410991+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.394875+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.394885+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },

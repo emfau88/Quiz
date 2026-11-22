@@ -102,9 +102,9 @@
     "explanation": "Kupfer leitet elektrischen Strom gut und lässt sich zu dünnem Draht ziehen.",
     "tags": [
       "thema_werkstoffe",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -120,28 +120,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.411926+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.396760+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.396771+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -229,7 +229,7 @@
     "fact_key": "gps-position",
     "category": "everyday_technology",
     "difficulty": "easy",
-    "question": "Wobei hilft der Satellitendienst GPS im Auto?",
+    "question": "Dein Auto hat noch eine gespeicherte Straßenkarte, aber keinen Mobilfunkempfang. Signale von mehreren GPS-Satelliten kommen an. Was ermöglichen diese Signale für die Karte?",
     "options": [
       {
         "id": "a",
@@ -252,9 +252,9 @@
     "explanation": "GPS stellt Signale für die Positionsbestimmung, Navigation und genaue Zeit bereit.",
     "tags": [
       "thema_digitaltechnik",
-      "form_wiedererkennen"
+      "form_anwenden"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -270,28 +270,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:49:26.311846+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:49:38.398116+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.398125+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -327,9 +327,9 @@
     "explanation": "Für ein gewöhnliches Induktionsfeld braucht der Topf einen geeigneten magnetischen Boden. Daran bleibt ein Magnet haften.",
     "tags": [
       "thema_haushalt",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -345,28 +345,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.412004+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.396787+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.396789+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -529,7 +529,7 @@
     "fact_key": "waermepumpe-luft",
     "category": "everyday_technology",
     "difficulty": "easy",
-    "question": "Woher bezieht eine Luftwärmepumpe einen großen Teil der Heizwärme?",
+    "question": "Eine Luftwärmepumpe liefert mehr Wärme ans Haus, als ihr Antrieb Strom verbraucht. Draußen verlässt abgekühlte Luft das Gerät. Woher kam der zusätzliche Anteil?",
     "options": [
       {
         "id": "a",
@@ -552,9 +552,10 @@
     "explanation": "Eine Wärmepumpe entzieht ihrer Wärmequelle Energie. Bei einer Luftwärmepumpe ist diese Quelle die Umgebungsluft.",
     "tags": [
       "thema_energietechnik",
-      "form_wiedererkennen"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -570,28 +571,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:49:26.311887+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:49:38.398137+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.398140+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -604,7 +605,7 @@
     "fact_key": "windrad-generator",
     "category": "everyday_technology",
     "difficulty": "easy",
-    "question": "Welcher Teil einer Windkraftanlage wandelt die Drehbewegung in Strom um?",
+    "question": "Im Windrad dreht sich hinter dem Rotor eine Welle. Am Ausgang des gesuchten Bauteils liegt elektrische Energie an. Welches Bauteil passt zwischen Welle und Stromleitung?",
     "options": [
       {
         "id": "a",
@@ -627,9 +628,10 @@
     "explanation": "Der Wind versetzt den Rotor in Bewegung. Der daran gekoppelte Generator erzeugt elektrische Energie.",
     "tags": [
       "thema_energietechnik",
-      "form_wiedererkennen"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -645,28 +647,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:49:26.311910+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:49:38.398146+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.398148+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -679,7 +681,7 @@
     "fact_key": "waesche-hoechsttemperatur",
     "category": "everyday_technology",
     "difficulty": "easy",
-    "question": "Was sagt die Temperatur auf dem Waschsymbol eines Textils aus?",
+    "question": "Auf deinem Hemd steht 40 im Waschbottich. Die Maschine bietet 30, 40 und 60 Grad. Welche Grenze setzt die Pflegeangabe bei dieser Auswahl?",
     "options": [
       {
         "id": "a",
@@ -702,9 +704,9 @@
     "explanation": "Die Pflegeangabe nennt die höchstens zulässige Behandlung. Eine niedrigere Waschtemperatur ist erlaubt.",
     "tags": [
       "thema_haushalt",
-      "form_wiedererkennen"
+      "form_anwenden"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -720,28 +722,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:49:26.311929+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:49:38.398154+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.398156+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -777,9 +779,9 @@
     "explanation": "Aluminium hat eine geringe Dichte. Mit geeigneten Legierungspartnern entstehen leichte und zugleich belastbare Werkstoffe.",
     "tags": [
       "thema_werkstoffe",
-      "form_herleiten"
+      "form_vergleichen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -795,28 +797,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:39:47.412036+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:39:54.396799+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:39:54.396801+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1204,7 +1206,7 @@
     "fact_key": "induktion-erwaermung",
     "category": "everyday_technology",
     "difficulty": "medium",
-    "question": "Wo entsteht beim Kochen auf einem Induktionsfeld die Wärme hauptsächlich?",
+    "question": "Beim Induktionskochen fließt im Topfboden ein elektrischer Strom. Wo entsteht deshalb die Wärme, die zuerst das Wasser im Topf erreicht?",
     "options": [
       {
         "id": "a",
@@ -1227,9 +1229,10 @@
     "explanation": "Das elektromagnetische Feld erzeugt Ströme im Topfboden. Dadurch wird das Kochgeschirr selbst heiß.",
     "tags": [
       "thema_haushalt",
-      "form_wiedererkennen"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1245,28 +1248,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:49:26.311948+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:49:38.398163+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.398165+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1429,7 +1432,7 @@
     "fact_key": "druck-pascal",
     "category": "everyday_technology",
     "difficulty": "hard",
-    "question": "Wie viel Druck entspricht einem Newton Kraft, gleichmäßig und senkrecht auf einen Quadratmeter verteilt?",
+    "question": "Eine Kraft von drei Newton verteilt sich senkrecht und gleichmäßig auf drei Quadratmeter. Ein Pascal ist ein Newton pro Quadratmeter. Wie groß ist hier der Druck?",
     "options": [
       {
         "id": "a",
@@ -1452,9 +1455,9 @@
     "explanation": "Die Druckeinheit Pascal entspricht genau einem Newton pro Quadratmeter.",
     "tags": [
       "thema_messen",
-      "form_wiedererkennen"
+      "form_anwenden"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1470,28 +1473,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:49:26.311966+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:49:38.398171+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.398173+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1504,7 +1507,7 @@
     "fact_key": "waermepumpe-cop",
     "category": "everyday_technology",
     "difficulty": "hard",
-    "question": "Was beschreibt die Leistungszahl COP einer Wärmepumpe im Heizbetrieb?",
+    "question": "Eine Wärmepumpe gibt im Test vier Kilowatt Wärme ab und braucht ein Kilowatt Antrieb. Welcher Quotient ergibt aus diesen Werten die Leistungszahl COP?",
     "options": [
       {
         "id": "a",
@@ -1527,9 +1530,9 @@
     "explanation": "Ein COP von vier bedeutet unter den angegebenen Betriebsbedingungen vier Einheiten abgegebene Wärme je Einheit eingesetzter Antriebsenergie.",
     "tags": [
       "thema_energietechnik",
-      "form_wiedererkennen"
+      "form_anwenden"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1545,28 +1548,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:43:00.903+00:00"
+        "at": "2026-11-22T21:49:26.311984+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:38.609+00:00"
+        "at": "2026-11-22T21:49:38.398180+00:00"
       },
-      "approved_at": "2026-11-22T18:44:38.609+00:00",
-      "approved_by": "Codex · Redaktion Fragenpool",
+      "approved_at": "2026-11-22T21:49:38.398182+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },

@@ -83,7 +83,7 @@
     "fact_key": "media.mainzel",
     "category": "entertainment",
     "difficulty": "easy",
-    "question": "Im ZDF tauchen die Mainzelmännchen in sehr kurzen Szenen auf. Welche Aufgabe erfüllen diese Szenen im Programm?",
+    "question": "Im ZDF wirbt zuerst eine Firma für Kaffee, danach eine andere für ein Auto. Dazwischen huschen die Mainzelmännchen durchs Bild. Welche Aufgabe übernehmen diese kurzen Szenen?",
     "options": [
       {
         "id": "a",
@@ -106,10 +106,11 @@
     "explanation": "Schon am zweiten Sendetag des ZDF im April 1963 traten die kleinen Zeichentrickfiguren auf. Mit ihren Szenen gliedern sie die Werbung.",
     "tags": [
       "thema_fernsehen",
-      "form_wiedererkennen",
-      "damals_und_heute"
+      "form_herleiten",
+      "damals_und_heute",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -128,28 +129,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:39:35Z",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
+        "at": "2026-11-22T21:49:26.293355+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
+        "at": "2026-11-22T21:49:38.356854+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:49:38.356865+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -241,7 +242,7 @@
     "fact_key": "media.gruss_bord",
     "category": "entertainment",
     "difficulty": "easy",
-    "question": "Wem gelten an Heiligabend die Weihnachtsbotschaften der NDR-Radiosendung „Gruß an Bord“?",
+    "question": "Am Heiligabend sendet der NDR „Gruß an Bord“. Die Grüße kommen von Angehörigen an Land und erreichen auch Besatzungen auf Forschungsfahrt. Wem gelten sie?",
     "options": [
       {
         "id": "a",
@@ -264,9 +265,10 @@
     "explanation": "Der NDR übermittelt die Grüße an Menschen, die Weihnachten auf See verbringen. Dazu gehören auch die Besatzungen von Forschungs- und Seenotrettungsschiffen.",
     "tags": [
       "thema_radio",
-      "form_wiedererkennen"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -285,28 +287,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:39:35Z",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
+        "at": "2026-11-22T21:49:26.293415+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
+        "at": "2026-11-22T21:49:38.356879+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:49:38.356881+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -499,9 +501,10 @@
     "explanation": "Seit dem ersten Radio Tatort 2008 wechseln sich Hörspielproduktionen aus den Regionen ab. Die Rundfunkanstalten senden den jeweiligen Fall gemeinsam.",
     "tags": [
       "thema_radio",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -520,28 +523,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:35:46Z",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.386727+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.373103+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:39:54.373117+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -577,10 +580,10 @@
     "explanation": "WDR und Deutsche Verkehrswacht entwickelten „Der 7. Sinn“ für die Verkehrserziehung. Schon vor der Gurtpflicht warb die Sendung für das Anschnallen.",
     "tags": [
       "thema_fernsehen",
-      "form_herleiten",
+      "form_wiedererkennen",
       "damals_und_heute"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -599,28 +602,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:35:46Z",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.386804+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.373133+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:39:54.373136+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -656,9 +659,9 @@
     "explanation": "Zuerst begutachten Fachleute das Stück. Mit der Händlerkarte darf die Besitzerin es anschließend zum Verkauf anbieten.",
     "tags": [
       "thema_fernsehen",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -677,28 +680,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:35:46Z",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.386835+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.373145+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:39:54.373147+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -734,10 +737,10 @@
     "explanation": "Miss Sophie feiert ihren 90. Geburtstag mit vier vorgestellten Gästen. James hält für jeden von ihnen das gewohnte Ritual aufrecht.",
     "tags": [
       "thema_fernsehen",
-      "form_herleiten",
+      "form_wiedererkennen",
       "damals_und_heute"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -756,28 +759,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:39:35Z",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.386861+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.373154+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:39:54.373157+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1376,10 +1379,10 @@
     "explanation": "Lindenberg durfte im Oktober 1983 tatsächlich in der DDR singen. Ausgerechnet „Sonderzug nach Pankow“ durfte er dort bei diesem Konzert nicht spielen.",
     "tags": [
       "thema_popmusik",
-      "form_herleiten",
+      "form_wiedererkennen",
       "damals_und_heute"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1398,28 +1401,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:35:46Z",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.386886+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.373166+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:39:54.373169+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1847,9 +1850,9 @@
     "explanation": "Anregungen für das Lied kamen aus Yoko Onos Buch „Grapefruit“. Lennon übernahm daraus die Idee, seine Hörer zu einem Gedankenexperiment einzuladen.",
     "tags": [
       "thema_popmusik",
-      "form_herleiten"
+      "form_vergleichen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1868,28 +1871,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:35:46Z",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.386911+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.373177+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:39:54.373179+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2003,9 +2006,9 @@
     "explanation": "Simon reiste nach Südafrika und arbeitete dort mit einheimischen Musikern. Die Aufnahmen während der Apartheid lösten auch eine politische Debatte aus.",
     "tags": [
       "thema_musikgeschichte",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2024,28 +2027,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:39:35Z",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.386932+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.373186+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:39:54.373188+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2237,9 +2240,9 @@
     "explanation": "Rick stellt seinen eigenen Wunsch zurück. Ilsa und ihr Mann, der Widerstandskämpfer Victor Laszlo, können gemeinsam ins Flugzeug steigen.",
     "tags": [
       "thema_filmgeschichten",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2258,28 +2261,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:35:46Z",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.386954+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.373196+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:39:54.373198+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2393,9 +2396,9 @@
     "explanation": "Pfeiffer hatte zu Hause einen Privatlehrer. Als Freunde von ihren Schulstreichen erzählen, will er solche Erlebnisse selbst nachholen.",
     "tags": [
       "thema_filmgeschichten",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2414,28 +2417,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:35:46Z",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.386974+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.373206+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:39:54.373208+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2627,9 +2630,9 @@
     "explanation": "Christiane hat den Mauerfall im Koma verpasst. Ihr Sohn versucht, die Veränderungen vor der gesundheitlich geschwächten Mutter zu verbergen.",
     "tags": [
       "thema_filmgeschichten",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2648,28 +2651,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:35:46Z",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.386995+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.373214+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:39:54.373216+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2861,9 +2864,9 @@
     "explanation": "E.T. ist auf der Erde gestrandet. Die Kinder helfen ihm, während ihnen Regierungsbeamte auf der Spur sind.",
     "tags": [
       "thema_filmgeschichten",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2882,28 +2885,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:35:46Z",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.387017+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.373223+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:39:54.373225+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -3017,9 +3020,10 @@
     "explanation": "Die Figuren verkörpern Rileys Gefühle. Als ihre Familie nach San Francisco zieht, gerät auch das Zusammenspiel in ihrem Kopf durcheinander.",
     "tags": [
       "thema_filmgeschichten",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3038,28 +3042,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:35:46Z",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.387039+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.373230+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:39:54.373232+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -3072,7 +3076,7 @@
     "fact_key": "media.paddington_fundort",
     "category": "entertainment",
     "difficulty": "easy",
-    "question": "Wo findet die Familie Brown im ersten „Paddington“-Kinofilm den Bären, der gerade in London angekommen ist?",
+    "question": "Die Browns finden Paddington in London bei den Gleisen. Über seiner Ankunft steht derselbe Name, den sie später dem Bären geben. An welchem Ort treffen sie ihn?",
     "options": [
       {
         "id": "a",
@@ -3095,9 +3099,10 @@
     "explanation": "Der kleine Bär ist aus Peru nach London gereist. Am Bahnhof Paddington sehen die Browns ihn mit einem Zettel, der um Fürsorge für ihn bittet.",
     "tags": [
       "thema_filmgeschichten",
-      "form_wiedererkennen"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3116,28 +3121,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:35:46Z",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
+        "at": "2026-11-22T21:49:26.293442+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
+        "at": "2026-11-22T21:49:38.356901+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:49:38.356903+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -3228,7 +3233,7 @@
     "fact_key": "media.tor_des_monats",
     "category": "entertainment",
     "difficulty": "easy",
-    "question": "Wer entscheidet bei der „Sportschau“, welcher der vorgeschlagenen Treffer das „Tor des Monats“ wird?",
+    "question": "Mehrere Treffer stehen beim „Tor des Monats“ der Sportschau zur Wahl. Du gibst von zu Hause deine Stimme ab. Wer entscheidet bei dieser Auszeichnung über den Sieger?",
     "options": [
       {
         "id": "a",
@@ -3251,9 +3256,9 @@
     "explanation": "Die „Sportschau“ lässt über ausgewählte Treffer abstimmen. Ihr Archiv führt die ausgezeichneten Tore bis 1971 zurück.",
     "tags": [
       "thema_sportmedien",
-      "form_wiedererkennen"
+      "form_anwenden"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3272,28 +3277,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:35:46Z",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
+        "at": "2026-11-22T21:49:26.293462+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
+        "at": "2026-11-22T21:49:38.356910+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:49:38.356912+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -3329,9 +3334,9 @@
     "explanation": "Das Torwandschießen gehört zur ZDF-Sendung. Die sechs Versuche verteilen sich gleichmäßig auf die untere und die obere Öffnung.",
     "tags": [
       "thema_sportmedien",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3350,28 +3355,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:35:46Z",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.387061+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.373238+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:39:54.373240+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -3408,9 +3413,10 @@
     "tags": [
       "thema_sportmedien",
       "form_herleiten",
-      "damals_und_heute"
+      "damals_und_heute",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3429,28 +3435,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:39:35Z",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.387082+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.373247+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:39:54.373248+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -3643,10 +3649,10 @@
     "explanation": "Im Pekinger Olympiastadion gaben 2.008 Trommler den Rhythmus vor. Ihre Zahl entsprach genau der Jahreszahl.",
     "tags": [
       "thema_sportmedien",
-      "form_herleiten",
+      "form_wiedererkennen",
       "damals_und_heute"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3665,28 +3671,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:39:35Z",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.387104+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.373256+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:39:54.373257+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -3722,9 +3728,10 @@
     "explanation": "Bei großen Straßenrennen begleiten Kameramotorräder die Gruppen. Ein Hubschrauber kann zusätzlich aus der Luft zeigen, wie Ausreißer und Hauptfeld zueinander liegen.",
     "tags": [
       "thema_sportmedien",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3743,28 +3750,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:35:46Z",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
+        "at": "2026-11-22T21:39:47.387125+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Unterhaltungsredaktion",
-        "at": "2026-11-22T18:41:34Z",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
+        "at": "2026-11-22T21:39:54.373263+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-22T18:41:34Z",
-      "approved_by": "Codex · Unterhaltungsredaktion",
+      "approved_at": "2026-11-22T21:39:54.373265+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },

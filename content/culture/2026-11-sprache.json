@@ -261,9 +261,9 @@
     "explanation": "Das Ass zählt elf, die Zehn zehn und der König vier Augen. Zusammen macht das 25. Eine Dame wäre mit drei Augen einen Zähler weniger wert als der König.",
     "tags": [
       "thema_gesellschaftsspiele",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -280,30 +280,30 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:38:29Z",
+        "at": "2026-11-22T21:39:47.384690+00:00",
         "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Kartenwertliste weist Ass 11, Zehn 10, König 4 und Dame 3 zu; daraus ergeben sich für den genannten Stich 25 Augen."
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:41:15Z",
+        "at": "2026-11-22T21:39:54.370068+00:00",
         "note": "Ass, Zehn und König ergeben rechnerisch 11 + 10 + 4. Die Aufgabe erfragt den Wert dieses Stichs und nicht den Grundwert des Spiels."
       },
-      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
-      "approved_at": "2026-11-22T18:41:15Z",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.370076+00:00",
       "issues": [],
       "length_exception": null
     },
@@ -339,9 +339,9 @@
     "explanation": "Ein Full House besteht aus drei gleichen Würfeln und einem Paar mit anderer Augenzahl. In der entsprechenden Zeile des klassischen Kniffelblocks bringt das 25 Punkte.",
     "tags": [
       "thema_gesellschaftsspiele",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -358,30 +358,30 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:38:29Z",
+        "at": "2026-11-22T21:39:47.384758+00:00",
         "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Spielanleitung verlangt drei gleiche und zwei andere gleiche Würfel und vergibt für die entsprechende Zeile 25 Punkte."
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:41:15Z",
+        "at": "2026-11-22T21:39:54.370087+00:00",
         "note": "Alle Optionen beschreiben fünf Würfel. Nur bei einer liegen ein Dreier und ein davon verschiedenes Paar vor. Sonderwertungen für fünf Gleiche spielen hier keine Rolle."
       },
-      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
-      "approved_at": "2026-11-22T18:41:15Z",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.370089+00:00",
       "issues": [],
       "length_exception": null
     },
@@ -495,9 +495,9 @@
     "explanation": "Die eingeschobene Karte verschiebt eine Reihe. Am anderen Ende kommt eine Karte heraus, die für den nächsten Zug frei bleibt. Erst danach bewegt sich die Figur.",
     "tags": [
       "thema_gesellschaftsspiele",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -514,30 +514,30 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:38:29Z",
+        "at": "2026-11-22T21:39:47.384796+00:00",
         "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Verlagsspielregel beschreibt das Einschieben der freien Karte, das Herausschieben einer anderen und die anschließende Bewegung der Figur."
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:41:15Z",
+        "at": "2026-11-22T21:39:54.370095+00:00",
         "note": "Die Frage bezeichnet das klassische Spiel. Alle vier Alternativen verändern die Lage von Gängekarten. Nur das Einschieben der freien Karte in eine Reihe entspricht dem Zugablauf."
       },
-      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
-      "approved_at": "2026-11-22T18:41:15Z",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.370097+00:00",
       "issues": [],
       "length_exception": null
     },
@@ -550,7 +550,7 @@
     "fact_key": "bulk4.maedn.geschlagen",
     "category": "language_culture",
     "difficulty": "easy",
-    "question": "Bei „Mensch ärgere Dich nicht“ landet eine fremde Figur genau auf der eigenen. Wohin kommt die so geschlagene Figur nach der Grundregel?",
+    "question": "Dein roter Stein wird bei „Mensch ärgere Dich nicht“ von Blau geschlagen. Du nimmst ihn von der Laufbahn. Welches Feld auf dem Spielbrett ist dafür vorgesehen?",
     "options": [
       {
         "id": "a",
@@ -573,9 +573,9 @@
     "explanation": "Die geschlagene Figur kommt zurück auf einen eigenen Warteplatz. Diese Plätze heißen in der Spielanleitung B-Felder. Von dort aus kann sie später erneut ins Spiel kommen.",
     "tags": [
       "thema_gesellschaftsspiele",
-      "form_wiedererkennen"
+      "form_anwenden"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -592,30 +592,30 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:38:29Z",
+        "at": "2026-11-22T21:49:26.292293+00:00",
         "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Anleitung bezeichnet die farbigen B-Felder als Warteplätze und legt fest, dass geschlagene Figuren auf die eigenen B-Felder zurückkehren."
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:41:15Z",
+        "at": "2026-11-22T21:49:38.353618+00:00",
         "note": "Fremde Figur und Landung auf exakt demselben Feld sind vorgegeben. A-, B- und Zielfelder sind dadurch unterscheidbar."
       },
-      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
-      "approved_at": "2026-11-22T18:41:15Z",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:49:38.353635+00:00",
       "issues": [],
       "length_exception": null
     },
@@ -651,9 +651,9 @@
     "explanation": "Wer auf dem Holzweg ist, irrt sich. Das Bild passt zu einem Weg für den Holztransport, der mitten im Wald enden kann.",
     "tags": [
       "thema_redensarten",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -670,30 +670,30 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:38:29Z",
+        "at": "2026-11-22T21:39:47.384833+00:00",
         "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der Duden erklärt die Wendung als Irrtum und verknüpft das Bild mit einem Weg, der vielfach im Wald endet."
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:41:15Z",
+        "at": "2026-11-22T21:39:54.370103+00:00",
         "note": "Die Frage bittet um die übertragene Bedeutung innerhalb eines Gesprächs. Die Erklärung beschränkt sich auf das belegte Bild eines im Wald endenden Weges."
       },
-      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
-      "approved_at": "2026-11-22T18:41:15Z",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.370106+00:00",
       "issues": [],
       "length_exception": null
     },
@@ -729,9 +729,9 @@
     "explanation": "Die Redensart beschreibt einen gesellschaftlichen Fehltritt. Wer etwa aus Versehen ein empfindliches Thema anspricht, kann ins Fettnäpfchen treten.",
     "tags": [
       "thema_redensarten",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -748,30 +748,30 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:38:29Z",
+        "at": "2026-11-22T21:39:47.384868+00:00",
         "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der Duden erklärt die Wendung als Fauxpas, etwa durch eine unbedachte Äußerung, die Unwillen auslöst."
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:41:15Z",
+        "at": "2026-11-22T21:39:54.370113+00:00",
         "note": "Die Alternativen schildern unterschiedliche unangenehme Situationen. Nur der unbeabsichtigte gesellschaftliche Fehltritt trifft die Wendung."
       },
-      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
-      "approved_at": "2026-11-22T18:41:15Z",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.370116+00:00",
       "issues": [],
       "length_exception": null
     },
@@ -807,9 +807,9 @@
     "explanation": "Die Entscheidung bleibt liegen. Mit der langen Bank beschreibt man im Deutschen, dass jemand eine oftmals unangenehme Aufgabe hinauszögert.",
     "tags": [
       "thema_redensarten",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -826,30 +826,30 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:38:29Z",
+        "at": "2026-11-22T21:39:47.384902+00:00",
         "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der Duden erläutert diese Wendung als Aufschieben oder Hinauszögern einer unangenehmen Sache."
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:41:15Z",
+        "at": "2026-11-22T21:39:54.370124+00:00",
         "note": "Die Antwortmöglichkeiten beschreiben konkrete Vereinsentscheidungen. Die übertragene Bedeutung ist die Verzögerung, unabhängig vom Thema Dach."
       },
-      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
-      "approved_at": "2026-11-22T18:41:15Z",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.370127+00:00",
       "issues": [],
       "length_exception": null
     },

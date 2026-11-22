@@ -35,7 +35,11 @@ jobs:
         run: |
           npm test
           python tests/catalog_test.py
+          python tools/culture03_editor.py audit
+          python tools/science03_verify.py
           python tools/catalog.py --stage release
+          git diff --exit-code -- web/data web/js/rules.js
+          node tools/modern-rounds.mjs
       - name: Browser-Testausgabe bauen
         run: node tools/package-web.mjs --pages "$RUNNER_TEMP/quizsalon/Quiz"
       - name: Handy-Ansicht und Offline-Wiederaufnahme prüfen

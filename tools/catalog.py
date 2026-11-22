@@ -135,7 +135,8 @@ def editorial_archive(records, replacements):
     return [{"id": qid, "semantic_revision": by_id[qid]["semantic_revision"]} for qid in sorted(following)]
 
 
-FORMS = {"form_wiedererkennen", "form_herleiten", "form_vergleichen", "form_zeitlich_einordnen"}
+FORMS = {"form_wiedererkennen", "form_herleiten", "form_vergleichen", "form_zeitlich_einordnen",
+         "form_schaetzen", "form_anwenden"}
 
 
 def verify_classification(q):
@@ -144,6 +145,13 @@ def verify_classification(q):
     require(len(topics) == 1 and re.fullmatch(r"thema_[a-z][a-z0-9_]*", topics[0]),
             f"Genau ein Hauptunterthema erforderlich: {q['id']}")
     require(len(forms) == 1 and forms[0] in FORMS, f"Genau eine bekannte Frageform erforderlich: {q['id']}")
+    if "tagesraetsel" in q["tags"]:
+        require(forms == ["form_herleiten"], f"Hinweisfrage in falscher Frageform: {q['id']}")
+    if "research" in q:
+        research = q["research"]
+        when = date.fromisoformat(research["published_on"])
+        require(when <= date.today() and any(s["id"] == research["source_id"] for s in q["sources"]),
+                f"Publikationsdatum oder Originalquelle der Forschungskarte ungültig: {q['id']}")
 
 
 def build(stage, output, as_of, rules_path=None):
@@ -189,6 +197,8 @@ def build(stage, output, as_of, rules_path=None):
     if stage in ("reference", "half", "release"):
         require(exact_reference, f"Referenzverteilung unvollständig: {reference}")
     if stage == "release":
+        require(all("tagesraetsel" in q["tags"] for q in rows if "form_herleiten" in q["tags"]),
+                "Als Herleitung eingeordnete Frage ohne redaktionelle Eignungsprüfung für die Tagesrunde")
         require(exact_release, f"Releaseverteilung unvollständig: {mix}")
     require(len(rows) >= rules["catalog"]["starter_min"], "Mindestens 20 belegte Fragen erforderlich")
     require(all(sum(v) > 0 for v in mix.values()), "Eine Kategorie fehlt")
@@ -199,21 +209,51 @@ def build(stage, output, as_of, rules_path=None):
         verify_classification(q)
         entry = {k: q[k] for k in RUNTIME_FIELDS}
         entry["sources"] = [{k: s[k] for k in ("title", "url")} for s in q["sources"]]
+        if "research" in q:
+            record = q["research"]
+            original = next(s for s in q["sources"] if s["id"] == record["source_id"])
+            entry["research"] = {"published_on": record["published_on"], "publisher": record["publisher"],
+                                 "url": original["url"]}
         old = history.get(q["id"])
         if old:
             check_history(entry, old)
         runtime.append(entry)
-    content_hash = hashlib.sha256(encode([runtime, corrections, archived]).encode()).hexdigest()
+    listed_clues = read(ROOT / "specs/daily_clues.json")
+    clue_ids = [qid for roster in listed_clues.values() for qid in roster]
+    unique(clue_ids, "Doppelte ID in der täglichen Hinweisauswahl")
+    qualified = {q["id"] for q in rows if "tagesraetsel" in q["tags"] and q["id"] in listed_clues.get(q["category"], [])}
+    if stage == "release":
+        require(set(listed_clues) == set(rules["categories"]) and set(clue_ids) == qualified,
+                "Unbekannte, falsch zugeordnete oder ungeprüfte Frage in der täglichen Hinweisauswahl")
+    daily_clues = sorted(qualified)
+    forms = Counter(next(t for t in q["tags"] if t.startswith("form_")) for q in rows)
+    if stage == "release":
+        require(forms["form_wiedererkennen"] <= len(rows) * rules["catalog"]["max_recognition_share"],
+                "Anteil reiner Wiedererkennungsfragen über dem vereinbarten Maximum")
+        for form, count in rules["rounds"]["daily"]["formats"].items():
+            require(forms[form] >= count, f"Pflichtformat zu schwach besetzt: {form}")
+        require(any("research" in q for q in rows), "Forschungskarten fehlen")
+    daily = rules["rounds"]["daily"]
+    slots = daily["formats"]
+    available = Counter(next(t for t in q["tags"] if t.startswith("form_")) for q in rows if "research" not in q)
+    available["form_wiedererkennen"] = min(available["form_wiedererkennen"], daily["max_recognition"])
+    daily_formats = (all(available[k] >= n for k, n in slots.items())
+                     and sum(n for k, n in available.items() if k not in slots) >= daily["length"] - sum(slots.values()))
+    if stage == "release":
+        require(daily_formats, "Pflichtplätze einer Tagesrunde ohne Forschung nicht belegbar")
+    content_hash = hashlib.sha256(encode([runtime, corrections, archived, daily_formats, daily_clues]).encode()).hexdigest()
     version = "de-" + content_hash[:12]
     manifest = {"version": version, "sha256": content_hash, "active": len(rows), "facts": len({q["fact_key"] for q in rows}),
                 "starter": sum(bool(q.get("starter")) for q in rows), "reference": sum(bool(q.get("reference")) for q in rows),
                 "categories": mix, "reference_categories": reference, "reference_complete": exact_reference,
                 "release_distribution_complete": exact_reference and exact_release, "corrections": len(corrections),
-                "archived": len(archived),
+                "archived": len(archived), "forms": dict(sorted(forms.items())),
+                "research": sum("research" in q for q in rows), "daily_formats": daily_formats, "daily_clues": len(daily_clues),
                 "human_observations": sum(len(q["human_test_observations"]) for q in rows)}
     output.mkdir(parents=True, exist_ok=True)
     (output / "catalog.json").write_text(encode({"version": version, "questions": runtime, "corrections": corrections,
-                                                "archived": archived}) + "\n", encoding="utf-8", newline="\n")
+                                                "archived": archived, "daily_formats": daily_formats,
+                                                "daily_clues": daily_clues}) + "\n", encoding="utf-8", newline="\n")
     (output / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
     rules_path = rules_path or (output.parent / "js/rules.js")
     rules_path.parent.mkdir(parents=True, exist_ok=True)

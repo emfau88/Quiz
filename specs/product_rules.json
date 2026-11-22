@@ -1,5 +1,5 @@
 {
-  "selection_version": 2,
+  "selection_version": 3,
   "categories": {
     "nature_animals": "Natur und Tiere",
     "geography_travel": "Länder und Reisen",
@@ -9,7 +9,7 @@
     "language_culture": "Sprache und Kultur"
   },
   "rounds": {
-    "daily": {"length": 10, "mix": [6, 3, 1]},
+    "daily": {"length": 10, "mix": [6, 3, 1], "formats": {"form_schaetzen": 1, "form_herleiten": 2}, "max_recognition": 2, "research_weekdays": [2, 4, 0], "research_months": 36, "recent_research_weekday": 0, "recent_research_months": 12},
     "topic": {"length": 10, "mix": [6, 3, 1]},
     "challenge": {"length": 10, "mix": [2, 5, 3]},
     "trial": {"length": 5, "mix": [3, 2, 0]},
@@ -34,6 +34,6 @@
       {"name": "Mira", "specialties": ["entertainment", "language_culture"]}
     ]
   },
-  "catalog": {"starter_min": 20, "reference_mix": [15, 7, 3], "release_mix": [120, 60, 20]},
+  "catalog": {"starter_min": 20, "reference_mix": [15, 7, 3], "release_mix": [240, 120, 40], "max_recognition_share": 0.20},
   "billing_product": "quizsalon_plus"
 }

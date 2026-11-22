@@ -19,6 +19,12 @@ export function addDays(day, days) {
   date.setUTCDate(date.getUTCDate() + days);
   return date.toISOString().slice(0, 10);
 }
+function monthsBefore(date, months) {
+  const first = new Date(Date.UTC(date.getUTCFullYear(),date.getUTCMonth()-months,1));
+  const end = new Date(Date.UTC(first.getUTCFullYear(),first.getUTCMonth()+1,0));
+  first.setUTCDate(Math.min(date.getUTCDate(),end.getUTCDate()));
+  return first.toISOString().slice(0,10);
+}
 export function monday(day) {
   const weekday = new Date(day + 'T12:00:00Z').getUTCDay();
   return addDays(day, -(weekday + 6) % 7);
@@ -93,19 +99,34 @@ function choose(state, catalog, mode, category, day, seed) {
     }
   }
   const withdrawn = new Set([...Object.keys(state.corrections || {}), ...catalog.corrections.map(keyOf)]);
+  const dailyMix = mode === 'daily' && catalog.daily_formats;
+  const dailyClues = dailyMix ? new Set(catalog.daily_clues) : null;
   const pool = shuffle(catalog.questions.filter(q =>
     (!category || category === q.category) && (!q.valid_until || q.valid_until >= day) &&
+    (!q.research || q.research.published_on <= day) &&
     !withdrawn.has(keyOf(q)) && !reservedFacts.has(q.fact_key) && !reservedIds.has(q.id)
   ), random);
   const topicOf = new Map(pool.map(q => [q.id, q.category + '/' + (q.tags?.find(t => t.startsWith('thema_')) || '')]));
   const topicOrder = new Map(shuffle([...new Set(topicOf.values())], random).map((topic, index) => [topic, index]));
-  const byTopic = new Map();
+  const byTopic = new Map(), byForm = new Map();
+  const formOf = new Map(pool.map(q => [q.id, q.tags?.find(t => t.startsWith('form_')) || '']));
+  const remaining = dailyMix ? {...config.formats} : null;
+  if (remaining) remaining.other = config.length - Object.values(config.formats).reduce((a,b) => a+b, 0);
+  const formatGroup = form => dailyMix && Object.hasOwn(config.formats, form) ? form : 'other';
   const picked = [], usedIds = new Set(), usedFacts = new Set(), byCategory = {}, byDifficulty = {};
+  const regular = dailyMix ? pool.filter(q => !q.research) : pool;
+  const featured = dailyMix ? regular.filter(q => dailyClues.has(q.id)) : [];
+  let hasFeatured = false;
   function take(candidates, limit, kind, oldest = false) {
     for (let n = 0; n < limit; n++) {
       let q, bestDate, bestRank;
       for (const candidate of candidates) {
         if (usedIds.has(candidate.id) || usedFacts.has(candidate.fact_key)) continue;
+        const form = formOf.get(candidate.id);
+        if (dailyMix && (!remaining[formatGroup(form)]
+          || (form === 'form_wiedererkennen' && byForm.get(form) >= config.max_recognition))) continue;
+        if (form === 'form_herleiten' && featured.length && !hasFeatured &&
+            remaining[form] === 1 && !dailyClues.has(candidate.id)) continue;
         const progress = oldest && state.progress[keyOf(candidate)];
         const date = oldest ? (kind === 'due' ? progress.due : progress.lastDay) : '';
         if (q && date > bestDate) continue;
@@ -113,7 +134,8 @@ function choose(state, catalog, mode, category, day, seed) {
         const deficit = config.mix[difficulties.indexOf(candidate.difficulty)] - (byDifficulty[candidate.difficulty] || 0);
         // The seeded topic order gives small subjects a chance alongside large series.
         const rank = [Number(deficit > 0), -(byCategory[candidate.category] || 0),
-          -(byTopic.get(topic) || 0), deficit, -(seenByCategory[candidate.category] || 0), -topicOrder.get(topic)];
+          -(byTopic.get(topic) || 0), deficit, -(seenByCategory[candidate.category] || 0),
+          -(byForm.get(form) || 0), -topicOrder.get(topic)];
         if (q && date === bestDate) {
           const firstDifference = rank.findIndex((value, i) => value !== bestRank[i]);
           if (firstDifference < 0 || rank[firstDifference] < bestRank[firstDifference]) continue;
@@ -127,20 +149,55 @@ function choose(state, catalog, mode, category, day, seed) {
       usedFacts.add(q.fact_key);
       const topic = topicOf.get(q.id);
       byTopic.set(topic, (byTopic.get(topic) || 0) + 1);
+      const form = formOf.get(q.id);
+      byForm.set(form, (byForm.get(form) || 0) + 1);
+      if (dailyClues?.has(q.id)) hasFeatured = true;
+      if (dailyMix) remaining[formatGroup(form)]--;
       byCategory[q.category] = (byCategory[q.category] || 0) + 1;
       byDifficulty[q.difficulty] = (byDifficulty[q.difficulty] || 0) + 1;
       picked.push({q, kind});
     }
   }
-  const due = pool.filter(q => state.progress[keyOf(q)]?.due <= day);
-  take(due, rounds.max_due, 'due', true);
-  take(pool.filter(q => !state.progress[keyOf(q)]), config.length - picked.length, 'new');
-  const isReview = picked.length < config.length;
-  if (isReview) {
-    const older = pool.filter(q => state.progress[keyOf(q)]?.lastDay <= addDays(day, -rounds.preferred_repeat_gap));
-    take(older, config.length - picked.length, 'review', true);
-    take(pool.filter(q => state.progress[keyOf(q)]), config.length - picked.length, 'review', true);
+  const due = q => state.progress[keyOf(q)]?.due <= day;
+  const fresh = q => !state.progress[keyOf(q)];
+  const repeatBefore = addDays(day, -rounds.preferred_repeat_gap);
+  function fill(candidates, limit) {
+    if (!limit) return;
+    const target = picked.length + limit;
+    take(candidates.filter(fresh), limit, 'new');
+    if (picked.length < target) {
+      take(candidates.filter(q => state.progress[keyOf(q)]?.lastDay <= repeatBefore), target - picked.length, 'review', true);
+      take(candidates.filter(q => !fresh(q)), target - picked.length, 'review', true);
+    }
   }
+  if (dailyMix) {
+    const current = new Date(day + 'T12:00:00Z');
+    if (config.research_weekdays.includes(current.getUTCDay())) {
+      const cutoff = monthsBefore(current,config.research_months);
+      const findings = pool.filter(q => q.research?.published_on >= cutoff);
+      if (current.getUTCDay() === config.recent_research_weekday) {
+        const recent = monthsBefore(current,config.recent_research_months);
+        const unseen = findings.filter(q => fresh(q) && q.research.published_on >= recent);
+        const newest = unseen.reduce((latest,q) => q.research.published_on > latest ? q.research.published_on : latest,'');
+        take(unseen.filter(q => q.research.published_on === newest),1,'new');
+      }
+      if (!picked.length) take(findings.filter(fresh), 1, 'new');
+      if (!picked.length) take(findings.filter(due), 1, 'due', true);
+      if (!picked.length) fill(findings, 1);
+    }
+  }
+  take(regular.filter(due), rounds.max_due - picked.filter(item => item.kind === 'due').length, 'due', true);
+  if (dailyMix) {
+    for (const form of Object.keys(config.formats)) {
+      if (form === 'form_herleiten' && featured.length && remaining[form]) {
+        take(featured.filter(fresh), remaining[form], 'new');
+        if (!hasFeatured) fill(featured,1);
+      }
+      fill(regular.filter(q => formOf.get(q.id) === form), remaining[form]);
+    }
+  }
+  fill(regular, config.length - picked.length);
+  const isReview = picked.some(item => item.kind === 'review');
   if (picked.length < config.length) {
     const open = Object.values(state.sessions).find(s => s.status === 'active' && s.items.some(i => !category || i.q.category === category));
     throw new GameError('POOL', open

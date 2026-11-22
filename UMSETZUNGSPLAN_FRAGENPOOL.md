@@ -1,10 +1,21 @@
 # Quizsalon – Umsetzungsplan für den Fragenpool und die Rundenauswahl
 
-Stand 22. November 2026 · Deutscher Hauptmarkt · Grundlage ist der lokale Vollbestand `de-7363fcba52a1`.
+## Erweiterung 0.3.0
+
+- [x] **Bulk 1 · Tagesrunde** Eine Schätzung und zwei eigene Hinweisfragen als feste Plätze vorsehen. Die Forschungskarte kann einen dieser Plätze einnehmen. Laufende Runden ihren gespeicherten Stand behalten lassen. [Auswahl und Grenzfälle](tests/daily-formats.test.mjs)
+- [x] **Bulk 2 · Bestehende Fragen** Die 132 bisherigen Herleitungen einzeln sichten. 60 zusätzliche Wissensabfragen auf eine konkretere Aufgabe hin überarbeiten. [Einzelentscheidungen zu Herleitungen](release/qa/modern-0.3.0/alte-herleitungen.json) · [Überarbeitete Fragen](release/qa/modern-0.3.0/ueberarbeitete-wissensabfragen.json)
+- [x] **Bulk 3 · Forschung** 36 datierte Karten mit direkt verlinktem Beleg und verständlicher Auflösung ausarbeiten. [Forschungsredaktion](content/research/README.md)
+- [x] **Bulk 4 · Vollbestand** 2.400 aktive Fragen, 400 je Kategorie, 16,9 Prozent reines Wiedererkennen. Die 24 im abschließenden Ähnlichkeitsabgleich markierten Paare wurden einzeln auf ihre Wissensziele geprüft. [Bestandsvergleich](release/qa/modern-0.3.0/bestand.json) · [Einzelentscheidungen](release/qa/modern-0.3.0/dublettenentscheidungen.json)
+- [x] **Bulk 5 · Technische Abnahme** Alle 2.400 Karten in 240 Themenrunden beantwortet. 1.365 Tagesauswahlen, Updates mit gespeicherter Runde und 14.400 schmale Frage- und Auflösungsansichten bis 200 Prozent Schrift geprüft. [Rundenauswahl](release/qa/modern-0.3.0/tagesrunden.json) · [Prüfbericht](QA_REPORT.md)
+- [ ] **Bulk 6 · Auslieferung** HTML und APKs mit identischem Katalog erstellen und den aktualisierten Handy-Einstieg über GitHub Actions ausliefern.
+
+## Vorherige Ausgabe 0.2.0
+
+Stand 22. November 2026 · Deutscher Hauptmarkt · Grundlage der folgenden historischen Arbeitspakete ist der lokale Vollbestand `de-7363fcba52a1`.
 
 **Umsetzungsstand 0.2.0.** Der neue deutsche Katalog `de-03c46c2cd256` enthält alle 152 vorgesehenen Ersetzungen. Mit denselben 1.000 Ausgangskennungen sank die Häufung der ursprünglichen Reihen bei Unterhaltung von 506 auf 0 und bei Reisen von 323 auf 26. Sämtliche 6.000 Fünferauswahlen aus dem frischen Bestand zeigten fünf verschiedene Unterthemen. [Inhaltsabgleich](release/qa/fragenpool/inhaltsabgleich.json) · [Drei Vergleichsläufe je Kategorie](release/qa/fragenpool/auswahlvergleich.json)
 
-**Ziel für die nächste deutsche Fassung.** Die zehn Tagesfragen sollen vertrautes Wissen, überraschende Zusammenhänge und Fragen zum Herleiten verbinden. Dafür sind 152 gezielte Ersetzungen und eine neue Rundenauswahl geplant. Der Schwerpunkt liegt auf quizinteressierten Erwachsenen von etwa 50 bis 70 Jahren in Deutschland.
+**Ziel der damaligen Fassung.** Die zehn Tagesfragen sollten vertrautes Wissen, überraschende Zusammenhänge und Fragen zum Herleiten verbinden. Dafür waren 152 gezielte Ersetzungen und eine neue Rundenauswahl geplant. Der Gestaltungsschwerpunkt lag auf quizinteressierten Erwachsenen von etwa 50 bis 70 Jahren in Deutschland.
 
 **Hier liegt die aktuelle App.** Am PC öffnet sich die HTML-Datei per Doppelklick in Chrome oder Edge. Für Android gibt es die installierbare lokale Vollfassung mit allen Themen. [HTML-App](release/Quizsalon-Lokaltest.html) · [Android-APK](release/android/Quizsalon-Lokaltest.apk) · [HTML-Quellprojekt](web/index.html)
 

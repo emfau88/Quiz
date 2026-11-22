@@ -1,12 +1,12 @@
 # Quizsalon
 
-**[▶ Quizsalon jetzt im Browser spielen](https://emfau88.github.io/Quiz/)**
+**[▶ Quizsalon 0.3.0 auf dem Handy oder im Browser spielen](https://emfau88.github.io/Quiz/spielen.html?v=0.3.0)**
 
 Öffne den Link auf deinem Handy oder Computer. Du startest direkt mit der ersten von zehn Tagesfragen. In allen sechs Themen kannst du zusätzlich zwischen „Gemischt“ und „Anspruchsvoll“ wählen. Dein Fortschritt bleibt in diesem Browser auf diesem Gerät. Nach dem ersten vollständigen Laden kannst du auch offline weiterspielen.
 
 Ein deutschsprachiges, lokal spielbares Tagesquiz für Browser und Android. Oberfläche und Spielregeln sind in HTML, CSS und JavaScript umgesetzt. Der Android-Host verwendet Java und die System-WebView.
 
-Die aktuelle Ausgabe **0.2.0** enthält 152 neue Sachverhalte innerhalb des 1.200er-Pools. Tages- und Themenrunden berücksichtigen jetzt die Unterthemen. Ein Update am selben Dateipfad im selben Browserprofil erhält bereits begonnene Runden. [Umsetzungsplan mit Nachweisen](UMSETZUNGSPLAN_FRAGENPOOL.md) · [Inhaltsbericht](CONTENT_REPORT.md)
+Die deutsche Ausgabe **0.3.0** enthält 2.400 Fragen. In jeder neuen Tagesrunde schätzt du einmal eine Größenordnung und löst zwei eigens formulierte Hinweisfragen. Höchstens zwei der zehn Fragen verlangen reines Wiedererkennen. Dienstags, donnerstags und sonntags stammt eine Frage aus der Forschung, solange für den Spieltag eine Veröffentlichung der letzten drei Jahre vorliegt. Die Auflösung zeigt das Erscheinungsdatum und verlinkt die Quelle. Angefangene Runden lassen sich auch nach einem Update in ihrer ursprünglichen Reihenfolge beenden. [Inhaltsbericht und Vergleich zur Vorversion](CONTENT_REPORT.md) · [Auswahl für die zwei Hinweisfragen](specs/daily_clues.json)
 
 ## Ausgaben zum Herunterladen
 
@@ -61,6 +61,14 @@ node tests/storage-browser.mjs
 node tests/calendar-browser.mjs
 node tests/corpus-layout.mjs
 node tests/accessibility.mjs
+```
+
+Die Auswertung des aktuellen Katalogs und der Tagesrunden lässt sich mit drei Befehlen wiederholen. Der Bestandsvergleich nutzt die Git-Historie der vorherigen Ausgabe.
+
+```powershell
+python tools/audit-modern.py
+python tools/review-modern.py
+node tools/modern-rounds.mjs
 ```
 
 Für die Entwicklung startet `npm.cmd start` einen rein lokalen statischen Server unter `http://127.0.0.1:5184`. Unter `/lokaltest.html` liefert er die gebaute lokale Testdatei. Die Mehrdateienfassung unter `/` verwendet die reguläre Themenzugangslogik.

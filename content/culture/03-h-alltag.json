@@ -1,0 +1,2245 @@
+[
+  {
+    "id": "q3-h-lebensmittelmarken",
+    "fact_key": "q3.h.lebensmittelmarken",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1958 wurden in der DDR die Lebensmittelkarten abgeschafft. Was brauchte eine Kundin danach beim Einkauf rationierter Waren nicht mehr zusätzlich zum Geld?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Bezugsmarke für die erlaubte Menge"
+      },
+      {
+        "id": "b",
+        "text": "Eine Quittung über die letzte Reparatur"
+      },
+      {
+        "id": "c",
+        "text": "Eine Fahrkarte der örtlichen Straßenbahn"
+      },
+      {
+        "id": "d",
+        "text": "Einen Mitgliedsausweis einer Gewerkschaft"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Lebensmittelkarten hatten geregelt, welche Mengen ein Haushalt beziehen durfte. Mit ihrer Abschaffung fiel diese Form der Zuteilung weg.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1958",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1958.html",
+        "checked_at": "2026-11-22T21:33:11+00:00",
+        "verified_claim": "1958 wurden in der DDR die Lebensmittelkarten abgeschafft. Was brauchte eine Kundin danach beim Einkauf rationierter Waren nicht mehr zusätzlich zum Geld? Eine Bezugsmarke für die erlaubte Menge. Lebensmittelkarten hatten geregelt, welche Mengen ein Haushalt beziehen durfte. Mit ihrer Abschaffung fiel diese Form der Zuteilung weg.",
+        "locator": "lemo1958, Textstelle 99",
+        "source_sha256": "f058bfe8fc67e918089acdc7d42d577c6335bab2c12f532f4f86ba61a5ba8c28"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:11+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-gleichlohn-tarif",
+    "fact_key": "q3.h.gleichlohn.tarif",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Ein westdeutscher Tarifvertrag sah 1957 für Frauen weniger Lohn vor als für Männer bei gleicher Arbeit. Wie beurteilte das Bundesarbeitsgericht solche Bestimmungen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie mussten lediglich jedes Jahr neu ausgehandelt werden."
+      },
+      {
+        "id": "b",
+        "text": "Sie verstießen gegen die Gleichberechtigung."
+      },
+      {
+        "id": "c",
+        "text": "Sie galten nur außerhalb großer Städte."
+      },
+      {
+        "id": "d",
+        "text": "Sie konnten nur bei Heimarbeit aufgehoben werden."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Gericht wandte den Grundsatz der Gleichberechtigung auch auf Tarifverträge an. Solche niedrigeren Frauenlöhne waren unzulässig.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1957",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1957.html",
+        "checked_at": "2026-11-22T21:33:11+00:00",
+        "verified_claim": "Ein westdeutscher Tarifvertrag sah 1957 für Frauen weniger Lohn vor als für Männer bei gleicher Arbeit. Wie beurteilte das Bundesarbeitsgericht solche Bestimmungen? Sie verstießen gegen die Gleichberechtigung. Das Gericht wandte den Grundsatz der Gleichberechtigung auch auf Tarifverträge an. Solche niedrigeren Frauenlöhne waren unzulässig.",
+        "locator": "lemo1957, Textstelle 77",
+        "source_sha256": "25a99a17f0a4e059873cae68cdc33059f723cd4706cacd7f25f4cf1634812520"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:11+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-banken-samstag",
+    "fact_key": "q3.h.banken.samstag",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die westdeutschen Banken führten 1961 die Fünftagewoche ein. Welche Änderung dürfte vielen Kunden zuerst an der verschlossenen Schaltertür aufgefallen sein?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Am Freitag arbeiteten nur noch Sparkassen."
+      },
+      {
+        "id": "b",
+        "text": "Überweisungen wurden auf Sonntage verlegt."
+      },
+      {
+        "id": "c",
+        "text": "Der Samstag als Banköffnungstag entfiel."
+      },
+      {
+        "id": "d",
+        "text": "Es gab am Montag kein Bargeld mehr."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Mit der neuen Arbeitswoche schlossen die Banken samstags. Geschäfte am Schalter mussten Kunden nun auf Werktage von Montag bis Freitag legen.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1961",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1961.html",
+        "checked_at": "2026-11-22T21:33:11+00:00",
+        "verified_claim": "Die westdeutschen Banken führten 1961 die Fünftagewoche ein. Welche Änderung dürfte vielen Kunden zuerst an der verschlossenen Schaltertür aufgefallen sein? Der Samstag als Banköffnungstag entfiel. Mit der neuen Arbeitswoche schlossen die Banken samstags. Geschäfte am Schalter mussten Kunden nun auf Werktage von Montag bis Freitag legen.",
+        "locator": "lemo1961, Textstelle 111",
+        "source_sha256": "0d5b43b70f150c1182f7ec10c777bffabb6ef77dfea40612ec21e79676d96f2f"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:11+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-ddr-arbeitswoche",
+    "fact_key": "q3.h.ddr.arbeitswoche",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Die DDR führte 1967 die Fünftagewoche mit 43¾ Wochenstunden ein. Welcher tägliche Durchschnitt passt ungefähr dazu?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sechs Stunden"
+      },
+      {
+        "id": "b",
+        "text": "Siebeneinhalb Stunden"
+      },
+      {
+        "id": "c",
+        "text": "Mehr als elf Stunden"
+      },
+      {
+        "id": "d",
+        "text": "Knapp neun Stunden"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "43¾ Stunden auf fünf Tage verteilt ergeben acht Stunden und 45 Minuten pro Tag.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1967",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1967.html",
+        "checked_at": "2026-11-22T21:33:11+00:00",
+        "verified_claim": "Die DDR führte 1967 die Fünftagewoche mit 43¾ Wochenstunden ein. Welcher tägliche Durchschnitt passt ungefähr dazu? Knapp neun Stunden. 43¾ Stunden auf fünf Tage verteilt ergeben acht Stunden und 45 Minuten pro Tag.",
+        "locator": "lemo1967, Textstelle 131",
+        "source_sha256": "4267d975ae5f8e808d2c52d6bb286faf1abd3baa5facf78966f57317c2269429"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:11+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-mindesturlaub",
+    "fact_key": "q3.h.mindesturlaub",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die westdeutsche Urlaubsregelung von 1962 nannte mindestens 15 Tage. Welcher Größenordnung entsprach das bei sechs Werktagen pro Woche?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zweieinhalb Wochen"
+      },
+      {
+        "id": "b",
+        "text": "Eine Woche"
+      },
+      {
+        "id": "c",
+        "text": "Fünf Wochen"
+      },
+      {
+        "id": "d",
+        "text": "Sechseinhalb Wochen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Teilt man 15 Urlaubstage durch sechs Werktage, erhält man zweieinhalb damalige Arbeitswochen.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1962",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1962.html",
+        "checked_at": "2026-11-22T21:33:11+00:00",
+        "verified_claim": "Die westdeutsche Urlaubsregelung von 1962 nannte mindestens 15 Tage. Welcher Größenordnung entsprach das bei sechs Werktagen pro Woche? Zweieinhalb Wochen. Teilt man 15 Urlaubstage durch sechs Werktage, erhält man zweieinhalb damalige Arbeitswochen.",
+        "locator": "lemo1962, Textstelle 179",
+        "source_sha256": "800dc4a4f14e0722482f7c11798d19bcd0ce6b5c61b105d41061fbcabe3da745"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:11+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-kassenbon-1968",
+    "fact_key": "q3.h.kassenbon.1968",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Auf einer westdeutschen Rechnung von 1968 lässt sich eine damals neu eingeführte Steuer auf die verkaufte Ware finden. Welche gehört zu einem solchen Verkauf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Lohnsteuer"
+      },
+      {
+        "id": "b",
+        "text": "Die Mehrwertsteuer"
+      },
+      {
+        "id": "c",
+        "text": "Die Grundsteuer"
+      },
+      {
+        "id": "d",
+        "text": "Die Erbschaftsteuer"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Mehrwertsteuer löste zu Jahresbeginn 1968 die Bruttoumsatzsteuer ab. Über Kaufpreise erreichte sie den Alltag der Verbraucher.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1968",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1968.html",
+        "checked_at": "2026-11-22T21:33:11+00:00",
+        "verified_claim": "Auf einer westdeutschen Rechnung von 1968 lässt sich eine damals neu eingeführte Steuer auf die verkaufte Ware finden. Welche gehört zu einem solchen Verkauf? Die Mehrwertsteuer. Die Mehrwertsteuer löste zu Jahresbeginn 1968 die Bruttoumsatzsteuer ab. Über Kaufpreise erreichte sie den Alltag der Verbraucher.",
+        "locator": "lemo1968, Textstelle 51",
+        "source_sha256": "56cab62c49ac45a8e5edb249ad548efd0f3c94ac91f1621c985796c79bbffaa0"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:11+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-anwerbestopp-energie",
+    "fact_key": "q3.h.anwerbestopp.energie",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1973 verteuerte sich Erdöl, Firmen fürchteten Beschäftigungseinbrüche. Wie reagierte die Bundesrepublik auf die Anwerbung neuer Arbeitskräfte von außerhalb der EG?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie kürzte ausnahmslos alle Arbeitsverträge auf einen Monat."
+      },
+      {
+        "id": "b",
+        "text": "Sie erklärte sämtliche Saisonarbeit zum Staatsdienst."
+      },
+      {
+        "id": "c",
+        "text": "Sie stoppte die staatliche Anwerbung."
+      },
+      {
+        "id": "d",
+        "text": "Sie schaffte für alle Beschäftigten die Arbeitserlaubnisse ab."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Regierung begründete den Anwerbestopp mit Beschäftigungsproblemen während der Ölkrise. Bereits hier lebende Menschen hatten andere Fragen zu klären.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1973",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1973.html",
+        "checked_at": "2026-11-22T21:33:11+00:00",
+        "verified_claim": "1973 verteuerte sich Erdöl, Firmen fürchteten Beschäftigungseinbrüche. Wie reagierte die Bundesrepublik auf die Anwerbung neuer Arbeitskräfte von außerhalb der EG? Sie stoppte die staatliche Anwerbung. Die Regierung begründete den Anwerbestopp mit Beschäftigungsproblemen während der Ölkrise. Bereits hier lebende Menschen hatten andere Fragen zu klären.",
+        "locator": "lemo1973, Textstelle 179",
+        "source_sha256": "249962c4bf67bb00effce564708ce2d688d629652d142b3d2e326d91f34d12e7"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:11+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-gewerkschaft-13",
+    "fact_key": "q3.h.gewerkschaft.13",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Der Gewerkschaftsbund forderte 1965 ein „13. Monatsgehalt“. Welche Änderung der Arbeitsbedingungen war damit gemeint?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein zusätzliches Dienstjahr vor der Rente"
+      },
+      {
+        "id": "b",
+        "text": "Ein Arbeitsmonat ohne Urlaub"
+      },
+      {
+        "id": "c",
+        "text": "Eine Kündigungsfrist von 13 Monaten"
+      },
+      {
+        "id": "d",
+        "text": "Eine zusätzliche jährliche Zahlung"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Forderung stand neben anderen Zielen wie längerem Urlaub. Die Zahl bezeichnete eine weitere Gehaltszahlung im Jahr.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1965",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1965.html",
+        "checked_at": "2026-11-22T21:33:11+00:00",
+        "verified_claim": "Der Gewerkschaftsbund forderte 1965 ein „13. Monatsgehalt“. Welche Änderung der Arbeitsbedingungen war damit gemeint? Eine zusätzliche jährliche Zahlung. Die Forderung stand neben anderen Zielen wie längerem Urlaub. Die Zahl bezeichnete eine weitere Gehaltszahlung im Jahr.",
+        "locator": "lemo1965, Textstelle 88",
+        "source_sha256": "aef155af8a52dfb323f6f88a8a5024bcb8d8c3e837c6c6ac015378fa11c0ff52"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:11+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-jugendarbeit-regel",
+    "fact_key": "q3.h.jugendarbeit.regel",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Im Jugendarbeitsschutzgesetz von 1976 standen Fünftagewoche und Achtstundentag. Welcher reguläre Wochenplan entspricht beiden Vorgaben?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fünf Tage zu je acht Stunden"
+      },
+      {
+        "id": "b",
+        "text": "Vier Tage zu je zehn Stunden"
+      },
+      {
+        "id": "c",
+        "text": "Sechs Tage zu je sieben Stunden"
+      },
+      {
+        "id": "d",
+        "text": "Fünf Tage zu je zehn Stunden"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Neuregelung nannte für Jugendliche auch die Vierzigstundenwoche. Arbeitszeit und Verteilung der Arbeitstage gehörten zusammen.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1976",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1976.html",
+        "checked_at": "2026-11-22T21:33:11+00:00",
+        "verified_claim": "Im Jugendarbeitsschutzgesetz von 1976 standen Fünftagewoche und Achtstundentag. Welcher reguläre Wochenplan entspricht beiden Vorgaben? Fünf Tage zu je acht Stunden. Die Neuregelung nannte für Jugendliche auch die Vierzigstundenwoche. Arbeitszeit und Verteilung der Arbeitstage gehörten zusammen.",
+        "locator": "lemo1976, Textstelle 57",
+        "source_sha256": "f8d784e9766aca24fab79be98784af7cb79067a58f3a3c5a658e35397d5ec4b0"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:11+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-mitbestimmung-schwelle",
+    "fact_key": "q3.h.mitbestimmung.schwelle",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Das Mitbestimmungsgesetz von 1976 erfasste Unternehmen mit mehr als 2.000 Beschäftigten. Welcher Betrieb überschritt diese Schwelle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Verlag mit 1.200 Beschäftigten"
+      },
+      {
+        "id": "b",
+        "text": "Eine Fabrik mit 2.100 Beschäftigten"
+      },
+      {
+        "id": "c",
+        "text": "Eine Werft mit genau 2.000 Beschäftigten"
+      },
+      {
+        "id": "d",
+        "text": "Ein Warenhaus mit 1.950 Beschäftigten"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Gesetz stärkte in großen Unternehmen die Mitwirkung der Beschäftigten. Die Grenze bezog sich auf die Belegschaftsgröße.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1976",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1976.html",
+        "checked_at": "2026-11-22T21:33:11+00:00",
+        "verified_claim": "Das Mitbestimmungsgesetz von 1976 erfasste Unternehmen mit mehr als 2.000 Beschäftigten. Welcher Betrieb überschritt diese Schwelle? Eine Fabrik mit 2.100 Beschäftigten. Das Gesetz stärkte in großen Unternehmen die Mitwirkung der Beschäftigten. Die Grenze bezog sich auf die Belegschaftsgröße.",
+        "locator": "lemo1976, Textstelle 78",
+        "source_sha256": "f8d784e9766aca24fab79be98784af7cb79067a58f3a3c5a658e35397d5ec4b0"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:11+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-metall-arbeitszeit",
+    "fact_key": "q3.h.metall.arbeitszeit",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Nach einem Arbeitskampf vereinbarten die westdeutsche Metall- und Druckindustrie 1984 eine Regelarbeitszeit von 38,5 Stunden. Wie weit lag sie unter 40 Stunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Etwa drei Stunden"
+      },
+      {
+        "id": "b",
+        "text": "Etwa einen ganzen Arbeitstag"
+      },
+      {
+        "id": "c",
+        "text": "Etwa anderthalb Stunden"
+      },
+      {
+        "id": "d",
+        "text": "Etwa eine Viertelstunde"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die vereinbarten 38 Stunden und 30 Minuten verkürzten die Regelarbeitswoche. Der Kompromiss ließ Ausnahmeregelungen zu.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1984",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1984.html",
+        "checked_at": "2026-11-22T21:33:11+00:00",
+        "verified_claim": "Nach einem Arbeitskampf vereinbarten die westdeutsche Metall- und Druckindustrie 1984 eine Regelarbeitszeit von 38,5 Stunden. Wie weit lag sie unter 40 Stunden? Etwa anderthalb Stunden. Die vereinbarten 38 Stunden und 30 Minuten verkürzten die Regelarbeitswoche. Der Kompromiss ließ Ausnahmeregelungen zu.",
+        "locator": "lemo1984, Textstelle 146",
+        "source_sha256": "0290f11db124e0c8cd276c00ab238462cb8e56d435febeeb90666f9b8ba82cca"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:11+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-hilfe-wuerde",
+    "fact_key": "q3.h.hilfe.wuerde",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Das Bundessozialhilfegesetz von 1961 sollte auch Menschen in einer Notlage erreichen. Welches Ziel verbindet es mit dem Begriff Menschenwürde?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Allen Haushalten dieselbe Berufsbezeichnung zuweisen"
+      },
+      {
+        "id": "b",
+        "text": "Den Besitz einer eigenen Wohnung zwingend voraussetzen"
+      },
+      {
+        "id": "c",
+        "text": "Nur langjährige Beitragszahler bei Not unterstützen"
+      },
+      {
+        "id": "d",
+        "text": "Ein menschenwürdiges Leben für Hilfsbedürftige sichern"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Sozialhilfe ergänzte die bestehenden Sicherungssysteme. Das Gesetz stellte die Unterstützung hilfsbedürftiger Menschen in den Mittelpunkt.",
+    "tags": [
+      "thema_bildung_und_soziales",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1961",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1961.html",
+        "checked_at": "2026-11-22T21:33:11+00:00",
+        "verified_claim": "Das Bundessozialhilfegesetz von 1961 sollte auch Menschen in einer Notlage erreichen. Welches Ziel verbindet es mit dem Begriff Menschenwürde? Ein menschenwürdiges Leben für Hilfsbedürftige sichern. Die Sozialhilfe ergänzte die bestehenden Sicherungssysteme. Das Gesetz stellte die Unterstützung hilfsbedürftiger Menschen in den Mittelpunkt.",
+        "locator": "lemo1961, Textstelle 108",
+        "source_sha256": "0d5b43b70f150c1182f7ec10c777bffabb6ef77dfea40612ec21e79676d96f2f"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:11+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-bafoeg-chance",
+    "fact_key": "q3.h.bafoeg.chance",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Eine Schülerin aus einer Familie mit wenig Geld möchte 1971 weiterlernen. Welches Hindernis sollte das neue BAföG verkleinern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die finanzielle Hürde einer längeren Ausbildung"
+      },
+      {
+        "id": "b",
+        "text": "Die Entfernung zum nächsten Wahllokal"
+      },
+      {
+        "id": "c",
+        "text": "Die Altersgrenze für den Führerschein"
+      },
+      {
+        "id": "d",
+        "text": "Die Wartezeit für einen Telefonanschluss"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Bundesausbildungsförderungsgesetz sollte mehr Menschen Schul- und Hochschulausbildung ermöglichen. Staatliche Beihilfen sollten die Chancen angleichen.",
+    "tags": [
+      "thema_bildung_und_soziales",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1971",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1971.html",
+        "checked_at": "2026-11-22T21:33:11+00:00",
+        "verified_claim": "Eine Schülerin aus einer Familie mit wenig Geld möchte 1971 weiterlernen. Welches Hindernis sollte das neue BAföG verkleinern? Die finanzielle Hürde einer längeren Ausbildung. Das Bundesausbildungsförderungsgesetz sollte mehr Menschen Schul- und Hochschulausbildung ermöglichen. Staatliche Beihilfen sollten die Chancen angleichen.",
+        "locator": "lemo1971, Textstelle 163",
+        "source_sha256": "ae227cd8f1b6561c021f703a65d615a480459777ba2b71063bf33268898cd011"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:11+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-bafoeg-zuschuss",
+    "fact_key": "q3.h.bafoeg.zuschuss",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "1990 sollte BAföG wieder zur Hälfte als Zuschuss statt vollständig als Darlehen gewährt werden. Was unterschied diesen Teil für Studierende?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er durfte nur für gedruckte Bücher ausgegeben werden."
+      },
+      {
+        "id": "b",
+        "text": "Er musste grundsätzlich nicht zurückgezahlt werden."
+      },
+      {
+        "id": "c",
+        "text": "Er war nur im Ausland nutzbar."
+      },
+      {
+        "id": "d",
+        "text": "Er musste noch vor Studienbeginn zurückgezahlt werden."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Zuschussanteil halbierte bei dieser Regelung den Anteil des rückzahlbaren Darlehens. Die Förderung bestand nun aus beiden Teilen.",
+    "tags": [
+      "thema_bildung_und_soziales",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1990",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1990.html",
+        "checked_at": "2026-11-22T21:33:12+00:00",
+        "verified_claim": "1990 sollte BAföG wieder zur Hälfte als Zuschuss statt vollständig als Darlehen gewährt werden. Was unterschied diesen Teil für Studierende? Er musste grundsätzlich nicht zurückgezahlt werden. Der Zuschussanteil halbierte bei dieser Regelung den Anteil des rückzahlbaren Darlehens. Die Förderung bestand nun aus beiden Teilen.",
+        "locator": "lemo1990, Textstelle 174",
+        "source_sha256": "42ab09daf85e0459da1a913d260902da978e87cd46e009f4369a7e80895678b0"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:12+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-familien-kassen",
+    "fact_key": "q3.h.familien.kassen",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Westdeutsche Familienausgleichskassen entstanden 1954 zusammen mit einem Kindergeldgesetz. Welchen Unterschied zwischen Haushalten sollte diese Leistung berücksichtigen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Zahl der Beschäftigten eines Betriebes"
+      },
+      {
+        "id": "b",
+        "text": "Das Alter des bewohnten Hauses"
+      },
+      {
+        "id": "c",
+        "text": "Die zusätzlichen Ausgaben für Kinder"
+      },
+      {
+        "id": "d",
+        "text": "Die unterschiedliche Entfernung zum Arbeitsplatz"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Kindergeld und Familienausgleichskassen waren Teil derselben Neuregelung. Sie machten die Unterstützung von Familien zur gemeinsamen Aufgabe.",
+    "tags": [
+      "thema_bildung_und_soziales",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1954",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1954.html",
+        "checked_at": "2026-11-22T21:33:12+00:00",
+        "verified_claim": "Westdeutsche Familienausgleichskassen entstanden 1954 zusammen mit einem Kindergeldgesetz. Welchen Unterschied zwischen Haushalten sollte diese Leistung berücksichtigen? Die zusätzlichen Ausgaben für Kinder. Kindergeld und Familienausgleichskassen waren Teil derselben Neuregelung. Sie machten die Unterstützung von Familien zur gemeinsamen Aufgabe.",
+        "locator": "lemo1954, Textstelle 155",
+        "source_sha256": "0d4596de06aaa566c89a27e71d4cfbaeeee9c297813f67f9341044aa6b40a90f"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:12+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-west-zivildienst",
+    "fact_key": "q3.h.west.zivildienst",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Ab 1961 gab es in der Bundesrepublik erste Zivildienstleistende. Welcher Einsatz unterscheidet ihren damaligen Dienst am deutlichsten vom Dienst in einer Kaserne?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Training in einer militärischen Flugstaffel"
+      },
+      {
+        "id": "b",
+        "text": "Eine Übung als Wehrpflichtiger auf einem Schiff"
+      },
+      {
+        "id": "c",
+        "text": "Die Ausbildung in einer militärischen Funkstaffel"
+      },
+      {
+        "id": "d",
+        "text": "Die Arbeit in einer sozialen Einrichtung"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die ersten Zivildienstleistenden nahmen ihren Dienst in sozialen Einrichtungen auf. So gab es eine zivile Form des verpflichtenden Dienstes.",
+    "tags": [
+      "thema_bildung_und_soziales",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1961",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1961.html",
+        "checked_at": "2026-11-22T21:33:12+00:00",
+        "verified_claim": "Ab 1961 gab es in der Bundesrepublik erste Zivildienstleistende. Welcher Einsatz unterscheidet ihren damaligen Dienst am deutlichsten vom Dienst in einer Kaserne? Die Arbeit in einer sozialen Einrichtung. Die ersten Zivildienstleistenden nahmen ihren Dienst in sozialen Einrichtungen auf. So gab es eine zivile Form des verpflichtenden Dienstes.",
+        "locator": "lemo1961, Textstelle 74",
+        "source_sha256": "0d5b43b70f150c1182f7ec10c777bffabb6ef77dfea40612ec21e79676d96f2f"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:12+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-ddr-bausoldat",
+    "fact_key": "q3.h.ddr.bausoldat",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Ein junger Mann in der DDR wurde ab 1964 als „Bausoldat“ bezeichnet. Was unterschied seine Dienstform vom westdeutschen zivilen Ersatzdienst?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er leistete Wehrdienst ohne Waffe."
+      },
+      {
+        "id": "b",
+        "text": "Er war ein frei arbeitender Baumeister."
+      },
+      {
+        "id": "c",
+        "text": "Er schied dafür automatisch aus der Armee aus."
+      },
+      {
+        "id": "d",
+        "text": "Er durfte seinen Dienst nur im Ausland leisten."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die DDR richtete eine waffenlose Dienstform innerhalb des Militärs ein. Im Westen war der Zivildienst zivil organisiert.",
+    "tags": [
+      "thema_bildung_und_soziales",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1964",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1964.html",
+        "checked_at": "2026-11-22T21:33:12+00:00",
+        "verified_claim": "Ein junger Mann in der DDR wurde ab 1964 als „Bausoldat“ bezeichnet. Was unterschied seine Dienstform vom westdeutschen zivilen Ersatzdienst? Er leistete Wehrdienst ohne Waffe. Die DDR richtete eine waffenlose Dienstform innerhalb des Militärs ein. Im Westen war der Zivildienst zivil organisiert.",
+        "locator": "lemo1964, Textstelle 143",
+        "source_sha256": "e18bcffaa211912c8584e4a97329162aa460b3d48215d3b7e44d395aaacd5f5c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:12+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-volkszaehlung-datenschutz",
+    "fact_key": "q3.h.volkszaehlung.datenschutz",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Bei der geplanten Volkszählung von 1983 war umstritten, was Behörden aus persönlichen Antworten erfahren dürfen. Welches Anliegen bewegte das Bundesverfassungsgericht?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Aufteilung der Bundesstraßen"
+      },
+      {
+        "id": "b",
+        "text": "Der Schutz persönlicher Daten"
+      },
+      {
+        "id": "c",
+        "text": "Die Höhe der Portokosten"
+      },
+      {
+        "id": "d",
+        "text": "Das Format gedruckter Stimmzettel"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Gericht verwarf Teile des Volkszählungsgesetzes wegen des Datenschutzes. Statistik musste Rücksicht auf die Rechte der Befragten nehmen.",
+    "tags": [
+      "thema_bildung_und_soziales",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1983",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1983.html",
+        "checked_at": "2026-11-22T21:33:12+00:00",
+        "verified_claim": "Bei der geplanten Volkszählung von 1983 war umstritten, was Behörden aus persönlichen Antworten erfahren dürfen. Welches Anliegen bewegte das Bundesverfassungsgericht? Der Schutz persönlicher Daten. Das Gericht verwarf Teile des Volkszählungsgesetzes wegen des Datenschutzes. Statistik musste Rücksicht auf die Rechte der Befragten nehmen.",
+        "locator": "lemo1983, Textstelle 233",
+        "source_sha256": "94bf33f280b252ea247710eed8addcb8d374b56336307eb63c093999a7bd6984"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:12+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-volkszaehlung-abstand",
+    "fact_key": "q3.h.volkszaehlung.abstand",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1987 fand die erste bundesweite Volkszählung seit 1970 statt. Welcher Zeitraum war ungefähr vergangen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Etwa drei Jahrzehnte"
+      },
+      {
+        "id": "b",
+        "text": "Mehr als ein halbes Jahrhundert"
+      },
+      {
+        "id": "c",
+        "text": "Gut anderthalb Jahrzehnte"
+      },
+      {
+        "id": "d",
+        "text": "Knapp fünf Jahre"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Zwischen den Erhebungen lagen 17 Jahre. Gegen die neue Zählung gab es Widerstand und Boykottaufrufe.",
+    "tags": [
+      "thema_bildung_und_soziales",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1987",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1987.html",
+        "checked_at": "2026-11-22T21:33:12+00:00",
+        "verified_claim": "1987 fand die erste bundesweite Volkszählung seit 1970 statt. Welcher Zeitraum war ungefähr vergangen? Gut anderthalb Jahrzehnte. Zwischen den Erhebungen lagen 17 Jahre. Gegen die neue Zählung gab es Widerstand und Boykottaufrufe.",
+        "locator": "lemo1987, Textstelle 137",
+        "source_sha256": "e81bcd65d6f6f654b6cee6e64fd4144f0f4dff967a11d8da5ef453910f1f23d2"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:12+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-mindestumtausch",
+    "fact_key": "q3.h.mindestumtausch",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "1964 musste ein erwachsener Besucher aus dem Westen in der DDR pro Tag fünf D-Mark tauschen. Was bedeutete das bei drei Besuchstagen ohne Ausnahme?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur einmal fünf D-Mark vorzeigen"
+      },
+      {
+        "id": "b",
+        "text": "15 D-Mark als rückzahlbare Kaution abgeben"
+      },
+      {
+        "id": "c",
+        "text": "Je fünf Prozent des gesamten Reisebudgets tauschen"
+      },
+      {
+        "id": "d",
+        "text": "Insgesamt mindestens 15 D-Mark umtauschen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der vorgeschriebene Mindestumtausch galt pro Person und Tag. Kinder und Rentner gehörten damals zu den Ausnahmen.",
+    "tags": [
+      "thema_deutsche_teilung",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1964",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1964.html",
+        "checked_at": "2026-11-22T21:33:12+00:00",
+        "verified_claim": "1964 musste ein erwachsener Besucher aus dem Westen in der DDR pro Tag fünf D-Mark tauschen. Was bedeutete das bei drei Besuchstagen ohne Ausnahme? Insgesamt mindestens 15 D-Mark umtauschen. Der vorgeschriebene Mindestumtausch galt pro Person und Tag. Kinder und Rentner gehörten damals zu den Ausnahmen.",
+        "locator": "lemo1964, Textstelle 176",
+        "source_sha256": "e18bcffaa211912c8584e4a97329162aa460b3d48215d3b7e44d395aaacd5f5c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:12+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-kollektivierung-felder",
+    "fact_key": "q3.h.kollektivierung.felder",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die DDR erklärte 1960 die Kollektivierung ihrer Landwirtschaft für abgeschlossen. Was änderte sich für zahlreiche bisher einzeln geführte Höfe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ihre Bewirtschaftung wurde in Genossenschaften zusammengeführt."
+      },
+      {
+        "id": "b",
+        "text": "Jeder Hof wurde automatisch ein staatliches Museum."
+      },
+      {
+        "id": "c",
+        "text": "Jedes Feld erhielt eine eigene neue Währung."
+      },
+      {
+        "id": "d",
+        "text": "Die Bauern wechselten sämtlich in die städtische Industrie."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Kollektivierung bedeutete gemeinsame Bewirtschaftung unter sozialistischen Eigentums- und Produktionsverhältnissen. Sie prägte das Dorfleben in der DDR.",
+    "tags": [
+      "thema_deutsche_teilung",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1960",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1960.html",
+        "checked_at": "2026-11-22T21:33:12+00:00",
+        "verified_claim": "Die DDR erklärte 1960 die Kollektivierung ihrer Landwirtschaft für abgeschlossen. Was änderte sich für zahlreiche bisher einzeln geführte Höfe? Ihre Bewirtschaftung wurde in Genossenschaften zusammengeführt. Kollektivierung bedeutete gemeinsame Bewirtschaftung unter sozialistischen Eigentums- und Produktionsverhältnissen. Sie prägte das Dorfleben in der DDR.",
+        "locator": "lemo1960, Textstelle 91",
+        "source_sha256": "a4c611316c4336200d2e38062c0b4916d0d01868781a9d7b33c6cfdaf72c96cc"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:12+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-friedland-heimkehr",
+    "fact_key": "q3.h.friedland.heimkehr",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1955 warteten Familien in Friedland auf Züge aus dem Osten. Weshalb war der Begriff „Spätheimkehrer“ etwa zehn Jahre nach Kriegsende treffend?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reisende erreichten nach einer Ferienfahrt ihre Heimat."
+      },
+      {
+        "id": "b",
+        "text": "Deutsche Kriegsgefangene kehrten erst jetzt aus der Sowjetunion zurück."
+      },
+      {
+        "id": "c",
+        "text": "Pendler trafen nach der letzten Nachtschicht wieder ein."
+      },
+      {
+        "id": "d",
+        "text": "Soldaten kamen aus einem neuen europäischen Auslandseinsatz."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die ersten dieser Rückkehrer trafen 1955 im niedersächsischen Lager Friedland ein. Für Familien endeten lange Jahre der Trennung.",
+    "tags": [
+      "thema_deutsche_teilung",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1955",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1955.html",
+        "checked_at": "2026-11-22T21:33:12+00:00",
+        "verified_claim": "1955 warteten Familien in Friedland auf Züge aus dem Osten. Weshalb war der Begriff „Spätheimkehrer“ etwa zehn Jahre nach Kriegsende treffend? Deutsche Kriegsgefangene kehrten erst jetzt aus der Sowjetunion zurück. Die ersten dieser Rückkehrer trafen 1955 im niedersächsischen Lager Friedland ein. Für Familien endeten lange Jahre der Trennung.",
+        "locator": "lemo1955, Textstelle 174",
+        "source_sha256": "cc26376d07ea4e9047f3786210e54665b106eb75b38b6b5338e8b114e844e543"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:12+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-marshall-gemeinsam",
+    "fact_key": "q3.h.marshall.gemeinsam",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "16 europäische Staaten stimmten 1948 den Wiederaufbauhilfen des Marshallplans gemeinsam zu. Welches Ziel passte zu dieser Zusammenarbeit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Studienpläne sämtlicher Universitäten angleichen"
+      },
+      {
+        "id": "b",
+        "text": "Die letzten kolonialen Grenzen neu vermessen"
+      },
+      {
+        "id": "c",
+        "text": "Zerstörte Volkswirtschaften wieder in Gang bringen"
+      },
+      {
+        "id": "d",
+        "text": "Eine einzige nationale Fußballliga errichten"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Staaten gründeten zur wirtschaftlichen Zusammenarbeit die OEEC. Der Wiederaufbau wurde damit auch eine gemeinsame europäische Aufgabe.",
+    "tags": [
+      "thema_deutsche_teilung",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1948",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1948.html",
+        "checked_at": "2026-11-22T21:33:12+00:00",
+        "verified_claim": "16 europäische Staaten stimmten 1948 den Wiederaufbauhilfen des Marshallplans gemeinsam zu. Welches Ziel passte zu dieser Zusammenarbeit? Zerstörte Volkswirtschaften wieder in Gang bringen. Die Staaten gründeten zur wirtschaftlichen Zusammenarbeit die OEEC. Der Wiederaufbau wurde damit auch eine gemeinsame europäische Aufgabe.",
+        "locator": "lemo1948, Textstelle 105",
+        "source_sha256": "6e1332505d3dd0792e190a9cd52141c77d5a96021195bdcac1e58bdab5bfc32c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:12+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-oeffnung-besucher",
+    "fact_key": "q3.h.oeffnung.besucher",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Nach der Grenzöffnung im November 1989 kamen an einem einzigen Wochenende besonders viele DDR-Bürger in den Westen. Welche Größenordnung erklärt die überlasteten Verkehrswege?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einige Hundert Menschen"
+      },
+      {
+        "id": "b",
+        "text": "Wenige Tausend Menschen"
+      },
+      {
+        "id": "c",
+        "text": "Zehntausend Menschen"
+      },
+      {
+        "id": "d",
+        "text": "Mehrere Millionen Menschen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "LeMO nennt für das Wochenende rund drei Millionen Besucher in der Bundesrepublik und in West-Berlin. Auch an Auszahlstellen bildeten sich Warteschlangen.",
+    "tags": [
+      "thema_deutsche_teilung",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1989",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1989.html",
+        "checked_at": "2026-11-22T21:33:12+00:00",
+        "verified_claim": "Nach der Grenzöffnung im November 1989 kamen an einem einzigen Wochenende besonders viele DDR-Bürger in den Westen. Welche Größenordnung erklärt die überlasteten Verkehrswege? Mehrere Millionen Menschen. LeMO nennt für das Wochenende rund drei Millionen Besucher in der Bundesrepublik und in West-Berlin. Auch an Auszahlstellen bildeten sich Warteschlangen.",
+        "locator": "lemo1989, Textstelle 286",
+        "source_sha256": "f5dbd6636e1c6e2cf652bab341efb52c21277906aad9b324ca3d5933f38a7161"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:12+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-waehrung-freigabe",
+    "fact_key": "q3.h.waehrung.freigabe",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Als 1958 die Europäische Zahlungsunion endete, wurden die D-Mark und weitere Währungen frei austauschbar. Was war nun im Geldverkehr möglich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Umtausch zwischen diesen Währungen"
+      },
+      {
+        "id": "b",
+        "text": "Das Bezahlen mit Euro-Banknoten"
+      },
+      {
+        "id": "c",
+        "text": "Die einheitliche Besteuerung jeder Überweisung"
+      },
+      {
+        "id": "d",
+        "text": "Ein fest vorgeschriebener identischer Preis in allen Ländern"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Auflösung der Zahlungsunion hing mit der freien Austauschbarkeit der Währungen zusammen. Unterschiedliche Landeswährungen bestanden weiter.",
+    "tags": [
+      "thema_deutsche_teilung",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1958",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1958.html",
+        "checked_at": "2026-11-22T21:33:12+00:00",
+        "verified_claim": "Als 1958 die Europäische Zahlungsunion endete, wurden die D-Mark und weitere Währungen frei austauschbar. Was war nun im Geldverkehr möglich? Ein Umtausch zwischen diesen Währungen. Die Auflösung der Zahlungsunion hing mit der freien Austauschbarkeit der Währungen zusammen. Unterschiedliche Landeswährungen bestanden weiter.",
+        "locator": "lemo1958, Textstelle 172",
+        "source_sha256": "f058bfe8fc67e918089acdc7d42d577c6335bab2c12f532f4f86ba61a5ba8c28"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:12+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-wahlalter-aktiv",
+    "fact_key": "q3.h.wahlalter.aktiv",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Ein 18-Jähriger hörte 1970, das aktive Wahlalter in der Bundesrepublik werde gesenkt. Welches Recht bezeichnet „aktiv“ hier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Selbst Bundespräsident werden"
+      },
+      {
+        "id": "b",
+        "text": "Selbst bei der Wahl eine Stimme abgeben"
+      },
+      {
+        "id": "c",
+        "text": "Automatisch ein Mandat erhalten"
+      },
+      {
+        "id": "d",
+        "text": "Die Stimmen aller Nachbarn auszählen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Grundgesetzänderung senkte das aktive Wahlalter auf 18 Jahre. Das Recht, gewählt zu werden, heißt passives Wahlrecht.",
+    "tags": [
+      "thema_deutsche_teilung",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1970",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1970.html",
+        "checked_at": "2026-11-22T21:33:12+00:00",
+        "verified_claim": "Ein 18-Jähriger hörte 1970, das aktive Wahlalter in der Bundesrepublik werde gesenkt. Welches Recht bezeichnet „aktiv“ hier? Selbst bei der Wahl eine Stimme abgeben. Die Grundgesetzänderung senkte das aktive Wahlalter auf 18 Jahre. Das Recht, gewählt zu werden, heißt passives Wahlrecht.",
+        "locator": "lemo1970, Textstelle 164",
+        "source_sha256": "ad4581eb620d07a6f767ec5eb8f82aa866da30cc2490fab33c4bc688ccafacde"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:12+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-umwelt-laender",
+    "fact_key": "q3.h.umwelt.laender",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Eine Grundgesetzänderung erweiterte 1972 die Gesetzgebung des Bundes für zentrale Umweltthemen. Welcher Fall gehört zu den damals genannten Bereichen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reisepässe, Funklizenzen und Devisen"
+      },
+      {
+        "id": "b",
+        "text": "Bundestagswahlen, Renten und Studienplätze"
+      },
+      {
+        "id": "c",
+        "text": "Abgas, Lärm und die Beseitigung von Müll"
+      },
+      {
+        "id": "d",
+        "text": "Ladenöffnungszeiten, Feiertage und Ferien"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Änderung betraf Abfallbeseitigung, Luftreinhaltung und Lärmbekämpfung. Damit erhielt der Bund in diesen Fragen mehr gesetzgeberischen Spielraum.",
+    "tags": [
+      "thema_deutsche_teilung",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1972",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1972.html",
+        "checked_at": "2026-11-22T21:33:12+00:00",
+        "verified_claim": "Eine Grundgesetzänderung erweiterte 1972 die Gesetzgebung des Bundes für zentrale Umweltthemen. Welcher Fall gehört zu den damals genannten Bereichen? Abgas, Lärm und die Beseitigung von Müll. Die Änderung betraf Abfallbeseitigung, Luftreinhaltung und Lärmbekämpfung. Damit erhielt der Bund in diesen Fragen mehr gesetzgeberischen Spielraum.",
+        "locator": "lemo1972, Textstelle 101",
+        "source_sha256": "cc83d7a145d5ea469c8a689dccfd21b6e3caf081d57fbadb4fb8ce958957f798"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:12+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-polnische-preise",
+    "fact_key": "q3.h.polnische.preise",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In polnischen Hafenstädten kam es im Dezember 1970 nach einer Preisentscheidung zu Protesten. Welche Veränderung spürten Familien unmittelbar beim Alltagseinkauf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lohnabrechnungen erschienen auf anderen Formularen."
+      },
+      {
+        "id": "b",
+        "text": "Die Hafenverwaltung erhielt einen neuen Namen."
+      },
+      {
+        "id": "c",
+        "text": "Die Wahlbezirke wurden vergrößert."
+      },
+      {
+        "id": "d",
+        "text": "Nahrungsmittel und Konsumwaren wurden teurer."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die angekündigten Preiserhöhungen trafen Dinge des täglichen Bedarfs. In Danzig, Gdingen und Zoppot folgten heftige Auseinandersetzungen.",
+    "tags": [
+      "thema_deutsche_teilung",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1970",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1970.html",
+        "checked_at": "2026-11-22T21:33:12+00:00",
+        "verified_claim": "In polnischen Hafenstädten kam es im Dezember 1970 nach einer Preisentscheidung zu Protesten. Welche Veränderung spürten Familien unmittelbar beim Alltagseinkauf? Nahrungsmittel und Konsumwaren wurden teurer. Die angekündigten Preiserhöhungen trafen Dinge des täglichen Bedarfs. In Danzig, Gdingen und Zoppot folgten heftige Auseinandersetzungen.",
+        "locator": "lemo1970, Textstelle 223",
+        "source_sha256": "ad4581eb620d07a6f767ec5eb8f82aa866da30cc2490fab33c4bc688ccafacde"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:12+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-ruhr-zusammenschluss",
+    "fact_key": "q3.h.ruhr.zusammenschluss",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "23 Betriebe schlossen sich 1968 zur Ruhrkohle AG zusammen. Sie standen für etwa 85 Prozent der regionalen Förderung. Welcher Anteil blieb außerhalb?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rund ein Sechstel"
+      },
+      {
+        "id": "b",
+        "text": "Rund die Hälfte"
+      },
+      {
+        "id": "c",
+        "text": "Rund drei Viertel"
+      },
+      {
+        "id": "d",
+        "text": "Weniger als ein Hundertstel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Etwa 15 Prozent lagen außerhalb des Zusammenschlusses. Die neue Gesellschaft bündelte damit den ganz überwiegenden Teil der Steinkohleförderung im Ruhrgebiet.",
+    "tags": [
+      "thema_deutsche_teilung",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte · LeMO, Jahreschronik 1968",
+        "url": "https://www.hdg.de/lemo/jahreschronik/1968.html",
+        "checked_at": "2026-11-22T21:33:12+00:00",
+        "verified_claim": "23 Betriebe schlossen sich 1968 zur Ruhrkohle AG zusammen. Sie standen für etwa 85 Prozent der regionalen Förderung. Welcher Anteil blieb außerhalb? Rund ein Sechstel. Etwa 15 Prozent lagen außerhalb des Zusammenschlusses. Die neue Gesellschaft bündelte damit den ganz überwiegenden Teil der Steinkohleförderung im Ruhrgebiet.",
+        "locator": "lemo1968, Textstelle 203",
+        "source_sha256": "56cab62c49ac45a8e5edb249ad548efd0f3c94ac91f1621c985796c79bbffaa0"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T21:33:12+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

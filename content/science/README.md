@@ -1,5 +1,11 @@
 # Inhaltsbericht für Natur, Länder und Technik
 
+## Deutsche Ausgabe 0.3.0
+
+Natur, Reisen und Alltag umfassen jeweils 400 aktive Fragen. In jeder Kategorie kommen 294 neue Sachverhalte aus der Fachredaktion und sechs aus der Forschungsredaktion hinzu. Die übrigen 100 stammen aus der Vorversion. [Aktueller Gesamtbericht](../../CONTENT_REPORT.md) · [Einzelbelege zu Natur und Reisen](pruefung/03-modern/) · [Alltags- und Technikfragen](evidence/03-modern-alltag-pruefung.json) · [Forschungsredaktion](../research/README.md)
+
+## Austausch der Ausgabe 0.2.0
+
 Im November wurden 40 Reise-, zwölf Natur- und 20 Alltagsfragen ausgetauscht. Der aktive Bestand umfasst 600 deutschsprachige Fragen zu 600 Sachverhalten und verweist auf 375 unterschiedliche Quellen-URLs. Die Reisefragen und die Naturfragen sind im neuen Bericht mit Fundstellen, individuellen Prüfvermerken und Zuschreibung dokumentiert. [Novemberbericht](pruefung/2026-11-INHALTSBERICHT.md) · [Austauschliste Alltag](../rotation/2026-11/alltag.json)
 
 Die folgenden Belege dokumentieren die Ausgangsfassung vom 20. November 2026. Die Datei `01-starter.json` enthält die ersten zwölf Fragen. Die nächsten drei Chargen ergänzen sie zum Referenzbestand. Die Dateien mit den Nummern 03 bis 05 erweitern den ursprünglichen Bestand auf 200 Fragen pro Kategorie.

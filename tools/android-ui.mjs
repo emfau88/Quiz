@@ -78,7 +78,8 @@ async function coldStartFlow() {
   shell('settings','put','system','font_scale','1.0');
   await restart();
   await exists('button.answer:not(:disabled)');
-  report.build='Installierte, debuggable Play-Vorschau mit 1200 Fragen';
+  const manifest=await js("fetch('./data/manifest.json').then(r=>r.json())");
+  report.build='Installierte, debuggable Play-Vorschau mit '+manifest.active+' Fragen';
   report.method='Bestehende lokale Runde, Prozess per am force-stop beendet. Zeit vom Start des ADB-Aufrufs am start bis die laufende WebView vier aktivierte Antworten und die erste per Hit-Test als antippbar meldet. Host-Monotonuhr, Abfrageintervall bis 250 ms, ADB- und Verbindungsaufwand enthalten.';
   report.samplesMs=[];
   for (let i=0;i<3;i++) {
@@ -169,7 +170,9 @@ async function upgradeFlow(after) {
     passed('In der installierten Ausgangsfassung mit '+shipped.active+' Fragen eine Kennenlernrunde begonnen und einmal geantwortet');
   } else {
     const {catalog,...before}=JSON.parse(readFileSync(checkpoint,'utf8'));
-    assert.ok(shipped.active >= 1200);
+    const expected=JSON.parse(readFileSync('web/data/manifest.json','utf8'));
+    assert.equal(shipped.active,expected.active);
+    assert.equal(shipped.version,expected.version);
     assert.notEqual(shipped.version,catalog);
     assert.deepEqual(await data(),before);
     await exists('#feedback');

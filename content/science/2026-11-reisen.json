@@ -102,9 +102,9 @@
     "explanation": "Wattflächen bestehen aus Sand oder Schlick. Bei Niedrigwasser fallen sie trocken, bei auflaufendem Wasser werden sie wieder überflutet.",
     "tags": [
       "thema_landschaften",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -120,28 +120,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:36:03.960Z"
+        "at": "2026-11-22T21:39:47.431209+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.439616+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439636+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -327,9 +327,9 @@
     "explanation": "Das Wasser verdampfte beim Kontakt mit dem heißen Magma. Explosionen und anschließende Einbrüche hinterließen Trichter.",
     "tags": [
       "thema_landschaften",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -345,28 +345,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:36:03.963Z"
+        "at": "2026-11-22T21:39:47.431274+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.439657+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439661+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -552,9 +552,9 @@
     "explanation": "Am Konkordiaplatz vereinen sich Firnströme. An ihren Nahtstellen beginnen die markanten Schuttstreifen der Mittelmoränen.",
     "tags": [
       "thema_landschaften",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -570,28 +570,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:36:03.963Z"
+        "at": "2026-11-22T21:39:47.431310+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.439676+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439679+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -627,9 +627,10 @@
     "explanation": "Die Reka hat eine tiefe Schlucht in den Kalk gegraben. In den Höhlen fließt sie durch große unterirdische Räume weiter.",
     "tags": [
       "thema_gewaesser",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -645,28 +646,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:31:02.714Z"
+        "at": "2026-11-22T21:39:47.431343+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.439691+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439695+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -852,9 +853,10 @@
     "explanation": "Nebel bringt Feuchtigkeit in die Dünenfelder dieser Küstenwüste. Viele dort lebende Tiere sind an die ungewöhnliche Wasserquelle angepasst.",
     "tags": [
       "thema_landschaften",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -870,28 +872,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:36:03.964Z"
+        "at": "2026-11-22T21:39:47.431376+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.439707+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439710+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -979,7 +981,7 @@
     "fact_key": "yosemite-granit-eis",
     "category": "geography_travel",
     "difficulty": "medium",
-    "question": "Welcher Vorgang hat das Yosemite Valley in Kalifornien besonders stark geformt?",
+    "question": "Das Yosemite Valley war einmal ein engeres Flusstal. Später strömte aus dem Hochland Eis hinein. Welcher Vorgang erklärt die heutige breite Talform?",
     "options": [
       {
         "id": "a",
@@ -987,24 +989,25 @@
       },
       {
         "id": "b",
-        "text": "Meeresbrandung unterhöhlte eine Kreideküste."
+        "text": "Der schmale Fluss grub sich nur an der tiefsten Stelle weiter ein."
       },
       {
         "id": "c",
-        "text": "Wind verfrachtete lockere Sanddünen."
+        "text": "Ein einzelner Bergrutsch schüttete den Talboden vollständig zu."
       },
       {
         "id": "d",
-        "text": "Lavaströme stauten einen Küstenfluss auf."
+        "text": "Wind trug ausschließlich auf einer Talseite lockeren Sand ab."
       }
     ],
     "correct_option_id": "a",
     "explanation": "Gletscher flossen aus dem Hochland der Sierra Nevada in ältere Flusstäler. Im granitischen Gestein von Yosemite vertieften und verbreiterten sie das Tal.",
     "tags": [
       "thema_landschaften",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1020,28 +1023,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:36:03.964Z"
+        "at": "2026-11-22T21:39:47.431414+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.439718+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439720+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1077,9 +1080,9 @@
     "explanation": "In der Bucht schwingt das Wasser vor und zurück. Die Gezeiten regen diese Schwingung an, und die Form der Bucht verstärkt den Tidenhub.",
     "tags": [
       "thema_gewaesser",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1095,28 +1098,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:36:03.964Z"
+        "at": "2026-11-22T21:39:47.431459+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.439729+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439731+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1227,9 +1230,9 @@
     "explanation": "Zwischen Brunsbüttel und Kiel durchquert der Kanal Schleswig-Holstein. Die längere Route führt um Jütland durch Skagerrak und Kattegat.",
     "tags": [
       "thema_verkehrswege",
-      "form_herleiten"
+      "form_vergleichen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1245,28 +1248,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:31:46.409Z"
+        "at": "2026-11-22T21:39:47.431491+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.439738+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439740+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1302,9 +1305,9 @@
     "explanation": "In Bamberg zweigt der Main-Donau-Kanal vom Main ab. Rund 171 Kilometer weiter erreicht er bei Kelheim die Donau.",
     "tags": [
       "thema_verkehrswege",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1320,28 +1323,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:44:59.882Z"
+        "at": "2026-11-22T21:39:47.431514+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:45:19.885Z"
+        "at": "2026-11-22T21:39:54.439747+00:00"
       },
-      "approved_at": "2026-11-22T18:45:19.885Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439749+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1504,7 +1507,7 @@
     "fact_key": "oeresund-peberholm-uebergang",
     "category": "geography_travel",
     "difficulty": "medium",
-    "question": "Auf der Öresundverbindung wechselt die Straße unterwegs von einer Brücke in einen Tunnel. Wo liegt dieser Übergang?",
+    "question": "Beim Bau der Öresundverbindung wurde Aushub aus der Tunnelrinne mitten im Meer aufgeschüttet. Wo kann man deshalb von der Brücke aus in den Tunnel fahren?",
     "options": [
       {
         "id": "a",
@@ -1527,9 +1530,10 @@
     "explanation": "Die künstliche Insel Peberholm trägt das Tunnelportal. Für ihren Bau wurde Material aus dem Aushub der Tunnelrinne verwendet.",
     "tags": [
       "thema_verkehrswege",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1545,28 +1549,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:31:46.410Z"
+        "at": "2026-11-22T21:39:47.431540+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.439757+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439759+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1602,9 +1606,10 @@
     "explanation": "Die Wasserstraße führt durch den rund 26 Meter hoch gelegenen Gatúnsee. Auf der anderen Seite senken Schleusen die Schiffe wieder ab.",
     "tags": [
       "thema_verkehrswege",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1620,28 +1625,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:31:46.410Z"
+        "at": "2026-11-22T21:39:47.431562+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.439767+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439769+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1654,7 +1659,7 @@
     "fact_key": "suez-seeweg",
     "category": "geography_travel",
     "difficulty": "easy",
-    "question": "Ein Schiff fährt durch den Suezkanal vom Mittelmeer aus nach Süden. Welches Meer erreicht es auf dem Weg zum Indischen Ozean?",
+    "question": "Eine Schiffsreise führt ohne Umweg um Afrika vom Mittelmeer zum Indischen Ozean. Welches Gewässer trägst du unmittelbar nach der Südausfahrt des Suezkanals ins Logbuch ein?",
     "options": [
       {
         "id": "a",
@@ -1679,7 +1684,7 @@
       "thema_verkehrswege",
       "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1695,28 +1700,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:36:03.964Z"
+        "at": "2026-11-22T21:49:26.324346+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:49:38.418630+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:49:38.418642+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1827,9 +1832,9 @@
     "explanation": "Ein Zentimeter entspricht 50.000 Zentimetern, also 500 Metern in der Natur. Vier Zentimeter ergeben zwei Kilometer.",
     "tags": [
       "thema_orientierung",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1845,28 +1850,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:31:46.410Z"
+        "at": "2026-11-22T21:39:47.431585+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.439777+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439779+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1902,9 +1907,9 @@
     "explanation": "Im britischen Ordnance-Survey-Gitter steht zuerst der Ostwert der linken Feldgrenze. Ihm folgt der Nordwert der unteren Feldgrenze.",
     "tags": [
       "thema_orientierung",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1920,28 +1925,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:36:03.964Z"
+        "at": "2026-11-22T21:39:47.431607+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.439786+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439789+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -1977,9 +1982,9 @@
     "explanation": "Der Polarstern steht fast in der Verlängerung der Erdachse über dem Nordpol. Der Blick zu ihm zeigt daher ungefähr in Richtung geografischer Norden.",
     "tags": [
       "thema_orientierung",
-      "form_herleiten"
+      "form_anwenden"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1995,28 +2000,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:36:03.964Z"
+        "at": "2026-11-22T21:39:47.431628+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.439795+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439797+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2202,9 +2207,9 @@
     "explanation": "Die Schafe fressen junge Triebe. So verhindern sie, dass die offenen Heideflächen allmählich zuwachsen.",
     "tags": [
       "thema_kulturlandschaften",
-      "form_herleiten"
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2220,28 +2225,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:36:03.964Z"
+        "at": "2026-11-22T21:39:47.431651+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.439806+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439809+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2428,9 +2433,10 @@
     "explanation": "Die Mauern stützen schmale Anbauflächen über dem Meer. Manche Terrassen reichen mehrere hundert Höhenmeter den Hang hinauf.",
     "tags": [
       "thema_kulturlandschaften",
-      "form_herleiten"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2446,28 +2452,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:36:03.964Z"
+        "at": "2026-11-22T21:39:47.431673+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.439816+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439819+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2579,10 +2585,10 @@
     "explanation": "Der Winterkabeljau, dort Skrei genannt, trocknet an der freien Luft. So lässt sich der Fang lange aufbewahren.",
     "tags": [
       "thema_regionalgeografie",
-      "form_herleiten",
+      "form_wiedererkennen",
       "damals_und_heute"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2598,28 +2604,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Abgleich mit dem vorhandenen Quellenbeleg",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:36:03.964Z"
+        "at": "2026-11-22T21:39:47.431695+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · redaktionelle Prüfung der Frageform und Hinweise",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:39:54.439826+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:39:54.439828+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },
@@ -2933,7 +2939,7 @@
     "fact_key": "australien-zwoelf-apostel",
     "category": "geography_travel",
     "difficulty": "easy",
-    "question": "Wer auf Australiens Great Ocean Road zu den „Zwölf Aposteln“ fährt, sieht welche Formationen?",
+    "question": "An der Great Ocean Road nagte das Meer an einer Kalksteinküste. Teile blieben stehen, als das Gestein ringsum verschwand. Was sind die dortigen „Zwölf Apostel“?",
     "options": [
       {
         "id": "a",
@@ -2956,9 +2962,10 @@
     "explanation": "Die Felsen sind Reste des Festlands. Das Meer trennte sie von den Kalksteinklippen der Küste ab.",
     "tags": [
       "thema_regionalgeografie",
-      "form_wiedererkennen"
+      "form_herleiten",
+      "tagesraetsel"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2974,28 +2981,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · vorhandenen Quellenbefund mit der neuen Aufgabenstellung abgeglichen",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:36:03.964Z"
+        "at": "2026-11-22T21:49:26.324396+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Länder und Natur",
+        "actor": "Codex · Hinweisführung, Alternativen und Zuordnung geprüft",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-22T18:39:23.070Z"
+        "at": "2026-11-22T21:49:38.418658+00:00"
       },
-      "approved_at": "2026-11-22T18:39:23.070Z",
-      "approved_by": "Codex · Redaktion Länder und Natur",
+      "approved_at": "2026-11-22T21:49:38.418661+00:00",
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
       "issues": [],
       "length_exception": null
     },

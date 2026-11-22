@@ -1,0 +1,200 @@
+{
+  "katalog": "de-d5a1d0585ed1",
+  "at": "2026-11-22T22:45:40.314645+00:00",
+  "pruefung": "Redaktionelle Agentenprüfung der markierten Kartenpaare",
+  "erlaeuterung": "Abgleich der Lernziele anhand von Fragetext, Lösung und Erklärung. Wortähnlichkeit allein entscheidet nicht über eine Doppelung.",
+  "paare": [
+    {
+      "ids": [
+        "k-architecture-mostar-name",
+        "q3-h-mostar-wieder"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die Bestandsfrage bestimmt die Art des Bauwerks. Die neue fragt nach der gesellschaftlichen Bedeutung des Wiederaufbaus."
+    },
+    {
+      "ids": [
+        "k-cldr-no-relative-1",
+        "qs03-l-morgen"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die Übersetzung eines norwegischen Zeitausdrucks und die deutsche Großschreibung von Adverb und Nomen haben verschiedene Lösungen."
+    },
+    {
+      "ids": [
+        "k-grammatik-adjektiv-beispiel",
+        "qs03-l-alle-kommentar"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Wortartbestimmung und Einsetzen einer koordinierenden Verbindung zwischen zwei Merkmalen prüfen verschiedene Regeln."
+    },
+    {
+      "ids": [
+        "k-media-lenin-wohnung",
+        "q3-e-lenin-nachrichten"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die ältere Frage fragt nach Alex’ Beweggrund. Die neue behandelt die Rolle nachgestellter Nachrichtensendungen für die Täuschung im Film."
+    },
+    {
+      "ids": [
+        "k-perform-capoeira-circle",
+        "q3-e-capoeira-kreis"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die eine Aufgabe identifiziert die Tradition. Die andere fragt, wie die Teilnehmenden am Rand zum Ablauf beitragen."
+    },
+    {
+      "ids": [
+        "k-perform-mariachi-mexico",
+        "q3-e-mariachi-bass"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die alte Frage nennt das Herkunftsland. Die neue unterscheidet die Aufgabe des Guitarrón von den Stimmen der anderen Instrumente."
+    },
+    {
+      "ids": [
+        "k-rigoletto-profession",
+        "q3-e-rigoletto-versteck"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die berufliche Stellung am Hof und Rigolettos Motiv für den Schutz seiner Tochter sind verschiedene Teile der Opernhandlung."
+    },
+    {
+      "ids": [
+        "q3-h-kanada-kanal",
+        "qs3-rideau-kanal-zielgewaesser"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die Länge des Kanals und das Gewässer für die Weiterfahrt sind verschiedene Reiseinformationen."
+    },
+    {
+      "ids": [
+        "q3-h-tschechien-slowakei",
+        "qs-cz-hauptstadt"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Stadtname und Folge der staatlichen Teilung von 1993 sind unterschiedliche Wissensziele."
+    },
+    {
+      "ids": [
+        "qs-aequator-breite",
+        "qs3-wendekreise-tropen-abgrenzung"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die Lage des Äquators ist ein einzelner Breitengrad. Die neue Karte ordnet einen anderen Breitengrad in die Zone zwischen den Wendekreisen ein."
+    },
+    {
+      "ids": [
+        "qs-b4-schach-rochade",
+        "qs03-l-fesselung"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die Rochade betrifft einen Sonderzug zweier Figuren. Die Fesselung betrifft einen Zug, der den eigenen König freilegen würde."
+    },
+    {
+      "ids": [
+        "qs-b4-schach-rochade",
+        "qs03-l-schach-flucht"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Gefragt sind einmal die an der Rochade beteiligten Figuren und einmal zulässige Antworten auf ein bereits bestehendes Schach."
+    },
+    {
+      "ids": [
+        "qs-bernina-tirano-verbindung",
+        "qs3-bernina-tirano-bus-lugano"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die eine Reise führt über eine Landesgrenze. Die andere verlangt, in Tirano vom Zug in den Bus umzusteigen."
+    },
+    {
+      "ids": [
+        "qs-gotthard-gebirge",
+        "qs3-gotthard-zwei-roehren-bauleistung"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die Lage in den Alpen und die addierte Länge zweier Röhren sind verschiedene Merkmale des Bauwerks."
+    },
+    {
+      "ids": [
+        "qs-machu-anden",
+        "qs3-machu-picchu-einzugsgebiet-ostseite"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die alte Frage benennt das Gebirge der Inkastätte. Die Reiseaufgabe verfolgt den Weg des Niederschlags auf der östlichen Seite der Wasserscheide."
+    },
+    {
+      "ids": [
+        "qs-panamakanal-gatun-hoehe",
+        "qs3-schleusung-hoeherer-see-schwerkraft"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die Höhenlage des Sees begründet den nötigen Schiffshub. Das hydraulische Gefälle erklärt, wie Wasser in die einzelne Kammer gelangt."
+    },
+    {
+      "ids": [
+        "qs-schmetterling-puppe",
+        "qs3-libelle-keine-puppe"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die Puppenphase des Schmetterlings und der unmittelbare Übergang von der Libellenlarve zum geflügelten Tier sind unterschiedliche Entwicklungen."
+    },
+    {
+      "ids": [
+        "qs-venedig-lagune",
+        "qs3-venedig-inseln-verbindungen"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Stadtidentifikation anhand der Lage und Erklärung der Verkehrswege zwischen den Inseln sind verschiedene Aufgaben."
+    },
+    {
+      "ids": [
+        "qs03-l-bibelduenn",
+        "qs03-t-druckbeidseitig"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Bei der Buchausgabe werden Blätter pro Zentimeter geschätzt. Beim Drucken sind Seiten pro Blattseite, beidseitige Bedruckung und die Rundung auf ganze Blätter zu berücksichtigen."
+    },
+    {
+      "ids": [
+        "qs03-t-csv-komma",
+        "qs03-t-csvzitat"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Ein im Datenfeld enthaltenes Komma erfordert äußere Anführungszeichen. Ein wörtliches Anführungszeichen innerhalb des Felds wird verdoppelt."
+    },
+    {
+      "ids": [
+        "qs03-t-downloadfortschritt",
+        "qs03-t-podcastdauer"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die erste Aufgabe verändert die Abspielgeschwindigkeit einer vollständigen Aufnahme. Die zweite berechnet die Restzeit eines teilweise abgeschlossenen Vorgangs."
+    },
+    {
+      "ids": [
+        "qs03-t-koernungszahl",
+        "qs03-t-schliffstufen"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die erste Karte liest zwei Körnungskennzahlen. Die zweite erklärt, weshalb Zwischenschritte die Kratzer der vorigen Bearbeitung beseitigen."
+    },
+    {
+      "ids": [
+        "qs3-alpinweg-bewertung-schwierigkeit",
+        "qs3-wanderraute-bestaetigt-strecke"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die eine Markierung bestätigt den Verlauf nach einer Kreuzung. Die andere verlangt die Auswahl der Wegekategorie anhand des Farbzeichens."
+    },
+    {
+      "ids": [
+        "qs3-ameisenjungfer-netzfluegler-reihenfolge",
+        "qs3-libelle-keine-puppe"
+      ],
+      "entscheidung": "Beide beibehalten",
+      "begruendung": "Die Libelle wird direkt aus der Larve zum geflügelten Tier. Das ähnliche erwachsene Erscheinungsbild der Ameisenjungfer täuscht über das zusätzliche Puppenstadium dieses Netzflüglers hinweg."
+    }
+  ]
+}

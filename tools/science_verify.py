@@ -1,4 +1,4 @@
-"""Prüft die ursprünglichen Belege, spätere Austauschlisten und ihre aktiven Fragen offline."""
+"""Prüft die historischen Quellenstände und die nachgewiesenen Redaktionsrevisionen offline."""
 
 from __future__ import annotations
 
@@ -6,14 +6,16 @@ import csv
 import hashlib
 import json
 import re
+import subprocess
 from collections import Counter
 from datetime import datetime
+from io import BytesIO
 from pathlib import Path
 from zipfile import ZipFile
 
 from jsonschema import Draft202012Validator, FormatChecker
 
-from catalog import distribution, editorial_archive, verify, verify_classification
+from catalog import RUNTIME_FIELDS, distribution, editorial_archive, revision_stamp, verify, verify_classification
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -24,6 +26,9 @@ GEO_COLUMNS = {"capital": 5, "area": 6, "continent": 8, "tld": 9,
 GEO_DIGEST = "79f8f59ea01cbb40438bf1856dd6c2ff201f03f8fc72d0530b2646aaf603ef04"
 CATEGORIES = ("nature_animals", "geography_travel", "everyday_technology")
 ROTATION = ROOT / "content" / "rotation" / "2026-11"
+BASE_COMMIT = "17e88f2d46c72ff1aa2128749757e1be453b550b"
+QA_03 = ROOT / "release/qa/modern-0.3.0"
+BASELINE_ZIP = ROOT / "release/qa/fragenpool/ausgangsversion.zip"
 PACKAGES = {
     "reisen": {"Landschaften und Gewässer": 16, "Orientierung und Verkehrswege": 12,
                "Regionale Reisegeografie": 12},
@@ -45,6 +50,90 @@ def read_json(path: Path):
 def read_tsv(path: Path):
     with path.open(encoding="utf-8", newline="") as source:
         return list(csv.DictReader(source, delimiter="\t"))
+
+
+def historical_cards():
+    paths = ["content/science", "content/rotation/2026-11", BASELINE_ZIP.relative_to(ROOT).as_posix()]
+    data = subprocess.check_output(["git", "archive", "--format=zip", BASE_COMMIT, *paths], cwd=ROOT)
+    cards = {}
+    with ZipFile(BytesIO(data)) as archive:
+        for item in archive.infolist():
+            path = ROOT / item.filename
+            if item.is_dir():
+                continue
+            if path.parent == SOURCE and path.suffix == ".json":
+                cards[path] = json.loads(archive.read(item))
+            elif (path.parent == EVIDENCE and path.suffix in {".tsv", ".json", ".jsonl", ".txt"} or
+                  path.parent == ROTATION and path.stem in {"reisen", "natur", "alltag"} or path == BASELINE_ZIP):
+                check(archive.read(item) == path.read_bytes(), str(path) + " historischer Beleg verändert")
+    return cards
+
+
+def verify_current_edits(historical, validator):
+    former = {q["id"]: q for rows in historical.values() for q in rows}
+    decisions = {}
+    for mode, name in (("form_herleiten", "alte-herleitungen.json"),
+                       ("form_wiedererkennen", "ueberarbeitete-wissensabfragen.json")):
+        for entry in read_json(QA_03 / name):
+            key = entry["id"]
+            if key in former:
+                check(key not in decisions, key + " doppelte Änderungsentscheidung")
+                decisions[key] = (mode, entry)
+    revisions = read_json(ROOT / "specs/revision-history.json")
+    processed = set()
+    new_prompts, new_options = 0, 0
+    for path, old_rows in historical.items():
+        rows = read_json(path)
+        ids = [q["id"] for q in rows]
+        check(len(ids) == len(set(ids)) and set(ids) == {q["id"] for q in old_rows},
+              path.name + " IDs des historischen Redaktionsbestands")
+        for q in rows:
+            key, old = q["id"], former[q["id"]]
+            if key not in decisions:
+                check(q == old, key + " geändert ohne Revisionsentscheidung")
+                continue
+            mode, decision = decisions[key]
+            processed.add(key)
+            allowed = {"question", "options", "tags", "review", "content_revision"}
+            check({k: v for k, v in old.items() if k not in allowed} ==
+                  {k: v for k, v in q.items() if k not in allowed},
+                  key + " Änderung außerhalb der redaktionellen Entscheidung")
+            verify(q, validator)
+            verify_classification(q)
+            check(q["content_revision"] == decision["revision"] == old["content_revision"] + 1,
+                  key + " nicht belegte Inhaltsrevision")
+            check(mode in old["tags"] and decision["neu"] in q["tags"], key + " Frageform der Entscheidung")
+            is_clue = decision["neu"] == "form_herleiten"
+            check(decision.get("hinweisfrage", is_clue) == is_clue, key + " widersprüchliche Hinweisentscheidung")
+            expected_tags = (set(old["tags"]) - {mode, "tagesraetsel"}) | {decision["neu"]}
+            if is_clue:
+                expected_tags.add("tagesraetsel")
+            check(set(q["tags"]) == expected_tags, key + " Themen- und Hinweiszuordnung")
+            prompt_changed = q["question"] != old["question"]
+            check(prompt_changed == decision.get("neuer_fragesatz", True), key + " Revision des Fragetextes")
+            previous = {o["id"]: o["text"] for o in old["options"]}
+            current = {o["id"]: o["text"] for o in q["options"]}
+            right = old["correct_option_id"]
+            check(previous.keys() == current.keys() and current[right] == previous[right],
+                  key + " Identität des Antwortschlüssels und der korrekten Antwort")
+            options_changed = old["options"] != q["options"]
+            check(not options_changed or prompt_changed, key + " Antwortalternativen ohne redigierte Aufgabe")
+            source_ids = [s["id"] for s in q["sources"]]
+            for step in ("fact", "editorial"):
+                check(q["review"][step]["actor_type"] == "agent" and q["review"][step]["source_ids"] == source_ids,
+                      key + " Agentenprüfung der belegten Quellen")
+            times = [old["review"]["approved_at"], q["review"]["fact"]["at"], q["review"]["editorial"]["at"]]
+            prior, fact, edit = map(datetime.fromisoformat, times)
+            check(prior < fact < edit, key + " zeitliche Reihenfolge der Revision")
+            runtime = {k: q[k] for k in RUNTIME_FIELDS}
+            runtime["sources"] = [{k: s[k] for k in ("title", "url")} for s in q["sources"]]
+            check(revisions.get(key) == revision_stamp(runtime), key + " Fingerabdruck der neuen Fassung")
+            new_prompts += int(prompt_changed)
+            new_options += int(options_changed)
+    check(processed == set(decisions), "nicht zugeordnete 0.3-Entscheidung")
+    print(f"0.3: {len(processed)} belegte Agentenrevisionen für {len(former)} bestehende Karten, "
+          f"davon {new_prompts} neue Fragetexte und {new_options} geänderte Antwortlisten. "
+          "Sachverhalt, semantische Revision, Lösung und Quellen identisch.")
 
 
 def check_mix(records):
@@ -86,12 +175,12 @@ def verify_rotation_proof(q, old, proof, batch, old_files):
     check(bool(proof["pruefvermerk"].strip()), key + " Einzelvermerk")
 
 
-def verify_rotations(base, old_files, validator):
+def verify_rotations(base, old_files, validator, historical):
     combined = dict(base)
     all_pairs = []
     cited = {}
     for batch, total in (("reisen", 40), ("natur", 12), ("alltag", 20)):
-        new_rows = read_json(SOURCE / f"2026-11-{batch}.json")
+        new_rows = historical[SOURCE / f"2026-11-{batch}.json"]
         pairs = read_json(ROTATION / f"{batch}.json")
         check(len(new_rows) == len(pairs) == total, batch + " Umfang")
         check({p["new_id"] for p in pairs} == {q["id"] for q in new_rows}, batch + " Austauschliste")
@@ -137,6 +226,7 @@ def verify_rotations(base, old_files, validator):
 
 
 def verify_local_sources() -> None:
+    historical = historical_cards()
     catalog = {}
     domains = Counter()
     evidence_counts = Counter()
@@ -153,14 +243,14 @@ def verify_local_sources() -> None:
             revised[key] = plan
     validator = Draft202012Validator(read_json(ROOT / "specs/question.schema.json"),
                                      format_checker=FormatChecker())
-    with ZipFile(ROOT / "release/qa/fragenpool/ausgangsversion.zip") as archive:
+    with ZipFile(BASELINE_ZIP) as archive:
         baseline = json.loads(archive.read("catalog.json"))
     check(baseline["version"] == "de-7363fcba52a1", "Unbekannte Ausgangsversion")
     before = {q["id"]: q for q in baseline["questions"] if q["category"] in CATEGORIES}
     old_files = {}
-    for path in sorted(SOURCE.glob("[0-9][0-9]-*.json")):
+    for path in sorted(p for p in historical if re.match(r"[0-9]{2}-", p.name)):
         base_proofs = {r["fact_key"]: r for r in read_tsv(EVIDENCE / (path.stem + ".tsv"))}
-        records = read_json(path)
+        records = historical[path]
         check(len(records) == len(base_proofs), "Fehlende Erstbelege in " + path.name)
         for q in records:
             key = q["fact_key"]
@@ -226,14 +316,16 @@ def verify_local_sources() -> None:
     check(len(web_proofs) == evidence_counts["Web"], "Überzählige Webfundstellen")
     source_index = {r["URL"]: int(r["Fragen"]) for r in read_tsv(EVIDENCE / "quellenregister.tsv")}
     check(dict(domains) == source_index, "Quellenregister stimmt nicht mit den Fragen überein")
-    count = verify_rotations({q["id"]: q for q in records}, old_files, validator)
+    count = verify_rotations({q["id"]: q for q in records}, old_files, validator, historical)
     print(f"Ausgangsfassung: {len(records)} Fragen, {len(domains)} Quellen-URLs, "
           f"{evidence_counts['countryInfo']} GeoNames- und {evidence_counts['Web']} Webbelege, "
           f"{len(revised)} frühere zweite Inhaltsrevisionen.")
     print(f"November-Rotation: {count} Archivierungen und neue Karten. "
           "40 Reise- und 12 Naturkarten mit einzelnem zweitem Quellenabgleich, 20 Alltagskarten mit Austauschliste.")
-    print("600 aktive Fragen, 75 Referenzen, 12 Starter. Je Kategorie 120/60/20, in der Referenz 15/7/3. "
+    print(f"Stand {BASE_COMMIT[:8]}: 600 aktive Fragen, 75 Referenzen, 12 Starter. "
+          "Je Kategorie 120/60/20, in der Referenz 15/7/3. "
           "0 menschliche Beobachtungen.")
+    verify_current_edits(historical, validator)
 
 
 if __name__ == "__main__":

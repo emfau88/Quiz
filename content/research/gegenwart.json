@@ -1,0 +1,2826 @@
+[
+  {
+    "id": "qs-studie-bizmoune-gebrauchsspuren",
+    "fact_key": "forschung.bizmoune_gebrauchsspuren",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "An Steinklingen aus der marokkanischen Höhle Bizmoune fanden sich feine Gebrauchsspuren. Welche Vergleichsstücke verraten am ehesten, ob damit Holz bearbeitet wurde?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Steinklingen, die versuchsweise Holz, Häute oder Pflanzen bearbeitet haben"
+      },
+      {
+        "id": "b",
+        "text": "Unbenutzte Steinklingen derselben Größe und Farbe"
+      },
+      {
+        "id": "c",
+        "text": "Holz verschiedener Arten aus der Umgebung der Höhle"
+      },
+      {
+        "id": "d",
+        "text": "Steinwerkzeuge, die nur nach ihrer Fundtiefe geordnet sind"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Versuchsweise benutzte Werkzeuge liefern Spuren, deren Ursache bekannt ist. Im Vergleich damit fanden die Forschenden an den Klingen aus Bizmoune besonders häufig Hinweise auf Holzbearbeitung.",
+    "tags": [
+      "thema_archaeologie",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "research": {
+      "published_on": "2026-10-13",
+      "publisher": "Journal of Human Evolution",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Technological organization and residential behavior among early Homo sapiens in North Africa",
+        "url": "https://doi.org/10.1016/j.jhevol.2026.103902",
+        "checked_at": "2026-11-22T22:15:08.022529+00:00",
+        "verified_claim": "Versuchsweise benutzte Werkzeuge liefern Spuren, deren Ursache bekannt ist. Im Vergleich damit fanden die Forschenden an den Klingen aus Bizmoune besonders häufig Hinweise auf Holzbearbeitung.",
+        "locator": "Originalarbeit, Abstract und Methodendarstellung"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "actor_type": "agent",
+        "at": "2026-11-22T22:15:08.022529+00:00",
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "source_ids": [
+          "original"
+        ],
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "actor_type": "agent",
+        "at": "2026-11-22T22:15:56.695862+00:00",
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "source_ids": [
+          "original"
+        ],
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T22:15:56.695862+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-rolle-virtuell-entfalten",
+    "fact_key": "forschung.rolle_virtuell_entfalten",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Eine verkohlte Rolle aus Herculaneum würde beim Öffnen zerbrechen. Ein Röntgenscan zeigt ihre gewickelten Lagen. Wie lässt sich eine Schriftzeile verfolgen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Lage am Computer Stück für Stück entrollen"
+      },
+      {
+        "id": "b",
+        "text": "Alle Lagen wie auf einem Foto übereinanderlegen"
+      },
+      {
+        "id": "c",
+        "text": "Aus dem Durchmesser die Buchstaben berechnen"
+      },
+      {
+        "id": "d",
+        "text": "Ein Spiegelbild der Außenseite anfertigen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Rolle blieb geschlossen. Das Team verfolgte die Papyruslagen im dreidimensionalen Scan und breitete sie virtuell aus. So wurden im Inneren Buchstaben sichtbar.",
+    "tags": [
+      "thema_archaeologie",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "research": {
+      "published_on": "2025-02-05",
+      "publisher": "Diamond Light Source",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Diamond Light Source uncovers ancient text from the Oxford Herculaneum scroll - - Diamond Light Source",
+        "url": "https://www.diamond.ac.uk/Home/News/LatestNews/2025/05022025.html",
+        "checked_at": "2026-11-22T21:20:06Z",
+        "verified_claim": "Die Rolle blieb geschlossen. Das Team verfolgte die Papyruslagen im dreidimensionalen Scan und breitete sie virtuell aus. So wurden im Inneren Buchstaben sichtbar.",
+        "locator": "Bericht der beteiligten Institution"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-altarstein-entfernung",
+    "fact_key": "forschung.altarstein_entfernung",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Der Altarstein von Stonehenge stammt einer Gesteinsanalyse zufolge aus Nordostschottland. Welche Mindeststrecke bis nach Südengland passt zur Untersuchung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rund 750 Kilometer"
+      },
+      {
+        "id": "b",
+        "text": "Rund 75 Kilometer"
+      },
+      {
+        "id": "c",
+        "text": "Rund 25 Kilometer"
+      },
+      {
+        "id": "d",
+        "text": "Rund 2.500 Kilometer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Mineralkörner passen zum Orcadian Basin in Nordostschottland. Zwischen Herkunftsregion und Stonehenge liegen mindestens 750 Kilometer. Der genaue Transportweg bleibt offen.",
+    "tags": [
+      "thema_megalithen",
+      "form_schaetzen"
+    ],
+    "research": {
+      "published_on": "2024-08-14",
+      "publisher": "Nature",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "A Scottish provenance for the Altar Stone of Stonehenge.",
+        "url": "https://doi.org/10.1038/s41586-024-07652-1",
+        "checked_at": "2026-11-22T21:21:25.207580+00:00",
+        "verified_claim": "Die Mineralkörner passen zum Orcadian Basin in Nordostschottland. Zwischen Herkunftsregion und Stonehenge liegen mindestens 750 Kilometer. Der genaue Transportweg bleibt offen.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-barnham-funkenschlagen",
+    "fact_key": "forschung.barnham_funkenschlagen",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In Barnham lagen neben erhitztem Boden Feuerstein und dort seltener Pyrit. Zusammengeschlagen können beide Funken erzeugen. Welche Deutung gewinnt dadurch an Gewicht?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Menschen konnten dort selbst Feuer entzünden"
+      },
+      {
+        "id": "b",
+        "text": "Das Feuer entstand dort durch einen Vulkanausbruch"
+      },
+      {
+        "id": "c",
+        "text": "Die Glut kam sicher von einem Blitzschlag"
+      },
+      {
+        "id": "d",
+        "text": "Der Platz war eine Werkstatt zur Eisenverhüttung"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die rund 400.000 Jahre alte Fundstelle vereint Hitzespuren und zwei Pyritstücke. Dass der Pyrit vor Ort selten ist, spricht dafür, dass Menschen ihn eigens dorthin brachten.",
+    "tags": [
+      "thema_fruehgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "research": {
+      "published_on": "2025-12-10",
+      "publisher": "Nature",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Earliest evidence of making fire.",
+        "url": "https://doi.org/10.1038/s41586-025-09855-6",
+        "checked_at": "2026-11-22T21:21:25.187584+00:00",
+        "verified_claim": "Die rund 400.000 Jahre alte Fundstelle vereint Hitzespuren und zwei Pyritstücke. Dass der Pyrit vor Ort selten ist, spricht dafür, dass Menschen ihn eigens dorthin brachten.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-bao-spirale",
+    "fact_key": "forschung.bao_spirale",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Das Sternpaar Bao teilte sich eine Gashülle. Darin verlor der kleinere Stern bei seinen Umläufen Bahnenergie. Welcher Weg führte ihn zum Kern des Riesensterns?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine immer engere Spirale"
+      },
+      {
+        "id": "b",
+        "text": "Eine Kreisbahn in unverändertem Abstand"
+      },
+      {
+        "id": "c",
+        "text": "Ein gerader Sturz ohne weitere Umrundung"
+      },
+      {
+        "id": "d",
+        "text": "Eine Bahn mit stetig wachsendem Abstand"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In der gemeinsamen Hülle bremste das Gas den kleineren Stern. Aus den Messungen folgert das Team, dass er nach wenigen Umläufen mit dem Kern des großen Sterns verschmolz.",
+    "tags": [
+      "thema_sternentwicklung",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "research": {
+      "published_on": "2026-11-18",
+      "publisher": "Nature",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "An inspiral of a star inside a common envelope with its giant companion",
+        "url": "https://doi.org/10.1038/s41586-026-11221-z",
+        "checked_at": "2026-11-22T22:15:08.022529+00:00",
+        "verified_claim": "In der gemeinsamen Hülle bremste das Gas den kleineren Stern. Aus den Messungen folgert das Team, dass er nach wenigen Umläufen mit dem Kern des großen Sterns verschmolz.",
+        "locator": "Originalarbeit, Abstract und Methodendarstellung"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "actor_type": "agent",
+        "at": "2026-11-22T22:15:08.022529+00:00",
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "source_ids": [
+          "original"
+        ],
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "actor_type": "agent",
+        "at": "2026-11-22T22:15:56.695862+00:00",
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "source_ids": [
+          "original"
+        ],
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T22:15:56.695862+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-hand-kalk-mindestalter",
+    "fact_key": "forschung.hand_kalk_mindestalter",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Auf einer indonesischen Felsmalerei wuchs eine Kalkschicht. Die Datierung gibt für die Schicht ein Mindestalter von 67.800 Jahren an. Was folgt für das Handbild darunter?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es war spätestens vor 67.800 Jahren vorhanden"
+      },
+      {
+        "id": "b",
+        "text": "Es entstand genau vor 67.800 Jahren"
+      },
+      {
+        "id": "c",
+        "text": "Es muss jünger als die Kalkschicht sein"
+      },
+      {
+        "id": "d",
+        "text": "Es ist doppelt so alt wie die Kalkschicht"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zuerst entstand der Umriss einer Hand auf der Höhlenwand, danach lagerte sich darüber Kalk ab. Dessen Mindestalter setzt dem darunterliegenden Bild eine untere Altersgrenze.",
+    "tags": [
+      "thema_felskunst",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "research": {
+      "published_on": "2026-01-21",
+      "publisher": "Nature",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Rock art from at least 67,800 years ago in Sulawesi.",
+        "url": "https://doi.org/10.1038/s41586-025-09968-y",
+        "checked_at": "2026-11-22T21:21:28.912472+00:00",
+        "verified_claim": "Zuerst entstand der Umriss einer Hand auf der Höhlenwand, danach lagerte sich darüber Kalk ab. Dessen Mindestalter setzt dem darunterliegenden Bild eine untere Altersgrenze.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T22:15:56.695862+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T22:15:56.695862+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-gesang-sprechrhythmus",
+    "fact_key": "forschung.gesang_sprechrhythmus",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Beim Sprechen gleitet die Stimme durch viele Tonhöhen. Ein gesungenes „La“ lässt sich halten. Was fand eine Studie mit Aufnahmen aus 55 Sprachen im Mittel?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Im Gesang blieben die Tonhöhen stabiler"
+      },
+      {
+        "id": "b",
+        "text": "Gesprochene Silben wurden durchweg länger gehalten"
+      },
+      {
+        "id": "c",
+        "text": "Gesang und Gespräch hatten stets dasselbe Tempo"
+      },
+      {
+        "id": "d",
+        "text": "Beim Singen verschwanden die Tonhöhenunterschiede"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Forschenden verglichen Gesang, gesprochene Liedtexte und Gespräche. Im Gesang lagen die Töne im Durchschnitt höher, die Tonhöhe blieb stabiler und das Tempo war langsamer.",
+    "tags": [
+      "thema_musik_und_sprache",
+      "form_vergleichen"
+    ],
+    "research": {
+      "published_on": "2024-05-15",
+      "publisher": "Science Advances",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Globally, songs and instrumental melodies are slower and higher and use more stable pitches than speech: A Registered Report.",
+        "url": "https://doi.org/10.1126/sciadv.adm9797",
+        "checked_at": "2026-11-22T21:21:29.522535+00:00",
+        "verified_claim": "Die Forschenden verglichen Gesang, gesprochene Liedtexte und Gespräche. Im Gesang lagen die Töne im Durchschnitt höher, die Tonhöhe blieb stabiler und das Tempo war langsamer.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-klavier-rueckmeldung",
+    "fact_key": "forschung.klavier_rueckmeldung",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Ein Pianist soll im Experiment auf die momentane Reaktion seines Publikums eingehen. Welche Information macht aus dem bloßen Vorspielen tatsächlich einen Austausch?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine laufende Anzeige der gemessenen Reaktion"
+      },
+      {
+        "id": "b",
+        "text": "Die Publikumsgröße aus dem Vorjahr"
+      },
+      {
+        "id": "c",
+        "text": "Ein Ausdruck des Beifalls nach dem letzten Konzert"
+      },
+      {
+        "id": "d",
+        "text": "Die unveränderte Partitur auf dem Notenständer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In der Studie sahen die Musiker während des Spielens ein Signal aus der Hirnmessung ihrer Zuhörer. Sie konnten die Darbietung im selben Moment daran anpassen.",
+    "tags": [
+      "thema_livemusik",
+      "form_anwenden"
+    ],
+    "research": {
+      "published_on": "2024-02-26",
+      "publisher": "PNAS",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Live music stimulates the affective brain and emotionally entrains listeners in real time.",
+        "url": "https://doi.org/10.1073/pnas.2316306121",
+        "checked_at": "2026-11-22T21:21:25.765724+00:00",
+        "verified_claim": "In der Studie sahen die Musiker während des Spielens ein Signal aus der Hirnmessung ihrer Zuhörer. Sie konnten die Darbietung im selben Moment daran anpassen.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-groove-vierviertel",
+    "fact_key": "forschung.groove_vierviertel",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Wie viel Überraschung braucht ein Groove? Im vertrauten Viervierteltakt gab es die höchsten Mitwipp-Werte zwischen „zu vorhersehbar“ und „schwer zu verfolgen“. Was traf den Punkt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein erkennbarer Puls mit unerwarteten Akzenten"
+      },
+      {
+        "id": "b",
+        "text": "Ein Puls ganz ohne rhythmische Überraschungen"
+      },
+      {
+        "id": "c",
+        "text": "Ein Verlauf, in dem der Puls kaum auszumachen ist"
+      },
+      {
+        "id": "d",
+        "text": "Ein einzelner, durchgehend gehaltener Klang"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bei den befragten westlichen Hörern hatte im Viervierteltakt das Mittelfeld die Nase vorn. In ungewohnteren Taktarten erzielten einfachere Rhythmen die höchsten Werte.",
+    "tags": [
+      "thema_rhythmus",
+      "form_vergleichen"
+    ],
+    "research": {
+      "published_on": "2025-12-16",
+      "publisher": "Communications Psychology",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "4/4 and more, rhythmic complexity more strongly predicts groove in common meters.",
+        "url": "https://doi.org/10.1038/s44271-025-00360-0",
+        "checked_at": "2026-11-22T21:21:25.765597+00:00",
+        "verified_claim": "Bei den befragten westlichen Hörern hatte im Viervierteltakt das Mittelfeld die Nase vorn. In ungewohnteren Taktarten erzielten einfachere Rhythmen die höchsten Werte.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-blickmontage",
+    "fact_key": "forschung.blickmontage",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Du schneidest eine Filmszene. Das Publikum soll sich später gerade an den Schlüssel erinnern, den die Figur bemerkt. Welche Montage nutzt ihren Blick als Wegweiser?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Erst ihr suchender Blick, dann der Schlüssel aus ihrer Sicht"
+      },
+      {
+        "id": "b",
+        "text": "Erst der Schlüssel, dann die geschlossene Wohnungstür"
+      },
+      {
+        "id": "c",
+        "text": "Erst die Wohnungstür, dann eine Totale des Hauses"
+      },
+      {
+        "id": "d",
+        "text": "Erst ihre Schuhe, dann ein Schnitt auf die Uhr"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In einer Studie mit 39 Erwachsenen blieb ein angeblickter Gegenstand bei dieser Schnittfolge besser im Gedächtnis. Die Blickrichtung verbindet die Figur mit dem, was sie sieht.",
+    "tags": [
+      "thema_filmschnitt",
+      "form_anwenden"
+    ],
+    "research": {
+      "published_on": "2026-08-04",
+      "publisher": "Journal of Communication",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Through their eyes: neural and behavioral evidence for enhanced immersion via point-of-view editing",
+        "url": "https://doi.org/10.1093/joc/jqag011",
+        "checked_at": "2026-11-22T21:21:30.501699+00:00",
+        "verified_claim": "In einer Studie mit 39 Erwachsenen blieb ein angeblickter Gegenstand bei dieser Schnittfolge besser im Gedächtnis. Die Blickrichtung verbindet die Figur mit dem, was sie sieht.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-liedwortschatz",
+    "fact_key": "forschung.liedwortschatz",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Zwei Songtexte haben je 200 Wörter. Der eine wiederholt oft dieselbe Zeile, der andere verwendet stetig neue Wörter. Was kannst du mit diesen Angaben vergleichen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wortvielfalt und Wiederholung"
+      },
+      {
+        "id": "b",
+        "text": "Die Anzahl der Akkorde im Refrain"
+      },
+      {
+        "id": "c",
+        "text": "Die Tonlage der beiden Stimmen"
+      },
+      {
+        "id": "d",
+        "text": "Die Länge der Pausen zwischen den Strophen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eine Untersuchung englischer Liedtexte aus fünf Genres fand über fünf Jahrzehnte unter anderem mehr Wiederholungen und eine geringere sprachliche Vielfalt. Die Melodie wurde dafür nicht benötigt.",
+    "tags": [
+      "thema_songtexte",
+      "form_vergleichen"
+    ],
+    "research": {
+      "published_on": "2024-03-28",
+      "publisher": "Scientific Reports",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Song lyrics have become simpler and more repetitive over the last five decades.",
+        "url": "https://doi.org/10.1038/s41598-024-55742-x",
+        "checked_at": "2026-11-22T21:21:29.161677+00:00",
+        "verified_claim": "Eine Untersuchung englischer Liedtexte aus fünf Genres fand über fünf Jahrzehnte unter anderem mehr Wiederholungen und eine geringere sprachliche Vielfalt. Die Melodie wurde dafür nicht benötigt.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-untertitel-blickwechsel",
+    "fact_key": "forschung.untertitel_blickwechsel",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Beim Film ohne Ton lasen Versuchspersonen insgesamt mehr Untertitel. Jeder einzelne Leseabschnitt dauerte etwa gleich lang wie mit Ton. Wie schafften sie das?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie wechselten öfter vom Bild zur Schrift"
+      },
+      {
+        "id": "b",
+        "text": "Sie blieben jedes Mal doppelt so lange am Text"
+      },
+      {
+        "id": "c",
+        "text": "Sie lasen ausschließlich den Vorspann"
+      },
+      {
+        "id": "d",
+        "text": "Sie schauten während der Dialoge gar nicht aufs Bild"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Blickmessung zeigte häufigere Wechsel zwischen Bild und Untertiteln, sobald der Ton ausfiel. Die zusätzliche Lesezeit verteilte sich auf mehr Blicke.",
+    "tags": [
+      "thema_filmwahrnehmung",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "research": {
+      "published_on": "2026-06-26",
+      "publisher": "Journal of Vision",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Gaze behavior during closed-captioned movie viewing adapts to absent audio through more frequent switching between text and scene.",
+        "url": "https://doi.org/10.1167/jov.26.6.12",
+        "checked_at": "2026-11-22T21:21:29.176275+00:00",
+        "verified_claim": "Die Blickmessung zeigte häufigere Wechsel zwischen Bild und Untertiteln, sobald der Ton ausfiel. Die zusätzliche Lesezeit verteilte sich auf mehr Blicke.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-kana-lautgleichheit",
+    "fact_key": "forschung.kana_lautgleichheit",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Ein Kunstwort klingt in Hiragana und Katakana gleich, doch die Schriftzeichen sind verschieden eckig. Was lässt sich testen, wenn man es einer spitzen Figur zuordnet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ob die Schriftform das Urteil mitprägt"
+      },
+      {
+        "id": "b",
+        "text": "Welche Schreibweise die höhere Tonlage hat"
+      },
+      {
+        "id": "c",
+        "text": "Ob das Wort in beiden Varianten länger klingt"
+      },
+      {
+        "id": "d",
+        "text": "Welche Silbe beim Vorlesen am lautesten ist"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Japanische Versuchspersonen verbanden eckige Katakana eher mit spitzen Figuren. Weil die Aussprache gleich blieb, ließ sich ein Einfluss der sichtbaren Form untersuchen.",
+    "tags": [
+      "thema_schriftsysteme",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "research": {
+      "published_on": "2026-08-10",
+      "publisher": "Psychonomic Bulletin & Review",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Spiky figures correspond to Japanese names written in square characters.",
+        "url": "https://doi.org/10.3758/s13423-026-02969-6",
+        "checked_at": "2026-11-22T21:21:34.848909+00:00",
+        "verified_claim": "Japanische Versuchspersonen verbanden eckige Katakana eher mit spitzen Figuren. Weil die Aussprache gleich blieb, ließ sich ein Einfluss der sichtbaren Form untersuchen.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-buchstaben-selbst-formen",
+    "fact_key": "forschung.buchstaben_selbst_formen",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Vorschulkinder lernen neue Buchstaben. Welche beiden Übungen haben gemeinsam, dass die Hand dabei die Gestalt des Buchstabens nachzeichnet?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Abschreiben und Nachspuren"
+      },
+      {
+        "id": "b",
+        "text": "Tippen und eine Taste gedrückt halten"
+      },
+      {
+        "id": "c",
+        "text": "Vorlesen und Tippen"
+      },
+      {
+        "id": "d",
+        "text": "Zuhören und die passende Taste wählen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "50 Kinder lernten neuartige Buchstaben und Wörter. Die beiden Handschriftgruppen schnitten bei den anschließenden Aufgaben besser ab als die beiden Tastaturgruppen.",
+    "tags": [
+      "thema_lesen_lernen",
+      "form_vergleichen"
+    ],
+    "research": {
+      "published_on": "2025-02-04",
+      "publisher": "Journal of Experimental Child Psychology",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "The impact of handwriting and typing practice in children's letter and word learning: Implications for literacy development.",
+        "url": "https://doi.org/10.1016/j.jecp.2025.106195",
+        "checked_at": "2026-11-22T21:21:35.257891+00:00",
+        "verified_claim": "50 Kinder lernten neuartige Buchstaben und Wörter. Die beiden Handschriftgruppen schnitten bei den anschließenden Aufgaben besser ab als die beiden Tastaturgruppen.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-gesten-sprecherwechsel",
+    "fact_key": "forschung.gesten_sprecherwechsel",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wie ließe sich das Tempo eines menschlichen Gesprächs mit einem gestischen Austausch zweier Schimpansen vergleichen, obwohl die Tiere keine Wörter benutzen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Zeit vom Ende eines Signals bis zur Antwort messen"
+      },
+      {
+        "id": "b",
+        "text": "Die Buchstaben pro Äußerung zählen"
+      },
+      {
+        "id": "c",
+        "text": "Bei beiden die Länge gereimter Verse messen"
+      },
+      {
+        "id": "d",
+        "text": "Nur die lauteste Stelle jeder Äußerung vergleichen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Forscher untersuchten den Wechsel zwischen Gesten wild lebender Schimpansen. Die mittlere Pause vor der Antwort lag in einer ähnlichen Größenordnung wie bei menschlichen Gesprächswechseln.",
+    "tags": [
+      "thema_kommunikation",
+      "form_anwenden"
+    ],
+    "research": {
+      "published_on": "2024-07-22",
+      "publisher": "Current Biology",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Chimpanzee gestural exchanges share temporal structure with human language.",
+        "url": "https://doi.org/10.1016/j.cub.2024.06.009",
+        "checked_at": "2026-11-22T21:21:34.958233+00:00",
+        "verified_claim": "Forscher untersuchten den Wechsel zwischen Gesten wild lebender Schimpansen. Die mittlere Pause vor der Antwort lag in einer ähnlichen Größenordnung wie bei menschlichen Gesprächswechseln.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-vokale-pfeifsprache",
+    "fact_key": "forschung.vokale_pfeifsprache",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "In gepfiffenen Wörtern kann die Tonhöhe einen Vokal tragen. Was spräche beim Anhören eher für einen Konsonanten als für einen weiteren gleichmäßigen Vokal?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein kurzer Sprung oder eine Lücke zwischen gehaltenen Tönen"
+      },
+      {
+        "id": "b",
+        "text": "Eine unverändert gehaltene hohe Tonlage"
+      },
+      {
+        "id": "c",
+        "text": "Die Grundlautstärke des gesamten Wortes"
+      },
+      {
+        "id": "d",
+        "text": "Der leichte Nachhall des Raumes nach dem Wort"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die untersuchte Pfeifsprache überträgt Vokale auf relativ stabile Tonhöhen. Konsonanten können als Übergänge oder Unterbrechungen hörbar werden. Musikalische Erfahrung half beim Zuordnen.",
+    "tags": [
+      "thema_pfeifsprache",
+      "form_vergleichen"
+    ],
+    "research": {
+      "published_on": "2024-12-19",
+      "publisher": "Cognitive Science",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Musical Experience and Speech Processing: The Case of Whistled Words.",
+        "url": "https://doi.org/10.1111/cogs.70032",
+        "checked_at": "2026-11-22T21:21:29.967549+00:00",
+        "verified_claim": "Die untersuchte Pfeifsprache überträgt Vokale auf relativ stabile Tonhöhen. Konsonanten können als Übergänge oder Unterbrechungen hörbar werden. Musikalische Erfahrung half beim Zuordnen.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-vermeer-blickschleife",
+    "fact_key": "forschung.vermeer_blickschleife",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Beim „Mädchen mit dem Perlenohrring“ wandert der Blick von Augen und Mund zur Perle und zurück. Welche Messung kann diese kleine Reise sichtbar machen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine zeitliche Spur der Augenbewegungen"
+      },
+      {
+        "id": "b",
+        "text": "Die Besucherzahl am Museumseingang"
+      },
+      {
+        "id": "c",
+        "text": "Die Farbwerte aller Pixel des Bildes"
+      },
+      {
+        "id": "d",
+        "text": "Die Gesamtzeit zwischen Eintritt und Ausgang"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Mauritshuis ließ die Blicke vor dem Gemälde aufzeichnen. Dabei fiel der wiederholte Wechsel zwischen Gesicht und Perle auf. Die bloße Verweildauer verrät diesen Weg noch nicht.",
+    "tags": [
+      "thema_bildbetrachtung",
+      "form_anwenden"
+    ],
+    "research": {
+      "published_on": "2024-10-02",
+      "publisher": "Mauritshuis",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Girl with a Pearl Earring visually captivates the viewer | Mauritshuis",
+        "url": "https://www.mauritshuis.nl/en/press-releases/girl-with-a-pearl-earring-visually-captivates-the-viewer",
+        "checked_at": "2026-11-22T21:20:30Z",
+        "verified_claim": "Das Mauritshuis ließ die Blicke vor dem Gemälde aufzeichnen. Dabei fiel der wiederholte Wechsel zwischen Gesicht und Perle auf. Die bloße Verweildauer verrät diesen Weg noch nicht.",
+        "locator": "Bericht der beteiligten Institution"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-babylon-abschriften",
+    "fact_key": "forschung.babylon_abschriften",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Von einer Hymne an Babylon gibt es beschädigte Abschriften. Auf jeder fehlen andere Zeilen. Warum kann ausgerechnet eine weitere zerbrochene Tafel den Text vervollständigen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ihre erhaltenen Zeilen können Lücken anderer Abschriften füllen"
+      },
+      {
+        "id": "b",
+        "text": "Ihr Gewicht verrät die fehlenden Wörter"
+      },
+      {
+        "id": "c",
+        "text": "Der Bruchrand bestimmt den Reim jeder Zeile"
+      },
+      {
+        "id": "d",
+        "text": "Alle Schreiber ließen stets dieselben Stellen aus"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Vergleich von Keilschriftfragmenten erkannten Forschende mehrere Abschriften derselben Hymne. Überlappende Passagen halfen, den lange unbekannten Text zusammenzusetzen.",
+    "tags": [
+      "thema_keilschrift",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "research": {
+      "published_on": "2025-07-01",
+      "publisher": "LMU München und Universität Bagdad",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Hymn to Babylon discovered - LMU Munich",
+        "url": "https://www.lmu.de/en/about-lmu/structure/central-university-administration/media-relations-and-communications/press-room/press-release/hymn-to-babylon-discovered-df846555.html",
+        "checked_at": "2026-11-22T21:20:30Z",
+        "verified_claim": "Beim Vergleich von Keilschriftfragmenten erkannten Forschende mehrere Abschriften derselben Hymne. Überlappende Passagen halfen, den lange unbekannten Text zusammenzusetzen.",
+        "locator": "Bericht der beteiligten Institution"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-veronika-buerstenende",
+    "fact_key": "forschung.veronika_buerstenende",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Kuh Veronika kratzt sich mit einem Schrubber. Welcher Befund zeugt am ehesten davon, dass sie die beiden Enden gezielt nutzt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie wechselt das Ende passend zur Körperstelle"
+      },
+      {
+        "id": "b",
+        "text": "Sie greift stets nach dem näheren Ende"
+      },
+      {
+        "id": "c",
+        "text": "Sie benutzt stets nur die Borsten"
+      },
+      {
+        "id": "d",
+        "text": "Sie wechselt nach jedem Griff ohne erkennbares Muster"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In den Versuchen nahm Veronika häufig die Borsten. Für weichere Stellen am Unterkörper wechselte sie zum Stiel. Die Studie beschreibt das Verhalten dieser einzelnen Kuh.",
+    "tags": [
+      "thema_tierverhalten",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "research": {
+      "published_on": "2026-01-19",
+      "publisher": "Current Biology",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Flexible use of a multi-purpose tool by a cow.",
+        "url": "https://doi.org/10.1016/j.cub.2025.11.059",
+        "checked_at": "2026-11-22T21:21:30.171747+00:00",
+        "verified_claim": "In den Versuchen nahm Veronika häufig die Borsten. Für weichere Stellen am Unterkörper wechselte sie zum Stiel. Die Studie beschreibt das Verhalten dieser einzelnen Kuh.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-schildkroete-magnetkarte",
+    "fact_key": "forschung.schildkroete_magnetkarte",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Junge Meeresschildkröten bekommen im Becken Futter bei einem bestimmten Magnetfeld. Wie prüft man, ob sie dieses „magnetische Reiseziel“ gelernt haben?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Verschiedene Felder ohne Futter anbieten und das Verhalten vergleichen"
+      },
+      {
+        "id": "b",
+        "text": "Bei allen Feldern sofort Futter ins Wasser geben"
+      },
+      {
+        "id": "c",
+        "text": "Das Becken jedes Mal an eine andere Küste bringen"
+      },
+      {
+        "id": "d",
+        "text": "Vor jeder Messung das Futter im Becken verteilen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Im Labor lernten Unechte Karettschildkröten, das Magnetfeld eines Futterortes von anderen Feldern zu unterscheiden. Die Magnetfelder ahmten verschiedene Orte im Meer nach.",
+    "tags": [
+      "thema_tierwanderungen",
+      "form_anwenden"
+    ],
+    "research": {
+      "published_on": "2025-02-12",
+      "publisher": "Nature",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Learned magnetic map cues and two mechanisms of magnetoreception in turtles.",
+        "url": "https://doi.org/10.1038/s41586-024-08554-y",
+        "checked_at": "2026-11-22T21:21:30.466527+00:00",
+        "verified_claim": "Im Labor lernten Unechte Karettschildkröten, das Magnetfeld eines Futterortes von anderen Feldern zu unterscheiden. Die Magnetfelder ahmten verschiedene Orte im Meer nach.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-hai-klicklaut",
+    "fact_key": "forschung.hai_klicklaut",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Ein Hai klickt hörbar, als er unter Wasser gehalten wird. Seine flachen Zähne könnten die Geräusche erzeugen. Was ist durch die Tonaufnahme allein belegt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Tier klickte in dieser Situation"
+      },
+      {
+        "id": "b",
+        "text": "Der Hai warnte damit gezielt seine Artgenossen"
+      },
+      {
+        "id": "c",
+        "text": "Die Zähne sind sicher die Schallquelle"
+      },
+      {
+        "id": "d",
+        "text": "Haie klicken bei jeder Begegnung mit Beute"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Team zeichnete die Klicklaute neuseeländischer Glatthaie beim Anfassen auf. Ob die Zähne die Laute erzeugen und welche Funktion sie sonst haben, sind weiter offene Fragen.",
+    "tags": [
+      "thema_meerestiere",
+      "form_vergleichen"
+    ],
+    "research": {
+      "published_on": "2025-03-26",
+      "publisher": "Royal Society Open Science",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Evidence of active sound production by a shark.",
+        "url": "https://doi.org/10.1098/rsos.242212",
+        "checked_at": "2026-11-22T21:21:30.677689+00:00",
+        "verified_claim": "Das Team zeichnete die Klicklaute neuseeländischer Glatthaie beim Anfassen auf. Ob die Zähne die Laute erzeugen und welche Funktion sie sonst haben, sind weiter offene Fragen.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-loewenzahn-aufwind",
+    "fact_key": "forschung.loewenzahn_aufwind",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Ein Löwenzahnsamen löst sich leichter, wenn er aufwärts gedrückt wird. Welchen Vorsprung bekommt sein kleiner Schirm dadurch beim Start?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er startet eher in Luft, die ihn nach oben trägt"
+      },
+      {
+        "id": "b",
+        "text": "Er wird bevorzugt gleich zu Boden gedrückt"
+      },
+      {
+        "id": "c",
+        "text": "Er startet bevorzugt bei völlig ruhiger Luft"
+      },
+      {
+        "id": "d",
+        "text": "Er kann nur mit der Spitze nach unten fliegen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Verbindung am Samenstand löste sich im Versuch je nach Richtung unterschiedlich leicht. Abwärts war fast fünfmal so viel Kraft nötig wie aufwärts.",
+    "tags": [
+      "thema_pflanzen_im_wind",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "research": {
+      "published_on": "2025-09-10",
+      "publisher": "Cornell University",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Up, up and away: Dandelions use upward winds to spread seeds | Cornell Chronicle",
+        "url": "https://news.cornell.edu/stories/2025/09/and-away-dandelions-use-upward-winds-spread-seeds",
+        "checked_at": "2026-11-22T21:26:34Z",
+        "verified_claim": "Die Verbindung am Samenstand löste sich im Versuch je nach Richtung unterschiedlich leicht. Abwärts war fast fünfmal so viel Kraft nötig wie aufwärts.",
+        "locator": "Bericht der beteiligten Institution"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-elefant-ansprache",
+    "fact_key": "forschung.elefant_ansprache",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Ein Elefant hört zwei Rufe desselben Artgenossen. Einer war ursprünglich an ihn gerichtet, der andere an einen Nachbarn. Warum ist gerade dieser Vergleich aufschlussreich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Man kann Anrede und Vertrautheit mit der Stimme trennen"
+      },
+      {
+        "id": "b",
+        "text": "Man vergleicht den Dialekt zweier fremder Herden"
+      },
+      {
+        "id": "c",
+        "text": "Man vergleicht die Stimmen zweier verschieden alter Rufer"
+      },
+      {
+        "id": "d",
+        "text": "Man prüft, ob der Elefant seine eigene Stimme wiedererkennt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bei Abspielversuchen reagierten Afrikanische Elefanten unterschiedlich auf solche Rufe. Das stützt die Deutung, dass bestimmte Laute einen einzelnen Artgenossen ansprechen.",
+    "tags": [
+      "thema_tierstimmen",
+      "form_vergleichen"
+    ],
+    "research": {
+      "published_on": "2024-06-10",
+      "publisher": "Nature Ecology & Evolution",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "African elephants address one another with individually specific name-like calls.",
+        "url": "https://doi.org/10.1038/s41559-024-02420-w",
+        "checked_at": "2026-11-22T21:21:30.871641+00:00",
+        "verified_claim": "Bei Abspielversuchen reagierten Afrikanische Elefanten unterschiedlich auf solche Rufe. Das stützt die Deutung, dass bestimmte Laute einen einzelnen Artgenossen ansprechen.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-hummel-ueberflutung",
+    "fact_key": "forschung.hummel_ueberflutung",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Überwinternde Hummelköniginnen überstanden im Versuch mehrere Tage unter Wasser. Welcher Messwert spricht für die Aufnahme von Sauerstoff direkt aus dem Wasser?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der gelöste Sauerstoff nahm bei den Tieren ab"
+      },
+      {
+        "id": "b",
+        "text": "Der Wasserstand stieg beim Einsetzen der Tiere"
+      },
+      {
+        "id": "c",
+        "text": "Das Wasser wurde bei Beleuchtung wärmer"
+      },
+      {
+        "id": "d",
+        "text": "Das Gewicht des Gefäßes blieb unverändert"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bei der untersuchten Hummelart sank der Stoffwechsel stark. Die Messungen sprachen sowohl für eine geringe Sauerstoffaufnahme unter Wasser als auch für Energiegewinnung ohne Sauerstoff.",
+    "tags": [
+      "thema_ueberwinterung",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "research": {
+      "published_on": "2026-03-11",
+      "publisher": "Proceedings of the Royal Society B",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Diapausing bumble bee queens avoid drowning by using underwater respiration, anaerobic metabolism and profound metabolic depression.",
+        "url": "https://doi.org/10.1098/rspb.2025.3141",
+        "checked_at": "2026-11-22T21:21:35.773285+00:00",
+        "verified_claim": "Bei der untersuchten Hummelart sank der Stoffwechsel stark. Die Messungen sprachen sowohl für eine geringe Sauerstoffaufnahme unter Wasser als auch für Energiegewinnung ohne Sauerstoff.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-gletscher-massenverlust",
+    "fact_key": "forschung.gletscher_massenverlust",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Von 2000 bis 2023 verloren die Gletscher weltweit im Mittel jedes Jahr Eis. Welche Größenordnung ergab der Vergleich vieler Messreihen, ohne die beiden großen Eisschilde?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Rund 270 Milliarden Tonnen pro Jahr"
+      },
+      {
+        "id": "b",
+        "text": "Rund 27 Millionen Tonnen pro Jahr"
+      },
+      {
+        "id": "c",
+        "text": "Rund 270 Millionen Tonnen pro Jahr"
+      },
+      {
+        "id": "d",
+        "text": "Rund 2,7 Billionen Tonnen pro Jahr"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Gemeinschaftsprojekt GlaMBIE kam auf 273 ± 16 Milliarden Tonnen pro Jahr. Der Wert mittelt über 24 Jahre und bezieht sich auf Gletscher außerhalb der beiden großen Eisschilde.",
+    "tags": [
+      "thema_gletscher",
+      "form_schaetzen"
+    ],
+    "research": {
+      "published_on": "2025-02-19",
+      "publisher": "Nature",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Community estimate of global glacier mass changes from 2000 to 2023.",
+        "url": "https://doi.org/10.1038/s41586-024-08545-z",
+        "checked_at": "2026-11-22T21:21:35.154074+00:00",
+        "verified_claim": "Das Gemeinschaftsprojekt GlaMBIE kam auf 273 ± 16 Milliarden Tonnen pro Jahr. Der Wert mittelt über 24 Jahre und bezieht sich auf Gletscher außerhalb der beiden großen Eisschilde.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-fels-unter-eis",
+    "fact_key": "forschung.fels_unter_eis",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Auf einer Karte der Antarktis liegt die Eisoberfläche an einem Punkt 1.000 Meter über dem Meer. Das Eis über dem Fels ist dort 1.600 Meter dick. Wo liegt der Fels?",
+    "options": [
+      {
+        "id": "a",
+        "text": "600 Meter unter dem Meeresspiegel"
+      },
+      {
+        "id": "b",
+        "text": "600 Meter über dem Meeresspiegel"
+      },
+      {
+        "id": "c",
+        "text": "1.000 Meter unter dem Meeresspiegel"
+      },
+      {
+        "id": "d",
+        "text": "2.600 Meter über dem Meeresspiegel"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Zieht man die Eisdicke von der Oberflächenhöhe ab, bleiben hier −600 Meter. Die Karten von Bedmap3 verbinden Messungen, um das Relief unter dem antarktischen Eis sichtbar zu machen.",
+    "tags": [
+      "thema_antarktis",
+      "form_anwenden"
+    ],
+    "research": {
+      "published_on": "2025-03-10",
+      "publisher": "Scientific Data",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Bedmap3 updated ice bed, surface and thickness gridded datasets for Antarctica.",
+        "url": "https://doi.org/10.1038/s41597-025-04672-y",
+        "checked_at": "2026-11-22T21:21:35.383118+00:00",
+        "verified_claim": "Zieht man die Eisdicke von der Oberflächenhöhe ab, bleiben hier −600 Meter. Die Karten von Bedmap3 verbinden Messungen, um das Relief unter dem antarktischen Eis sichtbar zu machen.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-fjord-stehende-welle",
+    "fact_key": "forschung.fjord_stehende_welle",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Nach einem Bergsturz schwappte ein grönländischer Fjord tagelang hin und her, ähnlich wie Wasser in einer Badewanne. Was passt zu diesem Ablauf auf einem Erdbebenmesser?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein regelmäßig wiederkehrendes, langsam abklingendes Signal"
+      },
+      {
+        "id": "b",
+        "text": "Genau ein kurzer Ausschlag im Moment des Sturzes"
+      },
+      {
+        "id": "c",
+        "text": "Ein mit jeder Stunde schneller werdender Dauerpuls"
+      },
+      {
+        "id": "d",
+        "text": "Ein täglicher Ausschlag genau bei Sonnenaufgang"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Im Dickson-Fjord löste ein Bergsturz 2023 einen Tsunami aus. Eine verbleibende Schwingung quer zum Fjord erzeugte ein neun Tage lang messbares seismisches Signal.",
+    "tags": [
+      "thema_fjorde",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "research": {
+      "published_on": "2024-09-12",
+      "publisher": "Science",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "A rockslide-generated tsunami in a Greenland fjord rang Earth for 9 days.",
+        "url": "https://doi.org/10.1126/science.adm9247",
+        "checked_at": "2026-11-22T21:21:35.604141+00:00",
+        "verified_claim": "Im Dickson-Fjord löste ein Bergsturz 2023 einen Tsunami aus. Eine verbleibende Schwingung quer zum Fjord erzeugte ein neun Tage lang messbares seismisches Signal.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-seeberg-schwerkraft",
+    "fact_key": "forschung.seeberg_schwerkraft",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Ein Satellit misst die Meeresoberfläche. Tief darunter zieht die zusätzliche Masse eines Seebergs das Wasser etwas stärker an. Welches Signal kann den Berg verraten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine kleine beständige Wölbung der Meeresoberfläche"
+      },
+      {
+        "id": "b",
+        "text": "Ein Schattenriss des Gipfels auf jeder Wolke"
+      },
+      {
+        "id": "c",
+        "text": "Das Verschwinden aller Wellen über dem Berg"
+      },
+      {
+        "id": "d",
+        "text": "Ein täglich wechselnder Fleck aus Süßwasser"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Radar von SWOT erfasst feine Höhenunterschiede an der Meeresoberfläche. Aus ihrem Zusammenhang mit der Schwerkraft lassen sich Strukturen des Meeresbodens erschließen.",
+    "tags": [
+      "thema_meeresboden",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "research": {
+      "published_on": "2024-12-12",
+      "publisher": "Science",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Abyssal marine tectonics from the SWOT mission.",
+        "url": "https://doi.org/10.1126/science.ads4472",
+        "checked_at": "2026-11-22T21:21:40.215757+00:00",
+        "verified_claim": "Das Radar von SWOT erfasst feine Höhenunterschiede an der Meeresoberfläche. Aus ihrem Zusammenhang mit der Schwerkraft lassen sich Strukturen des Meeresbodens erschließen.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-groenland-wasser-unter-eis",
+    "fact_key": "forschung.groenland_wasser_unter_eis",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Im Sommer hebt sich in Grönland eine Eisfläche. Im Herbst sinkt sie wieder, und ein See talabwärts bekommt mehr Wasser. Was erklärt diese zeitliche Abfolge?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein See unter dem Eis speichert Schmelzwasser und gibt es verzögert ab."
+      },
+      {
+        "id": "b",
+        "text": "Das Schmelzwasser fließt jeweils sofort von der Eisfläche in den unteren See."
+      },
+      {
+        "id": "c",
+        "text": "Die Eisfläche steigt erst durch herbstlichen Neuschnee und sinkt im Sommer."
+      },
+      {
+        "id": "d",
+        "text": "Ein Rückstau aus dem unteren See hebt die Eisfläche im Herbst an."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Satellitendaten zeigten einen See unter der Eiskappe Flade Isblink. In den meisten untersuchten Jahren erreichte viel Wasser den tiefer gelegenen See erst zwei bis drei Monate nach der stärksten Schmelze.",
+    "tags": [
+      "thema_polargebiete",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "research": {
+      "published_on": "2026-07-03",
+      "publisher": "Scientific Reports",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Previously undocumented subglacial lake beneath Flade Isblink stores most of catchment runoff and delays its release",
+        "url": "https://doi.org/10.1038/s41598-026-60541-7",
+        "checked_at": "2026-11-22T22:15:08.022529+00:00",
+        "verified_claim": "Satellitendaten zeigten einen See unter der Eiskappe Flade Isblink. In den meisten untersuchten Jahren erreichte viel Wasser den tiefer gelegenen See erst zwei bis drei Monate nach der stärksten Schmelze.",
+        "locator": "Originalarbeit, Abstract und Methodendarstellung"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "actor_type": "agent",
+        "at": "2026-11-22T22:15:08.022529+00:00",
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "source_ids": [
+          "original"
+        ],
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "actor_type": "agent",
+        "at": "2026-11-22T22:15:56.695862+00:00",
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "source_ids": [
+          "original"
+        ],
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T22:15:56.695862+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-fluss-speicherstand",
+    "fact_key": "forschung.fluss_speicherstand",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Ein breiter Fluss führt im Herbst weniger Wasser. Welche Beobachtung aus dem All hilft zu schätzen, wie stark sich das gespeicherte Wasservolumen verändert hat?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wie sich Wasserstand und benetzte Breite gemeinsam ändern"
+      },
+      {
+        "id": "b",
+        "text": "Wie sich die Wolkenbedeckung weit oberhalb des Flusses ändert"
+      },
+      {
+        "id": "c",
+        "text": "Wie stark sich nur die Wasserfarbe in Ufernähe verändert"
+      },
+      {
+        "id": "d",
+        "text": "Wie viele Schiffe den Abschnitt in jedem Monat durchfahren"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Für mehr als 126.000 Flussabschnitte nutzte ein Team Höhen- und Flächendaten der SWOT-Mission. So ließ sich verfolgen, wie sich das in den Flussbetten gespeicherte Wasser von Monat zu Monat änderte.",
+    "tags": [
+      "thema_fluesse",
+      "form_anwenden"
+    ],
+    "research": {
+      "published_on": "2026-03-04",
+      "publisher": "Nature",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Wide-swath altimetry maps bank shapes and storage changes in global rivers.",
+        "url": "https://doi.org/10.1038/s41586-026-10218-y",
+        "checked_at": "2026-11-22T21:21:36.007056+00:00",
+        "verified_claim": "Für mehr als 126.000 Flussabschnitte nutzte ein Team Höhen- und Flächendaten der SWOT-Mission. So ließ sich verfolgen, wie sich das in den Flussbetten gespeicherte Wasser von Monat zu Monat änderte.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-waldradar-holz",
+    "fact_key": "forschung.waldradar_holz",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Ein Satellit soll die Holzmasse im Regenwald abschätzen. Warum setzt die ESA dafür Radarwellen ein, die durch das Blätterdach dringen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie erreichen auch Äste und Stämme"
+      },
+      {
+        "id": "b",
+        "text": "Sie messen unmittelbar das Alter jedes Blattes"
+      },
+      {
+        "id": "c",
+        "text": "Sie zählen die Jahresringe jedes Baumes"
+      },
+      {
+        "id": "d",
+        "text": "Sie machen nur die obersten grünen Blätter sichtbar"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der ESA-Satellit Biomass trägt ein langwelliges Radar. Sein Signal erfasst auch holzige Teile unter den Kronen, in denen ein großer Teil des Waldkohlenstoffs steckt.",
+    "tags": [
+      "thema_erdbeobachtung",
+      "form_anwenden"
+    ],
+    "research": {
+      "published_on": "2026-04-29",
+      "publisher": "Europäische Weltraumorganisation ESA",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Stunning images from Biomass mark its one year in orbit",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass/Stunning_images_from_Biomass_mark_its_one_year_in_orbit",
+        "checked_at": "2026-11-22T21:20:44Z",
+        "verified_claim": "Der ESA-Satellit Biomass trägt ein langwelliges Radar. Sein Signal erfasst auch holzige Teile unter den Kronen, in denen ein großer Teil des Waldkohlenstoffs steckt.",
+        "locator": "Bericht der beteiligten Institution"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-ionenuhr-arbeitsteilung",
+    "fact_key": "forschung.ionenuhr_arbeitsteilung",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "In einer Atomuhr liefert ein Aluminium-Ion einen feinen Takt, lässt sich aber schwer kühlen und auslesen. Wozu setzt das Team ein zweites, leichter zugängliches Ion daneben?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es hilft beim Kühlen und vermittelt beim Auslesen"
+      },
+      {
+        "id": "b",
+        "text": "Es ersetzt den Takt des ersten durch einen Mittelwert"
+      },
+      {
+        "id": "c",
+        "text": "Es zerlegt das Aluminium regelmäßig in zwei Atome"
+      },
+      {
+        "id": "d",
+        "text": "Es macht aus dem Takt der Uhr ein Funksignal für GPS"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das NIST koppelt ein Aluminium-Ion an ein Magnesium-Ion. Über den Partner lässt sich das Paar kühlen und der Zustand des Aluminium-Ions auslesen.",
+    "tags": [
+      "thema_zeitmessung",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "research": {
+      "published_on": "2025-07-14",
+      "publisher": "US-Metrologieinstitut NIST",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "NIST Ion Clock Sets New Record for Most Accurate Clock in the World | NIST",
+        "url": "https://www.nist.gov/news-events/news/2025/07/nist-ion-clock-sets-new-record-most-accurate-clock-world",
+        "checked_at": "2026-11-22T21:20:47Z",
+        "verified_claim": "Das NIST koppelt ein Aluminium-Ion an ein Magnesium-Ion. Über den Partner lässt sich das Paar kühlen und der Zustand des Aluminium-Ions auslesen.",
+        "locator": "Bericht der beteiligten Institution"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-tandem-lichtfarben",
+    "fact_key": "forschung.tandem_lichtfarben",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Eine Solarzellenschicht nutzt blaues Licht besonders gut und lässt röteres Licht passieren. Welche zweite Schicht ergänzt sie in einer Tandemzelle am besten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine untere Schicht, die das rötere Licht verwertet"
+      },
+      {
+        "id": "b",
+        "text": "Eine lichtundurchlässige Schicht direkt über ihr"
+      },
+      {
+        "id": "c",
+        "text": "Eine zweite Schicht, die nur das schon verbrauchte Blau nutzt"
+      },
+      {
+        "id": "d",
+        "text": "Eine untere Schicht, die alles durchlässt und nichts aufnimmt"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In der untersuchten Tandemzelle sitzt Perowskit über Silizium. Die Materialien nutzen verschiedene Anteile des Sonnenlichts besonders gut und ergänzen einander.",
+    "tags": [
+      "thema_solarenergie",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "research": {
+      "published_on": "2025-06-02",
+      "publisher": "Fraunhofer ISE",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Scalable Path to Produce Perovskite Silicon Tandem Solar Cells - Fraunhofer ISE",
+        "url": "https://www.ise.fraunhofer.de/en/press-media/news/2025/scalable-path-to-produce-perovskite-silicon-tandem-solar-cells.html",
+        "checked_at": "2026-11-22T21:20:45Z",
+        "verified_claim": "In der untersuchten Tandemzelle sitzt Perowskit über Silizium. Die Materialien nutzen verschiedene Anteile des Sonnenlichts besonders gut und ergänzen einander.",
+        "locator": "Bericht der beteiligten Institution"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-stimme-auswaehlen",
+    "fact_key": "forschung.stimme_auswaehlen",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Auf einer vollen Feier soll ein Kopfhörer später genau einer Stimme folgen. Welcher kurze Schritt gibt dem untersuchten Prototyp ein Beispiel für die gewünschte Stimme?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sich der sprechenden Person für einige Sekunden zuwenden"
+      },
+      {
+        "id": "b",
+        "text": "Vor Beginn der Feier das Raumgeräusch aufnehmen"
+      },
+      {
+        "id": "c",
+        "text": "Den mittleren Lärmpegel aller Gäste zusammen messen"
+      },
+      {
+        "id": "d",
+        "text": "Die Lautstärke an beiden Ohrmuscheln gleich einstellen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Team der University of Washington ließ den Kopfhörer eine kurze Hörprobe der Zielperson aufnehmen. Danach konnte der Prototyp ihre Stimme auch bei anderer Blickrichtung hervorheben.",
+    "tags": [
+      "thema_hoertechnik",
+      "form_anwenden"
+    ],
+    "research": {
+      "published_on": "2024-05-11",
+      "publisher": "University of Washington",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Target Speech Hearing",
+        "url": "https://tsh.cs.washington.edu/",
+        "checked_at": "2026-11-22T21:20:44Z",
+        "verified_claim": "Das Team der University of Washington ließ den Kopfhörer eine kurze Hörprobe der Zielperson aufnehmen. Danach konnte der Prototyp ihre Stimme auch bei anderer Blickrichtung hervorheben.",
+        "locator": "Bericht der beteiligten Institution"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-wasser-aus-wuestenluft",
+    "fact_key": "forschung.wasser_aus_wuestenluft",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Ein Versuchsgerät gewinnt Wasser aus Wüstenluft. Nachts bindet ein Gel Wasserdampf, tagsüber erwärmt die Sonne das Gel. Was passiert auf dem Weg ins Sammelgefäß?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das Wasser verdampft aus dem Gel und kondensiert am Glas"
+      },
+      {
+        "id": "b",
+        "text": "Erst gefriert das Wasser im warmen Gel, dann schmilzt es am Glas"
+      },
+      {
+        "id": "c",
+        "text": "Das Wasser bleibt als Dampf bis zum Ausgießen im offenen Gefäß"
+      },
+      {
+        "id": "d",
+        "text": "Der Dampf kondensiert nachts und verdampft im Sammelgefäß vollständig"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Im Prototyp des MIT nimmt das Gel nachts Feuchtigkeit auf. Sonnenwärme setzt das Wasser wieder als Dampf frei. Am Glas bilden sich Tropfen, die ins Gefäß laufen.",
+    "tags": [
+      "thema_wassergewinnung",
+      "form_zeitlich_einordnen"
+    ],
+    "research": {
+      "published_on": "2025-06-11",
+      "publisher": "Massachusetts Institute of Technology",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Window-sized device taps the air for safe drinking water | MIT News | Massachusetts Institute of Technology",
+        "url": "https://news.mit.edu/2025/window-sized-device-taps-air-safe-drinking-water-0611",
+        "checked_at": "2026-11-22T21:20:43Z",
+        "verified_claim": "Im Prototyp des MIT nimmt das Gel nachts Feuchtigkeit auf. Sonnenwärme setzt das Wasser wieder als Dampf frei. Am Glas bilden sich Tropfen, die ins Gefäß laufen.",
+        "locator": "Bericht der beteiligten Institution"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  },
+  {
+    "id": "qs-studie-fenster-infrarot",
+    "fact_key": "forschung.fenster_infrarot",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Ein Büro soll an einem sonnigen Tag Tageslicht behalten, aber weniger Sonnenwärme aufnehmen. Welchen Zustand eines schaltbaren Forschungsfensters würdest du wählen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sichtbares Licht durchlassen, nahes Infrarot stärker dämpfen"
+      },
+      {
+        "id": "b",
+        "text": "Sichtbares Licht sperren, nahes Infrarot ganz durchlassen"
+      },
+      {
+        "id": "c",
+        "text": "Sichtbares Licht und nahes Infrarot komplett durchlassen"
+      },
+      {
+        "id": "d",
+        "text": "Beide Bereiche während des ganzen Tages gleich stark sperren"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Prototyp kann sichtbares Licht und nahes Infrarot unterschiedlich stark dämpfen. So lässt sich ein Teil der eingestrahlten Wärme bremsen, während der Raum weiterhin Tageslicht bekommt.",
+    "tags": [
+      "thema_smarte_materialien",
+      "form_anwenden"
+    ],
+    "research": {
+      "published_on": "2025-10-30",
+      "publisher": "Nature Communications",
+      "source_id": "original"
+    },
+    "sources": [
+      {
+        "id": "original",
+        "title": "Fast-switching dual-cathode electrochromic smart windows for year-round building energy savings.",
+        "url": "https://doi.org/10.1038/s41467-025-64962-2",
+        "checked_at": "2026-11-22T21:21:40.560167+00:00",
+        "verified_claim": "Der Prototyp kann sichtbares Licht und nahes Infrarot unterschiedlich stark dämpfen. So lässt sich ein Teil der eingestrahlten Wärme bremsen, während der Raum weiterhin Tageslicht bekommt.",
+        "locator": "Originalarbeit, Abstract der Autoren"
+      }
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "human_test_observations": [],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Sachprüfung an Originalveröffentlichung",
+        "at": "2026-11-22T21:39:20.682181+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "issues": [],
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktionsprüfung der gespeicherten Karten",
+        "at": "2026-11-22T21:39:54.319119+00:00",
+        "source_ids": [
+          "original"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_by": "Codex · deutsche Quizsalon-Redaktion",
+      "approved_at": "2026-11-22T21:39:54.319119+00:00"
+    }
+  }
+]

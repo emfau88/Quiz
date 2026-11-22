@@ -1,0 +1,2337 @@
+[
+  {
+    "id": "q3-h-weimar-inkraft",
+    "fact_key": "q3.h.weimar.inkraft",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Ein Historiker sucht den Zeitpunkt, ab dem die Weimarer Verfassung galt. Neben Eberts Unterschrift findet er das Reichsgesetzblatt. Welches Ereignis entscheidet hier?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die amtliche Veröffentlichung im Reichsgesetzblatt"
+      },
+      {
+        "id": "b",
+        "text": "Der erste Zeitungsbericht über einen Entwurf"
+      },
+      {
+        "id": "c",
+        "text": "Das erste Gerücht über einen Abstimmungstermin"
+      },
+      {
+        "id": "d",
+        "text": "Das Datum der ersten gedruckten Schulausgabe"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ebert unterzeichnete die Verfassung im August 1919. Mit ihrer amtlichen Veröffentlichung trat sie in Kraft.",
+    "tags": [
+      "thema_demokratiegeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1919",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1919.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Ein Historiker sucht den Zeitpunkt, ab dem die Weimarer Verfassung galt. Neben Eberts Unterschrift findet er das Reichsgesetzblatt. Welches Ereignis entscheidet hier? Die amtliche Veröffentlichung im Reichsgesetzblatt. Ebert unterzeichnete die Verfassung im August 1919. Mit ihrer amtlichen Veröffentlichung trat sie in Kraft.",
+        "locator": "dh1919, Textstelle 247",
+        "source_sha256": "28c0d638685602aeaa8545f5c6012595fcd7477907f2e4a5222b5a1a8fa1b66b"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-versailles-spiegelsaal",
+    "fact_key": "q3.h.versailles.spiegelsaal",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Im selben Versailler Saal wurde 1871 der deutsche Kaiser ausgerufen und 1919 der Friedensvertrag unterzeichnet. Welcher Gegensatz fällt auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Beide Dokumente schufen dieselbe europäische Zollunion."
+      },
+      {
+        "id": "b",
+        "text": "Auf eine Siegesfeier folgte am selben Ort der Frieden nach einer Niederlage."
+      },
+      {
+        "id": "c",
+        "text": "Beide Male ging es um die Gründung desselben Staates."
+      },
+      {
+        "id": "d",
+        "text": "Beide Ereignisse waren Krönungen französischer Monarchen."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der symbolträchtige Ort verband zwei sehr unterschiedliche Momente deutsch-französischer Geschichte.",
+    "tags": [
+      "thema_demokratiegeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1919",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1919.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Im selben Versailler Saal wurde 1871 der deutsche Kaiser ausgerufen und 1919 der Friedensvertrag unterzeichnet. Welcher Gegensatz fällt auf? Auf eine Siegesfeier folgte am selben Ort der Frieden nach einer Niederlage. Der symbolträchtige Ort verband zwei sehr unterschiedliche Momente deutsch-französischer Geschichte.",
+        "locator": "dh1919, Textstelle 208",
+        "source_sha256": "28c0d638685602aeaa8545f5c6012595fcd7477907f2e4a5222b5a1a8fa1b66b"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-preussen-freistaat",
+    "fact_key": "q3.h.preussen.freistaat",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Preußen erhielt 1920 eine demokratisch-parlamentarische Verfassung. Wer stand im Gegensatz zur früheren Erbmonarchie nun an der Spitze der Landesregierung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein römischer Statthalter"
+      },
+      {
+        "id": "b",
+        "text": "Ein vom Papst eingesetzter Fürstbischof"
+      },
+      {
+        "id": "c",
+        "text": "Ein Ministerpräsident"
+      },
+      {
+        "id": "d",
+        "text": "Ein erblicher König"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Otto Braun wurde Ministerpräsident. Der Name Preußen bestand als Name eines Freistaats fort.",
+    "tags": [
+      "thema_demokratiegeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1920",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1920.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Preußen erhielt 1920 eine demokratisch-parlamentarische Verfassung. Wer stand im Gegensatz zur früheren Erbmonarchie nun an der Spitze der Landesregierung? Ein Ministerpräsident. Otto Braun wurde Ministerpräsident. Der Name Preußen bestand als Name eines Freistaats fort.",
+        "locator": "dh1920, Textstelle 302",
+        "source_sha256": "e8a1f15caf0dfa41cf87b7b04c3f6678c70058863f40fbf39fe19ded9d9334fe"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-tuerkei-republik",
+    "fact_key": "q3.h.tuerkei.republik",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die türkische Nationalversammlung hob 1922 die Monarchie auf. Welche Staatsform wurde im folgenden Jahr ausgerufen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Das erbliche Sultanat"
+      },
+      {
+        "id": "b",
+        "text": "Ein Doppelkaisertum"
+      },
+      {
+        "id": "c",
+        "text": "Ein britisches Dominion"
+      },
+      {
+        "id": "d",
+        "text": "Die Republik"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "1923 wurde die Türkei zur Republik erklärt. Mustafa Kemal Atatürk wurde ihr Staatspräsident.",
+    "tags": [
+      "thema_demokratiegeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1922",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1922.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Die türkische Nationalversammlung hob 1922 die Monarchie auf. Welche Staatsform wurde im folgenden Jahr ausgerufen? Die Republik. 1923 wurde die Türkei zur Republik erklärt. Mustafa Kemal Atatürk wurde ihr Staatspräsident.",
+        "locator": "dh1922, Textstelle 228",
+        "source_sha256": "82c4a721eab8cd7af5ac908f6657d9c12ea2cf4d4603006897664fb7d2ce3ac2"
+      },
+      {
+        "id": "s2",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1923",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1923.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Die türkische Nationalversammlung hob 1922 die Monarchie auf. Welche Staatsform wurde im folgenden Jahr ausgerufen? Die Republik. 1923 wurde die Türkei zur Republik erklärt. Mustafa Kemal Atatürk wurde ihr Staatspräsident.",
+        "locator": "dh1923, Textstelle 269",
+        "source_sha256": "46add25b1d60e584c08e902702c980c3c99e3228cbd74cbadd7a1ef3ea8bbbfd"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-spanien-laizismus",
+    "fact_key": "q3.h.spanien.laizismus",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In Spaniens republikanischer Verfassung von 1931 wurden Staat und Kirche getrennt. Welche Folgerung passt zu diesem Grundgedanken?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die staatliche Ordnung ist von kirchlicher Herrschaft getrennt."
+      },
+      {
+        "id": "b",
+        "text": "Der ranghöchste Geistliche übernimmt automatisch die Regierung."
+      },
+      {
+        "id": "c",
+        "text": "Nur Angehörige eines Ordens können wählen."
+      },
+      {
+        "id": "d",
+        "text": "Alle Bürgermeister werden ausnahmslos vom Papst ernannt."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Verfassung garantierte auch die Gleichberechtigung der Staatsbürger. Die Trennung von Staat und Kirche war Teil des republikanischen Umbaus.",
+    "tags": [
+      "thema_demokratiegeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1931",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1931.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "In Spaniens republikanischer Verfassung von 1931 wurden Staat und Kirche getrennt. Welche Folgerung passt zu diesem Grundgedanken? Die staatliche Ordnung ist von kirchlicher Herrschaft getrennt. Die Verfassung garantierte auch die Gleichberechtigung der Staatsbürger. Die Trennung von Staat und Kirche war Teil des republikanischen Umbaus.",
+        "locator": "dh1931, Textstelle 287",
+        "source_sha256": "0122f65216e72687d571939d3df935e9065d6dd8e22487747a7d59b07297391e"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-locarno-grenze",
+    "fact_key": "q3.h.locarno.grenze",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Deutschland, Frankreich und Belgien verzichteten 1925 in Locarno auf eine gewaltsame Veränderung ihrer gemeinsamen Grenzen. Welche Entwicklung sollte das erleichtern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Einführung derselben Amtssprache"
+      },
+      {
+        "id": "b",
+        "text": "Gegenseitige Sicherheit an den Westgrenzen"
+      },
+      {
+        "id": "c",
+        "text": "Die sofortige Auflösung aller drei Staaten"
+      },
+      {
+        "id": "d",
+        "text": "Eine neue gemeinsame Kolonialregierung"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Sicherheitsvereinbarungen sollten Grenzkonflikte im Westen Europas entschärfen. Die östlichen Grenzfragen waren dadurch nicht gleichartig geregelt.",
+    "tags": [
+      "thema_demokratiegeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1925",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1925.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Deutschland, Frankreich und Belgien verzichteten 1925 in Locarno auf eine gewaltsame Veränderung ihrer gemeinsamen Grenzen. Welche Entwicklung sollte das erleichtern? Gegenseitige Sicherheit an den Westgrenzen. Die Sicherheitsvereinbarungen sollten Grenzkonflikte im Westen Europas entschärfen. Die östlichen Grenzfragen waren dadurch nicht gleichartig geregelt.",
+        "locator": "dh1925, Textstelle 204",
+        "source_sha256": "9ee97a72d01176dd4b0174fd6b267a124ebd09fabb1bd80eb8e1d5f7f7c75b58"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-oslo-stadtname",
+    "fact_key": "q3.h.oslo.stadtname",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Eine norwegische Postkarte trägt 1924 den Stempel „Kristiania“. Welche Stadt sollte man auf einer Karte nach der Namensänderung 1925 dafür suchen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bergen"
+      },
+      {
+        "id": "b",
+        "text": "Helsinki"
+      },
+      {
+        "id": "c",
+        "text": "Oslo"
+      },
+      {
+        "id": "d",
+        "text": "Stockholm"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Norwegens Hauptstadt erhielt wieder den Namen Oslo. Die Namensänderung verlegte die Stadt nicht.",
+    "tags": [
+      "thema_demokratiegeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1925",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1925.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Eine norwegische Postkarte trägt 1924 den Stempel „Kristiania“. Welche Stadt sollte man auf einer Karte nach der Namensänderung 1925 dafür suchen? Oslo. Norwegens Hauptstadt erhielt wieder den Namen Oslo. Die Namensänderung verlegte die Stadt nicht.",
+        "locator": "dh1925, Textstelle 38",
+        "source_sha256": "9ee97a72d01176dd4b0174fd6b267a124ebd09fabb1bd80eb8e1d5f7f7c75b58"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-petrograd-lenin",
+    "fact_key": "q3.h.petrograd.lenin",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Petrograd erhielt 1924 wenige Tage nach dem Tod des sowjetischen Regierungschefs einen neuen Namen. Welche Benennung passte zum Anlass?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Stalingrad"
+      },
+      {
+        "id": "b",
+        "text": "Nowgorod"
+      },
+      {
+        "id": "c",
+        "text": "Wolgograd"
+      },
+      {
+        "id": "d",
+        "text": "Leningrad"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Umbenennung ehrte Lenin. Die Stadt heißt heute wieder St. Petersburg.",
+    "tags": [
+      "thema_demokratiegeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1924",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1924.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Petrograd erhielt 1924 wenige Tage nach dem Tod des sowjetischen Regierungschefs einen neuen Namen. Welche Benennung passte zum Anlass? Leningrad. Die Umbenennung ehrte Lenin. Die Stadt heißt heute wieder St. Petersburg.",
+        "locator": "dh1924, Textstelle 54",
+        "source_sha256": "8ff109a63440d99f2674bce801039c7d3de3c5c0267f637d5b2ae61fb3d005b8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-suedtirol-schule",
+    "fact_key": "q3.h.suedtirol.schule",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In Südtirol schrieb eine Verordnung 1927 italienischsprachigen Unterricht an den Volksschulen vor. Welche Erfahrung konnte ein deutschsprachiges Kind machen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Seine Unterrichtssprache wich von der Familiensprache ab."
+      },
+      {
+        "id": "b",
+        "text": "Die Schule durfte nur noch in den Ferien öffnen."
+      },
+      {
+        "id": "c",
+        "text": "Es konnte künftig zwischen sämtlichen Unterrichtssprachen frei wählen."
+      },
+      {
+        "id": "d",
+        "text": "Das Schulgebäude musste die Landesgrenze wechseln."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Sprachregelung erfasste auch offizielle Schriftstücke. Sie griff unmittelbar in Schule und öffentliche Verwaltung ein.",
+    "tags": [
+      "thema_demokratiegeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1927",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1927.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "In Südtirol schrieb eine Verordnung 1927 italienischsprachigen Unterricht an den Volksschulen vor. Welche Erfahrung konnte ein deutschsprachiges Kind machen? Seine Unterrichtssprache wich von der Familiensprache ab. Die Sprachregelung erfasste auch offizielle Schriftstücke. Sie griff unmittelbar in Schule und öffentliche Verwaltung ein.",
+        "locator": "dh1927, Textstelle 183",
+        "source_sha256": "4996ab972dabe75e1ef35310abbe05cdaf8908a532ca84a298771f5ad7b90930"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-prohibition-wirt",
+    "fact_key": "q3.h.prohibition.wirt",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Ein Wirt in den USA will nach Beginn der Prohibition 1920 weiterhin ein Getränk legal verkaufen. Welches Angebot gerät durch das Alkoholverbot unmittelbar in Konflikt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sodawasser abfüllen"
+      },
+      {
+        "id": "b",
+        "text": "Whiskey ausschenken"
+      },
+      {
+        "id": "c",
+        "text": "Kaffee servieren"
+      },
+      {
+        "id": "d",
+        "text": "Apfelsaft anbieten"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der 18. Verfassungszusatz und seine Umsetzung zielten unter anderem auf Herstellung, Transport und Verkauf alkoholischer Getränke.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1920",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1920.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Ein Wirt in den USA will nach Beginn der Prohibition 1920 weiterhin ein Getränk legal verkaufen. Welches Angebot gerät durch das Alkoholverbot unmittelbar in Konflikt? Whiskey ausschenken. Der 18. Verfassungszusatz und seine Umsetzung zielten unter anderem auf Herstellung, Transport und Verkauf alkoholischer Getränke.",
+        "locator": "dh1920, Textstelle 50",
+        "source_sha256": "e8a1f15caf0dfa41cf87b7b04c3f6678c70058863f40fbf39fe19ded9d9334fe"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-bahnstreik-umfang",
+    "fact_key": "q3.h.bahnstreik.umfang",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "1922 streikten bei der deutschen Reichsbahn etwa 700.000 Beschäftigte. Welcher Größenordnung entspricht das?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Knapp siebentausend"
+      },
+      {
+        "id": "b",
+        "text": "Mehr als sieben Millionen"
+      },
+      {
+        "id": "c",
+        "text": "Deutlich mehr als einer halben Million"
+      },
+      {
+        "id": "d",
+        "text": "Weniger als zehntausend"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die große Zahl machte den Ausstand zu einer reichsweiten Auseinandersetzung. Anlass war eine abgelehnte Teuerungszulage.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1922",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1922.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "1922 streikten bei der deutschen Reichsbahn etwa 700.000 Beschäftigte. Welcher Größenordnung entspricht das? Deutlich mehr als einer halben Million. Die große Zahl machte den Ausstand zu einer reichsweiten Auseinandersetzung. Anlass war eine abgelehnte Teuerungszulage.",
+        "locator": "dh1922, Textstelle 53",
+        "source_sha256": "82c4a721eab8cd7af5ac908f6657d9c12ea2cf4d4603006897664fb7d2ce3ac2"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-versorgungsstreik",
+    "fact_key": "q3.h.versorgungsstreik",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Eine Notverordnung nannte 1920 Gas-, Wasser- und Elektrizitätswerke „lebenswichtige Versorgungsbetriebe“. Was verband genau diese Betriebe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alle stellten dieselbe Ware auf Vorrat her."
+      },
+      {
+        "id": "b",
+        "text": "Sie waren nur während der Sommerferien geöffnet."
+      },
+      {
+        "id": "c",
+        "text": "Sie bedienten ausschließlich den Export außerhalb Europas."
+      },
+      {
+        "id": "d",
+        "text": "Viele Haushalte waren täglich auf ihre Netze angewiesen."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Streiks in solchen Betrieben konnten den Alltag ganzer Städte unmittelbar treffen. Darauf zielte die damalige Anordnung.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1920",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1920.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Eine Notverordnung nannte 1920 Gas-, Wasser- und Elektrizitätswerke „lebenswichtige Versorgungsbetriebe“. Was verband genau diese Betriebe? Viele Haushalte waren täglich auf ihre Netze angewiesen. Streiks in solchen Betrieben konnten den Alltag ganzer Städte unmittelbar treffen. Darauf zielte die damalige Anordnung.",
+        "locator": "dh1920, Textstelle 295",
+        "source_sha256": "e8a1f15caf0dfa41cf87b7b04c3f6678c70058863f40fbf39fe19ded9d9334fe"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-ruhr-reparation-kohle",
+    "fact_key": "q3.h.ruhr.reparation.kohle",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Französische und belgische Truppen besetzten 1923 das Ruhrgebiet mit seinen Zechen. Welche ausstehenden Leistungen wollten die Regierungen damit durchsetzen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reparationen unter anderem in Form von Kohlelieferungen"
+      },
+      {
+        "id": "b",
+        "text": "Lieferungen von Kaffee aus tropischem Anbau"
+      },
+      {
+        "id": "c",
+        "text": "Eine gemeinsame Rentenversicherung für Bergleute"
+      },
+      {
+        "id": "d",
+        "text": "Schulgelder für Studenten in Paris"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Reparationskommission hatte Rückstände bei Kohlelieferungen festgestellt. Die Besetzung intensivierte den Konflikt um die Nachkriegsleistungen.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1923",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1923.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Französische und belgische Truppen besetzten 1923 das Ruhrgebiet mit seinen Zechen. Welche ausstehenden Leistungen wollten die Regierungen damit durchsetzen? Reparationen unter anderem in Form von Kohlelieferungen. Die Reparationskommission hatte Rückstände bei Kohlelieferungen festgestellt. Die Besetzung intensivierte den Konflikt um die Nachkriegsleistungen.",
+        "locator": "dh1923, Textstelle 47",
+        "source_sha256": "46add25b1d60e584c08e902702c980c3c99e3228cbd74cbadd7a1ef3ea8bbbfd"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-rentenmark-umtausch",
+    "fact_key": "q3.h.rentenmark.umtausch",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Bei der Währungsreform von 1923 wurde eine Billion Papiermark zu einer Rentenmark. Was wurde bei diesem Kurs aus fünf Billionen Papiermark?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fünf Milliarden Rentenmark"
+      },
+      {
+        "id": "b",
+        "text": "Fünf Rentenmark"
+      },
+      {
+        "id": "c",
+        "text": "Fünfzig Rentenmark"
+      },
+      {
+        "id": "d",
+        "text": "Eine halbe Million Rentenmark"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Kürzung um zwölf Nullen macht die Größenordnung der Hyperinflation anschaulich.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1923",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1923.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Bei der Währungsreform von 1923 wurde eine Billion Papiermark zu einer Rentenmark. Was wurde bei diesem Kurs aus fünf Billionen Papiermark? Fünf Rentenmark. Die Kürzung um zwölf Nullen macht die Größenordnung der Hyperinflation anschaulich.",
+        "locator": "dh1923, Textstelle 293",
+        "source_sha256": "46add25b1d60e584c08e902702c980c3c99e3228cbd74cbadd7a1ef3ea8bbbfd"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-hanomag-kleinwagen",
+    "fact_key": "q3.h.hanomag.kleinwagen",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Das „Kommissbrot“ auf der Berliner Verkehrsausstellung 1924 hatte nur zehn PS und einen ungewöhnlich günstigen Preis. Welche Käuferschaft sollte so erreicht werden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur Mannschaften internationaler Motorradrennen"
+      },
+      {
+        "id": "b",
+        "text": "Reedereien für den transatlantischen Personenverkehr"
+      },
+      {
+        "id": "c",
+        "text": "Menschen, denen große Autos finanziell unerreichbar waren"
+      },
+      {
+        "id": "d",
+        "text": "Ausschließlich Betreiber schwerer Güterzüge"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Hanomag zeigte einen kleinen, preiswerten Wagen. Der Spitzname bezog sich auf das als „Kommissbrot“ bekannte Auto.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1924",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1924.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Das „Kommissbrot“ auf der Berliner Verkehrsausstellung 1924 hatte nur zehn PS und einen ungewöhnlich günstigen Preis. Welche Käuferschaft sollte so erreicht werden? Menschen, denen große Autos finanziell unerreichbar waren. Hanomag zeigte einen kleinen, preiswerten Wagen. Der Spitzname bezog sich auf das als „Kommissbrot“ bekannte Auto.",
+        "locator": "dh1924, Textstelle 262",
+        "source_sha256": "8ff109a63440d99f2674bce801039c7d3de3c5c0267f637d5b2ae61fb3d005b8"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-werftarbeiter-zeit",
+    "fact_key": "q3.h.werftarbeiter.zeit",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Werftarbeiter verlangten 1928 statt 52 Wochenstunden eine 48-Stunden-Woche. Wie viel freie Zeit hätte das über vier gleich lange Arbeitswochen zusätzlich ergeben?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Etwa vier Stunden"
+      },
+      {
+        "id": "b",
+        "text": "Etwa zwei Stunden"
+      },
+      {
+        "id": "c",
+        "text": "Etwa achtzig Stunden"
+      },
+      {
+        "id": "d",
+        "text": "Etwa sechzehn Stunden"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Vier Stunden Unterschied je Woche ergeben in vier Wochen sechzehn Stunden. Daneben forderten die Streikenden höhere Stundenlöhne.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1928",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1928.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Werftarbeiter verlangten 1928 statt 52 Wochenstunden eine 48-Stunden-Woche. Wie viel freie Zeit hätte das über vier gleich lange Arbeitswochen zusätzlich ergeben? Etwa sechzehn Stunden. Vier Stunden Unterschied je Woche ergeben in vier Wochen sechzehn Stunden. Daneben forderten die Streikenden höhere Stundenlöhne.",
+        "locator": "dh1928, Textstelle 211",
+        "source_sha256": "f22d86d5e85d6f527b7230d4d69869bc8dfa15337bde9118d1eae6e4ed207945"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-krise-kurs",
+    "fact_key": "q3.h.krise.kurs",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Eine deutsche Zeitung meldete 1929 dramatisch sinkende Aktienkurse in New York. Was bedeutete der Börsenkrach unmittelbar für Besitzer solcher Aktien?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Marktwert ihrer Anteile fiel."
+      },
+      {
+        "id": "b",
+        "text": "Ihre Aktien wurden automatisch zu garantierten Staatsanleihen."
+      },
+      {
+        "id": "c",
+        "text": "Jeder Anteil erhielt einen gesetzlich erhöhten Preis."
+      },
+      {
+        "id": "d",
+        "text": "Sie erhielten unabhängig vom Kurs den alten Kaufpreis zurück."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Kurssturz an der Wall Street wurde zum Symbol der beginnenden Weltwirtschaftskrise. Die Folgen reichten auch nach Deutschland.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1929",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1929.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Eine deutsche Zeitung meldete 1929 dramatisch sinkende Aktienkurse in New York. Was bedeutete der Börsenkrach unmittelbar für Besitzer solcher Aktien? Der Marktwert ihrer Anteile fiel. Der Kurssturz an der Wall Street wurde zum Symbol der beginnenden Weltwirtschaftskrise. Die Folgen reichten auch nach Deutschland.",
+        "locator": "dh1929, Textstelle 249",
+        "source_sha256": "e53de97563d99f64c596cb1491930f3288b1eb1f43b12807871c0dce08da5f16"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-arbeitslose-versicherung",
+    "fact_key": "q3.h.arbeitslose.versicherung",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Anfang 1931 waren fast fünf Millionen Menschen in Deutschland arbeitslos, nur etwa die Hälfte versichert. Wie viele erreichte diese Versicherung ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zehn Millionen"
+      },
+      {
+        "id": "b",
+        "text": "Zweieinhalb Millionen"
+      },
+      {
+        "id": "c",
+        "text": "Eine Viertelmillion"
+      },
+      {
+        "id": "d",
+        "text": "Vier Millionen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Größenordnung zeigt, wie viele Menschen außerhalb des Versicherungsschutzes standen. Hinzu kamen andere Formen der Unterstützung.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1931",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1931.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Anfang 1931 waren fast fünf Millionen Menschen in Deutschland arbeitslos, nur etwa die Hälfte versichert. Wie viele erreichte diese Versicherung ungefähr? Zweieinhalb Millionen. Die Größenordnung zeigt, wie viele Menschen außerhalb des Versicherungsschutzes standen. Hinzu kamen andere Formen der Unterstützung.",
+        "locator": "dh1931, Textstelle 93",
+        "source_sha256": "0122f65216e72687d571939d3df935e9065d6dd8e22487747a7d59b07297391e"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-steuer-beruf-diskrim",
+    "fact_key": "q3.h.steuer.beruf.diskrim",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Das NS-Regime schloss 1938 jüdische Zahnärzte aus den Krankenkassen aus. Was bewirkte die Maßnahme für ihren Berufsalltag?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie wurden ausnahmslos zu leitenden Kassenärzten gemacht."
+      },
+      {
+        "id": "b",
+        "text": "Jede Behandlung wurde zu einem bezahlten Staatsauftrag."
+      },
+      {
+        "id": "c",
+        "text": "Sie konnten Patienten nicht mehr wie zuvor über die Kassen behandeln."
+      },
+      {
+        "id": "d",
+        "text": "Alle Gebühren wurden für sie automatisch verdoppelt."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die rassistische Ausgrenzung griff in Beruf und Existenz der Betroffenen ein. Sie war Teil der systematischen Verfolgung.",
+    "tags": [
+      "thema_arbeit_und_wirtschaft",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1938",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1938.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Das NS-Regime schloss 1938 jüdische Zahnärzte aus den Krankenkassen aus. Was bewirkte die Maßnahme für ihren Berufsalltag? Sie konnten Patienten nicht mehr wie zuvor über die Kassen behandeln. Die rassistische Ausgrenzung griff in Beruf und Existenz der Betroffenen ein. Sie war Teil der systematischen Verfolgung.",
+        "locator": "dh1938, Textstelle 44",
+        "source_sha256": "d7a682b5937acda9cf6ec2d6c0715e6e181c3ef0acbf9180bdcb5f908c65c82c"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-wannsee-groesse",
+    "fact_key": "q3.h.wannsee.groesse",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Das Strandbad Wannsee wurde 1930 als großes Volksbad wiedereröffnet. Für welche Größenordnung war es ausgelegt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einige Dutzend"
+      },
+      {
+        "id": "b",
+        "text": "Höchstens dreihundert"
+      },
+      {
+        "id": "c",
+        "text": "Mehrere Millionen"
+      },
+      {
+        "id": "d",
+        "text": "Zehntausende"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Chronik nennt eine Kapazität von über 60.000 Besuchern. Das großzügige Bad sollte vielen Berlinern Erholung ermöglichen.",
+    "tags": [
+      "thema_stadtkultur",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1930",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1930.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Das Strandbad Wannsee wurde 1930 als großes Volksbad wiedereröffnet. Für welche Größenordnung war es ausgelegt? Zehntausende. Die Chronik nennt eine Kapazität von über 60.000 Besuchern. Das großzügige Bad sollte vielen Berlinern Erholung ermöglichen.",
+        "locator": "dh1930, Textstelle 217",
+        "source_sha256": "56f5dd1b039c81fd79ad0e7979314f39b0f7693cea9b83e2968b2d9371b02475"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-fotokopie-wartezeit",
+    "fact_key": "q3.h.fotokopie.wartezeit",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In einer Berliner Bibliothek dauerte 1930 selbst eine eilige Fotokopie etwa eine halbe Stunde. Wie viele solcher Einzelaufträge passten nacheinander in zwei Stunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Etwa vier"
+      },
+      {
+        "id": "b",
+        "text": "Etwa zwanzig"
+      },
+      {
+        "id": "c",
+        "text": "Etwa vierzig"
+      },
+      {
+        "id": "d",
+        "text": "Etwa hundertzwanzig"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die ersten dort aufgestellten Geräte arbeiteten nach heutigen Maßstäben langsam. Bei je dreißig Minuten sind zwei Stunden nach vier Aufträgen belegt.",
+    "tags": [
+      "thema_stadtkultur",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1930",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1930.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "In einer Berliner Bibliothek dauerte 1930 selbst eine eilige Fotokopie etwa eine halbe Stunde. Wie viele solcher Einzelaufträge passten nacheinander in zwei Stunden? Etwa vier. Die ersten dort aufgestellten Geräte arbeiteten nach heutigen Maßstäben langsam. Bei je dreißig Minuten sind zwei Stunden nach vier Aufträgen belegt.",
+        "locator": "dh1930, Textstelle 264",
+        "source_sha256": "56f5dd1b039c81fd79ad0e7979314f39b0f7693cea9b83e2968b2d9371b02475"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-antikriegs-roman-vorab",
+    "fact_key": "q3.h.antikriegs.roman.vorab",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "„Im Westen nichts Neues“ war zuerst in der „Vossischen Zeitung“ zu lesen. Was folgte für Leser, die den ganzen Roman in einem Band haben wollten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die erste Ausgabe auf einer Videokassette"
+      },
+      {
+        "id": "b",
+        "text": "Die Buchausgabe im Verlag"
+      },
+      {
+        "id": "c",
+        "text": "Die Erstausgabe als Podcast"
+      },
+      {
+        "id": "d",
+        "text": "Die Veröffentlichung allein auf Schallplatte"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Buchveröffentlichung 1929 ging ein Vorabdruck in der Zeitung voraus. Leser konnten den Stoff also schon vor dem gebundenen Buch kennen.",
+    "tags": [
+      "thema_stadtkultur",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1929",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1929.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "„Im Westen nichts Neues“ war zuerst in der „Vossischen Zeitung“ zu lesen. Was folgte für Leser, die den ganzen Roman in einem Band haben wollten? Die Buchausgabe im Verlag. Der Buchveröffentlichung 1929 ging ein Vorabdruck in der Zeitung voraus. Leser konnten den Stoff also schon vor dem gebundenen Buch kennen.",
+        "locator": "dh1929, Textstelle 52",
+        "source_sha256": "e53de97563d99f64c596cb1491930f3288b1eb1f43b12807871c0dce08da5f16"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-berliner-schaukino",
+    "fact_key": "q3.h.berliner.schaukino",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die Berliner Schaubühne am Lehniner Platz nutzt ein Gebäude, das 1928 als „Lichtspielhaus Universum“ eröffnet wurde. Welche Nutzung ging dem Theater voraus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Sternwarte"
+      },
+      {
+        "id": "b",
+        "text": "Rundfunk ohne Publikum"
+      },
+      {
+        "id": "c",
+        "text": "Kinovorführungen"
+      },
+      {
+        "id": "d",
+        "text": "Pferderennen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "„Lichtspielhaus“ war eine geläufige Bezeichnung für ein Kino. Architekt des Gebäudes war Erich Mendelsohn.",
+    "tags": [
+      "thema_stadtkultur",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1928",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1928.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Die Berliner Schaubühne am Lehniner Platz nutzt ein Gebäude, das 1928 als „Lichtspielhaus Universum“ eröffnet wurde. Welche Nutzung ging dem Theater voraus? Kinovorführungen. „Lichtspielhaus“ war eine geläufige Bezeichnung für ein Kino. Architekt des Gebäudes war Erich Mendelsohn.",
+        "locator": "dh1928, Textstelle 198",
+        "source_sha256": "f22d86d5e85d6f527b7230d4d69869bc8dfa15337bde9118d1eae6e4ed207945"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-fotograf-freiheit",
+    "fact_key": "q3.h.fotograf.freiheit",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Goebbels verlangte 1936 bloße „Kunstberichterstattung“ anstelle von Kunstkritik. Welche Tätigkeit eines Rezensenten sollte damit verschwinden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zeit und Ort einer Ausstellung nennen"
+      },
+      {
+        "id": "b",
+        "text": "Eintrittspreise auflisten"
+      },
+      {
+        "id": "c",
+        "text": "Den Namen des Ausstellungsraums drucken"
+      },
+      {
+        "id": "d",
+        "text": "Kunstwerke öffentlich eigenständig beurteilen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Das Verbot unabhängiger Kritik ordnete auch die öffentliche Beurteilung von Kunst der Diktatur unter.",
+    "tags": [
+      "thema_stadtkultur",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1936",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1936.html",
+        "checked_at": "2026-11-22T22:09:22+00:00",
+        "verified_claim": "Goebbels verlangte 1936 bloße „Kunstberichterstattung“ anstelle von Kunstkritik. Welche Tätigkeit eines Rezensenten sollte damit verschwinden? Kunstwerke öffentlich eigenständig beurteilen. Das Verbot unabhängiger Kritik ordnete auch die öffentliche Beurteilung von Kunst der Diktatur unter.",
+        "locator": "dh1936, Textstelle 216",
+        "source_sha256": "b3df3dc5b4331eb2e3e0d98ecc21732380bd6f4c52870824ed7c1617dd577e12"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:22+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-nathan-buehne",
+    "fact_key": "q3.h.nathan.buehne",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Das Deutsche Theater Berlin eröffnete 1945 mit Lessings zuvor verbotenem „Nathan der Weise“. Was sagte bereits die Stückwahl über den Neubeginn aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein von der Diktatur ausgeschlossenes Werk konnte wieder gespielt werden."
+      },
+      {
+        "id": "b",
+        "text": "Der Spielplan sollte auf das frühere Verbot verpflichtet bleiben."
+      },
+      {
+        "id": "c",
+        "text": "Das Haus wechselte dauerhaft vom Schauspiel zum Kino."
+      },
+      {
+        "id": "d",
+        "text": "Alle vor 1900 geschriebenen Werke waren nun ausgeschlossen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Wiederaufnahme war ein sichtbarer kultureller Bruch mit der NS-Zeit. Das Stück kehrte auf die Bühne zurück.",
+    "tags": [
+      "thema_stadtkultur",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1945",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1945.html",
+        "checked_at": "2026-11-22T22:09:23+00:00",
+        "verified_claim": "Das Deutsche Theater Berlin eröffnete 1945 mit Lessings zuvor verbotenem „Nathan der Weise“. Was sagte bereits die Stückwahl über den Neubeginn aus? Ein von der Diktatur ausgeschlossenes Werk konnte wieder gespielt werden. Die Wiederaufnahme war ein sichtbarer kultureller Bruch mit der NS-Zeit. Das Stück kehrte auf die Bühne zurück.",
+        "locator": "dh1945, Textstelle 257",
+        "source_sha256": "5926ca3d28955ff3cb2b1b7ad1b9d5a5255eed5df96827e3268ef87b8a0b2da3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:23+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-segelflug-schlepp",
+    "fact_key": "q3.h.segelflug.schlepp",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1927 demonstrierte ein Kasseler Flugzeugwerk den Motorschlepp. Warum brauchte das geschleppte Segelflugzeug beim Start einen motorisierten Partner?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Partner sollte die Tragflächen während des ganzen Flugs ersetzen."
+      },
+      {
+        "id": "b",
+        "text": "Dieser zog das antriebslose Flugzeug zunächst in die Höhe."
+      },
+      {
+        "id": "c",
+        "text": "Der Partner übernahm dauerhaft die gesamte Steuerung im Segelflugzeug."
+      },
+      {
+        "id": "d",
+        "text": "Der Segler musste seinen eigenen großen Propeller bremsen."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Beim Motorschlepp übernimmt das Motorflugzeug die Zugarbeit für den Start. Nach dem Ausklinken setzt der Segler seinen Flug selbstständig fort.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1927",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1927.html",
+        "checked_at": "2026-11-22T22:09:23+00:00",
+        "verified_claim": "1927 demonstrierte ein Kasseler Flugzeugwerk den Motorschlepp. Warum brauchte das geschleppte Segelflugzeug beim Start einen motorisierten Partner? Dieser zog das antriebslose Flugzeug zunächst in die Höhe. Beim Motorschlepp übernimmt das Motorflugzeug die Zugarbeit für den Start. Nach dem Ausklinken setzt der Segler seinen Flug selbstständig fort.",
+        "locator": "dh1927, Textstelle 72",
+        "source_sha256": "4996ab972dabe75e1ef35310abbe05cdaf8908a532ca84a298771f5ad7b90930"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:23+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-normandie-lang",
+    "fact_key": "q3.h.normandie.lang",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die „Normandie“ lief 1932 als Ozeandampfer mit 313 Metern Länge vom Stapel. Welches Bild kommt dieser Ausdehnung nahe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine durchschnittliche U-Bahn-Tür"
+      },
+      {
+        "id": "b",
+        "text": "Mehr als drei Kilometer Bahnsteig"
+      },
+      {
+        "id": "c",
+        "text": "Gut drei Fußballfelder von je etwa 100 Metern"
+      },
+      {
+        "id": "d",
+        "text": "Ein einziger Zehnmeter-Sprungturm"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "313 Meter sind ungefähr das Dreifache von hundert Metern. Die Länge verdeutlicht den Maßstab großer Atlantikdampfer.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1932",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1932.html",
+        "checked_at": "2026-11-22T22:09:23+00:00",
+        "verified_claim": "Die „Normandie“ lief 1932 als Ozeandampfer mit 313 Metern Länge vom Stapel. Welches Bild kommt dieser Ausdehnung nahe? Gut drei Fußballfelder von je etwa 100 Metern. 313 Meter sind ungefähr das Dreifache von hundert Metern. Die Länge verdeutlicht den Maßstab großer Atlantikdampfer.",
+        "locator": "dh1932, Textstelle 261",
+        "source_sha256": "8f91b96f97fa2ca19e9db9d092a699e7eb3477d90f349b8e4b7644cdfae6a863"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:23+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-haftpflicht-1939",
+    "fact_key": "q3.h.haftpflicht.1939",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1939 wurde in Deutschland eine Versicherung für alle Kfz-Halter verpflichtend. Welcher Schadensfall passt zum Namen „Haftpflicht“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Halter möchte den Lack seines unbeschädigten Wagens ändern."
+      },
+      {
+        "id": "b",
+        "text": "Eine Tankfüllung wird wegen einer Fernreise teurer."
+      },
+      {
+        "id": "c",
+        "text": "Das eigene Radio empfängt kein Konzert mehr."
+      },
+      {
+        "id": "d",
+        "text": "Ein Autofahrer verursacht einen Schaden bei einer anderen Person."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Haftpflicht betrifft die Verantwortung für Schäden, die anderen entstehen. Sie wurde für Fahrzeughalter verpflichtend.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1939",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1939.html",
+        "checked_at": "2026-11-22T22:09:23+00:00",
+        "verified_claim": "1939 wurde in Deutschland eine Versicherung für alle Kfz-Halter verpflichtend. Welcher Schadensfall passt zum Namen „Haftpflicht“? Ein Autofahrer verursacht einen Schaden bei einer anderen Person. Die Haftpflicht betrifft die Verantwortung für Schäden, die anderen entstehen. Sie wurde für Fahrzeughalter verpflichtend.",
+        "locator": "dh1939, Textstelle 262",
+        "source_sha256": "3e3860853171d95d28c24a369ff5272ded25b6bbaab26d714157624b3f37f9bd"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:23+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-antwerpen-teilnahme",
+    "fact_key": "q3.h.antwerpen.teilnahme",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Bei den Spielen 1920 in Antwerpen fehlten Vertreter der ehemaligen Mittelmächte. Welcher erst kurz zurückliegende Einschnitt erklärt diese Teilnehmerliste?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Erste Weltkrieg"
+      },
+      {
+        "id": "b",
+        "text": "Das Ende des Kalten Kriegs"
+      },
+      {
+        "id": "c",
+        "text": "Die Gründung der Vereinten Nationen"
+      },
+      {
+        "id": "d",
+        "text": "Die Berliner Luftbrücke"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die sportliche Teilnahme spiegelte die politischen Folgen des Kriegs. Deutschland gehörte zu den ausgeschlossenen Staaten.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1920",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1920.html",
+        "checked_at": "2026-11-22T22:09:23+00:00",
+        "verified_claim": "Bei den Spielen 1920 in Antwerpen fehlten Vertreter der ehemaligen Mittelmächte. Welcher erst kurz zurückliegende Einschnitt erklärt diese Teilnehmerliste? Der Erste Weltkrieg. Die sportliche Teilnahme spiegelte die politischen Folgen des Kriegs. Deutschland gehörte zu den ausgeschlossenen Staaten.",
+        "locator": "dh1920, Textstelle 241",
+        "source_sha256": "e8a1f15caf0dfa41cf87b7b04c3f6678c70058863f40fbf39fe19ded9d9334fe"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:23+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-eisenbahn-elektrisch",
+    "fact_key": "q3.h.eisenbahn.elektrisch",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die Reichsbahn nahm 1928 elektrische Schnellzüge in Betrieb. Welche Arbeit einer Dampflok entfällt bei elektrischem Antrieb ohne eigenen Dampfkessel?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Festlegung eines Fahrplans"
+      },
+      {
+        "id": "b",
+        "text": "Das laufende Befeuern des Kessels"
+      },
+      {
+        "id": "c",
+        "text": "Das Anhalten an Bahnhöfen"
+      },
+      {
+        "id": "d",
+        "text": "Die Verständigung mit der Strecke"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Elektrische Zugkraft unterscheidet sich im Fahrzeug von der Dampferzeugung. Zugfahrplan und Bahnbetrieb bleiben weiterhin nötig.",
+    "tags": [
+      "thema_wege_und_verkehr",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Historisches Museum · LeMO, Jahreschronik 1928",
+        "url": "https://www.dhm.de/lemo/jahreschronik/1928.html",
+        "checked_at": "2026-11-22T22:09:23+00:00",
+        "verified_claim": "Die Reichsbahn nahm 1928 elektrische Schnellzüge in Betrieb. Welche Arbeit einer Dampflok entfällt bei elektrischem Antrieb ohne eigenen Dampfkessel? Das laufende Befeuern des Kessels. Elektrische Zugkraft unterscheidet sich im Fahrzeug von der Dampferzeugung. Zugfahrplan und Bahnbetrieb bleiben weiterhin nötig.",
+        "locator": "dh1928, Textstelle 73",
+        "source_sha256": "f22d86d5e85d6f527b7230d4d69869bc8dfa15337bde9118d1eae6e4ed207945"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:09:23+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

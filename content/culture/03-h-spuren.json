@@ -1,0 +1,2484 @@
+[
+  {
+    "id": "q3-h-neufundland-torf",
+    "fact_key": "q3.h.neufundland.torf",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Auf Neufundland fanden Ausgräber Häuser aus Holzgerüst und Torfsoden, ähnlich den Bauten auf Island und Grönland. Welche frühe Seefahrt wird dadurch greifbar?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Nordatlantikfahrten der Wikinger"
+      },
+      {
+        "id": "b",
+        "text": "Die Fahrten phönizischer Händler im Mittelmeer"
+      },
+      {
+        "id": "c",
+        "text": "Die Reisen polynesischer Navigatoren im Pazifik"
+      },
+      {
+        "id": "d",
+        "text": "Die Nilfahrten ägyptischer Könige"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Siedlung von L’Anse aux Meadows stammt aus dem 11. Jahrhundert. Sie belegt nordische Anwesenheit in Nordamerika lange vor Kolumbus.",
+    "tags": [
+      "thema_archaeologie",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · L’Anse aux Meadows National Historic Site",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Auf Neufundland fanden Ausgräber Häuser aus Holzgerüst und Torfsoden, ähnlich den Bauten auf Island und Grönland. Welche frühe Seefahrt wird dadurch greifbar? Die Nordatlantikfahrten der Wikinger. Die Siedlung von L’Anse aux Meadows stammt aus dem 11. Jahrhundert. Sie belegt nordische Anwesenheit in Nordamerika lange vor Kolumbus.",
+        "locator": "whc/4, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-ceren-asche",
+    "fact_key": "q3.h.ceren.asche",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In Joya de Cerén begrub ein Vulkanausbruch eine bäuerliche Siedlung um 600. Welchen Einblick gibt der Fund im Unterschied zu einem Königsgrab?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In die Besitzliste eines einzelnen Palastes"
+      },
+      {
+        "id": "b",
+        "text": "In alltägliches Wohnen und Wirtschaften von Bauernfamilien"
+      },
+      {
+        "id": "c",
+        "text": "In die Thronfolge eines europäischen Königshauses"
+      },
+      {
+        "id": "d",
+        "text": "In die Begräbnisrituale eines römischen Kaisers"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die vulkanischen Ablagerungen konservierten die Siedlung in El Salvador ungewöhnlich gut. So blieb der Alltag ihrer Bewohner archäologisch sichtbar.",
+    "tags": [
+      "thema_archaeologie",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Joya de Cerén Archaeological Site",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "In Joya de Cerén begrub ein Vulkanausbruch eine bäuerliche Siedlung um 600. Welchen Einblick gibt der Fund im Unterschied zu einem Königsgrab? In alltägliches Wohnen und Wirtschaften von Bauernfamilien. Die vulkanischen Ablagerungen konservierten die Siedlung in El Salvador ungewöhnlich gut. So blieb der Alltag ihrer Bewohner archäologisch sichtbar.",
+        "locator": "whc/675, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-qin-grabfiguren",
+    "fact_key": "q3.h.qin.grabfiguren",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Im Grabbezirk des ersten chinesischen Kaisers stehen dicht an dicht lebensnahe Tonfiguren mit Pferden und Wagen. Welches Gefolge ist darin dargestellt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Versammlung von Hofmusikern"
+      },
+      {
+        "id": "b",
+        "text": "Eine Händlerdelegation mit Warenkörben"
+      },
+      {
+        "id": "c",
+        "text": "Ein Heer als Begleitung des Herrschers"
+      },
+      {
+        "id": "d",
+        "text": "Eine Wandergruppe buddhistischer Pilger"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Terrakottafiguren bilden eine Armee. Die Gestalten sind unterschiedlich gestaltet und gehören zur Anlage von Qin Shihuangdi.",
+    "tags": [
+      "thema_archaeologie",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Mausoleum of the First Qin Emperor",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Im Grabbezirk des ersten chinesischen Kaisers stehen dicht an dicht lebensnahe Tonfiguren mit Pferden und Wagen. Welches Gefolge ist darin dargestellt? Ein Heer als Begleitung des Herrschers. Die Terrakottafiguren bilden eine Armee. Die Gestalten sind unterschiedlich gestaltet und gehören zur Anlage von Qin Shihuangdi.",
+        "locator": "whc/441, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-lalibela-monolith",
+    "fact_key": "q3.h.lalibela.monolith",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Bei einer mittelalterlichen Kirche in Lalibela bestehen Boden, Wand und Dach aus demselben gewachsenen Fels. Wie entstand ein solcher Bau?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Man schichtete gebrannte Ziegel aufeinander."
+      },
+      {
+        "id": "b",
+        "text": "Man setzte getrennte Marmorplatten zusammen."
+      },
+      {
+        "id": "c",
+        "text": "Man goss den gesamten Bau aus Beton."
+      },
+      {
+        "id": "d",
+        "text": "Man arbeitete ihn aus dem Fels heraus."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die elf äthiopischen Felsenkirchen sind monolithisch. Die Bauleute schufen die Räume, indem sie Material des vorhandenen Gesteins entfernten.",
+    "tags": [
+      "thema_archaeologie",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Rock-Hewn Churches, Lalibela",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Bei einer mittelalterlichen Kirche in Lalibela bestehen Boden, Wand und Dach aus demselben gewachsenen Fels. Wie entstand ein solcher Bau? Man arbeitete ihn aus dem Fels heraus. Die elf äthiopischen Felsenkirchen sind monolithisch. Die Bauleute schufen die Räume, indem sie Material des vorhandenen Gesteins entfernten.",
+        "locator": "whc/18, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-senegambia-fund",
+    "fact_key": "q3.h.senegambia.fund",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Vier Denkmalgruppen in Senegambia umfassen zusammen 93 Steinkreise. Welche Größenordnung ergibt sich je Gruppe, wenn man sie rechnerisch gleich verteilt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gut zwanzig Steinkreise"
+      },
+      {
+        "id": "b",
+        "text": "Gut vier Steinkreise"
+      },
+      {
+        "id": "c",
+        "text": "Gut neunzig Steinkreise"
+      },
+      {
+        "id": "d",
+        "text": "Mehr als dreihundert Steinkreise"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "93 geteilt durch vier ergibt etwas über 23. Das ist ein rechnerischer Durchschnitt. Zu den historischen Gruppen gehören außerdem Grabhügel.",
+    "tags": [
+      "thema_archaeologie",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Stone Circles of Senegambia",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Vier Denkmalgruppen in Senegambia umfassen zusammen 93 Steinkreise. Welche Größenordnung ergibt sich je Gruppe, wenn man sie rechnerisch gleich verteilt? Gut zwanzig Steinkreise. 93 geteilt durch vier ergibt etwas über 23. Das ist ein rechnerischer Durchschnitt. Zu den historischen Gruppen gehören außerdem Grabhügel.",
+        "locator": "whc/1226, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-kakadu-bildarchiv",
+    "fact_key": "q3.h.kakadu.bildarchiv",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Die Spuren menschlicher Besiedlung im australischen Kakadu reichen laut Welterbezentrum wie weit zurück?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur bis zur ersten europäischen Ansiedlung"
+      },
+      {
+        "id": "b",
+        "text": "Mehr als vierzigtausend Jahre"
+      },
+      {
+        "id": "c",
+        "text": "Rund viertausend Jahre"
+      },
+      {
+        "id": "d",
+        "text": "Rund vierhundert Jahre"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Felsbilder und Fundstellen überliefern einen ungewöhnlich langen Zeitraum. Die Geschichte der dort lebenden Aboriginal Peoples reicht tief in die Vorgeschichte zurück.",
+    "tags": [
+      "thema_archaeologie",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Kakadu National Park",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Die Spuren menschlicher Besiedlung im australischen Kakadu reichen laut Welterbezentrum wie weit zurück? Mehr als vierzigtausend Jahre. Felsbilder und Fundstellen überliefern einen ungewöhnlich langen Zeitraum. Die Geschichte der dort lebenden Aboriginal Peoples reicht tief in die Vorgeschichte zurück.",
+        "locator": "whc/147, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-aksum-stelen",
+    "fact_key": "q3.h.aksum.stelen",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Ein Ausgräber unterscheidet in Aksum einen monolithischen Obelisken von einer aus Blöcken gemauerten Säule. Auf welchen Befund kommt es an?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Säule steht unmittelbar an einem Fluss."
+      },
+      {
+        "id": "b",
+        "text": "Das Gestein hat eine dunkle Farbe."
+      },
+      {
+        "id": "c",
+        "text": "Der aufragende Körper ist aus einem zusammenhängenden Stein gearbeitet."
+      },
+      {
+        "id": "d",
+        "text": "Der Stein enthält Schriftzeichen in zwei Sprachen."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "In der alten äthiopischen Königsstadt stehen große monolithische Stelen. „Monolithisch“ beschreibt die Ausführung aus einem Stein.",
+    "tags": [
+      "thema_archaeologie",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Aksum",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Ein Ausgräber unterscheidet in Aksum einen monolithischen Obelisken von einer aus Blöcken gemauerten Säule. Auf welchen Befund kommt es an? Der aufragende Körper ist aus einem zusammenhängenden Stein gearbeitet. In der alten äthiopischen Königsstadt stehen große monolithische Stelen. „Monolithisch“ beschreibt die Ausführung aus einem Stein.",
+        "locator": "whc/15, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-caral-alter",
+    "fact_key": "q3.h.caral.alter",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Caral-Supe in Peru war schon vor etwa 5.000 Jahren ein städtisches Zentrum. In welchen Zeitraum führt diese Angabe ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Um 100 vor Christus"
+      },
+      {
+        "id": "b",
+        "text": "Um 1000 nach Christus"
+      },
+      {
+        "id": "c",
+        "text": "Um 1500 nach Christus"
+      },
+      {
+        "id": "d",
+        "text": "Um 3000 vor Christus"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die archäologische Stätte im Supe-Tal gehört zu den sehr frühen Zentren der Anden. Ihr Alter reicht weit vor das Inkareich zurück.",
+    "tags": [
+      "thema_archaeologie",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Sacred City of Caral-Supe",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Caral-Supe in Peru war schon vor etwa 5.000 Jahren ein städtisches Zentrum. In welchen Zeitraum führt diese Angabe ungefähr? Um 3000 vor Christus. Die archäologische Stätte im Supe-Tal gehört zu den sehr frühen Zentren der Anden. Ihr Alter reicht weit vor das Inkareich zurück.",
+        "locator": "whc/1269, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-cahokia-huegel",
+    "fact_key": "q3.h.cahokia.huegel",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Ein Plan von Cahokia nahe dem heutigen St. Louis zeigt eine große Siedlung mit künstlichen Hügeln. Welche Größenordnung nennt die UNESCO für diese Hügel?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gut hundert"
+      },
+      {
+        "id": "b",
+        "text": "Ungefähr fünf"
+      },
+      {
+        "id": "c",
+        "text": "Etwa zehntausend"
+      },
+      {
+        "id": "d",
+        "text": "Mehr als eine Million"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Ausdehnung der Siedlung umfasste rund 120 Hügel. Cahokia war über Jahrhunderte ein Zentrum der Mississippi-Kultur.",
+    "tags": [
+      "thema_archaeologie",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Cahokia Mounds State Historic Site",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:54+00:00",
+        "verified_claim": "Ein Plan von Cahokia nahe dem heutigen St. Louis zeigt eine große Siedlung mit künstlichen Hügeln. Welche Größenordnung nennt die UNESCO für diese Hügel? Gut hundert. Die Ausdehnung der Siedlung umfasste rund 120 Hügel. Cahokia war über Jahrhunderte ein Zentrum der Mississippi-Kultur.",
+        "locator": "whc/198, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:54+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-mesa-hoehe",
+    "fact_key": "q3.h.mesa.hoehe",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Die frühen Pueblo-Siedlungen auf dem Mesa-Verde-Plateau in Colorado liegen über 2.600 Metern. Welcher Vergleich macht ihre Höhenlage anschaulich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Weit über dem höchsten Gipfel des Himalaja"
+      },
+      {
+        "id": "b",
+        "text": "Höher als viele Alpenpässe"
+      },
+      {
+        "id": "c",
+        "text": "Etwa auf Nordseeniveau"
+      },
+      {
+        "id": "d",
+        "text": "Tiefer als der Spiegel des Toten Meeres"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Plateau erhebt sich mehr als zweieinhalb Kilometer über den Meeresspiegel. Seine Dörfer und Felswohnungen entstanden in großer Höhe.",
+    "tags": [
+      "thema_archaeologie",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Mesa Verde National Park",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:55+00:00",
+        "verified_claim": "Die frühen Pueblo-Siedlungen auf dem Mesa-Verde-Plateau in Colorado liegen über 2.600 Metern. Welcher Vergleich macht ihre Höhenlage anschaulich? Höher als viele Alpenpässe. Das Plateau erhebt sich mehr als zweieinhalb Kilometer über den Meeresspiegel. Seine Dörfer und Felswohnungen entstanden in großer Höhe.",
+        "locator": "whc/27, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:55+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-tiwanaku-zeit",
+    "fact_key": "q3.h.tiwanaku.zeit",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Tiwanaku in den südlichen Anden erlebte seine Blüte zwischen 500 und 900 nach Christus. In welche europäische Zeit fällt das ungefähr?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In die späte römische Republik"
+      },
+      {
+        "id": "b",
+        "text": "In die Renaissance"
+      },
+      {
+        "id": "c",
+        "text": "Ins frühe Mittelalter"
+      },
+      {
+        "id": "d",
+        "text": "In die Zeit der Französischen Revolution"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Zeitgleiche Gesellschaften können weit auseinanderliegen. Tiwanaku war damals ein politisches und geistiges Zentrum in den Anden.",
+    "tags": [
+      "thema_archaeologie",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Tiwanaku: Spiritual and Political Centre of the Tiwanaku Culture",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:55+00:00",
+        "verified_claim": "Tiwanaku in den südlichen Anden erlebte seine Blüte zwischen 500 und 900 nach Christus. In welche europäische Zeit fällt das ungefähr? Ins frühe Mittelalter. Zeitgleiche Gesellschaften können weit auseinanderliegen. Tiwanaku war damals ein politisches und geistiges Zentrum in den Anden.",
+        "locator": "whc/567, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:55+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-shona-einordnung",
+    "fact_key": "q3.h.shona.einordnung",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Groß-Simbabwe war zwischen dem 11. und 15. Jahrhundert ein Zentrum der Shona. Zu welcher europäischen Epoche passt dieser Zeitraum am besten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zur klassischen Antike"
+      },
+      {
+        "id": "b",
+        "text": "Zur Industrialisierung"
+      },
+      {
+        "id": "c",
+        "text": "Zur Zwischenkriegszeit"
+      },
+      {
+        "id": "d",
+        "text": "Zum Mittelalter"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Das afrikanische Handelszentrum blühte lange vor der modernen Kolonialzeit. Seine Ruinen zeugen von einer eigenständigen städtischen Kultur.",
+    "tags": [
+      "thema_archaeologie",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Great Zimbabwe National Monument",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:55+00:00",
+        "verified_claim": "Groß-Simbabwe war zwischen dem 11. und 15. Jahrhundert ein Zentrum der Shona. Zu welcher europäischen Epoche passt dieser Zeitraum am besten? Zum Mittelalter. Das afrikanische Handelszentrum blühte lange vor der modernen Kolonialzeit. Seine Ruinen zeugen von einer eigenständigen städtischen Kultur.",
+        "locator": "whc/364, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:55+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-inka-netz",
+    "fact_key": "q3.h.inka.netz",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Die Inka verbanden Andenpässe, Täler und Küsten mit Straßen. Welche Größenordnung erreichte ihr gesamtes überregionales Netz?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zehntausende Kilometer"
+      },
+      {
+        "id": "b",
+        "text": "Einige Dutzend Kilometer"
+      },
+      {
+        "id": "c",
+        "text": "Wenige hundert Kilometer"
+      },
+      {
+        "id": "d",
+        "text": "Eine Million Kilometer"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Welterbezentrum gibt für das ausgedehnte Andenstraßennetz ungefähr 30.000 Kilometer an. Es bezog auch ältere Wege ein.",
+    "tags": [
+      "thema_handel_und_reisen",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Qhapaq Ñan, Andean Road System",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:55+00:00",
+        "verified_claim": "Die Inka verbanden Andenpässe, Täler und Küsten mit Straßen. Welche Größenordnung erreichte ihr gesamtes überregionales Netz? Zehntausende Kilometer. Das Welterbezentrum gibt für das ausgedehnte Andenstraßennetz ungefähr 30.000 Kilometer an. Es bezog auch ältere Wege ein.",
+        "locator": "whc/1459, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:55+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-bahrain-austern",
+    "fact_key": "q3.h.bahrain.austern",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Vor Bahrains Küste liegen Austernbänke, an Land frühere Händlerhäuser und Lager. Welches wertvolle Handelsgut verbindet die Orte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Steinsalz"
+      },
+      {
+        "id": "b",
+        "text": "Naturperlen"
+      },
+      {
+        "id": "c",
+        "text": "Weihrauchharz"
+      },
+      {
+        "id": "d",
+        "text": "Seide"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Perlenfischerei prägte die Inselwirtschaft. Boote brachen von der Küste zu den Austernbänken auf.",
+    "tags": [
+      "thema_handel_und_reisen",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Pearling, Testimony of an Island Economy",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:55+00:00",
+        "verified_claim": "Vor Bahrains Küste liegen Austernbänke, an Land frühere Händlerhäuser und Lager. Welches wertvolle Handelsgut verbindet die Orte? Naturperlen. Die Perlenfischerei prägte die Inselwirtschaft. Boote brachen von der Küste zu den Austernbänken auf.",
+        "locator": "whc/1364, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:55+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-kilwa-keramik",
+    "fact_key": "q3.h.kilwa.keramik",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In alten ostafrikanischen Hafenstädten wie Kilwa begegnet man arabischer Keramik und persischer Töpferware. Welche Verbindung legt diese Warenliste nahe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Landstraße von Kilwa nach Südamerika"
+      },
+      {
+        "id": "b",
+        "text": "Eine vollständig vom Seehandel isolierte Küste"
+      },
+      {
+        "id": "c",
+        "text": "Handelswege über den Indischen Ozean"
+      },
+      {
+        "id": "d",
+        "text": "Einen Binnenhandel ausschließlich im ostafrikanischen Hochland"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Kilwas Kaufleute handelten unter anderem mit Gold, Perlen und importierter Keramik. Die Inselhäfen waren Teil weiter Handelsnetze.",
+    "tags": [
+      "thema_handel_und_reisen",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Ruins of Kilwa Kisiwani and Ruins of Songo Mnara",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:55+00:00",
+        "verified_claim": "In alten ostafrikanischen Hafenstädten wie Kilwa begegnet man arabischer Keramik und persischer Töpferware. Welche Verbindung legt diese Warenliste nahe? Handelswege über den Indischen Ozean. Kilwas Kaufleute handelten unter anderem mit Gold, Perlen und importierter Keramik. Die Inselhäfen waren Teil weiter Handelsnetze.",
+        "locator": "whc/144, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:55+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-kronborg-sund",
+    "fact_key": "q3.h.kronborg.sund",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Kronborg liegt an der schmalen Wasserstraße zwischen Dänemark und Schweden. Warum war der Platz für eine königliche Festung günstig?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dort kreuzten alle Alpenpässe auf dem Landweg."
+      },
+      {
+        "id": "b",
+        "text": "Die Burg schützte die Quelle der Donau."
+      },
+      {
+        "id": "c",
+        "text": "Nur dort konnten Nordseeschiffe den Äquator überqueren."
+      },
+      {
+        "id": "d",
+        "text": "Vorbeifahrende Schiffe passierten die Burg in einem engen Seeweg."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Lage am Öresund verlieh der Burg von Helsingør politische und strategische Bedeutung.",
+    "tags": [
+      "thema_handel_und_reisen",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Kronborg Castle",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:55+00:00",
+        "verified_claim": "Kronborg liegt an der schmalen Wasserstraße zwischen Dänemark und Schweden. Warum war der Platz für eine königliche Festung günstig? Vorbeifahrende Schiffe passierten die Burg in einem engen Seeweg. Die Lage am Öresund verlieh der Burg von Helsingør politische und strategische Bedeutung.",
+        "locator": "whc/696, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:55+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-provins-messe",
+    "fact_key": "q3.h.provins.messe",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In Provins wurde die mittelalterliche Stadt auf große Messen zugeschnitten. Was brauchten anreisende Tuchhändler am ehesten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Platz für Waren, Handel und zeitweiligen Aufenthalt"
+      },
+      {
+        "id": "b",
+        "text": "Rennbahnen für Streitwagenrennen"
+      },
+      {
+        "id": "c",
+        "text": "Eine Flotte zur Waljagd im offenen Meer"
+      },
+      {
+        "id": "d",
+        "text": "Höhenlager für den Abbau von Gletschereis"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Messen der Champagne verbanden Kaufleute über Regionen hinweg. Die Stadtstruktur von Provins ist davon geprägt.",
+    "tags": [
+      "thema_handel_und_reisen",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Provins, Town of Medieval Fairs",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:55+00:00",
+        "verified_claim": "In Provins wurde die mittelalterliche Stadt auf große Messen zugeschnitten. Was brauchten anreisende Tuchhändler am ehesten? Platz für Waren, Handel und zeitweiligen Aufenthalt. Die Messen der Champagne verbanden Kaufleute über Regionen hinweg. Die Stadtstruktur von Provins ist davon geprägt.",
+        "locator": "whc/873, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:55+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-visby-speicher",
+    "fact_key": "q3.h.visby.speicher",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In Visby auf Gotland blieben zahlreiche Speicher und wohlhabende Kaufmannshäuser erhalten. Welche frühere Rolle der Stadt spiegelt diese Mischung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein ausschließlich geistliches Einsiedlerdorf"
+      },
+      {
+        "id": "b",
+        "text": "Ein Zentrum des hansischen Ostseehandels"
+      },
+      {
+        "id": "c",
+        "text": "Ein reiner Sommersitz ohne ständige Bevölkerung"
+      },
+      {
+        "id": "d",
+        "text": "Ein Bergwerkslager im Landesinneren"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Hansestadt war ein wichtiger Umschlagplatz. Gelagerte Waren und Kaufmannshäuser erzählen von einem florierenden Seehandel.",
+    "tags": [
+      "thema_handel_und_reisen",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Hanseatic Town of Visby",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:55+00:00",
+        "verified_claim": "In Visby auf Gotland blieben zahlreiche Speicher und wohlhabende Kaufmannshäuser erhalten. Welche frühere Rolle der Stadt spiegelt diese Mischung? Ein Zentrum des hansischen Ostseehandels. Die Hansestadt war ein wichtiger Umschlagplatz. Gelagerte Waren und Kaufmannshäuser erzählen von einem florierenden Seehandel.",
+        "locator": "whc/731, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:55+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-hallstatt-untergrund",
+    "fact_key": "q3.h.hallstatt.untergrund",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Der Name Salzkammergut und alte unterirdische Abbaustätten führen auf dieselbe Spur. Woraus erwuchs der frühe Wohlstand von Hallstatt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aus dem Plantagenanbau von Zuckerrohr"
+      },
+      {
+        "id": "b",
+        "text": "Aus der Förderung von Erdöl"
+      },
+      {
+        "id": "c",
+        "text": "Aus dem Salzbergbau"
+      },
+      {
+        "id": "d",
+        "text": "Aus dem Bernsteinfischen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Salzlager wurden bereits im zweiten vorchristlichen Jahrtausend genutzt. Der Rohstoff prägte die Region über lange Zeit.",
+    "tags": [
+      "thema_handel_und_reisen",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Hallstatt-Dachstein / Salzkammergut Cultural Landscape",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:55+00:00",
+        "verified_claim": "Der Name Salzkammergut und alte unterirdische Abbaustätten führen auf dieselbe Spur. Woraus erwuchs der frühe Wohlstand von Hallstatt? Aus dem Salzbergbau. Salzlager wurden bereits im zweiten vorchristlichen Jahrtausend genutzt. Der Rohstoff prägte die Region über lange Zeit.",
+        "locator": "whc/806, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:55+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-kongohof-stadt",
+    "fact_key": "q3.h.kongohof.stadt",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In Mbanza Kongo lagen Königssitz, traditioneller Gerichtsort und königliche Begräbnisplätze zusammen. Welche frühere Funktion der Stadt passt dazu?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie war nur eine saisonale Handelssiedlung."
+      },
+      {
+        "id": "b",
+        "text": "Sie diente allein als Durchgangslager europäischer Seeleute."
+      },
+      {
+        "id": "c",
+        "text": "Sie war der Standort einer römischen Provinzverwaltung."
+      },
+      {
+        "id": "d",
+        "text": "Sie war Hauptstadt eines afrikanischen Königreichs."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Mbanza Kongo war ein politisches und geistiges Zentrum des Königreichs Kongo. Die Stadt bestand schon vor dem Eintreffen der Portugiesen.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:55+00:00",
+        "verified_claim": "In Mbanza Kongo lagen Königssitz, traditioneller Gerichtsort und königliche Begräbnisplätze zusammen. Welche frühere Funktion der Stadt passt dazu? Sie war Hauptstadt eines afrikanischen Königreichs. Mbanza Kongo war ein politisches und geistiges Zentrum des Königreichs Kongo. Die Stadt bestand schon vor dem Eintreffen der Portugiesen.",
+        "locator": "whc/1511, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:55+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-valongo-ankuenfte",
+    "fact_key": "q3.h.valongo.ankuenfte",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Am Valongo-Kai in Rio de Janeiro landeten im 19. Jahrhundert verschleppte Menschen aus Afrika. Welche Größenordnung nennt die UNESCO für diesen Ort?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fast eine Million Menschen"
+      },
+      {
+        "id": "b",
+        "text": "Etwa neunhundert Menschen"
+      },
+      {
+        "id": "c",
+        "text": "Weniger als zehntausend Menschen"
+      },
+      {
+        "id": "d",
+        "text": "Über neunzig Millionen Menschen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Schätzung liegt bei rund 900.000 Menschen. Der frühere Kai ist heute ein Erinnerungsort der Geschichte der Versklavung.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_schaetzen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Valongo Wharf Archaeological Site",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:55+00:00",
+        "verified_claim": "Am Valongo-Kai in Rio de Janeiro landeten im 19. Jahrhundert verschleppte Menschen aus Afrika. Welche Größenordnung nennt die UNESCO für diesen Ort? Fast eine Million Menschen. Die Schätzung liegt bei rund 900.000 Menschen. Der frühere Kai ist heute ein Erinnerungsort der Geschichte der Versklavung.",
+        "locator": "whc/1548, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:55+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-le-morne-zuflucht",
+    "fact_key": "q3.h.le.morne.zuflucht",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Le Morne auf Mauritius war bewaldet und schwer zugänglich. Weshalb war der Berg für Menschen wichtig, die aus der Versklavung fliehen konnten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er war der regelmäßige Austeilungsort von Schiffskarten."
+      },
+      {
+        "id": "b",
+        "text": "Er bot Verstecke und Schutz vor Verfolgern."
+      },
+      {
+        "id": "c",
+        "text": "Er war der einzige offizielle Hafen der Insel."
+      },
+      {
+        "id": "d",
+        "text": "Auf seinem Gipfel stand das koloniale Parlament."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Im 18. und frühen 19. Jahrhundert fanden Geflüchtete dort Zuflucht. Der Berg wurde zum Erinnerungsort des Widerstands.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Le Morne Cultural Landscape",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:56+00:00",
+        "verified_claim": "Le Morne auf Mauritius war bewaldet und schwer zugänglich. Weshalb war der Berg für Menschen wichtig, die aus der Versklavung fliehen konnten? Er bot Verstecke und Schutz vor Verfolgern. Im 18. und frühen 19. Jahrhundert fanden Geflüchtete dort Zuflucht. Der Berg wurde zum Erinnerungsort des Widerstands.",
+        "locator": "whc/1259, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:56+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-leptis-hafenstadt",
+    "fact_key": "q3.h.leptis.hafenstadt",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In Leptis Magna lagen Hafen, Marktplatz, Läden und Magazine beieinander. Welche Wege lassen sich aus dieser Nachbarschaft rekonstruieren?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Erz wanderte ausschließlich vom Berg direkt in den Schacht."
+      },
+      {
+        "id": "b",
+        "text": "Opfergaben zirkulierten ausschließlich innerhalb eines Tempels."
+      },
+      {
+        "id": "c",
+        "text": "Waren gelangten vom Schiff über Lager zu Käufern."
+      },
+      {
+        "id": "d",
+        "text": "Bücher kamen nur vom Kloster in das Archiv."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die römische Stadt im heutigen Libyen war auch ein Handelsplatz. Zwischen Hafen und Markt konnten Waren gelagert und verkauft werden.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Archaeological Site of Leptis Magna",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:56+00:00",
+        "verified_claim": "In Leptis Magna lagen Hafen, Marktplatz, Läden und Magazine beieinander. Welche Wege lassen sich aus dieser Nachbarschaft rekonstruieren? Waren gelangten vom Schiff über Lager zu Käufern. Die römische Stadt im heutigen Libyen war auch ein Handelsplatz. Zwischen Hafen und Markt konnten Waren gelagert und verkauft werden.",
+        "locator": "whc/183, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:56+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-erfurt-mikwe",
+    "fact_key": "q3.h.erfurt.mikwe",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Zur mittelalterlichen Erfurter Stätte gehören eine Synagoge und eine Mikwe, ein rituelles Tauchbad. Wessen Stadtgeschichte erschließt sich dort?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die eines römischen Legionslagers"
+      },
+      {
+        "id": "b",
+        "text": "Die eines buddhistischen Pilgerordens"
+      },
+      {
+        "id": "c",
+        "text": "Die eines mittelalterlichen Wikingerdorfs"
+      },
+      {
+        "id": "d",
+        "text": "Die der jüdischen Gemeinde"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Bauzeugnisse machen jüdisches Leben im mittelalterlichen Erfurt sichtbar. Zum Ensemble gehört außerdem das Steinerne Haus.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Jewish-Medieval Heritage of Erfurt",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:56+00:00",
+        "verified_claim": "Zur mittelalterlichen Erfurter Stätte gehören eine Synagoge und eine Mikwe, ein rituelles Tauchbad. Wessen Stadtgeschichte erschließt sich dort? Die der jüdischen Gemeinde. Die Bauzeugnisse machen jüdisches Leben im mittelalterlichen Erfurt sichtbar. Zum Ensemble gehört außerdem das Steinerne Haus.",
+        "locator": "whc/1656, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:56+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-timbuktu-schule",
+    "fact_key": "q3.h.timbuktu.schule",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Timbuktu besaß eine angesehene Koranschule und weitere Lehrstätten. Was ergänzt das Bild der Stadt als Handelsplatz am Rand der Sahara?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ihre Rolle als Zentrum des Lernens und des Islam"
+      },
+      {
+        "id": "b",
+        "text": "Ihre ausschließliche Nutzung als europäischer Militärhafen"
+      },
+      {
+        "id": "c",
+        "text": "Ihre Rolle als Sitz des vatikanischen Konklaves"
+      },
+      {
+        "id": "d",
+        "text": "Ihre Entstehung als Industrievorstadt des 20. Jahrhunderts"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Im 15. und 16. Jahrhundert war Timbuktu ein geistiges Zentrum. Gelehrte und Lehrstätten prägten die Stadt.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Timbuktu",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:56+00:00",
+        "verified_claim": "Timbuktu besaß eine angesehene Koranschule und weitere Lehrstätten. Was ergänzt das Bild der Stadt als Handelsplatz am Rand der Sahara? Ihre Rolle als Zentrum des Lernens und des Islam. Im 15. und 16. Jahrhundert war Timbuktu ein geistiges Zentrum. Gelehrte und Lehrstätten prägten die Stadt.",
+        "locator": "whc/119, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:56+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-kaunas-hauptstadt",
+    "fact_key": "q3.h.kaunas.hauptstadt",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Kaunas wurde zwischen den Weltkriegen vorläufige Hauptstadt Litauens und wuchs stark. Zu welchem Stadtbild passt diese Entwicklung zeitlich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zu einem Neubauboom erst nach dem Jahr 2000"
+      },
+      {
+        "id": "b",
+        "text": "Zu moderner Architektur der 1920er und 1930er"
+      },
+      {
+        "id": "c",
+        "text": "Zu Tempeln aus der römischen Kaiserzeit"
+      },
+      {
+        "id": "d",
+        "text": "Zu den ersten Kathedralen des frühen Mittelalters"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die neue Hauptstadtfunktion beschleunigte den Umbau. Das Welterbe dokumentiert die litauische Moderne der Zwischenkriegszeit.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Modernist Kaunas: Architecture of Optimism, 1919-1939",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:56+00:00",
+        "verified_claim": "Kaunas wurde zwischen den Weltkriegen vorläufige Hauptstadt Litauens und wuchs stark. Zu welchem Stadtbild passt diese Entwicklung zeitlich? Zu moderner Architektur der 1920er und 1930er. Die neue Hauptstadtfunktion beschleunigte den Umbau. Das Welterbe dokumentiert die litauische Moderne der Zwischenkriegszeit.",
+        "locator": "whc/1661, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:56+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-philadelphia-dokumente",
+    "fact_key": "q3.h.philadelphia.dokumente",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Als sich die Vertreter 1787 in Philadelphia mit der Verfassung der USA befassten, welches Dokument aus demselben Haus war damals schon etwa ein Jahrzehnt alt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die deutsche Paulskirchenverfassung"
+      },
+      {
+        "id": "b",
+        "text": "Die Charta der Vereinten Nationen"
+      },
+      {
+        "id": "c",
+        "text": "Die Unabhängigkeitserklärung"
+      },
+      {
+        "id": "d",
+        "text": "Die neue Bundesverfassung selbst"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Zwischen den beiden Unterzeichnungen lagen elf Jahre. Sie markieren unterschiedliche Schritte auf dem Weg zum neuen Staat.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Independence Hall",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:56+00:00",
+        "verified_claim": "Als sich die Vertreter 1787 in Philadelphia mit der Verfassung der USA befassten, welches Dokument aus demselben Haus war damals schon etwa ein Jahrzehnt alt? Die Unabhängigkeitserklärung. Zwischen den beiden Unterzeichnungen lagen elf Jahre. Sie markieren unterschiedliche Schritte auf dem Weg zum neuen Staat.",
+        "locator": "whc/78, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:56+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-edinburgh-schichten",
+    "fact_key": "q3.h.edinburgh.schichten",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Über Edinburghs Altstadt thront die mittelalterliche Burg. In der planmäßig angelegten New Town sieht man dagegen klassizistische Bauten. Was lässt sich daraus ablesen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zwei gleichzeitig errichtete Hälften derselben Burg"
+      },
+      {
+        "id": "b",
+        "text": "Einen einzigen unveränderten mittelalterlichen Stadtplan"
+      },
+      {
+        "id": "c",
+        "text": "Zwei ausschließlich römische Stadtgründungen"
+      },
+      {
+        "id": "d",
+        "text": "Verschiedene Epochen der Stadterweiterung"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Entwicklung der New Town begann im 18. Jahrhundert. Sie trat neben die ältere Stadt und prägte die europäische Stadtplanung.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Old and New Towns of Edinburgh",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:56+00:00",
+        "verified_claim": "Über Edinburghs Altstadt thront die mittelalterliche Burg. In der planmäßig angelegten New Town sieht man dagegen klassizistische Bauten. Was lässt sich daraus ablesen? Verschiedene Epochen der Stadterweiterung. Die Entwicklung der New Town begann im 18. Jahrhundert. Sie trat neben die ältere Stadt und prägte die europäische Stadtplanung.",
+        "locator": "whc/728, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:56+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-borobudur-ebenen",
+    "fact_key": "q3.h.borobudur.ebenen",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Am Borobudur wechseln quadratische Terrassen weiter oben zu kreisförmigen Plattformen. Welche Beobachtung passt zu einem Gang aufwärts?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Man verlässt die eckig angelegten Ebenen und gelangt zu runden."
+      },
+      {
+        "id": "b",
+        "text": "Man durchquert fortlaufend nur gleich große rechteckige Höfe."
+      },
+      {
+        "id": "c",
+        "text": "Man steigt ausschließlich durch eine unterirdische Grabkammer."
+      },
+      {
+        "id": "d",
+        "text": "Man geht vom höchsten Punkt hinunter zum pyramidenförmigen Sockel."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der buddhistische Tempel auf Java ist gestuft aufgebaut. Über der quadratischen Basis folgen runde Plattformen und die zentrale Stupa.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_anwenden"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Borobudur Temple Compounds",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:56+00:00",
+        "verified_claim": "Am Borobudur wechseln quadratische Terrassen weiter oben zu kreisförmigen Plattformen. Welche Beobachtung passt zu einem Gang aufwärts? Man verlässt die eckig angelegten Ebenen und gelangt zu runden. Der buddhistische Tempel auf Java ist gestuft aufgebaut. Über der quadratischen Basis folgen runde Plattformen und die zentrale Stupa.",
+        "locator": "whc/592, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:56+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-bali-bewaesserung",
+    "fact_key": "q3.h.bali.bewaesserung",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Auf Bali verbinden Kanäle und Wehre die Reisterrassen vieler Bauern. Weshalb braucht dieses historische Subak-System gemeinsame Entscheidungen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alle Felder liegen innerhalb desselben Hauses."
+      },
+      {
+        "id": "b",
+        "text": "Eine Änderung oberhalb beeinflusst die Wasserzufuhr tieferer Felder."
+      },
+      {
+        "id": "c",
+        "text": "Jedes Feld erhält sein Wasser ausschließlich aus einem abgeschlossenen Tank."
+      },
+      {
+        "id": "d",
+        "text": "Reis kann nur auf dem höchsten Feld wachsen."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das historische System organisiert die Bewässerung gemeinschaftlich. Wassertempel gehören zu diesem Netz.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Cultural Landscape of Bali Province: the <em>Subak</em> System as a Manifestation of the <em>Tri Hita Karana</em> Philosophy",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:56+00:00",
+        "verified_claim": "Auf Bali verbinden Kanäle und Wehre die Reisterrassen vieler Bauern. Weshalb braucht dieses historische Subak-System gemeinsame Entscheidungen? Eine Änderung oberhalb beeinflusst die Wasserzufuhr tieferer Felder. Das historische System organisiert die Bewässerung gemeinschaftlich. Wassertempel gehören zu diesem Netz.",
+        "locator": "whc/1194, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:56+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-schuschtar-muehlen",
+    "fact_key": "q3.h.schuschtar.muehlen",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "In Schuschtar leiteten Kanäle und Tunnel Flusswasser zu Mühlen. Welchen Nutzen hatte das fließende Wasser dort zusätzlich zur Versorgung der Stadt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Es konservierte Mühlsteine durch dauernden Frost."
+      },
+      {
+        "id": "b",
+        "text": "Es transportierte die Mühlen jedes Jahr an einen anderen Ort."
+      },
+      {
+        "id": "c",
+        "text": "Es konnte die Mühlen antreiben."
+      },
+      {
+        "id": "d",
+        "text": "Es ersetzte das Korn beim Mahlen."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das iranische Wassersystem leitete Wasser aus dem Karun um. Ein Teil des Systems ist bis heute in Gebrauch.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Shushtar Historical Hydraulic System",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:56+00:00",
+        "verified_claim": "In Schuschtar leiteten Kanäle und Tunnel Flusswasser zu Mühlen. Welchen Nutzen hatte das fließende Wasser dort zusätzlich zur Versorgung der Stadt? Es konnte die Mühlen antreiben. Das iranische Wassersystem leitete Wasser aus dem Karun um. Ein Teil des Systems ist bis heute in Gebrauch.",
+        "locator": "whc/1315, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:56+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "q3-h-lech-politis",
+    "fact_key": "q3.h.lech.politis",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Septimius Severus ließ die römische Stadt Leptis Magna besonders ausbauen. Welche biografische Verbindung erklärt sein persönliches Interesse?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er war dort als letzter byzantinischer Kaiser gestorben."
+      },
+      {
+        "id": "b",
+        "text": "Er hatte dort die Olympischen Spiele begründet."
+      },
+      {
+        "id": "c",
+        "text": "Er war dort zum ersten Papst gewählt worden."
+      },
+      {
+        "id": "d",
+        "text": "Er war dort geboren."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der aus Leptis Magna stammende römische Kaiser ließ seine Heimatstadt erweitern und verschönern.",
+    "tags": [
+      "thema_weltgeschichte",
+      "form_herleiten",
+      "tagesraetsel"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UNESCO Welterbezentrum · Einträge der Welterbeliste · Archaeological Site of Leptis Magna",
+        "url": "https://whc.unesco.org/en/list/xml/",
+        "checked_at": "2026-11-22T22:19:56+00:00",
+        "verified_claim": "Septimius Severus ließ die römische Stadt Leptis Magna besonders ausbauen. Welche biografische Verbindung erklärt sein persönliches Interesse? Er war dort geboren. Der aus Leptis Magna stammende römische Kaiser ließ seine Heimatstadt erweitern und verschönern.",
+        "locator": "whc/183, Textstelle 4",
+        "source_sha256": "77bcc8dfe4785052e7c569701c12ad539bc407fef17ef4d1ca3cddf25e5561b3"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:19:56+00:00"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Geschichte und Unterhaltung",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T22:26:06+00:00"
+      },
+      "approved_at": "2026-11-22T22:26:06+00:00",
+      "approved_by": "Codex · Redaktion Geschichte und Unterhaltung",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

@@ -1,4 +1,40 @@
-# Deutscher Fragenbestand · 0.2.0
+# Deutscher Fragenbestand · 0.3.0
+
+Der Katalog `de-d5a1d0585ed1` enthält **2.400 aktive Fragen**, doppelt so viele wie sein Vorgänger. 1.800 Sachverhaltskennungen sind neu. 600 Sachverhalte wurden übernommen, darunter alle 150 Referenzfragen. 600 frühere Abfragekarten sind aus der aktiven Auswahl entfernt. Wer sie bereits gespielt hat, behält Verlauf und Lernfortschritt. [Einzelvergleich mit der ausgelieferten 0.2.0](release/qa/modern-0.3.0/bestand.json) · [Austauschpaare](content/rotation/2026-11-v03/)
+
+## Welche Art von Wissen gefragt ist
+
+| Frageform | 0.2.0 | 0.3.0 | Anteil in 0.3.0 |
+| --- | ---: | ---: | ---: |
+| Wiedererkennen | 1.007 | 405 | 16,9 % |
+| Herleiten | 132 | 700 | 29,2 % |
+| Schätzen | 0 | 228 | 9,5 % |
+| Anwenden | 0 | 648 | 27,0 % |
+| Vergleichen | 45 | 275 | 11,5 % |
+| Zeitlich einordnen | 16 | 144 | 6,0 % |
+
+Die Form bezeichnet die hauptsächliche Aufgabe der Karte. Beim Schätzen wählt man die nächstliegende Größenordnung aus vier Möglichkeiten. Bei einer Hinweisfrage lassen sich Beobachtungen, Bedingungen oder Indizien kombinieren. Die Texte wurden für Quizsalon formuliert. Für die früheren 132 Herleitungen wurde jede Einstufung überprüft. Insgesamt bekamen 72 der übernommenen Karten einen neuen Fragesatz. [Sichtung der Herleitungen](release/qa/modern-0.3.0/alte-herleitungen.json) · [Weitere Überarbeitungen](release/qa/modern-0.3.0/ueberarbeitete-wissensabfragen.json)
+
+## Sechs gleich große Kategorien
+
+| Kategorie | Leicht | Mittel | Anspruchsvoll | Gesamt |
+| --- | ---: | ---: | ---: | ---: |
+| Natur und Tiere | 240 | 120 | 40 | 400 |
+| Länder und Reisen | 240 | 120 | 40 | 400 |
+| Alltag und Technik | 240 | 120 | 40 | 400 |
+| Geschichte und Entdeckungen | 240 | 120 | 40 | 400 |
+| Film, Musik und Fernsehen | 240 | 120 | 40 | 400 |
+| Sprache und Kultur | 240 | 120 | 40 | 400 |
+
+Jede Kategorie stellt ein Sechstel des Bestands. Leicht, mittel und anspruchsvoll sind redaktionelle Einstufungen. Die Verteilung entspricht 60, 30 und 10 Prozent. Die technische Prüfung vergleicht Sachverhaltskennungen, Fragetexte, Lösungszuordnungen und Revisionen. Ähnliche Formulierungen werden separat auf gemeinsame Wissensziele gesichtet. [Katalogmanifest](web/data/manifest.json) · [Sichtung ähnlicher Fragen](release/qa/modern-0.3.0/dublettenentscheidungen.json)
+
+## Was in einer Tagesrunde ankommt
+
+Jede neu begonnene Tagesrunde kombiniert eine Schätzfrage, zwei Hinweisfragen und sieben weitere Aufgaben. Höchstens zwei der zehn können reine Wissensabfragen sein. Für die beiden Hinweisplätze haben 241 einzeln ausgewählte Karten aus allen sechs Kategorien Vorrang. Beim längeren Spielen können weitere Herleitungen einen der Plätze einnehmen. Alle 2.400 Karten wurden sowohl in der Tagesauswahl als auch in Themenrunden nachgewiesen. Ein Beispiel für eine Schätzung ist die Masse der Luft in einem 50-Kubikmeter-Zimmer. Eine Hinweisfrage führt über das Feuer, die Stoffhülle und den Korb zur Funktionsweise des Pariser Ballons von 1783. In 1.000 Runden frischer Installationen und 365 aufeinanderfolgenden Tagen eines Spielstands wurden die Formvorgaben jedes Mal eingehalten. [Auswahlmessung](release/qa/modern-0.3.0/tagesrunden.json) · [Redaktionelle Tagesauswahl](specs/daily_clues.json)
+
+36 Karten greifen 36 Forschungsarbeiten oder Forschungsberichte der Jahre 2024 bis 2026 auf. Sie verteilen sich gleichmäßig über alle Kategorien. Die jüngste Originalarbeit erschien am 18. November 2026 und beschreibt die Verschmelzung des Sternpaars Bao. Beim Öffnen der Quelle entscheidet der Spieler selbst, ob er die App ins Netz verlässt. Das Spiel funktioniert offline. Die Quellen- und Textprüfungen sind als Agentenarbeit dokumentiert. Es liegen keine menschlichen Testergebnisse zur Schwierigkeit oder Beliebtheit dieser Ausgabe vor. [Forschungsquellen und Zeitfenster](content/research/README.md) · [Studie in Nature](https://doi.org/10.1038/s41586-026-11221-z)
+
+## Archiv · Ausgabe 0.2.0
 
 Der Katalog `de-03c46c2cd256` umfasst 1.200 aktive Fragen zu 1.200 Sachverhalten. 1.048 stammen aus der vorherigen Ausgabe, 152 sind neu. Alle 150 Referenzfragen haben ihre ursprüngliche ID und Bedeutung. Je Kategorie gelten weiter 120 leichte, 60 mittlere und 20 anspruchsvolle Fragen. Die Schwierigkeitsstufen sind redaktionelle Einschätzungen. [Manifest](web/data/manifest.json) · [Einzelvergleich mit der ausgelieferten Vorversion](release/qa/fragenpool/inhaltsabgleich.json)
 

@@ -12,7 +12,7 @@ const routes = {today:'heute',topics:'themen',knowledge:'wissen',settings:'einst
 const pages = {today:todayPage,quiz:quizPage,result:resultPage,topics:topicsPage,knowledge:knowledgePage,settings:settingsPage};
 let catalog, installation, state, route = 'today', sessionId = '', tab = 'album', filter = 'all';
 let modal = '', trigger, busy = false, lastDay = clock().day;
-const APP_VERSION = '0.2.0';
+const APP_VERSION = '0.3.0';
 const currentSession = () => state.sessions[sessionId];
 const fragment = (page, id = '') => '#' + routes[page] + (id ? '/' + encodeURIComponent(id) : '');
 function decodeRoute(hash) {

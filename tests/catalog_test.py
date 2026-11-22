@@ -95,6 +95,15 @@ class CatalogTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 compiler.verify_classification(dict(starter, tags=invalid))
 
+    def test_science_requires_a_real_source_and_a_publication_in_the_past(self):
+        source = starter["sources"][0]["id"]
+        record = dict(published_on="2025-01-03", publisher="Test", source_id=source)
+        question = dict(starter, tags=["form_schaetzen", "thema_technik"], research=record)
+        compiler.verify_classification(question)
+        for invalid in [dict(record, published_on="2100-01-01"), dict(record, source_id="missing")]:
+            with self.assertRaises(ValueError):
+                compiler.verify_classification(dict(question, research=invalid))
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -1,0 +1,418 @@
+{
+  "q3-e-toys-buzz-glaubt": {
+    "fingerprint": "fe91bc3c8a4af270453b358f88a42cea0a94cac5b9e979728b8570c032433af7",
+    "checked_at": "2026-11-22T21:47:07+00:00",
+    "sources": [
+      {
+        "key": "px-toy-story",
+        "title": "Pixar Animation Studios · toy-story",
+        "url": "https://www.pixar.com/toy-story",
+        "downloaded_at": "2026-11-22T21:20:02+00:00",
+        "sha256": "ad97674ddec5a9e37017d03f6aeeaa4088b96794d9f26d1d8eef0a9a3459f2d4",
+        "source_line": 96,
+        "source_line_sha256": "4498534de1713f96e8fa10916eca2f96511b0d068b7193f37d4eed160593ef04",
+        "anchor": "secret mission"
+      }
+    ]
+  },
+  "q3-e-woody-museum": {
+    "fingerprint": "ddc12af8bc623c40d38431941a40beffbac4e2ffda2e8074b49cddb7ddb3e9d6",
+    "checked_at": "2026-11-22T21:47:07+00:00",
+    "sources": [
+      {
+        "key": "px-toy-story-2",
+        "title": "Pixar Animation Studios · toy-story-2",
+        "url": "https://www.pixar.com/toy-story-2",
+        "downloaded_at": "2026-11-22T21:20:02+00:00",
+        "sha256": "84aa71f28524b3e949d1833a08fd5e10042332499958ca6bffba12ab8a50e4e1",
+        "source_line": 89,
+        "source_line_sha256": "74b13a0584f2cffbffd651404b47de9c29f3a322bcf7bc7a66592fc9151488c8",
+        "anchor": "retire to a museum"
+      }
+    ]
+  },
+  "q3-e-ameise-manegenprofis": {
+    "fingerprint": "4ae3b3ee08cad37b608b56ad297d078bd5ad38c71bde6cb20f735877cd6da338",
+    "checked_at": "2026-11-22T21:47:07+00:00",
+    "sources": [
+      {
+        "key": "px-a-bugs-life",
+        "title": "Pixar Animation Studios · a-bugs-life",
+        "url": "https://www.pixar.com/a-bugs-life",
+        "downloaded_at": "2026-11-22T21:20:02+00:00",
+        "sha256": "575546276e48d4925aa90f326736d45690d02e9369608043de32f4a1c9fb7d16",
+        "source_line": 83,
+        "source_line_sha256": "1f09efd8e44c8298330baaaa3b412d8f640704eaa5b57538043629907692a386",
+        "anchor": "circus troupe"
+      }
+    ]
+  },
+  "q3-e-monster-lachen": {
+    "fingerprint": "bc88e70de27e42e917f59bdc0d0873583edd4c0f6259b28817df2d5ba74cb7ec",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-monsters-inc",
+        "title": "Pixar Animation Studios · monsters-inc",
+        "url": "https://www.pixar.com/monsters-inc",
+        "downloaded_at": "2026-11-22T21:20:02+00:00",
+        "sha256": "d649c4c4afc9ba2dc80959aea7b327ed1a57b8aa56511c95e0fc6613db9fd5e4",
+        "source_line": 92,
+        "source_line_sha256": "494d3c926d4a77192cda2a82d0c87ae6ba03a12f5a2ed1d3140e02140be528ae",
+        "anchor": "love and laughter"
+      }
+    ]
+  },
+  "q3-e-bob-versicherung": {
+    "fingerprint": "9bf2c3a5d508c73f8e8b884d5b30474509e06cdd54b486f4af81271833dd2d01",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-the-incredibles",
+        "title": "Pixar Animation Studios · the-incredibles",
+        "url": "https://www.pixar.com/the-incredibles",
+        "downloaded_at": "2026-11-22T21:20:02+00:00",
+        "sha256": "bf2e8706b4fbbea1455d391c2a837c669bc6256389611c2d789a8b8b7c10bb91",
+        "source_line": 89,
+        "source_line_sha256": "abebb1157ef7d065d3476379ee8ca2e1e0dbf6f0880028b251dbd80eb36fefc8",
+        "anchor": "claims adjuster"
+      }
+    ]
+  },
+  "q3-e-cars-umweg": {
+    "fingerprint": "99de01135cb005378aa63666595151d128e3ea7763d663139476308e9a0a920e",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-cars",
+        "title": "Pixar Animation Studios · cars",
+        "url": "https://www.pixar.com/cars",
+        "downloaded_at": "2026-11-22T21:20:02+00:00",
+        "sha256": "79c10a345d84f2108dcf94e7ee5c252944c90e33533b0c4b21c84f68554107e2",
+        "source_line": 83,
+        "source_line_sha256": "b2d1ff2df016715fa41fc2d97503c16fd8850a20eb519c32fac7cd5c1b1a1f11",
+        "anchor": "dusty Route 66"
+      }
+    ]
+  },
+  "q3-e-ratte-berufung": {
+    "fingerprint": "dee562dad45225db8060609c06547559d5e70d2d9fa1a099a973d8871f05a842",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-ratatouille",
+        "title": "Pixar Animation Studios · ratatouille",
+        "url": "https://www.pixar.com/ratatouille",
+        "downloaded_at": "2026-11-22T21:20:03+00:00",
+        "sha256": "6d2f3f0c2afc15238d872663d558a51500dcdff3831f7f2b9a9d60d740a133d4",
+        "source_line": 89,
+        "source_line_sha256": "c320c2b62b8409de5b238e495d07f8296394712b6e1b453ef89db55ccb1cad9a",
+        "anchor": "genius for combining flavors"
+      }
+    ]
+  },
+  "q3-e-ratte-ghostcook": {
+    "fingerprint": "8c39b7e227c711f76f976bb387d70bf9197832f842e065238be57fdf9e38a165",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-ratatouille",
+        "title": "Pixar Animation Studios · ratatouille",
+        "url": "https://www.pixar.com/ratatouille",
+        "downloaded_at": "2026-11-22T21:20:03+00:00",
+        "sha256": "6d2f3f0c2afc15238d872663d558a51500dcdff3831f7f2b9a9d60d740a133d4",
+        "source_line": 101,
+        "source_line_sha256": "e53bdda88bdced48d8eb1b8a2fa6b18c06a57f36fac835bb795733eb277f9291",
+        "anchor": "ghost-cooking"
+      }
+    ]
+  },
+  "q3-e-walle-aufgabe": {
+    "fingerprint": "4a14d2d2d3c4da0f28b506835ad660efc8f2e8d0ba308dbde70662f401ac4fb8",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-wall-e",
+        "title": "Pixar Animation Studios · wall-e",
+        "url": "https://www.pixar.com/wall-e",
+        "downloaded_at": "2026-11-22T21:20:03+00:00",
+        "sha256": "2d0645f9a37a61a27e137a9ed10559fef6c8405a66853869eca999b19ff0cc47",
+        "source_line": 90,
+        "source_line_sha256": "5a71b95ef5fbb961a80bdcc97b82f29726ef1b4e8ed1c1d24552a45e4bcb627a",
+        "anchor": "one trash cube at a time"
+      }
+    ]
+  },
+  "q3-e-walle-jahrhunderte": {
+    "fingerprint": "1ce8a316c28c2f02d1aa184d7877042c4c41dcad2c38564fc4de051b3a5d47e3",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-wall-e",
+        "title": "Pixar Animation Studios · wall-e",
+        "url": "https://www.pixar.com/wall-e",
+        "downloaded_at": "2026-11-22T21:20:03+00:00",
+        "sha256": "2d0645f9a37a61a27e137a9ed10559fef6c8405a66853869eca999b19ff0cc47",
+        "source_line": 90,
+        "source_line_sha256": "5a71b95ef5fbb961a80bdcc97b82f29726ef1b4e8ed1c1d24552a45e4bcb627a",
+        "anchor": "after 700 years"
+      }
+    ]
+  },
+  "q3-e-oben-generationen": {
+    "fingerprint": "1aacced79c3b57c799f2ce0efc92b412810e09572213e37c9ebabca0b39acb86",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-upfilm",
+        "title": "Pixar Animation Studios · upfilm",
+        "url": "https://www.pixar.com/upfilm",
+        "downloaded_at": "2026-11-22T21:20:03+00:00",
+        "sha256": "777407da0f3caac15e7cde7038539f6aa20c5c5ffb666d2ceebe440104814e1d",
+        "source_line": 83,
+        "source_line_sha256": "89a6995db9df103993779e40fd40799445280dd89c126f22f427bf5a962dc60a",
+        "anchor": "8-year-old stowaway"
+      }
+    ]
+  },
+  "q3-e-oben-hund": {
+    "fingerprint": "8c19d99549b6056ed477cd0162e250cc9cac26ce4fe4b33f1e8f8cdc56cf46a0",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-upfilm",
+        "title": "Pixar Animation Studios · upfilm",
+        "url": "https://www.pixar.com/upfilm",
+        "downloaded_at": "2026-11-22T21:20:03+00:00",
+        "sha256": "777407da0f3caac15e7cde7038539f6aa20c5c5ffb666d2ceebe440104814e1d",
+        "source_line": 102,
+        "source_line_sha256": "eaa6833f2996bce391615f55592ddddb88fdd20df713326070835ef10e7de019",
+        "anchor": "translates his thoughts into speech"
+      }
+    ]
+  },
+  "q3-e-spielzeug-college": {
+    "fingerprint": "d0690fa124747e0e57c01f263a9a2f50b7ca2fd22ab5718714596d78cf9157eb",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-toy-story-3",
+        "title": "Pixar Animation Studios · toy-story-3",
+        "url": "https://www.pixar.com/toy-story-3",
+        "downloaded_at": "2026-11-22T21:20:03+00:00",
+        "sha256": "bfa6d781ce382bb43dd1c5080748176b3258a3d2ffc12f811f39f259eae69699",
+        "source_line": 83,
+        "source_line_sha256": "12161d9e1c3d8d99de95ee03714c65af0a7748f8c307b2ce52ea592ba7b2d6b4",
+        "anchor": "depart for college"
+      }
+    ]
+  },
+  "q3-e-merida-baer": {
+    "fingerprint": "64f5780c9d184879644e6b396a42a8c3649d39b7a1f37946772869c600c194ef",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-brave",
+        "title": "Pixar Animation Studios · brave",
+        "url": "https://www.pixar.com/brave",
+        "downloaded_at": "2026-11-22T21:20:03+00:00",
+        "sha256": "ef83de35512b7fe1295c02406c3ea5c800f660b78bfd56edd682a2ffdc59e6c6",
+        "source_line": 89,
+        "source_line_sha256": "6b2d9b57177e2b69fd307daff334ea8bb18b8ed907a440c9f474cdb28e3b07fc",
+        "anchor": "transformed into a bear"
+      }
+    ]
+  },
+  "q3-e-monster-vorgeschichte": {
+    "fingerprint": "0dffb739a258b02642b13fd6e0ef830e7e92811ed7073aef2694a1128cb32732",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-monsters-university",
+        "title": "Pixar Animation Studios · monsters-university",
+        "url": "https://www.pixar.com/monsters-university",
+        "downloaded_at": "2026-11-22T21:20:03+00:00",
+        "sha256": "4dd0b40191a07fdc3792eaea536370b6266de226ecadd1ba5f57630135a3dd37",
+        "source_line": 83,
+        "source_line_sha256": "1a1e981183b56b610c87c969e56330de9de96cda25596a9d163c8309d0f02138",
+        "anchor": "overcame their differences"
+      }
+    ]
+  },
+  "q3-e-dorie-gedaechtnis": {
+    "fingerprint": "04fa93b2cc0103900fb33022ffbd49b129de4988720e1238f70c37c0d5da1151",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-finding-dory",
+        "title": "Pixar Animation Studios · finding-dory",
+        "url": "https://www.pixar.com/finding-dory",
+        "downloaded_at": "2026-11-22T21:20:04+00:00",
+        "sha256": "ea104ef65d0dfcb7b6106d5bb5e6de08419ff493f600c02a6de35235f1407dfb",
+        "source_line": 90,
+        "source_line_sha256": "62faaa85c15dc2ff79b026c2f263b04ac3f2b72f94c23b9dfc5b66ac0c6b903e",
+        "anchor": "short-term memory loss"
+      }
+    ]
+  },
+  "q3-e-coco-gedenktisch": {
+    "fingerprint": "536e3b8988db4da8dc6d8c4c84008f067ef82d23a2d6c098b592e4cb64a00e51",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-coco",
+        "title": "Pixar Animation Studios · coco",
+        "url": "https://www.pixar.com/coco",
+        "downloaded_at": "2026-11-22T21:20:04+00:00",
+        "sha256": "ea8b7b5c043208f0941b86899632c7bb9060258ea09ea59ae8673ae94e5e64a4",
+        "source_line": 97,
+        "source_line_sha256": "6940983f7948a329fb90c6aa61ba56112e7abbfa385803081df51b8f63a9b70c",
+        "anchor": "photo up on an Ofrenda"
+      }
+    ]
+  },
+  "q3-e-soul-spreizung": {
+    "fingerprint": "1018011fc3093728fa2191960a240057c28b558f86719e0ed8d02eb31d4be97e",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-soul",
+        "title": "Pixar Animation Studios · soul",
+        "url": "https://www.pixar.com/soul",
+        "downloaded_at": "2026-11-22T21:20:04+00:00",
+        "sha256": "88930dad45e7aa848f3b7c30da07d8c43bb617d4a498efb6c72fad02de007f1b",
+        "source_line": 83,
+        "source_line_sha256": "effc056b235570d431ac3623da6ecbfa635ee35c63206a2a20bb22a19f1ac031",
+        "anchor": "professional jazz pianist"
+      }
+    ]
+  },
+  "q3-e-elemental-paar": {
+    "fingerprint": "a78ebd2abc0065fb83754d002e8cf7d3abcd96c56b46fc0dc8c16c7066e2a86a",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-elemental",
+        "title": "Pixar Animation Studios · elemental",
+        "url": "https://www.pixar.com/elemental",
+        "downloaded_at": "2026-11-22T21:20:04+00:00",
+        "sha256": "490ff4c7fb7bf73d9700247e76d93675b9d96fdbf48afd432060dfe4198427ae",
+        "source_line": 152,
+        "source_line_sha256": "605ef99716d32ab72184506a7d5a6f126927ec0247967fa6efc1968e67c4a718",
+        "anchor": "Water element"
+      }
+    ]
+  },
+  "q3-e-luca-zwei-welten": {
+    "fingerprint": "a0660953fbf915311bcc272025a87da2982c3f86e98aa5fd1c59b00f49af45db",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-luca",
+        "title": "Pixar Animation Studios · luca",
+        "url": "https://www.pixar.com/luca",
+        "downloaded_at": "2026-11-22T21:20:04+00:00",
+        "sha256": "5a85ab12da4df4f0c3854be8e4c913c6c82e841bf0d81f0df36386ebe21e7d25",
+        "source_line": 84,
+        "source_line_sha256": "e58801c6b1cb7a2e2677bb433f704bef9b4cb457e47426a156070dddb48bea7f",
+        "anchor": "below the water’s surface"
+      }
+    ]
+  },
+  "q3-e-rot-gefuehl": {
+    "fingerprint": "116cfab14455e5859bc08fb1230d08240691078eecb2d8de1aa79b2ae2abfbd9",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-turning-red",
+        "title": "Pixar Animation Studios · turning-red",
+        "url": "https://www.pixar.com/turning-red",
+        "downloaded_at": "2026-11-22T21:20:05+00:00",
+        "sha256": "6d0124b3e84b67ec9e852876531222b5c55b27a03f62aa7d8fb4cab1c1e3f178",
+        "source_line": 95,
+        "source_line_sha256": "ba939c9e40e1b01fd03b63700df592d920a960f9d6971cb588040f5e75e59265",
+        "anchor": "Red Panda Mei"
+      }
+    ]
+  },
+  "q3-e-arlo-asteroid": {
+    "fingerprint": "4d2e1c08e4b870d3ee5049b442bcf326524b3a62494d546b3a44945ffefecbd6",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-the-good-dinosaur",
+        "title": "Pixar Animation Studios · the-good-dinosaur",
+        "url": "https://www.pixar.com/the-good-dinosaur",
+        "downloaded_at": "2026-11-22T21:20:06+00:00",
+        "sha256": "f0fee7a6969762b39090f7e8e8813a4c668adbaada0859b4e678adcb4e92c45f",
+        "source_line": 83,
+        "source_line_sha256": "8df1b812d17e75a5f5457256c232f291aeee77f33fe4ae85cf1ff5d6c03fd2a3",
+        "anchor": "asteroid"
+      }
+    ]
+  },
+  "q3-e-riley-zweifel": {
+    "fingerprint": "c973c1ebd60e7eba0ae81cc069e3ee26751734858bc09e38ee3ce05634eafe2c",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-inside-out-2",
+        "title": "Pixar Animation Studios · inside-out-2",
+        "url": "https://www.pixar.com/inside-out-2",
+        "downloaded_at": "2026-11-22T21:20:06+00:00",
+        "sha256": "c68a66fdca79b55bdc4c134f07fb9bded6475270c1ed9ba630ca76f23de305f7",
+        "source_line": 96,
+        "source_line_sha256": "49aad772f3baf05d9ecf4c227cf5cbe301b2ac0b4cf8421cb325c2a7802330f4",
+        "anchor": "prepared for every possible negative outcome"
+      }
+    ]
+  },
+  "q3-e-cars-generation": {
+    "fingerprint": "97cd571d8a03dd494b82b44e89c6955b0795e06e1c6483d30cd2988960783e7b",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-cars-3",
+        "title": "Pixar Animation Studios · cars-3",
+        "url": "https://www.pixar.com/cars-3",
+        "downloaded_at": "2026-11-22T21:20:06+00:00",
+        "sha256": "f6e46e4ea4bca95365718cae82dabff47a7f8a22531eb908ff811ee2d0ec4d71",
+        "source_line": 90,
+        "source_line_sha256": "cf40f76e171de80590b0d500895d25ecd1567b369fb081359c36d798364dc789",
+        "anchor": "new generation"
+      }
+    ]
+  },
+  "q3-e-superfamilie-wechsel": {
+    "fingerprint": "48a7e46b1ce31fef75fdd6c00ac88ad43532d6642e6d7c6e8eeefce9969026ef",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-incredibles-2",
+        "title": "Pixar Animation Studios · incredibles-2",
+        "url": "https://www.pixar.com/incredibles-2",
+        "downloaded_at": "2026-11-22T21:20:06+00:00",
+        "sha256": "92a00364a1a6114e6313a9871e9a648b46c2bcc1f77139a04f2b7017d73ae28f",
+        "source_line": 96,
+        "source_line_sha256": "846f89dadec0100887d300f2cf6bac795e518ec74a26c6f58ff02d55ec68714a",
+        "anchor": "Bob must manage the household"
+      }
+    ]
+  },
+  "q3-e-forky-besteck": {
+    "fingerprint": "a1482db1e89addccea87f8d88233bd86f53cef30ecf60a20c5a13cf4acfe9dca",
+    "checked_at": "2026-11-22T21:47:08+00:00",
+    "sources": [
+      {
+        "key": "px-toy-story-4",
+        "title": "Pixar Animation Studios · toy-story-4",
+        "url": "https://www.pixar.com/toy-story-4",
+        "downloaded_at": "2026-11-22T21:20:06+00:00",
+        "sha256": "915bd48fdf97673c640090f37832eb646021343955cfc93095624beebf9733d8",
+        "source_line": 102,
+        "source_line_sha256": "2b3d93bb4944c99bdffcd92897c7201bf7fd5c4ef4bab0bd367ba989e1de1398",
+        "anchor": "spork-turned-craft-project"
+      }
+    ]
+  }
+}
