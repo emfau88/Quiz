@@ -1,0 +1,26 @@
+{
+  "at": "2026-11-22T18:56:18.763060+00:00",
+  "catalog": "de-03c46c2cd256",
+  "runs": {
+    "Regeln": {
+      "command": "node --test tests/engine.test.mjs",
+      "exit_code": 0,
+      "output": "TAP version 13\n# Subtest: ten saved snapshots, stable shuffle, distinct facts, reproducible daily selection\nok 1 - ten saved snapshots, stable shuffle, distinct facts, reproducible daily selection\n  ---\n  duration_ms: 81.7633\n  type: 'test'\n  ...\n# Subtest: answer persists once; duplicate, stale and premature events cannot advance the round\nok 2 - answer persists once; duplicate, stale and premature events cannot advance the round\n  ---\n  duration_ms: 18.1425\n  type: 'test'\n  ...\n# Subtest: 7 of 10 awards 90 XP and silver exactly once, fixed virtual opponents and ties\nok 3 - 7 of 10 awards 90 XP and silver exactly once, fixed virtual opponents and ties\n  ---\n  duration_ms: 10.7352\n  type: 'test'\n  ...\n# Subtest: valid denominator, percentage thresholds and minimum eight for medals\nok 4 - valid denominator, percentage thresholds and minimum eight for medals\n  ---\n  duration_ms: 0.6155\n  type: 'test'\n  ...\n# Subtest: distinct original day, midnight and clock correction, open sessions reserve all facts\nok 5 - distinct original day, midnight and clock correction, open sessions reserve all facts\n  ---\n  duration_ms: 212.7686\n  type: 'test'\n  ...\n# Subtest: week goal spans four days and Monday boundary follows original day even when finished late\nok 6 - week goal spans four days and Monday boundary follows original day even when finished late\n  ---\n  duration_ms: 51.0663\n  type: 'test'\n  ...\n# Subtest: one atomic trial per category, pause/resume, surrender and paid modes\nok 7 - one atomic trial per category, pause/resume, surrender and paid modes\n  ---\n  duration_ms: 36.8043\n  type: 'test'\n  ...\n# Subtest: pool shortage never consumes trial; expiring and reserved questions excluded\nok 8 - pool shortage never consumes trial; expiring and reserved questions excluded\n  ---\n  duration_ms: 1.7273\n  type: 'test'\n  ...\n# Subtest: due cap and seven-day fallback, no duplicate fact or identifier\nok 9 - due cap and seven-day fallback, no duplicate fact or identifier\n  ---\n  duration_ms: 2.3907\n  type: 'test'\n  ...\n# Subtest: spaced recall, durable mastery, repeated mistake, first/repeat stats and precise due dates\nok 10 - spaced recall, durable mastery, repeated mistake, first/repeat stats and precise due dates\n  ---\n  duration_ms: 1.0536\n  type: 'test'\n  ...\n# Subtest: withdrawals void active answers; frozen results and historical badges survive; album explains corrections\nok 11 - withdrawals void active answers; frozen results and historical badges survive; album explains corrections\n  ---\n  duration_ms: 4.2082\n  type: 'test'\n  ...\n# Subtest: a new semantic revision starts its own history; typographic revision keeps prior progress\nok 12 - a new semantic revision starts its own history; typographic revision keeps prior progress\n  ---\n  duration_ms: 0.3437\n  type: 'test'\n  ...\n# Subtest: ordinary archival preserves the open snapshot, album, learning statistics and exactly one daily award\nok 13 - ordinary archival preserves the open snapshot, album, learning statistics and exactly one daily award\n  ---\n  duration_ms: 46.4652\n  type: 'test'\n  ...\n# Subtest: small subtopic pools relax diversity while preserving difficulty, overdue order and reservations\nok 14 - small subtopic pools relax diversity while preserving difficulty, overdue order and reservations\n  ---\n  duration_ms: 3.1829\n  type: 'test'\n  ...\n# Subtest: experience thresholds and persisted v1 migrate without losing the current session\nok 15 - experience thresholds and persisted v1 migrate without losing the current session\n  ---\n  duration_ms: 34.7178\n  type: 'test'\n  ...\n1..15\n# tests 15\n# suites 0\n# pass 15\n# fail 0\n# cancelled 0\n# skipped 0\n# todo 0\n# duration_ms 1954.8198"
+    },
+    "Katalog": {
+      "command": "python -X utf8 tests/catalog_test.py",
+      "exit_code": 0,
+      "output": "........\n----------------------------------------------------------------------\nRan 8 tests in 0.110s\n\nOK"
+    },
+    "Ressort_Natur_Reisen_Alltag": {
+      "command": "python -X utf8 tools/science_verify.py",
+      "exit_code": 0,
+      "output": "Ausgangsfassung: 600 Fragen, 306 Quellen-URLs, 112 GeoNames- und 488 Webbelege, 109 frühere zweite Inhaltsrevisionen.\nNovember-Rotation: 72 Archivierungen und neue Karten. 40 Reise- und 12 Naturkarten mit einzelnem zweitem Quellenabgleich, 20 Alltagskarten mit Austauschliste.\n600 aktive Fragen, 75 Referenzen, 12 Starter. Je Kategorie 120/60/20, in der Referenz 15/7/3. 0 menschliche Beobachtungen."
+    },
+    "Historische_Kulturquellen": {
+      "command": "python -X utf8 tools/culture_audit.py",
+      "exit_code": 0,
+      "output": "Ausgangsversion de-7363fcba52a1: 600 Ressortkarten, 1200 Katalogfragen und 8 dokumentierte Wortähnlichkeiten bestätigt."
+    }
+  }
+}

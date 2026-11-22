@@ -1,0 +1,972 @@
+[
+  {
+    "frage": "qs-donau-schwarzmeer-delta",
+    "ersetzt": "qs-de-hauptstadt",
+    "ausgangsreihe": "hauptstadt",
+    "redaktionspaket": "Landschaften und Gewässer",
+    "schwierigkeit": "easy",
+    "unterthema": "gewaesser",
+    "frageform": "wiedererkennen",
+    "quelle": "https://whc.unesco.org/en/list/588/",
+    "erstabruf": "2026-11-22T18:24:42.309Z",
+    "belegstellen": [
+      "L6"
+    ],
+    "beleg_sha256": "92c2bf646ee68570669c073af8fb058d09ad90a87bca0945cd656e58e70deadd",
+    "sachpruefung": "2026-11-22T18:31:02.711Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:37.162Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L6"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Schwarzes Meer als Mündung und nicht als Nebenmeer abgefragt. Vier Gewässernamen passen grammatisch."
+  },
+  {
+    "frage": "qs-watt-niedrigwasser-flaeche",
+    "ersetzt": "qs-at-hauptstadt",
+    "ausgangsreihe": "hauptstadt",
+    "redaktionspaket": "Landschaften und Gewässer",
+    "schwierigkeit": "easy",
+    "unterthema": "landschaften",
+    "frageform": "herleiten",
+    "quelle": "https://whc.unesco.org/en/list/1314/",
+    "erstabruf": "2026-11-22T18:24:42.280Z",
+    "belegstellen": [
+      "L4"
+    ],
+    "beleg_sha256": "a7208cb0cf987403f9eaea1af99d1e17adb59971a8a89fbcface88d4a3a6d2dc",
+    "sachpruefung": "2026-11-22T18:36:03.960Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:38.443Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L4"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Der Wortlaut beschreibt die tatsächlich trockenfallende Fläche. Salzwiese und Steilküste sind benachbarte, andere Küstenformen."
+  },
+  {
+    "frage": "qs-jasmund-weisse-kreide",
+    "ersetzt": "qs-dk-hauptstadt",
+    "ausgangsreihe": "hauptstadt",
+    "redaktionspaket": "Landschaften und Gewässer",
+    "schwierigkeit": "easy",
+    "unterthema": "landschaften",
+    "frageform": "wiedererkennen",
+    "quelle": "https://nationale-naturlandschaften.de/natur-erleben/gebiete/nationalparke/nationalpark-jasmund/",
+    "erstabruf": "2026-11-22T18:26:10.196Z",
+    "belegstellen": [
+      "L28",
+      "L38"
+    ],
+    "beleg_sha256": "861b4237fb70e2abbc484b51dca7863af418441254301f4f093a3e60acace427",
+    "sachpruefung": "2026-11-22T18:36:03.963Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:35.340Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L28",
+      "L38"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Kreide als Material der Jasmunder Kliffs bestätigt. Der Zusatz zu abrutschenden Schollen ist in der Parkbeschreibung belegt."
+  },
+  {
+    "frage": "qs-spreewald-fliesse",
+    "ersetzt": "qs-fi-hauptstadt",
+    "ausgangsreihe": "hauptstadt",
+    "redaktionspaket": "Landschaften und Gewässer",
+    "schwierigkeit": "easy",
+    "unterthema": "gewaesser",
+    "frageform": "wiedererkennen",
+    "quelle": "https://www.spreewald-biosphaerenreservat.de/biosphaerenreservat/natur-landschaft/lebensraum-gewaesser/",
+    "erstabruf": "2026-11-22T18:25:50.641Z",
+    "belegstellen": [
+      "L69",
+      "L80"
+    ],
+    "beleg_sha256": "533f42fcb5b7015bb1ac905024dbda29264c1936de3967e07ed8858e83bceb60",
+    "sachpruefung": "2026-11-22T18:31:02.713Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:37.508Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L69",
+      "L80"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Die lokale Bedeutung von „Fließ“ ist weiter als „künstlicher Kanal“. Die richtige Antwort schließt natürliche und veränderte Wasserläufe ein."
+  },
+  {
+    "frage": "qs-eifel-maar-trichter",
+    "ersetzt": "qs-ar-hauptstadt",
+    "ausgangsreihe": "hauptstadt",
+    "redaktionspaket": "Landschaften und Gewässer",
+    "schwierigkeit": "medium",
+    "unterthema": "landschaften",
+    "frageform": "herleiten",
+    "quelle": "https://www.geopark-vulkaneifel.de/eifel/landschaft/maare-und-kraterseen/die-maare-der-vulkaneifel?format=html",
+    "erstabruf": "2026-11-22T18:25:55.401Z",
+    "belegstellen": [
+      "L48",
+      "L49"
+    ],
+    "beleg_sha256": "d5a77e09b69573e3afadb7ef18909557b5c299c57e96c8bae678c366dc542146",
+    "sachpruefung": "2026-11-22T18:36:03.963Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:36.752Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L48",
+      "L49"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Erfragt wird die Bildung des Maartrichters. Die spätere Füllung mit Wasser ist davon zeitlich getrennt."
+  },
+  {
+    "frage": "qs-lilienstein-elbdurchbruch",
+    "ersetzt": "qs-no-hauptstadt",
+    "ausgangsreihe": "hauptstadt",
+    "redaktionspaket": "Landschaften und Gewässer",
+    "schwierigkeit": "easy",
+    "unterthema": "gewaesser",
+    "frageform": "wiedererkennen",
+    "quelle": "https://nationale-naturlandschaften.de/natur-erleben/gebiete/nationalparke/nationalpark-saechsische-schweiz/",
+    "erstabruf": "2026-11-22T18:25:54.314Z",
+    "belegstellen": [
+      "L28"
+    ],
+    "beleg_sha256": "36373a8c47025520de05c25d9e5d53d278be872c818ea4d0da5732f4f0a83e90",
+    "sachpruefung": "2026-11-22T18:36:03.963Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:34.699Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L28"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Die zusätzliche Annahme einer bestimmten Fährverbindung entfiel. Der Flussbogen am Lilienstein steht im Nationalparkporträt."
+  },
+  {
+    "frage": "qs-seerhein-obersee-untersee",
+    "ersetzt": "qs-hr-hauptstadt",
+    "ausgangsreihe": "hauptstadt",
+    "redaktionspaket": "Landschaften und Gewässer",
+    "schwierigkeit": "medium",
+    "unterthema": "gewaesser",
+    "frageform": "wiedererkennen",
+    "quelle": "https://www.euregio-bodensee.ch/untersee-und-seerhein",
+    "erstabruf": "2026-11-22T18:29:26.106Z",
+    "belegstellen": [
+      "L18",
+      "L20"
+    ],
+    "beleg_sha256": "236a8fc818195ea3956ef0aae077dfc22d007473d46e1dbcab7f14c172c4d5dd",
+    "sachpruefung": "2026-11-22T18:31:02.714Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:37.643Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L18",
+      "L20"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Seerhein, Alpenrhein, Hochrhein und Oberrhein sind verschiedene Benennungen. Die Antwort gilt für das Zwischenstück bei Konstanz."
+  },
+  {
+    "frage": "qs-aletsch-konkordiaplatz-eis",
+    "ersetzt": "qs-si-hauptstadt",
+    "ausgangsreihe": "hauptstadt",
+    "redaktionspaket": "Landschaften und Gewässer",
+    "schwierigkeit": "hard",
+    "unterthema": "landschaften",
+    "frageform": "herleiten",
+    "quelle": "https://jungfraualetsch.ch/wp-content/uploads/2023/12/unesco_faltbroschure_aletsch_juli_2023_small.pdf",
+    "erstabruf": "2026-11-22T18:28:30.700Z",
+    "belegstellen": [
+      "L8@P0",
+      "L7@P0",
+      "L9@P0"
+    ],
+    "beleg_sha256": "7511599555718cd2b5cf523a04204e19206633664c75b15046572802a4a225a3",
+    "sachpruefung": "2026-11-22T18:36:03.963Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:35.363Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L8@P0",
+      "L7@P0",
+      "L9@P0"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Alle Antworten benennen mehrere zusammentreffende Gebilde. Die Quelle erklärt das Zusammentreffen der Firnströme und die Mittelmoränen."
+  },
+  {
+    "frage": "qs-skocjan-reka-karst",
+    "ersetzt": "qs-se-hauptstadt",
+    "ausgangsreihe": "hauptstadt",
+    "redaktionspaket": "Landschaften und Gewässer",
+    "schwierigkeit": "easy",
+    "unterthema": "gewaesser",
+    "frageform": "herleiten",
+    "quelle": "https://whc.unesco.org/en/list/390/",
+    "erstabruf": "2026-11-22T18:24:43.537Z",
+    "belegstellen": [
+      "L48",
+      "L49"
+    ],
+    "beleg_sha256": "45c438c06656542038b48807ae86e2d896af785dd298a926342c0b159085581e",
+    "sachpruefung": "2026-11-22T18:31:02.714Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:35.673Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L48",
+      "L49"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Der Ortsbezug schränkt den Weg der Reka auf Škocjan ein. Kalkuntergrund, Schlucht und weiterer unterirdischer Verlauf sind belegt."
+  },
+  {
+    "frage": "qs-halong-kalktuerme",
+    "ersetzt": "qs-hu-hauptstadt",
+    "ausgangsreihe": "hauptstadt",
+    "redaktionspaket": "Landschaften und Gewässer",
+    "schwierigkeit": "easy",
+    "unterthema": "landschaften",
+    "frageform": "wiedererkennen",
+    "quelle": "https://whc.unesco.org/en/list/672/",
+    "erstabruf": "2026-11-22T18:24:43.613Z",
+    "belegstellen": [
+      "L36",
+      "L4",
+      "L38"
+    ],
+    "beleg_sha256": "372007d9e7662628644375536f34dd2fd46446f015fea5d7c64d03c5d9b76a26",
+    "sachpruefung": "2026-11-22T18:36:03.963Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:35.264Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L36",
+      "L4",
+      "L38"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Die Antwort beschreibt die charakteristischen Kalkinseln. Die übrigen Beschreibungen gehören zu anderen Landschaftsformen."
+  },
+  {
+    "frage": "qs-baikal-tiefster-see",
+    "ersetzt": "qs-ie-hauptstadt",
+    "ausgangsreihe": "hauptstadt",
+    "redaktionspaket": "Landschaften und Gewässer",
+    "schwierigkeit": "easy",
+    "unterthema": "gewaesser",
+    "frageform": "vergleichen",
+    "quelle": "https://whc.unesco.org/en/list/754/",
+    "erstabruf": "2026-11-22T18:24:42.099Z",
+    "belegstellen": [
+      "L5"
+    ],
+    "beleg_sha256": "90775a39487d05f0b517c949dc78b18d06c6e75aac73e0eba624fd3fdc5ca60f",
+    "sachpruefung": "2026-11-22T18:36:03.963Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:36.780Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L5"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Der Vergleich umfasst die vier genannten Seen. Die Tiefenangabe in der Erklärung bezieht sich ausdrücklich auf die tiefste Stelle."
+  },
+  {
+    "frage": "qs-namib-nebel-wasser",
+    "ersetzt": "qs-ee-hauptstadt",
+    "ausgangsreihe": "hauptstadt",
+    "redaktionspaket": "Landschaften und Gewässer",
+    "schwierigkeit": "medium",
+    "unterthema": "landschaften",
+    "frageform": "herleiten",
+    "quelle": "https://whc.unesco.org/en/list/1430/",
+    "erstabruf": "2026-11-22T18:24:41.397Z",
+    "belegstellen": [
+      "L5",
+      "L4"
+    ],
+    "beleg_sha256": "d6df9431fd77d1b72c5ece319e8b24bb47cdc364efc69a4dcd92e7570af6eed2",
+    "sachpruefung": "2026-11-22T18:36:03.964Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:35.897Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L5",
+      "L4"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Bezugsraum sind die Küstendünen der Namib. Die Frage verallgemeinert die Rolle des Nebels nicht auf alle Wüsten."
+  },
+  {
+    "frage": "qs-aetna-sizilien-ostkueste",
+    "ersetzt": "qs-de-dk-landgrenze",
+    "ausgangsreihe": "landgrenze",
+    "redaktionspaket": "Landschaften und Gewässer",
+    "schwierigkeit": "easy",
+    "unterthema": "landschaften",
+    "frageform": "wiedererkennen",
+    "quelle": "https://whc.unesco.org/en/list/1427/",
+    "erstabruf": "2026-11-22T18:24:43.987Z",
+    "belegstellen": [
+      "L4",
+      "L5"
+    ],
+    "beleg_sha256": "9717561c0e48f871ad34701636b3d46ce39b24ae9aebb1b4ca29b2bb4725a21c",
+    "sachpruefung": "2026-11-22T18:31:02.714Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:37.383Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L4",
+      "L5"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Vier große Mittelmeerinseln stehen zur Wahl. Ostküste, Krater, kleinere Kegel und Lavaströme stimmen mit dem Stättenporträt überein."
+  },
+  {
+    "frage": "qs-yosemite-granit-eis",
+    "ersetzt": "qs-lv-hauptstadt",
+    "ausgangsreihe": "hauptstadt",
+    "redaktionspaket": "Landschaften und Gewässer",
+    "schwierigkeit": "medium",
+    "unterthema": "landschaften",
+    "frageform": "herleiten",
+    "quelle": "https://www.nps.gov/yose/learn/nature/geology.htm",
+    "erstabruf": "2026-11-22T18:26:09.192Z",
+    "belegstellen": [
+      "L24",
+      "L25",
+      "L48"
+    ],
+    "beleg_sha256": "d6b94b43ef34b0f51911b72503b9b15bf2c3ad77c67dff8cc3fe2823556a11a7",
+    "sachpruefung": "2026-11-22T18:36:03.964Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:35.258Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L24",
+      "L25",
+      "L48"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Gletscherschliff und älteres Flusstal kommen zusammen vor. Die Frage behauptet deshalb keine ausschließliche Entstehungsursache."
+  },
+  {
+    "frage": "qs-fundybucht-resonanz",
+    "ersetzt": "qs-lt-hauptstadt",
+    "ausgangsreihe": "hauptstadt",
+    "redaktionspaket": "Landschaften und Gewässer",
+    "schwierigkeit": "hard",
+    "unterthema": "gewaesser",
+    "frageform": "herleiten",
+    "quelle": "https://parks.canada.ca/pn-np/nb/fundy/nature/environment/marees-tides",
+    "erstabruf": "2026-11-22T18:27:14.622Z",
+    "belegstellen": [
+      "L27",
+      "L29"
+    ],
+    "beleg_sha256": "fb19995f5913a2a14216f8754c5a7a2da0f7e878d0e72217da39125bd9d3455e",
+    "sachpruefung": "2026-11-22T18:36:03.964Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:35.459Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L27",
+      "L29"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Schwingung und Form der Bucht sind als Ursachen belegt. Windstau, Zufluss und Sperrriff bilden unterschiedliche Ablenkungen."
+  },
+  {
+    "frage": "qs-niagara-see-flussrichtung",
+    "ersetzt": "qs-cn-np-landgrenze",
+    "ausgangsreihe": "landgrenze",
+    "redaktionspaket": "Landschaften und Gewässer",
+    "schwierigkeit": "medium",
+    "unterthema": "gewaesser",
+    "frageform": "vergleichen",
+    "quelle": "https://www.niagaraparks.com/wp-content/uploads/2026/05/2022-23_NP_Study-Guide_EN_FINAL_Pages.pdf",
+    "erstabruf": "2026-11-22T18:27:15.487Z",
+    "belegstellen": [
+      "L86@P4",
+      "L87@P4",
+      "L88@P4",
+      "L89@P4"
+    ],
+    "beleg_sha256": "3b16453b43f719e213a5dcf324190bd0b4cdbcfc5ca25de0c08bf79f0bd5e1a1",
+    "sachpruefung": "2026-11-22T18:36:03.964Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:40.592Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L86@P4",
+      "L87@P4",
+      "L88@P4",
+      "L89@P4"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Die Richtung Erie–Ontario wurde separat geprüft. Die vier Antworten bestehen aus Paaren der Großen Seen."
+  },
+  {
+    "frage": "qs-nok-juetland-abkuerzung",
+    "ersetzt": "qs-fi-no-landgrenze",
+    "ausgangsreihe": "landgrenze",
+    "redaktionspaket": "Orientierung und Verkehrswege",
+    "schwierigkeit": "easy",
+    "unterthema": "verkehrswege",
+    "frageform": "herleiten",
+    "quelle": "https://www.schleswig-holstein.de/DE/landesregierung/themen/verkehr-infrastruktur/nord-ostsee-kanal",
+    "erstabruf": "2026-11-22T18:25:50.397Z",
+    "belegstellen": [
+      "L22",
+      "L17"
+    ],
+    "beleg_sha256": "fae841b1d49ecede442c60c52b8d193ea967ee1626853b5a7a56901bc56ecfd1",
+    "sachpruefung": "2026-11-22T18:31:46.409Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:49.387Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L22",
+      "L17"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Vier Halbinseln sind als Umwege formuliert. Die Landesquelle nennt die längere Strecke durch Skagerrak und Kattegat."
+  },
+  {
+    "frage": "qs-main-donau-schiffsroute",
+    "ersetzt": "qs-kh-vn-landgrenze",
+    "ausgangsreihe": "landgrenze",
+    "redaktionspaket": "Orientierung und Verkehrswege",
+    "schwierigkeit": "medium",
+    "unterthema": "verkehrswege",
+    "frageform": "herleiten",
+    "quelle": "https://www.schifffahrtsverein.de/daten-und-fakten/",
+    "erstabruf": "2026-11-22T18:44:50.986Z",
+    "belegstellen": [
+      "L5",
+      "L7",
+      "L21",
+      "L22"
+    ],
+    "beleg_sha256": "56dc805b4791fa4ae32064d89aa20e4a648a90ee7ebe7a0d0053244b9562592f",
+    "sachpruefung": "2026-11-22T18:44:59.882Z",
+    "erneuter_quellenabruf": "2026-11-22T18:45:11.690Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L5",
+      "L7",
+      "L21",
+      "L22"
+    ],
+    "zweite_pruefung": "2026-11-22T18:45:19.885Z",
+    "pruefvermerk": "Bamberg und Kelheim benennen die beiden Kanalenden in Bayern. Daraus lässt sich unter vier deutschen Kanälen die Verbindung ableiten. Die Frage verrät keine Lösung der Donau-Delta-Karte."
+  },
+  {
+    "frage": "qs-eurotunnel-meeresarm",
+    "ersetzt": "qs-at-hu-landgrenze",
+    "ausgangsreihe": "landgrenze",
+    "redaktionspaket": "Orientierung und Verkehrswege",
+    "schwierigkeit": "easy",
+    "unterthema": "verkehrswege",
+    "frageform": "wiedererkennen",
+    "quelle": "https://www.getlinkgroup.com/en/our-group/eurotunnel/channel-tunnel/",
+    "erstabruf": "2026-11-22T18:25:55.377Z",
+    "belegstellen": [
+      "L13",
+      "L16",
+      "L20"
+    ],
+    "beleg_sha256": "b36a3838043e4c746b81391f7327fefbcedd5c00d99fe81b83951a076cf61e00",
+    "sachpruefung": "2026-11-22T18:36:03.964Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:48.397Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L13",
+      "L16",
+      "L20"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Alle Meerengen sind ohne zusätzlichen Länderhinweis formuliert. Beide Endpunkte und die zwei Tunnelröhren sind beim Betreiber belegt."
+  },
+  {
+    "frage": "qs-gotthard-gebirge",
+    "ersetzt": "qs-es-pt-landgrenze",
+    "ausgangsreihe": "landgrenze",
+    "redaktionspaket": "Orientierung und Verkehrswege",
+    "schwierigkeit": "easy",
+    "unterthema": "verkehrswege",
+    "frageform": "wiedererkennen",
+    "quelle": "https://erstfeld.ch/infrastruktur/verkehr/bahn/neat-gotthard-basistunnel",
+    "erstabruf": "2026-11-22T18:25:50.663Z",
+    "belegstellen": [
+      "L254",
+      "L252"
+    ],
+    "beleg_sha256": "9b262459152613f2b11454d47616045d24648dbb0db29e1f0338865f64ca7a3d",
+    "sachpruefung": "2026-11-22T18:31:46.410Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:49.885Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L254",
+      "L252"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Abgefragt wird das Gebirge. Die Gemeinde Erstfeld belegt Nordseite, beide Endorte, Röhrenanzahl und Länge."
+  },
+  {
+    "frage": "qs-oeresund-peberholm-uebergang",
+    "ersetzt": "qs-ee-lv-landgrenze",
+    "ausgangsreihe": "landgrenze",
+    "redaktionspaket": "Orientierung und Verkehrswege",
+    "schwierigkeit": "medium",
+    "unterthema": "verkehrswege",
+    "frageform": "herleiten",
+    "quelle": "https://www.oresundsbron.com/en/about-oresundsbron/about-us/facts-about-oresundsbron/peberholm",
+    "erstabruf": "2026-11-22T18:25:51.662Z",
+    "belegstellen": [
+      "L69",
+      "L68"
+    ],
+    "beleg_sha256": "b3fbd52025c9b1071ca5088ecb7eddb14c74e376e5eb6576623d9ff575bc882d",
+    "sachpruefung": "2026-11-22T18:31:46.410Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:47.676Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L69",
+      "L68"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Peberholm ist ein künstlicher Übergangspunkt. Die angegebene Bauweise entspricht der Darstellung des Brückenbetreibers."
+  },
+  {
+    "frage": "qs-panamakanal-gatun-hoehe",
+    "ersetzt": "qs-lt-pl-landgrenze",
+    "ausgangsreihe": "landgrenze",
+    "redaktionspaket": "Orientierung und Verkehrswege",
+    "schwierigkeit": "medium",
+    "unterthema": "verkehrswege",
+    "frageform": "herleiten",
+    "quelle": "https://pancanal.com/en/history-of-the-panama-canal/",
+    "erstabruf": "2026-11-22T18:25:52.756Z",
+    "belegstellen": [
+      "L139"
+    ],
+    "beleg_sha256": "cc1340968323a038bacd849d6fc1a59f72faeb58c5564dde99756ff4122fd949",
+    "sachpruefung": "2026-11-22T18:31:46.410Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:50.478Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L139"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Die Schleusen überwinden den Höhenunterschied zum See. Die Erklärung bindet die Höhe an den Gatúnsee und nicht an die beiden Ozeane."
+  },
+  {
+    "frage": "qs-suez-seeweg",
+    "ersetzt": "qs-ar-cl-landgrenze",
+    "ausgangsreihe": "landgrenze",
+    "redaktionspaket": "Orientierung und Verkehrswege",
+    "schwierigkeit": "easy",
+    "unterthema": "verkehrswege",
+    "frageform": "wiedererkennen",
+    "quelle": "https://www.suezcanal.gov.eg/English/About/SuezCanal/Pages/AboutSuezCanal.aspx",
+    "erstabruf": "2026-11-22T18:29:17.106Z",
+    "belegstellen": [
+      "L99"
+    ],
+    "beleg_sha256": "83255ed87fc72ebfb9fa4c7ddc339477b0cca0dbbc7b7abf1dd728f9889f7477",
+    "sachpruefung": "2026-11-22T18:36:03.964Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:50.225Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L99"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Die Fahrtrichtung ist vom Mittelmeer nach Süden vorgegeben. Die direkte Verbindung stimmt mit der Kanalbehörde überein."
+  },
+  {
+    "frage": "qs-hoehenlinien-abstand",
+    "ersetzt": "qs-hu-waehrung-2026",
+    "ausgangsreihe": "waehrung",
+    "redaktionspaket": "Orientierung und Verkehrswege",
+    "schwierigkeit": "easy",
+    "unterthema": "orientierung",
+    "frageform": "vergleichen",
+    "quelle": "https://osmaps.com/discover/guides/understanding-map-contour-lines-for-beginners/",
+    "erstabruf": "2026-11-22T18:27:15.097Z",
+    "belegstellen": [
+      "L38",
+      "L22"
+    ],
+    "beleg_sha256": "92b5945fb38276cb77e676e3c39527838d769e3d43bbd39c157ad8d216deb1d3",
+    "sachpruefung": "2026-11-22T18:31:46.410Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:47.859Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L38",
+      "L22"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "„Dieselbe Karte“ macht die Höhenlinienabstände vergleichbar. Gefragt ist die Hangneigung am kartierten Gelände."
+  },
+  {
+    "frage": "qs-wanderkarte-massstab-50000",
+    "ersetzt": "qs-et-ke-landgrenze",
+    "ausgangsreihe": "landgrenze",
+    "redaktionspaket": "Orientierung und Verkehrswege",
+    "schwierigkeit": "medium",
+    "unterthema": "orientierung",
+    "frageform": "herleiten",
+    "quelle": "https://www.ordnancesurvey.co.uk/documents/resources/map-reading.pdf",
+    "erstabruf": "2026-11-22T18:27:19.168Z",
+    "belegstellen": [
+      "L155@P5",
+      "L156@P5"
+    ],
+    "beleg_sha256": "f5fa9292fcdc720823c25b60bfd3e74e6229af174df39784775426f92bb042ee",
+    "sachpruefung": "2026-11-22T18:31:46.410Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:50.711Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L155@P5",
+      "L156@P5"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Vier Zentimeter mal 50.000 sind 200.000 Zentimeter oder zwei Kilometer. Der Wortlaut unterscheidet Luftlinie von Weglänge."
+  },
+  {
+    "frage": "qs-kartenraster-os-ostwert",
+    "ersetzt": "qs-ne-ng-landgrenze",
+    "ausgangsreihe": "landgrenze",
+    "redaktionspaket": "Orientierung und Verkehrswege",
+    "schwierigkeit": "hard",
+    "unterthema": "orientierung",
+    "frageform": "herleiten",
+    "quelle": "https://www.ordnancesurvey.co.uk/documents/resources/map-reading.pdf",
+    "erstabruf": "2026-11-22T18:27:19.168Z",
+    "belegstellen": [
+      "L200@P7",
+      "L213@P8",
+      "L194@P7",
+      "L198@P7"
+    ],
+    "beleg_sha256": "92813c6b792aa7bc7fd26c769cc90cfa8343e78cdcc0843630ae14e06aed8629",
+    "sachpruefung": "2026-11-22T18:36:03.964Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:48.603Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L200@P7",
+      "L213@P8",
+      "L194@P7",
+      "L198@P7"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Der britische Gitterstandard und die unmittelbaren Feldgrenzen sind ausdrücklich genannt. Erst der linke, dann der untere Wert ergibt 2764."
+  },
+  {
+    "frage": "qs-polarstern-orientierung",
+    "ersetzt": "qs-jp-waehrung-2026",
+    "ausgangsreihe": "waehrung",
+    "redaktionspaket": "Orientierung und Verkehrswege",
+    "schwierigkeit": "easy",
+    "unterthema": "orientierung",
+    "frageform": "herleiten",
+    "quelle": "https://science.nasa.gov/solar-system/what-is-the-north-star-and-how-do-you-find-it/",
+    "erstabruf": "2026-11-22T18:27:15.547Z",
+    "belegstellen": [
+      "L257",
+      "L262"
+    ],
+    "beleg_sha256": "ed76b9c6f32251b9dbe0da5cd68bebf45fab004d3a87bb67db3b9aa7e740c926",
+    "sachpruefung": "2026-11-22T18:36:03.964Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:51.479Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L257",
+      "L262"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Der Wortlaut beschränkt die Beobachtung auf Deutschland und verwendet „ungefähr“. Gemeint ist geografisch Norden."
+  },
+  {
+    "frage": "qs-bernina-tirano-verbindung",
+    "ersetzt": "qs-in-waehrung-2026",
+    "ausgangsreihe": "waehrung",
+    "redaktionspaket": "Orientierung und Verkehrswege",
+    "schwierigkeit": "easy",
+    "unterthema": "verkehrswege",
+    "frageform": "wiedererkennen",
+    "quelle": "https://www.rhb.ch/en/panoramic-journeys/bernina-express/",
+    "erstabruf": "2026-11-22T18:29:15.217Z",
+    "belegstellen": [
+      "L197",
+      "L218"
+    ],
+    "beleg_sha256": "64a897cfd226de39a014717b1aa6a08236f522a2d2ec11751907f23296d9d0ba",
+    "sachpruefung": "2026-11-22T18:36:03.964Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:49.576Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L197",
+      "L218"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Die vier Antworten sind Länderpaare. Chur, der Berninapass, Tirano, Kreisviadukt und Gletscher wurden mit der Betreiberseite abgeglichen."
+  },
+  {
+    "frage": "qs-hallig-warft-hochwasser",
+    "ersetzt": "qs-mx-waehrung-2026",
+    "ausgangsreihe": "waehrung",
+    "redaktionspaket": "Regionale Reisegeografie",
+    "schwierigkeit": "easy",
+    "unterthema": "regionalgeografie",
+    "frageform": "wiedererkennen",
+    "quelle": "https://www.schleswig-holstein.de/DE/landesportal/land-und-leute/landschaft-natur/_documents/halligen",
+    "erstabruf": "2026-11-22T18:25:50.922Z",
+    "belegstellen": [
+      "L18"
+    ],
+    "beleg_sha256": "1bfdabcc291e97c8f3b24508fed839a3884f4321bebe36b4ba8a83a74b6c87bf",
+    "sachpruefung": "2026-11-22T18:36:32.993Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:59.131Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L18"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Alle Wahlmöglichkeiten sind Begriffe aus der Küstengeografie. Die Formulierung fragt nach den erhöhten Siedlungsplätzen der Halligen."
+  },
+  {
+    "frage": "qs-heidelandschaft-schnucken",
+    "ersetzt": "qs-dk-waehrung-2026",
+    "ausgangsreihe": "waehrung",
+    "redaktionspaket": "Regionale Reisegeografie",
+    "schwierigkeit": "easy",
+    "unterthema": "kulturlandschaften",
+    "frageform": "herleiten",
+    "quelle": "https://www.lueneburger-heide.de/natur/tiere/13838/wo-findet-man-die-heidschnucken.html",
+    "erstabruf": "2026-11-22T18:28:28.149Z",
+    "belegstellen": [
+      "L168"
+    ],
+    "beleg_sha256": "97a2ec8e5aad62bbece81fcf775219e984a91909d308a28760c162a0957b2ebc",
+    "sachpruefung": "2026-11-22T18:36:03.964Z",
+    "erneuter_quellenabruf": "2026-11-22T18:37:01.084Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L168"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Gefragt ist der Zweck der Herden für die Landschaftspflege. Der Verbiss junger Triebe erklärt das Offenhalten der Heide."
+  },
+  {
+    "frage": "qs-koenigssee-bartholomae",
+    "ersetzt": "qs-de-laenderdomain",
+    "ausgangsreihe": "kennung",
+    "redaktionspaket": "Regionale Reisegeografie",
+    "schwierigkeit": "easy",
+    "unterthema": "reiseziele",
+    "frageform": "wiedererkennen",
+    "quelle": "https://www.seenschifffahrt.de/de/koenigssee",
+    "erstabruf": "2026-11-22T18:25:51.937Z",
+    "belegstellen": [
+      "L50",
+      "L140"
+    ],
+    "beleg_sha256": "72eba669d2ec7d61f6cd3a748de76de9f3bd0562fa7657e26dbac10c2b75d6ce",
+    "sachpruefung": "2026-11-22T18:32:31.033Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:59.517Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L50",
+      "L140"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Alle vier Optionen sind bayerische Seen. Kirche, Zwiebeltürme und Halbinsellage sind im Betreiberporträt zu finden."
+  },
+  {
+    "frage": "qs-harz-brocken-schmalspur",
+    "ersetzt": "qs-at-laenderdomain",
+    "ausgangsreihe": "kennung",
+    "redaktionspaket": "Regionale Reisegeografie",
+    "schwierigkeit": "easy",
+    "unterthema": "regionalgeografie",
+    "frageform": "wiedererkennen",
+    "quelle": "https://www.harzinfo.de/naturlandschaft-harz/der-brocken-im-harz/die-brockenbahn",
+    "erstabruf": "2026-11-22T18:28:28.472Z",
+    "belegstellen": [
+      "L19",
+      "L20"
+    ],
+    "beleg_sha256": "93b754ab6c00c3f3510a1a554dc82aabb32727114948c54d4aa4d054e690baab",
+    "sachpruefung": "2026-11-22T18:32:31.033Z",
+    "erneuter_quellenabruf": "2026-11-22T18:37:01.709Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L19",
+      "L20"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Die Frage verlangt den Zielberg der Schmalspurbahn. Die Aussage über das letzte Wegstück setzt keine feste Fahrzeit voraus."
+  },
+  {
+    "frage": "qs-cinque-terre-terrassenbau",
+    "ersetzt": "qs-co-pa-landgrenze",
+    "ausgangsreihe": "landgrenze",
+    "redaktionspaket": "Regionale Reisegeografie",
+    "schwierigkeit": "medium",
+    "unterthema": "kulturlandschaften",
+    "frageform": "herleiten",
+    "quelle": "https://whc.unesco.org/en/list/826/",
+    "erstabruf": "2026-11-22T18:24:44.036Z",
+    "belegstellen": [
+      "L47",
+      "L49"
+    ],
+    "beleg_sha256": "c2b6be934d5dfd9b0d09a749e2b23168ae11b36a4c2dc96f7d368d3d3dbc4a07",
+    "sachpruefung": "2026-11-22T18:36:03.964Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:59.110Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L47",
+      "L49"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Alle Antworten sind landwirtschaftliche oder gewerbliche Nutzungen. Reben, Oliven, Steilhang und Terrassenhöhe sind belegt."
+  },
+  {
+    "frage": "qs-beemster-see-polder",
+    "ersetzt": "qs-it-laenderdomain",
+    "ausgangsreihe": "kennung",
+    "redaktionspaket": "Regionale Reisegeografie",
+    "schwierigkeit": "easy",
+    "unterthema": "kulturlandschaften",
+    "frageform": "zeitlich_einordnen",
+    "quelle": "https://whc.unesco.org/en/list/899/",
+    "erstabruf": "2026-11-22T18:24:41.835Z",
+    "belegstellen": [
+      "L51",
+      "L5"
+    ],
+    "beleg_sha256": "2d36d528848d4aa7febf64baf6bc5e384877e2414bed1cf99ffb2ff4ded63d03",
+    "sachpruefung": "2026-11-22T18:36:03.964Z",
+    "erneuter_quellenabruf": "2026-11-22T18:37:01.797Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L51",
+      "L5"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Der Zustand vor der Landgewinnung unterscheidet die Frage vom bloßen Landesnamen. Der Beemstersee wurde 1612 trockengelegt."
+  },
+  {
+    "frage": "qs-lofoten-stockfisch-gestelle",
+    "ersetzt": "qs-kr-waehrung-2026",
+    "ausgangsreihe": "waehrung",
+    "redaktionspaket": "Regionale Reisegeografie",
+    "schwierigkeit": "medium",
+    "unterthema": "regionalgeografie",
+    "frageform": "herleiten",
+    "quelle": "https://www.visitnorway.com/places-to-go/northern-norway/the-lofoten-islands/taste-of/",
+    "erstabruf": "2026-11-22T18:25:50.944Z",
+    "belegstellen": [
+      "L99",
+      "L86"
+    ],
+    "beleg_sha256": "84d223c12d219b96c0e75794a79af4d55e2602e3ad709b3aa1ca382e1dd1a722",
+    "sachpruefung": "2026-11-22T18:36:03.964Z",
+    "erneuter_quellenabruf": "2026-11-22T18:37:01.381Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L99",
+      "L86"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Vier Fischerzeugnisse stehen zur Wahl. Das Trocknen an der Luft und der wandernde Kabeljau unterscheiden Stockfisch von den übrigen."
+  },
+  {
+    "frage": "qs-elche-bewaesserte-palmenhaine",
+    "ersetzt": "qs-vn-waehrung-2026",
+    "ausgangsreihe": "waehrung",
+    "redaktionspaket": "Regionale Reisegeografie",
+    "schwierigkeit": "hard",
+    "unterthema": "kulturlandschaften",
+    "frageform": "wiedererkennen",
+    "quelle": "https://whc.unesco.org/en/list/930/",
+    "erstabruf": "2026-11-22T18:28:29.157Z",
+    "belegstellen": [
+      "L4",
+      "L47"
+    ],
+    "beleg_sha256": "3e3885482f9ccd10a026664f44b4792d0e6a7f4678696dd68ea3a32317d04794",
+    "sachpruefung": "2026-11-22T18:32:31.034Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:59.812Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L4",
+      "L47"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Die vier Baumarten passen als mögliche Haine. Die Quelle benennt die Dattelpalme und die Bewässerung der historischen Oase."
+  },
+  {
+    "frage": "qs-uros-titicaca-schilfinseln",
+    "ersetzt": "qs-ch-telefonvorwahl",
+    "ausgangsreihe": "kennung",
+    "redaktionspaket": "Regionale Reisegeografie",
+    "schwierigkeit": "easy",
+    "unterthema": "regionalgeografie",
+    "frageform": "wiedererkennen",
+    "quelle": "https://www.peru.travel/attractions/uros-islands",
+    "erstabruf": "2026-11-22T18:25:55.115Z",
+    "belegstellen": [
+      "L16",
+      "L17"
+    ],
+    "beleg_sha256": "556b1b8060f78592e34dff265d2664d904437bc6e83deae3f99817cc3a182a2a",
+    "sachpruefung": "2026-11-22T18:36:03.964Z",
+    "erneuter_quellenabruf": "2026-11-22T18:36:59.831Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L16",
+      "L17"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Alle vier Antworten nennen pflanzliches Baumaterial. Die zuständige Tourismusorganisation belegt denselben Schilfrohstoff für die Boote."
+  },
+  {
+    "frage": "qs-miyajima-torii-gezeiten",
+    "ersetzt": "qs-eg-waehrung-2026",
+    "ausgangsreihe": "waehrung",
+    "redaktionspaket": "Regionale Reisegeografie",
+    "schwierigkeit": "medium",
+    "unterthema": "reiseziele",
+    "frageform": "wiedererkennen",
+    "quelle": "https://www.japan.travel/en/world-heritage/itsukushima-shinto-shrine/",
+    "erstabruf": "2026-11-22T18:28:29.498Z",
+    "belegstellen": [
+      "L597",
+      "L610",
+      "L598",
+      "L594"
+    ],
+    "beleg_sha256": "c94a9304aa094dea069bd1f188402de9e04257c317776d6cce6116680932e267",
+    "sachpruefung": "2026-11-22T18:36:03.964Z",
+    "erneuter_quellenabruf": "2026-11-22T18:37:00.469Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L597",
+      "L610",
+      "L598",
+      "L594"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Alle Optionen sind japanische Inseln. Das Tor vor Miyajima, der Hochwassereindruck und der Zugang bei Niedrigwasser sind auf der Fachseite belegt."
+  },
+  {
+    "frage": "qs-kapstadt-tafelberg-wolke",
+    "ersetzt": "qs-fr-telefonvorwahl",
+    "ausgangsreihe": "kennung",
+    "redaktionspaket": "Regionale Reisegeografie",
+    "schwierigkeit": "easy",
+    "unterthema": "reiseziele",
+    "frageform": "wiedererkennen",
+    "quelle": "https://www.sanparks.org/parks/table-mountain/what-to-do/attractions/table-mountain",
+    "erstabruf": "2026-11-22T18:27:17.198Z",
+    "belegstellen": [
+      "L211",
+      "L214"
+    ],
+    "beleg_sha256": "347c72209a3e319e0a0959841717b953595e4945447096c87427cd1bd1476d36",
+    "sachpruefung": "2026-11-22T18:32:31.035Z",
+    "erneuter_quellenabruf": "2026-11-22T18:37:01.328Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L211",
+      "L214"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Vier Städte des südlichen Afrikas stehen zur Wahl. Die Parkverwaltung bestätigt die Lage des Bergs und den Südostwind beim Wolkenphänomen."
+  },
+  {
+    "frage": "qs-australien-zwoelf-apostel",
+    "ersetzt": "qs-gb-telefonvorwahl",
+    "ausgangsreihe": "kennung",
+    "redaktionspaket": "Regionale Reisegeografie",
+    "schwierigkeit": "easy",
+    "unterthema": "regionalgeografie",
+    "frageform": "wiedererkennen",
+    "quelle": "https://www.parks.vic.gov.au/get-into-nature/conservation-and-science/our-amazing-diversity/virtual-exploration/fly-over-the-twelve-apostles",
+    "erstabruf": "2026-11-22T18:27:19.032Z",
+    "belegstellen": [
+      "L11",
+      "L18",
+      "L20"
+    ],
+    "beleg_sha256": "27f0fd3c5cc4e39d3e782e0ff60e0f9a9a55f6f39cfe7e9009fd2339beccbdcc",
+    "sachpruefung": "2026-11-22T18:36:03.964Z",
+    "erneuter_quellenabruf": "2026-11-22T18:37:02.033Z",
+    "erneut_bestaetigte_fundstellen": [
+      "L11",
+      "L18",
+      "L20"
+    ],
+    "zweite_pruefung": "2026-11-22T18:39:23.070Z",
+    "pruefvermerk": "Der Name „Zwölf Apostel“ wird nicht mit einer heutigen Anzahl verwechselt. Die Quelle belegt die Kalksäulen und den Abbruch früherer Felsbögen."
+  }
+]

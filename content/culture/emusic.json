@@ -25,8 +25,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Der Titel gehört zu den Aufnahmen von ABBA. Die Gruppe wurde in den 1970er-Jahren international bekannt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -42,28 +45,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -97,8 +100,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die beiden Namen stehen zusammen mit Benny Andersson und Anni-Frid Lyngstad für die vier Mitglieder von ABBA.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -114,28 +120,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -169,8 +175,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die beiden Titel gehören zum Repertoire der australischen Hardrockband AC/DC.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -186,28 +195,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -241,8 +250,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Angus Young gehört zu den Musikern, die mit AC/DC in die Rock & Roll Hall of Fame aufgenommen wurden.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -258,28 +270,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -313,8 +325,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "„Respect“ stammt von Otis Redding. Aretha Franklin nahm ihre eigene berühmte Fassung auf.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -330,28 +345,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -385,8 +400,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Aretha Franklin erhielt diese Auszeichnung für ihr Lebenswerk im Soul.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -402,28 +420,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -457,8 +475,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Osbourne war Sänger von Black Sabbath. Die Gruppe prägte die Entwicklung des Heavy Metal.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -474,28 +495,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -529,8 +550,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Blondie verband New Wave und eingängige Popmelodien mit Einflüssen aus verschiedenen Musikrichtungen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -546,28 +570,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -601,8 +625,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Mit den Wailers sowie als Solokünstler machte Marley jamaikanischen Reggae international bekannt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -618,28 +645,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -673,8 +700,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "„Fame“ gehört zu Bowies Repertoire. Die Rock & Roll Hall of Fame stellt den Titel in ihrem Bowie-Porträt vor.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -690,28 +720,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -745,8 +775,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Carl Perkins schrieb und sang „Blue Suede Shoes“. Das Stück ist eng mit dem frühen Rockabilly verbunden.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -762,28 +795,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -817,8 +850,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Cash wurde als amerikanischer Country-Erzähler bekannt. Viele seiner Lieder handeln vom Alltag gewöhnlicher Menschen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -834,28 +870,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -889,8 +925,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Berrys Gitarrenspiel beeinflusste unter anderem die Beatles und die Rolling Stones.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -906,28 +945,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -961,8 +1000,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Claptons Laufbahn verbindet alle drei Gruppen. Später hatte er auch Erfolg als Solokünstler.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -978,28 +1020,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1033,8 +1075,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "„Tears in Heaven“ gehört zu Eric Claptons Solotiteln.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1050,28 +1095,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1105,8 +1150,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Depeche Mode verbanden Gahans Gesang mit elektronischen Klängen und Synthesizern.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1122,28 +1170,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1177,8 +1225,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Dire Straits kombinierten Rock mit Einflüssen aus Blues und Country.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1194,28 +1245,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1249,8 +1300,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Eagles brachten den Countryrock aus Südkalifornien einem großen Publikum näher.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1266,28 +1320,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1322,9 +1376,11 @@
     "correct_option_id": "a",
     "explanation": "Während Biermann im Westen auftrat, beschloss das DDR-Politbüro seine Ausbürgerung.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1340,28 +1396,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1395,8 +1451,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Synthesizerklänge von „Sweet Dreams“ machten Eurythmics in den 1980er-Jahren weithin bekannt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1412,28 +1471,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1467,8 +1526,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Annie Lennox und Dave Stewart bildeten das Duo Eurythmics.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1484,28 +1546,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1539,8 +1601,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "„Rumours“ entstand in der international besonders erfolgreichen Besetzung von Fleetwood Mac.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1556,28 +1621,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1611,8 +1676,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Beide Musikerinnen gehörten zu der Besetzung, die unter anderem mit „Rumours“ bekannt wurde.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1628,28 +1696,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1683,8 +1751,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Joan Baez wurde mit ihrer Stimme und ihrem politischen Engagement zu einer bekannten Vertreterin der Folkmusik.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1700,28 +1771,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1755,8 +1826,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Frank Zappas musikalische Arbeit erstreckte sich über mehrere Genres. Zugleich äußerte er sich öffentlich gegen Zensur.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1772,28 +1846,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1827,8 +1901,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Otis Redding begann das Lied tatsächlich am Wasser zu schreiben.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1844,28 +1921,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1899,8 +1976,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Genesis durchlief mit Gabriel und später Collins verschiedene Phasen zwischen Progressive Rock und Pop.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1916,28 +1996,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1971,8 +2051,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Donovan verband in seiner Musik Folk, psychedelische Klänge und östliche Einflüsse.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1988,28 +2071,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2043,8 +2126,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Beide gehören zu den Musikern, die die Rock & Roll Hall of Fame für Kraftwerk aufführt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2060,28 +2146,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2115,8 +2201,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Madonna verband den Titel in ihren Auftritten mit wechselnden Bühnenbildern und Kostümen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2132,28 +2221,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2187,8 +2276,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Alben erschienen 1973 und 1979 und zählen zu den zentralen Werken von Pink Floyd.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2204,28 +2296,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2259,8 +2351,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Beide Musiker gehören zu der in der Rock & Roll Hall of Fame gewürdigten Besetzung von Pink Floyd.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2276,28 +2371,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2331,8 +2426,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Für diesen Film wurde eine weiße Cloud-Gitarre eigens für Prince gebaut.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2348,28 +2446,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2403,8 +2501,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Rock & Roll Hall of Fame beschreibt diese Verbindung als Kern von Ray Charles’ Soulmusik.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2420,28 +2521,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2475,8 +2576,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "„Born in the U.S.A.“ gehört zum Repertoire des US-amerikanischen Rockmusikers Bruce Springsteen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2492,28 +2596,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2547,8 +2651,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Ihre frühere Formation hieß Ike & Tina Turner Revue. 1976 verließ sie diese Gruppe.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2564,28 +2671,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2619,8 +2726,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Page war bei Led Zeppelin auch als Produzent tätig.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2636,28 +2746,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2691,8 +2801,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "„Stairway to Heaven“ gehört zum Werk von Led Zeppelin, die Blues und Folk mit Rock verbanden.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2708,28 +2821,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2763,8 +2876,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Mercury verband bei Queen Rockgesang mit einer ausgesprochen theatralischen Bühnenpräsenz.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2780,28 +2896,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2835,8 +2951,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Rock & Roll Hall of Fame nennt beide zusammen mit Freddie Mercury und Roger Taylor als Mitglieder von Queen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2852,28 +2971,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2907,8 +3026,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das offizielle Songverzeichnis der Beatles datiert diese Aufnahme auf den 22. November 1968.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2924,28 +3046,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2979,8 +3101,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das Lied ist im offiziellen Verzeichnis der Beatles unter den Aufnahmen von 1964 verzeichnet.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2996,28 +3121,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3052,9 +3177,11 @@
     "correct_option_id": "a",
     "explanation": "Nach der Auflösung der Beatles arbeitete Lennon als Solokünstler und engagierte sich für den Frieden.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3070,28 +3197,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3126,9 +3253,11 @@
     "correct_option_id": "a",
     "explanation": "Presley starb im August 1977 in Memphis im Bundesstaat Tennessee.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3144,28 +3273,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3200,9 +3329,11 @@
     "correct_option_id": "a",
     "explanation": "Guildo Horn gewann mit seiner Band den Vorentscheid. Beim internationalen Wettbewerb wurde er Siebter.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3218,28 +3349,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3274,9 +3405,11 @@
     "correct_option_id": "a",
     "explanation": "Die Auszeichnung würdigte den Verkaufserfolg der Aufnahmen von Freddy Quinn.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3292,28 +3425,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3348,9 +3481,11 @@
     "correct_option_id": "a",
     "explanation": "Der Konzertsaal in West-Berlin wurde im Oktober 1963 eingeweiht.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3366,28 +3501,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3422,9 +3557,11 @@
     "correct_option_id": "a",
     "explanation": "Die Beatles erhielten die Auszeichnung des Order of the British Empire.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_musikgeschichte",
+      "form_zeitlich_einordnen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3440,28 +3577,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3496,9 +3633,11 @@
     "correct_option_id": "a",
     "explanation": "Das Konzert der Berliner Philharmoniker fand noch vor der Öffnung der Grenze statt.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3514,28 +3653,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },

@@ -1,0 +1,1137 @@
+{
+  "baseline": "de-7363fcba52a1",
+  "catalog": "de-03c46c2cd256",
+  "date": "2026-11-22",
+  "installations": "poolvergleich-0 … poolvergleich-999",
+  "groupTopics": {
+    "entertainment": {
+      "topics": [
+        "filmpreise",
+        "buehne"
+      ],
+      "contextual": []
+    },
+    "geography_travel": {
+      "topics": [
+        "hauptstaedte",
+        "grenzen",
+        "waehrungen"
+      ],
+      "contextual": [
+        "qs-brasilia-planstadt",
+        "qs-babylon-bagdad",
+        "qs-bojana-sofia",
+        "qs-stari-ras-serbien"
+      ]
+    }
+  },
+  "oldPoolOldRule": {
+    "nature_animals": {
+      "samples": 1000,
+      "minTopics": 2,
+      "minCategories": 1,
+      "unexpectedMix": 0,
+      "topicDraws": {
+        "tiermerkmale": 1217,
+        "wetter": 296,
+        "astronomie": 483,
+        "pflanzen": 449,
+        "tierverhalten": 844,
+        "geologie": 299,
+        "nahrung": 266,
+        "brut_und_aufzucht": 386,
+        "tierfamilien": 195,
+        "lebensraeume": 269,
+        "meer_und_kueste": 78,
+        "entwicklung": 77,
+        "tieroekologie": 141
+      },
+      "distinctTopics": {
+        "2": 32,
+        "3": 223,
+        "4": 479,
+        "5": 266
+      },
+      "byDifficulty": {
+        "easy": 3000,
+        "medium": 2000,
+        "hard": 0
+      },
+      "originalSeriesAtLeastThree": 0,
+      "subjectGroupAtLeastThree": 0
+    },
+    "geography_travel": {
+      "samples": 1000,
+      "minTopics": 1,
+      "minCategories": 1,
+      "unexpectedMix": 0,
+      "topicDraws": {
+        "hauptstaedte": 867,
+        "laenderkennungen": 436,
+        "waehrungen": 447,
+        "grenzen": 826,
+        "bauwerke": 456,
+        "landschaften": 347,
+        "gewaesser": 439,
+        "flaechenvergleich": 166,
+        "kulturlandschaften": 230,
+        "regionalgeografie": 694,
+        "reiseziele": 41,
+        "orientierung": 51
+      },
+      "distinctTopics": {
+        "1": 1,
+        "2": 19,
+        "3": 202,
+        "4": 499,
+        "5": 279
+      },
+      "byDifficulty": {
+        "easy": 3000,
+        "medium": 2000,
+        "hard": 0
+      },
+      "originalSeriesAtLeastThree": 323,
+      "subjectGroupAtLeastThree": 392
+    },
+    "everyday_technology": {
+      "samples": 1000,
+      "minTopics": 2,
+      "minCategories": 1,
+      "unexpectedMix": 0,
+      "topicDraws": {
+        "energietechnik": 434,
+        "ton_und_bild": 444,
+        "werkstoffe": 871,
+        "textilpflege": 206,
+        "digitaltechnik": 301,
+        "lebensmittel": 277,
+        "dateiformate": 352,
+        "computernutzung": 335,
+        "messen": 680,
+        "verkehrstechnik": 315,
+        "haushalt": 465,
+        "sporttechnik": 37,
+        "lichttechnik": 248,
+        "werkstatt": 35
+      },
+      "distinctTopics": {
+        "2": 14,
+        "3": 163,
+        "4": 485,
+        "5": 338
+      },
+      "byDifficulty": {
+        "easy": 3000,
+        "medium": 2000,
+        "hard": 0
+      },
+      "originalSeriesAtLeastThree": 0,
+      "subjectGroupAtLeastThree": 0
+    },
+    "history_discoveries": {
+      "samples": 1000,
+      "minTopics": 2,
+      "minCategories": 1,
+      "unexpectedMix": 0,
+      "topicDraws": {
+        "wissenschaftsgeschichte": 611,
+        "antike": 384,
+        "internationale_politik": 571,
+        "herrschaft": 120,
+        "raumfahrt": 171,
+        "deutsche_geschichte": 798,
+        "gesellschaftsgeschichte": 402,
+        "wirtschaftsgeschichte": 257,
+        "mittelalter": 359,
+        "religion": 289,
+        "archaeologie": 296,
+        "sportgeschichte": 60,
+        "medizingeschichte": 214,
+        "alltagsgeschichte": 55,
+        "kulturgeschichte": 105,
+        "europa": 111,
+        "zeitgeschichte": 54,
+        "verkehrsgeschichte": 143
+      },
+      "distinctTopics": {
+        "2": 11,
+        "3": 135,
+        "4": 430,
+        "5": 424
+      },
+      "byDifficulty": {
+        "easy": 3000,
+        "medium": 2000,
+        "hard": 0
+      },
+      "originalSeriesAtLeastThree": 0,
+      "subjectGroupAtLeastThree": 0
+    },
+    "entertainment": {
+      "samples": 1000,
+      "minTopics": 1,
+      "minCategories": 1,
+      "unexpectedMix": 0,
+      "topicDraws": {
+        "buehne": 1150,
+        "filmpreise": 1764,
+        "filmgeschichte": 137,
+        "popmusik": 584,
+        "fernsehen": 286,
+        "musikgeschichte": 812,
+        "musiktraditionen": 198,
+        "filmgeschichten": 69
+      },
+      "distinctTopics": {
+        "1": 8,
+        "2": 139,
+        "3": 428,
+        "4": 357,
+        "5": 68
+      },
+      "byDifficulty": {
+        "easy": 3000,
+        "medium": 2000,
+        "hard": 0
+      },
+      "originalSeriesAtLeastThree": 506,
+      "subjectGroupAtLeastThree": 656
+    },
+    "language_culture": {
+      "samples": 1000,
+      "minTopics": 1,
+      "minCategories": 1,
+      "unexpectedMix": 0,
+      "topicDraws": {
+        "esskultur": 238,
+        "fremdsprachen": 1210,
+        "literatur": 1266,
+        "schriften": 37,
+        "grammatik": 722,
+        "bildende_kunst": 616,
+        "handwerk": 474,
+        "braeuche": 314,
+        "baukunst": 78,
+        "musiktraditionen": 45
+      },
+      "distinctTopics": {
+        "1": 2,
+        "2": 81,
+        "3": 358,
+        "4": 420,
+        "5": 139
+      },
+      "byDifficulty": {
+        "easy": 3000,
+        "medium": 2000,
+        "hard": 0
+      },
+      "originalSeriesAtLeastThree": 0,
+      "subjectGroupAtLeastThree": 0
+    }
+  },
+  "newPoolOldRule": {
+    "nature_animals": {
+      "samples": 1000,
+      "minTopics": 2,
+      "minCategories": 1,
+      "unexpectedMix": 0,
+      "topicDraws": {
+        "tierfamilien": 238,
+        "tierverhalten": 1029,
+        "astronomie": 366,
+        "brut_und_aufzucht": 323,
+        "geologie": 316,
+        "tiermerkmale": 1132,
+        "pflanzen": 424,
+        "lebensraeume": 186,
+        "wetter": 410,
+        "tieroekologie": 158,
+        "nahrung": 243,
+        "entwicklung": 66,
+        "jahreszeiten": 43,
+        "meer_und_kueste": 66
+      },
+      "distinctTopics": {
+        "2": 34,
+        "3": 250,
+        "4": 466,
+        "5": 250
+      },
+      "byDifficulty": {
+        "easy": 3000,
+        "medium": 2000,
+        "hard": 0
+      },
+      "originalSeriesAtLeastThree": 0,
+      "subjectGroupAtLeastThree": 0
+    },
+    "geography_travel": {
+      "samples": 1000,
+      "minTopics": 1,
+      "minCategories": 1,
+      "unexpectedMix": 0,
+      "topicDraws": {
+        "flaechenvergleich": 187,
+        "regionalgeografie": 835,
+        "landschaften": 568,
+        "grenzen": 467,
+        "verkehrswege": 216,
+        "gewaesser": 605,
+        "waehrungen": 274,
+        "hauptstaedte": 520,
+        "bauwerke": 471,
+        "orientierung": 119,
+        "kulturlandschaften": 309,
+        "laenderkennungen": 298,
+        "reiseziele": 131
+      },
+      "distinctTopics": {
+        "1": 1,
+        "2": 18,
+        "3": 155,
+        "4": 461,
+        "5": 365
+      },
+      "byDifficulty": {
+        "easy": 3000,
+        "medium": 2000,
+        "hard": 0
+      },
+      "originalSeriesAtLeastThree": 69,
+      "subjectGroupAtLeastThree": 114
+    },
+    "everyday_technology": {
+      "samples": 1000,
+      "minTopics": 1,
+      "minCategories": 1,
+      "unexpectedMix": 0,
+      "topicDraws": {
+        "werkstoffe": 867,
+        "messen": 590,
+        "digitaltechnik": 334,
+        "garten": 118,
+        "haushalt": 677,
+        "lichttechnik": 284,
+        "computernutzung": 72,
+        "sporttechnik": 168,
+        "lebensmittel": 284,
+        "textilpflege": 193,
+        "verkehrstechnik": 365,
+        "werkstatt": 69,
+        "energietechnik": 431,
+        "dateiformate": 152,
+        "ton_und_bild": 396
+      },
+      "distinctTopics": {
+        "1": 1,
+        "2": 11,
+        "3": 172,
+        "4": 444,
+        "5": 372
+      },
+      "byDifficulty": {
+        "easy": 3000,
+        "medium": 2000,
+        "hard": 0
+      },
+      "originalSeriesAtLeastThree": 0,
+      "subjectGroupAtLeastThree": 0
+    },
+    "history_discoveries": {
+      "samples": 1000,
+      "minTopics": 2,
+      "minCategories": 1,
+      "unexpectedMix": 0,
+      "topicDraws": {
+        "wissenschaftsgeschichte": 388,
+        "sportgeschichte": 269,
+        "antike": 346,
+        "mittelalter": 382,
+        "verkehrsgeschichte": 116,
+        "alltagsgeschichte": 249,
+        "europa": 104,
+        "religion": 281,
+        "deutsche_geschichte": 793,
+        "internationale_politik": 558,
+        "gesellschaftsgeschichte": 300,
+        "kulturgeschichte": 118,
+        "wirtschaftsgeschichte": 251,
+        "raumfahrt": 165,
+        "herrschaft": 120,
+        "archaeologie": 327,
+        "medizingeschichte": 189,
+        "zeitgeschichte": 44
+      },
+      "distinctTopics": {
+        "2": 9,
+        "3": 111,
+        "4": 439,
+        "5": 441
+      },
+      "byDifficulty": {
+        "easy": 3000,
+        "medium": 2000,
+        "hard": 0
+      },
+      "originalSeriesAtLeastThree": 0,
+      "subjectGroupAtLeastThree": 0
+    },
+    "entertainment": {
+      "samples": 1000,
+      "minTopics": 2,
+      "minCategories": 1,
+      "unexpectedMix": 0,
+      "topicDraws": {
+        "musikgeschichte": 962,
+        "filmgeschichten": 364,
+        "filmgeschichte": 132,
+        "popmusik": 725,
+        "buehne": 856,
+        "filmpreise": 810,
+        "radio": 198,
+        "fernsehen": 548,
+        "sportmedien": 186,
+        "musiktraditionen": 219
+      },
+      "distinctTopics": {
+        "2": 29,
+        "3": 257,
+        "4": 514,
+        "5": 200
+      },
+      "byDifficulty": {
+        "easy": 3000,
+        "medium": 2000,
+        "hard": 0
+      },
+      "originalSeriesAtLeastThree": 104,
+      "subjectGroupAtLeastThree": 207
+    },
+    "language_culture": {
+      "samples": 1000,
+      "minTopics": 2,
+      "minCategories": 1,
+      "unexpectedMix": 0,
+      "topicDraws": {
+        "fremdsprachen": 778,
+        "redensarten": 92,
+        "gesellschaftsspiele": 197,
+        "literatur": 1371,
+        "bildende_kunst": 582,
+        "braeuche": 380,
+        "grammatik": 743,
+        "handwerk": 459,
+        "baukunst": 81,
+        "esskultur": 226,
+        "schriften": 42,
+        "musiktraditionen": 49
+      },
+      "distinctTopics": {
+        "2": 63,
+        "3": 298,
+        "4": 472,
+        "5": 167
+      },
+      "byDifficulty": {
+        "easy": 3000,
+        "medium": 2000,
+        "hard": 0
+      },
+      "originalSeriesAtLeastThree": 0,
+      "subjectGroupAtLeastThree": 0
+    }
+  },
+  "newPoolNewRule": {
+    "nature_animals": {
+      "trial": {
+        "samples": 1000,
+        "minTopics": 5,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "astronomie": 341,
+          "meer_und_kueste": 377,
+          "tieroekologie": 382,
+          "brut_und_aufzucht": 365,
+          "geologie": 393,
+          "pflanzen": 353,
+          "nahrung": 375,
+          "tierverhalten": 387,
+          "tierfamilien": 366,
+          "wetter": 359,
+          "tiermerkmale": 364,
+          "lebensraeume": 337,
+          "jahreszeiten": 288,
+          "entwicklung": 313
+        },
+        "distinctTopics": {
+          "5": 1000
+        },
+        "byDifficulty": {
+          "easy": 3000,
+          "medium": 2000,
+          "hard": 0
+        },
+        "originalSeriesAtLeastThree": 0,
+        "subjectGroupAtLeastThree": 0
+      },
+      "topic": {
+        "samples": 1000,
+        "minTopics": 9,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "tieroekologie": 702,
+          "entwicklung": 757,
+          "tierverhalten": 753,
+          "tiermerkmale": 775,
+          "astronomie": 766,
+          "nahrung": 745,
+          "geologie": 662,
+          "meer_und_kueste": 657,
+          "pflanzen": 764,
+          "brut_und_aufzucht": 673,
+          "jahreszeiten": 611,
+          "lebensraeume": 658,
+          "tierfamilien": 753,
+          "wetter": 724
+        },
+        "distinctTopics": {
+          "9": 2,
+          "10": 998
+        },
+        "byDifficulty": {
+          "easy": 6000,
+          "medium": 3000,
+          "hard": 1000
+        },
+        "originalSeriesAtLeastThree": 0,
+        "subjectGroupAtLeastThree": 0
+      },
+      "challenge": {
+        "samples": 1000,
+        "minTopics": 9,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "tiermerkmale": 765,
+          "tierverhalten": 729,
+          "meer_und_kueste": 678,
+          "astronomie": 793,
+          "nahrung": 758,
+          "pflanzen": 737,
+          "entwicklung": 769,
+          "wetter": 771,
+          "tieroekologie": 676,
+          "jahreszeiten": 571,
+          "tierfamilien": 764,
+          "geologie": 683,
+          "brut_und_aufzucht": 675,
+          "lebensraeume": 631
+        },
+        "distinctTopics": {
+          "9": 1,
+          "10": 999
+        },
+        "byDifficulty": {
+          "easy": 2000,
+          "medium": 5000,
+          "hard": 3000
+        },
+        "originalSeriesAtLeastThree": 0,
+        "subjectGroupAtLeastThree": 0
+      }
+    },
+    "geography_travel": {
+      "trial": {
+        "samples": 1000,
+        "minTopics": 5,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "laenderkennungen": 386,
+          "regionalgeografie": 390,
+          "flaechenvergleich": 364,
+          "kulturlandschaften": 377,
+          "landschaften": 397,
+          "reiseziele": 418,
+          "waehrungen": 368,
+          "orientierung": 391,
+          "grenzen": 408,
+          "hauptstaedte": 386,
+          "verkehrswege": 392,
+          "bauwerke": 367,
+          "gewaesser": 356
+        },
+        "distinctTopics": {
+          "5": 1000
+        },
+        "byDifficulty": {
+          "easy": 3000,
+          "medium": 2000,
+          "hard": 0
+        },
+        "originalSeriesAtLeastThree": 26,
+        "subjectGroupAtLeastThree": 48
+      },
+      "topic": {
+        "samples": 1000,
+        "minTopics": 9,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "kulturlandschaften": 797,
+          "gewaesser": 781,
+          "bauwerke": 791,
+          "hauptstaedte": 803,
+          "landschaften": 790,
+          "orientierung": 784,
+          "waehrungen": 811,
+          "grenzen": 735,
+          "flaechenvergleich": 798,
+          "regionalgeografie": 778,
+          "verkehrswege": 715,
+          "laenderkennungen": 715,
+          "reiseziele": 702
+        },
+        "distinctTopics": {
+          "9": 1,
+          "10": 999
+        },
+        "byDifficulty": {
+          "easy": 6000,
+          "medium": 3000,
+          "hard": 1000
+        },
+        "originalSeriesAtLeastThree": 334,
+        "subjectGroupAtLeastThree": 493
+      },
+      "challenge": {
+        "samples": 1000,
+        "minTopics": 10,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "laenderkennungen": 678,
+          "waehrungen": 812,
+          "bauwerke": 767,
+          "hauptstaedte": 817,
+          "gewaesser": 779,
+          "reiseziele": 726,
+          "landschaften": 796,
+          "verkehrswege": 730,
+          "grenzen": 702,
+          "flaechenvergleich": 809,
+          "kulturlandschaften": 808,
+          "orientierung": 780,
+          "regionalgeografie": 796
+        },
+        "distinctTopics": {
+          "10": 1000
+        },
+        "byDifficulty": {
+          "easy": 2000,
+          "medium": 5000,
+          "hard": 3000
+        },
+        "originalSeriesAtLeastThree": 337,
+        "subjectGroupAtLeastThree": 503
+      }
+    },
+    "everyday_technology": {
+      "trial": {
+        "samples": 1000,
+        "minTopics": 5,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "ton_und_bild": 357,
+          "digitaltechnik": 330,
+          "garten": 348,
+          "lichttechnik": 340,
+          "lebensmittel": 349,
+          "haushalt": 349,
+          "werkstatt": 313,
+          "sporttechnik": 329,
+          "computernutzung": 310,
+          "energietechnik": 338,
+          "textilpflege": 353,
+          "verkehrstechnik": 331,
+          "werkstoffe": 338,
+          "messen": 324,
+          "dateiformate": 291
+        },
+        "distinctTopics": {
+          "5": 1000
+        },
+        "byDifficulty": {
+          "easy": 3000,
+          "medium": 2000,
+          "hard": 0
+        },
+        "originalSeriesAtLeastThree": 0,
+        "subjectGroupAtLeastThree": 0
+      },
+      "topic": {
+        "samples": 1000,
+        "minTopics": 10,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "messen": 694,
+          "energietechnik": 697,
+          "werkstatt": 673,
+          "lichttechnik": 693,
+          "dateiformate": 599,
+          "computernutzung": 573,
+          "digitaltechnik": 695,
+          "sporttechnik": 687,
+          "verkehrstechnik": 715,
+          "werkstoffe": 687,
+          "haushalt": 673,
+          "lebensmittel": 622,
+          "garten": 631,
+          "ton_und_bild": 698,
+          "textilpflege": 663
+        },
+        "distinctTopics": {
+          "10": 1000
+        },
+        "byDifficulty": {
+          "easy": 6000,
+          "medium": 3000,
+          "hard": 1000
+        },
+        "originalSeriesAtLeastThree": 0,
+        "subjectGroupAtLeastThree": 0
+      },
+      "challenge": {
+        "samples": 1000,
+        "minTopics": 10,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "garten": 623,
+          "dateiformate": 540,
+          "werkstoffe": 705,
+          "energietechnik": 710,
+          "werkstatt": 704,
+          "computernutzung": 524,
+          "lichttechnik": 721,
+          "verkehrstechnik": 709,
+          "digitaltechnik": 711,
+          "ton_und_bild": 717,
+          "messen": 692,
+          "lebensmittel": 625,
+          "haushalt": 682,
+          "sporttechnik": 717,
+          "textilpflege": 620
+        },
+        "distinctTopics": {
+          "10": 1000
+        },
+        "byDifficulty": {
+          "easy": 2000,
+          "medium": 5000,
+          "hard": 3000
+        },
+        "originalSeriesAtLeastThree": 0,
+        "subjectGroupAtLeastThree": 0
+      }
+    },
+    "history_discoveries": {
+      "trial": {
+        "samples": 1000,
+        "minTopics": 5,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "alltagsgeschichte": 301,
+          "gesellschaftsgeschichte": 280,
+          "wissenschaftsgeschichte": 279,
+          "zeitgeschichte": 260,
+          "archaeologie": 297,
+          "verkehrsgeschichte": 308,
+          "mittelalter": 287,
+          "kulturgeschichte": 264,
+          "raumfahrt": 289,
+          "wirtschaftsgeschichte": 266,
+          "europa": 292,
+          "medizingeschichte": 253,
+          "deutsche_geschichte": 263,
+          "religion": 293,
+          "antike": 279,
+          "sportgeschichte": 280,
+          "herrschaft": 226,
+          "internationale_politik": 283
+        },
+        "distinctTopics": {
+          "5": 1000
+        },
+        "byDifficulty": {
+          "easy": 3000,
+          "medium": 2000,
+          "hard": 0
+        },
+        "originalSeriesAtLeastThree": 0,
+        "subjectGroupAtLeastThree": 0
+      },
+      "topic": {
+        "samples": 1000,
+        "minTopics": 10,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "gesellschaftsgeschichte": 569,
+          "antike": 607,
+          "archaeologie": 574,
+          "verkehrsgeschichte": 599,
+          "deutsche_geschichte": 595,
+          "alltagsgeschichte": 562,
+          "wissenschaftsgeschichte": 584,
+          "medizingeschichte": 565,
+          "internationale_politik": 586,
+          "europa": 519,
+          "herrschaft": 575,
+          "sportgeschichte": 579,
+          "wirtschaftsgeschichte": 526,
+          "religion": 495,
+          "kulturgeschichte": 503,
+          "mittelalter": 598,
+          "raumfahrt": 508,
+          "zeitgeschichte": 456
+        },
+        "distinctTopics": {
+          "10": 1000
+        },
+        "byDifficulty": {
+          "easy": 6000,
+          "medium": 3000,
+          "hard": 1000
+        },
+        "originalSeriesAtLeastThree": 0,
+        "subjectGroupAtLeastThree": 0
+      },
+      "challenge": {
+        "samples": 1000,
+        "minTopics": 10,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "deutsche_geschichte": 583,
+          "sportgeschichte": 577,
+          "herrschaft": 552,
+          "gesellschaftsgeschichte": 579,
+          "wissenschaftsgeschichte": 560,
+          "europa": 529,
+          "zeitgeschichte": 457,
+          "alltagsgeschichte": 545,
+          "archaeologie": 600,
+          "internationale_politik": 594,
+          "raumfahrt": 531,
+          "religion": 543,
+          "mittelalter": 574,
+          "antike": 589,
+          "medizingeschichte": 567,
+          "wirtschaftsgeschichte": 521,
+          "verkehrsgeschichte": 575,
+          "kulturgeschichte": 524
+        },
+        "distinctTopics": {
+          "10": 1000
+        },
+        "byDifficulty": {
+          "easy": 2000,
+          "medium": 5000,
+          "hard": 3000
+        },
+        "originalSeriesAtLeastThree": 0,
+        "subjectGroupAtLeastThree": 0
+      }
+    },
+    "entertainment": {
+      "trial": {
+        "samples": 1000,
+        "minTopics": 5,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "buehne": 495,
+          "filmpreise": 495,
+          "filmgeschichten": 531,
+          "musiktraditionen": 514,
+          "filmgeschichte": 508,
+          "sportmedien": 494,
+          "popmusik": 487,
+          "fernsehen": 488,
+          "radio": 500,
+          "musikgeschichte": 488
+        },
+        "distinctTopics": {
+          "5": 1000
+        },
+        "byDifficulty": {
+          "easy": 3000,
+          "medium": 2000,
+          "hard": 0
+        },
+        "originalSeriesAtLeastThree": 0,
+        "subjectGroupAtLeastThree": 0
+      },
+      "topic": {
+        "samples": 1000,
+        "minTopics": 9,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "popmusik": 1019,
+          "sportmedien": 1018,
+          "musikgeschichte": 1010,
+          "buehne": 1025,
+          "fernsehen": 1020,
+          "radio": 1015,
+          "filmpreise": 1026,
+          "filmgeschichte": 932,
+          "musiktraditionen": 919,
+          "filmgeschichten": 1016
+        },
+        "distinctTopics": {
+          "9": 149,
+          "10": 851
+        },
+        "byDifficulty": {
+          "easy": 6000,
+          "medium": 3000,
+          "hard": 1000
+        },
+        "originalSeriesAtLeastThree": 24,
+        "subjectGroupAtLeastThree": 51
+      },
+      "challenge": {
+        "samples": 1000,
+        "minTopics": 9,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "filmgeschichten": 1017,
+          "buehne": 1015,
+          "radio": 1019,
+          "musikgeschichte": 1024,
+          "popmusik": 1015,
+          "filmpreise": 1011,
+          "sportmedien": 1020,
+          "filmgeschichte": 925,
+          "musiktraditionen": 939,
+          "fernsehen": 1015
+        },
+        "distinctTopics": {
+          "9": 136,
+          "10": 864
+        },
+        "byDifficulty": {
+          "easy": 2000,
+          "medium": 5000,
+          "hard": 3000
+        },
+        "originalSeriesAtLeastThree": 6,
+        "subjectGroupAtLeastThree": 26
+      }
+    },
+    "language_culture": {
+      "trial": {
+        "samples": 1000,
+        "minTopics": 5,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "fremdsprachen": 422,
+          "baukunst": 436,
+          "grammatik": 422,
+          "bildende_kunst": 430,
+          "gesellschaftsspiele": 433,
+          "braeuche": 430,
+          "schriften": 395,
+          "handwerk": 432,
+          "redensarten": 387,
+          "literatur": 449,
+          "musiktraditionen": 344,
+          "esskultur": 420
+        },
+        "distinctTopics": {
+          "5": 1000
+        },
+        "byDifficulty": {
+          "easy": 3000,
+          "medium": 2000,
+          "hard": 0
+        },
+        "originalSeriesAtLeastThree": 0,
+        "subjectGroupAtLeastThree": 0
+      },
+      "topic": {
+        "samples": 1000,
+        "minTopics": 9,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "fremdsprachen": 890,
+          "gesellschaftsspiele": 897,
+          "musiktraditionen": 712,
+          "bildende_kunst": 867,
+          "handwerk": 896,
+          "grammatik": 860,
+          "schriften": 772,
+          "esskultur": 785,
+          "baukunst": 884,
+          "redensarten": 686,
+          "literatur": 866,
+          "braeuche": 885
+        },
+        "distinctTopics": {
+          "9": 23,
+          "10": 977
+        },
+        "byDifficulty": {
+          "easy": 6000,
+          "medium": 3000,
+          "hard": 1000
+        },
+        "originalSeriesAtLeastThree": 0,
+        "subjectGroupAtLeastThree": 0
+      },
+      "challenge": {
+        "samples": 1000,
+        "minTopics": 9,
+        "minCategories": 1,
+        "unexpectedMix": 0,
+        "topicDraws": {
+          "schriften": 774,
+          "bildende_kunst": 883,
+          "esskultur": 775,
+          "handwerk": 873,
+          "baukunst": 887,
+          "musiktraditionen": 697,
+          "literatur": 888,
+          "fremdsprachen": 874,
+          "grammatik": 888,
+          "braeuche": 880,
+          "gesellschaftsspiele": 885,
+          "redensarten": 696
+        },
+        "distinctTopics": {
+          "9": 17,
+          "10": 983
+        },
+        "byDifficulty": {
+          "easy": 2000,
+          "medium": 5000,
+          "hard": 3000
+        },
+        "originalSeriesAtLeastThree": 0,
+        "subjectGroupAtLeastThree": 0
+      }
+    }
+  },
+  "daily": {
+    "samples": 1000,
+    "minTopics": 9,
+    "minCategories": 6,
+    "unexpectedMix": 0,
+    "topicDraws": {
+      "fremdsprachen": 142,
+      "gesellschaftsspiele": 151,
+      "filmpreise": 159,
+      "geologie": 116,
+      "kulturlandschaften": 120,
+      "meer_und_kueste": 115,
+      "textilpflege": 104,
+      "medizingeschichte": 88,
+      "haushalt": 107,
+      "kulturgeschichte": 94,
+      "radio": 164,
+      "orientierung": 133,
+      "baukunst": 134,
+      "bildende_kunst": 137,
+      "filmgeschichten": 149,
+      "tieroekologie": 128,
+      "verkehrstechnik": 119,
+      "werkstoffe": 136,
+      "reiseziele": 104,
+      "zeitgeschichte": 79,
+      "energietechnik": 118,
+      "tiermerkmale": 114,
+      "pflanzen": 99,
+      "waehrungen": 142,
+      "europa": 99,
+      "herrschaft": 119,
+      "buehne": 144,
+      "musiktraditionen": 270,
+      "alltagsgeschichte": 116,
+      "grammatik": 133,
+      "messen": 115,
+      "nahrung": 141,
+      "deutsche_geschichte": 119,
+      "gesellschaftsgeschichte": 89,
+      "flaechenvergleich": 137,
+      "lebensmittel": 113,
+      "astronomie": 139,
+      "literatur": 156,
+      "sportmedien": 157,
+      "lebensraeume": 126,
+      "werkstatt": 127,
+      "handwerk": 163,
+      "musikgeschichte": 174,
+      "popmusik": 140,
+      "verkehrswege": 121,
+      "filmgeschichte": 143,
+      "hauptstaedte": 131,
+      "digitaltechnik": 125,
+      "sportgeschichte": 99,
+      "religion": 103,
+      "braeuche": 134,
+      "landschaften": 128,
+      "regionalgeografie": 141,
+      "redensarten": 98,
+      "esskultur": 125,
+      "fernsehen": 166,
+      "wirtschaftsgeschichte": 83,
+      "lichttechnik": 130,
+      "wetter": 127,
+      "internationale_politik": 104,
+      "computernutzung": 100,
+      "laenderkennungen": 106,
+      "archaeologie": 112,
+      "entwicklung": 134,
+      "tierverhalten": 113,
+      "gewaesser": 133,
+      "raumfahrt": 107,
+      "sporttechnik": 125,
+      "brut_und_aufzucht": 107,
+      "grenzen": 127,
+      "garten": 117,
+      "bauwerke": 133,
+      "tierfamilien": 118,
+      "dateiformate": 73,
+      "antike": 109,
+      "schriften": 113,
+      "ton_und_bild": 107,
+      "wissenschaftsgeschichte": 103,
+      "mittelalter": 101,
+      "verkehrsgeschichte": 87,
+      "jahreszeiten": 88
+    },
+    "distinctTopics": {
+      "9": 18,
+      "10": 982
+    },
+    "byDifficulty": {
+      "easy": 6000,
+      "medium": 3000,
+      "hard": 1000
+    },
+    "originalSeriesAtLeastThree": 0,
+    "subjectGroupAtLeastThree": 0
+  }
+}

@@ -1,0 +1,3775 @@
+[
+  {
+    "id": "k-media-bauwagen",
+    "fact_key": "media.bauwagen",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wo wohnte Peter Lustig in den klassischen „Löwenzahn“-Folgen, wenn er Natur und Technik erforschte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In einem Bauwagen"
+      },
+      {
+        "id": "b",
+        "text": "In einer Windmühle"
+      },
+      {
+        "id": "c",
+        "text": "Auf einem Hausboot"
+      },
+      {
+        "id": "d",
+        "text": "In einem Wasserturm"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Sein Zuhause war ein Bauwagen im fiktiven Bärstadt. Von dort aus ging Peter seinen Fragen über die Umwelt nach.",
+    "tags": [
+      "thema_fernsehen",
+      "form_wiedererkennen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "ZDF · Löwenzahn mit Peter Lustig",
+        "url": "https://www.zdf.de/magazine/loewenzahn-mit-peter-lustig-104?staffel=1",
+        "verified_claim": "Die ZDF-Reihe spielt um Peter Lustigs Bauwagen in Bärstadt, von dem aus er Themen aus Natur, Umwelt und Technik erkundet.",
+        "checked_at": "2026-11-22T18:26:07Z",
+        "locator": "Serienbeschreibung, rund um Bärstadt",
+        "source_anchor": "Bauwagen in Bärstadt",
+        "opened_line": 50
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-mainzel",
+    "fact_key": "media.mainzel",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Im ZDF tauchen die Mainzelmännchen in sehr kurzen Szenen auf. Welche Aufgabe erfüllen diese Szenen im Programm?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie kennzeichnen eine Wiederholung."
+      },
+      {
+        "id": "b",
+        "text": "Sie trennen einzelne Werbespots."
+      },
+      {
+        "id": "c",
+        "text": "Sie kündigen die Altersfreigabe an."
+      },
+      {
+        "id": "d",
+        "text": "Sie zählen die Zeit bis zur Nachrichtensendung."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Schon am zweiten Sendetag des ZDF im April 1963 traten die kleinen Zeichentrickfiguren auf. Mit ihren Szenen gliedern sie die Werbung.",
+    "tags": [
+      "thema_fernsehen",
+      "form_wiedererkennen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "ZDF · Mainzelmännchen",
+        "url": "https://www.zdf.de/unternehmen/organisation/finanzen/werbung-mainzelmaennchen-108.html",
+        "verified_claim": "Das ZDF nutzt die animierten Mainzelmännchen seit dem zweiten Sendetag am 2. April 1963 zum Trennen von Werbung.",
+        "checked_at": "2026-11-22T18:26:07Z",
+        "locator": "Einführung zur Funktion im Programm",
+        "source_anchor": "Als Werbetrenner",
+        "opened_line": 16
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:39:35Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-zeitzeichen",
+    "fact_key": "media.zeitzeichen",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Ein „ZeitZeichen“ kann von einem König, einer Erfindung oder einem Friedensschluss erzählen. Was verbindet diese Radiogeschichten des WDR?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine neue Biografie gibt das Thema vor."
+      },
+      {
+        "id": "b",
+        "text": "Ein Museum eröffnet gerade eine Ausstellung."
+      },
+      {
+        "id": "c",
+        "text": "Der Sendetag fällt auf einen historischen Jahrestag."
+      },
+      {
+        "id": "d",
+        "text": "Ein neuer historischer Film kommt ins Kino."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Redaktion schaut vom Sendetag in Fünfjahresschritten zurück. So erinnerte sie an einem 5. September an den Geburtstag Ludwigs XIV.",
+    "tags": [
+      "thema_radio",
+      "form_vergleichen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "WDR · Die ZeitZeichen-Redaktion über ihre Themenwahl",
+        "url": "https://presse.wdr.de/plounge/wdr/programm/2022/04/20220404_interview_zeitzeichen_ruenker_ronal.html",
+        "verified_claim": "Das ZeitZeichen-Team erläutert sein Auswahlprinzip mit historischen Jahrestagen in Fünfjahresschritten. Ein Beitrag erinnerte am 5. September an die Geburt Ludwigs XIV.",
+        "checked_at": "2026-11-22T18:42:38Z",
+        "locator": "WDR-Interview, Fragen nach beliebten Stücken und den Kriterien der Themenwahl, Absätze 86–87 und 113–116",
+        "source_anchor": "Heute vor 5, 10, 15, 20, 25",
+        "opened_line": 114
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:42:58Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:43:08Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:43:08Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-gruss-bord",
+    "fact_key": "media.gruss_bord",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wem gelten an Heiligabend die Weihnachtsbotschaften der NDR-Radiosendung „Gruß an Bord“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Reisenden in Fernzügen"
+      },
+      {
+        "id": "b",
+        "text": "Gästen deutscher Kurorte"
+      },
+      {
+        "id": "c",
+        "text": "Mitarbeitenden auf Flughäfen"
+      },
+      {
+        "id": "d",
+        "text": "Seeleuten auf ihren Schiffen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der NDR übermittelt die Grüße an Menschen, die Weihnachten auf See verbringen. Dazu gehören auch die Besatzungen von Forschungs- und Seenotrettungsschiffen.",
+    "tags": [
+      "thema_radio",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NDR · Gruß an Bord",
+        "url": "https://www.ndr.de/nachrichten/info/veranstaltungen/gruss-an-bord-der-radio-klassiker-fuer-seeleute-in-aller-welt%2Cgrussanbord690.html",
+        "verified_claim": "Der NDR strahlt an Heiligabend Grüße an Menschen aus, die über Weihnachten auf See arbeiten, auch in Forschung und Seenotrettung.",
+        "checked_at": "2026-11-22T18:26:07Z",
+        "locator": "Einleitung zur Weihnachtssendung für Menschen auf See",
+        "source_anchor": "traditionell an Heiligabend",
+        "opened_line": 25
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:39:35Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-nachrichtenleicht",
+    "fact_key": "media.nachrichtenleicht",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Was unterscheidet „Nachrichtenleicht“ im Deutschlandfunk von einem üblichen Nachrichtenüberblick?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Meldungen sind nach Regionen geordnet."
+      },
+      {
+        "id": "b",
+        "text": "Interviews treten an die Stelle der Meldungen."
+      },
+      {
+        "id": "c",
+        "text": "Das Publikum wählt vorab die Themen aus."
+      },
+      {
+        "id": "d",
+        "text": "Die Meldungen sind in Einfacher Sprache formuliert."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "„Nachrichtenleicht“ vermittelt aktuelle Informationen mit leicht verständlichen Formulierungen. So können mehr Menschen dem Nachrichtenangebot folgen.",
+    "tags": [
+      "thema_radio",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutschlandfunk · Mehr Informationen in Einfacher Sprache",
+        "url": "https://www.deutschlandfunk.de/mehr-deutschlandfunk-einfache-sprache-100.html",
+        "verified_claim": "Deutschlandfunk bezeichnet „Nachrichtenleicht“ als Nachrichtensendung in Einfacher Sprache.",
+        "checked_at": "2026-11-22T18:26:07Z",
+        "locator": "Abschnitt „Nachrichten in Einfacher Sprache“",
+        "source_anchor": "Nachrichten in Einfacher Sprache",
+        "opened_line": 70
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:39:35Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-ohrenbaer",
+    "fact_key": "media.ohrenbaer",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Wodurch unterschieden sich die ursprünglichen „Ohrenbär“-Geschichten von einem Hörspiel mit vielen Sprechrollen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Schauspieler las die Geschichte vor."
+      },
+      {
+        "id": "b",
+        "text": "Kinder erzählten sie als Anrufer nach."
+      },
+      {
+        "id": "c",
+        "text": "Ein Chor sang die Texte."
+      },
+      {
+        "id": "d",
+        "text": "Reporter berichteten live vom Schauplatz."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Seit 1987 ließ die Reihe neue Geschichten für junge Hörer schreiben. Bekannte Schauspieler lasen die Radiogeschichten vor.",
+    "tags": [
+      "thema_radio",
+      "form_vergleichen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "rbb · 20 Jahre Ohrenbär",
+        "url": "https://www.rbb-online.de/unternehmen/presse/presseinformationen/pressearchiv/2007/hoert_mal_her_20.html",
+        "verified_claim": "Der rbb beschrieb 2007, dass Schauspieler seit dem Start 1987 eigens geschriebene Geschichten für Kinder vorlasen.",
+        "checked_at": "2026-11-22T18:26:07Z",
+        "locator": "Jubiläum 2007, Entstehung der Radiogeschichten",
+        "source_anchor": "von bekannten Schauspielern gelesen",
+        "opened_line": 29
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:40:28Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-radiotatort",
+    "fact_key": "media.radiotatort",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Im „ARD Radio Tatort“ hört man in einer Folge ein anderes Ermittlerteam als in der vorherigen. Wie ist die Reihe aufgebaut?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dieselben Fälle werden aus Sicht verschiedener Zeugen erzählt."
+      },
+      {
+        "id": "b",
+        "text": "Verschiedene Sender erzählen Fälle aus ihren Regionen."
+      },
+      {
+        "id": "c",
+        "text": "Ein einziges Team reist im Auftrag einer Zentrale."
+      },
+      {
+        "id": "d",
+        "text": "Jede Staffel begleitet die Ermittler eines anderen Jahrzehnts."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Seit dem ersten Radio Tatort 2008 wechseln sich Hörspielproduktionen aus den Regionen ab. Die Rundfunkanstalten senden den jeweiligen Fall gemeinsam.",
+    "tags": [
+      "thema_radio",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "ARD · Der 100. ARD Radio Tatort",
+        "url": "https://www.ard.de/die-ard/presse-kontakt/ard-pressemeldungen/2016/05-31-der-100te-ard-radiotatort-hundert-von-hundert-100.html",
+        "verified_claim": "2008 begann die ARD-Hörspielreihe mit wechselnden regionalen Ermittlerteams. Die Anstalten strahlen den neuen Fall gemeinsam aus.",
+        "checked_at": "2026-11-22T18:26:07Z",
+        "locator": "Pressemitteilung, Geschichte der Hörspielreihe",
+        "source_anchor": "regionalen Radio-Ermittlerteams",
+        "opened_line": 56
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-siebter-sinn",
+    "fact_key": "media.siebter_sinn",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine ältere Kurzsendung zeigt Aquaplaning und wirbt für den Sicherheitsgurt. Welche Reihe ist gemeint?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Montagsmaler"
+      },
+      {
+        "id": "b",
+        "text": "Das literarische Quartett"
+      },
+      {
+        "id": "c",
+        "text": "Der 7. Sinn"
+      },
+      {
+        "id": "d",
+        "text": "Der Internationale Frühschoppen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "WDR und Deutsche Verkehrswacht entwickelten „Der 7. Sinn“ für die Verkehrserziehung. Schon vor der Gurtpflicht warb die Sendung für das Anschnallen.",
+    "tags": [
+      "thema_fernsehen",
+      "form_herleiten",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "WDR · Erste Ausstrahlung von „Der 7. Sinn“",
+        "url": "https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/siebte-sinn-fernsehen-102.html",
+        "verified_claim": "Die ARD-Sendereihe entstand durch WDR und Deutsche Verkehrswacht. Sie erklärte Gefahren auf der Straße und warb für den Gurt.",
+        "checked_at": "2026-11-22T18:26:07Z",
+        "locator": "ZeitZeichen zur Sendung vom 4. Februar 1966",
+        "source_anchor": "Risiken im Straßenverkehr",
+        "opened_line": 31
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-haendlerkarte",
+    "fact_key": "media.haendlerkarte",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Eine Verkäuferin kennt bei „Bares für Rares“ bereits die fachliche Einschätzung ihres Schmuckstücks. Was ermöglicht ihr die Händlerkarte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Den Gegenstand bei einem Museum hinterlegen"
+      },
+      {
+        "id": "b",
+        "text": "Den Schätzpreis bei einer Bank garantieren lassen"
+      },
+      {
+        "id": "c",
+        "text": "Mit den Händlern über einen Verkauf verhandeln"
+      },
+      {
+        "id": "d",
+        "text": "Den Schätzpreis vom Sender auszahlen lassen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Zuerst begutachten Fachleute das Stück. Mit der Händlerkarte darf die Besitzerin es anschließend zum Verkauf anbieten.",
+    "tags": [
+      "thema_fernsehen",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "ZDF · Bares für Rares",
+        "url": "https://presseportal.zdf.de/pressemappe/bares-fuer-rares-2",
+        "verified_claim": "Vor dem Verkauf bei „Bares für Rares“ begutachten Sachverständige die Stücke. Die Händlerkarte gehört zum Übergang zu den Kaufinteressenten.",
+        "checked_at": "2026-11-22T18:26:07Z",
+        "locator": "Pressemappe, Sachverständige und Händlerkarte",
+        "source_anchor": "Händlerkarte",
+        "opened_line": 45
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-dinner",
+    "fact_key": "media.dinner",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Warum spricht und trinkt Butler James in „Dinner for One“ beim Anstoßen für die Gäste am Tisch?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Miss Sophies Freunde kommen erst zum Nachtisch."
+      },
+      {
+        "id": "b",
+        "text": "Die Gäste sprechen eine andere Sprache."
+      },
+      {
+        "id": "c",
+        "text": "Die Gäste feiern im benachbarten Speisesaal."
+      },
+      {
+        "id": "d",
+        "text": "Miss Sophies alte Freunde sind bereits gestorben."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Miss Sophie feiert ihren 90. Geburtstag mit vier vorgestellten Gästen. James hält für jeden von ihnen das gewohnte Ritual aufrecht.",
+    "tags": [
+      "thema_fernsehen",
+      "form_herleiten",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NDR · Dinner for One oder Der 90. Geburtstag",
+        "url": "https://www.ndr.de/fernsehen/Dinner-for-One-oder-Der-90-Geburtstag%2Csendung64852.html",
+        "verified_claim": "Miss Sophie feiert den Geburtstag mit vier längst verstorbenen Freunden als imaginären Gästen. Butler James bedient sie beim Dinner.",
+        "checked_at": "2026-11-22T18:26:07Z",
+        "locator": "Beschreibung des Sketches und der Geburtstagsgäste",
+        "source_anchor": "längst verstorbenen Freunde",
+        "opened_line": 27
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:39:35Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-band-gedaechtnis",
+    "fact_key": "media.band_gedaechtnis",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Was zählte im Finale von Rudi Carrells „Am laufenden Band“ für den Gewinn?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Möglichst viele vorbeigezogene Dinge benennen"
+      },
+      {
+        "id": "b",
+        "text": "Das Gesamtgewicht der Dinge richtig schätzen"
+      },
+      {
+        "id": "c",
+        "text": "Die Dinge nach ihrem Kaufpreis sortieren"
+      },
+      {
+        "id": "d",
+        "text": "Die Hersteller der Dinge an ihrem Logo erkennen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Vierzig Gegenstände fuhren vorbei. Anschließend hatte die Person im Finale zwanzig Sekunden, um möglichst viele aus dem Gedächtnis zu nennen.",
+    "tags": [
+      "thema_fernsehen",
+      "form_wiedererkennen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Radio Bremen · Am laufenden Band mit Rudi Carrell",
+        "url": "https://radiobremen.gcp.radiobremen.de/ueber-uns/chronik/chronik-am-laufenden-band-100.html",
+        "verified_claim": "Im Finale zogen vierzig Gegenstände vorbei. Danach blieben zwanzig Sekunden, um mögliche Gewinne aus dem Gedächtnis zu nennen.",
+        "checked_at": "2026-11-22T18:26:07Z",
+        "locator": "Chronik 1974, Spielprinzip des Finales",
+        "source_anchor": "aus dem Gedächtnis aufzuzählen",
+        "opened_line": 45
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:40:28Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-dalli",
+    "fact_key": "media.dalli",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Mit welcher Bewegung feierte Hans Rosenthal in „Dalli Dalli“ eine besonders gelungene Leistung?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er drehte eine Pirouette um das Pult."
+      },
+      {
+        "id": "b",
+        "text": "Er sprang in die Luft."
+      },
+      {
+        "id": "c",
+        "text": "Er schlug ein Rad."
+      },
+      {
+        "id": "d",
+        "text": "Er kniete auf einem Kissen."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Sprung gehörte zu Rosenthals Ausruf „Das war spitze!“. In der Spielshow traten die Gäste in Zweierteams an.",
+    "tags": [
+      "thema_fernsehen",
+      "form_wiedererkennen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "ZDF · Dalli Dalli – Die Weihnachtsshow",
+        "url": "https://presseportal.zdf.de/pressemappe/dalli-dalli-die-weihnachtsshow",
+        "verified_claim": "Bei einer besonderen Leistung sprang Moderator Hans Rosenthal in die Höhe. Die prominenten Kandidaten spielten in Zweierteams.",
+        "checked_at": "2026-11-22T18:26:07Z",
+        "locator": "Historischer Rückblick „Das bleibt Spitze!“",
+        "source_anchor": "sprang in die Höhe",
+        "opened_line": 46
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-sandmann",
+    "fact_key": "media.sandmann",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Fernsehpuppe sagte den Kindern in Ostdeutschland schon 1959 am frühen Abend gute Nacht?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der kleine Eisbär Lars"
+      },
+      {
+        "id": "b",
+        "text": "Das Sandmännchen"
+      },
+      {
+        "id": "c",
+        "text": "Käpt’n Blaubär"
+      },
+      {
+        "id": "d",
+        "text": "Bernd das Brot"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Gerhard Behrendt gestaltete die Puppe. Bei ihrem ersten Fernsehauftritt am 22. November 1959 gehörte schon eine eigene Melodie dazu.",
+    "tags": [
+      "thema_fernsehen",
+      "form_zeitlich_einordnen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "rbb · Unser Sandmännchen, Geburtsstunde",
+        "url": "https://www.sandmann.de/frueher/fakten/geburtsstunde.html",
+        "verified_claim": "Die vom Puppengestalter Gerhard Behrendt geschaffene Figur trat am 22. November 1959 erstmals im ostdeutschen Fernsehen auf. Wolfgang Richter hatte das Lied komponiert.",
+        "checked_at": "2026-11-22T18:27:41Z",
+        "locator": "Erste Ausstrahlung am 22. November 1959",
+        "source_anchor": "1959 hatte „Unser Sandmännchen“",
+        "opened_line": 9
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-voxhaus",
+    "fact_key": "media.voxhaus",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Aus welchem Berliner Gebäude erklang im Oktober 1923 die erste Sendung des regulären deutschen Unterhaltungsrundfunks?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aus dem Roten Rathaus"
+      },
+      {
+        "id": "b",
+        "text": "Aus dem Hotel Adlon"
+      },
+      {
+        "id": "c",
+        "text": "Aus dem Vox-Haus"
+      },
+      {
+        "id": "d",
+        "text": "Aus dem Admiralspalast"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die „Funk-Stunde“ begann im Dachgeschoss des Vox-Hauses. Wer damals ein Radio besaß, konnte dort gespielte Musik zu Hause empfangen.",
+    "tags": [
+      "thema_radio",
+      "form_wiedererkennen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutschlandfunk · Aus der Stube in die Welt",
+        "url": "https://www.deutschlandfunk.de/aus-der-stube-in-die-welt-100.html",
+        "verified_claim": "Am 29. Oktober 1923 begann der deutsche Unterhaltungsrundfunk mit einem Musikprogramm im Berliner Vox-Haus. Das Studio lag im Dachgeschoss.",
+        "checked_at": "2026-11-22T18:26:07Z",
+        "locator": "Die Funk-Stunde und das erste reguläre Unterhaltungsprogramm",
+        "source_anchor": "Dachgeschoss des Vox-Hauses",
+        "opened_line": 49
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:40:28Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-fernsehgarten",
+    "fact_key": "media.fernsehgarten",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In welcher Stadt feierte der „ZDF-Fernsehgarten“ 2026 auf dem Lerchenberg sein vierzigjähriges Bestehen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Baden-Baden"
+      },
+      {
+        "id": "b",
+        "text": "Köln"
+      },
+      {
+        "id": "c",
+        "text": "Hamburg"
+      },
+      {
+        "id": "d",
+        "text": "Mainz"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Sommersendung wird unter freiem Himmel auf dem ZDF-Gelände in Mainz veranstaltet. Zur Jubiläumssaison waren zwanzig Sonntagsausgaben angekündigt.",
+    "tags": [
+      "thema_fernsehen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "ZDF · 40 Jahre ZDF-Fernsehgarten",
+        "url": "https://presseportal.zdf.de/pressemappe/zdf-fernsehgarten",
+        "verified_claim": "Die Jubiläumssaison der ZDF-Freiluftsendung wurde 2026 auf dem Mainzer Lerchenberg veranstaltet.",
+        "checked_at": "2026-11-22T18:26:07Z",
+        "locator": "Pressemappe, Jubiläumssaison auf dem Lerchenberg",
+        "source_anchor": "Mainzer Lerchenberg",
+        "opened_line": 60
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:40:28Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-mucks",
+    "fact_key": "media.mucks",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "„Kein Mucks!“ und viele Krimipodcasts befassen sich mit Verbrechen. Was stellt Bastian Pastewka in seiner Reihe vor?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ältere Kriminalhörspiele"
+      },
+      {
+        "id": "b",
+        "text": "Alte Übertragungen von Gerichtsverhandlungen"
+      },
+      {
+        "id": "c",
+        "text": "Historische Fahndungsmeldungen"
+      },
+      {
+        "id": "d",
+        "text": "Historische Interviews mit Gefängnisdirektoren"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Pastewka stellt inszenierte Krimis aus unterschiedlichen Radioarchiven vor. Dazu gehören auch Produktionen des früheren DDR-Rundfunks.",
+    "tags": [
+      "thema_radio",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "ARD Kultur · Kein Mucks! mit Bastian Pastewka",
+        "url": "https://www.ard.de/ardkultur/literatur/kein-mucks%2Ckrimi-podcast-kein-mucks-bastian-pastewka-radio-bremen-100.html",
+        "verified_claim": "Bastian Pastewka stellt Kriminalhörspiele aus Archiven der ARD, des Rundfunks der DDR und des Deutschlandfunks vor.",
+        "checked_at": "2026-11-22T18:26:07Z",
+        "locator": "Beschreibung des Krimi-Podcasts und seiner Archive",
+        "source_anchor": "Kriminalhörspiel-Klassiker",
+        "opened_line": 105
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:40:28Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-nena-ballons",
+    "fact_key": "media.nena_ballons",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wofür hält man in Nenas Lied die am Horizont auftauchenden 99 Luftballons zunächst?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für Flugobjekte aus dem All"
+      },
+      {
+        "id": "b",
+        "text": "Für Fallschirme einer Flugschau"
+      },
+      {
+        "id": "c",
+        "text": "Für Leuchtsignale von Schiffen"
+      },
+      {
+        "id": "d",
+        "text": "Für Wetterraketen einer Messstation"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein harmloser Anblick wird im Lied zum vermeintlichen Alarm. Nenas Band veröffentlichte die Single 1983.",
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nena · 99 Luftballons",
+        "url": "https://www.nena.de/songs/99-luftballons",
+        "verified_claim": "In Nenas Song werden die Ballons zunächst für Flugobjekte aus dem All gehalten. Die Fehleinschätzung löst die Eskalation aus.",
+        "checked_at": "2026-11-22T18:28:49Z",
+        "locator": "Liedtext, Verwechslung zu Beginn der Handlung",
+        "source_anchor": "Hielt man für Ufos",
+        "opened_line": 13
+      },
+      {
+        "id": "s2",
+        "title": "Nena · Jubiläumsausgabe von 99 Luftballons",
+        "url": "https://www.nena.de/featurings/99-luftballons-the-40th-anniversary-ep",
+        "verified_claim": "Nenas Debütalbum und die Single erschienen im Januar 1983.",
+        "checked_at": "2026-11-22T18:26:23Z",
+        "locator": "Rückblick der Band auf Veröffentlichung und Inspiration",
+        "source_anchor": "Im Januar 1983",
+        "opened_line": 23
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:39:35Z",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-sonderzug-wunsch",
+    "fact_key": "media.sonderzug_wunsch",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Was wollte Udo Lindenberg mit seinem „Sonderzug nach Pankow“ von der DDR-Führung erreichen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein gemeinsames Plattenlabel für Ost und West"
+      },
+      {
+        "id": "b",
+        "text": "Die Erlaubnis für einen Konzertauftritt"
+      },
+      {
+        "id": "c",
+        "text": "Einen eigenen Musiksender im Radio"
+      },
+      {
+        "id": "d",
+        "text": "Eine neue Bahnstrecke nach Hamburg"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Lindenberg durfte im Oktober 1983 tatsächlich in der DDR singen. Ausgerechnet „Sonderzug nach Pankow“ durfte er dort bei diesem Konzert nicht spielen.",
+    "tags": [
+      "thema_popmusik",
+      "form_herleiten",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Udo Lindenberg · Sonderzug nach Pankow",
+        "url": "https://www.udo-lindenberg.de/sonderzug-nach-pankow-mit-udo-lindenberg-in-der-u2.15203.htm",
+        "verified_claim": "Lindenberg forderte mit seinem Lied einen Auftritt in der DDR. Beim genehmigten Konzert im Oktober 1983 war der Titel untersagt.",
+        "checked_at": "2026-11-22T18:26:23Z",
+        "locator": "Rückblick auf das Lied von 1983",
+        "source_anchor": "ihn in der DDR auftreten zu lassen",
+        "opened_line": 37
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-bochum-vfl",
+    "fact_key": "media.bochum_vfl",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welcher Ruhrgebietsstadt und ihrem VfL setzte Herbert Grönemeyer 1984 im Titellied eines Albums ein musikalisches Denkmal?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Duisburg"
+      },
+      {
+        "id": "b",
+        "text": "Essen"
+      },
+      {
+        "id": "c",
+        "text": "Bochum"
+      },
+      {
+        "id": "d",
+        "text": "Dortmund"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Grönemeyer wendet sich in „Bochum“ direkt an die Stadt. Auch ihr Fußballverein bekommt in dem Lied eine Liebeserklärung.",
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Herbert Grönemeyer · Bochum",
+        "url": "https://www.groenemeyer.de/bochum/",
+        "verified_claim": "Grönemeyers Album von 1984 trägt den Namen Bochum. Der Titeltext besingt die Stadt und ihren VfL.",
+        "checked_at": "2026-11-22T18:26:23Z",
+        "locator": "Album von 1984, Titellied mit Bezug zum VfL",
+        "source_anchor": "dein VfL",
+        "opened_line": 126
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-prinzen-chor",
+    "fact_key": "media.prinzen_chor",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "In welchem Knabenchor sang Sebastian Krumbiegel, bevor er mit den Prinzen bekannt wurde?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Im Dresdner Kreuzchor"
+      },
+      {
+        "id": "b",
+        "text": "Bei den Wiener Sängerknaben"
+      },
+      {
+        "id": "c",
+        "text": "Bei den Regensburger Domspatzen"
+      },
+      {
+        "id": "d",
+        "text": "Im Thomanerchor"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Krumbiegel besuchte den Thomanerchor. Später studierte er in Leipzig Musik und legte sein Staatsexamen in Schlagzeug und Gesang ab.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Die Prinzen · Sebastian Krumbiegel",
+        "url": "https://www.dieprinzen.de/bandbiografie/sebastian-krumbiegel/",
+        "verified_claim": "Sebastian Krumbiegels Bandbiografie nennt den Thomanerchor und anschließend sein Leipziger Musikstudium mit Schlagzeug und Gesang.",
+        "checked_at": "2026-11-22T18:26:23Z",
+        "locator": "Bandbiografie, Ausbildungsjahre",
+        "source_anchor": "Thomanerchor",
+        "opened_line": 31
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-hosen-tage",
+    "fact_key": "media.hosen_tage",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welche Band veröffentlichte auf dem Album „Ballast der Republik“ den Song „Tage wie diese“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Ärzte"
+      },
+      {
+        "id": "b",
+        "text": "Die Fantastischen Vier"
+      },
+      {
+        "id": "c",
+        "text": "Wir sind Helden"
+      },
+      {
+        "id": "d",
+        "text": "Die Toten Hosen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Song entstand aus einer überarbeiteten Fassung mit dem Arbeitstitel „Kreise drehen“. Das Album erschien 2012 zum 30-jährigen Bandbestehen.",
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Die Toten Hosen · Ballast der Republik",
+        "url": "https://shop.dietotenhosen.de/index.php/n.35-Musik/l.1769-Ballast-der-Republik-Vinyl-ReRelease/",
+        "verified_claim": "Die Toten Hosen veröffentlichten „Tage wie diese“ auf ihrem Jubiläumsalbum von 2012. Die Band schildert die Überarbeitung von „Kreise drehen“.",
+        "checked_at": "2026-11-22T18:26:23Z",
+        "locator": "Rückblick der Band zur Vinyl-Neuauflage und Titelliste",
+        "source_anchor": "Tage wie diese",
+        "opened_line": 86
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-abba-brighton",
+    "fact_key": "media.abba_brighton",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In welchem Jahrzehnt gewann ABBA in Brighton mit „Waterloo“ den Eurovision Song Contest?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In den 1970er-Jahren"
+      },
+      {
+        "id": "b",
+        "text": "In den 1960er-Jahren"
+      },
+      {
+        "id": "c",
+        "text": "In den 1980er-Jahren"
+      },
+      {
+        "id": "d",
+        "text": "In den 1990er-Jahren"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "ABBA gewann 1974. Ein Jahr zuvor war die Gruppe mit „Ring Ring“ beim schwedischen Vorentscheid auf Platz drei gelandet.",
+    "tags": [
+      "thema_popmusik",
+      "form_zeitlich_einordnen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "European Broadcasting Union · Brighton 1974",
+        "url": "https://www.eurovision.com/eurovision-song-contest/brighton-1974/",
+        "verified_claim": "ABBA gewann 1974 mit „Waterloo“ in Brighton für Schweden. Im Vorjahr war die Gruppe mit „Ring Ring“ Dritte im nationalen Vorentscheid geworden.",
+        "checked_at": "2026-11-22T18:26:23Z",
+        "locator": "Siegerbeitrag und Rückblick auf den Wettbewerb",
+        "source_anchor": "Sweden’s ABBA",
+        "opened_line": 81
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:39:35Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-lena-oslo",
+    "fact_key": "media.lena_oslo",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Mit welchem Song gewann Lena 2010 in Oslo den Eurovision Song Contest?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Glorious"
+      },
+      {
+        "id": "b",
+        "text": "Satellite"
+      },
+      {
+        "id": "c",
+        "text": "Taken by a Stranger"
+      },
+      {
+        "id": "d",
+        "text": "Standing Still"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die damals 19-jährige Lena gewann mit „Satellite“ für Deutschland. Sowohl die Jurys als auch das abstimmende Publikum setzten sie auf Platz eins.",
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "European Broadcasting Union · Oslo 2010",
+        "url": "https://www.eurovision.com/eurovision-song-contest/oslo-2010/",
+        "verified_claim": "Lena gewann 2010 mit „Satellite“ für Deutschland. Jury und Publikum setzten sie bei diesem Wettbewerb auf den ersten Platz.",
+        "checked_at": "2026-11-22T18:28:49Z",
+        "locator": "Siegerbeitrag und Abstimmung in Oslo",
+        "source_anchor": "Satellite performed by the 19-year-old singer",
+        "opened_line": 82
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-imagine-frieden",
+    "fact_key": "media.imagine_frieden",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Welches Zukunftsbild entwirft John Lennons „Imagine“, wenn man sich die Grenzen zwischen Menschen wegdenkt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Rückkehr zu alten Königreichen"
+      },
+      {
+        "id": "b",
+        "text": "Ein Leben in völliger Einsamkeit"
+      },
+      {
+        "id": "c",
+        "text": "Ein friedliches Miteinander"
+      },
+      {
+        "id": "d",
+        "text": "Die Besiedlung fremder Planeten"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Anregungen für das Lied kamen aus Yoko Onos Buch „Grapefruit“. Lennon übernahm daraus die Idee, seine Hörer zu einem Gedankenexperiment einzuladen.",
+    "tags": [
+      "thema_popmusik",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "John Lennon · Imagine",
+        "url": "https://www.johnlennon.com/music/singles/imagine/",
+        "verified_claim": "Lennon beschrieb seinen Song als Gedankenexperiment über eine friedliche Welt und erklärte den Einfluss von Yoko Onos „Grapefruit“.",
+        "checked_at": "2026-11-22T18:26:23Z",
+        "locator": "John Lennon und Yoko Ono erklären die Idee des Liedes",
+        "source_anchor": "a world of peace",
+        "opened_line": 59
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-supremes-label",
+    "fact_key": "media.supremes_label",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welches US-Plattenlabel brachte in den 1960er-Jahren die Frauenstimmen der Supremes groß heraus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Atlantic"
+      },
+      {
+        "id": "b",
+        "text": "Sun"
+      },
+      {
+        "id": "c",
+        "text": "Motown"
+      },
+      {
+        "id": "d",
+        "text": "Stax"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Supremes kamen 1961 zu Motown. Zur Gruppe gehörten Diana Ross, Mary Wilson und Florence Ballard.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Rock & Roll Hall of Fame · The Supremes",
+        "url": "https://rockhall.com/inductees/supremes/",
+        "verified_claim": "Die Supremes standen ab 1961 bei Motown unter Vertrag. Die Rock & Roll Hall of Fame nennt Diana Ross, Mary Wilson und Florence Ballard.",
+        "checked_at": "2026-11-22T18:26:23Z",
+        "locator": "Gruppenporträt und Aufnahmeessay",
+        "source_anchor": "Motown family",
+        "opened_line": 57
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-graceland-partner",
+    "fact_key": "media.graceland_partner",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Paul Simon reiste für „Graceland“ in ein Land, in dem damals die Apartheid galt. Wo nahm er mit Musikern vor Ort auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auf Jamaika"
+      },
+      {
+        "id": "b",
+        "text": "In Brasilien"
+      },
+      {
+        "id": "c",
+        "text": "In Irland"
+      },
+      {
+        "id": "d",
+        "text": "In Südafrika"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Simon reiste nach Südafrika und arbeitete dort mit einheimischen Musikern. Die Aufnahmen während der Apartheid lösten auch eine politische Debatte aus.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Paul Simon · Entstehung und Jubiläum von Graceland",
+        "url": "https://www.paulsimon.com/news/25th-anniversary-paul-simon-graceland-screenings-television-under-african-skies-editions-june-5/",
+        "verified_claim": "Paul Simon reiste für „Graceland“ nach Südafrika und nahm mit Musikern vor Ort auf. Der damalige Kulturboykott machte die Zusammenarbeit umstritten.",
+        "checked_at": "2026-11-22T18:26:23Z",
+        "locator": "Rückblick zur Dokumentation „Under African Skies“",
+        "source_anchor": "South Africa to record with local artists",
+        "opened_line": 36
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:39:35Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-daft-duo",
+    "fact_key": "media.daft_duo",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welche beiden Gastmusiker sind auf Daft Punks „Get Lucky“ gemeinsam zu hören?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pharrell Williams und Nile Rodgers"
+      },
+      {
+        "id": "b",
+        "text": "Stevie Wonder und Carlos Santana"
+      },
+      {
+        "id": "c",
+        "text": "Bruno Mars und Lenny Kravitz"
+      },
+      {
+        "id": "d",
+        "text": "Justin Timberlake und Mark Ronson"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Titel erschien 2013 auf „Random Access Memories“. Ein Jahr später wurde „Get Lucky“ bei den Grammys als Aufnahme des Jahres ausgezeichnet.",
+    "tags": [
+      "thema_popmusik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Daft Punk · Random Access Memories",
+        "url": "https://www.daftpunk.com/randomaccessmemories/",
+        "verified_claim": "Die Daft-Punk-Diskografie nennt Pharrell Williams und Nile Rodgers als Gäste bei „Get Lucky“. Das Album erschien 2013, der Grammy für die Aufnahme folgte 2014.",
+        "checked_at": "2026-11-22T18:26:23Z",
+        "locator": "Titelliste und Credits zu „Get Lucky“",
+        "source_anchor": "Pharrell Williams, Nile Rodgers",
+        "opened_line": 32
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:39:35Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-maneskin-name",
+    "fact_key": "media.maneskin_name",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Die italienische Band Måneskin wählte ein dänisches Wort als Namen. Was bedeutet es?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Meeresrauschen"
+      },
+      {
+        "id": "b",
+        "text": "Mondlicht"
+      },
+      {
+        "id": "c",
+        "text": "Sternschnuppe"
+      },
+      {
+        "id": "d",
+        "text": "Morgenrot"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Name erinnert an die dänischen Wurzeln der Bassistin Victoria. Die Band vertrat Italien 2021 beim Eurovision Song Contest in Rotterdam.",
+    "tags": [
+      "thema_musikgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "European Broadcasting Union · Måneskin in Rotterdam 2021",
+        "url": "https://www.eurovision.com/eurovision-song-contest/rotterdam-2021/participants/maneskin-1/",
+        "verified_claim": "Der Name der italienischen ESC-Gruppe Måneskin ist das dänische Wort für Mondlicht. Die Wahl erinnert an die Herkunft der Bassistin Victoria.",
+        "checked_at": "2026-11-22T18:27:41Z",
+        "locator": "Bandbiografie zur Namenswahl",
+        "source_anchor": "Danish word for ‘moonlight’",
+        "opened_line": 82
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-casablanca-flucht",
+    "fact_key": "media.casablanca_flucht",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Rick liebt Ilsa. Welche Entscheidung trifft er in „Casablanca“ am Flughafen, als ihr Mann vor den Nationalsozialisten fliehen muss?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er gibt beide Flugscheine an die Polizei zurück."
+      },
+      {
+        "id": "b",
+        "text": "Er ermöglicht Ilsa und ihrem Mann den Abflug."
+      },
+      {
+        "id": "c",
+        "text": "Er fliegt mit Ilsa und lässt ihren Mann zurück."
+      },
+      {
+        "id": "d",
+        "text": "Er schickt Ilsa allein fort und bleibt bei ihrem Mann."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Rick stellt seinen eigenen Wunsch zurück. Ilsa und ihr Mann, der Widerstandskämpfer Victor Laszlo, können gemeinsam ins Flugzeug steigen.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "American Film Institute · Casablanca",
+        "url": "https://catalog.afi.com/Film/27175-CASABLANCA",
+        "verified_claim": "Am Flughafen ermöglicht Rick, dass Ilsa mit ihrem Mann ausreist. Rick erkennt die Bedeutung der beiden füreinander und seiner früheren Liebe zu Ilsa.",
+        "checked_at": "2026-11-22T18:29:24Z",
+        "locator": "Synopsis, Schlusssequenz am Flughafen",
+        "source_anchor": "she is to leave with Lazlo",
+        "opened_line": 925
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-metropolis-rotwang",
+    "fact_key": "media.metropolis_rotwang",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Wer gibt dem stählernen Maschinenmenschen in Fritz Langs „Metropolis“ das Aussehen von Maria?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Fredersens Sohn Freder"
+      },
+      {
+        "id": "b",
+        "text": "Der Maschinenwärter Grot"
+      },
+      {
+        "id": "c",
+        "text": "Der Erfinder Rotwang"
+      },
+      {
+        "id": "d",
+        "text": "Der Industrielle Joh Fredersen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Joh Fredersen erteilt den Auftrag. Rotwang baut den Roboter so um, dass er Marias Gesicht trägt.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Filminstitut & Filmmuseum · Metropolis",
+        "url": "https://www.filmportal.de/film/metropolis_6329d4cc9d134d2386233262b52d274d",
+        "verified_claim": "Rotwang baut den Roboter. Auf Anweisung von Joh Fredersen gibt der Erfinder ihm das Aussehen Marias.",
+        "checked_at": "2026-11-22T18:26:39Z",
+        "locator": "Inhaltsbeschreibung, Auftrag von Fredersen und Nachbildung Marias",
+        "source_anchor": "Rotwang, der Erfinder",
+        "opened_line": 14
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:40:28Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-feuerzangenbowle-schule",
+    "fact_key": "media.feuerzangenbowle_schule",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Warum gibt sich der erwachsene Schriftsteller Pfeiffer in „Die Feuerzangenbowle“ als Gymnasiast aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er muss eine alte Abschlussprüfung wiederholen."
+      },
+      {
+        "id": "b",
+        "text": "Er soll heimlich einen Lehrer begutachten."
+      },
+      {
+        "id": "c",
+        "text": "Er will Material für einen Schulratgeber sammeln."
+      },
+      {
+        "id": "d",
+        "text": "Er will eine Schulzeit mit Mitschülern nachholen."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Pfeiffer hatte zu Hause einen Privatlehrer. Als Freunde von ihren Schulstreichen erzählen, will er solche Erlebnisse selbst nachholen.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Filminstitut & Filmmuseum · Die Feuerzangenbowle",
+        "url": "https://www.filmportal.de/film/die-feuerzangenbowle_8f1f6801f421480f861713b3bd4c0489",
+        "verified_claim": "Pfeiffer erhielt Privatunterricht. Nachdem er von der gemeinsamen Schulzeit der Freunde hört, besucht er als angeblicher Gymnasiast selbst eine Schule.",
+        "checked_at": "2026-11-22T18:26:39Z",
+        "locator": "Inhalt, Grund für Pfeiffers Schulbesuch",
+        "source_anchor": "von einem Privatlehrer unterrichtet",
+        "opened_line": 16
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-berlin-marion",
+    "fact_key": "media.berlin_marion",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "Wie verdient Marion, in die sich der Engel Damiel in „Der Himmel über Berlin“ verliebt, ihren Lebensunterhalt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Als Trapezkünstlerin"
+      },
+      {
+        "id": "b",
+        "text": "Als Puppenspielerin"
+      },
+      {
+        "id": "c",
+        "text": "Als Tänzerin"
+      },
+      {
+        "id": "d",
+        "text": "Als Sängerin"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Damiel kann den Gedanken der Menschen zuhören. Seine Liebe zu Marion weckt den Wunsch, selbst ein Mensch zu sein.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wim Wenders Stiftung · Der Himmel über Berlin",
+        "url": "https://wimwendersstiftung.de/film/der-himmel-ueber-berlin/",
+        "verified_claim": "Marion arbeitet als Trapezkünstlerin. Nachdem Damiel sich in sie verliebt hat, möchte er Mensch werden.",
+        "checked_at": "2026-11-22T18:26:39Z",
+        "locator": "Handlungsbeschreibung, Damiels Begegnung mit Marion",
+        "source_anchor": "Trapezkünstlerin Marion",
+        "opened_line": 56
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:39:35Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-lola-varianten",
+    "fact_key": "media.lola_varianten",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Wie erzählt „Lola rennt“ von den zwanzig Minuten, in denen Lola Geld für ihren Freund beschaffen muss?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dieselbe Ausgangslage entfaltet sich in drei Varianten."
+      },
+      {
+        "id": "b",
+        "text": "Jeder der drei Akte erzählt von einer anderen Woche."
+      },
+      {
+        "id": "c",
+        "text": "Jeder Rückblick springt ein weiteres Jahr zurück."
+      },
+      {
+        "id": "d",
+        "text": "Drei fremde Städte erzählen denselben Tag nacheinander."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Lola versucht dreimal, Manni zu retten. Kleine Abweichungen verändern, wohin sie läuft und wie der Versuch ausgeht.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Filminstitut & Filmmuseum · Lola rennt",
+        "url": "https://www.filmportal.de/film/lola-rennt_5eaa6761762f44d6bbc15718c87b9795",
+        "verified_claim": "Lola muss für Manni binnen zwanzig Minuten Geld auftreiben. Der Film erzählt drei unterschiedlich verlaufende Versuche.",
+        "checked_at": "2026-11-22T18:26:39Z",
+        "locator": "Inhalt, die drei Versionen von Lolas Lauf",
+        "source_anchor": "Lola hat drei Versuche",
+        "opened_line": 15
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-lenin-wohnung",
+    "fact_key": "media.lenin_wohnung",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Warum richtet Alex in „Good Bye, Lenin!“ die Wohnung seiner Mutter wieder so ein, als gäbe es die DDR noch?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Käufer will die Wohnung im alten Zustand übernehmen."
+      },
+      {
+        "id": "b",
+        "text": "Nach ihrem Koma will er ihr eine schwere Aufregung ersparen."
+      },
+      {
+        "id": "c",
+        "text": "Für ein Museum will er eine Musterwohnung fotografieren."
+      },
+      {
+        "id": "d",
+        "text": "Für eine Fernsehserie muss er historische Requisiten sammeln."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Christiane hat den Mauerfall im Koma verpasst. Ihr Sohn versucht, die Veränderungen vor der gesundheitlich geschwächten Mutter zu verbergen.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Filminstitut & Filmmuseum · Good Bye, Lenin!",
+        "url": "https://www.filmportal.de/film/good-bye-lenin_6ef603c12388422d8bb82ad21c93ef2e",
+        "verified_claim": "Nach dem Koma seiner Mutter fürchtet Alex die Wirkung der Nachricht über das Ende der DDR. Er baut ihre frühere Umgebung nach.",
+        "checked_at": "2026-11-22T18:26:39Z",
+        "locator": "Inhaltsbeschreibung, Erwachen der Mutter im Sommer 1990",
+        "source_anchor": "den Schock des totalen Wandels zu ersparen",
+        "opened_line": 30
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-wiesler-kuenstler",
+    "fact_key": "media.wiesler_kuenstler",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Wen soll Stasi-Hauptmann Wiesler in „Das Leben der Anderen“ überwachen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einen Dirigenten und eine Tänzerin"
+      },
+      {
+        "id": "b",
+        "text": "Einen Sportreporter und eine Sängerin"
+      },
+      {
+        "id": "c",
+        "text": "Einen Schriftsteller und eine Schauspielerin"
+      },
+      {
+        "id": "d",
+        "text": "Einen Fotografen und eine Nachrichtensprecherin"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Überwachung des Künstlerpaars in Ost-Berlin führt Wiesler in einen Gewissenskonflikt. Die Kunst und das Leben der beiden beginnen ihn zu berühren.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsches Filminstitut & Filmmuseum · Das Leben der Anderen",
+        "url": "https://www.filmportal.de/film/das-leben-der-anderen_cd85e167113046cf85f25cebf37bb307",
+        "verified_claim": "Wiesler soll in Ost-Berlin einen Schriftsteller und dessen Partnerin, eine Theaterschauspielerin, ausspionieren. Dabei gerät er in einen moralischen Konflikt.",
+        "checked_at": "2026-11-22T18:28:49Z",
+        "locator": "Inhalt, Überwachungsauftrag in Ost-Berlin 1984",
+        "source_anchor": "Schriftsteller Georg Dreymann",
+        "opened_line": 14
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-zeitmaschine-auto",
+    "fact_key": "media.zeitmaschine_auto",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Was hat Doc Brown in „Zurück in die Zukunft“ zur Zeitmaschine umgebaut?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Motorboot"
+      },
+      {
+        "id": "b",
+        "text": "Einen Reisebus"
+      },
+      {
+        "id": "c",
+        "text": "Ein Segelflugzeug"
+      },
+      {
+        "id": "d",
+        "text": "Einen Sportwagen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Wagen ist ein DeLorean. Mit ihm landet der Jugendliche Marty McFly im Jahr 1955 und muss seinen Weg zurückfinden.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Universal Pictures · Back to the Future",
+        "url": "https://www.universalpicturesathome.com/movies/back-to-the-future",
+        "verified_claim": "Doc Brown baut einen DeLorean zur Zeitmaschine um. Marty McFly reist damit in das Jahr 1955.",
+        "checked_at": "2026-11-22T18:26:39Z",
+        "locator": "Studio-Inhaltsbeschreibung, Zeitreise nach 1955",
+        "source_anchor": "DeLorean time machine",
+        "opened_line": 37
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-et-heimkehr",
+    "fact_key": "media.et_heimkehr",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Was wollen Elliott und seine Geschwister in „E.T.“ für ihren außerirdischen Freund erreichen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dass er öffentlich im Fernsehen auftritt"
+      },
+      {
+        "id": "b",
+        "text": "Dass er auf der Erde zur Schule geht"
+      },
+      {
+        "id": "c",
+        "text": "Dass er für eine Forschungsstation arbeitet"
+      },
+      {
+        "id": "d",
+        "text": "Dass er wieder nach Hause kommt"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "E.T. ist auf der Erde gestrandet. Die Kinder helfen ihm, während ihnen Regierungsbeamte auf der Spur sind.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Universal Pictures · E.T. The Extra-Terrestrial",
+        "url": "https://www.universalpicturesathome.com/movies/et-the-extra-terrestrial",
+        "verified_claim": "Elliott und seine Geschwister helfen dem gestrandeten Außerirdischen E.T. bei der Heimkehr. Regierungsbeamte verfolgen sie.",
+        "checked_at": "2026-11-22T18:26:39Z",
+        "locator": "Studio-Inhaltsbeschreibung, Ziel der Geschwister",
+        "source_anchor": "help E.T. find his way home",
+        "opened_line": 37
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-nemo-vater",
+    "fact_key": "media.nemo_vater",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In „Findet Nemo“ wagt sich Marlin auf der Suche nach Nemo weit hinaus ins Meer. In welcher Beziehung stehen die beiden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Marlin ist Nemos Vater."
+      },
+      {
+        "id": "b",
+        "text": "Marlin ist Nemos Lehrer."
+      },
+      {
+        "id": "c",
+        "text": "Marlin ist Nemos Bruder."
+      },
+      {
+        "id": "d",
+        "text": "Marlin ist Nemos Großvater."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Marlin hat Angst vor dem offenen Meer. Als sein Sohn verschwindet, muss der vorsichtige Vater genau dorthin aufbrechen.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · Finding Nemo",
+        "url": "https://www.pixar.com/finding-nemo",
+        "verified_claim": "Marlin ist Nemos Vater. Nach dem Verschwinden seines Sohns wagt er sich über sein geschütztes Zuhause hinaus aufs offene Meer.",
+        "checked_at": "2026-11-22T18:26:39Z",
+        "locator": "Figurenporträt Marlin",
+        "source_anchor": "his only surviving child, Nemo",
+        "opened_line": 80
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-riley-zentrale",
+    "fact_key": "media.riley_zentrale",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Freude und Kummer arbeiten in „Alles steht Kopf“ an einem Schaltpult. Wofür steht diese Zentrale in der Geschichte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für die Wetterstation ihrer Stadt"
+      },
+      {
+        "id": "b",
+        "text": "Für die Gefühlswelt des Mädchens Riley"
+      },
+      {
+        "id": "c",
+        "text": "Für die tatsächliche Leitstelle ihrer Schule"
+      },
+      {
+        "id": "d",
+        "text": "Für das Videospiel ihres Bruders"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Figuren verkörpern Rileys Gefühle. Als ihre Familie nach San Francisco zieht, gerät auch das Zusammenspiel in ihrem Kopf durcheinander.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Pixar Animation Studios · Inside Out",
+        "url": "https://www.pixar.com/inside-out",
+        "verified_claim": "Im Kopf der elfjährigen Riley steht ein Kontrollraum für ihre Gefühle. Ihr Umzug nach San Francisco verändert ihr vertrautes Leben.",
+        "checked_at": "2026-11-22T18:26:39Z",
+        "locator": "The Characters und Headquarters",
+        "source_anchor": "control center inside Riley’s mind",
+        "opened_line": 52
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-paddington-fundort",
+    "fact_key": "media.paddington_fundort",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wo findet die Familie Brown im ersten „Paddington“-Kinofilm den Bären, der gerade in London angekommen ist?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auf einem Wochenmarkt"
+      },
+      {
+        "id": "b",
+        "text": "Am Tor eines Zoos"
+      },
+      {
+        "id": "c",
+        "text": "Auf einem Bahnhof"
+      },
+      {
+        "id": "d",
+        "text": "Im Eingang eines Museums"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der kleine Bär ist aus Peru nach London gereist. Am Bahnhof Paddington sehen die Browns ihn mit einem Zettel, der um Fürsorge für ihn bittet.",
+    "tags": [
+      "thema_filmgeschichten",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "British Council · Paddington",
+        "url": "https://filmsandfestivals.britishcouncil.org/projects/paddington",
+        "verified_claim": "Der aus Peru eingereiste Bär trifft die Familie Brown am Londoner Bahnhof Paddington. Ein Zettel an ihm bittet um Fürsorge.",
+        "checked_at": "2026-11-22T18:28:49Z",
+        "locator": "UK Films Database, Synopsis des Films von 2014",
+        "source_anchor": "discovered at Paddington Station",
+        "opened_line": 18
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-schaltkonferenz",
+    "fact_key": "media.schaltkonferenz",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wie unterscheidet sich die Bundesliga-Konferenz im Radio von der Einzelübertragung eines Spiels?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie lässt mehrere Reporter dasselbe Tor besprechen."
+      },
+      {
+        "id": "b",
+        "text": "Sie wechselt zwischen Heim- und Gästeblock."
+      },
+      {
+        "id": "c",
+        "text": "Sie wechselt live zwischen mehreren Stadien."
+      },
+      {
+        "id": "d",
+        "text": "Sie spielt erst nach Abpfiff die Interviews ab."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "In der Regie laufen Leitungen aus den Stadien zusammen. Fallen in zwei Spielen fast gleichzeitig Tore, entscheidet das Team, wohin es schaltet.",
+    "tags": [
+      "thema_sportmedien",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "ARD Sportschau / WDR · Hinter den Kulissen der Bundesliga-Konferenz",
+        "url": "https://www.sportschau.de/regional/wdr/wdr-hinter-den-kulissen-der-bundesliga-konferenz-102.html",
+        "verified_claim": "Eine zentrale Regie schaltet die Live-Leitungen verschiedener Stadien zusammen und koordiniert die Reporter.",
+        "checked_at": "2026-11-22T18:26:50Z",
+        "locator": "Abschnitt „Im Maschinenraum der ARD Bundesliga-Konferenz“",
+        "source_anchor": "Leitungen aus den Stadien",
+        "opened_line": 405
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:40:28Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-tor-des-monats",
+    "fact_key": "media.tor_des_monats",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Wer entscheidet bei der „Sportschau“, welcher der vorgeschlagenen Treffer das „Tor des Monats“ wird?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Trainer der Bundesliga"
+      },
+      {
+        "id": "b",
+        "text": "Die Schiedsrichter der Spiele"
+      },
+      {
+        "id": "c",
+        "text": "Die Kapitäne der beteiligten Teams"
+      },
+      {
+        "id": "d",
+        "text": "Das Publikum der Sendung"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die „Sportschau“ lässt über ausgewählte Treffer abstimmen. Ihr Archiv führt die ausgezeichneten Tore bis 1971 zurück.",
+    "tags": [
+      "thema_sportmedien",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "ARD Sportschau · Tor des Monats, Archiv seit 1971",
+        "url": "https://www.sportschau.de/tor-des-monats/archiv/index.html",
+        "verified_claim": "Die Sportschau lässt ihre Zuschauer das Tor des Monats wählen. Das Archiv reicht bis 1971 zurück.",
+        "checked_at": "2026-11-22T18:26:50Z",
+        "locator": "Archivbeschreibung, Wahl durch das Publikum",
+        "source_anchor": "wählen die Zuschauer der Sportschau",
+        "opened_line": 444
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-torwand-sechs",
+    "fact_key": "media.torwand_sechs",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "„Drei unten, drei oben“ lautet eine bekannte Ansage im „aktuellen sportstudio“. Worauf zielen die Gäste dabei?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auf zwei Öffnungen in einer Torwand"
+      },
+      {
+        "id": "b",
+        "text": "Auf zwei Basketballkörbe im Studio"
+      },
+      {
+        "id": "c",
+        "text": "Auf zwei markierte Felder an der Hallendecke"
+      },
+      {
+        "id": "d",
+        "text": "Auf zwei vor dem Tor gespannte Netze"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Torwandschießen gehört zur ZDF-Sendung. Die sechs Versuche verteilen sich gleichmäßig auf die untere und die obere Öffnung.",
+    "tags": [
+      "thema_sportmedien",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "ZDF · das aktuelle sportstudio",
+        "url": "https://www.zdf.de/shows/das-aktuelle-sportstudio-220",
+        "verified_claim": "Das ZDF beschreibt das Torwandschießen im aktuellen sportstudio als drei Versuche unten und drei oben.",
+        "checked_at": "2026-11-22T18:26:50Z",
+        "locator": "Sendungsbeschreibung, Torwand und Schussfolge",
+        "source_anchor": "Drei unten, drei oben",
+        "opened_line": 49
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-satellit-tokio",
+    "fact_key": "media.satellit_tokio",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Welche Neuerung ermöglichte 1964 bei Olympia in Tokio Fernseh-Livebilder über den Pazifik?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein dichtes Netz von Richtfunkmasten auf Inseln"
+      },
+      {
+        "id": "b",
+        "text": "Ein Nachrichtensatellit als Relais im All"
+      },
+      {
+        "id": "c",
+        "text": "Ein durchgehendes Fernseh-Seekabel"
+      },
+      {
+        "id": "d",
+        "text": "Eine Kette von Sendeschiffen auf dem Ozean"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Japan und die NASA arbeiteten für die Satellitenverbindung zusammen. Der Satellit war ursprünglich für Telefonsignale gedacht und übertrug nun auch Fernsehbilder.",
+    "tags": [
+      "thema_sportmedien",
+      "form_herleiten",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Internationales Olympisches Komitee · Fernsehinnovationen von Tokio 1964",
+        "url": "https://www.olympics.com/ioc/news/technological-innovations-at-the-olympic-games-tokyo-1964?displayAsWebView=true%2Ctrue",
+        "verified_claim": "Bei den Sommerspielen 1964 kamen Fernseh-Direktbilder per Satellit zu einem internationalen Publikum. Bei der Satellitentechnik arbeiteten Japan und die NASA zusammen.",
+        "checked_at": "2026-11-22T18:26:50Z",
+        "locator": "Abschnitt zur internationalen Live-Übertragung",
+        "source_anchor": "used satellite technology to relay live pictures",
+        "opened_line": 28
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:39:35Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-hymne-haendel",
+    "fact_key": "media.hymne_haendel",
+    "category": "entertainment",
+    "difficulty": "hard",
+    "question": "An wessen Musik sollte sich Tony Britten 1992 beim Schreiben der Hymne zur UEFA Champions League stilistisch anlehnen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "An Edvard Grieg"
+      },
+      {
+        "id": "b",
+        "text": "An Georg Friedrich Händel"
+      },
+      {
+        "id": "c",
+        "text": "An Ludwig van Beethoven"
+      },
+      {
+        "id": "d",
+        "text": "An Johann Strauss"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die UEFA wünschte sich ein Stück im Stil Händels. In der bekannten Aufnahme erklingen ein Orchester und der Chor der Academy of Saint Martin in the Fields.",
+    "tags": [
+      "thema_sportmedien",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "UEFA · Die Hymne der Champions League",
+        "url": "https://www.uefa.com/uefachampionsleague/news/022d-0e1636f1244a-c916aa410dad-1000--champions-league-anthem/?lang=en",
+        "verified_claim": "Tony Britten erhielt 1992 den Auftrag für eine Hymne im Stil Georg Friedrich Händels. Zur Aufnahme gehörte der Chor der Academy of Saint Martin in the Fields.",
+        "checked_at": "2026-11-22T18:26:51Z",
+        "locator": "Rückblick auf den Kompositionsauftrag von 1992",
+        "source_anchor": "in the style of George Frideric Handel",
+        "opened_line": 22
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-bern-reporter",
+    "fact_key": "media.bern_reporter",
+    "category": "entertainment",
+    "difficulty": "medium",
+    "question": "Wessen Radiostimme begleitete 1954 das „Wunder von Bern“ beim Fußball-WM-Finale?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Heribert Faßbender"
+      },
+      {
+        "id": "b",
+        "text": "Günter Netzer"
+      },
+      {
+        "id": "c",
+        "text": "Herbert Zimmermann"
+      },
+      {
+        "id": "d",
+        "text": "Ernst Huberty"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Zimmermann berichtete aus dem Berner Wankdorf-Stadion für den Hörfunk. Den damaligen Fernsehkommentar sprach Bernhard Ernst.",
+    "tags": [
+      "thema_sportmedien",
+      "form_wiedererkennen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NDR · Herbert Zimmermann und das WM-Endspiel 1954",
+        "url": "https://www.ndr.de/geschichte/koepfe/Herbert-Zimmermann-Die-Reporter-Legende-vom-WM-Endspiel-1954%2Cherbertzimmermann100.html",
+        "verified_claim": "Herbert Zimmermann kommentierte das WM-Endspiel 1954 aus dem Wankdorf-Stadion im Radio. Bernhard Ernst übernahm den Fernsehkommentar.",
+        "checked_at": "2026-11-22T18:43:19Z",
+        "locator": "Einleitung mit Übergabe aus dem Wankdorf-Stadion",
+        "source_anchor": "den Radio-Kommentar zum Endspiel",
+        "opened_line": 26
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:43:19Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:43:28Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:43:28Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-peking-trommeln",
+    "fact_key": "media.peking_trommeln",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "In welcher Olympiastadt traten am 8. August 2008 bei der Eröffnungsfeier im Stadion „Vogelnest“ über zweitausend Trommler auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Athen"
+      },
+      {
+        "id": "b",
+        "text": "London"
+      },
+      {
+        "id": "c",
+        "text": "Sydney"
+      },
+      {
+        "id": "d",
+        "text": "Peking"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Im Pekinger Olympiastadion gaben 2.008 Trommler den Rhythmus vor. Ihre Zahl entsprach genau der Jahreszahl.",
+    "tags": [
+      "thema_sportmedien",
+      "form_herleiten",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Internationales Olympisches Komitee · The Opening Ceremonies of the Olympic Games",
+        "url": "https://www.olympics.com/ioc/news/opening-ceremonies",
+        "verified_claim": "Im Pekinger „Vogelnest“ eröffneten am 8. August 2008 insgesamt 2.008 Trommler die Feier.",
+        "checked_at": "2026-11-22T18:26:50Z",
+        "locator": "Abschnitt „Beijing 2008 Opening Ceremony“",
+        "source_anchor": "2008 drummers",
+        "opened_line": 92
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:39:35Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "k-media-radsport-kamera",
+    "fact_key": "media.radsport_kamera",
+    "category": "entertainment",
+    "difficulty": "easy",
+    "question": "Bei einem großen Straßenradrennen bleibt das Fernsehbild auf Augenhöhe an der fahrenden Spitzengruppe. Wo sitzt die Kamera für solche Bilder üblicherweise?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auf einem Begleitmotorrad"
+      },
+      {
+        "id": "b",
+        "text": "Im Übertragungshubschrauber"
+      },
+      {
+        "id": "c",
+        "text": "Am Mast der Zeitmessung"
+      },
+      {
+        "id": "d",
+        "text": "Auf dem Dach des Zielwagens"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Bei großen Straßenrennen begleiten Kameramotorräder die Gruppen. Ein Hubschrauber kann zusätzlich aus der Luft zeigen, wie Ausreißer und Hauptfeld zueinander liegen.",
+    "tags": [
+      "thema_sportmedien",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Union Cycliste Internationale · TV-Produktion bei Straßenrennen",
+        "url": "https://downloads.ctfassets.net/761l7gh5x5an/5YpSAyXYbW1zQisP6cN8YM/55fab9d80c79a4eb08785997b585b239/2025_UCI_ROAD_CAHIER-CHARGES-ORGA_ENG_V05.pdf",
+        "verified_claim": "Die UCI beschreibt stabilisierte Kameramotorräder, die Spitzengruppen begleiten. Eine Helikopterkamera kann die Gruppen von oben zeigen.",
+        "checked_at": "2026-11-22T18:28:49Z",
+        "locator": "Kapitel 11 zu Kameramotorrädern und Verfolgergruppen",
+        "source_anchor": "camera motorbikes",
+        "opened_line": 1101
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:35:46Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Unterhaltungsredaktion",
+        "at": "2026-11-22T18:41:34Z",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass"
+      },
+      "approved_at": "2026-11-22T18:41:34Z",
+      "approved_by": "Codex · Unterhaltungsredaktion",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

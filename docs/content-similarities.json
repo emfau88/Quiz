@@ -1,64 +1,6 @@
 {
-  "catalog": "de-7363fcba52a1",
+  "catalog": "de-03c46c2cd256",
   "candidates": [
-    {
-      "a": "k-academy-1995-hl",
-      "b": "k-academy-1994-hl",
-      "solution": "tom hanks",
-      "questions": [
-        "Wer gewann für „Forrest Gump“ den Oscar als bester Hauptdarsteller?",
-        "Wer gewann für „Philadelphia“ den Oscar als bester Hauptdarsteller?"
-      ],
-      "overlap": [
-        "bester",
-        "gewann",
-        "hauptdarsteller",
-        "oscar"
-      ]
-    },
-    {
-      "a": "qs-fr-telefonvorwahl",
-      "b": "qs-fr-laenderdomain",
-      "solution": "frankreich",
-      "questions": [
-        "Zu welchem Land gehört die internationale Telefonvorwahl +33 (Stand November 2026)?",
-        "Welchem Land ist die Internet-Länderendung .fr zugeteilt (Stand November 2026)?"
-      ],
-      "overlap": [
-        "2026",
-        "land",
-        "november",
-        "stand"
-      ]
-    },
-    {
-      "a": "k-cldr-en-field-year",
-      "b": "k-cldr-da-field-year",
-      "solution": "jahr",
-      "questions": [
-        "Welche Zeiteinheit bezeichnet „year“ im Englischen?",
-        "Welche Zeiteinheit bezeichnet „år“ im Dänischen?"
-      ],
-      "overlap": [
-        "bezeichnet",
-        "zeiteinheit"
-      ]
-    },
-    {
-      "a": "qs-ch-telefonvorwahl",
-      "b": "qs-ch-laenderdomain",
-      "solution": "schweiz",
-      "questions": [
-        "Zu welchem Land gehört die internationale Telefonvorwahl +41 (Stand November 2026)?",
-        "Welchem Land ist die Internet-Länderendung .ch zugeteilt (Stand November 2026)?"
-      ],
-      "overlap": [
-        "2026",
-        "land",
-        "november",
-        "stand"
-      ]
-    },
     {
       "a": "k-cldr-fr-territory-de",
       "b": "k-cldr-es-territory-de",
@@ -99,34 +41,6 @@
       ]
     },
     {
-      "a": "qs-de-telefonvorwahl",
-      "b": "qs-de-laenderdomain",
-      "solution": "deutschland",
-      "questions": [
-        "Zu welchem Land gehört die internationale Telefonvorwahl +49 (Stand November 2026)?",
-        "Welchem Land ist die Internet-Länderendung .de zugeteilt (Stand November 2026)?"
-      ],
-      "overlap": [
-        "2026",
-        "land",
-        "november",
-        "stand"
-      ]
-    },
-    {
-      "a": "k-cldr-tr-field-month",
-      "b": "k-cldr-fr-field-month",
-      "solution": "monat",
-      "questions": [
-        "Welche Zeiteinheit bezeichnet „ay“ im Türkischen?",
-        "Welche Zeiteinheit bezeichnet „mois“ im Französischen?"
-      ],
-      "overlap": [
-        "bezeichnet",
-        "zeiteinheit"
-      ]
-    },
-    {
       "a": "k-cldr-nl-field-week",
       "b": "k-cldr-it-field-week",
       "solution": "woche",
@@ -137,21 +51,6 @@
       "overlap": [
         "bezeichnet",
         "zeiteinheit"
-      ]
-    },
-    {
-      "a": "qs-at-telefonvorwahl",
-      "b": "qs-at-laenderdomain",
-      "solution": "österreich",
-      "questions": [
-        "Zu welchem Land gehört die internationale Telefonvorwahl +43 (Stand November 2026)?",
-        "Welchem Land ist die Internet-Länderendung .at zugeteilt (Stand November 2026)?"
-      ],
-      "overlap": [
-        "2026",
-        "land",
-        "november",
-        "stand"
       ]
     },
     {
@@ -181,49 +80,315 @@
       ]
     },
     {
-      "a": "qs-gb-telefonvorwahl",
-      "b": "qs-gb-laenderdomain",
-      "solution": "vereinigtes königreich",
+      "a": "k-media-abba-brighton",
+      "b": "k-esc-first-city",
       "questions": [
-        "Zu welchem Land gehört die internationale Telefonvorwahl +44 (Stand November 2026)?",
-        "Welchem Land ist die Internet-Länderendung .uk zugeteilt (Stand November 2026)?"
+        "In welchem Jahrzehnt gewann ABBA in Brighton mit „Waterloo“ den Eurovision Song Contest?",
+        "In welcher Schweizer Stadt fand 1956 der erste Grand Prix de la Chanson statt, der Vorläufer des Eurovision Song Contest?"
       ],
       "overlap": [
-        "2026",
-        "land",
-        "november",
-        "stand"
-      ]
+        "contest",
+        "eurovision",
+        "song"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
     },
     {
-      "a": "qs-it-telefonvorwahl",
-      "b": "qs-it-laenderdomain",
-      "solution": "italien",
+      "a": "k-media-abba-brighton",
+      "b": "k-esc-nicole-song",
       "questions": [
-        "Zu welchem Land gehört die internationale Telefonvorwahl +39 (Stand November 2026)?",
-        "Welchem Land ist die Internet-Länderendung .it zugeteilt (Stand November 2026)?"
+        "In welchem Jahrzehnt gewann ABBA in Brighton mit „Waterloo“ den Eurovision Song Contest?",
+        "Mit welchem Lied gewann Nicole 1982 den Eurovision Song Contest?"
       ],
       "overlap": [
-        "2026",
-        "land",
-        "november",
-        "stand"
-      ]
+        "contest",
+        "eurovision",
+        "song"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
     },
     {
-      "a": "qs-mg-weltregion",
-      "b": "qs-lemuren-madagaskar",
-      "solution": [
-        "afrika",
-        "madagaskar"
-      ],
+      "a": "k-media-abba-brighton",
+      "b": "k-media-lena-oslo",
       "questions": [
-        "Zu welchem Erdteil gehört Madagaskar?",
-        "Auf welcher großen Insel vor Afrika leben zahlreiche Lemurenarten?"
+        "In welchem Jahrzehnt gewann ABBA in Brighton mit „Waterloo“ den Eurovision Song Contest?",
+        "Mit welchem Song gewann Lena 2010 in Oslo den Eurovision Song Contest?"
       ],
       "overlap": [
-        "wechselseitiger Lösungsbezug"
-      ]
+        "contest",
+        "eurovision",
+        "song"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "k-media-abba-brighton",
+      "b": "k-music-bowie-fame",
+      "questions": [
+        "In welchem Jahrzehnt gewann ABBA in Brighton mit „Waterloo“ den Eurovision Song Contest?",
+        "Welcher britische Sänger veröffentlichte den Song „Fame“ in den 1970er-Jahren?"
+      ],
+      "overlap": [
+        "1970",
+        "jahr",
+        "song"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "k-media-abba-brighton",
+      "b": "qs-b4-dfb-frauenfussball",
+      "questions": [
+        "In welchem Jahrzehnt gewann ABBA in Brighton mit „Waterloo“ den Eurovision Song Contest?",
+        "Seit 1955 galt im DFB ein Verbot für Frauenfußball. In welchem Jahrzehnt hob der Verband es auf?"
+      ],
+      "overlap": [
+        "1970",
+        "jahr",
+        "jahrzehnt"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "k-media-graceland-partner",
+      "b": "qs-za-waehrung-2026",
+      "questions": [
+        "Paul Simon reiste für „Graceland“ in ein Land, in dem damals die Apartheid galt. Wo nahm er mit Musikern vor Ort auf?",
+        "Welche Landeswährung galt in Südafrika im November 2026?"
+      ],
+      "overlap": [
+        "galt",
+        "südafrika"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "k-media-hosen-tage",
+      "b": "k-music-acdc-highway",
+      "questions": [
+        "Welche Band veröffentlichte auf dem Album „Ballast der Republik“ den Song „Tage wie diese“?",
+        "Welche Band veröffentlichte „Highway to Hell“ und „Back in Black“?"
+      ],
+      "overlap": [
+        "band",
+        "veröffentlicht"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "k-media-hosen-tage",
+      "b": "k-music-fleetwood-album",
+      "questions": [
+        "Welche Band veröffentlichte auf dem Album „Ballast der Republik“ den Song „Tage wie diese“?",
+        "Welche Band veröffentlichte 1977 das Album „Rumours“?"
+      ],
+      "overlap": [
+        "album",
+        "band",
+        "veröffentlicht"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "k-media-hymne-haendel",
+      "b": "k-stage-ariodante-composer",
+      "questions": [
+        "An wessen Musik sollte sich Tony Britten 1992 beim Schreiben der Hymne zur UEFA Champions League stilistisch anlehnen?",
+        "Wer schrieb die Musik zur Barockoper „Ariodante“?"
+      ],
+      "overlap": [
+        "friedrich",
+        "georg",
+        "händel",
+        "musik"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "k-media-lena-oslo",
+      "b": "k-esc-first-city",
+      "questions": [
+        "Mit welchem Song gewann Lena 2010 in Oslo den Eurovision Song Contest?",
+        "In welcher Schweizer Stadt fand 1956 der erste Grand Prix de la Chanson statt, der Vorläufer des Eurovision Song Contest?"
+      ],
+      "overlap": [
+        "contest",
+        "eurovision",
+        "song"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "k-media-lena-oslo",
+      "b": "k-esc-nicole-song",
+      "questions": [
+        "Mit welchem Song gewann Lena 2010 in Oslo den Eurovision Song Contest?",
+        "Mit welchem Lied gewann Nicole 1982 den Eurovision Song Contest?"
+      ],
+      "overlap": [
+        "contest",
+        "eurovision",
+        "song"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "k-media-maneskin-name",
+      "b": "k-cldr-it-relative-1",
+      "questions": [
+        "Die italienische Band Måneskin wählte ein dänisches Wort als Namen. Was bedeutet es?",
+        "Was bedeutet „domani“ im Italienischen?"
+      ],
+      "overlap": [
+        "bedeutet",
+        "italienisch"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "k-media-maneskin-name",
+      "b": "k-cldr-it-unit-length-kilometer",
+      "questions": [
+        "Die italienische Band Måneskin wählte ein dänisches Wort als Namen. Was bedeutet es?",
+        "Was bedeutet „chilometri“ im Italienischen?"
+      ],
+      "overlap": [
+        "bedeutet",
+        "italienisch"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "k-media-siebter-sinn",
+      "b": "qs-geschwindigkeit-meter-sekunde",
+      "questions": [
+        "Eine ältere Kurzsendung zeigt Aquaplaning und wirbt für den Sicherheitsgurt. Welche Reihe ist gemeint?",
+        "Ein Windmesser zeigt 5 m/s an. Welche Größe ist damit gemeint?"
+      ],
+      "overlap": [
+        "gemeint",
+        "zeigt"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "qs-australien-zwoelf-apostel",
+      "b": "qs-barrier-reef-kueste",
+      "questions": [
+        "Wer auf Australiens Great Ocean Road zu den „Zwölf Aposteln“ fährt, sieht welche Formationen?",
+        "Vor welcher Küste liegt das Great Barrier Reef?"
+      ],
+      "overlap": [
+        "australien",
+        "great",
+        "küste"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "qs-b4-deutsche-waehrungsunion",
+      "b": "k-frg-original-currency",
+      "questions": [
+        "Wann wurde die D-Mark in der DDR als allgemeines Zahlungsmittel eingeführt?",
+        "Welche Währung wurde 1948 bei der Währungsreform in den westlichen Besatzungszonen eingeführt?"
+      ],
+      "overlap": [
+        "eingeführt",
+        "mark"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "qs-b4-golfball-dellen",
+      "b": "qs-flugzeug-winglets",
+      "questions": [
+        "Wodurch können die kleinen Dellen eines Golfballs bei einem Abschlag den Luftwiderstand verringern?",
+        "Wozu dienen die hochgebogenen Endstücke vieler Flugzeugtragflächen, die Winglets?"
+      ],
+      "overlap": [
+        "könn",
+        "luftwiderstand",
+        "verringern"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "qs-b4-marathon-joan-benoit",
+      "b": "k-chronik-stockholm-olympics",
+      "questions": [
+        "Joan Benoit gewann den ersten olympischen Marathon der Frauen. Bei welchen Sommerspielen wurde dieses Rennen ausgetragen?",
+        "Welche Hauptstadt richtete 1912 die Olympischen Sommerspiele aus?"
+      ],
+      "overlap": [
+        "olympisch",
+        "sommerspiel"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "qs-b4-muenchen-maskottchen-waldi",
+      "b": "k-chronik-stockholm-olympics",
+      "questions": [
+        "„Waldi“ war das Maskottchen der Olympischen Sommerspiele 1972 in München. Welche Hunderasse stand Modell?",
+        "Welche Hauptstadt richtete 1912 die Olympischen Sommerspiele aus?"
+      ],
+      "overlap": [
+        "olympisch",
+        "sommerspiel"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "qs-b4-olympia-gemeinsames-team",
+      "b": "k-chronik-stockholm-olympics",
+      "questions": [
+        "Was war an der deutschen Mannschaft bei den Olympischen Sommerspielen in Tokio 1964 besonders?",
+        "Welche Hauptstadt richtete 1912 die Olympischen Sommerspiele aus?"
+      ],
+      "overlap": [
+        "olympisch",
+        "sommerspiel"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "qs-b4-paralympics-rom",
+      "b": "k-chronik-wintergames-1936",
+      "questions": [
+        "Die ersten heute als Paralympics anerkannten Spiele fanden 1960 kurz nach Olympia statt. Welche europäische Stadt war Gastgeberin?",
+        "Wo fanden 1936 die Olympischen Winterspiele statt?"
+      ],
+      "overlap": [
+        "fand",
+        "statt"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "qs-igel-herbst-fettreserven",
+      "b": "qs-blauwal-tiergroesse",
+      "questions": [
+        "Welches dieser in Deutschland lebenden Tiere verbringt den Winter größtenteils im echten Winterschlaf und zehrt dabei von seinem Fettvorrat?",
+        "Welches dieser lebenden Tiere erreicht die größte Körpermasse?"
+      ],
+      "overlap": [
+        "lebend",
+        "tiere"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
+    },
+    {
+      "a": "qs-suez-seeweg",
+      "b": "qs-nil-muendung",
+      "questions": [
+        "Ein Schiff fährt durch den Suezkanal vom Mittelmeer aus nach Süden. Welches Meer erreicht es auf dem Weg zum Indischen Ozean?",
+        "In welches Meer mündet der Nil?"
+      ],
+      "overlap": [
+        "meer",
+        "mittelme"
+      ],
+      "method": "Sachbegriffe in Frage und Lösung"
     }
   ]
 }

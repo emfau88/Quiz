@@ -25,8 +25,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Wer zum Beispiel in Warschau Preise vergleicht, kann PLN als Währungskürzel sehen. Der ausgeschriebene Name lautet Złoty.",
-    "tags": [],
-    "content_revision": 2,
+    "tags": [
+      "thema_waehrungen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": "2028-11-20",
     "status": "release_approved",
@@ -42,28 +45,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:49:49.258Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:50:25.450Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:50:25.450Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -169,8 +172,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Wer zum Beispiel in Bern Preise vergleicht, kann CHF als Währungskürzel sehen. Der ausgeschriebene Name lautet Schweizer Franken.",
-    "tags": [],
-    "content_revision": 2,
+    "tags": [
+      "thema_waehrungen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": "2028-11-20",
     "status": "release_approved",
@@ -186,28 +192,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:49:49.258Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:50:25.450Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:50:25.450Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -241,8 +247,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Wer zum Beispiel in London Preise vergleicht, kann GBP als Währungskürzel sehen. Der ausgeschriebene Name lautet Pfund Sterling.",
-    "tags": [],
-    "content_revision": 2,
+    "tags": [
+      "thema_waehrungen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": "2028-11-20",
     "status": "release_approved",
@@ -258,28 +267,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:49:49.258Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:50:25.450Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:50:25.450Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -457,8 +466,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Wer zum Beispiel in Brasília Preise vergleicht, kann BRL als Währungskürzel sehen. Der ausgeschriebene Name lautet Real.",
-    "tags": [],
-    "content_revision": 2,
+    "tags": [
+      "thema_waehrungen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": "2028-11-20",
     "status": "release_approved",
@@ -474,28 +486,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:49:49.258Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:50:25.450Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:50:25.450Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -529,8 +541,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Wer zum Beispiel in Bangkok Preise vergleicht, kann THB als Währungskürzel sehen. Der ausgeschriebene Name lautet Baht.",
-    "tags": [],
-    "content_revision": 2,
+    "tags": [
+      "thema_waehrungen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": "2028-11-20",
     "status": "release_approved",
@@ -546,28 +561,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:49:49.258Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:50:25.450Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:50:25.450Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -673,8 +688,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Wer zum Beispiel in Pretoria Preise vergleicht, kann ZAR als Währungskürzel sehen. Der ausgeschriebene Name lautet Rand.",
-    "tags": [],
-    "content_revision": 2,
+    "tags": [
+      "thema_waehrungen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": "2028-11-20",
     "status": "release_approved",
@@ -690,28 +708,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:49:49.258Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:50:25.450Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:50:25.450Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -745,8 +763,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Wer zum Beispiel in Bukarest Preise vergleicht, kann RON als Währungskürzel sehen. Der ausgeschriebene Name lautet Rumänischer Leu.",
-    "tags": [],
-    "content_revision": 2,
+    "tags": [
+      "thema_waehrungen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": "2028-11-20",
     "status": "release_approved",
@@ -762,28 +783,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:49:49.258Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:50:25.450Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:50:25.450Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1033,8 +1054,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Wer zum Beispiel in Rabat Preise vergleicht, kann MAD als Währungskürzel sehen. Der ausgeschriebene Name lautet Marokkanischer Dirham.",
-    "tags": [],
-    "content_revision": 2,
+    "tags": [
+      "thema_waehrungen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": "2028-11-20",
     "status": "release_approved",
@@ -1050,28 +1074,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:49:49.258Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:50:25.450Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:50:25.450Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1105,8 +1129,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Wer zum Beispiel in Peking Preise vergleicht, kann CNY als Währungskürzel sehen. Es steht für den Renminbi. Die Währungseinheit heißt Yuan.",
-    "tags": [],
-    "content_revision": 2,
+    "tags": [
+      "thema_waehrungen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": "2028-11-20",
     "status": "release_approved",
@@ -1122,28 +1149,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:49:49.258Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:50:25.450Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:50:25.450Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1249,8 +1276,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Wer zum Beispiel in Tunis Preise vergleicht, kann TND als Währungskürzel sehen. Der ausgeschriebene Name lautet Tunesischer Dinar.",
-    "tags": [],
-    "content_revision": 2,
+    "tags": [
+      "thema_waehrungen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": "2028-11-20",
     "status": "release_approved",
@@ -1266,28 +1296,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:49:49.258Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:50:25.450Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:50:25.450Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },

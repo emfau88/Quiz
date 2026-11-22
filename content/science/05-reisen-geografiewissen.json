@@ -25,8 +25,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Der historische Nullmeridian verläuft durch das Observatorium in Greenwich.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_orientierung",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -42,28 +45,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:39:47.369Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:40:04.867Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:40:04.867Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -97,8 +100,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die geografische Breite wird vom Äquator aus gemessen. An den Polen erreicht sie 90 Grad.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_orientierung",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -114,28 +120,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:39:47.369Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:40:04.867Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:40:04.867Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -169,8 +175,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Der Colorado grub sich in das angehobene Plateau ein. Seitenbäche trugen dazu bei, die Schlucht zu verbreitern.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_gewaesser",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -186,28 +195,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:39:47.369Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:40:04.867Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:40:04.867Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -241,8 +250,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das Becken des Pazifiks umfasst etwa 155 Millionen Quadratkilometer.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_gewaesser",
+      "form_vergleichen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -258,28 +270,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:39:47.369Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:40:04.867Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:40:04.867Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -313,8 +325,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Der Atlantik liegt zwischen Europa und Afrika im Osten und den beiden Amerikas im Westen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_gewaesser",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -330,28 +345,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:39:47.369Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:40:04.867Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:40:04.867Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -385,8 +400,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Der Nil fließt durch Ägypten nach Norden bis zum Mittelmeer.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_gewaesser",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -402,28 +420,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:39:47.369Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:40:04.867Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:40:04.867Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -457,8 +475,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das aus zahlreichen Korallenriffen bestehende Gebiet liegt vor dem Nordosten Australiens.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_gewaesser",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -474,28 +495,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:39:47.369Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:40:04.867Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:40:04.867Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -529,8 +550,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Der mächtige Felsen erhebt sich aus einer weiten roten Sandebene. Er ist für die Anangu von großer kultureller Bedeutung.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_landschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -546,28 +570,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:39:47.369Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:40:04.867Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:40:04.867Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -601,8 +625,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das vulkanische Massiv des Kilimandscharo erreicht 5.895 Meter Höhe.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_landschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -618,28 +645,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:39:47.369Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:40:04.867Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:40:04.867Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -674,9 +701,11 @@
     "correct_option_id": "a",
     "explanation": "Archäologen fanden auf der Insel Reste einer Wikingersiedlung aus dem 11. Jahrhundert.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_kulturlandschaften",
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -692,28 +721,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:52:07.300Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:52:25.505Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:52:25.505Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -747,8 +776,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Allein der antarktische Eisschild enthält nach Angaben des British Antarctic Survey rund 60 Prozent des Süßwassers der Erde.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_landschaften",
+      "form_vergleichen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -764,28 +796,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:39:47.369Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:40:04.867Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:40:04.867Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -819,8 +851,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Der Obere See in Nordamerika, auf Englisch Lake Superior, bedeckt rund 82.100 Quadratkilometer.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_gewaesser",
+      "form_vergleichen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -836,28 +871,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:39:47.369Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:40:04.867Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:40:04.867Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -892,9 +927,11 @@
     "correct_option_id": "a",
     "explanation": "Brasília wurde ab 1956 im Zentrum Brasiliens aufgebaut. Stadtplaner Lúcio Costa und Architekt Oscar Niemeyer prägten den Entwurf.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_kulturlandschaften",
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -910,28 +947,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:52:07.300Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:52:25.505Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:52:25.505Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -965,8 +1002,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das Challengertief liegt im südlichen Abschnitt des Marianengrabens im westlichen Pazifik.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_gewaesser",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -982,28 +1022,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:39:47.369Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:40:04.867Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:40:04.867Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1037,8 +1077,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die beiden Flüsse treffen bei Khartum im Sudan aufeinander. Von dort fließt der Nil nach Norden.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_gewaesser",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1054,28 +1097,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:39:47.369Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:40:04.867Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:40:04.867Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1110,9 +1153,11 @@
     "correct_option_id": "a",
     "explanation": "In Djémila wurde römische Stadtplanung an bergiges Gelände angepasst. Forum, Tempel und Triumphbögen sind erhalten.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_kulturlandschaften",
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1128,28 +1173,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:52:07.300Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:52:25.505Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:52:25.505Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1183,8 +1228,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Umayyaden-Moschee gehört zu den bekanntesten Bauten der Altstadt von Damaskus.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_kulturlandschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1200,28 +1248,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:39:47.369Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:40:04.867Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:40:04.867Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },

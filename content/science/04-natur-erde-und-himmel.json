@@ -169,8 +169,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Als Photosphäre bezeichnet man die Schicht, aus der das meiste sichtbare Sonnenlicht stammt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_astronomie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -186,28 +189,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -241,8 +244,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Merkur ist der sonnennächste Planet. Er gehört wie die Erde zu den Gesteinsplaneten.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_astronomie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -258,28 +264,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -385,8 +391,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Beim Umlauf ist abwechselnd die Nord- oder die Südhalbkugel stärker der Sonne zugeneigt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_wetter",
+      "form_herleiten"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -402,28 +411,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -457,8 +466,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Ein Umlauf dauert ungefähr 365 und einen Vierteltag. Schalttage gleichen die Kalenderlänge daran an.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_astronomie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -474,28 +486,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -529,8 +541,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Erde ist etwas größer als die Venus. Auch Mars und Merkur haben kleinere Durchmesser.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_astronomie",
+      "form_vergleichen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -546,28 +561,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -601,8 +616,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Phobos und Deimos sind die zwei kleinen, unregelmäßig geformten Marsmonde.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_astronomie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -618,28 +636,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -673,8 +691,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Phobos ist der größere und innere Marsmond. Deimos bewegt sich weiter außen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_astronomie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -690,28 +711,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -745,8 +766,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Jupiter braucht für eine Umdrehung etwa 9 Stunden und 55 Minuten. Sein Tag ist der kürzeste aller Planeten.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_astronomie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -762,28 +786,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -817,8 +841,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Ganymed kreist um Jupiter. Er übertrifft sogar den Planeten Merkur im Durchmesser.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_astronomie",
+      "form_vergleichen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -834,28 +861,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -889,8 +916,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Io gilt als der vulkanisch aktivste Himmelskörper unseres Sonnensystems.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_astronomie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -906,28 +936,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -961,8 +991,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Teilchen bewegen sich auf eigenen Bahnen um Saturn. Die Ringe sind kein starrer Körper.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_astronomie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -978,28 +1011,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1033,8 +1066,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Titan gehört zum Saturnsystem. Seine Oberfläche verbirgt sich unter einer diesigen Atmosphäre.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_astronomie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1050,28 +1086,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1105,8 +1141,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Drehachse von Uranus ist um rund 98 Grad gegen die Senkrechte zur Bahnebene geneigt. Das sorgt für außergewöhnliche Jahreszeiten.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_astronomie",
+      "form_herleiten"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1122,28 +1161,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1249,8 +1288,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Triton bewegt sich auf einer rückläufigen Bahn. Der Umlauf ist der Eigenrotation Neptuns entgegengesetzt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_astronomie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1266,28 +1308,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1321,8 +1363,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Asteroidenstücke und andere Himmelskörper hinterließen beim Aufprall Vertiefungen in der Mondoberfläche.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_astronomie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1338,28 +1383,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1393,8 +1438,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Eine Astronomische Einheit entspricht ungefähr dem mittleren Abstand zwischen Erde und Sonne.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_astronomie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1410,28 +1458,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1465,8 +1513,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Hurrikane gehören zu den tropischen Wirbelstürmen. Sie entstehen über tropischem oder subtropischem Meerwasser.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_wetter",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1482,28 +1533,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1537,8 +1588,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Eine plötzliche Bewegung des Meeresbodens kann Wasser verdrängen und eine Serie großer Wellen in Gang setzen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_geologie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1554,28 +1608,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1609,8 +1663,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Ein Eisberg entsteht, wenn sich ein Stück Eis von Gletscher- oder Schelfeis löst und frei im Wasser treibt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_geologie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1626,28 +1683,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1659,7 +1716,7 @@
     "id": "qs-tafelseisberg-form",
     "fact_key": "tafelseisberg-form",
     "category": "nature_animals",
-    "difficulty": "medium",
+    "difficulty": "easy",
     "question": "Welche Form kennzeichnet einen Tafeleisberg?",
     "options": [
       {
@@ -1681,8 +1738,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die große ebene Oberseite erinnert an eine Tischplatte und unterscheidet Tafeleisberge von vielen unregelmäßigen Eisbergen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_geologie",
+      "form_herleiten"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1698,28 +1758,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1753,8 +1813,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Aufeinanderliegende Schneeschichten drücken die unteren zusammen. Über mehrere Verdichtungsstufen entsteht Eis.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_geologie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1770,28 +1833,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1825,8 +1888,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Firn ist eine Zwischenstufe auf dem Weg von lockerem Schnee zu dichtem Gletschereis.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_geologie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1842,28 +1908,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.167Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1897,8 +1963,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Sonnenlicht wird im Wassertropfen gebrochen und innen reflektiert. Die Farben verlassen den Tropfen unter unterschiedlichen Winkeln.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_wetter",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1914,28 +1983,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.168Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1969,8 +2038,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Beim äußeren Bogen wird Licht im Tropfen zweimal reflektiert. Er ist meist schwächer und hat die umgekehrte Farbfolge.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_wetter",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1986,28 +2058,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.168Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2041,8 +2113,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Wasser kann in der Atmosphäre als Eis, als Tropfen oder gasförmig vorkommen. Nur die gasförmige Form ist Wasserdampf.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_wetter",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2058,28 +2133,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.168Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2113,8 +2188,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Kühlt Luft auf ihren Taupunkt ab, kann enthaltener Wasserdampf kondensieren.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_wetter",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2130,28 +2208,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.168Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2185,8 +2263,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Isobaren machen Druckverteilungen auf Wetterkarten sichtbar. Oft bezieht sich der eingezeichnete Druck auf Meereshöhe.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_wetter",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2202,28 +2283,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.168Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2257,8 +2338,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Bei der Verwitterung werden Ionen aus Gestein gelöst. Bäche und Flüsse tragen sie zum Meer.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_meer_und_kueste",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2274,28 +2358,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:30:08.168Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.302Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.302Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },

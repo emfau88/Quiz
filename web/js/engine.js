@@ -97,28 +97,36 @@ function choose(state, catalog, mode, category, day, seed) {
     (!category || category === q.category) && (!q.valid_until || q.valid_until >= day) &&
     !withdrawn.has(keyOf(q)) && !reservedFacts.has(q.fact_key) && !reservedIds.has(q.id)
   ), random);
+  const topicOf = new Map(pool.map(q => [q.id, q.category + '/' + (q.tags?.find(t => t.startsWith('thema_')) || '')]));
+  const topicOrder = new Map(shuffle([...new Set(topicOf.values())], random).map((topic, index) => [topic, index]));
+  const byTopic = new Map();
   const picked = [], usedIds = new Set(), usedFacts = new Set(), byCategory = {}, byDifficulty = {};
   function take(candidates, limit, kind, oldest = false) {
     for (let n = 0; n < limit; n++) {
-      const available = candidates.filter(q => !usedIds.has(q.id) && !usedFacts.has(q.fact_key));
-      if (!available.length) break;
-      const rank = q => {
-        const deficit = config.mix[difficulties.indexOf(q.difficulty)] - (byDifficulty[q.difficulty] || 0);
-        return [Number(deficit > 0), -(byCategory[q.category] || 0), deficit, -(seenByCategory[q.category] || 0)];
-      };
-      available.sort((a, b) => {
-        if (oldest) {
-          const ap = state.progress[keyOf(a)], bp = state.progress[keyOf(b)];
-          const order = kind === 'due' ? ap.due.localeCompare(bp.due) : ap.lastDay.localeCompare(bp.lastDay);
-          if (order) return order;
+      let q, bestDate, bestRank;
+      for (const candidate of candidates) {
+        if (usedIds.has(candidate.id) || usedFacts.has(candidate.fact_key)) continue;
+        const progress = oldest && state.progress[keyOf(candidate)];
+        const date = oldest ? (kind === 'due' ? progress.due : progress.lastDay) : '';
+        if (q && date > bestDate) continue;
+        const topic = topicOf.get(candidate.id);
+        const deficit = config.mix[difficulties.indexOf(candidate.difficulty)] - (byDifficulty[candidate.difficulty] || 0);
+        // The seeded topic order gives small subjects a chance alongside large series.
+        const rank = [Number(deficit > 0), -(byCategory[candidate.category] || 0),
+          -(byTopic.get(topic) || 0), deficit, -(seenByCategory[candidate.category] || 0), -topicOrder.get(topic)];
+        if (q && date === bestDate) {
+          const firstDifference = rank.findIndex((value, i) => value !== bestRank[i]);
+          if (firstDifference < 0 || rank[firstDifference] < bestRank[firstDifference]) continue;
         }
-        const ar = rank(a), br = rank(b);
-        for (let k = 0; k < ar.length; k++) if (ar[k] !== br[k]) return br[k] - ar[k];
-        return 0;
-      });
-      const q = available[0];
+        q = candidate;
+        bestDate = date;
+        bestRank = rank;
+      }
+      if (!q) break;
       usedIds.add(q.id);
       usedFacts.add(q.fact_key);
+      const topic = topicOf.get(q.id);
+      byTopic.set(topic, (byTopic.get(topic) || 0) + 1);
       byCategory[q.category] = (byCategory[q.category] || 0) + 1;
       byDifficulty[q.difficulty] = (byDifficulty[q.difficulty] || 0) + 1;
       picked.push({q, kind});
@@ -277,7 +285,7 @@ export function collection(state, catalog) {
   return [...found.values()].sort((a, b) => b.at.localeCompare(a.at));
 }
 export function statistics(state, catalog) {
-  const valid = new Set(catalog.questions.map(keyOf));
+  const valid = new Set([...catalog.questions, ...(catalog.archived || [])].map(keyOf));
   for (const c of catalog.corrections) valid.delete(keyOf(c));
   for (const k of Object.keys(state.corrections || {})) valid.delete(k);
   const stats = {first: {hits: 0, total: 0}, repeat: {hits: 0, total: 0}};

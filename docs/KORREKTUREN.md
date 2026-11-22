@@ -7,3 +7,8 @@
 5. Das Update erneut lokal und vor einer Store-Einreichung auf Android prüfen. Aktive Runden erhalten neutrale Positionen. Bereits abgeschlossene Ergebnisse behalten ihre damaligen Punkte. Das Album zeigt die aktuelle geprüfte Erklärung oder einen neutralen Prüfhinweis.
 
 Katalogänderungen werden auf dem Gerät mit der neuen App- bzw. Webfassung wirksam. Eine nur lokal installierte HTML-Datei erhält Updates durch Ersetzen am selben Speicherort. Ein Wechsel des Browserprofils kann einen anderen Spielstand öffnen.
+## Redaktioneller Austausch
+
+Fachlich gültige Fragen können bei einer Überarbeitung aus neuen Runden rotieren. Die Austauschlisten unter `content/rotation/` verknüpfen die bisherige und neue Frage-ID samt Begründung. Beide redaktionellen Einträge bleiben mit ihren Belegen erhalten. Der Compiler exportiert nur die neue Frage zur Auswahl und vermerkt ID und semantische Revision der alten Karte im Archiv. Alte Spielstände zeigen ihren gespeicherten Fragetext weiterhin an. Bereits gegebene Antworten zählen in der Lernstatistik und behalten ihre Albumkarten und Auszeichnungen.
+
+Stellt sich eine archivierte Frage später als falsch heraus, greift das Korrekturmanifest auch für diese alte Revision. Eine fachlich falsche Position in einer laufenden Runde wird neutralisiert. Das Archiv allein löst diese Behandlung nicht aus.

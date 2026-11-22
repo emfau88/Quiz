@@ -1,5 +1,18 @@
 # Android-Prüfbericht
 
+## Aktuelle deutsche Ausgabe 0.2.0
+
+Lokale APK und reguläre Vorschau tragen Version 0.2.0, versionCode 2 und den Katalog `de-03c46c2cd256`. Die Prüfung hat jede gebündelte Webdatei jeweils byteweise mit der vorgesehenen Quelle verglichen, beide APK-Signaturen und 16-KB-Ausrichtung geprüft sowie die getrennten Berechtigungen der beiden Ausgaben bestätigt. Die lokale APK enthält weder Internet- noch Billing-Berechtigung. [Artefaktprüfung und Prüfsummen](../release/android/artifacts.json)
+
+Auf dem eigens angelegten Android-16-Emulator mit 16-KB-Speicherseiten wurde die Vorschau über die installierte Version 0.1.0 aktualisiert. Gespeicherte Frage, Antwort, Fortschritt, Buchungen und Installationskennung stimmten vor und nach dem Update überein. Nach der gespeicherten Erklärung ging dieselbe Runde mit Frage zwei weiter. Auch die separat installierte lokale Ausgabe schloss eine anspruchsvolle Themenrunde im Flugmodus ab. [Updateprotokoll](../release/qa/fragenpool/android-upgrade/android-ui.json) · [Lokale Themenrunde](../release/qa/fragenpool/android-lokal/android-ui.json) · [Bildschirmaufnahme](../release/qa/fragenpool/android-lokal/lokaltest-themenrunde.png)
+
+Der eigenständige TalkBack-Lauf verwendete die installierte Android Accessibility Suite, einen 360 dp breiten Bildschirm und 150 Prozent Systemschrift. Alle zehn Antwortwerte wurden nach Wischgeste und Doppeltipp im SQLite-Spielstand bestätigt. Bei allen zehn Schritten erreichte der Fokus die Weiteraktion. Das Ergebnis enthielt vier richtige Antworten, 60 XP und genau eine Buchung. [Gerätewerte](../release/qa/fragenpool/android-talkback/geraet.txt) · [Fokus- und Gestenprotokoll](../release/qa/fragenpool/android-talkback/talkback.txt) · [Bildschirmaufnahme des Ergebnisses](../release/qa/fragenpool/android-talkback/03-rundenergebnis.png)
+
+Alle 19 nativen Instrumentierungsfälle bestanden auch mit dem Build 0.2.0. Darunter sind parallele SQLite-Schreibvorgänge, erneutes Öffnen, Migration, Kalendergrenzen und die lokale Verarbeitung signierter Prüfdaten. [Natives Ausführungsprotokoll](../release/qa/fragenpool/android-instrumentierung.txt)
+
+## Historische Android-Abnahme der Ausgabe 0.1.0
+
+
 Stand 20. November 2026. Die folgenden Läufe wurden auf eigens angelegten Android-Emulatoren ausgeführt. Die APKs für die lokale Erprobung tragen ein Debug-Zertifikat. Das öffentliche Release braucht Betreiberangaben, die Play-App, die Upload-Signierung und externe Abnahmen.
 
 ## Endstand
@@ -58,7 +71,7 @@ node tools/android-ui.mjs emulator-5582 release/android/qa-plattform platform
 node tools/android-backup.mjs emulator-5582 release/android/Quizsalon-Play-Vorschau.apk release/android/qa-plattform
 ```
 
-Die TalkBack-Prüfung benötigt das getrennte Instrumentierungs-APK und ein dafür vorbereitetes, temporäres 16-KB-Testgerät. Starte den AVD mit authentifiziertem lokalem Emulator-gRPC. Der Windows-Prüftreiber liest den kurzlebigen Token aus der Discovery-Datei des gewählten AVD. Stelle seine physische Bildschirmgröße wieder her, aktiviere den vorinstallierten TalkBack-Dienst und verwende für die Tagesrunde einen frischen Vorschau-Testspielstand.
+Die TalkBack-Prüfung benötigt das getrennte Instrumentierungs-APK und ein dafür vorbereitetes, temporäres 16-KB-Testgerät. Starte den AVD mit einem freien lokalen gRPC-Port und aktiviertem Zugriffstoken, beispielsweise mit `-grpc 8564 -grpc-use-token`. Der Windows-Prüftreiber liest den kurzlebigen Token aus der Discovery-Datei des gewählten AVD. Stelle seine physische Bildschirmgröße wieder her, aktiviere den vorinstallierten TalkBack-Dienst und verwende für die Tagesrunde einen frischen Vorschau-Testspielstand.
 
 ```powershell
 adb -s emulator-5584 shell wm size reset

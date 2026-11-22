@@ -1,6 +1,8 @@
 # Inhaltsbericht für Natur, Länder und Technik
 
-Der aktive Bestand umfasst 600 deutschsprachige Fragen zu 600 Sachverhalten. Die Datei `01-starter.json` enthält die ersten zwölf Fragen. Die nächsten drei Chargen ergänzen sie zum Referenzbestand. Die Dateien mit den Nummern 03 bis 05 erweitern den Bestand auf 200 Fragen pro Kategorie.
+Im November wurden 40 Reise-, zwölf Natur- und 20 Alltagsfragen ausgetauscht. Der aktive Bestand umfasst 600 deutschsprachige Fragen zu 600 Sachverhalten und verweist auf 375 unterschiedliche Quellen-URLs. Die Reisefragen und die Naturfragen sind im neuen Bericht mit Fundstellen, individuellen Prüfvermerken und Zuschreibung dokumentiert. [Novemberbericht](pruefung/2026-11-INHALTSBERICHT.md) · [Austauschliste Alltag](../rotation/2026-11/alltag.json)
+
+Die folgenden Belege dokumentieren die Ausgangsfassung vom 20. November 2026. Die Datei `01-starter.json` enthält die ersten zwölf Fragen. Die nächsten drei Chargen ergänzen sie zum Referenzbestand. Die Dateien mit den Nummern 03 bis 05 erweitern den ursprünglichen Bestand auf 200 Fragen pro Kategorie.
 
 | Kategorie | Starter | Referenz leicht / mittel / anspruchsvoll | Gesamt leicht / mittel / anspruchsvoll |
 | --- | ---: | ---: | ---: |
@@ -8,9 +10,9 @@ Der aktive Bestand umfasst 600 deutschsprachige Fragen zu 600 Sachverhalten. Die
 | Länder und Reisen | 4 | 15 / 7 / 3 | 120 / 60 / 20 |
 | Alltag und Technik | 4 | 15 / 7 / 3 | 120 / 60 / 20 |
 
-Alle 600 aktiven Datensätze tragen die redaktionelle Agentenfreigabe. Zu diesen Fragen liegen **0 menschliche Beobachtungen** vor. Verständlichkeit in der Zielgruppe, Trefferquoten und Lesedauer sind offen. Die Schwierigkeit ist bislang eine Einschätzung der Redaktion.
+Alle 600 Datensätze der Ausgangsfassung tragen die redaktionelle Agentenfreigabe. Zu diesen Fragen liegen **0 menschliche Beobachtungen** vor. Verständlichkeit in der Zielgruppe, Trefferquoten und Lesedauer sind offen. Die Schwierigkeit ist bislang eine Einschätzung der Redaktion.
 
-## Nachweise je Frage
+## Nachweise je Frage der Ausgangsfassung
 
 Die Redaktion hat die verlinkten Fachseiten oder den Originaldatensatz geöffnet und Frage, Antwort und Kontext auf Deutsch formuliert. 488 Fragen haben eine Webfundstelle. 112 Länderfragen stützen sich auf die lokal gesicherte Originaltabelle von GeoNames. Insgesamt wurden für die aktiven Fragen 306 unterschiedliche Quellen-URLs verwendet. Der Einzelbeleg im Fragen-JSON enthält URL, Titel, die geprüfte Aussage in eigenen Worten, Abrufzeit und beide Prüfprotokolle. Das Register ordnet alle Quellen ihrem Herausgeber zu. [Quellenregister](pruefung/quellenregister.tsv)
 

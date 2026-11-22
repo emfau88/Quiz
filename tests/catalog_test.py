@@ -71,5 +71,30 @@ class CatalogTests(unittest.TestCase):
                 compiler.public_corrections(invalid)
 
 
+    def test_archive_rejects_reference_removal_and_requires_a_new_fact_in_the_same_category(self):
+        source = dict(starter, reference=False, starter=False)
+        next_q = dict(source, id="new", fact_key="independent-fact")
+        pair = {"old_id": source["id"], "new_id": "new", "reason": "Themenvielfalt"}
+        self.assertEqual(compiler.editorial_archive([source, next_q], [pair]),
+                         [{"id": source["id"], "semantic_revision": source["semantic_revision"]}])
+        for bad in [dict(next_q, category="other"), dict(next_q, fact_key=source["fact_key"])]:
+            with self.assertRaises(ValueError):
+                compiler.editorial_archive([source, bad], [pair])
+        for replacements in [[pair, pair], [dict(pair, new_id="missing")],
+                             [pair, dict(pair, old_id="new", new_id=source["id"])]]:
+            with self.assertRaises(ValueError):
+                compiler.editorial_archive([source, next_q], replacements)
+        with self.assertRaises(ValueError):
+            compiler.editorial_archive([starter, next_q], [pair])
+
+    def test_single_subtopic_and_known_question_form(self):
+        tags = ["damals_und_heute", "thema_haushalt", "form_herleiten"]
+        compiler.verify_classification(dict(starter, tags=tags))
+        for invalid in [tags[1:2], tags[:1], tags+["thema_technik"], tags+["form_vergleichen"],
+                        ["thema_", "form_herleiten"], ["thema_haushalt", "form_unbekannt"]]:
+            with self.assertRaises(ValueError):
+                compiler.verify_classification(dict(starter, tags=invalid))
+
+
 if __name__ == "__main__":
     unittest.main()

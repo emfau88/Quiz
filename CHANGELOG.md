@@ -1,5 +1,11 @@
 # Änderungen
 
+## 0.2.0 · 22. November 2026
+
+- 152 neue deutsche Sachverhalte aus sechs Kategorien. 1.048 frühere Sachverhalte und alle 150 Referenzfragen sind weiter aktiv. Die sechs Kategorien umfassen jeweils 200 Fragen.
+- Unterthemen fließen jetzt in die Rundenauswahl ein. Offene Runden behalten ihre gespeicherte Reihenfolge. Redaktionell ausgetauschte Karten bleiben im Verlauf, im Wissensalbum und in der Lernstatistik sichtbar.
+- Die eigenständige HTML-Datei und beide lokal installierbaren Android-Ausgaben erhalten dieselbe Katalogversion. [Inhalt](CONTENT_REPORT.md) · [Messung der Auswahl](release/qa/fragenpool/auswahlvergleich.json)
+
 ## Lokale Testreihe 0.1.0
 
 - Erstspielbare Tagesrunde mit 24 belegten Fragen. Alle vier Antwortmöglichkeiten, manuelles Weiter und Ergebnis beruhen auf den gespeicherten Antworten. Der erste Android-Build ist als Starter-APK archiviert.

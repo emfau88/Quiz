@@ -25,8 +25,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Dubrovnik liegt an der dalmatinischen Adriaküste. Im Mittelalter war die Stadt eine bedeutende Seemacht.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_gewaesser",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -42,28 +45,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -97,8 +100,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "In Split sind die Bauteile des antiken Palastes in das spätere Stadtzentrum hineingewachsen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_bauwerke",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -114,28 +120,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -169,8 +175,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das fließende Wasser lagert Kalk ab. Über lange Zeit entstehen so Barrieren aus Travertin, die das Wasser aufstauen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_landschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -186,28 +195,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -241,8 +250,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Der Tara-Canyon gehört zur Landschaft des Durmitor. Der Nationalpark umfasst außerdem Seen und Wälder.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_gewaesser",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -258,28 +270,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -313,8 +325,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Kotor liegt in Montenegro an einem natürlichen Hafen. Im Mittelalter war die Stadt ein Handels- und Kunstzentrum.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_regionalgeografie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -330,28 +345,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -385,8 +400,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Zitadelle und die großen Plätze von Copán sind Hinterlassenschaften der Maya.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_kulturlandschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -402,28 +420,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -457,8 +475,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Valletta ist die Hauptstadt Maltas. Die Geschichte der Stadt ist eng mit dem Johanniterorden verbunden.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_hauptstaedte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -474,28 +495,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -529,8 +550,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Ġgantija liegt auf Gozo. Weitere Tempelanlagen wie Ħaġar Qim liegen auf der Hauptinsel Malta.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_bauwerke",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -546,28 +570,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -601,8 +625,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Portobelo und San Lorenzo schützten spanische Handelswege auf der karibischen Seite Panamas.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_regionalgeografie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -618,28 +645,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -673,8 +700,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Garamba liegt im Nordosten der Demokratischen Republik Kongo am Übergang verschiedener afrikanischer Vegetationszonen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_regionalgeografie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -690,28 +720,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -745,8 +775,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Fernando de Noronha und das Rocas-Atoll liegen vor der Küste Brasiliens. Die Gipfel eines untermeerischen Rückens ragen dort aus dem Atlantik.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_regionalgeografie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -762,28 +795,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -817,8 +850,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Grotten von Yungang liegen in der Provinz Shanxi. Ihre Skulpturen zeugen von früher buddhistischer Höhlenkunst in China.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_regionalgeografie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -834,28 +870,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -889,8 +925,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Bam liegt am Südrand des iranischen Hochlands und verdankte seinen Aufstieg bedeutenden Handelswegen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_landschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -906,28 +945,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -961,8 +1000,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das Gebirge verläuft parallel zur Nordwestküste Mallorcas. Die Landwirtschaft hat seine Hänge über lange Zeit geprägt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_landschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -978,28 +1020,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1033,8 +1075,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Hamburger Speicherstadt entstand auf schmalen Inseln in der Elbe. In unmittelbarer Nachbarschaft liegt das Kontorhausviertel.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_kulturlandschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1050,28 +1095,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1083,7 +1128,7 @@
     "id": "qs-sikkim-himalaya",
     "fact_key": "sikkim-himalaya",
     "category": "geography_travel",
-    "difficulty": "medium",
+    "difficulty": "easy",
     "question": "In welchem Gebirge liegt der Khangchendzonga-Nationalpark im indischen Sikkim?",
     "options": [
       {
@@ -1105,8 +1150,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Der Nationalpark liegt im Himalaya. Er umfasst unter anderem Gletscher, Bergseen und den hohen Gipfel Khangchendzonga.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_landschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1122,28 +1170,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1155,7 +1203,7 @@
     "id": "qs-arc-et-senans-salz",
     "fact_key": "arc-et-senans-salz",
     "category": "geography_travel",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "question": "Welches Produkt gab der historischen Anlage von Arc-et-Senans bei Besançon ihren Zweck?",
     "options": [
       {
@@ -1177,8 +1225,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Arc-et-Senans ist eine ehemalige königliche Saline. Die ab 1775 gebaute Anlage wurde von Claude Nicolas Ledoux entworfen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_bauwerke",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1194,28 +1245,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1249,8 +1300,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "La Amistad verbindet Gebiete Costa Ricas und Panamas. Tropische Regenwälder bedecken den größten Teil.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_grenzen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1266,28 +1320,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1321,8 +1375,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das Minarett von Jam stammt aus dem 12. Jahrhundert. Sein oberer Teil trägt eine blaue Inschrift.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_bauwerke",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1338,28 +1395,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1393,8 +1450,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das Rila-Kloster spielte im mittelalterlichen Bulgarien eine wichtige religiöse und gesellschaftliche Rolle.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_regionalgeografie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1410,28 +1470,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1465,8 +1525,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das Pirin-Gebirge im Südwesten Bulgariens ist unter anderem durch Bergseen, Wasserfälle und Nadelwälder geprägt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_landschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1482,28 +1545,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1537,8 +1600,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "In Avignon sind Teile einer mittelalterlichen Brücke über die Rhône erhalten. Der Papstpalast überragt die Altstadt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_gewaesser",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1554,28 +1620,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1609,8 +1675,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Humayuns Grabmal in Delhi verbindet einen Garten mit einem monumentalen Grabbau. Es beeinflusste spätere Anlagen wie das Taj Mahal.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_bauwerke",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1626,28 +1695,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1681,8 +1750,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Goa war die Hauptstadt Portugiesisch-Indiens. Kirchen und Klöster erinnern an diese Zeit.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_kulturlandschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1698,28 +1770,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1753,8 +1825,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Beide Städte gehören zu Rajasthan. Ihre Festungen sind Teile einer gemeinsamen Welterbestätte.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_regionalgeografie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1770,28 +1845,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1825,8 +1900,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Der Turm von Belém und das nahe Hieronymitenkloster liegen an der historischen Hafeneinfahrt Lissabons.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_bauwerke",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1842,28 +1920,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1897,8 +1975,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Batalha erinnert an den portugiesischen Sieg über Kastilien bei Aljubarrota im Jahr 1385.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_bauwerke",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1914,28 +1995,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1969,8 +2050,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Zwischen dem 16. und dem 20. Jahrhundert entstanden Befestigungen zum Schutz der Stadt und der Bucht von San Juan.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_bauwerke",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1986,28 +2070,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2041,8 +2125,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Wieskirche entstand im 18. Jahrhundert nach einem Entwurf von Dominikus Zimmermann und gehört zum bayerischen Rokoko.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_bauwerke",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2058,28 +2145,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2114,9 +2201,11 @@
     "correct_option_id": "a",
     "explanation": "Lübeck war ein führendes Zentrum der Hanse und pflegte enge Handelsbeziehungen im Norden Europas.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_kulturlandschaften",
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2132,28 +2221,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:52:07.300Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:52:25.505Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:52:25.505Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2187,8 +2276,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "São Miguel das Missões liegt in Brasilien. San Ignacio Miní und drei weitere Orte dieser gemeinsamen Welterbestätte liegen in Argentinien.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_grenzen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2204,28 +2296,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2259,8 +2351,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die antike Stadt liegt rund 85 Kilometer südlich von Bagdad. Dort sind unter anderem Reste von Palästen und Stadtmauern erhalten.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_regionalgeografie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2276,28 +2371,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2331,8 +2426,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Chitwan schützt die Terai-Landschaft. Hier leben unter anderem einhörnige Asiatische Nashörner und Bengaltiger.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_reiseziele",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2348,28 +2446,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2403,8 +2501,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Cartagena liegt in einer Bucht der Karibik. Die Stadt ist von ausgedehnten historischen Befestigungen geprägt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_gewaesser",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2420,28 +2521,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2475,8 +2576,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Augustusburg war die Residenz der Kölner Kurfürsten. Falkenlust diente ihnen als Jagdschloss.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_bauwerke",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2492,28 +2596,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2547,8 +2651,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Tyros war eine bedeutende phönizische Hafenstadt. Von dort gingen Koloniegründungen im Mittelmeerraum aus.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_kulturlandschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2564,28 +2671,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2619,8 +2726,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die großen Felsblöcke der Matobo-Hügel bilden natürliche Schutzräume. Einige wurden bereits in der Steinzeit genutzt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_regionalgeografie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2636,28 +2746,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2691,8 +2801,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Statue steht an der Einfahrt zum New Yorker Hafen. Frankreich schenkte sie den Vereinigten Staaten.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_gewaesser",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2708,28 +2821,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2763,8 +2876,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Gondwana-Regenwälder erstrecken sich an der großen Geländestufe im Osten Australiens.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_landschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2780,28 +2896,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2835,8 +2951,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Bojana liegt am Rand von Sofia. Ein Teil der bedeutenden Wandmalereien stammt aus dem 13. Jahrhundert.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_bauwerke",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2852,28 +2971,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2907,8 +3026,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Glacier Bay gehört zu einem grenzüberschreitenden Schutzgebiet mit Gletschern und hohen Gipfeln in Alaska und Kanada.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_regionalgeografie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2924,28 +3046,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2980,9 +3102,11 @@
     "correct_option_id": "a",
     "explanation": "Von 1963 bis 1967 bauten Vulkanausbrüche Surtsey rund 32 Kilometer vor der Südküste Islands auf.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_landschaften",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2998,28 +3122,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:55:37.089Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:56:24.416Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:56:24.416Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3053,8 +3177,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Abtei erlangte als Aufbewahrungsort von Maria Magdalena zugeschriebenen Reliquien Bedeutung.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_kulturlandschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3070,28 +3197,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3125,8 +3252,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Lascaux gehört zu den geschmückten Höhlen im Tal der Vézère. Die dortigen Malereien stammen aus der Altsteinzeit.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_bauwerke",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3142,28 +3272,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3197,8 +3327,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die antike Stadt Theben umfasste große Tempel und Paläste. Zum heutigen Welterbe gehören auch die Königsgräber am anderen Nilufer.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_kulturlandschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3214,28 +3347,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3269,8 +3402,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Stari Ras gilt als erste Hauptstadt Serbiens. In ihrer Umgebung stehen mittelalterliche Burgen, Kirchen und Klöster.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_regionalgeografie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3286,28 +3422,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:26:21.273Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:32:47.798Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:32:47.798Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },

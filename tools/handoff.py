@@ -18,9 +18,11 @@ def sha(data):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--source-commit", required=True)
+    mode = parser.add_mutually_exclusive_group(required=True)
+    mode.add_argument("--source-commit")
+    mode.add_argument("--working-tree", action="store_true", help="bundle the current project files, including its new editorial evidence")
     args = parser.parse_args()
-    commit = subprocess.check_output(["git", "rev-parse", "--verify", args.source_commit + "^{commit}"], cwd=ROOT, text=True).strip()
+    commit = subprocess.check_output(["git", "rev-parse", "--verify", (args.source_commit or "HEAD") + "^{commit}"], cwd=ROOT, text=True).strip()
     catalog = (ROOT / "web/data/catalog.json").read_bytes()
     manifest = json.loads((ROOT / "web/data/manifest.json").read_text(encoding="utf-8"))
     assert manifest["release_distribution_complete"] and manifest["active"] == manifest["facts"] == 1200
@@ -56,21 +58,38 @@ def main():
         if built.is_file() and sha(built.read_bytes()) == sha(apk.read_bytes()):
             apk_builds[apk.name] = {"gradle_output": built.relative_to(ROOT).as_posix(),
                                     "last_write_utc": datetime.fromtimestamp(built.stat().st_mtime, timezone.utc).isoformat()}
-    result = {"source_commit": commit, "assembled_at_utc": datetime.now(timezone.utc).isoformat(),
-              "app_version": "0.1.0", "version_code": 1, "catalog": manifest, "public_release": False, "verified_local_builds": apk_builds,
+    inspected = json.loads((OUT / "android/artifacts.json").read_text(encoding="utf-8"))
+    assert len(inspected) == 2 and len({(a["versionCode"], a["versionName"]) for a in inspected}) == 1
+    app_version = json.loads((ROOT / "package.json").read_text(encoding="utf-8"))["version"]
+    assert app_version == inspected[0]["versionName"]
+    result = {("base_commit" if args.working_tree else "source_commit"): commit, "assembled_at_utc": datetime.now(timezone.utc).isoformat(),
+              "source": "working_tree" if args.working_tree else "commit", "app_version": app_version, "version_code": inspected[0]["versionCode"],
+              "catalog": manifest, "public_release": False, "verified_local_builds": apk_builds,
               "artifacts": [{"path": p.relative_to(OUT).as_posix(), "bytes": p.stat().st_size, "sha256": sha(p.read_bytes())} for p in artifacts]}
     (OUT / "BUILDINFO.json").write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
     checksum = "\n".join(item["sha256"] + "  " + item["path"] for item in result["artifacts"])
     (OUT / "SHA256SUMS.txt").write_text(checksum + "\n", encoding="utf-8", newline="\n")
     target = OUT / "Quizsalon-Uebergabe.zip"
+    temporary = ROOT / ".cache/uebergabe-aktuell.zip"
+    temporary.parent.mkdir(exist_ok=True)
     metadata = ["release/BUILDINFO.json", "release/SHA256SUMS.txt"]
     # Preserve the exact audited source tree and its relative documentation links.
-    subprocess.run(["git", "archive", "--format=zip", "-6", "--output", str(target), commit, "--", ".",
-                    *[":(exclude)" + path for path in metadata]], cwd=ROOT, check=True)
-    with ZipFile(target, "a", compression=ZIP_DEFLATED, compresslevel=6) as archive:
+    if args.working_tree:
+        listing = subprocess.check_output(["git", "ls-files", "-co", "--exclude-standard", "-z"], cwd=ROOT)
+        names = {p.decode("utf-8") for p in listing.split(b"\0") if p}
+        with ZipFile(temporary, "w", compression=ZIP_DEFLATED, compresslevel=6) as archive:
+            for name in sorted(names - set(metadata)):
+                source = ROOT / name
+                if source.is_file() and source != target:
+                    assert not source.is_symlink() and source.suffix.lower() not in {".jks",".keystore",".p12",".pem"}
+                    archive.write(source,name)
+    else:
+        subprocess.run(["git", "archive", "--format=zip", "-6", "--output", str(temporary), commit, "--", ".",
+                        *[":(exclude)" + path for path in metadata]], cwd=ROOT, check=True)
+    with ZipFile(temporary, "a", compression=ZIP_DEFLATED, compresslevel=6) as archive:
         for path in metadata:
             archive.write(ROOT / path, path)
-    with ZipFile(target) as archive:
+    with ZipFile(temporary) as archive:
         assert archive.testzip() is None
         for item in result["artifacts"]:
             assert sha(archive.read("release/" + item["path"])) == item["sha256"], item["path"]
@@ -82,6 +101,11 @@ def main():
                          "release/android/qa-talkback-gesamtrunde/talkback.txt", "release/android/qa-kaltstart/android-ui.json",
                          "release/LOKAL_TESTEN.md", "web/js/engine.js", "specs/question.schema.json", *metadata]:
             archive.getinfo(required)
+        if args.working_tree:
+            for name in ("UMSETZUNGSPLAN_FRAGENPOOL.md", "release/qa/fragenpool/ausgangsversion.zip",
+                         "release/qa/fragenpool/auswahlvergleich.json"):
+                archive.getinfo(name)
+    temporary.replace(target)
     print(f"{target.name} · {target.stat().st_size} Bytes · SHA-256 {sha(target.read_bytes())}")
 
 

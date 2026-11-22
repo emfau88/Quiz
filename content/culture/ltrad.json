@@ -25,8 +25,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Zum finnischen Saunabegriff „löyly“ gehört der Dampf, den der Aufguss freisetzt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_braeuche",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -42,28 +45,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -97,8 +100,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Beim Trockenmauern werden die Steine so ausgesucht und gelegt, dass sie ohne Bindemittel eine stabile Mauer bilden.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -114,28 +120,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -169,8 +175,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Streifen werden auf waagerechten Webstühlen unter anderem aus Baumwolle und Seide gewebt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -186,28 +195,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -241,8 +250,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das Krama zeigt häufig ein Karomuster. Es wird aus Baumwolle oder Seide gewebt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -258,28 +270,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -313,8 +325,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Blätter werden getrocknet, gemahlen und je nach Verwendungszweck zur Paste angemischt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -330,28 +345,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -385,8 +400,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "In diesen Öfen backen Familien und Bäckereien Brot. Manche Tandire sind in den Boden eingelassen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_esskultur",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -402,28 +420,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -457,8 +475,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die aufwendig gestalteten Drachen entstehen über mehrere Monate. Sie gehören zu den Festtagen für die Verstorbenen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_braeuche",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -474,28 +495,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -529,8 +550,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das meist runde Fladenbrot entsteht aus den knollig verdickten Wurzeln des Manioks.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_esskultur",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -546,28 +570,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -601,8 +625,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "In Minas Gerais arbeiten die Käsemacher mit Rohmilch und einer regionalen Starterkultur namens „pingo“.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_esskultur",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -618,28 +645,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -673,8 +700,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die aus Papier geschnittenen Formen dienten unter anderem dem Schmuck von Innenräumen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -690,28 +720,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -745,8 +775,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Glasmacher nehmen die Schmelze mit dem Rohr auf und blasen hinein. Mit Zangen formen sie die Oberfläche weiter.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -762,28 +795,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -817,8 +850,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Fasern werden aus Ananasblättern gewonnen und am Handwebstuhl zu Stoff verarbeitet.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -834,28 +870,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -889,8 +925,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Für Sodai werden häufig Roggenhalme zu räumlichen Mustern zusammengesetzt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -906,28 +945,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -961,8 +1000,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "In Gjumri wird die örtliche Schmiedetradition unter anderem an erhaltenen Gebrauchs- und Schmuckgegenständen sichtbar.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -978,28 +1020,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1033,8 +1075,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Töpferin bewegt sich um das zunächst ruhende Stück und gestaltet es dabei mit den Händen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1050,28 +1095,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1105,8 +1150,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Vertraute Rufe helfen dabei, Kamelherden durch die Landschaft und zu Tränken zu führen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_braeuche",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1122,28 +1170,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1177,8 +1225,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Zucht diente zuerst dem Wiener Kaiserhof. In mehreren Ländern blieb sie als ländliche Tradition lebendig.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_braeuche",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1194,28 +1245,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1249,8 +1300,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Neben Falken werden beispielsweise Habichte und Adler zum gemeinsamen Flug ausgebildet.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_braeuche",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1266,28 +1320,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1321,8 +1375,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Uhrmacherhandwerk und Kunstmechanik bringen auch Automaten, bewegliche Figuren und Spieldosen hervor.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1338,28 +1395,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1393,8 +1450,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Menschen verschiedener Herkunft kaufen dort zubereitete Speisen und essen an gemeinsamen Plätzen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_esskultur",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1410,28 +1470,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1465,8 +1525,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Der Grieß wird zu Körnchen gerollt und gedämpft. Die Beilagen unterscheiden sich je nach Region und Jahreszeit.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_esskultur",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1482,28 +1545,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1537,8 +1600,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Alpinismus umfasst das Besteigen von Gipfeln und Wänden in Fels und Eis.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_braeuche",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1554,28 +1620,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1609,8 +1675,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Vor dem Färben mit Indigo wird das Muster mit einer farbabweisenden Masse aufgedruckt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_herleiten"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1626,28 +1695,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1681,8 +1750,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Beim Klöppeln kreuzt und verdreht man die aufgewickelten Fäden nach einem Muster.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1698,28 +1770,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1753,8 +1825,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Am Festtag kommen Verwandte, Freunde und Nachbarn zusammen. Zum Familienfest gehört unter anderem ein besonderes Brot.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_braeuche",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1770,28 +1845,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1825,8 +1900,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Bei diesem Saunatyp fehlt ein Schornstein. Der Rauch lässt sich auch zum Haltbarmachen von Fleisch nutzen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_braeuche",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1842,28 +1920,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1897,8 +1975,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Fortlaufende senkrechte Striche verbinden die Buchstaben der klassischen mongolischen Schrift.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_schriften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1914,28 +1995,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1969,8 +2050,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die gemeinsame Herstellung von Kimchi verbindet Familien und Nachbarschaften.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_esskultur",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1986,28 +2070,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2041,8 +2125,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Der feine Kaffee wird mit Wasser langsam im Kännchen erhitzt und in kleinen Tassen serviert.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_esskultur",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2058,28 +2145,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2113,8 +2200,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Traditionelle Neujahrsspeisen führen in Japan viele Fertigkeiten des Washoku zusammen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_braeuche",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2130,28 +2220,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2185,8 +2275,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das Wachs hält den Farbstoff von den abgedeckten Bereichen des Stoffes fern.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2202,28 +2295,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2257,8 +2350,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Aus dem Inneren frischer Aloeblätter entstehen dünne helle Fäden für die Hvarer Spitze.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2274,28 +2370,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2329,8 +2425,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Fasern des Papiermaulbeerbaums werden unter anderem gewässert und mit einem Bambussieb geschöpft.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2346,28 +2445,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2401,8 +2500,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Schyrdaks gehören zusammen mit Ala-Kiyiz zu den überlieferten kirgisischen Filzteppichen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2418,28 +2520,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2473,8 +2575,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die geknüpften oder gewebten Taschen aus Pflanzenfasern dienen zum Tragen von Erntegut und vielen anderen Dingen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2490,28 +2595,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2545,8 +2650,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Bei dieser Fasnacht tanzen die maskierten Teilnehmer unter anderem paarweise mit klingenden Schellen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_braeuche",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2562,28 +2670,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2617,8 +2725,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Aus den vorbereiteten Fasern flechten die Handwerkerinnen und Handwerker den Hutkopf und die Krempe.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_handwerk",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2634,28 +2745,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2689,8 +2800,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die ukrainische Borschtsch-Tradition umfasst zahlreiche Varianten, auch mit fermentiertem Rübensaft.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_esskultur",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2706,28 +2820,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2761,8 +2875,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das Fest beginnt am fünften Tag des fünften Mondmonats. Zum Brauch gehören regionale Wettfahrten und Gedenkrituale.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_braeuche",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2778,28 +2895,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:49:14+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:53:32+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:53:32+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },

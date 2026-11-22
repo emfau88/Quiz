@@ -25,8 +25,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Ein Kubikmeter ist das Volumen eines Würfels von einem Meter Kantenlänge.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_messen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -42,28 +45,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.711Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -97,8 +100,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Größe einer Fläche lässt sich in Quadratmetern angeben. Ein solcher Quadratmeter ist einen Meter lang und einen Meter breit.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_messen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -114,28 +120,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.711Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -169,8 +175,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Angabe bedeutet, dass sich die Luft in einer Sekunde fünf Meter weit bewegt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_messen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -186,28 +195,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.711Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -241,8 +250,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das Newton ist die Einheit der Kraft. Eine Federwaage kann so zum Beispiel die Gewichtskraft anzeigen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_messen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -258,28 +270,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.711Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -313,8 +325,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das Joule ist eine Energieeinheit. Auch verrichtete Arbeit und übertragene Wärme lassen sich in Joule angeben.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_messen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -330,28 +345,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.711Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -385,8 +400,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das Omega steht für Ohm, die Einheit des elektrischen Widerstands.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_messen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -402,28 +420,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.711Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -457,8 +475,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Der Lichtstrom in Lumen beschreibt die insgesamt abgegebene, für Menschen sichtbare Lichtleistung.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_messen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -474,28 +495,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.714Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -529,8 +550,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Vorsilbe Milli steht für den tausendsten Teil der Einheit.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_messen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -546,28 +570,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.714Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -601,8 +625,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Ein Kilowatt entspricht 1.000 Watt. Die gleiche Vorsilbe findet sich bei Kilometer und Kilogramm.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_messen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -618,28 +645,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.714Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -673,8 +700,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Ein Coulomb entspricht der Ladung, die bei einer Stromstärke von einem Ampere in einer Sekunde fließt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_messen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -690,28 +720,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.714Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -745,8 +775,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Dichte beschreibt die Masse pro Volumen. Im internationalen Einheitensystem lautet die Einheit Kilogramm pro Kubikmeter.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_messen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -762,28 +795,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.716Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1105,8 +1138,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Ein Becquerel entspricht im Mittel einem radioaktiven Zerfall in einer Sekunde.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_messen",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1122,28 +1158,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.716Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1155,7 +1191,7 @@
     "id": "qs-weissblech-zinn",
     "fact_key": "weissblech-zinn",
     "category": "everyday_technology",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "question": "Mit welchem Metall ist das Stahlblech einer klassischen Weißblechdose überzogen?",
     "options": [
       {
@@ -1177,8 +1213,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Eine dünne Zinnschicht schützt das Stahlblech vor Korrosion.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_werkstoffe",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1194,28 +1233,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.716Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1249,8 +1288,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Glas kann sich auf dem flüssigen Zinn ausbreiten. So entstehen ebene Glasscheiben.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_werkstoffe",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1266,28 +1308,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.716Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1321,8 +1363,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Sterlingsilber enthält 925 Teile Silber je tausend Teile der Legierung. Häufig bildet Kupfer einen Teil des Rests.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_werkstoffe",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1338,28 +1383,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.716Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1393,8 +1438,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Eine dünne Silberschicht wirft einfallendes sichtbares Licht besonders gut zurück.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_werkstoffe",
+      "form_herleiten"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1410,28 +1458,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.716Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1466,9 +1514,11 @@
     "correct_option_id": "a",
     "explanation": "Silberbromid und andere Silberhalogenide sind lichtempfindlich. Diese Eigenschaft nutzte die analoge Fotografie.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_ton_und_bild",
+      "form_herleiten"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1484,28 +1534,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:52:07.300Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:52:25.505Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:52:25.505Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1539,8 +1589,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Karat gibt bei Gold den Anteil des Edelmetalls an. 24 Karat stehen für Feingold.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_werkstoffe",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1556,28 +1609,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.716Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1611,8 +1664,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Gold lässt sich so dünn ausschlagen, dass es als Überzug auf Rahmen, Figuren und anderen Oberflächen verwendet werden kann.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_werkstoffe",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1628,28 +1684,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.716Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1684,9 +1740,11 @@
     "correct_option_id": "a",
     "explanation": "Wolfram hält sehr hohe Temperaturen aus. Dadurch kann ein dünner Draht glühen, ohne zu schmelzen.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_lichttechnik",
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1702,28 +1760,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:52:07.300Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:52:25.505Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:52:25.505Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1757,8 +1815,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Wolframcarbid ist außerordentlich hart. Es wird deshalb für Werkzeuge eingesetzt, die harten Werkstoff bearbeiten.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_werkstatt",
+      "form_herleiten"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1774,28 +1835,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.716Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1830,9 +1891,11 @@
     "correct_option_id": "a",
     "explanation": "Quecksilber ist bei Raumtemperatur flüssig. Früher wurde es unter anderem für Thermometer und Barometer genutzt.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_messen",
+      "form_wiedererkennen"
     ],
-    "content_revision": 2,
+    "content_revision": 3,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1848,28 +1911,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:52:07.300Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 2,
+        "content_revision": 3,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:52:25.505Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:52:25.505Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1903,8 +1966,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Blei wird in den Elektroden klassischer Starterbatterien eingesetzt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_energietechnik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1920,28 +1986,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.716Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1975,8 +2041,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Metalle wie Platin fördern chemische Reaktionen, die bestimmte schädliche Bestandteile des Abgases umwandeln.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_verkehrstechnik",
+      "form_herleiten"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1992,28 +2061,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.716Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2047,8 +2116,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Zusätze anderer Metalle können die gelbe Farbe des Goldes stark abschwächen. Ein mögliches Legierungsmetall ist Palladium.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_werkstoffe",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2064,28 +2136,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.716Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2119,8 +2191,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Solche Magnete ermöglichen kompakte Lautsprecher und kommen auch in manchen Windenergieanlagen vor.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_werkstoffe",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2136,28 +2211,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.716Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2191,8 +2266,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Zirkoniumdioxid eignet sich für hochfeste Keramik. Daraus lassen sich auch Klingen herstellen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_haushalt",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2208,28 +2286,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.716Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2263,8 +2341,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Ein leicht schmelzendes Metallstück kann bei erhöhter Temperatur eine elektrische Verbindung unterbrechen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_werkstoffe",
+      "form_herleiten"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2280,28 +2361,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.717Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2335,8 +2416,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Jodiertes Salz enthält eine kleine Menge einer Jodverbindung.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_lebensmittel",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2352,28 +2436,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.717Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2407,8 +2491,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Eine elektrische Entladung bringt das Xenon in der Blitzröhre sehr kurz und hell zum Leuchten.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_lichttechnik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2424,28 +2511,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.717Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2479,8 +2566,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Gasförmiger Stickstoff reagiert nur wenig. Er kann beim Verpacken einen Teil der Luft verdrängen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_lebensmittel",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2496,28 +2586,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.742Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2551,8 +2641,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die geringe Dichte ermöglicht leichte Bauteile, etwa in Kameras und Laptops.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_werkstoffe",
+      "form_herleiten"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2568,28 +2661,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.742Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2623,8 +2716,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Silikonkautschuk eignet sich als wasserbeständiger Dichtstoff, auch an Fenstern und Rohren.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_haushalt",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2640,28 +2736,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.742Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2695,8 +2791,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Helium dient als Kühlmittel für supraleitende Magnete. Solche Magnete brauchen sehr tiefe Temperaturen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_werkstoffe",
+      "form_herleiten"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2712,28 +2811,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:16.742Z"
+        "at": "2026-11-22T18:43:00.903+00:00"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass",
-        "at": "2026-11-20T01:41:38.417Z"
+        "at": "2026-11-22T18:44:38.609+00:00"
       },
-      "approved_at": "2026-11-20T01:41:38.417Z",
-      "approved_by": "Codex · Inhaltsredaktion Natur, Länder und Technik",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },

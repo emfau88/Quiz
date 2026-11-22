@@ -1,0 +1,1279 @@
+[
+  {
+    "id": "qs-b4-dfb-frauenfussball",
+    "fact_key": "bulk4.dfb.frauenfussball",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Seit 1955 galt im DFB ein Verbot für Frauenfußball. In welchem Jahrzehnt hob der Verband es auf?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In den 1990er-Jahren"
+      },
+      {
+        "id": "b",
+        "text": "In den 1970er-Jahren"
+      },
+      {
+        "id": "c",
+        "text": "In den 1960er-Jahren"
+      },
+      {
+        "id": "d",
+        "text": "In den 1980er-Jahren"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Am 31. Oktober 1970 nahm der DFB den Frauenfußball in seine Satzung auf. Vier Jahre später gewann der TuS Wörrstadt die erste deutsche Frauenfußball-Meisterschaft des DFB.",
+    "tags": [
+      "thema_sportgeschichte",
+      "form_zeitlich_einordnen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutscher Fußball-Bund – Historische Chronik",
+        "url": "https://www.dfb.de/historie",
+        "locator": "DFB-Chronik, Einträge 1970 „Aufnahme des Frauenfußballs“ und 1974 „TuS Wörrstadt“",
+        "verified_claim": "Der DFB datiert die Aufhebung seines Verbots auf 1970 und die erste Meisterschaft auf 1974.",
+        "checked_at": "2026-11-22T18:26:26Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der DFB datiert die Aufhebung seines Verbots auf 1970 und die erste Meisterschaft auf 1974."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Das Verbot ist ausdrücklich dem DFB zugeordnet. Die vier Jahrzehnte sind getrennt und 1970 wird erst nach der Antwort aufgelöst."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-wm-bern-gegner",
+    "fact_key": "bulk4.wm.bern.gegner",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "1954 endete das WM-Finale in Bern 3:2 für die bundesdeutsche Elf. Aus welchem Land kam die unterlegene Mannschaft?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ungarn"
+      },
+      {
+        "id": "b",
+        "text": "Österreich"
+      },
+      {
+        "id": "c",
+        "text": "Italien"
+      },
+      {
+        "id": "d",
+        "text": "Brasilien"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ungarn ging als Favorit ins Finale. Im Berner Wankdorf-Stadion erzielte Helmut Rahn den entscheidenden Treffer zum ersten deutschen WM-Titel.",
+    "tags": [
+      "thema_sportgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutscher Fußball-Bund – Historische Chronik",
+        "url": "https://www.dfb.de/historie",
+        "locator": "DFB-Chronik, „1954: Das Wunder von Bern“",
+        "verified_claim": "Die DFB-Chronik nennt Ungarn als Finalgegner, das 3:2, Helmut Rahn und das Wankdorf-Stadion.",
+        "checked_at": "2026-11-22T18:26:26Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die DFB-Chronik nennt Ungarn als Finalgegner, das 3:2, Helmut Rahn und das Wankdorf-Stadion."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Gefragt ist der Gegner im Finale. Es stehen vier Fußballnationen zur Wahl, ohne Namen von Reportern oder eine unbelegte Spielszene."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-paralympics-rom",
+    "fact_key": "bulk4.paralympics.rom",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Die ersten heute als Paralympics anerkannten Spiele fanden 1960 kurz nach Olympia statt. Welche europäische Stadt war Gastgeberin?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Helsinki"
+      },
+      {
+        "id": "b",
+        "text": "London"
+      },
+      {
+        "id": "c",
+        "text": "Stockholm"
+      },
+      {
+        "id": "d",
+        "text": "Rom"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Rom richtete im selben Jahr beide Sportereignisse aus. Die heutigen Paralympics gingen aus den Stoke Mandeville Games hervor, deren erste Austragung schon 1948 stattgefunden hatte.",
+    "tags": [
+      "thema_sportgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "International Paralympic Committee – The first Paralympic Games in Rome 1960",
+        "url": "https://www.paralympic.org/feature/celebrating-60-years-rome-1960-first-paralympic-games",
+        "locator": "International Paralympic Committee, „Celebrating 60 years since Rome 1960“, Einleitung und Vorgeschichte",
+        "verified_claim": "Das IPC bezeichnet Rom 1960 als erste Paralympics und nennt die Stoke Mandeville Games von 1948 als Vorläufer.",
+        "checked_at": "2026-11-22T18:26:25Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Das IPC bezeichnet Rom 1960 als erste Paralympics und nennt die Stoke Mandeville Games von 1948 als Vorläufer."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Formulierung „heute als Paralympics anerkannt“ berücksichtigt die damalige Benennung. Alle Ablenker sind europäische Olympiastädte."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-marathon-joan-benoit",
+    "fact_key": "bulk4.marathon.joan.benoit",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Joan Benoit gewann den ersten olympischen Marathon der Frauen. Bei welchen Sommerspielen wurde dieses Rennen ausgetragen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Montreal 1976"
+      },
+      {
+        "id": "b",
+        "text": "Seoul 1988"
+      },
+      {
+        "id": "c",
+        "text": "Los Angeles 1984"
+      },
+      {
+        "id": "d",
+        "text": "München 1972"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Erst 1984 gehörte der Frauenmarathon zum olympischen Programm. Den ersten Titel gewann die US-Amerikanerin Joan Benoit vor heimischem Publikum in Los Angeles.",
+    "tags": [
+      "thema_sportgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "World Athletics – 40 years since Benoit’s Olympic marathon win",
+        "url": "https://worldathletics.org/heritage/news/joan-benoit-olympic-marathon-1984-los-angeles",
+        "locator": "World Athletics, Rückblick zum 40. Jahrestag von Benoits Sieg, Einleitung",
+        "verified_claim": "Der Weltverband nennt die Olympischen Spiele von Los Angeles 1984 und die US-Amerikanerin Joan Benoit als erste Olympiasiegerin im Frauenmarathon.",
+        "checked_at": "2026-11-22T18:26:27Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der Weltverband nennt die Olympischen Spiele von Los Angeles 1984 und die US-Amerikanerin Joan Benoit als erste Olympiasiegerin im Frauenmarathon."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Alle vier Antworten nennen reale Sommerspiele. Die konkurrierenden Termine liegen in zeitlicher Nähe zur ersten Austragung."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-fosbury-rueckwaerts",
+    "fact_key": "bulk4.fosbury.rueckwaerts",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Welche Körperhaltung machte Dick Fosburys Hochsprung bei seinem Olympiasieg 1968 berühmt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aufrecht mit vorangestreckten Beinen"
+      },
+      {
+        "id": "b",
+        "text": "Rücklings und mit gebogenem Körper"
+      },
+      {
+        "id": "c",
+        "text": "Bäuchlings mit einer Rollbewegung"
+      },
+      {
+        "id": "d",
+        "text": "Seitlich mit scherenartig geführten Beinen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Fosbury sprang rücklings über die Latte. Bei den Spielen in Mexiko-Stadt überquerte er so 2,24 Meter und stellte einen olympischen Rekord auf.",
+    "tags": [
+      "thema_sportgeschichte",
+      "form_vergleichen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "World Athletics – Dick Fosbury im Interview, Jumping backwards. Moving forwards.",
+        "url": "https://worldathletics.org/spikes/news/dick-fosbury-speaks-to-ato-boldon",
+        "locator": "World Athletics, „Jumping backwards. Moving forwards.“, Absatz zu Mexiko 1968",
+        "verified_claim": "Der Verband schildert Fosburys rückwärts ausgeführten Sprung und die olympische Rekordhöhe von 2,24 Metern bei seinem Sieg 1968.",
+        "checked_at": "2026-11-22T18:27:19Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der Verband schildert Fosburys rückwärts ausgeführten Sprung und die olympische Rekordhöhe von 2,24 Metern bei seinem Sieg 1968."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die vier Antworten beschreiben Körperhaltungen aus der Perspektive der Latte. Wälz- und Scherentechnik dienen als sportnahe Ablenker."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-olympia-gemeinsames-team",
+    "fact_key": "bulk4.olympia.gemeinsames.team",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Was war an der deutschen Mannschaft bei den Olympischen Sommerspielen in Tokio 1964 besonders?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aktive aus Bundesrepublik und DDR bildeten ein Team."
+      },
+      {
+        "id": "b",
+        "text": "Beide Staaten traten mit getrennten Mannschaften an."
+      },
+      {
+        "id": "c",
+        "text": "Nur eine Mannschaft der Bundesrepublik nahm teil."
+      },
+      {
+        "id": "d",
+        "text": "Nur eine Mannschaft der DDR nahm teil."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Tokio war der letzte olympische Auftritt des gemeinsamen Teams in der Zeit der deutschen Teilung. Die Mannschaft hatte schon 1956 und 1960 Sportlerinnen und Sportler beider Staaten zusammengeführt.",
+    "tags": [
+      "thema_sportgeschichte",
+      "form_wiedererkennen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutscher Olympischer Sportbund – Tokio 1964 und die gesamtdeutsche Mannschaft",
+        "url": "https://www.dosb.de/aktuelles/news/detail/tokio-1964-letztes-mal-eine-gesamtdeutsche-olympiamannschaft",
+        "locator": "DOSB, „Tokio 1964: letztes Mal eine gesamtdeutsche Olympiamannschaft“, Einleitung und Schluss",
+        "verified_claim": "Der DOSB bezeichnet Tokio 1964 als letzten Auftritt des gesamtdeutschen Teams in der Teilungszeit und datiert seine Anfänge auf 1956.",
+        "checked_at": "2026-11-22T18:27:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der DOSB bezeichnet Tokio 1964 als letzten Auftritt des gesamtdeutschen Teams in der Teilungszeit und datiert seine Anfänge auf 1956."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Gemeinsame Mannschaft, getrennte Mannschaften und Teilnahme jeweils nur eines Staates ergeben vier unterschiedliche Fälle."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-tour-gelbes-trikot",
+    "fact_key": "bulk4.tour.gelbes.trikot",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Wer trug 1919 bei der Tour de France als Erster das Gelbe Trikot des Gesamtführenden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Jacques Anquetil"
+      },
+      {
+        "id": "b",
+        "text": "Eddy Merckx"
+      },
+      {
+        "id": "c",
+        "text": "Bernard Hinault"
+      },
+      {
+        "id": "d",
+        "text": "Eugène Christophe"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Eugène Christophe erhielt das Trikot am 19. Juli 1919. Einen Tag vor dem Ende der Tour verlor er die Führung. Das erste Gelbe Trikot und der Gesamtsieg gingen damit an verschiedene Fahrer.",
+    "tags": [
+      "thema_sportgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Tour de France – The Yellow Jersey Centenary",
+        "url": "https://www.letour.fr/en/news/2019/mj-tour-de-france-anglais/1276081",
+        "locator": "Tour de France, „The Yellow Jersey centenary“, Absatz zum 19. Juli 1919 und Bildtext zu Christophe",
+        "verified_claim": "Die Veranstalter nennen Eugène Christophe als ersten Träger und berichten, dass er die Führung am Tag vor dem Ende der Tour verlor.",
+        "checked_at": "2026-11-22T18:27:13Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Veranstalter nennen Eugène Christophe als ersten Träger und berichten, dass er die Führung am Tag vor dem Ende der Tour verlor."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Frage trennt den ersten Träger des Trikots vom späteren Toursieger. Die Alternativen sind andere bekannte Fahrer der Tour de France."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-muenchen-maskottchen-waldi",
+    "fact_key": "bulk4.muenchen.maskottchen.waldi",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "„Waldi“ war das Maskottchen der Olympischen Sommerspiele 1972 in München. Welche Hunderasse stand Modell?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schnauzer"
+      },
+      {
+        "id": "b",
+        "text": "Boxer"
+      },
+      {
+        "id": "c",
+        "text": "Dackel"
+      },
+      {
+        "id": "d",
+        "text": "Pudel"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Waldi trug einen hellblauen Kopf und bunte Streifen am Körper. Der kleine Dackel war als Figur, Kissen und Puzzle auch außerhalb der Stadien zu sehen.",
+    "tags": [
+      "thema_sportgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Internationales Olympisches Komitee – Munich 1972",
+        "url": "https://www.olympics.com/ioc/news/munich-1972-inspired-by-openness-and-nature-overshadowed-by-tragedy",
+        "locator": "IOC, „Munich 1972: inspired by openness and nature“, Absatz zum Maskottchen Waldi",
+        "verified_claim": "Das IOC bezeichnet Waldi als Dackel, beschreibt seine Farbgebung und führt Puzzle sowie Kissen als Beispiele an.",
+        "checked_at": "2026-11-22T18:27:19Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Das IOC bezeichnet Waldi als Dackel, beschreibt seine Farbgebung und führt Puzzle sowie Kissen als Beispiele an."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Rasse bleibt trotz des Namens Waldi offen. Alle Alternativen sind Hunderassen, die Farbgestaltung ist erst Teil der Erklärung."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-intershop-forumscheck",
+    "fact_key": "bulk4.intershop.forumscheck",
+    "category": "history_discoveries",
+    "difficulty": "hard",
+    "question": "Was erhielten DDR-Bürger ab 1979 bei der Staatsbank, wenn sie Westgeld für ihren nächsten Intershop-Einkauf umtauschten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zinsscheine"
+      },
+      {
+        "id": "b",
+        "text": "Forum-Schecks"
+      },
+      {
+        "id": "c",
+        "text": "Reiseschecks"
+      },
+      {
+        "id": "d",
+        "text": "Essensmarken"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Staatsbank der DDR tauschte Westgeld in Forum-Schecks. Der Staat erhielt so Devisen, während die Kundschaft mit den Scheinen im Intershop einkaufte.",
+    "tags": [
+      "thema_alltagsgeschichte",
+      "form_zeitlich_einordnen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte – LeMO, Intershop",
+        "url": "https://www.hdg.de/lemo/kapitel/geteiltes-deutschland-modernisierung/reformversuche-im-osten/intershop.html",
+        "locator": "Haus der Geschichte, LeMO „Intershop“, Absätze zur Devisenbeschaffung und zum Umtausch ab 1979",
+        "verified_claim": "LeMO dokumentiert den verpflichtenden Umtausch in Forumchecks für DDR-Bürger ab 1979, den Zweck der Devisenbeschaffung und den Verkauf gegen Westwährung.",
+        "checked_at": "2026-11-22T18:27:17Z"
+      },
+      {
+        "id": "s2",
+        "title": "Museum Europäischer Kulturen Berlin – Forum-Scheck, Sammlungseintrag",
+        "url": "https://search.smb.museum/object/obj-578996",
+        "locator": "Objekt I (46 J) 228/1990,a-d, Objektbeschreibung",
+        "verified_claim": "Der Bestand dokumentiert den Forum-Scheck von 1979 und den Umtausch vor dem Einkauf.",
+        "checked_at": "2026-11-22T18:37:35Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. LeMO dokumentiert den verpflichtenden Umtausch in Forumchecks für DDR-Bürger ab 1979, den Zweck der Devisenbeschaffung und den Verkauf gegen Westwährung."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Zeitpunkt und Kundengruppe sind ausdrücklich genannt. Die Schreibung „Forum-Scheck“ ist auch auf dem zweiten Museumsnachweis belegt."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-deutsche-waehrungsunion",
+    "fact_key": "bulk4.deutsche.waehrungsunion",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Wann wurde die D-Mark in der DDR als allgemeines Zahlungsmittel eingeführt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zwischen Mauerfall und deutscher Einheit"
+      },
+      {
+        "id": "b",
+        "text": "Noch vor der Öffnung der Berliner Mauer"
+      },
+      {
+        "id": "c",
+        "text": "Genau am Tag der deutschen Einheit"
+      },
+      {
+        "id": "d",
+        "text": "Erst im Jahr nach der deutschen Einheit"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Am 1. Juli 1990 stellten die Banken in der DDR die Konten auf D-Mark um und gaben das neue Bargeld aus. Die staatliche Einheit folgte am 3. Oktober.",
+    "tags": [
+      "thema_alltagsgeschichte",
+      "form_zeitlich_einordnen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsche Bundesbank – 25 Jahre deutsch-deutsche Währungsunion",
+        "url": "https://www.bundesbank.de/de/aufgaben/themen/25-jahre-deutsch-deutsche-waehrungsunion-664522",
+        "locator": "Deutsche Bundesbank, Rückblick auf die Währungsunion, Einleitung zum 1. Juli 1990",
+        "verified_claim": "Die Bundesbank datiert die Umstellung und die erste Ausgabe auf den 1. Juli 1990 und ordnet sie zwischen Mauerfall und staatlicher Einheit ein.",
+        "checked_at": "2026-11-22T18:26:26Z"
+      },
+      {
+        "id": "s2",
+        "title": "Deutscher Bundestag – Volkskammer beschließt DDR-Beitritt",
+        "url": "https://www.bundestag.de/dokumente/textarchiv/1990-08-23-volkskammer-ddr-beitritt-202398",
+        "locator": "Einleitung und Beschluss der Volkskammer",
+        "verified_claim": "Der Beschluss setzte den Beitritt der DDR zur Bundesrepublik zum 3. Oktober 1990 fest.",
+        "checked_at": "2026-11-22T18:37:36Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Bundesbank datiert die Umstellung und die erste Ausgabe auf den 1. Juli 1990 und ordnet sie zwischen Mauerfall und staatlicher Einheit ein."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die vier Zeitfenster schließen sich aus. Einführung der D-Mark und staatliche Einheit werden mit getrennten Kalenderdaten erklärt."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-anwerbung-italien",
+    "fact_key": "bulk4.anwerbung.italien",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Mit welchem Land schloss die Bundesrepublik 1955 ihr erstes Anwerbeabkommen für Arbeitskräfte?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Spanien"
+      },
+      {
+        "id": "b",
+        "text": "Griechenland"
+      },
+      {
+        "id": "c",
+        "text": "Türkei"
+      },
+      {
+        "id": "d",
+        "text": "Italien"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Das Abkommen mit Italien sollte den Arbeitskräftemangel in der Bundesrepublik lindern. Weitere Verträge folgten 1960 mit Spanien und Griechenland und 1961 mit der Türkei.",
+    "tags": [
+      "thema_alltagsgeschichte",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Haus der Geschichte – LeMO, Gastarbeiter",
+        "url": "https://www.hdg.de/lemo/kapitel/geteiltes-deutschland-modernisierung/bundesrepublik-im-wandel/gastarbeiter.html",
+        "locator": "Haus der Geschichte, LeMO „Gastarbeiter“, erster Absatz und Jahresfolge der Abkommen",
+        "verified_claim": "LeMO führt Italien 1955 vor Spanien und Griechenland 1960 und der Türkei 1961 auf und erklärt den westdeutschen Arbeitskräftemangel.",
+        "checked_at": "2026-11-22T18:27:16Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. LeMO führt Italien 1955 vor Spanien und Griechenland 1960 und der Türkei 1961 auf und erklärt den westdeutschen Arbeitskräftemangel."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Alle alternativen Länder schlossen tatsächlich Abkommen. Ihre in der Museumsquelle belegten späteren Jahre sichern die eindeutige Lösung."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-berliner-geisterbahnhoefe",
+    "fact_key": "bulk4.berliner.geisterbahnhoefe",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Warum hießen manche Stationen der Berliner U- und S-Bahn während der Teilung „Geisterbahnhöfe“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Fahrgäste mussten dort stets in Grenzbusse umsteigen."
+      },
+      {
+        "id": "b",
+        "text": "Die Züge wendeten dort, bevor sie die Grenze erreichten."
+      },
+      {
+        "id": "c",
+        "text": "Die Züge fuhren an den abgesperrten Bahnsteigen durch."
+      },
+      {
+        "id": "d",
+        "text": "Die Züge hielten dort ausschließlich nach Mitternacht."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Einige Linien zwischen West-Berliner Stadtteilen verliefen unter Ost-Berlin. Die Züge passierten dort geschlossene und bewachte Bahnhöfe, ohne für Fahrgäste zu halten.",
+    "tags": [
+      "thema_alltagsgeschichte",
+      "form_herleiten",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung Berliner Mauer – Grenz- und Geisterbahnhöfe im geteilten Berlin",
+        "url": "https://www.stiftung-berliner-mauer.de/de/gedenkstaette-berliner-mauer/besuch/ausstellungen/grenz-und-geisterbahnhoefe-im-geteilten-berlin",
+        "locator": "Stiftung Berliner Mauer, Ausstellung „Grenz- und Geisterbahnhöfe im geteilten Berlin“, Einführung",
+        "verified_claim": "Die Stiftung dokumentiert abgesperrte und bewachte Ost-Berliner Stationen auf West-Berliner Linien, an denen die Züge ohne Halt durchfuhren.",
+        "checked_at": "2026-11-22T18:29:59Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Stiftung dokumentiert abgesperrte und bewachte Ost-Berliner Stationen auf West-Berliner Linien, an denen die Züge ohne Halt durchfuhren."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Frage beschränkt sich auf manche Stationen. Die Lösung erklärt die Durchfahrt ohne Halt und bezieht sich nicht auf alle Ost-Berliner Bahnhöfe."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-millionster-kaefer",
+    "fact_key": "bulk4.millionster.kaefer",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Im August 1955 lief der millionste VW Käfer vom Band. Welche Lackierung zeichnete das Jubiläumsauto aus?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Perlmuttweiß"
+      },
+      {
+        "id": "b",
+        "text": "Goldfarben"
+      },
+      {
+        "id": "c",
+        "text": "Silberfarben"
+      },
+      {
+        "id": "d",
+        "text": "Kupferfarben"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Volkswagen feierte den millionsten Käfer mit goldfarbenem Lack. Auch die Stoßstangen des Wagens waren geschmückt, und zwar mit Glasperlen.",
+    "tags": [
+      "thema_alltagsgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Volkswagen Newsroom – Beetle 1200/1200L, Modellchronik",
+        "url": "https://www.volkswagen-newsroom.com/en/beetle-kaefer-12001200l-1954197319731985-19584",
+        "locator": "Volkswagen Newsroom, Modellchronik Käfer 1200, Eintrag „1955“",
+        "verified_claim": "Volkswagen datiert den millionsten Käfer auf den 5. August 1955 und dokumentiert Goldlack sowie Glasperlen an den Stoßstangen.",
+        "checked_at": "2026-11-22T18:30:00Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Volkswagen datiert den millionsten Käfer auf den 5. August 1955 und dokumentiert Goldlack sowie Glasperlen an den Stoßstangen."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Gefragt ist die Lackfarbe des Jubiläumswagens. Die Alternativen sind andere Autolackierungen und die Glasperlen ein belegtes Zusatzdetail."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-supermarkt-erster-scan",
+    "fact_key": "bulk4.supermarkt.erster.scan",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "1974 wurde an einer Supermarktkasse in Ohio erstmals ein Produkt per UPC-Strichcode erfasst. Was lag auf der Ladentheke?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Packung Kaugummi"
+      },
+      {
+        "id": "b",
+        "text": "Eine Packung Cornflakes"
+      },
+      {
+        "id": "c",
+        "text": "Eine Dose Tomatensuppe"
+      },
+      {
+        "id": "d",
+        "text": "Eine Flasche Limonade"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Eine Packung Kaugummi wurde am 26. Juni 1974 in einem Markt der Kette Marsh gescannt. Aus einer damals neuen Art zu kassieren wurde ein vertrauter Handgriff an der Ladenkasse.",
+    "tags": [
+      "thema_alltagsgeschichte",
+      "form_wiedererkennen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GS1 – Geschichte des Strichcodes",
+        "url": "https://support.gs1.org/support/solutions/articles/43000734073-gs1-historical-timeline",
+        "locator": "GS1, Geschichte des Barcodes, Jahresabschnitt „1974“",
+        "verified_claim": "Die Standardisierungsorganisation GS1 nennt eine Packung Kaugummi als am 26. Juni 1974 in einem Supermarkt in Ohio erstmals gescannte UPC-Ware.",
+        "checked_at": "2026-11-22T18:27:13Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Standardisierungsorganisation GS1 nennt eine Packung Kaugummi als am 26. Juni 1974 in einem Supermarkt in Ohio erstmals gescannte UPC-Ware."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Der UPC-Einsatz ist auf die Supermarktkasse in Ohio eingegrenzt. Alle Antwortmöglichkeiten wären typische Kassenwaren."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-walkman-kassette",
+    "fact_key": "bulk4.walkman.kassette",
+    "category": "history_discoveries",
+    "difficulty": "easy",
+    "question": "Was legte man 1979 in Sonys ersten Walkman ein, um unterwegs Musik zu hören?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine Compact Disc"
+      },
+      {
+        "id": "b",
+        "text": "Eine MiniDisc"
+      },
+      {
+        "id": "c",
+        "text": "Eine kleine Schallplatte"
+      },
+      {
+        "id": "d",
+        "text": "Eine Musikkassette"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der erste Walkman hieß TPS-L2 und gab Stereokassetten über Kopfhörer wieder. Auf eine Aufnahmefunktion verzichtete Sony bei diesem Modell.",
+    "tags": [
+      "thema_alltagsgeschichte",
+      "form_wiedererkennen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Sony Group – Product & Technology Milestones, Personal Audio",
+        "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/sonyhistory-e.html",
+        "locator": "Sony Group, „Product & Technology Milestones – Personal Audio“, Abschnitt „1979, TPS-L2“",
+        "verified_claim": "Sonys Herstellerarchiv beschreibt den TPS-L2 als ersten Walkman-Stereokassettenspieler und nennt den Verzicht auf eine Aufnahmefunktion.",
+        "checked_at": "2026-11-22T18:27:13Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Sonys Herstellerarchiv beschreibt den TPS-L2 als ersten Walkman-Stereokassettenspieler und nennt den Verzicht auf eine Aufnahmefunktion."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Frage nennt das erste Modell und dessen Jahr ausdrücklich. So kommen spätere tragbare CD- oder MiniDisc-Geräte nicht als Zweitlösung infrage."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-pfund-dezimaltag",
+    "fact_key": "bulk4.pfund.dezimaltag",
+    "category": "history_discoveries",
+    "difficulty": "medium",
+    "question": "Was änderte sich am britischen „Decimal Day“ 1971 für Menschen, die ein Pfund in kleinere Einheiten umrechneten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Pfund entsprach nun 120 neuen Pence."
+      },
+      {
+        "id": "b",
+        "text": "Ein Pfund entsprach nun 240 neuen Pence."
+      },
+      {
+        "id": "c",
+        "text": "Ein Pfund entsprach nun 100 neuen Pence."
+      },
+      {
+        "id": "d",
+        "text": "Ein Pfund entsprach nun 20 neuen Pence."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Am 15. Februar 1971 wurde die britische Rechnung einfacher. Zuvor bestand ein Pfund aus 20 Schilling zu je zwölf alten Pence, zusammen also 240 alten Pence.",
+    "tags": [
+      "thema_alltagsgeschichte",
+      "form_vergleichen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "The Royal Mint – The Royal Mint and Decimalisation",
+        "url": "https://www.royalmint.com/collect/decimalisation/the-story-of-decimalisation",
+        "locator": "The Royal Mint, „The Royal Mint and Decimalisation“, Einführung und „Decimal Day“",
+        "verified_claim": "Die britische Münzprägestätte stellt den früheren Zusammenhang von Pfund, Schilling und Penny dem neuen System mit 100 Pence pro Pfund gegenüber.",
+        "checked_at": "2026-11-22T18:30:01Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die britische Münzprägestätte stellt den früheren Zusammenhang von Pfund, Schilling und Penny dem neuen System mit 100 Pence pro Pfund gegenüber."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Alle Optionen rechnen dasselbe Pfund in neue Pence um. Frühere 20 Schilling und 240 alte Pence liefern nachvollziehbare Ablenker."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

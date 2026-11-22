@@ -1,0 +1,3006 @@
+[
+  {
+    "id": "qs-donau-schwarzmeer-delta",
+    "fact_key": "donau-schwarzmeer-delta",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Eine Schiffsreise folgt der Donau bis in ihr Delta. An welches Meer gelangt man dort?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kaspisches Meer"
+      },
+      {
+        "id": "b",
+        "text": "Schwarzes Meer"
+      },
+      {
+        "id": "c",
+        "text": "Adriatisches Meer"
+      },
+      {
+        "id": "d",
+        "text": "Ägäisches Meer"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Im Mündungsgebiet der Donau liegen zahlreiche Seen und Sümpfe. Von dort fließt ihr Wasser in das Schwarze Meer.",
+    "tags": [
+      "thema_gewaesser",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Danube Delta - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/588/",
+        "verified_claim": "Im Mündungsgebiet der Donau liegen zahlreiche Seen und Sümpfe. Von dort fließt ihr Wasser in das Schwarze Meer.",
+        "checked_at": "2026-11-22T18:24:42.309Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:31:02.711Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-watt-niedrigwasser-flaeche",
+    "fact_key": "watt-niedrigwasser-flaeche",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Bei Ebbe liegt an der Nordseeküste ein breiter Streifen aus Sand oder Schlick frei. Wie heißt dieser Teil der Küste?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Watt"
+      },
+      {
+        "id": "b",
+        "text": "Düne"
+      },
+      {
+        "id": "c",
+        "text": "Salzwiese"
+      },
+      {
+        "id": "d",
+        "text": "Steilküste"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Wattflächen bestehen aus Sand oder Schlick. Bei Niedrigwasser fallen sie trocken, bei auflaufendem Wasser werden sie wieder überflutet.",
+    "tags": [
+      "thema_landschaften",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wadden Sea - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1314/",
+        "verified_claim": "Wattflächen bestehen aus Sand oder Schlick. Bei Niedrigwasser fallen sie trocken, bei auflaufendem Wasser werden sie wieder überflutet.",
+        "checked_at": "2026-11-22T18:24:42.280Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.960Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-jasmund-weisse-kreide",
+    "fact_key": "jasmund-weisse-kreide",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Wer über die Halbinsel Jasmund auf Rügen wandert, trifft auf eine auffallend helle Steilküste. Welches Gestein ist dort zu sehen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Granit"
+      },
+      {
+        "id": "b",
+        "text": "Basalt"
+      },
+      {
+        "id": "c",
+        "text": "Schiefer"
+      },
+      {
+        "id": "d",
+        "text": "Kreide"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Auf Jasmund reichen Buchenwälder bis an die weißen Kreidekliffs. Besonders nach starkem Regen können Kreideschollen am Steilufer abrutschen.",
+    "tags": [
+      "thema_landschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nationalpark Jasmund - Nationale Naturlandschaften",
+        "url": "https://nationale-naturlandschaften.de/natur-erleben/gebiete/nationalparke/nationalpark-jasmund/",
+        "verified_claim": "Auf Jasmund reichen Buchenwälder bis an die weißen Kreidekliffs. Besonders nach starkem Regen können Kreideschollen am Steilufer abrutschen.",
+        "checked_at": "2026-11-22T18:26:10.196Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.963Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-spreewald-fliesse",
+    "fact_key": "spreewald-fliesse",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Ein Kahn biegt im Spreewald immer wieder in ein anderes „Fließ“ ab. Was bezeichnet dieses Wort dort?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Einen Bootssteg"
+      },
+      {
+        "id": "b",
+        "text": "Einen Moorhügel"
+      },
+      {
+        "id": "c",
+        "text": "Einen Wasserlauf"
+      },
+      {
+        "id": "d",
+        "text": "Einen Uferwall"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Fließe bilden ein dichtes Gewässernetz. Es umfasst natürliche Wasserläufe und vom Menschen veränderte oder angelegte Verbindungen.",
+    "tags": [
+      "thema_gewaesser",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Lebensraum Gewässer - Natur & Landschaft - Biosphärenreservat Spreewald",
+        "url": "https://www.spreewald-biosphaerenreservat.de/biosphaerenreservat/natur-landschaft/lebensraum-gewaesser/",
+        "verified_claim": "Die Fließe bilden ein dichtes Gewässernetz. Es umfasst natürliche Wasserläufe und vom Menschen veränderte oder angelegte Verbindungen.",
+        "checked_at": "2026-11-22T18:25:50.641Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:31:02.713Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-eifel-maar-trichter",
+    "fact_key": "eifel-maar-trichter",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welcher Vorgang ließ in der Vulkaneifel Maartrichter entstehen, die sich später mit Wasser füllen konnten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Wind blies lockeren Sand aus."
+      },
+      {
+        "id": "b",
+        "text": "Magma traf unterirdisch auf Wasser."
+      },
+      {
+        "id": "c",
+        "text": "Ein Gletscher hob Becken aus dem Fels."
+      },
+      {
+        "id": "d",
+        "text": "Ein Fluss schnürte enge Schleifen ab."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Wasser verdampfte beim Kontakt mit dem heißen Magma. Explosionen und anschließende Einbrüche hinterließen Trichter.",
+    "tags": [
+      "thema_landschaften",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Die Maare der Vulkaneifel – Natur und Geopark Vulkaneifel",
+        "url": "https://www.geopark-vulkaneifel.de/eifel/landschaft/maare-und-kraterseen/die-maare-der-vulkaneifel?format=html",
+        "verified_claim": "Das Wasser verdampfte beim Kontakt mit dem heißen Magma. Explosionen und anschließende Einbrüche hinterließen Trichter.",
+        "checked_at": "2026-11-22T18:25:55.401Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.963Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-lilienstein-elbdurchbruch",
+    "fact_key": "lilienstein-elbdurchbruch",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Vom Lilienstein in der Sächsischen Schweiz blickt man auf einen großen Flussbogen. Welcher Fluss windet sich dort durch das Sandsteingebirge?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Elbe"
+      },
+      {
+        "id": "b",
+        "text": "Mosel"
+      },
+      {
+        "id": "c",
+        "text": "Neckar"
+      },
+      {
+        "id": "d",
+        "text": "Main"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Elbe hat sich tief in das Sandsteingebirge eingeschnitten und bildet am Fuß des Liliensteins einen großen Bogen.",
+    "tags": [
+      "thema_gewaesser",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Nationalpark Sächsische Schweiz - Nationale Naturlandschaften",
+        "url": "https://nationale-naturlandschaften.de/natur-erleben/gebiete/nationalparke/nationalpark-saechsische-schweiz/",
+        "verified_claim": "Die Elbe hat sich tief in das Sandsteingebirge eingeschnitten und bildet am Fuß des Liliensteins einen großen Bogen.",
+        "checked_at": "2026-11-22T18:25:54.314Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.963Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-seerhein-obersee-untersee",
+    "fact_key": "seerhein-obersee-untersee",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Obersee und Untersee sind Teile des Bodensees. Durch welchen kurzen Flussabschnitt sind sie bei Konstanz verbunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Alpenrhein"
+      },
+      {
+        "id": "b",
+        "text": "Hochrhein"
+      },
+      {
+        "id": "c",
+        "text": "Oberrhein"
+      },
+      {
+        "id": "d",
+        "text": "Seerhein"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Seerhein führt vom Obersee durch Konstanz. Nach wenigen Kilometern weitet sich der Fluss bei Gottlieben wieder zum See.",
+    "tags": [
+      "thema_gewaesser",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Untersee - Seerhein – Euregio-Bodensee",
+        "url": "https://www.euregio-bodensee.ch/untersee-und-seerhein",
+        "verified_claim": "Der Seerhein führt vom Obersee durch Konstanz. Nach wenigen Kilometern weitet sich der Fluss bei Gottlieben wieder zum See.",
+        "checked_at": "2026-11-22T18:29:26.106Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:31:02.714Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-aletsch-konkordiaplatz-eis",
+    "fact_key": "aletsch-konkordiaplatz-eis",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Auf einer Karte des Großen Aletschgletschers liegt der „Konkordiaplatz“ mitten im Eis. Was trifft hier zusammen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Mehrere Schmelzwasserbäche"
+      },
+      {
+        "id": "b",
+        "text": "Mehrere Gletscherseen"
+      },
+      {
+        "id": "c",
+        "text": "Mehrere Eisströme"
+      },
+      {
+        "id": "d",
+        "text": "Mehrere Gebirgspässe"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Am Konkordiaplatz vereinen sich Firnströme. An ihren Nahtstellen beginnen die markanten Schuttstreifen der Mittelmoränen.",
+    "tags": [
+      "thema_landschaften",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Stiftung UNESCO-Welterbe Schweizer Alpen Jungfrau-Aletsch – Der Grosse Aletschgletscher",
+        "url": "https://jungfraualetsch.ch/wp-content/uploads/2023/12/unesco_faltbroschure_aletsch_juli_2023_small.pdf",
+        "verified_claim": "Am Konkordiaplatz vereinen sich Firnströme. An ihren Nahtstellen beginnen die markanten Schuttstreifen der Mittelmoränen.",
+        "checked_at": "2026-11-22T18:28:30.700Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.963Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-skocjan-reka-karst",
+    "fact_key": "skocjan-reka-karst",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "In Sloweniens Karstgebiet verschwindet die Reka bei Škocjan im Kalkgestein. Wohin fließt ihr Wasser zunächst?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In einen Gletschersee"
+      },
+      {
+        "id": "b",
+        "text": "In eine unterirdische Schlucht"
+      },
+      {
+        "id": "c",
+        "text": "In ein offenes Flussdelta"
+      },
+      {
+        "id": "d",
+        "text": "Über eine Hochmoorfläche"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Reka hat eine tiefe Schlucht in den Kalk gegraben. In den Höhlen fließt sie durch große unterirdische Räume weiter.",
+    "tags": [
+      "thema_gewaesser",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Škocjan Caves - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/390/",
+        "verified_claim": "Die Reka hat eine tiefe Schlucht in den Kalk gegraben. In den Höhlen fließt sie durch große unterirdische Räume weiter.",
+        "checked_at": "2026-11-22T18:24:43.537Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:31:02.714Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-halong-kalktuerme",
+    "fact_key": "halong-kalktuerme",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welches Bild passt zu einer Bootsfahrt durch die Hạ-Long-Bucht im Norden Vietnams?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Steile Kalkfelsen ragen als Inseln aus dem Meer."
+      },
+      {
+        "id": "b",
+        "text": "Blaue Eistürme brechen von einem Gletscher ab."
+      },
+      {
+        "id": "c",
+        "text": "Flache Sanddünen wandern durch eine Lagune."
+      },
+      {
+        "id": "d",
+        "text": "Basaltsäulen bilden eine geschlossene Steilküste."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die bewachsenen Inseln und Felstürme gehören zu einer Karstlandschaft. Das Meer umspült die aus Kalkstein geformten Erhebungen.",
+    "tags": [
+      "thema_landschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Ha Long Bay - Cat Ba Archipelago - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/672/",
+        "verified_claim": "Die bewachsenen Inseln und Felstürme gehören zu einer Karstlandschaft. Das Meer umspült die aus Kalkstein geformten Erhebungen.",
+        "checked_at": "2026-11-22T18:24:43.613Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.963Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-baikal-tiefster-see",
+    "fact_key": "baikal-tiefster-see",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welcher dieser Seen reicht am tiefsten hinab?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bodensee"
+      },
+      {
+        "id": "b",
+        "text": "Gardasee"
+      },
+      {
+        "id": "c",
+        "text": "Plattensee"
+      },
+      {
+        "id": "d",
+        "text": "Baikalsee"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "An der tiefsten Stelle liegen im sibirischen Baikalsee mehr als 1.600 Meter Wasser über dem Grund. Er enthält einen großen Teil der flüssigen Süßwasservorräte der Erde.",
+    "tags": [
+      "thema_gewaesser",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Lake Baikal - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/754/",
+        "verified_claim": "An der tiefsten Stelle liegen im sibirischen Baikalsee mehr als 1.600 Meter Wasser über dem Grund. Er enthält einen großen Teil der flüssigen Süßwasservorräte der Erde.",
+        "checked_at": "2026-11-22T18:24:42.099Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.963Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-namib-nebel-wasser",
+    "fact_key": "namib-nebel-wasser",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Es regnet selten in den Dünenfeldern der Namib am Atlantik. Was liefert dort dennoch einen großen Teil der Feuchtigkeit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Schneeschmelze"
+      },
+      {
+        "id": "b",
+        "text": "Quellbäche aus den Dünen"
+      },
+      {
+        "id": "c",
+        "text": "Küstennebel"
+      },
+      {
+        "id": "d",
+        "text": "Sommermonsun"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Nebel bringt Feuchtigkeit in die Dünenfelder dieser Küstenwüste. Viele dort lebende Tiere sind an die ungewöhnliche Wasserquelle angepasst.",
+    "tags": [
+      "thema_landschaften",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Namib Sand Sea - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1430/",
+        "verified_claim": "Nebel bringt Feuchtigkeit in die Dünenfelder dieser Küstenwüste. Viele dort lebende Tiere sind an die ungewöhnliche Wasserquelle angepasst.",
+        "checked_at": "2026-11-22T18:24:41.397Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-aetna-sizilien-ostkueste",
+    "fact_key": "aetna-sizilien-ostkueste",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Auf welcher Mittelmeerinsel kann man an der Ostküste die Lavafelder des Ätna sehen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kreta"
+      },
+      {
+        "id": "b",
+        "text": "Sizilien"
+      },
+      {
+        "id": "c",
+        "text": "Sardinien"
+      },
+      {
+        "id": "d",
+        "text": "Korsika"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Ätna erhebt sich im Osten Siziliens. Neben den Gipfelkratern prägen kleinere Vulkankegel und erstarrte Lavaströme die Landschaft.",
+    "tags": [
+      "thema_landschaften",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Mount Etna - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/1427/",
+        "verified_claim": "Der Ätna erhebt sich im Osten Siziliens. Neben den Gipfelkratern prägen kleinere Vulkankegel und erstarrte Lavaströme die Landschaft.",
+        "checked_at": "2026-11-22T18:24:43.987Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:31:02.714Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-yosemite-granit-eis",
+    "fact_key": "yosemite-granit-eis",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Welcher Vorgang hat das Yosemite Valley in Kalifornien besonders stark geformt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Gletscher schliffen das Granitgestein aus."
+      },
+      {
+        "id": "b",
+        "text": "Meeresbrandung unterhöhlte eine Kreideküste."
+      },
+      {
+        "id": "c",
+        "text": "Wind verfrachtete lockere Sanddünen."
+      },
+      {
+        "id": "d",
+        "text": "Lavaströme stauten einen Küstenfluss auf."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Gletscher flossen aus dem Hochland der Sierra Nevada in ältere Flusstäler. Im granitischen Gestein von Yosemite vertieften und verbreiterten sie das Tal.",
+    "tags": [
+      "thema_landschaften",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Geology - Yosemite National Park (U.S. National Park Service)",
+        "url": "https://www.nps.gov/yose/learn/nature/geology.htm",
+        "verified_claim": "Gletscher flossen aus dem Hochland der Sierra Nevada in ältere Flusstäler. Im granitischen Gestein von Yosemite vertieften und verbreiterten sie das Tal.",
+        "checked_at": "2026-11-22T18:26:09.192Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-fundybucht-resonanz",
+    "fact_key": "fundybucht-resonanz",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Weshalb ist der Höhenunterschied zwischen Ebbe und Flut in Kanadas Bay of Fundy außergewöhnlich groß?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Fluss schiebt bei jeder Flut zusätzlich Wasser in die Bucht."
+      },
+      {
+        "id": "b",
+        "text": "Vor der Bucht staut ein Riff die auslaufende Ebbe dauerhaft zurück."
+      },
+      {
+        "id": "c",
+        "text": "Drehende Winde drücken den Pegel jeden Tag zweimal nach oben."
+      },
+      {
+        "id": "d",
+        "text": "Die Bucht schwingt im Takt der Gezeiten mit."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "In der Bucht schwingt das Wasser vor und zurück. Die Gezeiten regen diese Schwingung an, und die Form der Bucht verstärkt den Tidenhub.",
+    "tags": [
+      "thema_gewaesser",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Tides in Fundy National Park - Fundy National Park",
+        "url": "https://parks.canada.ca/pn-np/nb/fundy/nature/environment/marees-tides",
+        "verified_claim": "In der Bucht schwingt das Wasser vor und zurück. Die Gezeiten regen diese Schwingung an, und die Form der Bucht verstärkt den Tidenhub.",
+        "checked_at": "2026-11-22T18:27:14.622Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-niagara-see-flussrichtung",
+    "fact_key": "niagara-see-flussrichtung",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Wo liegen die Niagarafälle auf dem Weg des Wassers durch die Großen Seen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zwischen Michigansee und Huronsee"
+      },
+      {
+        "id": "b",
+        "text": "Zwischen Huronsee und Eriesee"
+      },
+      {
+        "id": "c",
+        "text": "Zwischen Eriesee und Ontariosee"
+      },
+      {
+        "id": "d",
+        "text": "Zwischen Oberem See und Huronsee"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der Niagara River fließt vom höher gelegenen Eriesee zum Ontariosee. Einen großen Teil seines Gefälles überwindet er an den Wasserfällen.",
+    "tags": [
+      "thema_gewaesser",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Niagara Parks – Tour Study Guide",
+        "url": "https://www.niagaraparks.com/wp-content/uploads/2026/05/2022-23_NP_Study-Guide_EN_FINAL_Pages.pdf",
+        "verified_claim": "Der Niagara River fließt vom höher gelegenen Eriesee zum Ontariosee. Einen großen Teil seines Gefälles überwindet er an den Wasserfällen.",
+        "checked_at": "2026-11-22T18:27:15.487Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-nok-juetland-abkuerzung",
+    "fact_key": "nok-juetland-abkuerzung",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welchen Umweg erspart der Nord-Ostsee-Kanal einem Schiff auf dem Weg von der Nordsee in die Ostsee?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Fahrt um die Krim"
+      },
+      {
+        "id": "b",
+        "text": "Die Fahrt um Jütland"
+      },
+      {
+        "id": "c",
+        "text": "Die Fahrt um die Bretagne"
+      },
+      {
+        "id": "d",
+        "text": "Die Fahrt um Istrien"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Zwischen Brunsbüttel und Kiel durchquert der Kanal Schleswig-Holstein. Die längere Route führt um Jütland durch Skagerrak und Kattegat.",
+    "tags": [
+      "thema_verkehrswege",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "schleswig-holstein.de - Nord-Ostsee-Kanal (NOK)",
+        "url": "https://www.schleswig-holstein.de/DE/landesregierung/themen/verkehr-infrastruktur/nord-ostsee-kanal",
+        "verified_claim": "Zwischen Brunsbüttel und Kiel durchquert der Kanal Schleswig-Holstein. Die längere Route führt um Jütland durch Skagerrak und Kattegat.",
+        "checked_at": "2026-11-22T18:25:50.397Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:31:46.409Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-main-donau-schiffsroute",
+    "fact_key": "main-donau-schiffsroute",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Ein Frachter aus dem Rheingebiet fährt von Bamberg nach Kelheim in Bayern. Welchen Kanal nutzt er auf dieser Strecke?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Main-Donau-Kanal"
+      },
+      {
+        "id": "b",
+        "text": "Mittellandkanal"
+      },
+      {
+        "id": "c",
+        "text": "Elbe-Seitenkanal"
+      },
+      {
+        "id": "d",
+        "text": "Dortmund-Ems-Kanal"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "In Bamberg zweigt der Main-Donau-Kanal vom Main ab. Rund 171 Kilometer weiter erreicht er bei Kelheim die Donau.",
+    "tags": [
+      "thema_verkehrswege",
+      "form_herleiten"
+    ],
+    "content_revision": 2,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Daten und Fakten – Deutscher Wasserstraßen- und Schifffahrtsverein Rhein-Main-Donau e.V.",
+        "url": "https://www.schifffahrtsverein.de/daten-und-fakten/",
+        "verified_claim": "In Bamberg zweigt der Main-Donau-Kanal vom Main ab. Rund 171 Kilometer weiter erreicht er bei Kelheim die Donau.",
+        "checked_at": "2026-11-22T18:44:50.986Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:44:59.882Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 2,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:45:19.885Z"
+      },
+      "approved_at": "2026-11-22T18:45:19.885Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-eurotunnel-meeresarm",
+    "fact_key": "eurotunnel-meeresarm",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Welchen Meeresarm unterqueren die Züge im Tunnel zwischen dem englischen Folkestone und dem französischen Coquelles?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nordkanal"
+      },
+      {
+        "id": "b",
+        "text": "St.-Georgs-Kanal"
+      },
+      {
+        "id": "c",
+        "text": "Bristolkanal"
+      },
+      {
+        "id": "d",
+        "text": "Ärmelkanal"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Zwei Eisenbahnröhren verbinden die englische und die französische Küste. Dazwischen liegt ein eigener Servicetunnel.",
+    "tags": [
+      "thema_verkehrswege",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "The Channel Tunnel - Eurotunnel",
+        "url": "https://www.getlinkgroup.com/en/our-group/eurotunnel/channel-tunnel/",
+        "verified_claim": "Zwei Eisenbahnröhren verbinden die englische und die französische Küste. Dazwischen liegt ein eigener Servicetunnel.",
+        "checked_at": "2026-11-22T18:25:55.377Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-gotthard-gebirge",
+    "fact_key": "gotthard-gebirge",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Eine Zugfahrt führt von Erstfeld durch den Gotthard-Basistunnel nach Bodio. Welches Gebirge unterquert der Zug?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Pyrenäen"
+      },
+      {
+        "id": "b",
+        "text": "Apennin"
+      },
+      {
+        "id": "c",
+        "text": "Alpen"
+      },
+      {
+        "id": "d",
+        "text": "Jura"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Strecke führt durch zwei einspurige Röhren unter dem Gotthardmassiv hindurch. Jede ist rund 57 Kilometer lang.",
+    "tags": [
+      "thema_verkehrswege",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NEAT Gotthard-Basistunnel | Gemeinde Erstfeld",
+        "url": "https://erstfeld.ch/infrastruktur/verkehr/bahn/neat-gotthard-basistunnel",
+        "verified_claim": "Die Strecke führt durch zwei einspurige Röhren unter dem Gotthardmassiv hindurch. Jede ist rund 57 Kilometer lang.",
+        "checked_at": "2026-11-22T18:25:50.663Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:31:46.410Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-oeresund-peberholm-uebergang",
+    "fact_key": "oeresund-peberholm-uebergang",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Auf der Öresundverbindung wechselt die Straße unterwegs von einer Brücke in einen Tunnel. Wo liegt dieser Übergang?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auf einem Felsvorsprung der Küste"
+      },
+      {
+        "id": "b",
+        "text": "Auf einer künstlichen Insel"
+      },
+      {
+        "id": "c",
+        "text": "Auf einer natürlichen Sandzunge"
+      },
+      {
+        "id": "d",
+        "text": "Auf einem schwimmenden Ponton"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die künstliche Insel Peberholm trägt das Tunnelportal. Für ihren Bau wurde Material aus dem Aushub der Tunnelrinne verwendet.",
+    "tags": [
+      "thema_verkehrswege",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Peberholm - Øresundsbron",
+        "url": "https://www.oresundsbron.com/en/about-oresundsbron/about-us/facts-about-oresundsbron/peberholm",
+        "verified_claim": "Die künstliche Insel Peberholm trägt das Tunnelportal. Für ihren Bau wurde Material aus dem Aushub der Tunnelrinne verwendet.",
+        "checked_at": "2026-11-22T18:25:51.662Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:31:46.410Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-panamakanal-gatun-hoehe",
+    "fact_key": "panamakanal-gatun-hoehe",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Weshalb wird ein Schiff auf der Durchfahrt durch den Panamakanal zunächst in Schleusen angehoben?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der Gatúnsee liegt höher als der Meeresspiegel."
+      },
+      {
+        "id": "b",
+        "text": "Der Pazifik liegt dauerhaft 26 Meter über dem Atlantik."
+      },
+      {
+        "id": "c",
+        "text": "Die Schiffe werden über eine natürliche Sandbank gehoben."
+      },
+      {
+        "id": "d",
+        "text": "Die Schleusen gleichen nur Ebbe und Flut aus."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Wasserstraße führt durch den rund 26 Meter hoch gelegenen Gatúnsee. Auf der anderen Seite senken Schleusen die Schiffe wieder ab.",
+    "tags": [
+      "thema_verkehrswege",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Learn about the history of the Panama Canal - Autoridad del Canal de Panamá",
+        "url": "https://pancanal.com/en/history-of-the-panama-canal/",
+        "verified_claim": "Die Wasserstraße führt durch den rund 26 Meter hoch gelegenen Gatúnsee. Auf der anderen Seite senken Schleusen die Schiffe wieder ab.",
+        "checked_at": "2026-11-22T18:25:52.756Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:31:46.410Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-suez-seeweg",
+    "fact_key": "suez-seeweg",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Ein Schiff fährt durch den Suezkanal vom Mittelmeer aus nach Süden. Welches Meer erreicht es auf dem Weg zum Indischen Ozean?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Arabisches Meer"
+      },
+      {
+        "id": "b",
+        "text": "Adriatisches Meer"
+      },
+      {
+        "id": "c",
+        "text": "Schwarzes Meer"
+      },
+      {
+        "id": "d",
+        "text": "Rotes Meer"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Suezkanal durchquert die Landenge in Ägypten auf Meereshöhe. Er verbindet das Mittelmeer mit dem Roten Meer.",
+    "tags": [
+      "thema_verkehrswege",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "SCA - About Suez Canal",
+        "url": "https://www.suezcanal.gov.eg/English/About/SuezCanal/Pages/AboutSuezCanal.aspx",
+        "verified_claim": "Der Suezkanal durchquert die Landenge in Ägypten auf Meereshöhe. Er verbindet das Mittelmeer mit dem Roten Meer.",
+        "checked_at": "2026-11-22T18:29:17.106Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-hoehenlinien-abstand",
+    "fact_key": "hoehenlinien-abstand",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Zwei Wanderwege kreuzen auf derselben Karte gleich viele Höhenlinien. Wo ist der Hang steiler?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wo die Linien weiter nach Norden reichen"
+      },
+      {
+        "id": "b",
+        "text": "Wo die Linien größere Schleifen bilden"
+      },
+      {
+        "id": "c",
+        "text": "Wo die Linien näher beieinanderliegen"
+      },
+      {
+        "id": "d",
+        "text": "Wo die Linien weiter auseinanderliegen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Benachbarte Höhenlinien stehen für denselben Höhenunterschied. Bei engerem Abstand verteilt sich dieser auf eine kürzere Strecke.",
+    "tags": [
+      "thema_orientierung",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "How to Read Contour Lines on an OS Map | OS Maps Discover",
+        "url": "https://osmaps.com/discover/guides/understanding-map-contour-lines-for-beginners/",
+        "verified_claim": "Benachbarte Höhenlinien stehen für denselben Höhenunterschied. Bei engerem Abstand verteilt sich dieser auf eine kürzere Strecke.",
+        "checked_at": "2026-11-22T18:27:15.097Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:31:46.410Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-wanderkarte-massstab-50000",
+    "fact_key": "wanderkarte-massstab-50000",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Zwei Orte liegen auf einer Karte im Maßstab 1 : 50.000 vier Zentimeter auseinander. Wie lang ist die Luftlinie?",
+    "options": [
+      {
+        "id": "a",
+        "text": "500 Meter"
+      },
+      {
+        "id": "b",
+        "text": "2 Kilometer"
+      },
+      {
+        "id": "c",
+        "text": "200 Meter"
+      },
+      {
+        "id": "d",
+        "text": "20 Kilometer"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Ein Zentimeter entspricht 50.000 Zentimetern, also 500 Metern in der Natur. Vier Zentimeter ergeben zwei Kilometer.",
+    "tags": [
+      "thema_orientierung",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "map-reading",
+        "url": "https://www.ordnancesurvey.co.uk/documents/resources/map-reading.pdf",
+        "verified_claim": "Ein Zentimeter entspricht 50.000 Zentimetern, also 500 Metern in der Natur. Vier Zentimeter ergeben zwei Kilometer.",
+        "checked_at": "2026-11-22T18:27:19.168Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:31:46.410Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kartenraster-os-ostwert",
+    "fact_key": "kartenraster-os-ostwert",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Ein Feld auf einer Karte des britischen Ordnance Survey liegt direkt rechts von Linie 27 und direkt über Linie 64. Wie lautet seine vierstellige Gitterangabe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "2764"
+      },
+      {
+        "id": "b",
+        "text": "6427"
+      },
+      {
+        "id": "c",
+        "text": "2865"
+      },
+      {
+        "id": "d",
+        "text": "6528"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Im britischen Ordnance-Survey-Gitter steht zuerst der Ostwert der linken Feldgrenze. Ihm folgt der Nordwert der unteren Feldgrenze.",
+    "tags": [
+      "thema_orientierung",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "map-reading",
+        "url": "https://www.ordnancesurvey.co.uk/documents/resources/map-reading.pdf",
+        "verified_claim": "Im britischen Ordnance-Survey-Gitter steht zuerst der Ostwert der linken Feldgrenze. Ihm folgt der Nordwert der unteren Feldgrenze.",
+        "checked_at": "2026-11-22T18:27:19.168Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-polarstern-orientierung",
+    "fact_key": "polarstern-orientierung",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Du findest auf einer Nachtwanderung in Deutschland den Polarstern. Welche Himmelsrichtung liegt ungefähr unter ihm am Horizont?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Süden"
+      },
+      {
+        "id": "b",
+        "text": "Osten"
+      },
+      {
+        "id": "c",
+        "text": "Westen"
+      },
+      {
+        "id": "d",
+        "text": "Norden"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Polarstern steht fast in der Verlängerung der Erdachse über dem Nordpol. Der Blick zu ihm zeigt daher ungefähr in Richtung geografischer Norden.",
+    "tags": [
+      "thema_orientierung",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What is the North Star and How Do You Find It? - NASA Science",
+        "url": "https://science.nasa.gov/solar-system/what-is-the-north-star-and-how-do-you-find-it/",
+        "verified_claim": "Der Polarstern steht fast in der Verlängerung der Erdachse über dem Nordpol. Der Blick zu ihm zeigt daher ungefähr in Richtung geografischer Norden.",
+        "checked_at": "2026-11-22T18:27:15.547Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-bernina-tirano-verbindung",
+    "fact_key": "bernina-tirano-verbindung",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Der Bernina Express fährt von Chur über einen Alpenpass hinab nach Tirano. Welche beiden Länder verbindet diese Strecke?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Österreich und Slowenien"
+      },
+      {
+        "id": "b",
+        "text": "Frankreich und Italien"
+      },
+      {
+        "id": "c",
+        "text": "Schweiz und Italien"
+      },
+      {
+        "id": "d",
+        "text": "Schweiz und Österreich"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Von Chur geht es über den Berninapass nach Tirano in Italien. Der Betreiber zählt das Kreisviadukt von Brusio und den Palügletscher zu den markanten Punkten der Strecke.",
+    "tags": [
+      "thema_verkehrswege",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bernina Express | Rhaetian Railway",
+        "url": "https://www.rhb.ch/en/panoramic-journeys/bernina-express/",
+        "verified_claim": "Von Chur geht es über den Berninapass nach Tirano in Italien. Der Betreiber zählt das Kreisviadukt von Brusio und den Palügletscher zu den markanten Punkten der Strecke.",
+        "checked_at": "2026-11-22T18:29:15.217Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-hallig-warft-hochwasser",
+    "fact_key": "hallig-warft-hochwasser",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Wie heißen die künstlichen Siedlungshügel, auf denen viele Gehöfte der nordfriesischen Halligen über dem flachen Umland stehen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Strandwälle"
+      },
+      {
+        "id": "b",
+        "text": "Warften"
+      },
+      {
+        "id": "c",
+        "text": "Köge"
+      },
+      {
+        "id": "d",
+        "text": "Nehrungen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Diese Hügel heißen Warften. Wenn die flacheren Teile einer Hallig überflutet werden, liegen die Häuser höher als das umliegende Land.",
+    "tags": [
+      "thema_regionalgeografie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "schleswig-holstein.de - Landschaft und Natur - Typisch Schleswig-Holstein - Die Halligen",
+        "url": "https://www.schleswig-holstein.de/DE/landesportal/land-und-leute/landschaft-natur/_documents/halligen",
+        "verified_claim": "Diese Hügel heißen Warften. Wenn die flacheren Teile einer Hallig überflutet werden, liegen die Häuser höher als das umliegende Land.",
+        "checked_at": "2026-11-22T18:25:50.922Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:32.993Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-heidelandschaft-schnucken",
+    "fact_key": "heidelandschaft-schnucken",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Warum ziehen Heidschnuckenherden regelmäßig über die Flächen der Lüneburger Heide?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie halten junge Gehölze durch Verbiss zurück."
+      },
+      {
+        "id": "b",
+        "text": "Sie bringen die für die Heide nötigen Baumsamen aus."
+      },
+      {
+        "id": "c",
+        "text": "Sie verdichten den Boden, damit sich Teiche bilden."
+      },
+      {
+        "id": "d",
+        "text": "Sie düngen den Boden gezielt für hohe Graserträge."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Schafe fressen junge Triebe. So verhindern sie, dass die offenen Heideflächen allmählich zuwachsen.",
+    "tags": [
+      "thema_kulturlandschaften",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Wo findet man die Heidschnucken",
+        "url": "https://www.lueneburger-heide.de/natur/tiere/13838/wo-findet-man-die-heidschnucken.html",
+        "verified_claim": "Die Schafe fressen junge Triebe. So verhindern sie, dass die offenen Heideflächen allmählich zuwachsen.",
+        "checked_at": "2026-11-22T18:28:28.149Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-koenigssee-bartholomae",
+    "fact_key": "koenigssee-bartholomae",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Auf welchem See fahren Ausflugsschiffe zur Wallfahrtskirche St. Bartholomä mit ihren roten Zwiebeltürmen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Chiemsee"
+      },
+      {
+        "id": "b",
+        "text": "Tegernsee"
+      },
+      {
+        "id": "c",
+        "text": "Starnberger See"
+      },
+      {
+        "id": "d",
+        "text": "Königssee"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Kirche steht auf einer Halbinsel am Königssee. Vom Wasser ist ihr markantes Dach vor der Bergkulisse gut zu erkennen.",
+    "tags": [
+      "thema_reiseziele",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Schifffahrt Königssee im Nationalpark Berchtesgaden mit Fahrplaninformation",
+        "url": "https://www.seenschifffahrt.de/de/koenigssee",
+        "verified_claim": "Die Kirche steht auf einer Halbinsel am Königssee. Vom Wasser ist ihr markantes Dach vor der Bergkulisse gut zu erkennen.",
+        "checked_at": "2026-11-22T18:25:51.937Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:32:31.033Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-harz-brocken-schmalspur",
+    "fact_key": "harz-brocken-schmalspur",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Eine Schmalspurbahn bringt Reisende von Wernigerode hinauf zu einem Gipfel im Harz. Welcher Berg ist gemeint?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Feldberg"
+      },
+      {
+        "id": "b",
+        "text": "Fichtelberg"
+      },
+      {
+        "id": "c",
+        "text": "Brocken"
+      },
+      {
+        "id": "d",
+        "text": "Wurmberg"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Bahn fährt über Drei Annen Hohne zum Brockenbahnhof. Von dort ist der Gipfel zu Fuß erreichbar.",
+    "tags": [
+      "thema_regionalgeografie",
+      "form_wiedererkennen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Die Brockenbahn - Harzer Tourismusverband e.V.",
+        "url": "https://www.harzinfo.de/naturlandschaft-harz/der-brocken-im-harz/die-brockenbahn",
+        "verified_claim": "Die Bahn fährt über Drei Annen Hohne zum Brockenbahnhof. Von dort ist der Gipfel zu Fuß erreichbar.",
+        "checked_at": "2026-11-22T18:28:28.472Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:32:31.033Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-cinque-terre-terrassenbau",
+    "fact_key": "cinque-terre-terrassenbau",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Wozu legten die Bewohner der Cinque Terre an der ligurischen Steilküste Trockenmauern und Terrassen an?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Um auf Hochweiden Viehherden einzuzäunen"
+      },
+      {
+        "id": "b",
+        "text": "Um an steilen Hängen Reben und Oliven anzubauen"
+      },
+      {
+        "id": "c",
+        "text": "Um an der Küste Meerwasser zu Salz einzudampfen"
+      },
+      {
+        "id": "d",
+        "text": "Um Reis in überfluteten Becken zu ziehen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Mauern stützen schmale Anbauflächen über dem Meer. Manche Terrassen reichen mehrere hundert Höhenmeter den Hang hinauf.",
+    "tags": [
+      "thema_kulturlandschaften",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Portovenere, Cinque Terre, and the Islands (Palmaria, Tino and Tinetto) - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/826/",
+        "verified_claim": "Die Mauern stützen schmale Anbauflächen über dem Meer. Manche Terrassen reichen mehrere hundert Höhenmeter den Hang hinauf.",
+        "checked_at": "2026-11-22T18:24:44.036Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-beemster-see-polder",
+    "fact_key": "beemster-see-polder",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Felder und schnurgerade Wege durchziehen den Beemster-Polder nördlich von Amsterdam. Welche Landschaft lag früher an dieser Stelle?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein See"
+      },
+      {
+        "id": "b",
+        "text": "Eine Flussinsel"
+      },
+      {
+        "id": "c",
+        "text": "Ein Dünenfeld"
+      },
+      {
+        "id": "d",
+        "text": "Ein Waldmoor"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der Beemstersee wurde im 17. Jahrhundert trockengelegt. Auf seinem Boden entstand planmäßig neues Ackerland.",
+    "tags": [
+      "thema_kulturlandschaften",
+      "form_zeitlich_einordnen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Droogmakerij de Beemster (Beemster Polder) - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/899/",
+        "verified_claim": "Der Beemstersee wurde im 17. Jahrhundert trockengelegt. Auf seinem Boden entstand planmäßig neues Ackerland.",
+        "checked_at": "2026-11-22T18:24:41.835Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-lofoten-stockfisch-gestelle",
+    "fact_key": "lofoten-stockfisch-gestelle",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Auf den Lofoten hängen Fische an hohen Holzgestellen im Wind. Welches regionale Erzeugnis entsteht dort?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Räucherlachs"
+      },
+      {
+        "id": "b",
+        "text": "Matjes"
+      },
+      {
+        "id": "c",
+        "text": "Brathering"
+      },
+      {
+        "id": "d",
+        "text": "Stockfisch"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Winterkabeljau, dort Skrei genannt, trocknet an der freien Luft. So lässt sich der Fang lange aufbewahren.",
+    "tags": [
+      "thema_regionalgeografie",
+      "form_herleiten",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What to eat in Lofoten? Star chef Mymint is your guide!",
+        "url": "https://www.visitnorway.com/places-to-go/northern-norway/the-lofoten-islands/taste-of/",
+        "verified_claim": "Der Winterkabeljau, dort Skrei genannt, trocknet an der freien Luft. So lässt sich der Fang lange aufbewahren.",
+        "checked_at": "2026-11-22T18:25:50.944Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-elche-bewaesserte-palmenhaine",
+    "fact_key": "elche-bewaesserte-palmenhaine",
+    "category": "geography_travel",
+    "difficulty": "hard",
+    "question": "Im spanischen Elche wird seit Jahrhunderten eine bewässerte Oasenlandschaft gepflegt. Welche Pflanzen prägen diese Haine?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eukalyptusbäume"
+      },
+      {
+        "id": "b",
+        "text": "Mandelbäume"
+      },
+      {
+        "id": "c",
+        "text": "Dattelpalmen"
+      },
+      {
+        "id": "d",
+        "text": "Korkeichen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der Palmeral von Elche verbindet Dattelpalmen mit einem ausgeklügelten Bewässerungssystem. Er bewahrt eine aus Nordafrika vertraute Form der Landwirtschaft.",
+    "tags": [
+      "thema_kulturlandschaften",
+      "form_wiedererkennen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Palmeral of Elche - UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/930/",
+        "verified_claim": "Der Palmeral von Elche verbindet Dattelpalmen mit einem ausgeklügelten Bewässerungssystem. Er bewahrt eine aus Nordafrika vertraute Form der Landwirtschaft.",
+        "checked_at": "2026-11-22T18:28:29.157Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:32:31.034Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-uros-titicaca-schilfinseln",
+    "fact_key": "uros-titicaca-schilfinseln",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Woraus bauen die Uro-Familien auf dem Titicacasee die schwimmenden Inseln, auf denen sie leben?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aus gebündeltem Reisstroh"
+      },
+      {
+        "id": "b",
+        "text": "Aus Totora-Schilf"
+      },
+      {
+        "id": "c",
+        "text": "Aus Bambusstangen"
+      },
+      {
+        "id": "d",
+        "text": "Aus Balsastämmen"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Das Totora-Schilf wächst am See. Es liefert Material für die Inseln und auch für traditionelle Boote.",
+    "tags": [
+      "thema_regionalgeografie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Uros, everything revolves around totora",
+        "url": "https://www.peru.travel/attractions/uros-islands",
+        "verified_claim": "Das Totora-Schilf wächst am See. Es liefert Material für die Inseln und auch für traditionelle Boote.",
+        "checked_at": "2026-11-22T18:25:55.115Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-miyajima-torii-gezeiten",
+    "fact_key": "miyajima-torii-gezeiten",
+    "category": "geography_travel",
+    "difficulty": "medium",
+    "question": "Auf welcher Insel vor Hiroshima steht ein großes Schreintor im Gezeitenbereich, das bei Flut über dem Wasser zu schweben scheint?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Miyajima"
+      },
+      {
+        "id": "b",
+        "text": "Okinawa"
+      },
+      {
+        "id": "c",
+        "text": "Yakushima"
+      },
+      {
+        "id": "d",
+        "text": "Hokkaidō"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das große Torii des Itsukushima-Schreins steht vor dem Ufer von Miyajima. Bei Niedrigwasser lässt es sich vom Strand aus zu Fuß erreichen.",
+    "tags": [
+      "thema_reiseziele",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Itsukushima Shinto Shrine (UNESCO) | World Heritage | Travel Japan - Japan National Tourism Organization (Official Site)",
+        "url": "https://www.japan.travel/en/world-heritage/itsukushima-shinto-shrine/",
+        "verified_claim": "Das große Torii des Itsukushima-Schreins steht vor dem Ufer von Miyajima. Bei Niedrigwasser lässt es sich vom Strand aus zu Fuß erreichen.",
+        "checked_at": "2026-11-22T18:28:29.498Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kapstadt-tafelberg-wolke",
+    "fact_key": "kapstadt-tafelberg-wolke",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Über welcher Stadt kann man beobachten, wie eine Wolkendecke als „Tischtuch“ über die Kante des Tafelbergs fließt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Durban"
+      },
+      {
+        "id": "b",
+        "text": "Johannesburg"
+      },
+      {
+        "id": "c",
+        "text": "Windhoek"
+      },
+      {
+        "id": "d",
+        "text": "Kapstadt"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Der Tafelberg erhebt sich unmittelbar hinter Kapstadt. Bei Südostwind können Wolken wie ein Tuch über seine Hänge fallen.",
+    "tags": [
+      "thema_reiseziele",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Table Mountain – Table Mountain National Park – SANParks",
+        "url": "https://www.sanparks.org/parks/table-mountain/what-to-do/attractions/table-mountain",
+        "verified_claim": "Der Tafelberg erhebt sich unmittelbar hinter Kapstadt. Bei Südostwind können Wolken wie ein Tuch über seine Hänge fallen.",
+        "checked_at": "2026-11-22T18:27:17.198Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:32:31.035Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-australien-zwoelf-apostel",
+    "fact_key": "australien-zwoelf-apostel",
+    "category": "geography_travel",
+    "difficulty": "easy",
+    "question": "Wer auf Australiens Great Ocean Road zu den „Zwölf Aposteln“ fährt, sieht welche Formationen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Basalttürme auf einem Hochplateau"
+      },
+      {
+        "id": "b",
+        "text": "Granitblöcke in einem Flussbett"
+      },
+      {
+        "id": "c",
+        "text": "Kalksteinpfeiler vor der Küste"
+      },
+      {
+        "id": "d",
+        "text": "Vulkankegel in einem Kratersee"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Felsen sind Reste des Festlands. Das Meer trennte sie von den Kalksteinklippen der Küste ab.",
+    "tags": [
+      "thema_regionalgeografie",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Fly over the Twelve Apostles",
+        "url": "https://www.parks.vic.gov.au/get-into-nature/conservation-and-science/our-amazing-diversity/virtual-exploration/fly-over-the-twelve-apostles",
+        "verified_claim": "Die Felsen sind Reste des Festlands. Das Meer trennte sie von den Kalksteinklippen der Küste ab.",
+        "checked_at": "2026-11-22T18:27:19.032Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

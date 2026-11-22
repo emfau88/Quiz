@@ -1,6 +1,6 @@
 {
-  "version": "de-7363fcba52a1",
-  "sha256": "7363fcba52a17e78536d68f0f79636897a96e6e0cda82ffadc4afa9a75b6c336",
+  "version": "de-03c46c2cd256",
+  "sha256": "03c46c2cd2565f9143b2ba531986a5e2cbb8785091a2f11de41dcc273c685b8b",
   "active": 1200,
   "facts": 1200,
   "starter": 24,
@@ -72,5 +72,6 @@
   "reference_complete": true,
   "release_distribution_complete": true,
   "corrections": 0,
+  "archived": 152,
   "human_observations": 0
 }

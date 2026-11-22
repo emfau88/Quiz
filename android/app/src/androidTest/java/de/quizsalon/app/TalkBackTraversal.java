@@ -53,7 +53,7 @@ final class TalkBackTraversal {
             JSONObject ledger=state.getJSONObject("ledger");
             require(ledger.length()==1 && ledger.getJSONObject("daily-complete:"+completed.getString("id")).getInt("xp")==result.getInt("xp"),
                     "Der Buchungsnachweis stimmt nicht mit dem Ergebnis überein.");
-            find("Dein Rundenergebnis");
+            find("Dein Rundenergebnis", true);
             report.append("\nPASS Gesamte Tagesrunde mit TalkBack. 10 gültige Antworten, ").append(result.getInt("correct"))
                     .append(" richtige Antworten, ").append(result.getInt("xp")).append(" XP und genau eine Abschlussbuchung.");
             gesture("result",540,600);
@@ -71,12 +71,17 @@ final class TalkBackTraversal {
         JSONArray order=item.getJSONArray("order");
         JSONArray options=item.getJSONObject("q").getJSONArray("options");
         String firstText=option(options,order.getString(0));
-        AccessibilityNodeInfo firstButton=find(firstText);
+        // WebView exposes off-screen answers before large text has scrolled into view.
+        AccessibilityNodeInfo firstButton=find(firstText, false);
         firstButton.performAction(AccessibilityNodeInfo.AccessibilityAction.ACTION_SHOW_ON_SCREEN.getId());
         SystemClock.sleep(500);
         Rect bounds=new Rect();
-        find(firstText).getBoundsInScreen(bounds);
-        int x=bounds.centerX(), y=bounds.centerY();
+        firstButton=find(firstText, false);
+        firstButton.getBoundsInScreen(bounds);
+        android.util.DisplayMetrics display=runner.getTargetContext().getResources().getDisplayMetrics();
+        boolean onScreen=firstButton.isVisibleToUser() && bounds.intersect(0,0,display.widthPixels,display.heightPixels);
+        int x=onScreen ? bounds.centerX() : display.widthPixels/2;
+        int y=onScreen ? bounds.centerY() : display.heightPixels/3;
         gesture("explore",x,y);
         SystemClock.sleep(1100);
         String label=focus();
@@ -99,7 +104,7 @@ final class TalkBackTraversal {
         }
         require(saved!=null && order.getString(next).equals(saved.optString("optionId")),"Abweichende Antwort nach Doppeltipp.");
         String nextLabel=pos==9 ? "Ergebnis ansehen" : "Nächste Frage";
-        find(nextLabel);
+        find(nextLabel, false);
         String action=focus();
         for(int i=0;i<28 && !action.contains(nextLabel);i++) action=nextFocus(x,y);
         require(action.contains(nextLabel),"Weiteraktion im TalkBack-Fokus fehlt: "+action);
@@ -144,25 +149,25 @@ final class TalkBackTraversal {
         throw new IllegalArgumentException("Antwort-ID fehlt");
     }
 
-    private AccessibilityNodeInfo find(String text) {
+    private AccessibilityNodeInfo find(String text, boolean visibleOnly) {
         StringBuilder observed=new StringBuilder();
         for (int i=0; i<50; i++) {
             AccessibilityNodeInfo root=ui.getRootInActiveWindow();
             observed.setLength(0);
-            AccessibilityNodeInfo node=search(root,text,observed,0);
+            AccessibilityNodeInfo node=search(root,text,visibleOnly,observed,0);
             if(node!=null) return node;
             SystemClock.sleep(350);
         }
         throw new AssertionError(report+"\nAuf dem aktiven Systembildschirm fehlt: " + text + ". Baum: " + observed);
     }
 
-    private AccessibilityNodeInfo search(AccessibilityNodeInfo node,String text,StringBuilder observed,int depth) {
+    private AccessibilityNodeInfo search(AccessibilityNodeInfo node,String text,boolean visibleOnly,StringBuilder observed,int depth) {
         if(node==null || depth>45) return null;
         String label=String.valueOf(node.getText())+" "+node.getContentDescription();
         if(observed.length()<1800) observed.append(node.getClassName()).append('(').append(label).append(") ");
-        if(node.isVisibleToUser() && label.contains(text)) return node;
+        if((!visibleOnly || node.isVisibleToUser()) && label.contains(text)) return node;
         for(int i=0; i<node.getChildCount(); i++) {
-            AccessibilityNodeInfo found=search(node.getChild(i),text,observed,depth+1);
+            AccessibilityNodeInfo found=search(node.getChild(i),text,visibleOnly,observed,depth+1);
             if(found!=null) return found;
         }
         return null;

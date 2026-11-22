@@ -1,5 +1,24 @@
 # Quizsalon · Prüfbericht
 
+## Deutsche Ausgabe 0.2.0 vom 22. November 2026
+
+HTML-App, lokale APK und Play-Vorschau enthalten den Katalog `de-03c46c2cd256`. Ein unabhängiger Neubau aus den Redaktionsdaten ergibt denselben Katalog, dasselbe Manifest und dieselben Spielregeln. Die Prüfungen verwenden isolierte Browserprofile und einen eigenen Android-Emulator. [Bestandsnachweis](release/qa/fragenpool/inhaltsabgleich.json) · [Android-Artefakte](release/android/artifacts.json)
+
+| Prüfgegenstand | Beobachtetes Ergebnis |
+| --- | --- |
+| Rundenauswahl | 31.000 automatisch gezogene Auswahlen, davon 19.000 mit der neuen Regel. Im frischen Bestand zeigten alle 6.000 Fünferauswahlen fünf Unterthemen, die Zehner-Themenrunden mindestens neun. Alle 1.000 Tagesauswahlen enthielten sechs Kategorien. Jede Auswertung der neuen Regel traf die vereinbarte Schwierigkeitsmischung. [Maschineller Vorher-nachher-Vergleich](release/qa/fragenpool/auswahlvergleich.json) |
+| Konzentration auf Serien | Je 1.000 Fünferauswahlen enthielten früher 506-mal mindestens drei Karten der beiden Unterhaltungsreihen und 323-mal mindestens drei der drei Reisereihen. Mit neuem Bestand und alter Regel waren es 104 und 69. Mit neuer Auswahlregel sind es 0 und 26. Zählt man weitere Fragen zu inhaltlich nahen Themen mit, sinken die Werte gegenüber dem Ausgangsstand von 656 auf 0 und von 392 auf 48. [Messmethode und Daten](tools/poolvergleich.mjs) |
+| HTML-Datei und gespeicherter Stand | Die bisherige Datei wurde am selben Dateipfad im selben Offline-Profil ersetzt. Antwort, Fortschritt, Position, Antwortreihenfolge und Installationskennung stimmten überein. Nach weiteren neun Antworten und erneutem Öffnen gab es genau eine XP-Buchung. Externe Anfragen und JavaScript-Fehler jeweils null. [Dateiupdate](release/qa/fragenpool/html-update.json) |
+| Transaktionen und Tageswechsel | Abgebrochene IndexedDB-Transaktionen hinterließen weder eine einzelne Antwort noch einen einzelnen Lernschritt. Konkurrierende Fenster, Prozessneustarts, Mitternacht, Sommerzeit, Zeitzonenwechsel, Wiedergewusst und echte Korrekturlogik bestanden die jeweiligen kontrollierten Prüfungen. 15 Regeltests und acht Katalogtestgruppen bestanden. [Browserlauf](release/screenshots/fragenpool-0.2.0/pruefung.json) · [Kalender](release/qa/kalender-browser.json) · [Ausführungsprotokolle der Regel- und Inhaltsprüfungen](release/qa/fragenpool/regelpruefung.json) |
+| Schrift und Bedienung | 3.600 gerenderte Fragenlayouts bei 360 × 640 CSS-Pixeln und 100/150/200 Prozent Schrift. Kein Textüberlauf, Antwortflächen mindestens 64 CSS-Pixel hoch. Acht Ansichten ohne automatischen WCAG-A/AA-Befund. [Korpuslayout](release/qa/korpus-layout.json) · [Barrierefreiheit](release/qa/barrierefreiheit-browser.json) |
+| Installierte APK | Echtes Update über die 1.200er-Vorversion auf Android 16. Hashes der offenen Runde, des Fortschritts, der Buchungen und der Installationskennung waren gleich. Die lokale Ausgabe schloss eine anspruchsvolle Themenrunde im Flugmodus ab. [Update](release/qa/fragenpool/android-upgrade/android-ui.json) · [Lokale APK](release/qa/fragenpool/android-lokal/android-ui.json) |
+
+Die Beispielbilder zeigen eine neue Frage zu Rudi Carrell und ihre Auflösung direkt in der Offline-HTML. [Frage](release/screenshots/fragenpool-0.2.0/10-Neue-Frage.png) · [Auflösung](release/screenshots/fragenpool-0.2.0/11-Neue-Erklaerung.png)
+
+Auf Android 16 wurde zusätzlich eine vollständige Tagesrunde mit dem installierten Google TalkBack bedient. Das Display war 360 dp breit, die Systemschrift stand auf 150 Prozent und der Flugmodus war aktiv. Bei allen zehn Fragen erreichten echte Wischgesten die beschrifteten Antworten. Der Doppeltipp speicherte die fokussierte Antwort. Anschließend ließ sich „Nächste Frage“ beziehungsweise „Ergebnis ansehen“ über TalkBack auslösen. Im Ergebnis standen zehn gültige Antworten und genau eine Abschlussbuchung. [Geräteeinstellungen](release/qa/fragenpool/android-talkback/geraet.txt) · [Gestenprotokoll](release/qa/fragenpool/android-talkback/talkback.txt) · [Ergebnisbild](release/qa/fragenpool/android-talkback/03-rundenergebnis.png)
+
+## Historische Abnahme der Ausgabe 0.1.0
+
 Die lokale Testreihe verwendet automatisierte Spielhandlungen und kontrollierte Grenzfälle. Es haben bisher keine menschlichen Testpersonen Ergebnisse beigetragen.
 
 | Bereich | Ausführung und Ergebnis | Nachweis |

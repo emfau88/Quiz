@@ -1,0 +1,1261 @@
+[
+  {
+    "id": "qs-b4-schach-rochade",
+    "fact_key": "bulk4.schach.rochade",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Bei der Rochade im Schach werden in einem einzigen Zug zwei eigene Figuren versetzt. Welche beiden sind es?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dame und Springer"
+      },
+      {
+        "id": "b",
+        "text": "König und Turm"
+      },
+      {
+        "id": "c",
+        "text": "König und Läufer"
+      },
+      {
+        "id": "d",
+        "text": "Dame und Turm"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der König zieht zwei Felder auf den beteiligten Turm zu. Dieser kommt auf das Feld, das der König auf seinem Weg überquert hat.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutscher Schachbund – Die FIDE-Schachregeln, deutsche Übersetzung",
+        "url": "https://www.schachbund.de/downloads.html?cid=112427&file=files%2Fdsb%2Freferate%2Fsrk%2Ffide-regeln%2FFIDE-Regeln_2023_ger_2025-06-29.pdf",
+        "locator": "FIDE-Schachregeln, deutsche Fassung des DSB, Artikel 3.8.2",
+        "verified_claim": "Artikel 3.8.2 definiert die Rochade als einen Zug des Königs mit einem Turm und beschreibt die beiden neuen Positionen.",
+        "checked_at": "2026-11-22T18:29:59Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Artikel 3.8.2 definiert die Rochade als einen Zug des Königs mit einem Turm und beschreibt die beiden neuen Positionen."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Der Begriff „ein Zug“ grenzt die Rochade von zwei einzelnen Zügen ab. Die vier Möglichkeiten sind jeweils Paare eigener Figuren."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-schach-en-passant",
+    "fact_key": "bulk4.schach.en.passant",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Ein gegnerischer Bauer landet nach einem Doppelschritt neben dem eigenen Bauern. Bis wann darf man ihn „en passant“ schlagen, sofern der Zug erlaubt ist?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Nur für die unmittelbare Antwort auf den Doppelschritt"
+      },
+      {
+        "id": "b",
+        "text": "Bis der betreffende Bauer noch einmal zieht"
+      },
+      {
+        "id": "c",
+        "text": "Bis einer der beiden Könige gezogen hat"
+      },
+      {
+        "id": "d",
+        "text": "Bis der eigene Bauer die nächste Reihe erreicht"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Der eigene Bauer zieht auf das übersprungene Feld und nimmt den gegnerischen Bauern vom Brett. Wer zunächst anders antwortet, verliert diese Möglichkeit.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutscher Schachbund – Die FIDE-Schachregeln, deutsche Übersetzung",
+        "url": "https://www.schachbund.de/downloads.html?cid=112427&file=files%2Fdsb%2Freferate%2Fsrk%2Ffide-regeln%2FFIDE-Regeln_2023_ger_2025-06-29.pdf",
+        "locator": "FIDE-Schachregeln, deutsche Fassung des DSB, Artikel 3.7.3.1 und 3.7.3.2",
+        "verified_claim": "Die FIDE-Regeln beschreiben das Schlagen eines benachbarten Bauern nach seinem Doppelschritt und begrenzen es auf den unmittelbar folgenden Zug.",
+        "checked_at": "2026-11-22T18:29:59Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die FIDE-Regeln beschreiben das Schlagen eines benachbarten Bauern nach seinem Doppelschritt und begrenzen es auf den unmittelbar folgenden Zug."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Der Zug muss grundsätzlich legal sein. Damit sind Fesselung und Schachgebote berücksichtigt. Die Frage prüft ausschließlich das Zeitfenster."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-skat-grand",
+    "fact_key": "bulk4.skat.grand",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Bei einem Grand im Skat ist keine ganze Farbe Trumpf. Welche vier Karten bleiben dennoch Trümpfe?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die vier Asse"
+      },
+      {
+        "id": "b",
+        "text": "Die vier Zehnen"
+      },
+      {
+        "id": "c",
+        "text": "Die vier Könige"
+      },
+      {
+        "id": "d",
+        "text": "Die vier Buben"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Beim Grand sind ausschließlich die Buben Trumpf. Bei einem Farbspiel dagegen kommen zu den Buben die weiteren Karten der angesagten Trumpffarbe hinzu.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutscher Skatverband – Skat, gewusst wie",
+        "url": "https://dskv.de/app/uploads/2021/03/Skat_gewusst-wie.indd_.pdf",
+        "locator": "Deutscher Skatverband, „Skat – gewusst wie“, PDF S. 4, „Die drei Spielarten“",
+        "verified_claim": "Der Skatverband unterscheidet den Grand mit vier Buben als Trümpfen von Farbspielen mit zusätzlichen Trumpfkarten.",
+        "checked_at": "2026-11-22T18:26:27Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der Skatverband unterscheidet den Grand mit vier Buben als Trümpfen von Farbspielen mit zusätzlichen Trumpfkarten."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Als Ablenker dienen drei andere vollständige Gruppen von vier Karten. Grand und Farbspiel werden im Lösungstext auseinandergehalten."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-skat-stich-augen",
+    "fact_key": "bulk4.skat.stich.augen",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "In einem Skatstich liegen ein Ass, eine Zehn und ein König. Wie viele Augen bringt dieser Stich?",
+    "options": [
+      {
+        "id": "a",
+        "text": "24 Augen"
+      },
+      {
+        "id": "b",
+        "text": "26 Augen"
+      },
+      {
+        "id": "c",
+        "text": "25 Augen"
+      },
+      {
+        "id": "d",
+        "text": "21 Augen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Das Ass zählt elf, die Zehn zehn und der König vier Augen. Zusammen macht das 25. Eine Dame wäre mit drei Augen einen Zähler weniger wert als der König.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutscher Skatverband – Skat, gewusst wie",
+        "url": "https://dskv.de/app/uploads/2021/03/Skat_gewusst-wie.indd_.pdf",
+        "locator": "Deutscher Skatverband, „Skat – gewusst wie“, PDF S. 3, Liste der Kartenwerte",
+        "verified_claim": "Die Kartenwertliste weist Ass 11, Zehn 10, König 4 und Dame 3 zu; daraus ergeben sich für den genannten Stich 25 Augen.",
+        "checked_at": "2026-11-22T18:26:27Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Kartenwertliste weist Ass 11, Zehn 10, König 4 und Dame 3 zu; daraus ergeben sich für den genannten Stich 25 Augen."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Ass, Zehn und König ergeben rechnerisch 11 + 10 + 4. Die Aufgabe erfragt den Wert dieses Stichs und nicht den Grundwert des Spiels."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-kniffel-full-house",
+    "fact_key": "bulk4.kniffel.full.house",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Welcher dieser Würfe mit fünf Würfeln lässt sich beim klassischen Kniffel als Full House eintragen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zwei Vieren, eine Zwei, eine Drei und eine Fünf"
+      },
+      {
+        "id": "b",
+        "text": "Zwei Zweien und drei Fünfen"
+      },
+      {
+        "id": "c",
+        "text": "Zwei Zweien, zwei Fünfen und eine Sechs"
+      },
+      {
+        "id": "d",
+        "text": "Drei Zweien, eine Vier und eine Fünf"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Ein Full House besteht aus drei gleichen Würfeln und einem Paar mit anderer Augenzahl. In der entsprechenden Zeile des klassischen Kniffelblocks bringt das 25 Punkte.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Schmidt Spiele – Kniffel, Original-Spielanleitung",
+        "url": "https://www.schmidtspiele.de/files/Produkte/4/49030%20-%20Kniffel/49030_Kniffel_DE.pdf",
+        "locator": "Schmidt Spiele, Kniffel-Spielanleitung, PDF S. 2–3, Zeile „Full-House“",
+        "verified_claim": "Die Spielanleitung verlangt drei gleiche und zwei andere gleiche Würfel und vergibt für die entsprechende Zeile 25 Punkte.",
+        "checked_at": "2026-11-22T18:26:30Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Spielanleitung verlangt drei gleiche und zwei andere gleiche Würfel und vergibt für die entsprechende Zeile 25 Punkte."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Alle Optionen beschreiben fünf Würfel. Nur bei einer liegen ein Dreier und ein davon verschiedenes Paar vor. Sonderwertungen für fünf Gleiche spielen hier keine Rolle."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-catan-stadt-ertrag",
+    "fact_key": "bulk4.catan.stadt.ertrag",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Bei Catan fällt die Zahl des Getreidefelds neben der eigenen Stadt. Der Räuber steht anderswo, der Vorrat reicht. Wie viel Getreide gibt es für die Stadt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zwei Getreidekarten"
+      },
+      {
+        "id": "b",
+        "text": "Eine Getreidekarte"
+      },
+      {
+        "id": "c",
+        "text": "Drei Getreidekarten"
+      },
+      {
+        "id": "d",
+        "text": "Vier Getreidekarten"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Stadt bringt für ein passendes Nachbarfeld zwei Rohstoffkarten. Eine Siedlung am selben Feld würde bei diesem Wurf eine Karte einbringen.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "CATAN – Das Spiel, Basis-Spielregel",
+        "url": "https://www.catan.com/sites/default/files/2021-06/CATAN_DasSpiel_Spielregel.pdf",
+        "locator": "CATAN, „Das Spiel“, Basis-Spielregel, PDF S. 1 „Rohstofferträge“ und S. 3 „Stadt“",
+        "verified_claim": "Die Grundregel nennt eine Rohstoffkarte für die angrenzende Siedlung und zwei für die Stadt und schließt vom Räuber besetzte Felder aus.",
+        "checked_at": "2026-11-22T18:26:32Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Grundregel nennt eine Rohstoffkarte für die angrenzende Siedlung und zwei für die Stadt und schließt vom Räuber besetzte Felder aus."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Räuber und knapper Vorrat sind als Ausnahmen ausgeschlossen. Abgefragt ist der Ertrag einer einzelnen Stadt an genau diesem Feld."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-labyrinth-gaengekarte",
+    "fact_key": "bulk4.labyrinth.gaengekarte",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Wie entstehen im klassischen Brettspiel „Das verrückte Labyrinth“ vor dem Ziehen der Figur neue Wege?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Man dreht eine ausliegende Gängekarte um 90 Grad."
+      },
+      {
+        "id": "b",
+        "text": "Man vertauscht zwei beliebige Gängekarten."
+      },
+      {
+        "id": "c",
+        "text": "Man legt die freie Gängekarte auf ein vorhandenes Feld."
+      },
+      {
+        "id": "d",
+        "text": "Man schiebt die freie Gängekarte in eine Reihe."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die eingeschobene Karte verschiebt eine Reihe. Am anderen Ende kommt eine Karte heraus, die für den nächsten Zug frei bleibt. Erst danach bewegt sich die Figur.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Ravensburger – Das verrückte Labyrinth, Spielanleitung",
+        "url": "https://www.ravensburger.de/spieleanleitungen/ecm/Spielanleitungen/26955%20Anl%202154072.pdf",
+        "locator": "Ravensburger, „Das verrückte Labyrinth“, deutsche Spielanleitung, „Labyrinth verschieben“",
+        "verified_claim": "Die Verlagsspielregel beschreibt das Einschieben der freien Karte, das Herausschieben einer anderen und die anschließende Bewegung der Figur.",
+        "checked_at": "2026-11-22T18:31:09Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Verlagsspielregel beschreibt das Einschieben der freien Karte, das Herausschieben einer anderen und die anschließende Bewegung der Figur."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Frage bezeichnet das klassische Spiel. Alle vier Alternativen verändern die Lage von Gängekarten. Nur das Einschieben der freien Karte in eine Reihe entspricht dem Zugablauf."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-maedn-geschlagen",
+    "fact_key": "bulk4.maedn.geschlagen",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Bei „Mensch ärgere Dich nicht“ landet eine fremde Figur genau auf der eigenen. Wohin kommt die so geschlagene Figur nach der Grundregel?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auf das Startfeld der gegnerischen Farbe"
+      },
+      {
+        "id": "b",
+        "text": "Auf das erste freie Feld hinter der schlagenden Figur"
+      },
+      {
+        "id": "c",
+        "text": "Auf ein Wartefeld der eigenen Farbe"
+      },
+      {
+        "id": "d",
+        "text": "Auf das zuletzt passierte Eckfeld"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die geschlagene Figur kommt zurück auf einen eigenen Warteplatz. Diese Plätze heißen in der Spielanleitung B-Felder. Von dort aus kann sie später erneut ins Spiel kommen.",
+    "tags": [
+      "thema_gesellschaftsspiele",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Schmidt Spiele – Mensch ärgere Dich nicht, Spielanleitung",
+        "url": "https://www.schmidtspiele.de/files/Produkte/5/51204%20-%20Mensch%20%C3%84rgere%20Dich%20nicht%C2%AE/51204_Maedn_DE.pdf",
+        "locator": "Schmidt Spiele, Original-Spielanleitung, PDF S. 1–2, Grundregeln zu A- und B-Feldern und zum Schlagen",
+        "verified_claim": "Die Anleitung bezeichnet die farbigen B-Felder als Warteplätze und legt fest, dass geschlagene Figuren auf die eigenen B-Felder zurückkehren.",
+        "checked_at": "2026-11-22T18:27:15Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Anleitung bezeichnet die farbigen B-Felder als Warteplätze und legt fest, dass geschlagene Figuren auf die eigenen B-Felder zurückkehren."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Fremde Figur und Landung auf exakt demselben Feld sind vorgegeben. A-, B- und Zielfelder sind dadurch unterscheidbar."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-redensart-holzweg",
+    "fact_key": "bulk4.redensart.holzweg",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "„Mit der Vermutung bist du auf dem Holzweg“, sagt eine Freundin. Was meint sie damit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Vermutung braucht nur ein Beispiel."
+      },
+      {
+        "id": "b",
+        "text": "Die Vermutung führt in die falsche Richtung."
+      },
+      {
+        "id": "c",
+        "text": "Die Vermutung kommt zur rechten Zeit."
+      },
+      {
+        "id": "d",
+        "text": "Die Vermutung überrascht sie angenehm."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Wer auf dem Holzweg ist, irrt sich. Das Bild passt zu einem Weg für den Holztransport, der mitten im Wald enden kann.",
+    "tags": [
+      "thema_redensarten",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Duden – Holzweg",
+        "url": "https://www.duden.de/rechtschreibung/Holzweg",
+        "locator": "Duden, Eintrag „Holzweg“, Wendung „auf dem Holzweg sein“",
+        "verified_claim": "Der Duden erklärt die Wendung als Irrtum und verknüpft das Bild mit einem Weg, der vielfach im Wald endet.",
+        "checked_at": "2026-11-22T18:26:25Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der Duden erklärt die Wendung als Irrtum und verknüpft das Bild mit einem Weg, der vielfach im Wald endet."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Frage bittet um die übertragene Bedeutung innerhalb eines Gesprächs. Die Erklärung beschränkt sich auf das belegte Bild eines im Wald endenden Weges."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-redensart-fettnaepfchen",
+    "fact_key": "bulk4.redensart.fettnaepfchen",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "„Da bin ich ins Fettnäpfchen getreten“, sagt jemand nach einem Abendessen. Was ist vermutlich passiert?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine unbedachte Bemerkung hat jemanden gekränkt."
+      },
+      {
+        "id": "b",
+        "text": "Eine schwierige Entscheidung wurde immer wieder vertagt."
+      },
+      {
+        "id": "c",
+        "text": "Eine vertrauliche Abmachung wurde absichtlich gebrochen."
+      },
+      {
+        "id": "d",
+        "text": "Ein Streit hat eine alte Forderung wieder aufleben lassen."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Redensart beschreibt einen gesellschaftlichen Fehltritt. Wer etwa aus Versehen ein empfindliches Thema anspricht, kann ins Fettnäpfchen treten.",
+    "tags": [
+      "thema_redensarten",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Duden – Fettnäpfchen",
+        "url": "https://www.duden.de/rechtschreibung/Fettnaepfchen",
+        "locator": "Duden, Eintrag „Fettnäpfchen“, Wendung „ins Fettnäpfchen treten“",
+        "verified_claim": "Der Duden erklärt die Wendung als Fauxpas, etwa durch eine unbedachte Äußerung, die Unwillen auslöst.",
+        "checked_at": "2026-11-22T18:26:27Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der Duden erklärt die Wendung als Fauxpas, etwa durch eine unbedachte Äußerung, die Unwillen auslöst."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Alternativen schildern unterschiedliche unangenehme Situationen. Nur der unbeabsichtigte gesellschaftliche Fehltritt trifft die Wendung."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-redensart-lange-bank",
+    "fact_key": "bulk4.redensart.lange.bank",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Der Verein muss das undichte Dach besprechen. Was tut der Vorstand, wenn er die Entscheidung „auf die lange Bank schiebt“?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er überträgt sie dem Kassenwart."
+      },
+      {
+        "id": "b",
+        "text": "Er macht sie zur öffentlichen Sache."
+      },
+      {
+        "id": "c",
+        "text": "Er nimmt sie einstimmig an."
+      },
+      {
+        "id": "d",
+        "text": "Er vertagt sie immer wieder."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Entscheidung bleibt liegen. Mit der langen Bank beschreibt man im Deutschen, dass jemand eine oftmals unangenehme Aufgabe hinauszögert.",
+    "tags": [
+      "thema_redensarten",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Duden – Bank (Sitzgelegenheit)",
+        "url": "https://www.duden.de/rechtschreibung/Bank_Sitzgelegenheit",
+        "locator": "Duden, Eintrag „Bank“ (Sitzgelegenheit), Wendung „etwas auf die lange Bank schieben“",
+        "verified_claim": "Der Duden erläutert diese Wendung als Aufschieben oder Hinauszögern einer unangenehmen Sache.",
+        "checked_at": "2026-11-22T18:27:13Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der Duden erläutert diese Wendung als Aufschieben oder Hinauszögern einer unangenehmen Sache."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Antwortmöglichkeiten beschreiben konkrete Vereinsentscheidungen. Die übertragene Bedeutung ist die Verzögerung, unabhängig vom Thema Dach."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-redensart-nagel-kopf",
+    "fact_key": "bulk4.redensart.nagel.kopf",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Nach der Vereinssitzung sagt eine Nachbarin, die Frage zum Mitgliedsbeitrag habe „den Nagel auf den Kopf getroffen“. Was lobt sie?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Frage brachte die Mehrheit zum Lachen."
+      },
+      {
+        "id": "b",
+        "text": "Die Frage hielt sich genau an die Tagesordnung."
+      },
+      {
+        "id": "c",
+        "text": "Die Frage erfasste den entscheidenden Punkt."
+      },
+      {
+        "id": "d",
+        "text": "Die Frage beendete die Sitzung rechtzeitig."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Mit der Wendung lobt man eine treffende Beobachtung oder Bemerkung. Hier hat die angesprochene Person genau das zur Sprache gebracht, worauf es ankam.",
+    "tags": [
+      "thema_redensarten",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Duden – Nagel",
+        "url": "https://www.duden.de/rechtschreibung/Nagel",
+        "locator": "Duden, Eintrag „Nagel“, Wendung „den Nagel auf den Kopf treffen“",
+        "verified_claim": "Der Duden nennt das genaue Erfassen des Kernpunkts als Bedeutung der Wendung.",
+        "checked_at": "2026-11-22T18:27:17Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der Duden nennt das genaue Erfassen des Kernpunkts als Bedeutung der Wendung."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Vier verschiedene Bewertungen derselben Wortmeldung stehen zur Wahl. Die Redensart lobt die inhaltliche Treffsicherheit."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-biike-nordfriesland",
+    "fact_key": "bulk4.biike.nordfriesland",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Was ist in vielen Orten Nordfrieslands traditionell am Abend des 21. Februar zu sehen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Leuchtende Kränze auf dem Wasser"
+      },
+      {
+        "id": "b",
+        "text": "Große Feuer im Freien"
+      },
+      {
+        "id": "c",
+        "text": "Beleuchtete Boote im Hafenbecken"
+      },
+      {
+        "id": "d",
+        "text": "Bunte Drachen über dem Deich"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Der Brauch heißt Biikebrennen. Auf Inseln, Halligen und dem Festland kommen die Menschen am Feuer zusammen. Oft gehören Reden auf Friesisch und ein anschließendes Grünkohlessen dazu.",
+    "tags": [
+      "thema_braeuche",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsche UNESCO-Kommission – Biikebrennen",
+        "url": "https://www.unesco.de/staette/biikebrennen/",
+        "locator": "Deutsche UNESCO-Kommission, Registereintrag „Biikebrennen“, Beschreibung und zentraler Termin",
+        "verified_claim": "Die Kommission dokumentiert Feuer am 21. Februar in Nordfriesland und nennt friesische Reden sowie das gemeinsame Grünkohlessen.",
+        "checked_at": "2026-11-22T18:26:29Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Kommission dokumentiert Feuer am 21. Februar in Nordfriesland und nennt friesische Reden sowie das gemeinsame Grünkohlessen."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Das Wort Biikebrennen würde die Lösung verraten und erscheint erst in der Erklärung. Datum und Region bestimmen den beschriebenen Brauch."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-martensmann-wein",
+    "fact_key": "bulk4.martensmann.wein",
+    "category": "language_culture",
+    "difficulty": "hard",
+    "question": "Wer dem Martensmann auf seiner traditionellen Fahrt von Lübeck nach Schwerin begegnet, sieht ein Fass auf der Kutsche. Was enthält es?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Wein"
+      },
+      {
+        "id": "b",
+        "text": "Apfelmost"
+      },
+      {
+        "id": "c",
+        "text": "Bier"
+      },
+      {
+        "id": "d",
+        "text": "Branntwein"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Weinlieferung ist seit 1520 urkundlich belegt. Nach der deutschen Wiedervereinigung belebten Einwohnerinnen und Einwohner den unterbrochenen Brauch wieder.",
+    "tags": [
+      "thema_braeuche",
+      "form_wiedererkennen",
+      "damals_und_heute"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsche UNESCO-Kommission – Brauch des Martensmanns",
+        "url": "https://www.unesco.de/staette/brauch-des-martensmanns/",
+        "locator": "Deutsche UNESCO-Kommission, „Brauch des Martensmanns“, Beschreibung und urkundliche Überlieferung",
+        "verified_claim": "Die Kommission dokumentiert die Weinfahrt zwischen Lübeck und Schwerin, Urkunden seit 1520 und die Wiederbelebung nach der Wiedervereinigung.",
+        "checked_at": "2026-11-22T18:26:30Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Kommission dokumentiert die Weinfahrt zwischen Lübeck und Schwerin, Urkunden seit 1520 und die Wiederbelebung nach der Wiedervereinigung."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die vier Antworten sind Getränke, die in Fässer passen. Die Erklärung unterscheidet die urkundliche Überlieferung von der modernen Wiederbelebung."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-lausitz-osterreiten",
+    "fact_key": "bulk4.lausitz.osterreiten",
+    "category": "language_culture",
+    "difficulty": "medium",
+    "question": "Welcher Osterbrauch ist besonders mit den katholischen Sorben der Oberlausitz verbunden?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Wettlauf um bemalte Eier"
+      },
+      {
+        "id": "b",
+        "text": "Ein Umzug mit geschmückten Fischerbooten"
+      },
+      {
+        "id": "c",
+        "text": "Das Rollen brennender Holzräder"
+      },
+      {
+        "id": "d",
+        "text": "Festliche Reiterprozessionen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Festlich gekleidete Reiter überbringen Nachbargemeinden die Osterbotschaft von der Auferstehung Christi. Die Prozessionen gehören zum Brauchtum katholischer sorbischer Gemeinden in der Oberlausitz.",
+    "tags": [
+      "thema_braeuche",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutsche UNESCO-Kommission – Bräuche und Feste der Lausitzer Sorben im Jahreslauf",
+        "url": "https://www.unesco.de/staette/gesellschaftliche-braeuche-und-feste-der-lausitzer-sorben-im-jahreslauf/",
+        "locator": "Deutsche UNESCO-Kommission, „Gesellschaftliche Bräuche und Feste der Lausitzer Sorben im Jahreslauf“, Abschnitt zu regionalen Unterschieden",
+        "verified_claim": "Der Registereintrag nennt das Osterreiten der katholischen Sorben in der Oberlausitz und stellt ihm unter anderem die Fastnacht in der Niederlausitz gegenüber.",
+        "checked_at": "2026-11-22T18:26:31Z"
+      },
+      {
+        "id": "s2",
+        "title": "Oberlausitz, Regionaltourismus – Das Osterreiten",
+        "url": "https://www.oberlausitz.de/die-oberlausitz/sitten-und-braeuche/das-osterreiten/",
+        "locator": "Beschreibung der Prozessionen zwischen den Gemeinden",
+        "verified_claim": "Festlich gekleidete Reiter überbringen anderen Gemeinden die christliche Osterbotschaft.",
+        "checked_at": "2026-11-22T18:37:35Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der Registereintrag nennt das Osterreiten der katholischen Sorben in der Oberlausitz und stellt ihm unter anderem die Fastnacht in der Niederlausitz gegenüber."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Region und Konfession sind eingegrenzt. Der zweite Quellenbeleg erklärt die religiöse Botschaft der Prozession und den Besuch der Nachbargemeinden."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-schweden-mittsommer",
+    "fact_key": "bulk4.schweden.mittsommer",
+    "category": "language_culture",
+    "difficulty": "easy",
+    "question": "Worum tanzen viele Menschen beim traditionellen schwedischen Mittsommerfest?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Um einen auf dem Dorfplatz ausgelegten Blütenkranz"
+      },
+      {
+        "id": "b",
+        "text": "Um einen aus Stroh geflochtenen Ziegenbock"
+      },
+      {
+        "id": "c",
+        "text": "Um eine mit Blumen geschmückte Stange"
+      },
+      {
+        "id": "d",
+        "text": "Um einen aus jungen Birken geformten Torbogen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die geschmückte Mittsommerstange wird für das Fest aufgerichtet. Zu den bekannten Tänzen gehört „Små grodorna“, bei dem die Tanzenden kleine Frösche nachahmen.",
+    "tags": [
+      "thema_braeuche",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Visit Sweden – Celebrate Midsummer in Sweden",
+        "url": "https://visitsweden.com/what-to-do/culture-history-and-art/swedish-traditions/midsummer-tradition/midsummer/",
+        "locator": "Visit Sweden, „Celebrate Midsummer“, Abschnitte über die Midsummer pole und den Tanz „Små grodorna“",
+        "verified_claim": "Visit Sweden beschreibt die geschmückte Stange, das gemeinsame Tanzen und das Nachahmen von Fröschen beim Lied „Små grodorna“.",
+        "checked_at": "2026-11-22T18:29:59Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Visit Sweden beschreibt die geschmückte Stange, das gemeinsame Tanzen und das Nachahmen von Fröschen beim Lied „Små grodorna“."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die vier Antworten sind Gegenstände eines Festes. Die Erklärung benennt den belegten Froschtanz ohne eine allgemeine Teilnahme zu behaupten."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

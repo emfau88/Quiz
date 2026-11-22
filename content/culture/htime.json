@@ -25,8 +25,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "1814 und 1815 verhandelten die europäischen Mächte in Wien über die politische Neuordnung.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_internationale_politik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -42,28 +45,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -97,8 +100,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die neue Strecke verband die beiden fränkischen Nachbarstädte Nürnberg und Fürth.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_verkehrsgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -114,28 +120,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -169,8 +175,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "In der Frankfurter Paulskirche tagte zunächst das Vorparlament und dann die gewählte Nationalversammlung.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -186,28 +195,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -241,8 +250,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das Parlament wählte den preußischen König im März 1849 zum Kaiser. Er nahm die Krone nicht an.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -258,28 +270,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -313,8 +325,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Kaiserproklamation fand im Spiegelsaal des französischen Schlosses von Versailles statt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -330,28 +345,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -385,8 +400,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Der erste Teil der Sozialgesetzgebung führte die Krankenversicherung für Arbeiter ein.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_gesellschaftsgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -402,28 +420,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -457,8 +475,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Nach dem kurzen Regierungsjahr Friedrichs III. folgte sein Sohn Wilhelm II.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -474,28 +495,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -529,8 +550,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die im Deutschen Historischen Museum dokumentierte Strecke im Siegerland war rund 15 Kilometer lang.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_verkehrsgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -546,28 +570,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -601,8 +625,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Versuche fanden bei Kitty Hawk statt. Beteiligt waren Orville und Wilbur Wright.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_verkehrsgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -618,28 +645,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -673,8 +700,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das Passagierschiff war 1912 auf dem Weg nach New York, als es im Nordatlantik sank.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_verkehrsgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -690,28 +720,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -745,8 +775,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die fünften Olympischen Spiele der Neuzeit wurden in Stockholm eröffnet.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_sportgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -762,28 +795,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -817,8 +850,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Das Attentat löste die Julikrise aus. Im Sommer 1914 begann der Erste Weltkrieg.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_internationale_politik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -834,28 +870,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -889,8 +925,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Abdankung Nikolaus’ II. fiel in die russische Revolution von 1917.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_internationale_politik",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -906,28 +945,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -961,8 +1000,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Scheidemanns Ausrufung der Republik fiel mit dem Ende der Monarchie in Deutschland zusammen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -978,28 +1020,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1033,8 +1075,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Der Tagungsort gab der Weimarer Republik ihren Namen.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1050,28 +1095,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1105,8 +1150,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Rentenmark wurde im November 1923 während der Währungsstabilisierung eingeführt.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1122,28 +1170,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1177,8 +1225,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Lindbergh flog die einmotorige Maschine in rund 33,5 Stunden von Westen nach Osten.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_verkehrsgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1194,28 +1245,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1321,8 +1372,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die Kurseinbrüche in New York im Oktober 1929 markieren einen Wendepunkt der damaligen Wirtschaftsgeschichte.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_wirtschaftsgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1338,28 +1392,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1393,8 +1447,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Garmisch-Partenkirchen war der Austragungsort der vierten Olympischen Winterspiele.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_sportgeschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1410,28 +1467,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1465,8 +1522,11 @@
     ],
     "correct_option_id": "a",
     "explanation": "Die britische Labour Party hatte die Wahl gewonnen. Attlee nahm anschließend an den Verhandlungen teil.",
-    "tags": [],
-    "content_revision": 1,
+    "tags": [
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1482,28 +1542,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1538,9 +1598,11 @@
     "correct_option_id": "a",
     "explanation": "Die Einweihung erinnerte an die Luftbrücke von 1948/49.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_gesellschaftsgeschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1556,28 +1618,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1612,9 +1674,11 @@
     "correct_option_id": "a",
     "explanation": "Schumans Vorschlag wurde zu einem wichtigen Schritt der europäischen Zusammenarbeit nach dem Krieg.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_europa",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1630,28 +1694,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1686,9 +1750,11 @@
     "correct_option_id": "a",
     "explanation": "Der Volksaufstand vom 17. Juni erfasste Ost-Berlin und viele weitere Orte der DDR.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1704,28 +1770,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1760,9 +1826,11 @@
     "correct_option_id": "a",
     "explanation": "Hillary und Tenzing Norgay gelang gemeinsam die erste bestätigte Besteigung des Everest.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_sportgeschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1778,28 +1846,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1834,9 +1902,11 @@
     "correct_option_id": "a",
     "explanation": "Stalin starb 1953 nach einem Schlaganfall.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_internationale_politik",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1852,28 +1922,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1908,9 +1978,11 @@
     "correct_option_id": "a",
     "explanation": "Die Bundesversammlung bestätigte Heuss in West-Berlin für eine zweite Amtszeit.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -1926,28 +1998,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -1982,9 +2054,11 @@
     "correct_option_id": "a",
     "explanation": "Mehrere osteuropäische Staaten und die Sowjetunion schlossen 1955 den Warschauer Pakt.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_internationale_politik",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2000,28 +2074,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2056,9 +2130,11 @@
     "correct_option_id": "a",
     "explanation": "Der ungarische Aufstand richtete sich gegen das stalinistische Regime und forderte Reformen.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_internationale_politik",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2074,28 +2150,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2130,9 +2206,11 @@
     "correct_option_id": "a",
     "explanation": "Ägyptens Verstaatlichung des Suezkanals löste die Suezkrise aus.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_internationale_politik",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2148,28 +2226,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2204,9 +2282,11 @@
     "correct_option_id": "a",
     "explanation": "Die sechs beteiligten Staaten vereinbarten in Rom auch die Gründung von Euratom.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_europa",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2222,28 +2302,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2278,9 +2358,11 @@
     "correct_option_id": "a",
     "explanation": "Im August 1961 riegelten DDR-Kräfte die Grenze zwischen Ost- und West-Berlin ab.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_deutsche_geschichte",
+      "form_zeitlich_einordnen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2296,28 +2378,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2352,9 +2434,11 @@
     "correct_option_id": "a",
     "explanation": "Der Prozess gegen den früheren SS-Funktionär fand vor einem israelischen Gericht in Jerusalem statt.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_internationale_politik",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2370,28 +2454,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2426,9 +2510,11 @@
     "correct_option_id": "a",
     "explanation": "Kennedy besuchte die geteilte Stadt während seiner Deutschlandreise und bekräftigte die Unterstützung für West-Berlin.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2444,28 +2530,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2500,9 +2586,11 @@
     "correct_option_id": "a",
     "explanation": "Das Abkommen erlaubte Besuche über Weihnachten und Silvester, obwohl die Stadt weiterhin geteilt war.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2518,28 +2606,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2574,9 +2662,11 @@
     "correct_option_id": "a",
     "explanation": "Der Bundestag wählte Ludwig Erhard. Die Regierung stützte sich weiterhin auf CDU, CSU und FDP.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2592,28 +2682,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2722,9 +2812,11 @@
     "correct_option_id": "a",
     "explanation": "Sein Kniefall am Denkmal für den Warschauer Ghettoaufstand wurde zu einer Geste des Gedenkens und der Aussöhnung.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2740,28 +2832,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2796,9 +2888,11 @@
     "correct_option_id": "a",
     "explanation": "Nixon sprach in China unter anderem mit Mao Zedong. Der Besuch sollte Spannungen abbauen.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_internationale_politik",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2814,28 +2908,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2870,9 +2964,11 @@
     "correct_option_id": "a",
     "explanation": "Während der Ölkrise beschränkte die Bundesrepublik zeitweise den Kraftfahrzeugverkehr.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_wirtschaftsgeschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2888,28 +2984,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -2944,9 +3040,11 @@
     "correct_option_id": "a",
     "explanation": "1974 wurde Guillaume wegen des Verdachts auf Spionage für die DDR festgenommen.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -2962,28 +3060,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3018,9 +3116,11 @@
     "correct_option_id": "a",
     "explanation": "Nixon legte sein Amt während der Watergate-Affäre nieder.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_internationale_politik",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3036,28 +3136,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3092,9 +3192,11 @@
     "correct_option_id": "a",
     "explanation": "Die Konferenz über Sicherheit und Zusammenarbeit in Europa schloss ihre Verhandlungen in Helsinki ab.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_internationale_politik",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3110,28 +3212,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3166,9 +3268,11 @@
     "correct_option_id": "a",
     "explanation": "Jähn startete als Bürger der DDR zu einem sowjetischen Raumflug.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_raumfahrt",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3184,28 +3288,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3240,9 +3344,11 @@
     "correct_option_id": "a",
     "explanation": "Der Schah verließ das Land im Januar 1979. Wenig später setzte sich die Revolution durch.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_internationale_politik",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3258,28 +3364,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3314,9 +3420,11 @@
     "correct_option_id": "a",
     "explanation": "Die unabhängige Gewerkschaft Solidarność wurde zu einem Zentrum der polnischen Opposition.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_gesellschaftsgeschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3332,28 +3440,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3388,9 +3496,11 @@
     "correct_option_id": "a",
     "explanation": "Die wiederverwendbare Raumfähre Columbia eröffnete den bemannten Flugbetrieb des Shuttle-Programms.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_raumfahrt",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3406,28 +3516,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3462,9 +3572,11 @@
     "correct_option_id": "a",
     "explanation": "Wałęsa war elf Monate lang interniert. Seine Gewerkschaft war zu diesem Zeitpunkt verboten.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_internationale_politik",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3480,28 +3592,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3536,9 +3648,11 @@
     "correct_option_id": "a",
     "explanation": "In Liechtenstein votierte 1984 eine knappe Mehrheit der damals stimmberechtigten Männer dafür.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_gesellschaftsgeschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3554,28 +3668,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3610,9 +3724,11 @@
     "correct_option_id": "a",
     "explanation": "Fünf Staaten vereinbarten den Abbau der Kontrollen an ihren gemeinsamen Grenzen.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_europa",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3628,28 +3744,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3684,9 +3800,11 @@
     "correct_option_id": "a",
     "explanation": "Im April 1986 kam es im Kernkraftwerk nördlich von Kiew zu einer Kernschmelze.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_alltagsgeschichte",
+      "form_zeitlich_einordnen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3702,28 +3820,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3758,9 +3876,11 @@
     "correct_option_id": "a",
     "explanation": "Bhuttos Partei gewann die Parlamentswahlen. Im Dezember wurde sie zur Ministerpräsidentin ernannt.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_internationale_politik",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3776,28 +3896,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3832,9 +3952,11 @@
     "correct_option_id": "a",
     "explanation": "Schabowskis Auskunft auf der Pressekonferenz ging der Öffnung der Grenzübergänge am selben Abend voraus.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3850,28 +3972,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3883,7 +4005,7 @@
     "id": "k-chronik-havel-president",
     "fact_key": "chronik.havel.president",
     "category": "history_discoveries",
-    "difficulty": "medium",
+    "difficulty": "easy",
     "question": "Welcher Schriftsteller wurde Ende 1989 Präsident der Tschechoslowakei?",
     "options": [
       {
@@ -3906,9 +4028,11 @@
     "correct_option_id": "a",
     "explanation": "Havel wurde im Dezember nach dem politischen Umbruch zum Staatspräsidenten gewählt.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_internationale_politik",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3924,28 +4048,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -3980,9 +4104,11 @@
     "correct_option_id": "a",
     "explanation": "Mandela wurde im Februar 1990 nach mehr als 27 Jahren Haft freigelassen.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_gesellschaftsgeschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -3998,28 +4124,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -4054,9 +4180,11 @@
     "correct_option_id": "a",
     "explanation": "Die beiden deutschen Staaten verhandelten mit den vier Siegermächten über die äußeren Fragen der deutschen Einheit.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -4072,28 +4200,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -4128,9 +4256,11 @@
     "correct_option_id": "a",
     "explanation": "Der Beschluss fiel mit 338 zu 320 Stimmen für Berlin.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -4146,28 +4276,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -4202,9 +4332,11 @@
     "correct_option_id": "a",
     "explanation": "Estland, Lettland und Litauen hatten als Sowjetrepubliken zur UdSSR gehört.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_internationale_politik",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -4220,28 +4352,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -4276,9 +4408,11 @@
     "correct_option_id": "a",
     "explanation": "Das Stasi-Unterlagengesetz eröffnete Betroffenen den Zugang zu den über sie geführten Akten.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -4294,28 +4428,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -4350,9 +4484,11 @@
     "correct_option_id": "a",
     "explanation": "Mit Maastricht vereinbarten die Mitgliedstaaten unter anderem den Weg zu einer gemeinsamen Währung.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_europa",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -4368,28 +4504,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -4424,9 +4560,11 @@
     "correct_option_id": "a",
     "explanation": "Sie folgte Björn Engholm und war die erste Frau an der Spitze eines deutschen Bundeslandes.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_deutsche_geschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -4442,28 +4580,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -4498,9 +4636,11 @@
     "correct_option_id": "a",
     "explanation": "Der Eisenbahntunnel wurde auf der französischen Seite in Calais eröffnet und führt nach England.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_verkehrsgeschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -4516,28 +4656,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -4572,9 +4712,11 @@
     "correct_option_id": "a",
     "explanation": "Hongkong wurde nach der Übergabe eine chinesische Sonderverwaltungszone.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_internationale_politik",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -4590,28 +4732,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -4646,9 +4788,11 @@
     "correct_option_id": "a",
     "explanation": "Ruth Dreifuss wurde im Dezember 1998 gewählt und übernahm das Amt für 1999.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_internationale_politik",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -4664,28 +4808,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },
@@ -4720,9 +4864,11 @@
     "correct_option_id": "a",
     "explanation": "Nach der Wiedervereinigung löste das fünfstellige System die zuvor verwendeten vierstelligen Postleitzahlen ab.",
     "tags": [
-      "damals_und_heute"
+      "damals_und_heute",
+      "thema_alltagsgeschichte",
+      "form_wiedererkennen"
     ],
-    "content_revision": 1,
+    "content_revision": 2,
     "semantic_revision": 1,
     "valid_until": null,
     "status": "release_approved",
@@ -4738,28 +4884,28 @@
     "review": {
       "fact": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:42:58+00:00",
+        "actor": "Codex · Abgleich der belegten Vorrevision",
+        "at": "2026-11-22T18:43:00.903+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
       "editorial": {
         "actor_type": "agent",
-        "actor": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
-        "at": "2026-11-20T01:44:25+00:00",
+        "actor": "Codex · Redaktion Themen, Form und Schwierigkeit",
+        "at": "2026-11-22T18:44:38.609+00:00",
         "source_ids": [
           "s1"
         ],
-        "content_revision": 1,
+        "content_revision": 2,
         "semantic_revision": 1,
         "result": "pass"
       },
-      "approved_at": "2026-11-20T01:44:25+00:00",
-      "approved_by": "Codex · Redaktion Geschichte, Unterhaltung und Kultur",
+      "approved_at": "2026-11-22T18:44:38.609+00:00",
+      "approved_by": "Codex · Redaktion Fragenpool",
       "issues": [],
       "length_exception": null
     },

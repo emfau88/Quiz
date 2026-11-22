@@ -1,0 +1,1044 @@
+{
+  "charge": "2026-11 Unterhaltung",
+  "rubrik": "entertainment",
+  "faktenpruefung": "Die Redaktion hat jede verlinkte Primärseite oder institutionelle Filmwerksbeschreibung im Web geöffnet und Antwort sowie Erklärungszusatz anhand der bezeichneten Passage gelesen. Die Abrufzeiten stammen aus den jeweiligen Web-Prüfungen. Zeilennummern beziehen sich auf die beim Abruf gelesene Textansicht.",
+  "redaktionelle_pruefung": "Dieselbe Codex-Redaktion las anschließend jede Frage gemeinsam mit allen vier Alternativen und ihrer Erklärung erneut. Dazu gehörten Gegenlesen der Lösung, sprachliche Eindeutigkeit, plausible Alternativen, Hörverständlichkeit und die Abgrenzung von gespeicherten Fragen. Die einzelnen Beobachtungen sind unten zugeordnet.",
+  "verantwortlich": "Codex · Unterhaltungsredaktion",
+  "menschliche_testbeobachtungen": 0,
+  "fragen": 48,
+  "eroeffnete_belegseiten": 49,
+  "beleg_hosts": 30,
+  "aktuelle_dateien": {
+    "fragen": "content/culture/2026-11-unterhaltung.json",
+    "rotation": "content/rotation/2026-11/unterhaltung.json"
+  },
+  "untergruppen": {
+    "fernsehen_radio": 16,
+    "popmusik": 12,
+    "filmhandlungen": 12,
+    "sportmedien": 8
+  },
+  "schwierigkeit_nach_vorgaenger": {
+    "easy": 29,
+    "medium": 14,
+    "hard": 5
+  },
+  "austausch": {
+    "oscars": 35,
+    "buehne": 13,
+    "verbleibende_originalserien": {
+      "oscars": 30,
+      "buehne": 20
+    },
+    "betroffene_referenzen": 0,
+    "archivierungsgrund": "Themenwechsel und geringere Konzentration der Serien. Die alten Fassungen behalten die historischen Identitäten und Belege.",
+    "geschuetzte_casablanca_frage": "k-academy-1944-r"
+  },
+  "aehnlichkeitspruefung": {
+    "stand": "1.200 aktive Karten nach Anwendung aller 152 Austauschpaare der sechs Ressorts vom 22. November 2026.",
+    "methoden": [
+      "compare_content.candidates",
+      "compare_content.rotation_candidates"
+    ],
+    "redaktionell_eingeordnete_paare": [
+      {
+        "a": "k-media-siebter-sinn",
+        "b": "qs-geschwindigkeit-meter-sekunde",
+        "entscheidung": "Gleiche alltägliche Verben. Die eine Karte fragt nach der Fernsehsendung, die andere nach einer Messgröße."
+      },
+      {
+        "a": "k-media-hosen-tage",
+        "b": "k-music-acdc-highway",
+        "entscheidung": "Unterschiedliche Bands und Werke, „Tage wie diese“ beziehungsweise „Highway to Hell“ und „Back in Black“."
+      },
+      {
+        "a": "k-media-hosen-tage",
+        "b": "k-music-fleetwood-album",
+        "entscheidung": "Unterschiedliche Bands und Werke, Die Toten Hosen beziehungsweise Fleetwood Mac."
+      },
+      {
+        "a": "k-media-abba-brighton",
+        "b": "qs-b4-dfb-frauenfussball",
+        "entscheidung": "Beide Karten haben als Lösung die 1970er-Jahre. Der Sieg von ABBA beim Eurovision Song Contest und die Aufhebung des DFB-Verbots für Frauenfußball sind unabhängige Ereignisse."
+      },
+      {
+        "a": "k-media-abba-brighton",
+        "b": "k-media-lena-oslo",
+        "entscheidung": "Jahrzehnt des schwedischen Siegs von ABBA und Titel des deutschen Siegerlieds von Lena sind unabhängig."
+      },
+      {
+        "a": "k-media-abba-brighton",
+        "b": "k-music-bowie-fame",
+        "entscheidung": "ABBA in Brighton und David Bowies „Fame“ teilen ein Jahrzehnt. Künstler, Werke und Fragen unterscheiden sich."
+      },
+      {
+        "a": "k-media-abba-brighton",
+        "b": "k-esc-nicole-song",
+        "entscheidung": "ABBAs Sieg 1974 und Nicoles Beitrag 1982 sind verschiedene Ereignisse. Eine Frage sucht das Jahrzehnt, die andere den Titel."
+      },
+      {
+        "a": "k-media-abba-brighton",
+        "b": "k-esc-first-city",
+        "entscheidung": "Britischer Austragungsort eines späteren Wettbewerbs im Fragetext und Schweizer Austragungsort der ersten Ausgabe als Lösung."
+      },
+      {
+        "a": "k-media-lena-oslo",
+        "b": "k-esc-nicole-song",
+        "entscheidung": "„Satellite“ von Lena und „Ein bisschen Frieden“ von Nicole sind eigene Beiträge aus verschiedenen Wettbewerben."
+      },
+      {
+        "a": "k-media-lena-oslo",
+        "b": "k-esc-first-city",
+        "entscheidung": "Gesucht werden der Titel von Lenas Lied 2010 und die Schweizer Austragungsstadt der ersten Ausgabe."
+      },
+      {
+        "a": "k-media-graceland-partner",
+        "b": "qs-za-waehrung-2026",
+        "entscheidung": "Die Aufnahmen Paul Simons und die Landeswährung betreffen verschiedene Sachverhalte."
+      },
+      {
+        "a": "k-media-maneskin-name",
+        "b": "k-cldr-it-relative-1",
+        "entscheidung": "Übersetzung eines dänischen Bandnamens und Übersetzung des italienischen „domani“ sind unterschiedliche Sprachpaare und Wörter."
+      },
+      {
+        "a": "k-media-maneskin-name",
+        "b": "k-cldr-it-unit-length-kilometer",
+        "entscheidung": "Dänischer Bandname und italienische Entfernungsangabe teilen weder Ausdruck noch Übersetzung."
+      },
+      {
+        "a": "k-media-hymne-haendel",
+        "b": "k-stage-ariodante-composer",
+        "entscheidung": "Händel ist Stilvorbild einer Fußballhymne und Komponist einer Barockoper. Werke und Beziehung zum Komponisten unterscheiden sich."
+      }
+    ],
+    "zusaetzliche_durchsicht": [
+      "Die neue Flughafenhandlung aus „Casablanca“ und die erhaltene Regie-Oscar-Frage betreffen verschiedene Fakten.",
+      "Die Sportfrage zum „Wunder von Bern“ nennt den Radiokommentator. Der Name des WM-Finalgegners wurde aus Rücksicht auf die separate Geschichtsfrage aus dem spielbaren Text entfernt."
+    ],
+    "geprueft_am": "2026-11-22T18:46:49Z"
+  },
+  "karten": [
+    {
+      "id": "k-media-bauwagen",
+      "group": "fernsehen_radio",
+      "old_id": "k-academy-2002-hl",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.zdf.de/magazine/loewenzahn-mit-peter-lustig-104?staffel=1",
+          "checked_at": "2026-11-22T18:26:07Z",
+          "locator": "Serienbeschreibung, rund um Bärstadt",
+          "source_anchor": "Bauwagen in Bärstadt",
+          "opened_line": 50,
+          "verified_claim": "Die ZDF-Reihe spielt um Peter Lustigs Bauwagen in Bärstadt, von dem aus er Themen aus Natur, Umwelt und Technik erkundet."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vier Wohnformen im selben Kasus. Bärstadt wird erst in der Erklärung genannt."
+    },
+    {
+      "id": "k-media-mainzel",
+      "group": "fernsehen_radio",
+      "old_id": "k-academy-1961-r",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.zdf.de/unternehmen/organisation/finanzen/werbung-mainzelmaennchen-108.html",
+          "checked_at": "2026-11-22T18:26:07Z",
+          "locator": "Einführung zur Funktion im Programm",
+          "source_anchor": "Als Werbetrenner",
+          "opened_line": 16,
+          "verified_claim": "Das ZDF nutzt die animierten Mainzelmännchen seit dem zweiten Sendetag am 2. April 1963 zum Trennen von Werbung."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:39:35Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Hinweis auf Werbespots aus der Frage entfernt. Vier kurze Programmfunktionen stehen einander gegenüber."
+    },
+    {
+      "id": "k-media-zeitzeichen",
+      "group": "fernsehen_radio",
+      "old_id": "k-academy-1957-r",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://presse.wdr.de/plounge/wdr/programm/2022/04/20220404_interview_zeitzeichen_ruenker_ronal.html",
+          "checked_at": "2026-11-22T18:42:38Z",
+          "locator": "WDR-Interview, Fragen nach beliebten Stücken und den Kriterien der Themenwahl, Absätze 86–87 und 113–116",
+          "source_anchor": "Heute vor 5, 10, 15, 20, 25",
+          "opened_line": 114,
+          "verified_claim": "Das ZeitZeichen-Team erläutert sein Auswahlprinzip mit historischen Jahrestagen in Fünfjahresschritten. Ein Beitrag erinnerte am 5. September an die Geburt Ludwigs XIV."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:42:58Z",
+      "editorial_checked": "2026-11-22T18:43:08Z",
+      "editorial_note": "Gemeinsamen Anlass der Radiosendungen gegen drei kulturelle Neuheiten abgegrenzt. Der WDR-Beitrag über den Sonnenkönig liefert ein erzählerisches Beispiel."
+    },
+    {
+      "id": "k-media-gruss-bord",
+      "group": "fernsehen_radio",
+      "old_id": "k-academy-1963-f",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.ndr.de/nachrichten/info/veranstaltungen/gruss-an-bord-der-radio-klassiker-fuer-seeleute-in-aller-welt%2Cgrussanbord690.html",
+          "checked_at": "2026-11-22T18:26:07Z",
+          "locator": "Einleitung zur Weihnachtssendung für Menschen auf See",
+          "source_anchor": "traditionell an Heiligabend",
+          "opened_line": 25,
+          "verified_claim": "Der NDR strahlt an Heiligabend Grüße an Menschen aus, die über Weihnachten auf See arbeiten, auch in Forschung und Seenotrettung."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:39:35Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Empfängergruppe gegen drei andere Gruppen abgegrenzt. Besatzungen von Forschungs- und Seenotrettungsschiffen verständlich benannt."
+    },
+    {
+      "id": "k-media-nachrichtenleicht",
+      "group": "fernsehen_radio",
+      "old_id": "k-academy-1975-hn",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.deutschlandfunk.de/mehr-deutschlandfunk-einfache-sprache-100.html",
+          "checked_at": "2026-11-22T18:26:07Z",
+          "locator": "Abschnitt „Nachrichten in Einfacher Sprache“",
+          "source_anchor": "Nachrichten in Einfacher Sprache",
+          "opened_line": 70,
+          "verified_claim": "Deutschlandfunk bezeichnet „Nachrichtenleicht“ als Nachrichtensendung in Einfacher Sprache."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:39:35Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Die drei falschen Angebote ohne verräterische dreifache Wiederholung von „nur“ formuliert. Die richtige Antwort verwendet den Eigennamen Einfache Sprache."
+    },
+    {
+      "id": "k-media-ohrenbaer",
+      "group": "fernsehen_radio",
+      "old_id": "k-academy-1965-hn",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.rbb-online.de/unternehmen/presse/presseinformationen/pressearchiv/2007/hoert_mal_her_20.html",
+          "checked_at": "2026-11-22T18:26:07Z",
+          "locator": "Jubiläum 2007, Entstehung der Radiogeschichten",
+          "source_anchor": "von bekannten Schauspielern gelesen",
+          "opened_line": 29,
+          "verified_claim": "Der rbb beschrieb 2007, dass Schauspieler seit dem Start 1987 eigens geschriebene Geschichten für Kinder vorlasen."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:40:28Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vorlesen und Mehrrollen-Hörspiel ausdrücklich gegenübergestellt. Alle vier Möglichkeiten beschreiben Vermittlungsformen."
+    },
+    {
+      "id": "k-media-radiotatort",
+      "group": "fernsehen_radio",
+      "old_id": "k-academy-1966-f",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.ard.de/die-ard/presse-kontakt/ard-pressemeldungen/2016/05-31-der-100te-ard-radiotatort-hundert-von-hundert-100.html",
+          "checked_at": "2026-11-22T18:26:07Z",
+          "locator": "Pressemitteilung, Geschichte der Hörspielreihe",
+          "source_anchor": "regionalen Radio-Ermittlerteams",
+          "opened_line": 56,
+          "verified_claim": "2008 begann die ARD-Hörspielreihe mit wechselnden regionalen Ermittlerteams. Die Anstalten strahlen den neuen Fall gemeinsam aus."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Einen fertigen regionalen Fall mit wechselnden Ermittlungsorten von anderen Serienkonzepten unterschieden. Das Sendedatum bleibt dem Hintergrund vorbehalten."
+    },
+    {
+      "id": "k-media-siebter-sinn",
+      "group": "fernsehen_radio",
+      "old_id": "k-academy-1976-f",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www1.wdr.de/radio/wdr5/sendungen/zeitzeichen/siebte-sinn-fernsehen-102.html",
+          "checked_at": "2026-11-22T18:26:07Z",
+          "locator": "ZeitZeichen zur Sendung vom 4. Februar 1966",
+          "source_anchor": "Risiken im Straßenverkehr",
+          "opened_line": 31,
+          "verified_claim": "Die ARD-Sendereihe entstand durch WDR und Deutsche Verkehrswacht. Sie erklärte Gefahren auf der Straße und warb für den Gurt."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Sicherheitsgurt und Aquaplaning als Wiedererkennungshilfen geprüft. Alle vier Optionen nennen damalige Fernsehreihen."
+    },
+    {
+      "id": "k-media-haendlerkarte",
+      "group": "fernsehen_radio",
+      "old_id": "k-academy-1978-dl",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://presseportal.zdf.de/pressemappe/bares-fuer-rares-2",
+          "checked_at": "2026-11-22T18:26:07Z",
+          "locator": "Pressemappe, Sachverständige und Händlerkarte",
+          "source_anchor": "Händlerkarte",
+          "opened_line": 45,
+          "verified_claim": "Vor dem Verkauf bei „Bares für Rares“ begutachten Sachverständige die Stücke. Die Händlerkarte gehört zum Übergang zu den Kaufinteressenten."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Fachliche Schätzung und anschließende Verkaufsverhandlung als zwei unterschiedliche Schritte formuliert."
+    },
+    {
+      "id": "k-media-dinner",
+      "group": "fernsehen_radio",
+      "old_id": "k-academy-1982-hl",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.ndr.de/fernsehen/Dinner-for-One-oder-Der-90-Geburtstag%2Csendung64852.html",
+          "checked_at": "2026-11-22T18:26:07Z",
+          "locator": "Beschreibung des Sketches und der Geburtstagsgäste",
+          "source_anchor": "längst verstorbenen Freunde",
+          "opened_line": 27,
+          "verified_claim": "Miss Sophie feiert den Geburtstag mit vier längst verstorbenen Freunden als imaginären Gästen. Butler James bedient sie beim Dinner."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:39:35Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Funktion des Butlers mit einer natürlichen Frage nach dem Anstoßen benannt. Vier mögliche Erklärungen für die leeren Plätze."
+    },
+    {
+      "id": "k-media-band-gedaechtnis",
+      "group": "fernsehen_radio",
+      "old_id": "k-academy-1979-dl",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://radiobremen.gcp.radiobremen.de/ueber-uns/chronik/chronik-am-laufenden-band-100.html",
+          "checked_at": "2026-11-22T18:26:07Z",
+          "locator": "Chronik 1974, Spielprinzip des Finales",
+          "source_anchor": "aus dem Gedächtnis aufzuzählen",
+          "opened_line": 45,
+          "verified_claim": "Im Finale zogen vierzig Gegenstände vorbei. Danach blieben zwanzig Sekunden, um mögliche Gewinne aus dem Gedächtnis zu nennen."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:40:28Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vier Aufgaben beziehen sich auf dieselben Gegenstände. Die Erklärung ergänzt Zeit und Anzahl."
+    },
+    {
+      "id": "k-media-dalli",
+      "group": "fernsehen_radio",
+      "old_id": "k-academy-1985-r",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://presseportal.zdf.de/pressemappe/dalli-dalli-die-weihnachtsshow",
+          "checked_at": "2026-11-22T18:26:07Z",
+          "locator": "Historischer Rückblick „Das bleibt Spitze!“",
+          "source_anchor": "sprang in die Höhe",
+          "opened_line": 46,
+          "verified_claim": "Bei einer besonderen Leistung sprang Moderator Hans Rosenthal in die Höhe. Die prominenten Kandidaten spielten in Zweierteams."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Alle Antworten beschreiben sichtbare Bewegungen. Die bekannte Redewendung steht erst in der Erklärung."
+    },
+    {
+      "id": "k-media-sandmann",
+      "group": "fernsehen_radio",
+      "old_id": "k-academy-1987-hl",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.sandmann.de/frueher/fakten/geburtsstunde.html",
+          "checked_at": "2026-11-22T18:27:41Z",
+          "locator": "Erste Ausstrahlung am 22. November 1959",
+          "source_anchor": "1959 hatte „Unser Sandmännchen“",
+          "opened_line": 9,
+          "verified_claim": "Die vom Puppengestalter Gerhard Behrendt geschaffene Figur trat am 22. November 1959 erstmals im ostdeutschen Fernsehen auf. Wolfgang Richter hatte das Lied komponiert."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vier Figuren des Kinderfernsehens. Die Erklärung ergänzt Gestalter und ersten Auftritt."
+    },
+    {
+      "id": "k-media-voxhaus",
+      "group": "fernsehen_radio",
+      "old_id": "k-academy-1969-r",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.deutschlandfunk.de/aus-der-stube-in-die-welt-100.html",
+          "checked_at": "2026-11-22T18:26:07Z",
+          "locator": "Die Funk-Stunde und das erste reguläre Unterhaltungsprogramm",
+          "source_anchor": "Dachgeschoss des Vox-Hauses",
+          "opened_line": 49,
+          "verified_claim": "Am 29. Oktober 1923 begann der deutsche Unterhaltungsrundfunk mit einem Musikprogramm im Berliner Vox-Haus. Das Studio lag im Dachgeschoss."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:40:28Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Datum und Art des ersten Rundfunkprogramms zeitlich eingegrenzt. Alle Alternativen benennen Berliner Gebäude."
+    },
+    {
+      "id": "k-media-fernsehgarten",
+      "group": "fernsehen_radio",
+      "old_id": "k-academy-1988-hn",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://presseportal.zdf.de/pressemappe/zdf-fernsehgarten",
+          "checked_at": "2026-11-22T18:26:07Z",
+          "locator": "Pressemappe, Jubiläumssaison auf dem Lerchenberg",
+          "source_anchor": "Mainzer Lerchenberg",
+          "opened_line": 60,
+          "verified_claim": "Die Jubiläumssaison der ZDF-Freiluftsendung wurde 2026 auf dem Mainzer Lerchenberg veranstaltet."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:40:28Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Die Ortsfrage auf die belegte Jubiläumssaison begrenzt. Alle Alternativen sind deutsche Fernsehstandorte."
+    },
+    {
+      "id": "k-media-mucks",
+      "group": "fernsehen_radio",
+      "old_id": "k-academy-1982-r",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.ard.de/ardkultur/literatur/kein-mucks%2Ckrimi-podcast-kein-mucks-bastian-pastewka-radio-bremen-100.html",
+          "checked_at": "2026-11-22T18:26:07Z",
+          "locator": "Beschreibung des Krimi-Podcasts und seiner Archive",
+          "source_anchor": "Kriminalhörspiel-Klassiker",
+          "opened_line": 105,
+          "verified_claim": "Bastian Pastewka stellt Kriminalhörspiele aus Archiven der ARD, des Rundfunks der DDR und des Deutschlandfunks vor."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:40:28Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vier plausible Archivformate für Krimipodcasts. Hörspiele sind klar von historischen O-Tönen zu unterscheiden."
+    },
+    {
+      "id": "k-media-nena-ballons",
+      "group": "popmusik",
+      "old_id": "k-academy-1991-f",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.nena.de/songs/99-luftballons",
+          "checked_at": "2026-11-22T18:28:49Z",
+          "locator": "Liedtext, Verwechslung zu Beginn der Handlung",
+          "source_anchor": "Hielt man für Ufos",
+          "opened_line": 13,
+          "verified_claim": "In Nenas Song werden die Ballons zunächst für Flugobjekte aus dem All gehalten. Die Fehleinschätzung löst die Eskalation aus."
+        },
+        {
+          "id": "s2",
+          "url": "https://www.nena.de/featurings/99-luftballons-the-40th-anniversary-ep",
+          "checked_at": "2026-11-22T18:26:23Z",
+          "locator": "Rückblick der Band auf Veröffentlichung und Inspiration",
+          "source_anchor": "Im Januar 1983",
+          "opened_line": 23,
+          "verified_claim": "Nenas Debütalbum und die Single erschienen im Januar 1983."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:39:35Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Den Gegenstand in der Frage und vier mögliche Deutungen am Himmel formuliert. Keine andere Antwort wird durch das Wort Ballon ausgeschlossen."
+    },
+    {
+      "id": "k-media-sonderzug-wunsch",
+      "group": "popmusik",
+      "old_id": "k-academy-1992-dl",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.udo-lindenberg.de/sonderzug-nach-pankow-mit-udo-lindenberg-in-der-u2.15203.htm",
+          "checked_at": "2026-11-22T18:26:23Z",
+          "locator": "Rückblick auf das Lied von 1983",
+          "source_anchor": "ihn in der DDR auftreten zu lassen",
+          "opened_line": 37,
+          "verified_claim": "Lindenberg forderte mit seinem Lied einen Auftritt in der DDR. Beim genehmigten Konzert im Oktober 1983 war der Titel untersagt."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Historischer Wunsch und spätere Erlaubnis auseinandergehalten. Der Inhalt des Liedes und der Auftritt sind verständlich verbunden."
+    },
+    {
+      "id": "k-media-bochum-vfl",
+      "group": "popmusik",
+      "old_id": "k-academy-1994-hl",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.groenemeyer.de/bochum/",
+          "checked_at": "2026-11-22T18:26:23Z",
+          "locator": "Album von 1984, Titellied mit Bezug zum VfL",
+          "source_anchor": "dein VfL",
+          "opened_line": 126,
+          "verified_claim": "Grönemeyers Album von 1984 trägt den Namen Bochum. Der Titeltext besingt die Stadt und ihren VfL."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Alle Optionen sind Ruhrgebietsstädte. Der Fußballverein erlaubt das Herleiten für Kenner der Region."
+    },
+    {
+      "id": "k-media-prinzen-chor",
+      "group": "popmusik",
+      "old_id": "k-academy-1983-r",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.dieprinzen.de/bandbiografie/sebastian-krumbiegel/",
+          "checked_at": "2026-11-22T18:26:23Z",
+          "locator": "Bandbiografie, Ausbildungsjahre",
+          "source_anchor": "Thomanerchor",
+          "opened_line": 31,
+          "verified_claim": "Sebastian Krumbiegels Bandbiografie nennt den Thomanerchor und anschließend sein Leipziger Musikstudium mit Schlagzeug und Gesang."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Leipzig aus der Frage weggelassen. Vier bekannte Knabenchöre, die Stadt folgt in der Erklärung."
+    },
+    {
+      "id": "k-media-hosen-tage",
+      "group": "popmusik",
+      "old_id": "k-academy-1994-hn",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://shop.dietotenhosen.de/index.php/n.35-Musik/l.1769-Ballast-der-Republik-Vinyl-ReRelease/",
+          "checked_at": "2026-11-22T18:26:23Z",
+          "locator": "Rückblick der Band zur Vinyl-Neuauflage und Titelliste",
+          "source_anchor": "Tage wie diese",
+          "opened_line": 86,
+          "verified_claim": "Die Toten Hosen veröffentlichten „Tage wie diese“ auf ihrem Jubiläumsalbum von 2012. Die Band schildert die Überarbeitung von „Kreise drehen“."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vier deutschsprachige Bands. Das identifizierende Album liefert einen zweiten Anhaltspunkt, die Erklärung ergänzt den Arbeitstitel."
+    },
+    {
+      "id": "k-media-abba-brighton",
+      "group": "popmusik",
+      "old_id": "k-academy-1998-hn",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.eurovision.com/eurovision-song-contest/brighton-1974/",
+          "checked_at": "2026-11-22T18:26:23Z",
+          "locator": "Siegerbeitrag und Rückblick auf den Wettbewerb",
+          "source_anchor": "Sweden’s ABBA",
+          "opened_line": 81,
+          "verified_claim": "ABBA gewann 1974 mit „Waterloo“ in Brighton für Schweden. Im Vorjahr war die Gruppe mit „Ring Ring“ Dritte im nationalen Vorentscheid geworden."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:39:35Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Die Frage prüft jetzt die zeitliche Einordnung. Vier Jahrzehnte im selben Format stehen zur Wahl."
+    },
+    {
+      "id": "k-media-lena-oslo",
+      "group": "popmusik",
+      "old_id": "k-academy-1998-hl",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.eurovision.com/eurovision-song-contest/oslo-2010/",
+          "checked_at": "2026-11-22T18:28:49Z",
+          "locator": "Siegerbeitrag und Abstimmung in Oslo",
+          "source_anchor": "Satellite performed by the 19-year-old singer",
+          "opened_line": 82,
+          "verified_claim": "Lena gewann 2010 mit „Satellite“ für Deutschland. Jury und Publikum setzten sie bei diesem Wettbewerb auf den ersten Platz."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vier englischsprachige deutsche Beiträge zum Wettbewerb. Die Erklärung ergänzt Jury- und Publikumswertung."
+    },
+    {
+      "id": "k-media-imagine-frieden",
+      "group": "popmusik",
+      "old_id": "k-academy-1999-dl",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.johnlennon.com/music/singles/imagine/",
+          "checked_at": "2026-11-22T18:26:23Z",
+          "locator": "John Lennon und Yoko Ono erklären die Idee des Liedes",
+          "source_anchor": "a world of peace",
+          "opened_line": 59,
+          "verified_claim": "Lennon beschrieb seinen Song als Gedankenexperiment über eine friedliche Welt und erklärte den Einfluss von Yoko Onos „Grapefruit“."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Das Friedensmotiv ist mit eigenen Worten beschrieben. Auf eine Liedzeile als Lösung verzichtet."
+    },
+    {
+      "id": "k-media-supremes-label",
+      "group": "popmusik",
+      "old_id": "k-academy-1987-hn",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://rockhall.com/inductees/supremes/",
+          "checked_at": "2026-11-22T18:26:23Z",
+          "locator": "Gruppenporträt und Aufnahmeessay",
+          "source_anchor": "Motown family",
+          "opened_line": 57,
+          "verified_claim": "Die Supremes standen ab 1961 bei Motown unter Vertrag. Die Rock & Roll Hall of Fame nennt Diana Ross, Mary Wilson und Florence Ballard."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vier reale US-Plattenlabels, ein konkreter Bezug zur Gruppe. Die Erklärung nennt die drei Mitglieder."
+    },
+    {
+      "id": "k-media-graceland-partner",
+      "group": "popmusik",
+      "old_id": "k-academy-1993-f",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.paulsimon.com/news/25th-anniversary-paul-simon-graceland-screenings-television-under-african-skies-editions-june-5/",
+          "checked_at": "2026-11-22T18:26:23Z",
+          "locator": "Rückblick zur Dokumentation „Under African Skies“",
+          "source_anchor": "South Africa to record with local artists",
+          "opened_line": 36,
+          "verified_claim": "Paul Simon reiste für „Graceland“ nach Südafrika und nahm mit Musikern vor Ort auf. Der damalige Kulturboykott machte die Zusammenarbeit umstritten."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:39:35Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Die Apartheid schafft einen zeitgeschichtlichen Hinweis für die Länderwahl. Die Erklärung ordnet die umstrittene Aufnahme ein."
+    },
+    {
+      "id": "k-media-daft-duo",
+      "group": "popmusik",
+      "old_id": "k-academy-1997-f",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.daftpunk.com/randomaccessmemories/",
+          "checked_at": "2026-11-22T18:26:23Z",
+          "locator": "Titelliste und Credits zu „Get Lucky“",
+          "source_anchor": "Pharrell Williams, Nile Rodgers",
+          "opened_line": 32,
+          "verified_claim": "Die Daft-Punk-Diskografie nennt Pharrell Williams und Nile Rodgers als Gäste bei „Get Lucky“. Das Album erschien 2013, der Grammy für die Aufnahme folgte 2014."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:39:35Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vier Künstlerpaare. Die Frage zielt auf Gastmusiker und die Erklärung ergänzt den späteren Preis."
+    },
+    {
+      "id": "k-media-maneskin-name",
+      "group": "popmusik",
+      "old_id": "k-academy-1977-hl",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.eurovision.com/eurovision-song-contest/rotterdam-2021/participants/maneskin-1/",
+          "checked_at": "2026-11-22T18:27:41Z",
+          "locator": "Bandbiografie zur Namenswahl",
+          "source_anchor": "Danish word for ‘moonlight’",
+          "opened_line": 82,
+          "verified_claim": "Der Name der italienischen ESC-Gruppe Måneskin ist das dänische Wort für Mondlicht. Die Wahl erinnert an die Herkunft der Bassistin Victoria."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vier Naturerscheinungen als mögliche Übersetzung. Herkunft der Band und Herkunft des Namens werden unterschieden."
+    },
+    {
+      "id": "k-media-casablanca-flucht",
+      "group": "filmhandlungen",
+      "old_id": "k-academy-2003-hl",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://catalog.afi.com/Film/27175-CASABLANCA",
+          "checked_at": "2026-11-22T18:29:24Z",
+          "locator": "Synopsis, Schlusssequenz am Flughafen",
+          "source_anchor": "she is to leave with Lazlo",
+          "opened_line": 925,
+          "verified_claim": "Am Flughafen ermöglicht Rick, dass Ilsa mit ihrem Mann ausreist. Rick erkennt die Bedeutung der beiden füreinander und seiner früheren Liebe zu Ilsa."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Die Frage prüft Ricks Entscheidung am Flughafen. Die aufbewahrte Oscar-Frage behandelt einen anderen Sachverhalt."
+    },
+    {
+      "id": "k-media-metropolis-rotwang",
+      "group": "filmhandlungen",
+      "old_id": "k-academy-1982-hn",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.filmportal.de/film/metropolis_6329d4cc9d134d2386233262b52d274d",
+          "checked_at": "2026-11-22T18:26:39Z",
+          "locator": "Inhaltsbeschreibung, Auftrag von Fredersen und Nachbildung Marias",
+          "source_anchor": "Rotwang, der Erfinder",
+          "opened_line": 14,
+          "verified_claim": "Rotwang baut den Roboter. Auf Anweisung von Joh Fredersen gibt der Erfinder ihm das Aussehen Marias."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:40:28Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Erfinder und Auftraggeber sind verschiedene Rollen. Die Neufassung fragt nach der Handlung und die Erklärung trennt beide Funktionen."
+    },
+    {
+      "id": "k-media-feuerzangenbowle-schule",
+      "group": "filmhandlungen",
+      "old_id": "k-academy-2004-f",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.filmportal.de/film/die-feuerzangenbowle_8f1f6801f421480f861713b3bd4c0489",
+          "checked_at": "2026-11-22T18:26:39Z",
+          "locator": "Inhalt, Grund für Pfeiffers Schulbesuch",
+          "source_anchor": "von einem Privatlehrer unterrichtet",
+          "opened_line": 16,
+          "verified_claim": "Pfeiffer erhielt Privatunterricht. Nachdem er von der gemeinsamen Schulzeit der Freunde hört, besucht er als angeblicher Gymnasiast selbst eine Schule."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vier Gründe für dieselbe Verkleidung. Die Erklärung verbindet Privatunterricht und die verspätete Schulzeit."
+    },
+    {
+      "id": "k-media-berlin-marion",
+      "group": "filmhandlungen",
+      "old_id": "k-academy-1995-hn",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://wimwendersstiftung.de/film/der-himmel-ueber-berlin/",
+          "checked_at": "2026-11-22T18:26:39Z",
+          "locator": "Handlungsbeschreibung, Damiels Begegnung mit Marion",
+          "source_anchor": "Trapezkünstlerin Marion",
+          "opened_line": 56,
+          "verified_claim": "Marion arbeitet als Trapezkünstlerin. Nachdem Damiel sich in sie verliebt hat, möchte er Mensch werden."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:39:35Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Marions Beruf ist ein konkretes Figurenmerkmal. Vier Bühnenberufe, die Erklärung führt zu Damiels ungewöhnlichem Wunsch."
+    },
+    {
+      "id": "k-media-lola-varianten",
+      "group": "filmhandlungen",
+      "old_id": "k-academy-2003-f",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.filmportal.de/film/lola-rennt_5eaa6761762f44d6bbc15718c87b9795",
+          "checked_at": "2026-11-22T18:26:39Z",
+          "locator": "Inhalt, die drei Versionen von Lolas Lauf",
+          "source_anchor": "Lola hat drei Versuche",
+          "opened_line": 15,
+          "verified_claim": "Lola muss für Manni binnen zwanzig Minuten Geld auftreiben. Der Film erzählt drei unterschiedlich verlaufende Versuche."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vier denkbare Erzählstrukturen. Die richtige Antwort beschreibt drei Varianten derselben Ausgangslage."
+    },
+    {
+      "id": "k-media-lenin-wohnung",
+      "group": "filmhandlungen",
+      "old_id": "k-academy-2009-dl",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.filmportal.de/film/good-bye-lenin_6ef603c12388422d8bb82ad21c93ef2e",
+          "checked_at": "2026-11-22T18:26:39Z",
+          "locator": "Inhaltsbeschreibung, Erwachen der Mutter im Sommer 1990",
+          "source_anchor": "den Schock des totalen Wandels zu ersparen",
+          "opened_line": 30,
+          "verified_claim": "Nach dem Koma seiner Mutter fürchtet Alex die Wirkung der Nachricht über das Ende der DDR. Er baut ihre frühere Umgebung nach."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Die Frage stellt Alex’ Handlung in den Mittelpunkt. Vier unterschiedliche Beweggründe, die Erklärung nennt das Koma."
+    },
+    {
+      "id": "k-media-wiesler-kuenstler",
+      "group": "filmhandlungen",
+      "old_id": "k-stage-tristan-brangaene",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.filmportal.de/film/das-leben-der-anderen_cd85e167113046cf85f25cebf37bb307",
+          "checked_at": "2026-11-22T18:28:49Z",
+          "locator": "Inhalt, Überwachungsauftrag in Ost-Berlin 1984",
+          "source_anchor": "Schriftsteller Georg Dreymann",
+          "opened_line": 14,
+          "verified_claim": "Wiesler soll in Ost-Berlin einen Schriftsteller und dessen Partnerin, eine Theaterschauspielerin, ausspionieren. Dabei gerät er in einen moralischen Konflikt."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vier Künstler- und Berufspaare. Der Überwachungsauftrag und der spätere Gewissenskonflikt sind voneinander getrennt."
+    },
+    {
+      "id": "k-media-zeitmaschine-auto",
+      "group": "filmhandlungen",
+      "old_id": "k-academy-2018-hl",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.universalpicturesathome.com/movies/back-to-the-future",
+          "checked_at": "2026-11-22T18:26:39Z",
+          "locator": "Studio-Inhaltsbeschreibung, Zeitreise nach 1955",
+          "source_anchor": "DeLorean time machine",
+          "opened_line": 37,
+          "verified_claim": "Doc Brown baut einen DeLorean zur Zeitmaschine um. Marty McFly reist damit in das Jahr 1955."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vier Fahrzeugarten. Der Modellname und die Zeitreise folgen als zusätzlicher Wissensgewinn."
+    },
+    {
+      "id": "k-media-et-heimkehr",
+      "group": "filmhandlungen",
+      "old_id": "k-stage-meistersinger-roles",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.universalpicturesathome.com/movies/et-the-extra-terrestrial",
+          "checked_at": "2026-11-22T18:26:39Z",
+          "locator": "Studio-Inhaltsbeschreibung, Ziel der Geschwister",
+          "source_anchor": "help E.T. find his way home",
+          "opened_line": 37,
+          "verified_claim": "Elliott und seine Geschwister helfen dem gestrandeten Außerirdischen E.T. bei der Heimkehr. Regierungsbeamte verfolgen sie."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vier mögliche Ziele für den Außerirdischen. Sein Wunsch und die Rolle der Kinder sind eindeutig."
+    },
+    {
+      "id": "k-media-nemo-vater",
+      "group": "filmhandlungen",
+      "old_id": "k-stage-tannhaeuser-place",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.pixar.com/finding-nemo",
+          "checked_at": "2026-11-22T18:26:39Z",
+          "locator": "Figurenporträt Marlin",
+          "source_anchor": "his only surviving child, Nemo",
+          "opened_line": 80,
+          "verified_claim": "Marlin ist Nemos Vater. Nach dem Verschwinden seines Sohns wagt er sich über sein geschütztes Zuhause hinaus aufs offene Meer."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vier Rollen aus derselben Lebenswelt. Die Erklärung fügt Marlins Angst vor dem Meer hinzu."
+    },
+    {
+      "id": "k-media-riley-zentrale",
+      "group": "filmhandlungen",
+      "old_id": "k-stage-onegin-pair",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.pixar.com/inside-out",
+          "checked_at": "2026-11-22T18:26:39Z",
+          "locator": "The Characters und Headquarters",
+          "source_anchor": "control center inside Riley’s mind",
+          "opened_line": 52,
+          "verified_claim": "Im Kopf der elfjährigen Riley steht ein Kontrollraum für ihre Gefühle. Ihr Umzug nach San Francisco verändert ihr vertrautes Leben."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Bild der Schaltzentrale und erzählte Gefühlswelt gegenübergestellt. Die Erklärung verbindet den Umzug mit Rileys innerem Konflikt."
+    },
+    {
+      "id": "k-media-paddington-fundort",
+      "group": "filmhandlungen",
+      "old_id": "k-stage-freischuetz-max",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://filmsandfestivals.britishcouncil.org/projects/paddington",
+          "checked_at": "2026-11-22T18:28:49Z",
+          "locator": "UK Films Database, Synopsis des Films von 2014",
+          "source_anchor": "discovered at Paddington Station",
+          "opened_line": 18,
+          "verified_claim": "Der aus Peru eingereiste Bär trifft die Familie Brown am Londoner Bahnhof Paddington. Ein Zettel an ihm bittet um Fürsorge."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Die Frage grenzt den ersten Kinofilm ein. Alle Optionen nennen denkbare Orte der Ankunft."
+    },
+    {
+      "id": "k-media-schaltkonferenz",
+      "group": "sportmedien",
+      "old_id": "k-stage-zauberfloete-tamino",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.sportschau.de/regional/wdr/wdr-hinter-den-kulissen-der-bundesliga-konferenz-102.html",
+          "checked_at": "2026-11-22T18:26:50Z",
+          "locator": "Abschnitt „Im Maschinenraum der ARD Bundesliga-Konferenz“",
+          "source_anchor": "Leitungen aus den Stadien",
+          "opened_line": 405,
+          "verified_claim": "Eine zentrale Regie schaltet die Live-Leitungen verschiedener Stadien zusammen und koordiniert die Reporter."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:40:28Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Einzelübertragung und Konferenz ausdrücklich verglichen. Alle vier Antworten beschreiben Entscheidungen der Rundfunkregie."
+    },
+    {
+      "id": "k-media-tor-des-monats",
+      "group": "sportmedien",
+      "old_id": "k-stage-dongiovanni-servant",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.sportschau.de/tor-des-monats/archiv/index.html",
+          "checked_at": "2026-11-22T18:26:50Z",
+          "locator": "Archivbeschreibung, Wahl durch das Publikum",
+          "source_anchor": "wählen die Zuschauer der Sportschau",
+          "opened_line": 444,
+          "verified_claim": "Die Sportschau lässt ihre Zuschauer das Tor des Monats wählen. Das Archiv reicht bis 1971 zurück."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Vier mögliche Abstimmungsgruppen. Die Antwort gilt für das Publikumsformat der Sportschau."
+    },
+    {
+      "id": "k-media-torwand-sechs",
+      "group": "sportmedien",
+      "old_id": "k-stage-schwanensee-score",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.zdf.de/shows/das-aktuelle-sportstudio-220",
+          "checked_at": "2026-11-22T18:26:50Z",
+          "locator": "Sendungsbeschreibung, Torwand und Schussfolge",
+          "source_anchor": "Drei unten, drei oben",
+          "opened_line": 49,
+          "verified_claim": "Das ZDF beschreibt das Torwandschießen im aktuellen sportstudio als drei Versuche unten und drei oben."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Die überlieferte Ansage lässt die Zielanordnung erschließen. Vier im Studio denkbare Ziele."
+    },
+    {
+      "id": "k-media-satellit-tokio",
+      "group": "sportmedien",
+      "old_id": "k-stage-trovatore-pair",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.olympics.com/ioc/news/technological-innovations-at-the-olympic-games-tokyo-1964?displayAsWebView=true%2Ctrue",
+          "checked_at": "2026-11-22T18:26:50Z",
+          "locator": "Abschnitt zur internationalen Live-Übertragung",
+          "source_anchor": "used satellite technology to relay live pictures",
+          "opened_line": 28,
+          "verified_claim": "Bei den Sommerspielen 1964 kamen Fernseh-Direktbilder per Satellit zu einem internationalen Publikum. Bei der Satellitentechnik arbeiteten Japan und die NASA zusammen."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:39:35Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Die Neuerung betrifft die Übertragung über eine große Wasserfläche. Alle vier Alternativen benennen technische Übertragungswege."
+    },
+    {
+      "id": "k-media-hymne-haendel",
+      "group": "sportmedien",
+      "old_id": "k-stage-parsifal-roles",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.uefa.com/uefachampionsleague/news/022d-0e1636f1244a-c916aa410dad-1000--champions-league-anthem/?lang=en",
+          "checked_at": "2026-11-22T18:26:51Z",
+          "locator": "Rückblick auf den Kompositionsauftrag von 1992",
+          "source_anchor": "in the style of George Frideric Handel",
+          "opened_line": 22,
+          "verified_claim": "Tony Britten erhielt 1992 den Auftrag für eine Hymne im Stil Georg Friedrich Händels. Zur Aufnahme gehörte der Chor der Academy of Saint Martin in the Fields."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Gefragt wird nach dem Stil des Komponisten. Die Quelle gibt kein wörtliches Zitat eines bestimmten Händel-Werks vor."
+    },
+    {
+      "id": "k-media-bern-reporter",
+      "group": "sportmedien",
+      "old_id": "k-stage-traviata-alfredo",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.ndr.de/geschichte/koepfe/Herbert-Zimmermann-Die-Reporter-Legende-vom-WM-Endspiel-1954%2Cherbertzimmermann100.html",
+          "checked_at": "2026-11-22T18:43:19Z",
+          "locator": "Einleitung mit Übergabe aus dem Wankdorf-Stadion",
+          "source_anchor": "den Radio-Kommentar zum Endspiel",
+          "opened_line": 26,
+          "verified_claim": "Herbert Zimmermann kommentierte das WM-Endspiel 1954 aus dem Wankdorf-Stadion im Radio. Bernhard Ernst übernahm den Fernsehkommentar."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:43:19Z",
+      "editorial_checked": "2026-11-22T18:43:28Z",
+      "editorial_note": "Die Frage nennt das Finale und das Jahr. Der Gegner bleibt für die eigene Geschichtsfrage offen. Radio- und Fernsehkommentator werden unterschieden."
+    },
+    {
+      "id": "k-media-peking-trommeln",
+      "group": "sportmedien",
+      "old_id": "k-stage-carmen-location",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://www.olympics.com/ioc/news/opening-ceremonies",
+          "checked_at": "2026-11-22T18:26:50Z",
+          "locator": "Abschnitt „Beijing 2008 Opening Ceremony“",
+          "source_anchor": "2008 drummers",
+          "opened_line": 92,
+          "verified_claim": "Im Pekinger „Vogelnest“ eröffneten am 8. August 2008 insgesamt 2.008 Trommler die Feier."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:39:35Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Die Frage verlangt eine Stadt und alle vier Antworten sind Städtenamen. Die Zahl der Trommler ist ohne unterstellte Absicht erklärt."
+    },
+    {
+      "id": "k-media-radsport-kamera",
+      "group": "sportmedien",
+      "old_id": "k-stage-barbiere-composer",
+      "source_proof": [
+        {
+          "id": "s1",
+          "url": "https://downloads.ctfassets.net/761l7gh5x5an/5YpSAyXYbW1zQisP6cN8YM/55fab9d80c79a4eb08785997b585b239/2025_UCI_ROAD_CAHIER-CHARGES-ORGA_ENG_V05.pdf",
+          "checked_at": "2026-11-22T18:28:49Z",
+          "locator": "Kapitel 11 zu Kameramotorrädern und Verfolgergruppen",
+          "source_anchor": "camera motorbikes",
+          "opened_line": 1101,
+          "verified_claim": "Die UCI beschreibt stabilisierte Kameramotorräder, die Spitzengruppen begleiten. Eine Helikopterkamera kann die Gruppen von oben zeigen."
+        }
+      ],
+      "fact_checked": "2026-11-22T18:35:46Z",
+      "editorial_checked": "2026-11-22T18:41:34Z",
+      "editorial_note": "Blickhöhe und Nähe zur fahrenden Gruppe machen die Perspektive nachvollziehbar. Luft- und Motorradkamera werden unterschieden."
+    }
+  ]
+}

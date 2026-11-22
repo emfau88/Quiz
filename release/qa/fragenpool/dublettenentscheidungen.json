@@ -1,0 +1,169 @@
+{
+  "catalog": "de-03c46c2cd256",
+  "checked_by": "Codex · zusätzlicher Redaktionsdurchgang",
+  "candidates": [
+    {
+      "a": "k-cldr-fr-territory-de",
+      "b": "k-cldr-es-territory-de",
+      "entscheidung": "Französischer und spanischer Landesname. Beide Formen haben dieselbe deutsche Bedeutung."
+    },
+    {
+      "a": "k-cldr-pl-territory-de",
+      "b": "k-cldr-es-territory-de",
+      "entscheidung": "Polnisches und spanisches Wort für Deutschland werden getrennt zugeordnet."
+    },
+    {
+      "a": "k-cldr-pl-territory-de",
+      "b": "k-cldr-fr-territory-de",
+      "entscheidung": "„Niemcy“ und „Allemagne“ sind zwei Wortformen aus verschiedenen Sprachen."
+    },
+    {
+      "a": "k-cldr-nl-field-week",
+      "b": "k-cldr-it-field-week",
+      "entscheidung": "Niederländischer und italienischer Ausdruck für eine Woche."
+    },
+    {
+      "a": "k-italian-sunday",
+      "b": "k-cldr-nl-day-sun",
+      "entscheidung": "Zwei Sprachen und zwei verschiedene Namen für den Sonntag."
+    },
+    {
+      "a": "qs-brasilia-planstadt",
+      "b": "qs-br-hauptstadt",
+      "entscheidung": "Die Hauptstadtfunktion Brasílias und die Planung einer neuen Stadt im Landesinneren sind zwei belegte Eigenschaften. Die breite Serienmessung zählt beide."
+    },
+    {
+      "a": "k-media-abba-brighton",
+      "b": "k-esc-first-city",
+      "entscheidung": "Gefragt werden das Jahrzehnt des ABBA-Erfolgs und die Schweizer Austragungsstadt der ersten Ausgabe."
+    },
+    {
+      "a": "k-media-abba-brighton",
+      "b": "k-esc-nicole-song",
+      "entscheidung": "Bei ABBA ist das Jahrzehnt gesucht, bei Nicole ihr Siegertitel."
+    },
+    {
+      "a": "k-media-abba-brighton",
+      "b": "k-media-lena-oslo",
+      "entscheidung": "Zwei Künstler unterschiedlicher Jahrzehnte. Zeitliche Einordnung des ABBA-Erfolgs und Lenas Musiktitel."
+    },
+    {
+      "a": "k-media-abba-brighton",
+      "b": "k-music-bowie-fame",
+      "entscheidung": "Gemeinsames Jahrzehnt, anderer Interpret und anderer Titel. Die Bowie-Karte fragt nach dem Sänger."
+    },
+    {
+      "a": "k-media-abba-brighton",
+      "b": "qs-b4-dfb-frauenfussball",
+      "entscheidung": "Gemeinsame Dekade. Thema sind zwei unabhängige Ereignisse in Musik und Sport."
+    },
+    {
+      "a": "k-media-graceland-partner",
+      "b": "qs-za-waehrung-2026",
+      "entscheidung": "Der Ort einer Aufnahme von Paul Simon und das dort im datierten Zeitraum geltende Zahlungsmittel sind unabhängige Fakten."
+    },
+    {
+      "a": "k-media-hosen-tage",
+      "b": "k-music-acdc-highway",
+      "entscheidung": "Die Toten Hosen und AC/DC werden anhand eigener, verschiedener Werke erkannt."
+    },
+    {
+      "a": "k-media-hosen-tage",
+      "b": "k-music-fleetwood-album",
+      "entscheidung": "Bandzuordnung zu „Ballast der Republik“ gegenüber der Band hinter „Rumours“."
+    },
+    {
+      "a": "k-media-hymne-haendel",
+      "b": "k-stage-ariodante-composer",
+      "entscheidung": "Händel ist einmal stilistisches Vorbild bei einer Fußballhymne und einmal Urheber einer Oper."
+    },
+    {
+      "a": "k-media-lena-oslo",
+      "b": "k-esc-first-city",
+      "entscheidung": "Der Siegertitel von 2010 und der Austragungsort 1956 haben verschiedene Lösungen."
+    },
+    {
+      "a": "k-media-lena-oslo",
+      "b": "k-esc-nicole-song",
+      "entscheidung": "Zwei nachweislich unterschiedliche Siegertitel, Künstlerinnen und Wettbewerbsjahre."
+    },
+    {
+      "a": "k-media-maneskin-name",
+      "b": "k-cldr-it-relative-1",
+      "entscheidung": "Dänischer Bandname gegenüber italienischem Zeitadverb."
+    },
+    {
+      "a": "k-media-maneskin-name",
+      "b": "k-cldr-it-unit-length-kilometer",
+      "entscheidung": "Übersetzung eines dänischen Bandnamens gegenüber einer italienischen Maßeinheit."
+    },
+    {
+      "a": "k-media-siebter-sinn",
+      "b": "qs-geschwindigkeit-meter-sekunde",
+      "entscheidung": "Gesucht werden der Name einer Verkehrssendung und die Messgröße eines Windmessers."
+    },
+    {
+      "a": "qs-australien-zwoelf-apostel",
+      "b": "qs-barrier-reef-kueste",
+      "entscheidung": "Kalksteinformationen an der Great Ocean Road und die Lage des Great Barrier Reef betreffen verschiedene Küsten."
+    },
+    {
+      "a": "qs-b4-deutsche-waehrungsunion",
+      "b": "k-frg-original-currency",
+      "entscheidung": "Einführungsdatum in der DDR gegenüber dem Namen der 1948 in den Westzonen eingeführten Währung."
+    },
+    {
+      "a": "qs-b4-golfball-dellen",
+      "b": "qs-flugzeug-winglets",
+      "entscheidung": "Dellen am Golfball verändern die Grenzschicht. Winglets beeinflussen die Randwirbel der Tragfläche. Zwei verschiedene Mechanismen."
+    },
+    {
+      "a": "qs-b4-marathon-joan-benoit",
+      "b": "k-chronik-stockholm-olympics",
+      "entscheidung": "Austragung des ersten olympischen Frauenmarathons gegenüber Austragungsort der Sommerspiele 1912."
+    },
+    {
+      "a": "qs-b4-muenchen-maskottchen-waldi",
+      "b": "k-chronik-stockholm-olympics",
+      "entscheidung": "Hunderasse des Maskottchens 1972 und Austragungsort 1912."
+    },
+    {
+      "a": "qs-b4-olympia-gemeinsames-team",
+      "b": "k-chronik-stockholm-olympics",
+      "entscheidung": "Zusammensetzung der deutschen Mannschaft 1964 und Austragungsort 1912."
+    },
+    {
+      "a": "qs-b4-paralympics-rom",
+      "b": "k-chronik-wintergames-1936",
+      "entscheidung": "Erste anerkannte Paralympics 1960 und Olympische Winterspiele 1936 sind verschiedene Veranstaltungen."
+    },
+    {
+      "a": "qs-igel-herbst-fettreserven",
+      "b": "qs-blauwal-tiergroesse",
+      "entscheidung": "Winterschlaf eines heimischen Säugetiers und Größenrekord eines Wals."
+    },
+    {
+      "a": "qs-suez-seeweg",
+      "b": "qs-nil-muendung",
+      "entscheidung": "Seeweg durch den Suezkanal und Mündung des Nils betreffen zwei verschiedene Gewässer."
+    }
+  ],
+  "changes_before_release": [
+    {
+      "first": "k-media-bern-reporter",
+      "second": "qs-b4-wm-bern-gegner",
+      "decision": "Der Radiobericht verzichtet auf den Gegnernamen."
+    },
+    {
+      "first": "qs-main-donau-schiffsroute",
+      "second": "qs-donau-schwarzmeer-delta",
+      "decision": "Die Kanalfrage nennt Bamberg und Kelheim als Endpunkte. Das Zielmeer kommt in dieser Frage nicht mehr vor."
+    },
+    {
+      "first": "qs-feldhase-sasse-tarnung",
+      "second": "qs-strauss-flucht",
+      "replacement": "qs-feldhase-hakenschlagen",
+      "decision": "Die Feldhasenfrage behandelt jetzt die Richtungswechsel auf der Flucht."
+    }
+  ]
+}

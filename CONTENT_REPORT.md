@@ -1,4 +1,23 @@
-# Fragenbestand · de-7363fcba52a1
+# Deutscher Fragenbestand · 0.2.0
+
+Der Katalog `de-03c46c2cd256` umfasst 1.200 aktive Fragen zu 1.200 Sachverhalten. 1.048 stammen aus der vorherigen Ausgabe, 152 sind neu. Alle 150 Referenzfragen haben ihre ursprüngliche ID und Bedeutung. Je Kategorie gelten weiter 120 leichte, 60 mittlere und 20 anspruchsvolle Fragen. Die Schwierigkeitsstufen sind redaktionelle Einschätzungen. [Manifest](web/data/manifest.json) · [Einzelvergleich mit der ausgelieferten Vorversion](release/qa/fragenpool/inhaltsabgleich.json)
+
+| Kategorie | Neue Sachverhalte | Beispiele |
+| --- | ---: | --- |
+| Film, Musik und Fernsehen | 48 | Peter Lustigs Bauwagen, die Bundesliga-Konferenz im Radio und die Handlung von *Good Bye, Lenin!* |
+| Länder und Reisen | 40 | Spreewaldfließe, Warften auf den Halligen und die Verbindung über den Öresund |
+| Alltag und Technik | 20 | Blindbacken, Nabenschaltung und das Funktionsprinzip einer Gartenschere |
+| Geschichte und Entdeckungen | 16 | Frauenfußball im DFB, Geisterbahnhöfe im geteilten Berlin und der erste Walkman |
+| Sprache und Kultur | 16 | Rochade, Skat, Redewendungen und Osterreiten in der Oberlausitz |
+| Natur und Tiere | 12 | Kletterverhalten des Kleibers, Seebrise und Kaltluft im Obstgarten |
+
+Alle aktiven Fragen haben ein Hauptunterthema und eine Frageform. Die Redaktion zählt 1.007 Fragen zum Wiedererkennen, 132 zum Herleiten, 45 zum Vergleichen und 16 zum zeitlichen Einordnen. 134 Fragen tragen das Merkmal „Damals und heute“, 25 ein Ablaufdatum. Die aktiven Einträge verweisen auf 808 unterschiedliche Quellenadressen. Der Regie-Oscar für *Casablanca* steht jetzt auf „anspruchsvoll“. Bei jeder angepassten Einstufung ist der Grund festgehalten. [Themen, Formen und Einstufungen](release/qa/fragenpool/inhaltsabgleich.json) · [152 Austauschpaare](release/qa/fragenpool/austausch.json)
+
+Für die neuen Fragen wurden Originalquellen geöffnet und die fertigen Karten in einem zweiten Durchgang redaktionell geprüft. Die 1.048 übernommenen Karten wurden mit der belegten Vorrevision verglichen. Wortlaut, Antworten, Lösung, Erklärung, Quellen und semantische Revision stimmen überein. Die neue Datenrevision dokumentiert die Einordnung. Die ursprünglichen Quellenabrufe behalten ihr tatsächliches Datum. Die Prüfungen wurden von Agenten durchgeführt. [Unterhaltung](content/culture/evidence/2026-11-unterhaltung-pruefung.json) · [Reisen](content/science/pruefung/2026-11-reisen-belege.json) · [Natur](content/science/pruefung/2026-11-natur-belege.json) · [Alltag](content/science/2026-11-alltag.json) · [Geschichte](content/culture/2026-11-geschichte.json) · [Sprache](content/culture/2026-11-sprache.json)
+
+Der letzte Dublettenabgleich meldete 29 mögliche Überschneidungen. Jede Entscheidung ist mit beiden IDs dokumentiert. Im Entwurf verriet die Radiokarte über Bern den Gegner der deutschen Elf. Diese Angabe wurde entfernt. Die Kanalfrage nennt jetzt Bamberg und Kelheim und lässt das Mündungsmeer der Donau offen. Die Feldhasenkarte behandelt das Hakenschlagen auf der Flucht. [Kandidaten](docs/content-similarities.json) · [Begründete Entscheidungen](release/qa/fragenpool/dublettenentscheidungen.json)
+
+## Archiv · Ausgangsbestand de-7363fcba52a1 vom 20. November 2026
 
 Der lokale Vollbestand enthält **1.200 freigegebene Fragen zu 1.200 unterschiedlichen fact_key-Werten**. Jede Frage hat vier verschiedene Antwortmöglichkeiten, genau einen Lösungsschlüssel, eine Erklärung und einen überprüften Quellenverweis. Die Einzelfreigaben erfolgten durch Agenten in getrennten Sach- und Redaktionsdurchgängen. Für die Zielgruppenerprobung liegen **0 menschliche Beobachtungen** vor.
 

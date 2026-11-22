@@ -1,5 +1,11 @@
 # Quizsalon · Roadmap und Nachweise
 
+## Fragenpool 0.2.0
+
+Die sechs deutschen Kategorien enthalten zusammen 152 neue Sachverhalte. Alle 150 Referenzfragen sind weiter aktiv. Die veränderte Auswahl ist mit dem alten Algorithmus auf altem und neuem Bestand verglichen. Die einzelnen Arbeitspakete und Abnahmen werden im fortgeführten Fragenpoolplan abgehakt. Englisch ist dort als eigenes späteres Paket geführt. [Arbeitspakete mit Checkboxen](UMSETZUNGSPLAN_FRAGENPOOL.md) · [Inhaltsabgleich](release/qa/fragenpool/inhaltsabgleich.json) · [Auswahlmessung](release/qa/fragenpool/auswahlvergleich.json)
+
+## Aufbau der Grundversion
+
 | Phase | Aufgabe | Status | Nachweis oder externe Abhängigkeit |
 | --- | --- | --- | --- |
 | 0 | Repository prüfen, Produktregeln und Architektur festhalten | done | Fünf Markdown-Anhänge, kein vorhandener Code und keine AGENTS.md. Regeln aus dem vorliegenden Text rekonstruiert. Siehe DECISIONS.md und specs/. |

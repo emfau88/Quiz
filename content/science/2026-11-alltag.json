@@ -1,0 +1,1592 @@
+[
+  {
+    "id": "qs-b4-waschmittel-wasserhaerte",
+    "fact_key": "bulk4.waschmittel.wasserhaerte",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Zwei Waschmaschinen sind gleich beladen, die Wäsche ist gleich schmutzig. Bei welcher Wasserhärte reicht die kleinste Waschmitteldosis?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Bei jeder Härte gleich viel"
+      },
+      {
+        "id": "b",
+        "text": "Bei weichem Wasser"
+      },
+      {
+        "id": "c",
+        "text": "Bei mittelhartem Wasser"
+      },
+      {
+        "id": "d",
+        "text": "Bei hartem Wasser"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Die Dosiertabelle auf der Packung berücksichtigt neben Wäschemenge und Verschmutzung auch die Wasserhärte. Weiches Wasser braucht die kleinste Dosis.",
+    "tags": [
+      "thema_haushalt",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Umweltbundesamt – Klimabewusstes Wäschewaschen",
+        "url": "https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/haushalt-wohnen/waesche-waschen-waschmittel",
+        "locator": "Abschnitt „Auf Wasserhärte achten“",
+        "verified_claim": "Das Umweltbundesamt nennt für weiches Wasser die geringste Waschmittelmenge und empfiehlt, Härte und Verschmutzung bei der Dosierung zu berücksichtigen.",
+        "checked_at": "2026-11-22T18:26:26Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Das Umweltbundesamt nennt für weiches Wasser die geringste Waschmittelmenge und empfiehlt, Härte und Verschmutzung bei der Dosierung zu berücksichtigen."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Beladung und der Verschmutzungsgrad sind festgelegt. Alle vier Möglichkeiten betreffen dieselbe Dosierentscheidung."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-glas-gabel",
+    "fact_key": "bulk4.glas.gabel",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Auf einer Vorratsdose sind ein Glas und eine Gabel abgebildet. Wofür steht dieses Zeichen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Für den Kontakt mit Lebensmitteln"
+      },
+      {
+        "id": "b",
+        "text": "Für die Reinigung im Geschirrspüler"
+      },
+      {
+        "id": "c",
+        "text": "Für das Erwärmen in der Mikrowelle"
+      },
+      {
+        "id": "d",
+        "text": "Für das Einfrieren von Speisen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Glas und Gabel kennzeichnen Material, das mit Lebensmitteln in Berührung kommen darf. Für andere Eigenschaften einer Dose gibt es eigene Hinweise.",
+    "tags": [
+      "thema_haushalt",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Verbraucherzentrale – Symbole auf Küchenutensilien",
+        "url": "https://www.verbraucherzentrale.de/wissen/lebensmittel/lebensmittelproduktion/kennzeichnung-von-materialien-die-mit-lebensmitteln-in-beruehrung-kommen-7565",
+        "locator": "Übersicht „Glas-Gabel-Symbol“, darunter die Tabelle mit den Zeichen",
+        "verified_claim": "Die Verbraucherzentrale beschreibt das Zeichen als Kennzeichnung der Eignung für Lebensmittelkontakt und unterscheidet davon Geräte- und Temperaturzeichen.",
+        "checked_at": "2026-11-22T18:26:25Z"
+      },
+      {
+        "id": "s2",
+        "title": "EUR-Lex – Verordnung (EG) Nr. 1935/2004",
+        "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=celex%3A32004R1935",
+        "locator": "Artikel 15 Absatz 1 Buchstabe a und Anhang II",
+        "verified_claim": "Für Gegenstände mit Lebensmittelkontakt kann das in Anhang II dargestellte Symbol verwendet werden.",
+        "checked_at": "2026-11-22T18:39:27Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:27Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Verbraucherzentrale beschreibt das Zeichen als Kennzeichnung der Eignung für Lebensmittelkontakt und unterscheidet davon Geräte- und Temperaturzeichen."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die drei Ablenker sind weitere plausible Eigenschaften derselben Dose. Das Piktogramm steht eindeutig für den Kontakt mit Lebensmitteln."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-einkochglas-unterdruck",
+    "fact_key": "bulk4.einkochglas.unterdruck",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Ein Einkochglas kühlt nach dem Erhitzen ab. Was hält den intakten Deckel anschließend auch ohne Klammer fest auf dem Rand?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der höhere Dampfdruck unter dem Deckel"
+      },
+      {
+        "id": "b",
+        "text": "Die Klebekraft des zuvor erhitzten Gummirings"
+      },
+      {
+        "id": "c",
+        "text": "Die Ausdehnung des Glases beim Abkühlen"
+      },
+      {
+        "id": "d",
+        "text": "Der höhere Luftdruck außerhalb des Glases"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Beim Abkühlen sinkt der Druck im verschlossenen Glas. Die Außenluft drückt den Deckel auf die Dichtung. So hält er auch nach dem Abnehmen der Klammern.",
+    "tags": [
+      "thema_haushalt",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Leifheit – Fragen und Antworten zum Einkochen",
+        "url": "https://www.leifheit.de/de-de/aktuelles/meingemachtes/faqs",
+        "locator": "FAQ zum Einkochen, Erläuterung des Unterdrucks bei Gläsern mit Gummiring",
+        "verified_claim": "Leifheit erläutert, wie das Entweichen von heißer Luft und Dampf und das anschließende Abkühlen einen Unterdruck erzeugen, der den Deckel hält.",
+        "checked_at": "2026-11-22T18:26:31Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Leifheit erläutert, wie das Entweichen von heißer Luft und Dampf und das anschließende Abkühlen einen Unterdruck erzeugen, der den Deckel hält."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Frage gilt nach dem Abkühlen und ohne Klammer. Überdruck während des Erhitzens ist dadurch als andere Phase erkennbar."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-blindbacken",
+    "fact_key": "bulk4.blindbacken",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Vor dem Blindbacken kommen Backpapier und trockene Erbsen auf einen Tarteboden. Welche Aufgabe übernehmen die Erbsen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie versorgen die Oberfläche mit Feuchtigkeit."
+      },
+      {
+        "id": "b",
+        "text": "Sie halten den Boden in der Form warm."
+      },
+      {
+        "id": "c",
+        "text": "Sie beschweren den Teig beim Backen."
+      },
+      {
+        "id": "d",
+        "text": "Sie geben Stärke an die Teigoberfläche ab."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Erbsen drücken das Backpapier an und halten den Boden flach. Nach dem Vorbacken werden Papier und Erbsen herausgehoben, damit Platz für die Füllung ist.",
+    "tags": [
+      "thema_haushalt",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Dr. Oetker – Blindbacken",
+        "url": "https://www.oetker.de/inspiration/tipps-tricks/t/blindbacken",
+        "locator": "„Was brauche ich zum Blindbacken?“ und Hinweis zur Beschwerung",
+        "verified_claim": "Dr. Oetker nennt getrocknete Hülsenfrüchte als Beschwerung, damit sich der Teig beim Blindbacken nicht aufbläht.",
+        "checked_at": "2026-11-22T18:27:15Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Dr. Oetker nennt getrocknete Hülsenfrüchte als Beschwerung, damit sich der Teig beim Blindbacken nicht aufbläht."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Erbsen liegen auf Backpapier. Gewicht, Wärme, Feuchtigkeit und Stärkefreisetzung sind als mögliche Aufgaben gegeneinander geprüft."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-hefeteig-zweite-ruhe",
+    "fact_key": "bulk4.hefeteig.zweite.ruhe",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Ein Hefezopf wird nach der ersten Gehzeit geflochten. Warum lässt man ihn vor dem Backen noch einmal gehen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Damit der Teig seine eingeschlossene Luft abgibt."
+      },
+      {
+        "id": "b",
+        "text": "Damit sich zusammengedrückte Poren wieder vergrößern."
+      },
+      {
+        "id": "c",
+        "text": "Damit der Teig möglichst viel Wasser verdunstet."
+      },
+      {
+        "id": "d",
+        "text": "Damit sich die Mehlschicht außen bereits festigt."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Beim Flechten drückt man die Gasbläschen zusammen. Während der zweiten Ruhezeit gewinnt der geformte Teig wieder Volumen, und der Zopf wird lockerer.",
+    "tags": [
+      "thema_haushalt",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Dr. Oetker – Hefeteig und die zweite Gehzeit",
+        "url": "https://www.oetker.de/inspiration/tipps-tricks/t/hefeteig-so-geht-er-perfekt-auf",
+        "locator": "Antwort auf die Frage nach der zweiten Gehzeit",
+        "verified_claim": "Dr. Oetker erklärt die zweite Gehzeit mit den beim Formen zusammengedrückten Gasbläschen und dem anschließenden Volumenzuwachs.",
+        "checked_at": "2026-11-22T18:27:12Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Dr. Oetker erklärt die zweite Gehzeit mit den beim Formen zusammengedrückten Gasbläschen und dem anschließenden Volumenzuwachs."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die erste Ruhe und das anschließende Flechten sind benannt. Beim zweiten Gehen ist die erneute Volumenzunahme die gesuchte Wirkung."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-schnellkochtopf-siedepunkt",
+    "fact_key": "bulk4.schnellkochtopf.siedepunkt",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Warum kann Wasser im geschlossenen Schnellkochtopf beim Kochen heißer werden als im offenen Topf daneben?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Der höhere Druck hebt den Siedepunkt an."
+      },
+      {
+        "id": "b",
+        "text": "Der höhere Druck senkt den Siedepunkt ab."
+      },
+      {
+        "id": "c",
+        "text": "Das Ventil senkt den Druck unter den der Raumluft."
+      },
+      {
+        "id": "d",
+        "text": "Das Ventil gleicht den Innendruck laufend an die Raumluft an."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Im geschlossenen Topf baut sich beim Erhitzen Überdruck auf. Bei diesem Druck siedet Wasser erst oberhalb von 100 Grad Celsius, und Speisen können schneller garen.",
+    "tags": [
+      "thema_haushalt",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Fissler – Kochen im Schnellkochtopf",
+        "url": "https://fissler.com/blogs/produktwissen/kochen-im-schnellkochtopf",
+        "locator": "„So entsteht die Temperaturerhöhung“, Erläuterung zum Überdruck",
+        "verified_claim": "Fissler erklärt den höheren Siedepunkt und die höhere Gartemperatur mit dem im Topf aufgebauten Überdruck.",
+        "checked_at": "2026-11-22T18:27:21Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Fissler erklärt den höheren Siedepunkt und die höhere Gartemperatur mit dem im Topf aufgebauten Überdruck."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Der offene Vergleichstopf steht am gleichen Ort. Die Optionen trennen steigenden und sinkenden Siedepunkt sowie die Rolle des Ventils."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-salatschleuder",
+    "fact_key": "bulk4.salatschleuder",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Wodurch trennt eine handbetriebene Salatschleuder Tropfen von den gewaschenen Blättern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Durch einen Unterdruck unter dem Deckel"
+      },
+      {
+        "id": "b",
+        "text": "Durch warme Luft zwischen den Blättern"
+      },
+      {
+        "id": "c",
+        "text": "Durch das Zusammenpressen im Innenkorb"
+      },
+      {
+        "id": "d",
+        "text": "Durch das schnelle Drehen des Innenkorbs"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Wenn der Korb rotiert, löst sich Wasser von den Blättern. Es läuft durch die Öffnungen in die äußere Schüssel und lässt sich anschließend abgießen.",
+    "tags": [
+      "thema_haushalt",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "OXO – How We Designed the Salad Spinner",
+        "url": "https://www.oxo.com/blog/behind-the-scenes/designed-salad-spinner",
+        "locator": "OXO Designgeschichte, Absatz zur Drehgeschwindigkeit und den Wassertropfen",
+        "verified_claim": "Der Hersteller beschreibt den rotierenden perforierten Korb und die für die Ablösung der Wassertropfen erforderliche Schleuderwirkung.",
+        "checked_at": "2026-11-22T18:27:13Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der Hersteller beschreibt den rotierenden perforierten Korb und die für die Ablösung der Wassertropfen erforderliche Schleuderwirkung."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die handbetriebene Schleuder grenzt die Auswahl auf den beschriebenen Vorgang ein. Wärme, Druck und Pressen sind andere Trennverfahren."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-herd-energielabel",
+    "fact_key": "bulk4.herd.energielabel",
+    "category": "everyday_technology",
+    "difficulty": "hard",
+    "question": "Ein Elektroherd vereint Kochfeld und Backofen. Auf welchen Teil des Geräts bezieht sich die Verbrauchsangabe pro Standardvorgang auf dem EU-Energielabel?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auf die größte einzelne Kochzone"
+      },
+      {
+        "id": "b",
+        "text": "Auf Kochfeld und Backofen zusammen"
+      },
+      {
+        "id": "c",
+        "text": "Auf den Garraum des Backofens"
+      },
+      {
+        "id": "d",
+        "text": "Auf alle Kochzonen zusammen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Energieangaben beziehen sich auf die Backröhre. Auch bei einem Herd aus einem Stück lässt sich daraus der Verbrauch des Kochfelds nicht ablesen.",
+    "tags": [
+      "thema_haushalt",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Verbraucherzentrale – Backofen, Kauf und Nutzung",
+        "url": "https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/backofen-darauf-sollten-sie-bei-kauf-und-nutzung-achten-46197",
+        "locator": "Abschnitt zum EU-Energielabel; Absatz „Kochfelder und Backofen werden oft als Herd in einem Gerät gekauft“",
+        "verified_claim": "Die Verbraucherzentrale grenzt die Energieangaben für die Backröhre ausdrücklich vom Verbrauch des Kochfelds ab.",
+        "checked_at": "2026-11-22T18:26:28Z"
+      },
+      {
+        "id": "s2",
+        "title": "Europäische Kommission – Domestic Ovens",
+        "url": "https://energy-efficient-products.ec.europa.eu/product-list/domestic-ovens_en",
+        "locator": "Abschnitt „Energy Label“, Angabe je Garraum („each cavity“)",
+        "verified_claim": "Die Kennzeichnung bezieht sich bei Haushaltsbacköfen auf jeden einzelnen Garraum.",
+        "checked_at": "2026-11-22T18:39:27Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:27Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Verbraucherzentrale grenzt die Energieangaben für die Backröhre ausdrücklich vom Verbrauch des Kochfelds ab."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Der verräterische Hinweis „für Backöfen“ wurde aus der Frage genommen. Die vier Bezugsgrößen schließen sich für das einzelne Label aus."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-fahrrad-nabenschaltung",
+    "fact_key": "bulk4.fahrrad.nabenschaltung",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Das Fahrrad steht an der roten Ampel. Wie lässt sich bei vielen Nabenschaltungen vor dem Anfahren ein kleinerer Gang wählen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Man muss dazu das Hinterrad anheben und von Hand drehen."
+      },
+      {
+        "id": "b",
+        "text": "Man kann schon im Stand den Schalthebel betätigen."
+      },
+      {
+        "id": "c",
+        "text": "Man muss dabei eine Pedalumdrehung rückwärts treten."
+      },
+      {
+        "id": "d",
+        "text": "Man muss erst beim Anrollen die Kette in Bewegung bringen."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "In der Hinterradnabe sitzt ein Getriebe. Bei vielen solcher Schaltungen lässt sich ein kleinerer Gang schon vor dem Anfahren wählen. So steht er beim ersten Tritt bereit.",
+    "tags": [
+      "thema_sporttechnik",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "ADFC – Nabenschaltungen am Fahrrad",
+        "url": "https://www.adfc.de/artikel/nabenschaltungen-am-fahrrad",
+        "locator": "ADFC, Übersicht zu Vorteilen der Nabenschaltung und Abschnitt zum Schalten",
+        "verified_claim": "Der ADFC führt das Schalten im Stand als Vorteil auf und beschreibt das Schaltgetriebe in der Nabe.",
+        "checked_at": "2026-11-22T18:27:20Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der ADFC führt das Schalten im Stand als Vorteil auf und beschreibt das Schaltgetriebe in der Nabe."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Antwortmöglichkeiten beschreiben vier Handgriffe vor dem Anfahren. „Bei vielen“ vermeidet eine Behauptung über jedes Nabenmodell."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-fahrrad-dichtmilch",
+    "fact_key": "bulk4.fahrrad.dichtmilch",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Ein Dorn hinterlässt ein kleines Loch in einem schlauchlosen Fahrradreifen. Wozu dient die dafür eingefüllte Flüssigkeit?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie verschließt die kleine Einstichstelle."
+      },
+      {
+        "id": "b",
+        "text": "Sie legt eine gleitfähige Schicht zwischen Reifen und Felge."
+      },
+      {
+        "id": "c",
+        "text": "Sie füllt den Reifen bei Luftverlust mit Gas auf."
+      },
+      {
+        "id": "d",
+        "text": "Sie löst den Fremdkörper aus dem Gummi."
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Die Flüssigkeit kann kleine Löcher in der Reifenhülle abdichten. Ein großer Schnitt verlangt meist eine andere Reparatur.",
+    "tags": [
+      "thema_sporttechnik",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Schwalbe – Technik-FAQ Tubeless",
+        "url": "https://www.schwalbe.com/service/technik-faq/tubeless/",
+        "locator": "Schwalbe Technik-FAQ, „Warum braucht man Dichtmilch?“ und Abschnitt zu Einstichen und groben Verletzungen",
+        "verified_claim": "Schwalbe beschreibt das selbsttätige Abdichten kleiner Einstiche und grenzt die Wirkung bei größeren Beschädigungen ein.",
+        "checked_at": "2026-11-22T18:26:29Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Schwalbe beschreibt das selbsttätige Abdichten kleiner Einstiche und grenzt die Wirkung bei größeren Beschädigungen ein."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Frage nennt das Wort Dichtmilch nicht vorab. Ein kleiner Einstich ist ausdrücklich von der in der Erklärung genannten Schnittverletzung unterschieden."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-bahnrad-starre-nabe",
+    "fact_key": "bulk4.bahnrad.starre.nabe",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Ein Bahnrad hat einen starren Gang. Was tun die Pedale, solange das Hinterrad vorwärts rollt und die Kette aufliegt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie bleiben bei gleichem Tempo stehen."
+      },
+      {
+        "id": "b",
+        "text": "Sie drehen sich nur beim Beschleunigen."
+      },
+      {
+        "id": "c",
+        "text": "Sie drehen sich nur oberhalb der Schrittgeschwindigkeit."
+      },
+      {
+        "id": "d",
+        "text": "Sie drehen sich zwangsläufig weiter."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Beim starren Gang ist das hintere Ritzel fest mit dem Rad verbunden. Die Kette überträgt die Drehung daher auch vom rollenden Rad auf die Kurbeln.",
+    "tags": [
+      "thema_sporttechnik",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "USA Cycling – Rule Book, August 2025",
+        "url": "https://assets.usacycling.org/prod/documents/USACycling_RuleBook_8_2025.pdf",
+        "locator": "USA Cycling Rule Book, Kapitel 1, Abschnitt 13 „Bicycle Types“, Absatz (a), S. 33",
+        "verified_claim": "Der US-Verband beschreibt das für Bahnrennen typische einzelne feststehende Ritzel. Bei einem starren Antrieb verbindet die Kette das rollende Rad mit den Kurbeln.",
+        "checked_at": "2026-11-22T18:31:10Z"
+      },
+      {
+        "id": "s2",
+        "title": "Union Cycliste Internationale – Seven steps in the pursuit of speed",
+        "url": "https://www.uci.org/article/seven-steps-in-the-pursuit-of-speed/3LsvJAfePeRu6M9qJieNah",
+        "locator": "Abschnitt über das Bahnrad und die Trittfrequenz",
+        "verified_claim": "Der Weltverband beschreibt den starren Antrieb und die Abhängigkeit der Fahrgeschwindigkeit von der Trittfrequenz.",
+        "checked_at": "2026-11-22T18:37:37Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der US-Verband beschreibt das für Bahnrennen typische einzelne feststehende Ritzel. Bei einem starren Antrieb verbindet die Kette das rollende Rad mit den Kurbeln."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1",
+          "s2"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die feste Kraftübertragung setzt eine aufliegende Kette voraus. Die zeitlichen Ablenker beschreiben getrennte Möglichkeiten für die Pedalbewegung."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-curling-wischen",
+    "fact_key": "bulk4.curling.wischen",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Welche Wirkung kann kräftiges Wischen vor einem gleitenden Curlingstein haben?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er bleibt früher liegen und beschreibt einen flacheren Bogen."
+      },
+      {
+        "id": "b",
+        "text": "Er bleibt früher liegen und beschreibt einen engeren Bogen."
+      },
+      {
+        "id": "c",
+        "text": "Er läuft weiter und beschreibt einen flacheren Bogen."
+      },
+      {
+        "id": "d",
+        "text": "Er läuft weiter und beschreibt einen engeren Bogen."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Die Besen bearbeiten das Eis auf der vorgesehenen Bahn. Gutes Wischen kann dem Stein zusätzliche Strecke geben und seine seitliche Krümmung verringern.",
+    "tags": [
+      "thema_sporttechnik",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "World Curling – What Is Curling?",
+        "url": "https://worldcurling.org/about/curling/",
+        "locator": "World Curling, „What is curling?“, Abschnitt „Sweeping“",
+        "verified_claim": "Der Weltverband beschreibt die größere erreichbare Weite und die geringere seitliche Krümmung beim Wischen.",
+        "checked_at": "2026-11-22T18:26:29Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der Weltverband beschreibt die größere erreichbare Weite und die geringere seitliche Krümmung beim Wischen."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die vier Kombinationen aus Weglänge und Kurvenkrümmung sind vollständig. Das Wort „kann“ trägt der Stärke des Wischens Rechnung."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-golfball-dellen",
+    "fact_key": "bulk4.golfball.dellen",
+    "category": "everyday_technology",
+    "difficulty": "hard",
+    "question": "Wodurch können die kleinen Dellen eines Golfballs bei einem Abschlag den Luftwiderstand verringern?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie verkleinern die Stirnfläche des Balls."
+      },
+      {
+        "id": "b",
+        "text": "Sie erzeugen kleine Verwirbelungen am Ball."
+      },
+      {
+        "id": "c",
+        "text": "Sie halten die Luft am Ball völlig frei von Wirbeln."
+      },
+      {
+        "id": "d",
+        "text": "Sie leiten Luft durch das Innere des Balls."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "An den Vertiefungen verwirbelt die vorbeiströmende Luft. Das kann den Luftwiderstand des Balls im Flug verringern. Die feinen Dellen heißen auch Dimples.",
+    "tags": [
+      "thema_sporttechnik",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "USGA – Science of Golf, Aerodynamics",
+        "url": "https://www.usga.org/content/dam/usga/pdf/science-of-golf/middle-school/The%20Ball/aerodynamics_full_toolkit_MS.pdf",
+        "locator": "USGA, Science of Golf, „Key Concepts – Aerodynamics“, Einträge „Dimples“ und „Drag“",
+        "verified_claim": "Die USGA erklärt, dass die Dellen die Strömung verändern und der Ball durch den geringeren Luftwiderstand weiter fliegen kann.",
+        "checked_at": "2026-11-22T18:29:59Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die USGA erklärt, dass die Dellen die Strömung verändern und der Ball durch den geringeren Luftwiderstand weiter fliegen kann."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Vier mögliche Wirkungen auf die Luft um den Ball stehen zur Wahl. Die Quelle erklärt das Wechselspiel von Verwirbelung und Widerstand."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-badminton-netzmitte",
+    "fact_key": "bulk4.badminton.netzmitte",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Man peilt beim Badminton an der oberen Netzkante entlang. Wo liegt sie beim vorschriftsmäßig gespannten Netz am niedrigsten?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In der Mitte zwischen den Pfosten"
+      },
+      {
+        "id": "b",
+        "text": "Unmittelbar am linken Pfosten"
+      },
+      {
+        "id": "c",
+        "text": "Unmittelbar am rechten Pfosten"
+      },
+      {
+        "id": "d",
+        "text": "Auf der ganzen Breite gleich hoch"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Das Spannseil hängt etwas durch. An den Seiten misst die Netzkante 1,55 Meter, in der Mitte rund 1,52 Meter.",
+    "tags": [
+      "thema_sporttechnik",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Deutscher Badminton-Verband – Spielregeln und Maße des Badmintonfelds",
+        "url": "https://www.badminton.de/der-dbv/satzung-ordnungen-und-spielregeln/",
+        "locator": "DBV, „Das Badmintonfeld mit Maßen und Benennungen“, Absatz „Netz“",
+        "verified_claim": "Der Deutsche Badminton-Verband nennt 1,55 Meter außen und 1,524 Meter in der Mitte und erklärt den Unterschied mit dem durchhängenden Spannseil.",
+        "checked_at": "2026-11-22T18:30:02Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der Deutsche Badminton-Verband nennt 1,55 Meter außen und 1,524 Meter in der Mitte und erklärt den Unterschied mit dem durchhängenden Spannseil."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Positionen lassen sich vergleichen, ohne Millimeter auswendig zu kennen. Die Erklärung rundet nur die Höhe in der Netzmitte."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-gartenschere-bypass",
+    "fact_key": "bulk4.gartenschere.bypass",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Woran erkennt man beim Schließen einer Gartenschere das Bypass-Prinzip?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Eine einzelne Klinge trifft auf eine flache Auflage."
+      },
+      {
+        "id": "b",
+        "text": "Zwei Schneiden treffen Kante auf Kante zusammen."
+      },
+      {
+        "id": "c",
+        "text": "Ein Rundmesser rollt über eine Gegenfläche."
+      },
+      {
+        "id": "d",
+        "text": "Die beiden Klingen gleiten aneinander vorbei."
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Das Vorbeigleiten ergibt einen sauberen Schnitt an frischen Trieben. Bei einer Amboss-Schere trifft die Klinge auf eine feste Gegenfläche.",
+    "tags": [
+      "thema_garten",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GARDENA – Vergleich von Bypass- und Amboss-Scheren",
+        "url": "https://www.gardena.com/ch-de/c/entdecke/garteninspiration/gartenmagazin/unterschied-bypass-amboss-scheren",
+        "locator": "GARDENA, Vergleichstabelle „Prinzip“ und „Typische Einsatzbereiche“",
+        "verified_claim": "Die Herstellertabelle unterscheidet die aneinander vorbeigleitenden Bypass-Klingen von der Metallauflage einer Amboss-Schere.",
+        "checked_at": "2026-11-22T18:26:28Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Die Herstellertabelle unterscheidet die aneinander vorbeigleitenden Bypass-Klingen von der Metallauflage einer Amboss-Schere."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die vier Optionen beschreiben Schneidbewegungen. Besonders die Amboss-Alternative ist fachlich plausibel und klar vom Bypass-Prinzip getrennt."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-holzbohrer-kegelsenker",
+    "fact_key": "bulk4.holzbohrer.kegelsenker",
+    "category": "everyday_technology",
+    "difficulty": "medium",
+    "question": "Ein Holzbohrer trägt zusätzlich einen Kegelsenker. Welche zwei Arbeiten verbindet dieses Werkzeug?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ein Loch bohren und innen polieren"
+      },
+      {
+        "id": "b",
+        "text": "Ein Loch bohren und einen Dübel einpressen"
+      },
+      {
+        "id": "c",
+        "text": "Ein Loch bohren und seine Öffnung kegelig erweitern"
+      },
+      {
+        "id": "d",
+        "text": "Ein Loch bohren und ein Innengewinde schneiden"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Vorn bohrt die Spitze das Loch. Der breitere Senker schafft am Eingang eine konische Vertiefung, in der ein passender Senkkopf Platz findet.",
+    "tags": [
+      "thema_werkstatt",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Bosch DIY – Holzbohrer mit Kegelsenker",
+        "url": "https://www.bosch-diy.com/de/de/p/holzbohrer-mit-kegelsenker-2762982",
+        "locator": "Bosch DIY, „Holzbohrer mit Kegelsenker“, Merkmal „Bohren und Senken in einem Vorgang“",
+        "verified_claim": "Bosch bezeichnet das kombinierte Werkzeug als Holzbohrer mit Kegelsenker und beschreibt das Bohren und Senken in einem Arbeitsgang.",
+        "checked_at": "2026-11-22T18:26:25Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Bosch bezeichnet das kombinierte Werkzeug als Holzbohrer mit Kegelsenker und beschreibt das Bohren und Senken in einem Arbeitsgang."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Das Wort Kegelsenker führt zur Form der Öffnung. Gewindeschneiden, Polieren und Einpressen sind andere Bearbeitungsschritte."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-tropfbewaesserung",
+    "fact_key": "bulk4.tropfbewaesserung",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Wohin soll das Wasser bei einer Tropfbewässerung im Gemüsebeet vor allem gelangen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "In die Luft knapp über den Blättern"
+      },
+      {
+        "id": "b",
+        "text": "An die Erde im Wurzelbereich"
+      },
+      {
+        "id": "c",
+        "text": "Auf die Blattoberseiten im Beet"
+      },
+      {
+        "id": "d",
+        "text": "Auf die geöffneten Blüten"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Tropfstellen geben Wasser dort ab, wo eine Pflanze es über ihre Wurzeln aufnehmen kann. Auch einzelne Töpfe lassen sich so gezielt versorgen.",
+    "tags": [
+      "thema_garten",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GARDENA – Tropfbewässerung mit dem Micro-Drip-System",
+        "url": "https://www.gardena.com/de/c/entdecke/produkte/bewaesserung/micro-drip-system",
+        "locator": "GARDENA, „Tropfbewässerung mit Micro-Drip-System“, Einleitung und Tropfköpfe",
+        "verified_claim": "Der Hersteller beschreibt die Abgabe kleiner Wassermengen direkt an die Wurzel und den Einsatz im Beet und bei Kübelpflanzen.",
+        "checked_at": "2026-11-22T18:27:15Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der Hersteller beschreibt die Abgabe kleiner Wassermengen direkt an die Wurzel und den Einsatz im Beet und bei Kübelpflanzen."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Frage sucht den gewünschten Abgabeort im Gemüsebeet. Blatt, Blüte, Luft und Erde sind voneinander abgrenzbar."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-laubbesen-zinken",
+    "fact_key": "bulk4.laubbesen.zinken",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Ein breiter Fächerbesen soll zwischen zwei Stauden passen. Welche Einstellung hilft bei einem verstellbaren Modell?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Zinken enger zusammenrücken"
+      },
+      {
+        "id": "b",
+        "text": "Die Zinken weiter auffächern"
+      },
+      {
+        "id": "c",
+        "text": "Den Stiel am Griffende verlängern"
+      },
+      {
+        "id": "d",
+        "text": "Den Stiel am Griffende verkürzen"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Mit enger gestellten Zinken passt der Besen auch zwischen Pflanzen. Ein weiter aufgefächerter Kopf erfasst pro Zug einen breiteren Streifen.",
+    "tags": [
+      "thema_garten",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GARDENA – combisystem-Kunststoff-Verstellbesen",
+        "url": "https://www.gardena.com/de/produkte/beet-bodenbearbeitung/combisystem/combisystem-kunststoff-verstellbesen/970810901.html",
+        "locator": "GARDENA, „combisystem-Kunststoff-Verstellbesen“, Verstellung und Arbeitsbreite",
+        "verified_claim": "Der Hersteller gibt an, dass das Verstellen des Zinkenabstands die Arbeitsbreite verändert.",
+        "checked_at": "2026-11-22T18:27:15Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. Der Hersteller gibt an, dass das Verstellen des Zinkenabstands die Arbeitsbreite verändert."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Ausgangssituation mit den zwei Stauden macht die verstellbare Arbeitsbreite anschaulich. Stiellänge und Zinkenabstand werden getrennt."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-rasen-vertikutieren",
+    "fact_key": "bulk4.rasen.vertikutieren",
+    "category": "everyday_technology",
+    "difficulty": "easy",
+    "question": "Welche Schicht soll ein Vertikutierer mit seinen flach arbeitenden Messern aus dem Rasen lösen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Wurzelschicht eines gesunden Rasens"
+      },
+      {
+        "id": "b",
+        "text": "Die tragende Erdschicht unter den Wurzeln"
+      },
+      {
+        "id": "c",
+        "text": "Die mineralische Drainageschicht im Untergrund"
+      },
+      {
+        "id": "d",
+        "text": "Den Filz zwischen den Grashalmen"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Messer lockern den Rasenfilz, sodass sich die herausgelösten Reste auffangen oder abharken lassen. Zu tiefe Schnitte können die Graswurzeln verletzen.",
+    "tags": [
+      "thema_garten",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "GARDENA – Rasen vertikutieren",
+        "url": "https://www.gardena.com/de/c/entdecke/garteninspiration/gartenmagazin/rasen-vertikutieren",
+        "locator": "GARDENA, Anleitung zum Vertikutieren, Abschnitte zu Rasenfilz und Messertiefe",
+        "verified_claim": "GARDENA beschreibt das Entfernen von Rasenfilz durch flach eingestellte Messer und das anschließende Abharken oder Auffangen.",
+        "checked_at": "2026-11-22T18:27:19Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. GARDENA beschreibt das Entfernen von Rasenfilz durch flach eingestellte Messer und das anschließende Abharken oder Auffangen."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die vier Möglichkeiten sind Schichten im oder unter dem Rasen. Gesucht ist die zu entfernende Filzschicht, nicht die gewünschte Messertiefe."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-b4-wasserwaage-umschlag",
+    "fact_key": "bulk4.wasserwaage.umschlag",
+    "category": "everyday_technology",
+    "difficulty": "hard",
+    "question": "Eine Wasserwaage liegt auf dem Tisch. Wie prüft man durch eine zweite Messung, ob ihre waagerechte Libelle verlässlich anzeigt?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Die Waage an derselben Stelle um einen rechten Winkel drehen"
+      },
+      {
+        "id": "b",
+        "text": "Die Waage an eine senkrechte Tischkante anlegen"
+      },
+      {
+        "id": "c",
+        "text": "Die Enden an derselben markierten Stelle vertauschen"
+      },
+      {
+        "id": "d",
+        "text": "Die Waage parallel auf eine andere Tischkante legen"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Für die Gegenprobe dreht man die Wasserwaage in der Ebene um eine halbe Umdrehung und legt sie wieder an die Markierung. Die beiden Anzeigen werden miteinander verglichen.",
+    "tags": [
+      "thema_werkstatt",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "STABILA – So prüfen Sie Ihre Wasserwaagen",
+        "url": "https://www.stabila.com/files/default/pdf/de/FAQ_Level-check_DE.pdf",
+        "locator": "STABILA, „So prüfen Sie Ihre Wasserwaagen“, PDF S. 1 „Überprüfung der Horizontal-Libelle“",
+        "verified_claim": "STABILA beschreibt die markierte Bezugslinie, die Drehung um 180 Grad und die zweite Ablesung an derselben Linie.",
+        "checked_at": "2026-11-22T18:27:14Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:38:29Z",
+        "note": "Lösung und Erklärung anhand der angegebenen Fundstelle geprüft. STABILA beschreibt die markierte Bezugslinie, die Drehung um 180 Grad und die zweite Ablesung an derselben Linie."
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex – Quizsalon-Inhaltsredaktion",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:41:15Z",
+        "note": "Die Gegenprobe benutzt dieselbe Bezugslinie. Ein anderer Ort oder eine Vierteldrehung würde eine andere Neigung prüfen."
+      },
+      "approved_by": "Codex – Quizsalon-Inhaltsredaktion",
+      "approved_at": "2026-11-22T18:41:15Z",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

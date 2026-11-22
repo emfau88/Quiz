@@ -1,0 +1,21 @@
+INSTRUMENTATION_RESULT: stream=
+PASS SQLite-Migration 1 zu 2 mit bestehendem Stand
+PASS Falsche Datenrevision wird abgewiesen
+PASS Großer, gültiger Spielstand wird vollständig geschrieben
+PASS Zweiter Commit derselben Revision bleibt wirkungslos
+PASS Neustart erhält mehr als 2 MB und Unicode über Chunkgrenzen
+PASS Installationskennung bleibt bei Neustart stabil
+PASS PKCS1-Belegsignaturen und Play-Originaldaten geprüft
+PASS Falsches Paket, Produkt und leerer Token abgewiesen
+PASS Veränderter Beleg oder fehlender Schlüssel gewährt kein Plus
+PASS Ausstehende Zahlung ohne Freischaltung
+PASS Bestätigter Übergang von pending zu purchased vorm Acknowledgement
+PASS Offline-Neulesen des AES-GCM-Caches mit Android Keystore
+PASS Partielles Ereignis ohne Kauf löscht keine Berechtigung
+PASS Wiederholtes Kaufereignis erhält Bestätigungs- und Abgleichstatus
+PASS Vollständiges leeres Inventar widerruft den Offlinekauf
+PASS Abgebrochene ausstehende Zahlung bleibt kostenlos
+PASS Erinnerung über Sommerzeitbeginn um lokale 09:15
+PASS Erinnerung über Winterzeitbeginn um lokale 09:15
+PASS Nach Reisen wird die eingestellte lokale Uhrzeit neu berechnet
+INSTRUMENTATION_CODE: -1

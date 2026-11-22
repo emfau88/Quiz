@@ -2,6 +2,8 @@
 
 Ein deutschsprachiges, lokal spielbares Tagesquiz für Browser und Android. Oberfläche und Spielregeln sind in HTML, CSS und JavaScript umgesetzt. Der Android-Host verwendet Java und die System-WebView.
 
+Die aktuelle Ausgabe **0.2.0** enthält 152 neue Sachverhalte innerhalb des 1.200er-Pools. Tages- und Themenrunden berücksichtigen jetzt die Unterthemen. Ein Update am selben Dateipfad im selben Browserprofil erhält bereits begonnene Runden. [Umsetzungsplan mit Nachweisen](UMSETZUNGSPLAN_FRAGENPOOL.md) · [Inhaltsbericht](CONTENT_REPORT.md)
+
 ## Direkt ausprobieren
 
 - Öffne die HTML-Datei per Doppelklick in Chrome oder Edge. Sie enthält Fragen, Bilder und Schriften. [Lokale HTML-Version](release/Quizsalon-Lokaltest.html)

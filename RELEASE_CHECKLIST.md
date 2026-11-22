@@ -1,5 +1,17 @@
 # Quizsalon · Release-Checkliste
 
+## Lokale Übergabe 0.2.0
+
+- [x] Deutsch, 1.200 aktive Sachverhalte, 152 Einzelaustausche, sechs Kategorien und alle 150 Referenzen nachgewiesen. [Katalogabgleich](release/qa/fragenpool/inhaltsabgleich.json)
+- [x] Sollmischung, Themenstreuung und beide Konzentrationsgrenzwerte am neuen Katalog nachgewiesen. [Vergleich](release/qa/fragenpool/auswahlvergleich.json)
+- [x] Eigenständige HTML-Datei mit bestehendem Browser-Spielstand offline aktualisiert und bis zum einmalig verbuchten Ergebnis geprüft. [Dateiupdate](release/qa/fragenpool/html-update.json)
+- [x] Beide APKs gebaut und installiert. Reguläre und lokale Zugangslogik sowie Signaturen und gebündelte Webdateien geprüft. [APK-Prüfung](release/android/artifacts.json) · [Update](release/qa/fragenpool/android-upgrade/android-ui.json)
+- [x] 3.600 Fragenlayouts ohne Textüberlauf. Echte TalkBack-Gesten über zehn Fragen bei 360 dp Breite und 150 Prozent Systemschrift bis zum Ergebnis nachgewiesen. [Korpuslayout](release/qa/korpus-layout.json) · [TalkBack-Protokoll](release/qa/fragenpool/android-talkback/talkback.txt)
+
+Die Beauftragung umfasst die lokale deutsche Fassung. Betreiberangaben, endgültiger Paketname, Signierung für den Store und der Nachweis echter Käufe bleiben Teil einer späteren Entscheidung. [Offene Veröffentlichungsvoraussetzungen](BLOCKERS.md)
+
+## Historische Abnahme der Grundversion
+
 Stand der lokalen Vollversion 0.1.0 mit dem Katalog de-7363fcba52a1. Ein Haken verweist auf den ausgeführten Nachweis. Offene kombinierte Gates nennen ihren bereits nachgewiesenen Teil. Die ursprüngliche, vollständige Prüfvorgabe liegt in docs/ABNAHME_UND_RELEASE.md.
 
 

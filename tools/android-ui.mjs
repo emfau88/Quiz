@@ -164,9 +164,9 @@ async function upgradeFlow(after) {
     await click('[data-action="begin-topic"][data-mode="trial"]');
     await click('button.answer');
     await exists('#feedback');
-    assert.equal(shipped.active,150);
+    assert.ok(shipped.reference_complete && shipped.active >= 150);
     writeFileSync(checkpoint,JSON.stringify({catalog:shipped.version,...await data()},null,2)+'\n');
-    passed('In der installierten Referenzfassung mit 150 Fragen eine Kennenlernrunde begonnen und einmal geantwortet');
+    passed('In der installierten Ausgangsfassung mit '+shipped.active+' Fragen eine Kennenlernrunde begonnen und einmal geantwortet');
   } else {
     const {catalog,...before}=JSON.parse(readFileSync(checkpoint,'utf8'));
     assert.ok(shipped.active >= 1200);
@@ -179,7 +179,7 @@ async function upgradeFlow(after) {
     assert.equal(resumed.cursor,1);
     report.catalogBefore=catalog;
     report.catalogAfter=shipped.version;
-    passed('Nach Installation des fertigen APK über die Referenzfassung sind offene Runde, Antworten, Fortschritt, Buchungen und Installationskennung identisch');
+    passed('Nach dem APK-Update sind offene Runde, Antworten, Fortschritt, Buchungen und Installationskennung identisch');
     passed('Die gespeicherte Erklärung blieb sichtbar. Weiter führt in derselben Kennenlernrunde zur zweiten Frage.');
   }
 }

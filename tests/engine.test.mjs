@@ -185,6 +185,48 @@ test('a new semantic revision starts its own history; typographic revision keeps
   assert.equal(statistics(g,{questions:[semantics],corrections:[]}).first.total,0);
   assert.equal(record(g,semantics,false,addDays(day,5)).first,true);
 });
+test('ordinary archival preserves the open snapshot, album, learning statistics and exactly one daily award',()=>{
+  const game=newGame(), session=start(game,fixture);
+  const savedCard=session.items[0].q, key=keyOf(savedCard);
+  respond(game,session,0,true);
+  game.awards[key]={day};
+  const rotated={...fixture,questions:fixture.questions.filter(q=>q.id!==savedCard.id),
+    archived:[{id:savedCard.id,semantic_revision:savedCard.semantic_revision}]};
+  const prior=copy(session);
+  applyCorrections(game,rotated);
+  assert.deepEqual(start(game,rotated),prior);
+  assert.equal(statistics(game,rotated).first.hits,1);
+  const card=collection(game,rotated)[0];
+  assert.deepEqual(card.q,savedCard);
+  assert.equal(card.corrected,false);
+  assert.equal(card.mastered,true);
+  finish(game,session,10);
+  const balance=experience(game).xp;
+  assert.equal(advance(game,session.id,9,time(day)),false);
+  assert.equal(experience(game).xp,balance);
+  assert.equal(Object.keys(game.ledger).length,1);
+  const next=start(game,rotated,addDays(day,1));
+  assert.ok(next.items.every(item=>item.q.id!==savedCard.id));
+  const corrected={...rotated,corrections:[{id:savedCard.id,semantic_revision:savedCard.semantic_revision,reason:'Fehler'}]};
+  applyCorrections(game,corrected);
+  assert.equal(collection(game,corrected).find(c=>c.id===savedCard.id).q,null);
+  assert.ok(!game.progress[key]);
+  assert.equal(experience(game).xp,balance);
+});
+test('small subtopic pools relax diversity while preserving difficulty, overdue order and reservations',()=>{
+  const sample={...fixture,questions:fixture.questions.map((q,i)=>({...q,tags:['thema_'+(i%2),'form_wiedererkennen']}))};
+  const game=newGame();
+  for (const [i,q] of sample.questions.slice(0,3).entries()) {
+    game.progress[keyOf(q)]={due:addDays(day,-(3-i)),lastDay:addDays(day,-10)};
+  }
+  const daily=start(game,sample);
+  assert.deepEqual(daily.items.filter(item=>item.kind==='due').map(item=>item.q.id).sort(),sample.questions.slice(0,2).map(q=>q.id).sort());
+  const topic=start(game,sample,day,{mode:'topic',category,entitled:true});
+  const reserved=new Set(daily.items.map(item=>item.q.fact_key));
+  assert.equal(topic.items.length,10);
+  assert.ok(topic.items.every(item=>!reserved.has(item.q.fact_key)));
+  assert.deepEqual(new Set(topic.items.map(item=>item.q.tags[0])),new Set(['thema_0','thema_1']));
+});
 test('experience thresholds and persisted v1 migrate without losing the current session',()=>{
   const g=newGame(),s=start(g),snap=copy(s);g.schema=1;delete g.awards;delete g.lastView;
   assert.deepEqual(migrate(g).sessions[s.id],snap);

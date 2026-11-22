@@ -114,6 +114,38 @@ def public_corrections(records):
     return entries
 
 
+def editorial_archive(records, replacements):
+    """Keep factual withdrawals and ordinary editorial rotation independent."""
+    by_id = {q["id"]: q for q in records}
+    unique([r["old_id"] for r in replacements], "Karte mehrfach ausgetauscht")
+    unique([r["new_id"] for r in replacements], "Ersatzkarte mehrfach verplant")
+    following = {r["old_id"]: r["new_id"] for r in replacements}
+    for pair in replacements:
+        old, new = by_id.get(pair["old_id"]), by_id.get(pair["new_id"])
+        require(old and new, f"Unbekannte Austausch-ID: {pair}")
+        require(not old.get("reference") and not old.get("starter"), f"Referenzkarte im Archiv: {old['id']}")
+        require(old["category"] == new["category"] and old["fact_key"] != new["fact_key"],
+                f"Unpassender Austausch: {old['id']}")
+        require(isinstance(pair["reason"], str) and pair["reason"].strip(), "Austauschgrund fehlt")
+        chain, current = set(), old["id"]
+        while current in following:
+            require(current not in chain, f"Zyklische Austauschliste: {current}")
+            chain.add(current)
+            current = following[current]
+    return [{"id": qid, "semantic_revision": by_id[qid]["semantic_revision"]} for qid in sorted(following)]
+
+
+FORMS = {"form_wiedererkennen", "form_herleiten", "form_vergleichen", "form_zeitlich_einordnen"}
+
+
+def verify_classification(q):
+    topics = [t for t in q["tags"] if t.startswith("thema_")]
+    forms = [t for t in q["tags"] if t.startswith("form_")]
+    require(len(topics) == 1 and re.fullmatch(r"thema_[a-z][a-z0-9_]*", topics[0]),
+            f"Genau ein Hauptunterthema erforderlich: {q['id']}")
+    require(len(forms) == 1 and forms[0] in FORMS, f"Genau eine bekannte Frageform erforderlich: {q['id']}")
+
+
 def build(stage, output, as_of, rules_path=None):
     rules = read(ROOT / "specs/product_rules.json")
     schema = read(ROOT / "specs/question.schema.json")
@@ -129,10 +161,13 @@ def build(stage, output, as_of, rules_path=None):
                 raise ValueError(f"{path.name} / {q.get('id', '?')}: {e}") from e
         all_rows.extend(batch)
     unique([q["id"] for q in all_rows], "doppelte redaktionelle Frage-ID")
+    replacements = [pair for path in sorted((ROOT / "content/rotation").glob("*/*.json")) for pair in read(path)]
+    archived = editorial_archive(all_rows, replacements)
+    archived_ids = {row["id"] for row in archived}
     corrections = public_corrections(read(ROOT / "content/corrections.json"))
     blocked = {(c["id"], c["semantic_revision"]) for c in corrections}
     require(all((q["id"], q["semantic_revision"]) in blocked for q in all_rows if q["status"] == "retired"), "Rückzug ohne Sperrvermerk")
-    approved = [q for q in all_rows if q["status"] == "release_approved"
+    approved = [q for q in all_rows if q["status"] == "release_approved" and q["id"] not in archived_ids
                 and (q["id"], q["semantic_revision"]) not in blocked
                 and (not q["valid_until"] or q["valid_until"] >= as_of)]
     rows = sorted((q for q in approved if stage not in ("starter", "reference") or q.get(stage)), key=lambda q: q["id"])
@@ -161,21 +196,24 @@ def build(stage, output, as_of, rules_path=None):
     history = read(history_file) if history_file.exists() else {}
     runtime = []
     for q in rows:
+        verify_classification(q)
         entry = {k: q[k] for k in RUNTIME_FIELDS}
         entry["sources"] = [{k: s[k] for k in ("title", "url")} for s in q["sources"]]
         old = history.get(q["id"])
         if old:
             check_history(entry, old)
         runtime.append(entry)
-    content_hash = hashlib.sha256(encode([runtime, corrections]).encode()).hexdigest()
+    content_hash = hashlib.sha256(encode([runtime, corrections, archived]).encode()).hexdigest()
     version = "de-" + content_hash[:12]
     manifest = {"version": version, "sha256": content_hash, "active": len(rows), "facts": len({q["fact_key"] for q in rows}),
                 "starter": sum(bool(q.get("starter")) for q in rows), "reference": sum(bool(q.get("reference")) for q in rows),
                 "categories": mix, "reference_categories": reference, "reference_complete": exact_reference,
                 "release_distribution_complete": exact_reference and exact_release, "corrections": len(corrections),
+                "archived": len(archived),
                 "human_observations": sum(len(q["human_test_observations"]) for q in rows)}
     output.mkdir(parents=True, exist_ok=True)
-    (output / "catalog.json").write_text(encode({"version": version, "questions": runtime, "corrections": corrections}) + "\n", encoding="utf-8", newline="\n")
+    (output / "catalog.json").write_text(encode({"version": version, "questions": runtime, "corrections": corrections,
+                                                "archived": archived}) + "\n", encoding="utf-8", newline="\n")
     (output / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
     rules_path = rules_path or (output.parent / "js/rules.js")
     rules_path.parent.mkdir(parents=True, exist_ok=True)

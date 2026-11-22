@@ -1,5 +1,7 @@
 # Quizsalon lokal ausprobieren
 
+Aktuelle lokale Ausgabe **0.2.0** mit dem deutschen Katalog `de-03c46c2cd256`. Um einen HTML-Spielstand aus 0.1.0 zu übernehmen, die bisherige Datei am selben Ort durch die neue Ausgabe ersetzen und mit demselben Browserprofil öffnen. Bei der Android-App die neue APK als Update über die vorhandene lokale Ausgabe installieren. [Nachweis des HTML-Updates](qa/fragenpool/html-update.json)
+
 **Am Computer** öffnest du Quizsalon-Lokaltest.html per Doppelklick in Chrome oder Edge. Fragen, Bilder und Schriften sind in der Datei enthalten. Du kannst sofort mit der ersten Frage beginnen.
 
 **Auf Android** installierst du android/Quizsalon-Lokaltest.apk. Android kann beim erstmaligen Öffnen einer APK die Erlaubnis für die gewählte Installationsquelle anfordern. Die Test-App heißt „Quizsalon Lokaltest“.

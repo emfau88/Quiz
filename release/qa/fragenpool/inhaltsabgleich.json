@@ -1,0 +1,288 @@
+{
+  "baseline": "de-7363fcba52a1",
+  "catalog": "de-03c46c2cd256",
+  "active": 1200,
+  "facts": 1200,
+  "retained": 1048,
+  "new": 152,
+  "archived": 152,
+  "reference": 150,
+  "categories": {
+    "nature_animals": {
+      "active": 200,
+      "new": 12,
+      "reference": 25,
+      "difficulty": {
+        "easy": 120,
+        "medium": 60,
+        "hard": 20
+      },
+      "topics": {
+        "astronomie": 17,
+        "brut_und_aufzucht": 12,
+        "entwicklung": 4,
+        "geologie": 10,
+        "jahreszeiten": 2,
+        "lebensraeume": 8,
+        "meer_und_kueste": 3,
+        "nahrung": 11,
+        "pflanzen": 19,
+        "tierfamilien": 10,
+        "tiermerkmale": 46,
+        "tieroekologie": 5,
+        "tierverhalten": 38,
+        "wetter": 15
+      },
+      "forms": {
+        "herleiten": 30,
+        "vergleichen": 12,
+        "wiedererkennen": 156,
+        "zeitlich_einordnen": 2
+      }
+    },
+    "geography_travel": {
+      "active": 200,
+      "new": 40,
+      "reference": 25,
+      "difficulty": {
+        "easy": 120,
+        "medium": 60,
+        "hard": 20
+      },
+      "topics": {
+        "bauwerke": 22,
+        "flaechenvergleich": 8,
+        "gewaesser": 25,
+        "grenzen": 17,
+        "hauptstaedte": 19,
+        "kulturlandschaften": 17,
+        "laenderkennungen": 10,
+        "landschaften": 21,
+        "orientierung": 6,
+        "regionalgeografie": 33,
+        "reiseziele": 4,
+        "verkehrswege": 8,
+        "waehrungen": 10
+      },
+      "forms": {
+        "herleiten": 18,
+        "vergleichen": 15,
+        "wiedererkennen": 166,
+        "zeitlich_einordnen": 1
+      }
+    },
+    "everyday_technology": {
+      "active": 200,
+      "new": 20,
+      "reference": 25,
+      "difficulty": {
+        "easy": 120,
+        "medium": 60,
+        "hard": 20
+      },
+      "topics": {
+        "computernutzung": 3,
+        "dateiformate": 6,
+        "digitaltechnik": 13,
+        "energietechnik": 17,
+        "garten": 4,
+        "haushalt": 27,
+        "lebensmittel": 11,
+        "lichttechnik": 9,
+        "messen": 26,
+        "sporttechnik": 7,
+        "textilpflege": 7,
+        "ton_und_bild": 17,
+        "verkehrstechnik": 13,
+        "werkstatt": 3,
+        "werkstoffe": 37
+      },
+      "forms": {
+        "herleiten": 49,
+        "vergleichen": 8,
+        "wiedererkennen": 143
+      }
+    },
+    "history_discoveries": {
+      "active": 200,
+      "new": 16,
+      "reference": 25,
+      "difficulty": {
+        "easy": 120,
+        "medium": 60,
+        "hard": 20
+      },
+      "topics": {
+        "alltagsgeschichte": 10,
+        "antike": 16,
+        "archaeologie": 12,
+        "deutsche_geschichte": 28,
+        "europa": 4,
+        "gesellschaftsgeschichte": 13,
+        "herrschaft": 8,
+        "internationale_politik": 21,
+        "kulturgeschichte": 4,
+        "medizingeschichte": 9,
+        "mittelalter": 14,
+        "raumfahrt": 6,
+        "religion": 11,
+        "sportgeschichte": 11,
+        "verkehrsgeschichte": 6,
+        "wirtschaftsgeschichte": 10,
+        "wissenschaftsgeschichte": 15,
+        "zeitgeschichte": 2
+      },
+      "forms": {
+        "herleiten": 1,
+        "vergleichen": 2,
+        "wiedererkennen": 188,
+        "zeitlich_einordnen": 9
+      }
+    },
+    "entertainment": {
+      "active": 200,
+      "new": 48,
+      "reference": 25,
+      "difficulty": {
+        "easy": 120,
+        "medium": 60,
+        "hard": 20
+      },
+      "topics": {
+        "buehne": 34,
+        "fernsehen": 24,
+        "filmgeschichte": 4,
+        "filmgeschichten": 15,
+        "filmpreise": 32,
+        "musikgeschichte": 38,
+        "musiktraditionen": 8,
+        "popmusik": 30,
+        "radio": 7,
+        "sportmedien": 8
+      },
+      "forms": {
+        "herleiten": 19,
+        "vergleichen": 6,
+        "wiedererkennen": 172,
+        "zeitlich_einordnen": 3
+      }
+    },
+    "language_culture": {
+      "active": 200,
+      "new": 16,
+      "reference": 25,
+      "difficulty": {
+        "easy": 120,
+        "medium": 60,
+        "hard": 20
+      },
+      "topics": {
+        "baukunst": 5,
+        "bildende_kunst": 25,
+        "braeuche": 15,
+        "esskultur": 9,
+        "fremdsprachen": 31,
+        "gesellschaftsspiele": 8,
+        "grammatik": 29,
+        "handwerk": 19,
+        "literatur": 52,
+        "musiktraditionen": 2,
+        "redensarten": 4,
+        "schriften": 1
+      },
+      "forms": {
+        "herleiten": 15,
+        "vergleichen": 2,
+        "wiedererkennen": 182,
+        "zeitlich_einordnen": 1
+      }
+    }
+  },
+  "original_series": {
+    "culture/escene": {
+      "before": 65,
+      "after": 30
+    },
+    "culture/estage": {
+      "before": 33,
+      "after": 20
+    },
+    "science/03-reisen-hauptstaedte": {
+      "before": 32,
+      "after": 18
+    },
+    "science/03-reisen-grenzen": {
+      "before": 26,
+      "after": 14
+    },
+    "science/03-reisen-waehrungen": {
+      "before": 18,
+      "after": 10
+    }
+  },
+  "changed_difficulties": {
+    "k-academy-1944-r": {
+      "from": "easy",
+      "to": "hard",
+      "reason": "Der Regiename ist Detailwissen. Bankett und Zeremonie liefern den entscheidenden Hinweis auf den Kaiserhof."
+    },
+    "k-art-monet-rouen": {
+      "from": "easy",
+      "to": "hard",
+      "reason": "Ein einzelnes Sammlungsbild verlangt Werkkenntnis. Das Adjektiv lässt sich am angegebenen Beispielsatz bestimmen."
+    },
+    "k-chronik-havel-president": {
+      "from": "medium",
+      "to": "easy",
+      "reason": "Ruskas Instrument verlangt spezielles Forschungswissen. Die Kombination aus Schriftsteller, Land und Wendejahr hilft beim Zuordnen."
+    },
+    "k-gram-attribute": {
+      "from": "hard",
+      "to": "easy",
+      "reason": "Ein einzelnes Sammlungsbild verlangt Werkkenntnis. Das Adjektiv lässt sich am angegebenen Beispielsatz bestimmen."
+    },
+    "k-perform-gagaku-court": {
+      "from": "hard",
+      "to": "easy",
+      "reason": "Der Regiename ist Detailwissen. Bankett und Zeremonie liefern den entscheidenden Hinweis auf den Kaiserhof."
+    },
+    "k-research-127-1986": {
+      "from": "easy",
+      "to": "medium",
+      "reason": "Ruskas Instrument verlangt spezielles Forschungswissen. Die Kombination aus Schriftsteller, Land und Wendejahr hilft beim Zuordnen."
+    },
+    "qs-arc-et-senans-salz": {
+      "from": "easy",
+      "to": "medium",
+      "reason": "Die Saline ist nur mit Ortskenntnis zuzuordnen. Der Gebirgshinweis Nordindien erleichtert die Orientierung."
+    },
+    "qs-kelp-braunalgen": {
+      "from": "easy",
+      "to": "medium",
+      "reason": "Die Algengruppe setzt Fachwissen voraus. Den flachen Eisberg erschließt bereits sein deutscher Name."
+    },
+    "qs-mikrofon-baendchen": {
+      "from": "medium",
+      "to": "easy",
+      "reason": "Die Metallbeschichtung ist ein Werkstoffdetail. Das namensgebende bewegliche Bändchen bietet einen Hinweis."
+    },
+    "qs-sikkim-himalaya": {
+      "from": "medium",
+      "to": "easy",
+      "reason": "Die Saline ist nur mit Ortskenntnis zuzuordnen. Der Gebirgshinweis Nordindien erleichtert die Orientierung."
+    },
+    "qs-tafelseisberg-form": {
+      "from": "medium",
+      "to": "easy",
+      "reason": "Die Algengruppe setzt Fachwissen voraus. Den flachen Eisberg erschließt bereits sein deutscher Name."
+    },
+    "qs-weissblech-zinn": {
+      "from": "easy",
+      "to": "medium",
+      "reason": "Die Metallbeschichtung ist ein Werkstoffdetail. Das namensgebende bewegliche Bändchen bietet einen Hinweis."
+    }
+  },
+  "distinct_source_urls": 808,
+  "damals_und_heute": 134,
+  "with_expiry": 25
+}

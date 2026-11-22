@@ -1,0 +1,902 @@
+[
+  {
+    "id": "qs-eichhoernchen-verteilte-vorraete",
+    "fact_key": "eichhoernchen-verteilte-vorraete",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Ein Eichhörnchen vergräbt im Herbst Haselnüsse an verschiedenen Stellen im Garten. Wozu dienen diese Verstecke?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Als Baustofflager für den Kobel"
+      },
+      {
+        "id": "b",
+        "text": "Als verteilte Nahrungsvorräte"
+      },
+      {
+        "id": "c",
+        "text": "Als Duftmarken für das Revier"
+      },
+      {
+        "id": "d",
+        "text": "Als Ablenkung für Nesträuber"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Eichhörnchen bleiben im Winter zeitweise aktiv. Dann suchen sie ihre Vorräte im Boden, in Spalten und in Baumhöhlen wieder auf.",
+    "tags": [
+      "thema_tierverhalten",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Eichhörnchen | Deutsche Wildtier Stiftung",
+        "url": "https://www.deutschewildtierstiftung.de/wildtiere/eichhoernchen",
+        "verified_claim": "Eichhörnchen bleiben im Winter zeitweise aktiv. Dann suchen sie ihre Vorräte im Boden, in Spalten und in Baumhöhlen wieder auf.",
+        "checked_at": "2026-11-22T18:26:08.939Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-igel-herbst-fettreserven",
+    "fact_key": "igel-herbst-fettreserven",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Welches dieser in Deutschland lebenden Tiere verbringt den Winter größtenteils im echten Winterschlaf und zehrt dabei von seinem Fettvorrat?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Igel"
+      },
+      {
+        "id": "b",
+        "text": "Dachs"
+      },
+      {
+        "id": "c",
+        "text": "Eichhörnchen"
+      },
+      {
+        "id": "d",
+        "text": "Waschbär"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Beim Igel sinken Körpertemperatur und Herzschlag im Winterschlaf stark. Seine Fettreserven liefern Energie und helfen ihm auch beim Wiederaufwärmen.",
+    "tags": [
+      "thema_tierverhalten",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Winterschlaf und Winterruhe | NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/saeugetiere/wissen-ueber-saeugetiere/wie-tiere-den-winter-ueberstehen",
+        "verified_claim": "Beim Igel sinken Körpertemperatur und Herzschlag im Winterschlaf stark. Seine Fettreserven liefern Energie und helfen ihm auch beim Wiederaufwärmen.",
+        "checked_at": "2026-11-22T18:37:23.712Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:37:36.533Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-erdkroete-fruehjahr-laichwanderung",
+    "fact_key": "erdkroete-fruehjahr-laichwanderung",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wohin ziehen Erdkröten im Frühjahr, wenn sie in feuchten Nächten gemeinsam Straßen überqueren?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Zu ihren Winterverstecken"
+      },
+      {
+        "id": "b",
+        "text": "Zu ihren täglichen Sonnenplätzen"
+      },
+      {
+        "id": "c",
+        "text": "Zu ihren Sommerrevieren an Land"
+      },
+      {
+        "id": "d",
+        "text": "Zu ihren Laichgewässern"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Die Wanderung führt zur Fortpflanzung ans Wasser. Dafür legen manche Tiere mehrere Kilometer zurück.",
+    "tags": [
+      "thema_tierverhalten",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Einsatz bei der Krötenwanderung | BUND Naturschutz",
+        "url": "https://www.bund-naturschutz.de/tiere-in-bayern/amphibien/amphibienschutz/kroetenwanderung",
+        "verified_claim": "Die Wanderung führt zur Fortpflanzung ans Wasser. Dafür legen manche Tiere mehrere Kilometer zurück.",
+        "checked_at": "2026-11-22T18:26:07.879Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kleiber-stamm-abwaerts",
+    "fact_key": "kleiber-stamm-abwaerts",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Welcher heimische Vogel kann auf der Suche nach Futter kopfvoran an einem Baumstamm hinunterlaufen?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Buntspecht"
+      },
+      {
+        "id": "b",
+        "text": "Mittelspecht"
+      },
+      {
+        "id": "c",
+        "text": "Kleiber"
+      },
+      {
+        "id": "d",
+        "text": "Gartenbaumläufer"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Der Kleiber klettert am Stamm in beide Richtungen. Er brütet in Höhlen und kann deren Eingang zum Schutz der Jungen teilweise verschließen.",
+    "tags": [
+      "thema_tierverhalten",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Vogelporträt: Kleiber - NABU",
+        "url": "https://www.nabu.de/natur-und-artenwissen/voegel/vogelportraets/kleiber",
+        "verified_claim": "Der Kleiber klettert am Stamm in beide Richtungen. Er brütet in Höhlen und kann deren Eingang zum Schutz der Jungen teilweise verschließen.",
+        "checked_at": "2026-11-22T18:26:07.224Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:33:35.760Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-feldhase-hakenschlagen",
+    "fact_key": "feldhase-hakenschlagen",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Ein Feldhase flieht über einen Acker. Welches Laufmanöver ist für ihn typisch?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Er dreht enge Kreise um einen Punkt."
+      },
+      {
+        "id": "b",
+        "text": "Er wechselt unvermittelt die Richtung."
+      },
+      {
+        "id": "c",
+        "text": "Er springt rückwärts auf seiner eigenen Spur."
+      },
+      {
+        "id": "d",
+        "text": "Er läuft gleichmäßig in weiten Bögen."
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Beim Hakenschlagen biegt der Feldhase mitten im Lauf plötzlich ab. Mit solchen Richtungswechseln kann er seinen Verfolger abschütteln.",
+    "tags": [
+      "thema_tierverhalten",
+      "form_wiedererkennen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Steckbrief Feldhase | Deutsche Wildtier Stiftung",
+        "url": "https://www.deutschewildtierstiftung.de/wildtiere/feldhase",
+        "verified_claim": "Beim Hakenschlagen biegt der Feldhase mitten im Lauf plötzlich ab. Mit solchen Richtungswechseln kann er seinen Verfolger abschütteln.",
+        "checked_at": "2026-11-22T18:43:22.715Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:44:39.950Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:45:19.885Z"
+      },
+      "approved_at": "2026-11-22T18:45:19.885Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-fledermaus-winterstollen-feuchte",
+    "fact_key": "fledermaus-winterstollen-feuchte",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Viele heimische Fledermäuse überwintern in Kellern oder Stollen. Welche Bedingungen suchen sie dabei?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Kühl und feucht"
+      },
+      {
+        "id": "b",
+        "text": "Kühl und trocken"
+      },
+      {
+        "id": "c",
+        "text": "Warm und feucht"
+      },
+      {
+        "id": "d",
+        "text": "Warm und trocken"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Ein geeignetes Quartier bleibt kühl und frostfrei. Genügend feuchte Luft schützt die Tiere davor, im Winterschlaf zu viel Wasser zu verlieren.",
+    "tags": [
+      "thema_tierverhalten",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Quartiere",
+        "url": "https://www.bund-niedersachsen.de/themen/tiere-pflanzen/fledermaeuse/quartiere/",
+        "verified_claim": "Ein geeignetes Quartier bleibt kühl und frostfrei. Genügend feuchte Luft schützt die Tiere davor, im Winterschlaf zu viel Wasser zu verlieren.",
+        "checked_at": "2026-11-22T18:26:07.385Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-strahlungsnebel-klare-nacht",
+    "fact_key": "strahlungsnebel-klare-nacht",
+    "category": "nature_animals",
+    "difficulty": "hard",
+    "question": "Über einer feuchten Wiese bildet sich nach einer klaren, windstillen Nacht Nebel. Der Boden hat durch Abstrahlung Wärme verloren. Wie heißt dieser Nebel?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Hangnebel"
+      },
+      {
+        "id": "b",
+        "text": "Advektionsnebel"
+      },
+      {
+        "id": "c",
+        "text": "Verdunstungsnebel"
+      },
+      {
+        "id": "d",
+        "text": "Strahlungsnebel"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Mit dem Boden kühlt die feuchte Luft unmittelbar darüber ab. Kondensiert ihr Wasserdampf, werden feine Nebeltröpfchen sichtbar.",
+    "tags": [
+      "thema_wetter",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What is fog? - Met Office",
+        "url": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/fog",
+        "verified_claim": "Mit dem Boden kühlt die feuchte Luft unmittelbar darüber ab. Kondensiert ihr Wasserdampf, werden feine Nebeltröpfchen sichtbar.",
+        "checked_at": "2026-11-22T18:26:10.703Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:33:22.587Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-sonnenwende-laengster-lichttag",
+    "fact_key": "sonnenwende-laengster-lichttag",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "Wann liegt in Deutschland der längste Zeitraum zwischen Sonnenaufgang und Sonnenuntergang?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Um die Tagundnachtgleiche im September"
+      },
+      {
+        "id": "b",
+        "text": "Um die Wintersonnenwende im Dezember"
+      },
+      {
+        "id": "c",
+        "text": "Um die Sommersonnenwende im Juni"
+      },
+      {
+        "id": "d",
+        "text": "Um die Tagundnachtgleiche im März"
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Zur Sommersonnenwende erreicht die Sonne mittags ihren höchsten Stand des Jahres. Auf der Nordhalbkugel liegt dieser Tag um den 21. Juni.",
+    "tags": [
+      "thema_jahreszeiten",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Understanding equinoxes and solstices - Met Office",
+        "url": "https://weather.metoffice.gov.uk/learn-about/weather/seasons/equinox-and-solstice",
+        "verified_claim": "Zur Sommersonnenwende erreicht die Sonne mittags ihren höchsten Stand des Jahres. Auf der Nordhalbkugel liegt dieser Tag um den 21. Juni.",
+        "checked_at": "2026-11-22T18:26:07.540Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-meteorologischer-fruehling-maerz",
+    "fact_key": "meteorologischer-fruehling-maerz",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "An welchem Datum beginnt in Deutschland der meteorologische Frühling?",
+    "options": [
+      {
+        "id": "a",
+        "text": "1. Mai"
+      },
+      {
+        "id": "b",
+        "text": "1. März"
+      },
+      {
+        "id": "c",
+        "text": "1. Februar"
+      },
+      {
+        "id": "d",
+        "text": "1. April"
+      }
+    ],
+    "correct_option_id": "b",
+    "explanation": "Wetterdienste teilen das Jahr für ihre Statistik in feste Dreimonatsabschnitte. So lassen sich die gleichen Zeiträume über viele Jahre vergleichen.",
+    "tags": [
+      "thema_jahreszeiten",
+      "form_zeitlich_einordnen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Beobachtungshinweise Frühling - Deutsche Meteorologische Gesellschaft e. V.",
+        "url": "https://www.dmg-ev.de/2024/02/28/beobachtungshinweise-fruehjahr/",
+        "verified_claim": "Wetterdienste teilen das Jahr für ihre Statistik in feste Dreimonatsabschnitte. So lassen sich die gleichen Zeiträume über viele Jahre vergleichen.",
+        "checked_at": "2026-11-22T18:28:30.407Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-seewind-tagsueber-land",
+    "fact_key": "seewind-tagsueber-land",
+    "category": "nature_animals",
+    "difficulty": "easy",
+    "question": "An einem sonnigen Sommertag erwärmt sich das Land stärker als das Meer. Wohin weht dann die typische Seebrise am Strand?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vom Meer zum Land"
+      },
+      {
+        "id": "b",
+        "text": "Vom Land zum Meer"
+      },
+      {
+        "id": "c",
+        "text": "Parallel zur Küste nach Norden"
+      },
+      {
+        "id": "d",
+        "text": "Parallel zur Küste nach Süden"
+      }
+    ],
+    "correct_option_id": "a",
+    "explanation": "Über dem warmen Land steigt Luft auf. Kühlere Luft strömt vom Meer her nach und kann die Hitze am Strand mildern.",
+    "tags": [
+      "thema_wetter",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "What are the different types of wind? - Met Office",
+        "url": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/types-of-wind",
+        "verified_claim": "Über dem warmen Land steigt Luft auf. Kühlere Luft strömt vom Meer her nach und kann die Hitze am Strand mildern.",
+        "checked_at": "2026-11-22T18:26:09.122Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:33:22.588Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-kaltluftsenke-spaetfrost",
+    "fact_key": "kaltluftsenke-spaetfrost",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "In welcher Lage eines Obstgartens sammelt sich in einer klaren, windstillen Frühlingsnacht besonders viel bodennahe Kaltluft?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Auf einer frei stehenden Kuppe"
+      },
+      {
+        "id": "b",
+        "text": "An einer erhöhten Hangschulter"
+      },
+      {
+        "id": "c",
+        "text": "Auf einem schmalen Geländerücken"
+      },
+      {
+        "id": "d",
+        "text": "In einer windgeschützten Senke"
+      }
+    ],
+    "correct_option_id": "d",
+    "explanation": "Kalte Luft ist dichter als wärmere Luft. Sie kann hangabwärts fließen und sich in der Senke sammeln.",
+    "tags": [
+      "thema_wetter",
+      "form_vergleichen"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "NWS Charleston Frost-Freeze Climatology/Information",
+        "url": "https://www.weather.gov/rlx/frost-freeze-information",
+        "verified_claim": "Kalte Luft ist dichter als wärmere Luft. Sie kann hangabwärts fließen und sich in der Senke sammeln.",
+        "checked_at": "2026-11-22T18:27:15.486Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:36:03.964Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  },
+  {
+    "id": "qs-foehn-lee-warm-trocken",
+    "fact_key": "foehn-lee-warm-trocken",
+    "category": "nature_animals",
+    "difficulty": "medium",
+    "question": "Ein Föhnwind weht nach dem Überqueren des Alpenkamms ins Tal hinab. Wie verändert sich die Luft auf der Leeseite typischerweise?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sie wird kälter und trockener."
+      },
+      {
+        "id": "b",
+        "text": "Sie wird kälter und feuchter."
+      },
+      {
+        "id": "c",
+        "text": "Sie wird wärmer und trockener."
+      },
+      {
+        "id": "d",
+        "text": "Sie wird wärmer und feuchter."
+      }
+    ],
+    "correct_option_id": "c",
+    "explanation": "Föhn bringt Wärme und Trockenheit auf die windabgewandte Seite eines Gebirges. So können benachbarte Täler sehr unterschiedliches Wetter haben.",
+    "tags": [
+      "thema_wetter",
+      "form_herleiten"
+    ],
+    "content_revision": 1,
+    "semantic_revision": 1,
+    "valid_until": null,
+    "status": "release_approved",
+    "sources": [
+      {
+        "id": "s1",
+        "title": "Foehn effect - Met Office",
+        "url": "https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/foehn-effect",
+        "verified_claim": "Föhn bringt Wärme und Trockenheit auf die windabgewandte Seite eines Gebirges. So können benachbarte Täler sehr unterschiedliches Wetter haben.",
+        "checked_at": "2026-11-22T18:27:17.567Z"
+      }
+    ],
+    "review": {
+      "fact": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:33:22.588Z"
+      },
+      "editorial": {
+        "actor_type": "agent",
+        "actor": "Codex · Redaktion Länder und Natur",
+        "source_ids": [
+          "s1"
+        ],
+        "content_revision": 1,
+        "semantic_revision": 1,
+        "result": "pass",
+        "at": "2026-11-22T18:39:23.070Z"
+      },
+      "approved_at": "2026-11-22T18:39:23.070Z",
+      "approved_by": "Codex · Redaktion Länder und Natur",
+      "issues": [],
+      "length_exception": null
+    },
+    "human_test_observations": [],
+    "reference": false,
+    "starter": false
+  }
+]

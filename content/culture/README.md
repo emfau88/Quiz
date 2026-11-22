@@ -1,6 +1,12 @@
-# Inhaltsbericht für Geschichte, Unterhaltung, Sprache und Kultur
+# Inhaltsberichte für Geschichte, Unterhaltung, Sprache und Kultur
 
-Die drei Ressorts liefern **600 aktive Fragen mit 600 verschiedenen Sachverhalten**. Der Bestand enthält die ursprünglichen 75 Referenzfragen und die 12 Starter. Alle Quellenprüfungen und Textabnahmen in diesem Verzeichnis stammen von der im Datensatz genannten Codex-Redaktion. Für menschliche Rückmeldungen liegen hier **0 Beobachtungen** vor. Die Schwierigkeit ist eine redaktionelle Einschätzung.
+Am 22. November 2026 ergänzte die Unterhaltungsredaktion 48 Fragen zu deutschsprachigem Fernsehen und Radio, Popmusik, Filmhandlungen und Sportübertragungen. Dafür gingen 35 der 65 Oscar-Zuordnungen und 13 der 33 Bühnenfragen der Ausgangsserien ins Archiv. Jedes der 48 Austauschpaare bewahrt die Schwierigkeitsstufe. Die Redaktion öffnete 49 Belegseiten und las jede Karte in einem zweiten Durchgang. [Unterhaltungsfragen](2026-11-unterhaltung.json) · [Einzelbelege und Textprüfung](evidence/2026-11-unterhaltung-pruefung.json) · [Austauschpaare](../rotation/2026-11/unterhaltung.json)
+
+Der Gesamtprüfer für die Rotation vergleicht den neuen Offline-Katalog mit der ausgelieferten Ausgangsversion. Er prüft alle sechs Kategorien und weist übernommene, archivierte und neue Karten aus. [Prüfung der Rotation](../../tools/audit_pool.py)
+
+## Ausgangsbericht vom 20. November 2026
+
+Die drei Ressorts lieferten **600 aktive Fragen mit 600 verschiedenen Sachverhalten**. Der Ausgangsbestand enthielt 75 Referenzfragen und 12 Starter. Die Quellenprüfungen und Textabnahmen stammen von der im Datensatz genannten Codex-Redaktion. Für menschliche Rückmeldungen lagen **0 Beobachtungen** vor. Die Schwierigkeit war eine redaktionelle Einschätzung.
 
 | Kategorie | Aktiv | Leicht | Mittel | Anspruchsvoll | Referenz leicht / mittel / anspruchsvoll |
 | --- | ---: | ---: | ---: | ---: | --- |
@@ -62,4 +68,4 @@ Die drei archivierten Fragen gehörten zum internen Ausbau. Ihre Aussagen waren 
 
 Die Redaktion speicherte Originalantworten der Quellen für die lokale Sichtung in einem temporären Recherchecache. Im [Abrufverzeichnis](evidence/retrievals.json) stehen URL, tatsächlicher Abrufzeitpunkt, Größe und SHA-256 der heruntergeladenen Antworten. Es verzeichnet auch während der Recherche betrachtete Kandidaten. Eine dort verzeichnete HTTP-Antwort allein gilt nicht als Quellenprüfung. Leere oder vorgeschaltete Challenge-Seiten wurden verworfen. Entscheidend für den Export sind der abgeglichene Sachverhalt im Einzeldatensatz, die Textabnahme und die aktive Freigabe. Bei den Oscarverleihungen und den ersten Starterkarten ergänzte eine direkte Browserlektüre den lokalen Abruf. [Ausgelesene Preisdatensätze](evidence/academy-award-records.json)
 
-`python -X utf8 tools/culture_audit.py` wiederholt die Schema-, Mengen-, Quellfeld-, Fingerabdruck- und Ähnlichkeitsprüfungen. Der Zugriff auf den Recherchecache ist für diese vertiefte Kontrolle erforderlich. Die zentrale Erstellung des schlanken Offline-Katalogs arbeitet allein mit den freigegebenen JSON-Dateien. [Ressortprüfung](../../tools/culture_audit.py) · [Zentraler Compiler](../../tools/catalog.py)
+`python -X utf8 tools/culture_audit.py` vergleicht die damaligen Arbeitsfassungen und ihre Fingerabdrücke mit den 600 Ressortkarten im gesicherten 1.0-Katalog. Er wiederholt den damaligen Vergleich über alle 1.200 Karten, prüft das Redaktionsschema der zugehörigen Quelldateien und liest den ursprünglichen Abschlussbericht zur Kontrolle. Die vertiefte Quellenprüfung nutzt den lokalen Recherchecache. Der zentrale Compiler baut den aktuellen Offline-Katalog aus den freigegebenen JSON-Dateien und den Austauschlisten. [Prüfung des Ausgangsstands](../../tools/culture_audit.py) · [Prüfung der Rotation](../../tools/audit_pool.py) · [Zentraler Compiler](../../tools/catalog.py)
