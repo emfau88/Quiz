@@ -1,0 +1,136 @@
+{
+  "at": "2026-11-24T20:31:21.777Z",
+  "browser": "149.0.7827.55",
+  "axe": "4.10.3",
+  "checks": [
+    {
+      "view": "Unbeantwortete Frage",
+      "passedRules": 23,
+      "automatedViolations": [],
+      "manualRules": [
+        "color-contrast"
+      ],
+      "contrast": {
+        "minimum": {
+          "ratio": 5.461516218928098,
+          "text": "A"
+        },
+        "samples": 82,
+        "below": []
+      }
+    },
+    {
+      "view": "Antwort und Erklärung",
+      "passedRules": 23,
+      "automatedViolations": [],
+      "manualRules": [
+        "color-contrast"
+      ],
+      "contrast": {
+        "minimum": {
+          "ratio": 5.461516218928098,
+          "text": "C"
+        },
+        "samples": 74,
+        "below": []
+      }
+    },
+    {
+      "view": "Pausendialog",
+      "passedRules": 12,
+      "automatedViolations": [],
+      "manualRules": [
+        "color-contrast"
+      ],
+      "contrast": {
+        "minimum": {
+          "ratio": 7.912784322811494,
+          "text": "Zur Übersicht"
+        },
+        "samples": 8,
+        "below": []
+      }
+    },
+    {
+      "view": "today",
+      "passedRules": 23,
+      "automatedViolations": [],
+      "manualRules": [
+        "color-contrast"
+      ],
+      "contrast": {
+        "minimum": {
+          "ratio": 5.640438060751388,
+          "text": "Dienstag, 24. November 2026"
+        },
+        "samples": 54,
+        "below": []
+      }
+    },
+    {
+      "view": "topics",
+      "passedRules": 20,
+      "automatedViolations": [],
+      "manualRules": [
+        "color-contrast"
+      ],
+      "contrast": {
+        "minimum": {
+          "ratio": 5.454328668497526,
+          "text": "Wähle ein Thema. Die erste Kennenlernrunde jeder Kategorie i"
+        },
+        "samples": 44,
+        "below": []
+      }
+    },
+    {
+      "view": "knowledge",
+      "passedRules": 26,
+      "automatedViolations": [],
+      "manualRules": [
+        "color-contrast"
+      ],
+      "contrast": {
+        "minimum": {
+          "ratio": 5.640438060751388,
+          "text": "Deine Sammlung"
+        },
+        "samples": 56,
+        "below": []
+      }
+    },
+    {
+      "view": "settings",
+      "passedRules": 22,
+      "automatedViolations": [],
+      "manualRules": [
+        "color-contrast"
+      ],
+      "contrast": {
+        "minimum": {
+          "ratio": 5.640438060751388,
+          "text": "Quizsalon"
+        },
+        "samples": 44,
+        "below": []
+      }
+    },
+    {
+      "view": "Ergebnis mit offener Vergleichstabelle",
+      "passedRules": 26,
+      "automatedViolations": [],
+      "manualRules": [
+        "color-contrast"
+      ],
+      "contrast": {
+        "minimum": {
+          "ratio": 5.640438060751388,
+          "text": "Dienstag, 24. November 2026"
+        },
+        "samples": 96,
+        "below": []
+      }
+    }
+  ],
+  "focus": "Erklärung, nächste Frage und Rückkehr aus Pausendialog geprüft."
+}

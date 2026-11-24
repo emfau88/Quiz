@@ -1,4 +1,6 @@
 import { RULES } from './rules.js';
+import {availableTopicModes, currentQuestions, matchesSubtopic} from './subtopics.js';
+import {prepareFriendRound} from './friends.js';
 
 const { rounds, progress: learning, simulation } = RULES;
 const difficulties = ['easy', 'medium', 'hard'];
@@ -74,18 +76,28 @@ function shuffle(items, random) {
   }
   return result;
 }
-function simulate(questions, seed) {
+function simulate(questions, seed, sessions, rematch) {
   const random = generator(seed);
-  return simulation.opponents.map(opponent => {
+  const shuffled = shuffle(simulation.opponents, random);
+  let trio = shuffled.slice(0, 3);
+  if (rematch) {
+    // Older games stored the three names and hits before stable guest IDs were introduced.
+    trio = rematch.opponents.map(o => simulation.opponents.find(g => g.id === o.id || g.name === o.name));
+  } else {
+    const previous = sessions.filter(s => s.opponents?.length === 3).at(-1);
+    const previousNames = new Set(previous?.opponents.map(o => o.name));
+    if (trio.every(g => previousNames.has(g.name))) trio[2] = shuffled.find(g => !previousNames.has(g.name));
+  }
+  return trio.map(opponent => {
     const hits = questions.map(q => {
       const base = simulation.base[q.difficulty];
       const adjustment = opponent.specialties.includes(q.category) ? simulation.specialty_bonus : -simulation.other_penalty;
       return random() < Math.min(simulation.max, Math.max(simulation.min, base + adjustment));
     });
-    return {name: opponent.name, hits, correct: hits.filter(Boolean).length};
+    return {id: opponent.id, name: opponent.name, specialties: [...opponent.specialties], hits, correct: hits.filter(Boolean).length};
   });
 }
-function choose(state, catalog, mode, category, day, seed) {
+function choose(state, catalog, mode, category, day, seed, subtopic, rematch) {
   const config = rounds[mode];
   const random = generator(seed);
   const reservedFacts = new Set(), reservedIds = new Set(), seenByCategory = {};
@@ -98,13 +110,11 @@ function choose(state, catalog, mode, category, day, seed) {
       if (item.answer && !item.void) seenByCategory[item.q.category] = (seenByCategory[item.q.category] || 0) + 1;
     }
   }
-  const withdrawn = new Set([...Object.keys(state.corrections || {}), ...catalog.corrections.map(keyOf)]);
   const dailyMix = mode === 'daily' && catalog.daily_formats;
   const dailyClues = dailyMix ? new Set(catalog.daily_clues) : null;
-  const pool = shuffle(catalog.questions.filter(q =>
-    (!category || category === q.category) && (!q.valid_until || q.valid_until >= day) &&
-    (!q.research || q.research.published_on <= day) &&
-    !withdrawn.has(keyOf(q)) && !reservedFacts.has(q.fact_key) && !reservedIds.has(q.id)
+  const pool = shuffle(currentQuestions(state, catalog, day).filter(q =>
+    (!category || category === q.category) && (!subtopic || matchesSubtopic(q, subtopic)) &&
+    !reservedFacts.has(q.fact_key) && !reservedIds.has(q.id)
   ), random);
   const topicOf = new Map(pool.map(q => [q.id, q.category + '/' + (q.tags?.find(t => t.startsWith('thema_')) || '')]));
   const topicOrder = new Map(shuffle([...new Set(topicOf.values())], random).map((topic, index) => [topic, index]));
@@ -132,10 +142,15 @@ function choose(state, catalog, mode, category, day, seed) {
         if (q && date > bestDate) continue;
         const topic = topicOf.get(candidate.id);
         const deficit = config.mix[difficulties.indexOf(candidate.difficulty)] - (byDifficulty[candidate.difficulty] || 0);
+        if ((mode === 'topic' || mode === 'challenge') && deficit <= 0) continue;
         // The seeded topic order gives small subjects a chance alongside large series.
         const rank = [Number(deficit > 0), -(byCategory[candidate.category] || 0),
           -(byTopic.get(topic) || 0), deficit, -(seenByCategory[candidate.category] || 0),
           -(byForm.get(form) || 0), -topicOrder.get(topic)];
+        if (mode === 'quick') {
+          const prior = state.progress[keyOf(candidate)];
+          rank.unshift(-(byCategory[candidate.category] || 0), Number(!prior), Number(prior?.lastDay <= repeatBefore));
+        }
         if (q && date === bestDate) {
           const firstDifference = rank.findIndex((value, i) => value !== bestRank[i]);
           if (firstDifference < 0 || rank[firstDifference] < bestRank[firstDifference]) continue;
@@ -155,7 +170,7 @@ function choose(state, catalog, mode, category, day, seed) {
       if (dailyMix) remaining[formatGroup(form)]--;
       byCategory[q.category] = (byCategory[q.category] || 0) + 1;
       byDifficulty[q.difficulty] = (byDifficulty[q.difficulty] || 0) + 1;
-      picked.push({q, kind});
+      picked.push({q, kind: mode === 'quick' ? (state.progress[keyOf(q)] ? 'review' : 'new') : kind});
     }
   }
   const due = q => state.progress[keyOf(q)]?.due <= day;
@@ -186,7 +201,18 @@ function choose(state, catalog, mode, category, day, seed) {
       if (!picked.length) fill(findings, 1);
     }
   }
-  take(regular.filter(due), rounds.max_due - picked.filter(item => item.kind === 'due').length, 'due', true);
+  if (mode === 'quick') {
+    const latestFive = Object.values(state.sessions).filter(s => s.items.length === config.length).at(-1);
+    const previousFacts = new Set(latestFive?.items.map(i => i.q.fact_key));
+    const sourceFacts = new Set(rematch?.items.map(i => i.q.fact_key));
+    take(pool.filter(q => !previousFacts.has(q.fact_key) && !sourceFacts.has(q.fact_key)), config.length, 'new');
+    if (rematch && picked.length < config.length) {
+      take(pool.filter(q => !sourceFacts.has(q.fact_key)), config.length - picked.length, 'new');
+    }
+    take(pool, config.length - picked.length, 'new');
+  } else {
+    take(regular.filter(due), rounds.max_due - picked.filter(item => item.kind === 'due').length, 'due', true);
+  }
   if (dailyMix) {
     for (const form of Object.keys(config.formats)) {
       if (form === 'form_herleiten' && featured.length && remaining[form]) {
@@ -210,31 +236,58 @@ function choose(state, catalog, mode, category, day, seed) {
   return {items, isReview};
 }
 
-export function startRound(state, catalog, installId, time, {mode = 'daily', category = null, entitled = false} = {}) {
+export function startRound(state, catalog, installId, time,
+    {mode = 'daily', category = null, entitled = false, subtopic = null, rematchOf = null, invite = null} = {}) {
+  const sessions = Object.values(state.sessions);
+  let prepared, rematch;
   if (mode === 'daily') {
     const existing = state.sessions['daily-' + time.day];
     if (existing) return existing;
     category = null;
+    subtopic = rematchOf = null;
+  } else if (mode === 'friend') {
+    prepared = prepareFriendRound(state, catalog, time.day, invite);
+    if (prepared.status === 'existing') return state.sessions[prepared.sessionId];
+    if (prepared.status !== 'ready') throw new GameError(prepared.code || 'INVITE', prepared.message, prepared.sessionId);
+    category = subtopic = rematchOf = null;
   } else {
-    if (!['trial', 'topic', 'challenge'].includes(mode) || !Object.hasOwn(RULES.categories, category)) {
+    if (mode === 'quick') {
+      if (category || subtopic) throw new GameError('MODE', 'Die Kurzrunde mischt die Kategorien.');
+      if (rematchOf) {
+        rematch = state.sessions[rematchOf];
+        if (!state.settings.comparison || !rematch || !ranking(rematch).length) {
+          throw new GameError('REMATCH', 'Für diesen Tisch ist keine Revanche verfügbar.');
+        }
+      }
+    } else if (!['trial', 'topic', 'challenge'].includes(mode) || !Object.hasOwn(RULES.categories, category) ||
+        rematchOf || (subtopic && (mode === 'trial' || RULES.subtopics[subtopic]?.category !== category))) {
       throw new GameError('MODE', 'Diese Themenrunde ist unbekannt.');
     }
-    const active = Object.values(state.sessions).find(s => s.mode !== 'daily' && s.status === 'active');
+    const active = sessions.find(s => s.mode !== 'daily' && s.status === 'active');
     if (active) {
-      if (active.category === category && active.mode === mode) return active;
-      throw new GameError('ACTIVE_TOPIC', 'Du hast eine offene Themenrunde. Du kannst sie fortsetzen oder im Verlauf aufgeben.', active.id);
+      if (active.category === category && active.mode === mode && (active.subtopic ?? null) === subtopic &&
+          (active.rematchOf ?? null) === rematchOf) return active;
+      throw new GameError('ACTIVE_TOPIC', 'Du hast eine offene Zusatzrunde. Du kannst sie fortsetzen oder im Verlauf aufgeben.', active.id);
     }
     if (mode === 'trial' && state.trials[category]) throw new GameError('TRIAL_USED', 'Diese Kennenlernrunde wurde bereits gestartet.');
-    if (mode !== 'trial' && !entitled) throw new GameError('PLUS', 'Für weitere Themenrunden benötigst du Quizsalon Plus.');
+    if (mode === 'topic' || mode === 'challenge') {
+      if (!entitled) throw new GameError('PLUS', 'Für weitere Themenrunden benötigst du Quizsalon Plus.');
+      if (!availableTopicModes(state, catalog, time.day, category, subtopic).includes(mode)) {
+        throw new GameError('POOL', 'Für diese Mischung sind zurzeit zu wenige Fragen verfügbar.', sessions.find(s => s.status === 'active')?.id);
+      }
+    }
   }
-  const id = mode === 'daily' ? 'daily-' + time.day : mode + '-' + (Object.keys(state.sessions).length + 1);
+  const id = prepared?.key || (mode === 'daily' ? 'daily-' + time.day : mode + '-' + (sessions.length + 1));
   const seed = [installId, time.day, RULES.selection_version, id].join('/');
-  const {items, isReview} = choose(state, catalog, mode, category, time.day, seed);
+  const {items, isReview} = prepared || choose(state, catalog, mode, category, time.day, seed, subtopic, rematch);
   const simSeed = seed + '/computer';
   const session = {id, mode, category, status: 'active', day: time.day, zone: time.zone, offset: time.offset,
     created: time.now, completed: null, cursor: 0, seed, selectionVersion: RULES.selection_version,
     catalogVersion: catalog.version, items, isReview, simSeed,
-    opponents: mode === 'daily' ? simulate(items.map(i => i.q), simSeed) : [], result: null};
+    opponents: mode === 'daily' || mode === 'quick' ? simulate(items.map(i => i.q), simSeed, sessions, rematch) : [], result: null};
+  if (prepared) session.friendScore = prepared.score;
+  if (subtopic) session.subtopic = subtopic;
+  if (rematchOf) session.rematchOf = rematchOf;
   state.sessions[id] = session;
   if (mode === 'trial') state.trials[category] = id;
   return session;
@@ -356,7 +409,9 @@ export function statistics(state, catalog) {
   return stats;
 }
 export function ranking(session) {
-  if (session.mode !== 'daily' || session.corrected || session.result?.valid !== 10) return [];
+  const length = session.mode === 'daily' ? 10 : session.mode === 'quick' ? 5 : 0;
+  if (!length || session.status !== 'completed' || session.corrected ||
+      session.result?.valid !== length || session.opponents?.length !== 3) return [];
   const rows = [{name: 'Du', correct: session.result.correct, human: true}, ...session.opponents];
   rows.sort((a, b) => b.correct - a.correct);
   return rows.map(row => ({...row, rank: 1 + rows.filter(r => r.correct > row.correct).length}));

@@ -1,12 +1,12 @@
 # Quizsalon
 
-**[▶ Quizsalon 0.3.0 auf dem Handy oder im Browser spielen](https://emfau88.github.io/Quiz/spielen.html?v=0.3.0)**
+**[▶ Quizsalon 0.4.0 auf dem Handy oder im Browser spielen](https://emfau88.github.io/Quiz/spielen.html?v=0.4.0)**
 
-Öffne den Link auf deinem Handy oder Computer. Du startest direkt mit der ersten von zehn Tagesfragen. In allen sechs Themen kannst du zusätzlich zwischen „Gemischt“ und „Anspruchsvoll“ wählen. Dein Fortschritt bleibt in diesem Browser auf diesem Gerät. Nach dem ersten vollständigen Laden kannst du auch offline weiterspielen.
+Du startest mit der ersten von zehn Tagesfragen. Danach kannst du mit **„Noch 5 Fragen“** beliebig oft kostenlos weiterspielen. Am Quiztisch sitzen drei von zwölf illustrierten Computergegnern. Für eine Revanche kannst du dieselben drei Gäste wieder einladen. Oder du schickst einem Freund deinen Spiel-Link. Er bekommt dieselben fünf Fragen und kann dir sein Ergebnis zurückschicken. Dein Fortschritt bleibt in diesem Browser. Nach dem ersten vollständigen Laden kannst du offline weiterspielen.
 
 Ein deutschsprachiges, lokal spielbares Tagesquiz für Browser und Android. Oberfläche und Spielregeln sind in HTML, CSS und JavaScript umgesetzt. Der Android-Host verwendet Java und die System-WebView.
 
-Die deutsche Ausgabe **0.3.0** enthält 2.400 Fragen. In jeder neuen Tagesrunde schätzt du einmal eine Größenordnung und löst zwei eigens formulierte Hinweisfragen. Höchstens zwei der zehn Fragen verlangen reines Wiedererkennen. Dienstags, donnerstags und sonntags stammt eine Frage aus der Forschung, solange für den Spieltag eine Veröffentlichung der letzten drei Jahre vorliegt. Die Auflösung zeigt das Erscheinungsdatum und verlinkt die Quelle. Angefangene Runden lassen sich auch nach einem Update in ihrer ursprünglichen Reihenfolge beenden. [Inhaltsbericht und Vergleich zur Vorversion](CONTENT_REPORT.md) · [Auswahl für die zwei Hinweisfragen](specs/daily_clues.json)
+Die deutsche Ausgabe **0.4.0** enthält 2.400 Fragen. In jeder neuen Tagesrunde schätzt du einmal eine Größenordnung und löst zwei eigens formulierte Hinweisfragen. Höchstens zwei der zehn Fragen verlangen reines Wiedererkennen. Dienstags, donnerstags und sonntags stammt eine Frage aus der Forschung, solange für den Spieltag eine Veröffentlichung der letzten drei Jahre vorliegt. Die Auflösung zeigt das Erscheinungsdatum und verlinkt die Quelle. Angefangene Runden lassen sich auch nach einem Update in ihrer ursprünglichen Reihenfolge beenden. [Inhaltsbericht und Vergleich zur Vorversion](CONTENT_REPORT.md) · [Auswahl für die zwei Hinweisfragen](specs/daily_clues.json)
 
 ## Ausgaben zum Herunterladen
 
@@ -22,7 +22,9 @@ Das ZIP-Übergabepaket enthält den vollständigen Quellenstand einschließlich 
 
 Beim ersten Start öffnet sich Frage eins. Eine Tagesrunde hat zehn Fragen und bis zu zwei gezielt fällige Wiederholungen. Nach jeder Antwort bleibt die Erklärung sichtbar, bis du weitergehst. **Pausieren** bewahrt die Auswahl. Unter **Mein Wissen → Verlauf** kannst du auch eine offene Runde von einem früheren Tag beenden.
 
-Eine abgeschlossene Tagesrunde mit gültigen Fragen bringt 20 XP sowie 10 XP je richtige Antwort. Vier abgeschlossene Tagesdaten in einer Kalenderwoche erfüllen das Wochenziel. Kennenlern- und Themenrunden verändern Lernhistorie und Album. Die Regelerklärungen findest du auch unter **Mein Wissen → Statistik**.
+Eine abgeschlossene Tagesrunde mit gültigen Fragen bringt 20 XP sowie 10 XP je richtige Antwort. Vier abgeschlossene Tagesdaten in einer Kalenderwoche erfüllen das Wochenziel. In Zusatzrunden wachsen Lernhistorie und Album. Über **Thema wählen** findest du sechs Hauptrubriken sowie Filmgeschichte, Tierverhalten und Wetter. Im regulären Spiel gibt es je Hauptrubrik eine kostenlose Kennenlernrunde. Der Einmalkauf Plus öffnet die freie Themenwahl. In der Browser-Testausgabe kannst du diese Themen direkt ausprobieren.
+
+Für einen Freundesvergleich spielst du zuerst eine gemischte Fünferrunde oder Revanche zu Ende. Wähle **Freunde herausfordern** und teile den Link über das Systemmenü oder kopiere ihn. Der Empfänger spielt im Browser, kann die geladene Runde offline beenden und dir anschließend beide Trefferzahlen als Text zurücksenden. Tisch und Revanche kannst du in den Einstellungen ausblenden. [Quiztisch](release/qa/weiterspielen-0.4.0/ui/01-Quiztisch.png) · [Freundesvergleich](release/qa/weiterspielen-0.4.0/ui/09-Freundesergebnis.png)
 
 ## Quellen und Aufbau
 

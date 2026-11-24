@@ -154,6 +154,35 @@ def verify_classification(q):
                 f"Publikationsdatum oder Originalquelle der Forschungskarte ungültig: {q['id']}")
 
 
+def subtopic_report(rules, rows, release=False):
+    """Check editorial tag groups against eligible cards and count distinct facts per grade."""
+    report = {}
+    assigned = set()
+    for key, topic in rules["subtopics"].items():
+        category, tags = topic["category"], topic["tags"]
+        require(re.fullmatch(r"[a-z][a-z0-9_]*", key) and topic["label"].strip(), f"Unterthema ungültig: {key}")
+        require(category in rules["categories"], f"Unbekannte Hauptkategorie im Unterthema {key}")
+        require(isinstance(tags, list) and tags and all(re.fullmatch(r"thema_[a-z][a-z0-9_]*", t) for t in tags),
+                f"Ungültige Themenkennzeichnung für {key}")
+        for tag in tags:
+            require((category, tag) not in assigned, f"Themenkennzeichnung mehrfach zugeordnet: {category}/{tag}")
+            assigned.add((category, tag))
+        members = [q for q in rows if q["category"] == category and any(t in q["tags"] for t in tags)]
+        unique([q["id"] for q in members], f"Doppelte Frage im Unterthema {key}")
+        unique([normalize(q["fact_key"]) for q in members], f"Doppelter Sachverhalt im Unterthema {key}")
+        counts = Counter(q["difficulty"] for q in members)
+        require(set(counts) <= set(LEVELS), f"Unbekannter Schwierigkeitsgrad im Unterthema {key}")
+        grades = [counts[level] for level in LEVELS]
+        variants = [mode for mode in ("topic", "challenge")
+                    if all(n >= need for n, need in zip(grades, rules["rounds"][mode]["mix"]))]
+        if release:
+            require(all(any(t in q["tags"] for q in members) for t in tags),
+                    f"Unbesetzte Themenkennzeichnung in der Hauptkategorie für {key}")
+            require(variants, f"Keine vollständige Mischung im Unterthema {key}")
+        report[key] = {"category": category, "facts": len(members), "grades": grades, "variants": variants}
+    return report
+
+
 def build(stage, output, as_of, rules_path=None):
     rules = read(ROOT / "specs/product_rules.json")
     schema = read(ROOT / "specs/question.schema.json")
@@ -241,13 +270,15 @@ def build(stage, output, as_of, rules_path=None):
                      and sum(n for k, n in available.items() if k not in slots) >= daily["length"] - sum(slots.values()))
     if stage == "release":
         require(daily_formats, "Pflichtplätze einer Tagesrunde ohne Forschung nicht belegbar")
+    subtopics = subtopic_report(rules, [q for q in runtime if not q.get("research") or
+                                       q["research"]["published_on"] <= as_of], release=stage == "release")
     content_hash = hashlib.sha256(encode([runtime, corrections, archived, daily_formats, daily_clues]).encode()).hexdigest()
     version = "de-" + content_hash[:12]
     manifest = {"version": version, "sha256": content_hash, "active": len(rows), "facts": len({q["fact_key"] for q in rows}),
                 "starter": sum(bool(q.get("starter")) for q in rows), "reference": sum(bool(q.get("reference")) for q in rows),
                 "categories": mix, "reference_categories": reference, "reference_complete": exact_reference,
                 "release_distribution_complete": exact_reference and exact_release, "corrections": len(corrections),
-                "archived": len(archived), "forms": dict(sorted(forms.items())),
+                "archived": len(archived), "forms": dict(sorted(forms.items())), "subtopics": subtopics,
                 "research": sum("research" in q for q in rows), "daily_formats": daily_formats, "daily_clues": len(daily_clues),
                 "human_observations": sum(len(q["human_test_observations"]) for q in rows)}
     output.mkdir(parents=True, exist_ok=True)

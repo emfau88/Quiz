@@ -5,7 +5,7 @@ export function themeAccess() {
   try { if (native) status = JSON.parse(native.billingState()); } catch { /* Remain closed if Play has no readable status. */ }
   const allowed = status.state === 'entitled';
   const messages = {
-    unavailable: 'Google Play ist hier nicht verfügbar. Tagesrunde, Kennenlernrunden und Wissensalbum sind kostenlos nutzbar.',
+    unavailable: 'Google Play ist hier nicht verfügbar. Tagesrunde, Kurzrunden, Freundesrunden, Kennenlernrunden und Wissensalbum sind kostenlos nutzbar.',
     unknown: 'Der Kaufstatus wird mit Google Play abgeglichen. Du kannst die Abfrage erneut starten.',
     pending: 'Die Zahlung ist ausstehend. Sobald Google Play sie bestätigt, werden die Themenrunden freigeschaltet.',
     entitled: 'Dein dauerhafter Plus-Zugang ist aktiv. Deine Themenrunden funktionieren auch offline.',

@@ -180,6 +180,20 @@ public final class MainActivity extends Activity {
             } catch (JSONException impossible) { throw new IllegalStateException(impossible); }
         }
         @JavascriptInterface public void openExternal(String url) { runOnUiThread(() -> external(Uri.parse(url))); }
+        @JavascriptInterface public void shareText(String text) {
+            if (text == null || text.trim().isEmpty()) return;
+            runOnUiThread(() -> {
+                if (!hasWindowFocus() || isFinishing() || isDestroyed()) return;
+                Intent send = new Intent(Intent.ACTION_SEND)
+                        .setType("text/plain").putExtra(Intent.EXTRA_TEXT, text);
+                try {
+                    startActivity(Intent.createChooser(send, null));
+                } catch (ActivityNotFoundException unavailable) {
+                    Toast.makeText(MainActivity.this, "Das Teilen-Menü ist nicht verfügbar. Du kannst den Text kopieren.",
+                            Toast.LENGTH_LONG).show();
+                }
+            });
+        }
         @JavascriptInterface public void copy(String text) {
             runOnUiThread(() -> getSystemService(ClipboardManager.class)
                     .setPrimaryClip(ClipData.newPlainText("Quizsalon", text)));

@@ -6,6 +6,7 @@ import {createHash} from 'node:crypto';
 import {resolve, join} from 'node:path';
 import {setTimeout as delay} from 'node:timers/promises';
 import assert from 'node:assert/strict';
+import {runContinue} from './android-continue.mjs';
 
 const [serial, output, mode = 'daily', fresh] = process.argv.slice(2);
 if (!/^emulator-\d+$/.test(serial || '') || !output) {
@@ -13,7 +14,7 @@ if (!/^emulator-\d+$/.test(serial || '') || !output) {
 }
 const folder = resolve(output);
 mkdirSync(folder, {recursive:true});
-const pkg = mode === 'local' ? 'de.quizsalon.lokaltest' : 'de.quizsalon.vorschau';
+const pkg = ['local','continue-local'].includes(mode) ? 'de.quizsalon.lokaltest' : 'de.quizsalon.vorschau';
 const activity = pkg + '/de.quizsalon.app.MainActivity';
 const adb = (...args) => execFileSync('adb', ['-s', serial, ...args], {encoding:'utf8', timeout:45000}).trim();
 const shell = (...args) => adb('shell', ...args);
@@ -131,6 +132,9 @@ async function screenshot(name, selector) {
   await delay(500);
   shell('cmd','statusbar','collapse');
   await delay(1600);
+  screenCapture(name);
+}
+function screenCapture(name) {
   const nameWithExt = name + '.png';
   const devicePng = '/data/local/tmp/quizsalon-frame.png';
   shell('screencap','-p',devicePng);
@@ -216,6 +220,19 @@ async function dailyFlow(gallery = false) {
   passed('Prozess vor erster Antwort beendet und identisch wiederaufgenommen');
   for (let pos = 0; pos < 10; pos++) {
     const item = (await daily()).items[pos];
+    if (gallery) {
+      const format=item.q.tags?.includes('form_schaetzen')?'Schätzfrage':
+        item.q.tags?.includes('form_herleiten')?'Zum Herleiten':'';
+      if (format) {
+        assert.ok((await js("document.querySelector('#question-format')?.textContent || ''")).includes(format));
+        assert.ok((await js("document.querySelector('#question').getAttribute('aria-describedby')")).split(/\s+/).includes('question-format'));
+        report.formats??=[];
+        if (!report.formats.some(row=>row.format===format)) {
+          await screenshot(format==='Schätzfrage'?'07-schaetzfrage':'08-hinweisfrage','#question-format');
+        }
+        report.formats.push({position:pos+1,format,question:item.q.id});
+      }
+    }
     const id = pos < 7 ? item.q.correct_option_id : item.order.find(option => option !== item.q.correct_option_id);
     const selector = 'button.answer[data-id="' + id + '"]';
     await click(selector);
@@ -251,7 +268,8 @@ async function dailyFlow(gallery = false) {
   await screenshot('03-ergebnis');
   await click('details.virtual summary');
   assert.equal(await js("document.querySelectorAll('details.virtual tbody tr').length"),4);
-  assert.equal(await js("Array.from(document.querySelectorAll('details.virtual tbody small')).filter(el=>el.textContent==='Computergegner').length"),3);
+  assert.equal(await js("document.querySelectorAll('details.virtual tbody tr:not(.own-row)').length"),3);
+  assert.match(await js("document.querySelector('details.virtual caption').textContent"),/drei Computergegner/i);
   passed('Virtueller Vergleich enthält drei ausdrücklich bezeichnete Computergegner');
   await click('[data-action="home"]');
   await exists('.cover');
@@ -393,6 +411,9 @@ try {
   else if (mode === 'local') await localFlow();
   else if (mode === 'topics') await topicsScreen();
   else if (mode === 'upgrade-before' || mode === 'upgrade-after') await upgradeFlow(mode === 'upgrade-after');
+  else if (mode.startsWith('continue-')) await runContinue(mode, {
+    restart, js, click, exists, screenshot, screenCapture, profile, eventually, passed, report, shell, folder, pkg, widthCheck,
+  });
   else throw new Error('Unbekannte Testart');
   report.ok = true;
 } finally {

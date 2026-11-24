@@ -46,6 +46,8 @@ jobs:
         run: |
           npx --no-install playwright-core install --with-deps chromium webkit
           node tests/pages-browser.mjs "$RUNNER_TEMP/quizsalon/Quiz"
+          node tests/quick-browser.mjs "$RUNNER_TEMP/qa-kurzrunden"
+          node tests/followup-browser.mjs --pages "$RUNNER_TEMP/quizsalon/Quiz" --out "$RUNNER_TEMP/qa-freunde"
       - uses: actions/upload-pages-artifact@v5
         with:
           path: ${{ runner.temp }}/quizsalon/Quiz

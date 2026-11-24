@@ -1,9 +1,11 @@
 import assert from 'node:assert/strict';
 import path from 'node:path';
+import {readFile} from 'node:fs/promises';
 import {chromium, devices, webkit} from 'playwright-core';
 import {serve} from '../tools/serve.mjs';
 
 const directory = path.resolve(process.argv[2]);
+const version = JSON.parse(await readFile('package.json', 'utf8')).version;
 const basePath = '/Quiz/';
 const phones = {
   chromium: {browser: chromium, device: 'Pixel 7', width: 360},
@@ -24,7 +26,7 @@ for (const name of process.argv.slice(3).length ? process.argv.slice(3) : Object
     const errors = [];
     page.on('pageerror', error => errors.push(error.message));
 
-    const playLink = new URL('spielen.html?v=0.3.0', start);
+    const playLink = new URL('spielen.html?v=' + version, start);
     const response = await page.goto(playLink.href);
     assert.equal(response.status(), 200);
     await page.waitForURL(url => url.pathname === start.pathname);

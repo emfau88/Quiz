@@ -5,7 +5,7 @@ import {addDays, advance, answer, keyOf, newGame, startRound} from '../web/js/en
 import {RULES} from '../web/js/rules.js';
 
 const catalog = JSON.parse(await readFile('web/data/catalog.json','utf8'));
-const output = 'release/qa/modern-0.3.0';
+const output = process.argv[2] || 'release/qa/weiterspielen-0.4.0';
 const baseline = '2026-11-22';
 const form = q => q.tags.find(tag=>tag.startsWith('form_'));
 function tally(hist, value) { hist[value] = (hist[value] || 0)+1; }

@@ -15,7 +15,7 @@ Im Projektstamm auf Windows ausführen. Auf Linux und macOS lautet der Wrapper `
 adb install -r android/app/build/outputs/apk/debug/app-debug.apk
 ```
 
-Die Vorschau trägt die Paketkennung `de.quizsalon.vorschau`, den versionCode 3 und die Version 0.3.0. Mindestversion ist Android 7.0 (API 24), Ziel ist Android 16 (API 36). Das Debug-Zertifikat dient lokalen Installationen.
+Die Vorschau trägt die Paketkennung `de.quizsalon.vorschau`, den versionCode 4 und die Version 0.4.0. Mindestversion ist Android 7.0 (API 24), Ziel ist Android 16 (API 36). Das Debug-Zertifikat dient lokalen Installationen.
 
 Für die lokale Erprobung aller Themen und beider Schwierigkeitsstufen gibt es den zusätzlichen Build `:app:assembleLocalTest`. Er installiert sich als **Quizsalon Lokaltest** (`de.quizsalon.lokaltest`), verwendet einen eigenen Spielstand und initialisiert keinen Play-Billing-Client. Gradle überlagert nur in dieser Variante `js/access.js` mit dem lokalen Zugangsmodul aus `tests/local-theme-access.js`. Dieses Modul kennzeichnet Themenrunden als Lokaltest. Die normale Vorschau und der Release verwenden das Produktionsmodul aus `web/js/access.js`.
 
@@ -59,6 +59,8 @@ Die WebView akzeptiert Ressourcen aus der gebündelten lokalen HTTPS-Herkunft. E
 Standardmäßig sind Erinnerungen aus. Nach Auswahl einer lokalen Zeit fordert die App ab Android 13 die Benachrichtigungserlaubnis an. Der Alarm ist ungenau. Das System kann ihn zum Energiesparen verschieben. Neustart, Zeitzonenwechsel und Uhrzeitänderungen lösen eine Neuberechnung aus. Bei deaktivierter Erinnerung wird der Alarm entfernt. [Benachrichtigungen](https://developer.android.com/develop/ui/views/notifications/notification-permission) · [Alarme](https://developer.android.com/develop/background-work/services/alarms)
 
 Der Host berücksichtigt Systemleisten, Tastatur und die Android-Schriftgröße und übergibt die HTML-Semantik an die WebView-Zugänglichkeitsbrücke. Der Debug-Build erlaubt lokale WebView-Inspektion per ADB. Der Release-Build deaktiviert sie.
+
+Bei einer Einladung oder Ergebnisantwort öffnet die Teilen-Schaltfläche über `QuizAndroid.shareText(text)` das Android-Systemmenü. Die App übergibt den sichtbaren Einladungstext mit öffentlichem Spiel-Link oder den freigegebenen Ergebnistext als `text/plain`. Erst die Auswahl einer Ziel-App übergibt den Text an diese App. Android „Zurück“ schließt das Menü. Der öffentliche Link öffnet die Browserfassung. [Android Sharesheet für Text](https://developer.android.com/training/sharing/send)
 
 Das getrennte Test-APK enthält Instrumentierungsprüfungen und erzeugt flüchtige Test-Schlüssel ausschließlich in diesen Prüfungen. Die Kaufmatrix mit echten Play-Zahlungswegen ist Teil der externen Abnahme.
 

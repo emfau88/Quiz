@@ -95,6 +95,40 @@ class CatalogTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 compiler.verify_classification(dict(starter, tags=invalid))
 
+    def test_selectable_subtopics_have_proven_members_and_difficulty_mixes(self):
+        rules = compiler.read(ROOT / "specs/product_rules.json")
+        cards = compiler.read(ROOT / "web/data/catalog.json")["questions"]
+        report = compiler.subtopic_report(rules, cards, release=True)
+        self.assertEqual(report["filmgeschichte"], {"category": "entertainment", "facts": 96,
+                         "grades": [54, 31, 11], "variants": ["topic", "challenge"]})
+        self.assertEqual(report["tierverhalten"], {"category": "nature_animals", "facts": 38,
+                         "grades": [26, 10, 2], "variants": ["topic"]})
+        self.assertEqual(report["wetter"], {"category": "nature_animals", "facts": 30,
+                         "grades": [18, 9, 3], "variants": ["topic", "challenge"]})
+
+    def test_subtopic_compiler_rejects_bad_tag_groups_and_repeated_facts(self):
+        rules = compiler.read(ROOT / "specs/product_rules.json")
+        weather = rules["subtopics"]["wetter"]
+        rules["subtopics"] = {"wetter": weather}
+        card = dict(starter, id="w1", fact_key="Testfakt", tags=weather["tags"], category=weather["category"])
+        for field in ("unknown-category", "missing-tag", "duplicate-tag", "duplicate-fact", "shortage"):
+            with self.subTest(field=field):
+                copy_rules = copy.deepcopy(rules)
+                cards = [copy.deepcopy(card)]
+                if field == "unknown-category":
+                    copy_rules["subtopics"]["wetter"]["category"] = "unbekannt"
+                elif field == "missing-tag":
+                    cards[0]["category"] = "entertainment"
+                elif field == "duplicate-tag":
+                    copy_rules["subtopics"]["zweites"] = dict(weather)
+                elif field == "duplicate-fact":
+                    cards.append(dict(card, id="w2", fact_key="testfakt"))
+                with self.assertRaises(ValueError):
+                    compiler.subtopic_report(copy_rules, cards, release=field in ("missing-tag", "shortage"))
+        preview = compiler.subtopic_report(rules, [dict(card, category="entertainment")])
+        self.assertEqual(preview["wetter"]["facts"], 0)
+        self.assertEqual(preview["wetter"]["variants"], [])
+
     def test_science_requires_a_real_source_and_a_publication_in_the_past(self):
         source = starter["sources"][0]["id"]
         record = dict(published_on="2025-01-03", publisher="Test", source_id=source)

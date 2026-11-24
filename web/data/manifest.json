@@ -81,6 +81,46 @@
     "form_wiedererkennen": 405,
     "form_zeitlich_einordnen": 144
   },
+  "subtopics": {
+    "filmgeschichte": {
+      "category": "entertainment",
+      "facts": 96,
+      "grades": [
+        54,
+        31,
+        11
+      ],
+      "variants": [
+        "topic",
+        "challenge"
+      ]
+    },
+    "tierverhalten": {
+      "category": "nature_animals",
+      "facts": 38,
+      "grades": [
+        26,
+        10,
+        2
+      ],
+      "variants": [
+        "topic"
+      ]
+    },
+    "wetter": {
+      "category": "nature_animals",
+      "facts": 30,
+      "grades": [
+        18,
+        9,
+        3
+      ],
+      "variants": [
+        "topic",
+        "challenge"
+      ]
+    }
+  },
   "research": 36,
   "daily_formats": true,
   "daily_clues": 241,

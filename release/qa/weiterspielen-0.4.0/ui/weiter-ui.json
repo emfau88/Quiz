@@ -1,0 +1,61 @@
+{
+  "at": "2026-11-24T20:31:59.249Z",
+  "browser": "149.0.7827.55",
+  "viewport": [
+    360,
+    640
+  ],
+  "checks": [
+    "Browser-Teilen mit kontrolliertem AbortError abgebrochen. Danach den echten öffentlichen Link über die Browser-Zwischenablage kopiert und zurückgelesen.",
+    "Tagesergebnis → kostenlose Kurzrunde → zweite Kurzrunde ohne Umweg. Revanche mit dem gleichen Trio; nur Tagesrunde im XP-Ledger.",
+    "Öffentlicher 4/5-Link auf separatem Profil und anderem Datum. Vorschau ohne Fortschrittsänderung, dieselben fünf Fragen und Antwortreihenfolgen, nach zwei Antworten offline neu geladen und mit 3/5 beendet. Wiederöffnen setzt fort bzw. zeigt das Ergebnis. Beschädigter Link öffnet auf Wunsch eine Kurzrunde.",
+    "Über die Themenoberfläche fünf verfügbare Unterthemenmischungen in der lokalen Testausgabe bis zum Ergebnis gespielt und alle 50 Karten geprüft. Im regulären Browser bleibt die freie Themenwahl hinter Plus."
+  ],
+  "scans": [
+    {
+      "label": "Erste Tagesfrage, 100 %",
+      "violations": []
+    },
+    {
+      "label": "Erste Tagesfrage, 200 %",
+      "violations": []
+    },
+    {
+      "label": "Tagesergebnis, 100 %",
+      "violations": []
+    },
+    {
+      "label": "Freundeslink teilen, 100 %",
+      "violations": []
+    },
+    {
+      "label": "Ergebnis mit offenem Quiztisch, 200 %",
+      "violations": []
+    },
+    {
+      "label": "Einladung vor dem Erststart",
+      "violations": []
+    },
+    {
+      "label": "Freundesauswertung, 200 %",
+      "violations": []
+    },
+    {
+      "label": "Tierverhalten und anspruchsvolle Hauptkategorie, 200 %",
+      "violations": []
+    }
+  ],
+  "screenshots": [
+    "01-Quiztisch.png",
+    "02-Tagesergebnis.png",
+    "03-Kostenlose-Kurzrunde.png",
+    "04-Kurzrundenergebnis.png",
+    "05-Einladung-teilen.png",
+    "06-Thema-waehlen.png",
+    "07-Einladung-empfangen.png",
+    "08-Freundesergebnis-grosse-Schrift.png",
+    "09-Freundesergebnis.png",
+    "10-Tierverhalten.png"
+  ],
+  "pageErrors": []
+}

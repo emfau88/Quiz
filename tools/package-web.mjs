@@ -106,7 +106,11 @@ if (!options.pages && !options['sw-only']) {
       api.onResolve({filter:/^\.\/catalog\.js$/},() => ({path:'embedded',namespace:'catalog'}));
       api.onLoad({filter:/.*/,namespace:'catalog'},() => ({contents:'export async function loadCatalog(){return ' + catalog + ';}'}));
     }}]});
-  const script = bundle.outputFiles[0].text.replaceAll('./assets/salon.webp',await data('web/assets/salon.webp','image/webp')).replace(/<\/script/gi,'<\\/script');
+  const {simulation} = JSON.parse(await readFile('specs/product_rules.json', 'utf8'));
+  const portraits = Object.fromEntries(await Promise.all(simulation.opponents.map(async ({id}) =>
+    [id, await data('web/assets/guests/' + id + '.png', 'image/png')])));
+  const script = 'globalThis.QUIZSALON_GUEST_PORTRAITS=' + JSON.stringify(portraits) + ';\n' +
+    bundle.outputFiles[0].text.replaceAll('./assets/salon.webp',await data('web/assets/salon.webp','image/webp')).replace(/<\/script/gi,'<\\/script');
   let css = await readFile('web/styles.css','utf8');
   for (const file of ['DM-Sans.ttf','Spectral-Medium.ttf']) css = css.replace('./assets/fonts/' + file,await data('web/assets/fonts/' + file,'font/ttf'));
   let html = await readFile('web/index.html','utf8');

@@ -1,6 +1,8 @@
 import {RULES} from './rules.js';
 import {addDays, monday, experience, weekActivity, statistics, collection, ranking} from './engine.js';
 import {icon, logo} from './icons.js';
+import {friendLinkFor} from './friends.js';
+import {subtopicOptions} from './subtopics.js';
 
 export const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;', '<':'&lt;', '>':'&gt;', '"':'&quot;', "'":'&#39;'}[c]));
 const nameOf = category => RULES.categories[category] || 'Tagesrunde';
@@ -8,9 +10,28 @@ const displayDay = (day, options) => new Intl.DateTimeFormat('de-DE', options).f
 const fullDay = day => displayDay(day, {weekday:'long', day:'numeric', month:'long', year:'numeric', timeZone:'UTC'});
 const shortDay = day => displayDay(day, {day:'numeric', month:'long', timeZone:'UTC'});
 const dayLabels = ['Mo','Di','Mi','Do','Fr','Sa','So'];
-export const modeLabel = s => ({daily:'Tagesrunde',trial:'Kennenlernrunde',topic:'Themenrunde',challenge:'Anspruchsvolle Themenrunde'}[s.mode]);
+export const modeLabel = s => s.mode === 'quick' && s.rematchOf ? 'Revanche' :
+  ({daily:'Tagesrunde',quick:'Kurzrunde',friend:'Freundesrunde',trial:'Kennenlernrunde',topic:'Themenrunde',challenge:'Anspruchsvolle Themenrunde'}[s.mode] || 'Quizrunde');
 const action = (id, label, style = 'secondary', extra = '') => '<button type="button" class="btn ' + style + '" data-action="' + id + '" ' + extra + '>' + label + '</button>';
 export {action, nameOf};
+
+const guestStrengths = {nature_animals:'Natur',geography_travel:'Reisen',everyday_technology:'Technik',history_discoveries:'Geschichte',entertainment:'Film & Musik',language_culture:'Sprache'};
+function guestInfo(guest) {
+  const saved = RULES.simulation.opponents.find(person => (guest.id && person.id === guest.id) || person.name === guest.name);
+  const id = saved?.id ?? guest.id;
+  const picture = id && /^[a-z0-9_-]+$/.test(id) ? globalThis.QUIZSALON_GUEST_PORTRAITS?.[id] ?? ('./assets/guests/' + id + '.png') : '';
+  return {picture, strength:(guest.specialties ?? saved?.specialties ?? []).map(k => guestStrengths[k] || nameOf(k)).join(' · ')};
+}
+function portrait(source) {
+  return source ? '<img class="guest-portrait" src="' + esc(source) + '" width="44" height="44" alt="">' : '';
+}
+function guestIntroduction(guests) {
+  return '<section class="guest-intro" aria-labelledby="guest-heading"><h3 id="guest-heading">Heute am Tisch mit drei Computergegnern</h3>' +
+    '<ul id="guest-list">' + guests.map(guest => {
+      const {picture,strength} = guestInfo(guest);
+      return '<li>' + portrait(picture) + '<span><strong>' + esc(guest.name) + '</strong><small>' + esc(strength) + '</small></span></li>';
+    }).join('') + '</ul></section>';
+}
 
 function nav(active) {
   return [['today','Heute','today'],['topics','Themen','topics'],['knowledge','Mein Wissen','book']].map(([id,text,symbol]) =>
@@ -55,7 +76,8 @@ function sidePanel(state, day, artwork = true) {
     '<div class="side-inner">' + weekContent(state, day) + '<div class="divider"></div>' + levelContent(state) + '</div></aside>';
 }
 function historyRow(s) {
-  const title = modeLabel(s) + (s.category ? ' · ' + nameOf(s.category) : '');
+  const detail = s.subtopic ? s.subtopic[0].toLocaleUpperCase('de-DE') + s.subtopic.slice(1) : s.category ? nameOf(s.category) : '';
+  const title = modeLabel(s) + (detail ? ' · ' + detail : '');
   const status = s.status === 'completed' ? s.result.correct + ' von ' + s.result.valid + ' richtig' : s.status === 'active'
     ? 'Offen · ' + s.items.filter(i => i.answer || i.void).length + ' von ' + s.items.length + ' bearbeitet' : 'Aufgegeben';
   return '<div class="history-row"><span class="tile-icon">' + icon(s.category || 'today') + '</span><div class="grow"><strong>' +
@@ -72,19 +94,22 @@ export function todayPage({state, day}) {
   return heading(fullDay(day),'Heute im Quizsalon') + '<div class="two-col"><div><section class="cover"><img src="./assets/salon.webp" alt=""><div class="cover-text"><div class="cover-kind">' +
     icon('today') + ' Tagesquiz</div><h2>Deine Tagesrunde</h2><p>' + esc(copy) + '</p>' +
     (session?.status === 'abandoned' ? action('themes','Themen entdecken','light') : action('daily',esc(label),'light')) + '</div></section>' +
+    '<div class="home-shortcuts">' +
+    action('quick','<span class="tile-icon">'+icon('replay')+'</span><span><strong>Noch 5 Fragen</strong><small>Kostenlose gemischte Runde</small></span>'+icon('chevron'),'shortcut-link') +
+    action('themes','<span class="tile-icon">'+icon('topics')+'</span><span><strong>Thema wählen</strong><small>Sechs Kategorien entdecken</small></span>'+icon('chevron'),'shortcut-link') + '</div>' +
     (other.length ? '<section class="paper section-card"><h2>Offene Runden</h2>' + other.map(historyRow).join('') + '</section>' : '') +
-    '<section class="shortcut"><span class="tile-icon">' + icon('topics') + '</span><div class="grow"><h3>Themen entdecken</h3><p>Sechs Kategorien mit je einer kostenlosen Kennenlernrunde.</p></div>' +
-    '<button data-nav="topics" class="icon-button" aria-label="Zu den Themen">' + icon('topics') + '</button></section></div>' + sidePanel(state,day,false) + '</div>';
+    '</div>' + sidePanel(state,day,false) + '</div>';
 }
 export function quizPage({state, session: s, day}) {
   const pos = s.cursor, item = s.items[pos], q = item.q;
-  const label = s.isReview ? 'Wiederholungsrunde' : (s.mode === 'daily' ? 'Die Tagesrunde' : modeLabel(s));
+  const label = s.mode === 'daily' ? (s.isReview ? 'Wiederholungsrunde' : 'Die Tagesrunde') : modeLabel(s);
   const count = 'Frage ' + (pos + 1) + ' von ' + s.items.length;
   const segments = s.items.map((_,i) => '<span class="' + (i < pos ? 'done' : i === pos ? 'current' : '') + '"></span>').join('');
   const selected = item.answer;
   const task = q.tags?.includes('form_schaetzen') ? 'Schätzfrage' : q.tags?.includes('form_herleiten') ? 'Zum Herleiten' : '';
   const researchYear = q.research?.published_on.slice(0, 4);
   const context = [task, researchYear && 'Aus der Forschung ' + researchYear].filter(Boolean).join(' · ');
+  const showGuests = pos === 0 && !selected && !item.void && state.settings.comparison && s.opponents?.length === 3 && ['daily','quick'].includes(s.mode);
   let body;
   if (item.void) {
     body = '<h2 class="question-title" id="question" tabindex="-1">Diese Frage wird korrigiert.</h2><p>Wir überspringen diese Position. Sie zählt für dieses Ergebnis nicht mit.</p>';
@@ -100,7 +125,7 @@ export function quizPage({state, session: s, day}) {
         (result ? '<span class="answer-state">' + result + '</span>' : '') + '</button>';
     }).join('');
     body = (context ? '<p class="question-format" id="question-format">' + esc(context) + '</p>' : '') +
-      '<h2 class="question-title" id="question" tabindex="-1" aria-describedby="position' + (context ? ' question-format' : '') + '">' + esc(q.question) +
+      '<h2 class="question-title" id="question" tabindex="-1" aria-describedby="position' + (context ? ' question-format' : '') + (showGuests ? ' guest-heading guest-list' : '') + '">' + esc(q.question) +
       '</h2><div class="answers" role="group" aria-labelledby="question">' + opts + '</div>';
     if (selected) {
       const answerText = q.options.find(o => o.id === q.correct_option_id).text;
@@ -117,39 +142,95 @@ export function quizPage({state, session: s, day}) {
   const finished = item.void || selected;
   return heading(fullDay(s.day),label,action('pause',icon('pause') + 'Pausieren','quiet-btn')) +
     '<div class="two-col"><section class="paper question-card"><div class="question-meta">' + pill(q.category) +
-    '<span class="position" id="position">' + count + '</span></div><div class="segments" aria-hidden="true">' + segments + '</div>' + body +
+    '<span class="position" id="position">' + count + '</span></div><div class="segments" aria-hidden="true">' + segments + '</div>' + (showGuests ? guestIntroduction(s.opponents) : '') + body +
     (finished ? '<div class="question-actions">' + action('next',pos === s.items.length - 1 ? 'Ergebnis ansehen' : 'Nächste Frage','primary','data-pos="' + pos + '"') + '</div>' : '') +
     '<div class="question-foot">' + (finished ? action('source',icon('book') + 'Quellen','text-btn') : '<span>' + (item.kind === 'new' ? icon('list') + 'Eine Antwort auswählen' : icon('replay') + 'Wiederholungsfrage') + '</span>') +
     action('report',icon('flag') + 'Frage melden','text-btn') + '</div></section>' + sidePanel(state,day) + '</div>';
 }
-export function resultPage({state, session:s, day}) {
+function nextWeekdayHint(state,day) {
+  if (weekActivity(state,day).length !== RULES.progress.week_goal - 1) return '';
+  const today = state.sessions['daily-' + day];
+  const next = today && today.status !== 'active' ? addDays(day,1) : day;
+  return next < addDays(monday(day),7) ? '<p class="week-hint">' + icon('today') + 'Noch ein Spieltag bis zum Wochenziel.</p>' : '';
+}
+export function friendComparable(s) {
+  return s?.mode === 'friend' && s.status === 'completed' && !s.corrected && s.result?.valid === 5 &&
+    Number.isInteger(s.friendScore) && s.friendScore >= 0 && s.friendScore <= 5 && s.items.every(item => !item.void && item.answer);
+}
+function friendResult(s) {
+  if (!friendComparable(s)) return '';
+  return '<section class="friend-result" aria-label="Euer Vergleich"><p>Geteiltes Ergebnis <strong>' + s.friendScore + ' von 5</strong></p>' +
+    action('reply-friend','Ergebnis zurückschicken','text-btn') + '</section>';
+}
+export function invitationPage({invitation, invitationState, state}) {
+  const status = invitationState?.status || 'invalid';
+  const valid = status !== 'invalid';
+  const title = valid ? 'Schaffst du meine ' + invitation.score + ' von 5?' : 'Diese Einladung ist nicht spielbar';
+  let description, controls;
+  if (status === 'ready') {
+    description = 'Dir wurden fünf Quizfragen und ein Ergebnis geschickt. Du spielst kostenlos genau dieselben Fragen.';
+    controls = action('begin-friend','Freundesrunde starten','primary');
+  } else if (status === 'existing') {
+    const finished = invitationState.sessionStatus === 'completed', abandoned = invitationState.sessionStatus === 'abandoned';
+    description = finished ? 'Du hast diese Einladung bereits gespielt. Dein Ergebnis ist gespeichert.' :
+      abandoned ? 'Du hast diese Freundesrunde aufgegeben.' : 'Du hast diese Freundesrunde schon begonnen. Deine Antworten sind gespeichert.';
+    controls = abandoned ? action('quick','Gewöhnliche Kurzrunde starten','primary') : action('open-session',finished ? 'Euer Ergebnis ansehen' : 'Freundesrunde fortsetzen','primary','data-id="' + esc(invitationState.sessionId) + '"');
+  } else if (status === 'conflict') {
+    const daily = invitationState.code === 'DAILY_CONFLICT', saved=state.sessions[invitationState.sessionId];
+    description = daily ? 'Mindestens eine dieser Fragen ist für deine offene Tagesrunde reserviert. Spiele die Tagesrunde zuerst zu Ende.' :
+      'Du hast bereits eine Zusatzrunde angefangen. Setze sie fort oder gib sie auf, bevor du diese Einladung spielst.';
+    controls = action('open-session',daily ? 'Tagesrunde fortsetzen' : 'Offene Runde fortsetzen','primary','data-id="' + esc(invitationState.sessionId) + '"') +
+      (!daily && saved ? action('abandon','Offene Runde aufgeben','text-btn','data-id="' + esc(saved.id) + '"') : '');
+  } else {
+    description = invitationState?.message || 'Der Link ist unvollständig oder die versendeten Fragen sind in dieser Fassung nicht verfügbar.';
+    controls = action('quick','Gewöhnliche Kurzrunde starten','primary');
+  }
+  return '<div class="invite-page">' + heading('Freundesrunde','Deine Einladung','','book') +
+    '<section class="paper invitation-card"><span class="invite-emblem" aria-hidden="true">' + icon('book') + '</span><h2>' + esc(title) +
+    '</h2><p>' + esc(description) + '</p>' + (status === 'ready' ? '<p class="quiet">Erst nach deiner Runde kannst du dein eigenes Ergebnis teilen.</p>' : '') +
+    '<div class="actions">' + controls + action('home','Zur Übersicht','text-btn') + '</div></section></div>';
+}
+export function resultPage({state, session:s, day,catalog,pendingInvitation}) {
   const r = s.result, rows = state.settings.comparison ? ranking(s) : [];
   const comparator = rows.length ? '<details class="paper section-card virtual"><summary><span>' + icon('topics') +
-    'Virtuelle Quizrunde</span>' + icon('down') + '</summary><p>Drei Computergegner haben dieselben Fragen gespielt. Bei gleicher Trefferzahl teilt ihr euch den Platz.</p>' +
-    '<table><caption class="sr-only">Ergebnisse der virtuellen Quizrunde</caption><thead><tr><th>Platz</th><th>Spieler</th><th>Treffer</th></tr></thead><tbody>' +
-    rows.map(row => '<tr' + (row.human ? ' class="own-row"' : '') + '><td>' + row.rank + '.</td><td>' + esc(row.name) +
-      (row.human ? '' : '<small>Computergegner</small>') + '</td><td>' + row.correct + '</td></tr>').join('') + '</tbody></table></details>' : '';
+    'Dein Quiztisch · drei Computergegner</span>' + icon('down') + '</summary><p>Bei gleicher Trefferzahl teilt ihr euch den Platz.</p>' +
+    '<table><caption class="sr-only">Heute am Tisch mit drei Computergegnern</caption><thead><tr><th scope="col">Platz</th><th scope="col">Am Tisch</th><th scope="col">Treffer</th></tr></thead><tbody>' +
+    rows.map(row => {
+      const {picture,strength} = row.human ? {} : guestInfo(row);
+      return '<tr' + (row.human ? ' class="own-row"' : '') + '><td>' + row.rank + '.</td><th scope="row"><span class="ranking-person">' +
+        portrait(picture) + '<span>' + esc(row.name) + (row.human ? '' : '<small>' + esc(strength || 'Computergegner') + '</small>') +
+        '</span></span></th><td>' + row.correct + '</td></tr>';
+    }).join('') + '</tbody></table>' +
+    action('rematch',icon('replay')+'Revanche mit diesem Tisch','secondary','data-id="' + esc(s.id) + '"') + '</details>' : '';
+  const invite = s.mode === 'quick' && friendLinkFor(s,state,catalog,day);
   return heading(fullDay(s.day),'Dein Rundenergebnis') + '<div class="two-col"><div><section class="paper result-card"><div class="result-symbol">' +
     icon(r.medal ? 'medal' : 'book') + '</div><p class="small-label">' + esc(modeLabel(s)) + ' abgeschlossen</p><h2 class="score">' + r.correct + '<span> von </span>' + r.valid +
-    '</h2><p>Fragen richtig beantwortet</p><div class="result-awards">' + (r.medal ? '<span>' + icon('medal') + esc(r.medal) + '</span>' : '') +
-    (s.mode === 'daily' ? '<span>' + icon('spark') + '+' + r.xp + ' XP</span>' : '<span>' + icon('book') + 'Wissensalbum aktualisiert</span>') + '</div>' +
-    (s.corrected ? '<p class="notice">Eine Frage wurde nachträglich korrigiert. Das Abschlussdatum und bereits gebuchte XP bleiben erhalten.</p>' :
+    '</h2><p>Fragen richtig beantwortet</p>' + (friendResult(s) || '<div class="result-awards">' + (r.medal ? '<span>' + icon('medal') + esc(r.medal) + '</span>' : '') +
+    (s.mode === 'daily' ? '<span>' + icon('spark') + '+' + r.xp + ' XP</span>' : '<span>' + icon('book') + 'Wissensalbum aktualisiert</span>') + '</div>') +
+    (s.corrected ? '<p class="notice">Mindestens eine Frage wurde nachträglich korrigiert. ' +
+      (s.mode === 'daily' ? 'Bereits gebuchte XP bleiben erhalten.' : 'Das persönliche Rundenergebnis findest du hier.') + '</p>' :
       r.recalled ? '<p class="notice">Wiedergewusst · ' + r.recalled + (r.recalled === 1 ? ' frühere Frage' : ' frühere Fragen') + ' diesmal richtig beantwortet.</p>' : '') +
-    action('home','Zur Übersicht','primary') + '</section>' + comparator + '</div>' + sidePanel(state,day) + '</div>';
+    nextWeekdayHint(state,day) + '<div class="result-next">' + action('quick','Noch 5 Fragen ' + icon('chevron'),'primary') +
+    action('themes','Thema wählen','secondary') + '</div>' +
+    (invite ? action('invite-friend','Freunde herausfordern','invite-button') : '') +
+    (pendingInvitation ? action('return-invite','Zur Freundeseinladung','text-btn') : '') +
+    action('home','Zur Übersicht','text-btn result-home') + '</section>' + comparator + '</div>' + sidePanel(state,day) + '</div>';
 }
 const colorNames = {'nature_animals':'nature','geography_travel':'travel','everyday_technology':'tech','history_discoveries':'history','entertainment':'music','language_culture':'culture'};
-export function topicsPage({state, billing}) {
+export function topicsPage({state, billing,catalog,day}) {
   const open = Object.values(state.sessions).find(s => s.status === 'active' && s.mode !== 'daily');
   const cards = Object.entries(RULES.categories).map(([id,title]) => {
     const active = open?.category === id;
+    const subtopics = subtopicOptions(state,catalog,day,id);
     const status = active ? 'Angefangene Runde fortsetzen' : billing.allowed ? billing.topicLabel :
       state.trials[id] ? 'Kennenlernrunde bereits genutzt' : 'Kostenlos kennenlernen · 5 Fragen';
     return '<button class="topic-card ' + colorNames[id] + '" data-action="topic" data-id="' + id + '"><span class="topic-art">' +
-      icon(id) + '</span><span class="topic-label"><strong>' + esc(title) + '</strong><small>' + status + '</small></span></button>';
+      icon(id) + '</span><span class="topic-label"><strong>' + esc(title) + '</strong><small>' + esc(status) + '</small>' +
+      (subtopics.length ? '<small class="topic-includes">Mit ' + subtopics.map(item=>esc(item.label)).join(' und ') + '</small>' : '') + '</span></button>';
   }).join('');
   return heading('Themenrunden','Deine Themen',action('plus',icon('spark') + esc(billing.label),'quiet-btn'),'topics') +
     '<p class="intro">' + (billing.allowed ? 'Wähle ein Thema und die Schwierigkeit für deine nächste Runde.' : 'Wähle ein Thema. Die erste Kennenlernrunde jeder Kategorie ist kostenlos.') + '</p>' +
-    (open ? '<section class="paper section-card"><h2>Offene Themenrunde</h2>' + historyRow(open) + '</section>' : '') +
+    (open ? '<section class="paper section-card"><h2>Offene Zusatzrunde</h2>' + historyRow(open) + '</section>' : '') +
     '<div class="topic-grid">' + cards + '</div>';
 }
 export function knowledgePage({state,catalog,day,tab,filter}) {
@@ -212,7 +293,7 @@ function toggle(name, label, hint, checked) {
 }
 export function settingsPage({state, native, reminder, billing}) {
   return heading('Quizsalon','Einstellungen','','gear') + '<div class="settings-grid"><section class="paper section-card"><h2>Beim Spielen</h2>' +
-    toggle('comparison','Computergegner anzeigen','Optionaler Vergleich im Ergebnis der Tagesrunde.',state.settings.comparison) +
+    toggle('comparison','Computergegner anzeigen','Quiztisch und Revanche in Tagesrunden und gemischten Kurzrunden.',state.settings.comparison) +
     toggle('sound','Rückmeldeton','Kurzer Ton nach der Antwort.',state.settings.sound) +
     toggle('haptics','Haptik','Kurzes Vibrieren auf unterstützten Geräten.',state.settings.haptics) +
     '<h2 class="subhead">Tägliche Erinnerung</h2>' + (native ?

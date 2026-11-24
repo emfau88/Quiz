@@ -29,10 +29,12 @@ public final class NativeChecks extends Instrumentation {
     private KeyPair pair;
     private String key;
     private boolean checkTalkBack;
+    private String invitation;
 
     @Override public void onCreate(Bundle args) {
         super.onCreate(args);
         checkTalkBack = "true".equals(args.getString("talkback"));
+        invitation = args.getString("invite64");
         start();
     }
 
@@ -40,7 +42,7 @@ public final class NativeChecks extends Instrumentation {
         Bundle output = new Bundle();
         try {
             if (checkTalkBack) {
-                output.putString("stream", new TalkBackTraversal(this).run());
+                output.putString("stream", new TalkBackTraversal(this).run(invitation));
                 finish(Activity.RESULT_OK, output);
                 return;
             }

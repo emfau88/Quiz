@@ -5,6 +5,7 @@ import {copyFile, mkdir, mkdtemp, readFile, writeFile} from 'node:fs/promises';
 import {join, resolve} from 'node:path';
 import {pathToFileURL} from 'node:url';
 import {chromium} from 'playwright-core';
+import {playBeforeUpdate,auditBeforeUpdate} from './upgrade-example.mjs';
 
 const previous = process.argv[2];
 assert.ok(previous,'Aufruf: node tests/html-upgrade.mjs PFAD_ZUR_VORHERIGEN_HTML');
@@ -28,10 +29,11 @@ const readOrigin = async page => page.evaluate(async () => {
   try {return {game:await get('game'),installation:await get('installation')};} finally {db.close();}
 });
 const net = [], errors = [];
-async function open() {
+async function open(day) {
   const ctx=await chromium.launchPersistentContext(profile,{offline:true,headless:true,locale:'de-DE',
     timezoneId:'Europe/Berlin',viewport:{width:360,height:640}});
   const page=ctx.pages()[0];
+  await page.clock.setFixedTime(new Date(day+'T11:00:00Z'));
   page.on('request',req=>{if (/^https?:/i.test(req.url())) net.push(req.url());});
   page.on('pageerror',err=>errors.push(err.message));
   await page.goto(pathToFileURL(local).href);
@@ -39,17 +41,17 @@ async function open() {
 }
 await mkdir(out,{recursive:true});
 await copyFile(previous,local);
-let {ctx,page}=await open();
+let {ctx,page}=await open('2026-11-23');
 let before;
 try {
-  await page.locator('button.answer').first().click();
-  await page.locator('#feedback').waitFor();
+  await playBeforeUpdate(page);
   before=await readOrigin(page);
 } finally {await ctx.close();}
 await copyFile(current,local);
-({ctx,page}=await open());
+({ctx,page}=await open('2026-11-24'));
 try {
-  const session=Object.values(before.game.sessions).find(s=>s.mode==='daily');
+  const example=auditBeforeUpdate(before.game);
+  const session=before.game.sessions['daily-'+example.openDay];
   if (!(await page.locator('#feedback').isVisible())) {
     await page.goto(pathToFileURL(local).href+'#runde/'+session.id);
   }
@@ -68,7 +70,7 @@ try {
   let final=await readOrigin(page);
   const completed=final.game.sessions[session.id];
   assert.equal(completed.status,'completed');
-  assert.equal(Object.keys(final.game.ledger).length,1);
+  assert.equal(Object.keys(final.game.ledger).length,Object.keys(before.game.ledger).length+1);
   const ledger=JSON.stringify(final.game.ledger);
   await page.reload();
   await page.locator('#app main').waitFor();
@@ -80,7 +82,7 @@ try {
     at:new Date().toISOString(),browser:ctx.browser().version(),oldHtmlSHA256:digest(await readFile(previous)),
     newHtmlSHA256:digest(await readFile(current)),oldCatalog:session.catalogVersion,
     newCatalog:JSON.parse(await readFile('web/data/manifest.json','utf8')).version,
-    savedStateAndInstallationEqual:true,answerAndProgressRestored:true,retainedOrder:true,
+    savedStateAndInstallationEqual:true,answerAndProgressRestored:true,retainedOrder:true,example,
     oldSelectionVersion:session.selectionVersion,
     completedValid:completed.result.valid,ledgerEntries:Object.keys(final.game.ledger).length,xp:completed.result.xp,
     externalRequests:net,pageErrors:errors

@@ -7,7 +7,7 @@ import {join,resolve} from 'node:path';
 import {setTimeout as wait} from 'node:timers/promises';
 import {createInterface} from 'node:readline';
 import assert from 'node:assert/strict';
-const [serial,output]=process.argv.slice(2);
+const [serial,output,invitationReport]=process.argv.slice(2);
 assert.match(serial || '',/^emulator-\d+$/);
 const adb=(...args)=>execFileSync('adb',['-s',serial,...args],{encoding:'utf8',timeout:45000}).trim();
 const name=adb('emu','avd','name').split(/\r?\n/)[0].trim();
@@ -55,30 +55,41 @@ async function perform(kind,x,y) {
     if(kind==='doubleTap'||kind==='activate') {await wait(70);await tap(x,y);}
   }
 }
-const child=spawn('adb',['-s',serial,'shell','am','instrument','-w','-r','-e','talkback','true',
-  'de.quizsalon.vorschau.test/de.quizsalon.app.NativeChecks'],{stdio:['ignore','pipe','inherit']});
+const argumentsForTest=['-s',serial,'shell','am','instrument','-w','-r','-e','talkback','true'];
+if(invitationReport) {
+  const {link}=JSON.parse(readFileSync(invitationReport,'utf8'));
+  const url=new URL(link);
+  assert.equal(url.origin+url.pathname,'https://emfau88.github.io/Quiz/spielen.html');
+  assert.match(url.hash,/^#freunde\/1\/4\//);
+  argumentsForTest.push('-e','invite64',Buffer.from(url.hash).toString('base64url'));
+}
+argumentsForTest.push('de.quizsalon.vorschau.test/de.quizsalon.app.NativeChecks');
+const child=spawn('adb',argumentsForTest,{stdio:['ignore','pipe','inherit']});
 const complete=new Promise((done,fail)=>{child.once('error',fail);child.once('close',done);});
 const lines=[];
 const screens=new Set();
 try {
   for await(const line of createInterface({input:child.stdout})) {
     lines.push(line);
-    const action=line.match(/^INSTRUMENTATION_STATUS: quizGesture=(explore|swipeRight|answerLeft|answerRight|doubleTap|activate|result) (\d+) (\d+)/);
+    const action=line.match(/^INSTRUMENTATION_STATUS: quizGesture=(explore|swipeRight|answerLeft|answerRight|doubleTap|activate|invite|result|scope) (\d+) (\d+)/);
     if(action) {
-      if(['answerLeft','answerRight','doubleTap','result'].includes(action[1])) {
-        const png=action[1]==='result'?'03-rundenergebnis.png':action[1]==='doubleTap'?'02-zweite-antwort.png':'01-erste-antwort.png';
+      const picture={invite:'00-einladung',answerLeft:'01-erste-antwort',answerRight:'01-erste-antwort',
+        doubleTap:'02-zweite-antwort',result:'03-rundenergebnis',scope:'04-unterthema'}[action[1]];
+      if(picture) {
+        const png=picture+'.png';
         if(!screens.has(png)) {
-        screens.add(png);
-        adb('shell','screencap','-p','/data/local/tmp/quizsalon-talkback.png');
-        adb('pull','/data/local/tmp/quizsalon-talkback.png',join(folder,png));
+          screens.add(png);
+          adb('shell','screencap','-p','/data/local/tmp/quizsalon-talkback.png');
+          adb('pull','/data/local/tmp/quizsalon-talkback.png',join(folder,png));
         }
       }
-      if(action[1]!=='result') await perform(action[1],Number(action[2]),Number(action[3]));
+      if(!['invite','result','scope'].includes(action[1])) await perform(action[1],Number(action[2]),Number(action[3]));
     }
     if(line.includes('PASS')||line.includes('FAILED')||line.includes('quizCheck=')) console.log(line);
   }
   assert.equal(await complete,0);
-  assert.ok(lines.includes('INSTRUMENTATION_CODE: -1') && lines.some(s=>s.includes('PASS Gesamte Tagesrunde')));
+  const finish=invitationReport?'PASS Gesamte Freundesrunde':'PASS Gesamte Tagesrunde';
+  assert.ok(lines.includes('INSTRUMENTATION_CODE: -1') && lines.some(s=>s.includes(finish)));
 } finally {
   client.close();
   writeFileSync(join(folder,'talkback.txt'),lines.join('\n')+'\n');
