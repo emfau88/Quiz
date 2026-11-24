@@ -1,5 +1,9 @@
 # Quizsalon · Roadmap und Nachweise
 
+## Geplant · Weiterspielen, Quiztisch und Freundesrunden
+
+Der nächste Ausbau beginnt mit kostenlosen gemischten Fünferrunden direkt vom Ergebnis. Danach folgen wählbare Unterthemen, wechselnde Computergegner mit Revanche und eine teilbare Fünferrunde für echte Freunde. Die sechs Arbeitspakete enthalten Zugang, Wertung, Reihenfolge und Abnahme. [Umsetzungsplan mit Checklisten](UMSETZUNGSPLAN_WEITERSPIELEN.md)
+
 ## Fragenpool 0.3.0
 
 Die aktuelle Erweiterung umfasst den verdoppelten deutschen Fragenbestand, zwei feste Hinweisfragen und eine Schätzfrage pro neuer Tagesrunde sowie datierte Forschung mit Originalquellen. Alle sechs Arbeitspakete der Ausgabe 0.3.0 sind belegt. Der aktualisierte Spieleinstieg ist über GitHub Pages erreichbar. [Öffentlicher Spieldurchlauf](release/qa/modern-0.3.0/github-pages-live.json) [Stand der Erweiterung](UMSETZUNGSPLAN_FRAGENPOOL.md)
