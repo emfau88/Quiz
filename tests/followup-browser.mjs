@@ -1,14 +1,21 @@
 import assert from 'node:assert/strict';
 import {createHash} from 'node:crypto';
+import {execFile} from 'node:child_process';
 import {mkdir,readFile,writeFile} from 'node:fs/promises';
 import path from 'node:path';
-import {parseArgs} from 'node:util';
+import {parseArgs,promisify} from 'node:util';
 import {chromium,devices} from 'playwright-core';
 import {serve} from '../tools/serve.mjs';
 
-const {values:options} = parseArgs({options:{pages:{type:'string'},live:{type:'boolean'},out:{type:'string'}}});
+const {values:options} = parseArgs({options:{pages:{type:'string'},live:{type:'boolean'},out:{type:'string'},
+  commit:{type:'string'},run:{type:'string'}}});
 assert.ok(Boolean(options.pages) !== Boolean(options.live), 'Genau eine Quelle wählen: --pages VERZEICHNIS oder --live');
-const readme = await readFile('README.md','utf8');
+if(options.commit) assert.match(options.commit,/^[a-f0-9]{40}$/);
+const readme = options.live ? await (async()=>{
+  const response=await fetch('https://raw.githubusercontent.com/emfau88/Quiz/main/README.md');
+  assert.equal(response.status,200);
+  return response.text();
+})() : await readFile('README.md','utf8');
 const publicLink = readme.match(/https:\/\/emfau88\.github\.io\/Quiz\/spielen\.html\?v=[\d.]+/)[0];
 const version = JSON.parse(await readFile('package.json','utf8')).version;
 assert.equal(new URL(publicLink).searchParams.get('v'),version);
@@ -54,8 +61,15 @@ try {
   const a=await phone('2026-11-24'), b=await phone('2026-11-26');
   await a.page.goto(visit(publicLink));
   await a.page.locator('.answer:enabled').first().waitFor();
-  const appSource=await a.page.evaluate(async()=> (await fetch('./js/app.js')).text());
-  assert.equal(digest(appSource),digest(await readFile('web/js/app.js','utf8')));
+  const assets={};
+  for (const asset of ['js/app.js','js/engine.js','js/friends.js','styles.css','data/catalog.json']) {
+    const source=await a.page.evaluate(async file=>(await fetch('./'+file)).text(),asset);
+    assets[asset]=digest(source);
+    const expected=options.live&&options.commit
+      ? (await promisify(execFile)('git',['show',options.commit+':web/'+asset],{maxBuffer:16*1024*1024,encoding:'utf8'})).stdout
+      : await readFile('web/'+asset,'utf8');
+    assert.equal(assets[asset],digest(expected),asset);
+  }
   const daily=session(await state(a.page),'daily');
   await choose(a.page,daily,0,1);
   await action(a.page,'pause').click();
@@ -121,7 +135,8 @@ try {
   checks.push('Wiederöffnen zeigt den Vergleich. Fünf eigene Lernbuchungen, keine Tages-XP und keine verbrauchte Probe.');
   assert.deepEqual(errors,[]);assert.deepEqual(sent,[]);
   await writeFile(path.join(output,'freundesrunde.json'),JSON.stringify({executed:new Date().toISOString(),edition:version,
-    origin:options.live?base:'lokal bereitgestellte Pages-Ausgabe',readmeLink:publicLink,applicationSourceSHA256:digest(appSource),
+    origin:options.live?base:'lokal bereitgestellte Pages-Ausgabe',readmeLink:publicLink,assetsSHA256:assets,
+    commit:options.commit,actionsRun:options.run,
     browser:browser.version(),isolatedProfiles:2,sender:{day:quick.day,score:4},recipient:{day:received.day,completedDay:'2026-11-27',score:3},
     identicalCardsAndDisplayedOptions:snapshot(received),checks,pageErrors:errors,outgoingNonGet:sent},null,2)+'\n');
   console.log('Zwei getrennte Profile · 4/5 gegen 3/5 · Offline-Wiederaufnahme, Kopieren und Wiederöffnen bestanden.');

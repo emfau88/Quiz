@@ -5,9 +5,11 @@ import {chromium,devices} from 'playwright-core';
 import {serve} from '../tools/serve.mjs';
 import {playBeforeUpdate,auditBeforeUpdate} from './upgrade-example.mjs';
 
-const [previous,current,out='release/qa/modern-0.3.0']=process.argv.slice(2);
+const [previous,current,out='release/qa/weiterspielen-0.4.0']=process.argv.slice(2);
 assert.ok(previous&&current,'Zwei gebaute Pages-Verzeichnisse erforderlich');
-const work=await mkdtemp(path.resolve('.cache/modern/published-'));
+const scratch=path.resolve('.cache/weiterspielen');
+await mkdir(scratch,{recursive:true});
+const work=await mkdtemp(path.join(scratch,'pages-update-'));
 await cp(previous,work,{recursive:true});
 const server=await serve(0,{directory:work,basePath:'/Quiz/'});
 const browser=await chromium.launch();

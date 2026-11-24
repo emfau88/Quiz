@@ -4,6 +4,7 @@ import {readFileSync} from 'node:fs';
 import {newGame,startRound,answer,advance,abandon,applyCorrections,ranking} from '../web/js/engine.js';
 import {friendLinkFor,parseFriendLink} from '../web/js/friends.js';
 import {RULES} from '../web/js/rules.js';
+import {resultPage} from '../web/js/views.js';
 
 const catalog=JSON.parse(readFileSync(new URL('../web/data/catalog.json',import.meta.url)));
 const time={day:'2026-11-24',now:'2026-11-24T11:00:00Z',zone:'Europe/Berlin',offset:60};
@@ -83,4 +84,23 @@ test('a friendly match is free and idempotent and can finish personally after a 
   assert.deepEqual(b.ledger,{});assert.deepEqual(b.trials,{});
   const quick=open(b,{mode:'quick'});abandon(b,quick.id);
   assert.ok(!ids(quick).includes(source.items[0].q.fact_key));
+});
+
+test('the weekly hint appears only with a real fourth day still available in this week',()=>{
+  const game=newGame();
+  function play(day) {
+    const when={...time,day,now:day+'T11:00:00Z'};
+    return finish(game,startRound(game,catalog,'ziel',when));
+  }
+  const render=(session,day)=>resultPage({state:game,session,day,catalog}).includes('Noch ein Spieltag bis zum Wochenziel.');
+  play('2026-11-23');
+  const second=play('2026-11-24');
+  assert.equal(render(second,'2026-11-24'),false);
+  const third=play('2026-11-25');
+  assert.equal(render(third,'2026-11-25'),true);
+  assert.equal(render(third,'2026-11-29'),true);
+  game.sessions['daily-2026-11-29']={...third,id:'daily-2026-11-29',day:'2026-11-29',status:'abandoned'};
+  assert.equal(render(third,'2026-11-29'),false);
+  const fourth=play('2026-11-26');
+  assert.equal(render(fourth,'2026-11-26'),false);
 });

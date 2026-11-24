@@ -113,7 +113,20 @@ try{
   await act(a.page,'quick');await ready(a.page);assert.equal((await session(a.page)).mode,'quick');
   await finish(a.page,2);
   await click(a.page,'details.virtual summary');
-  await scale(a.page,200);await layout(a.page,'Ergebnis mit offenem Quiztisch, 200 %');await scale(a.page,100);
+  for (const percent of [100,200]) {
+    await scale(a.page,percent);
+    const table=await a.page.locator('.virtual table').evaluate(el=>{
+      const bounds=node=>{const r=document.createRange();r.selectNodeContents(node);return r;};
+      const headings=[...el.querySelectorAll('thead th')];
+      return {
+        shortHeadingsOnOneLine:[headings[0],headings.at(-1)].every(th=>bounds(th).getClientRects().length===1),
+        strengthsBelowNames:[...el.querySelectorAll('.ranking-person small')].every(small=>
+          small.getBoundingClientRect().top>=bounds(small.parentNode.firstChild).getBoundingClientRect().bottom-1)
+      };
+    });
+    assert.deepEqual(table,{shortHeadingsOnOneLine:true,strengthsBelowNames:true});
+  }
+  await layout(a.page,'Ergebnis mit offenem Quiztisch, 200 %');await scale(a.page,100);
   const previous=await session(a.page);
   await act(a.page,'rematch');await ready(a.page);
   const rematch=await session(a.page);

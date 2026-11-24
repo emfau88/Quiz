@@ -10,9 +10,11 @@ import {playBeforeUpdate,auditBeforeUpdate} from './upgrade-example.mjs';
 const previous = process.argv[2];
 assert.ok(previous,'Aufruf: node tests/html-upgrade.mjs PFAD_ZUR_VORHERIGEN_HTML');
 const current = 'release/Quizsalon-Lokaltest.html';
-const out = process.argv[3] || 'release/qa/fragenpool';
-const oldSelection = Number(process.argv[4] || 1);
-const work = await mkdtemp(resolve('.cache/fragenpool/html-'));
+const out = process.argv[3] || 'release/qa/weiterspielen-0.4.0';
+const oldSelection = Number(process.argv[4] || 3);
+const scratch = resolve('.cache/weiterspielen');
+await mkdir(scratch,{recursive:true});
+const work = await mkdtemp(join(scratch,'html-update-'));
 const local = join(work,'Quizsalon.html'), profile = join(work,'browser');
 const digest = value => createHash('sha256').update(value).digest('hex');
 const readOrigin = async page => page.evaluate(async () => {
