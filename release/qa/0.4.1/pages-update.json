@@ -1,0 +1,67 @@
+{
+  "at": "2026-11-24T21:51:02.621Z",
+  "browser": "149.0.7827.55",
+  "previous": "de-d5a1d0585ed1",
+  "current": "de-d5a1d0585ed1",
+  "previousWorker": "quizsalon-assets-15065ba57079020a",
+  "currentWorker": "quizsalon-assets-b5b3d675c90ec0d1",
+  "example": {
+    "openDay": "2026-11-24",
+    "savedQuestion": "q3-h-elba-rueckkehr",
+    "consumedTrial": "nature_animals",
+    "previousXP": 50,
+    "guests": [
+      {
+        "name": "Ada",
+        "correct": 6,
+        "hits": [
+          true,
+          true,
+          false,
+          false,
+          false,
+          true,
+          true,
+          true,
+          false,
+          true
+        ]
+      },
+      {
+        "name": "Jule",
+        "correct": 5,
+        "hits": [
+          true,
+          false,
+          false,
+          false,
+          false,
+          true,
+          true,
+          true,
+          false,
+          true
+        ]
+      },
+      {
+        "name": "Oskar",
+        "correct": 4,
+        "hits": [
+          true,
+          true,
+          false,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false,
+          true
+        ]
+      }
+    ]
+  },
+  "updatedViaReadmeLink": true,
+  "savedRoundUnchanged": true,
+  "reopenedReadmeLinkOffline": true
+}

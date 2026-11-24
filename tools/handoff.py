@@ -72,6 +72,12 @@ def main():
     assert app_version == inspected[0]["versionName"]
     live = json.loads((qa / "github-pages-live/freundesrunde.json").read_text(encoding="utf-8"))
     assert live["edition"] == app_version and live["assetsSHA256"]["data/catalog.json"] == sha(catalog)
+    artwork = [f"topics/{category}.webp" for category in rules["categories"]]
+    artwork += [f"guests/{guest['id']}.png" for guest in rules["simulation"]["opponents"]]
+    hashes = {name: sha((ROOT / "web/assets" / name).read_bytes()) for name in artwork}
+    for delivery in ("einzeldatei", "github-pages-live"):
+        layout = json.loads((qa / delivery / "themenlayout.json").read_text(encoding="utf-8"))
+        assert layout["edition"] == app_version and layout["artworkHashes"] == hashes
     result = {("base_commit" if args.working_tree else "source_commit"): commit, "assembled_at_utc": datetime.now(timezone.utc).isoformat(),
               "source": "working_tree" if args.working_tree else "commit", "app_version": app_version, "version_code": inspected[0]["versionCode"],
               "catalog": manifest, "public_release": False, "public_release_platform": "Google Play",

@@ -1,0 +1,52 @@
+{
+  "device": "sdk_gphone16k_x86_64",
+  "api": "36",
+  "pageSize": "16384",
+  "run": "2026-11-24T21:48:17.557Z",
+  "checks": [
+    "Alle sechs Themenbilder sind geladen und liegen oben am inneren Kartenrand."
+  ],
+  "screenshots": [
+    "05-themen.png"
+  ],
+  "topicArtwork": [
+    {
+      "id": "nature_animals",
+      "width": 720,
+      "height": 360,
+      "topGap": 0
+    },
+    {
+      "id": "geography_travel",
+      "width": 720,
+      "height": 360,
+      "topGap": 0
+    },
+    {
+      "id": "everyday_technology",
+      "width": 720,
+      "height": 360,
+      "topGap": 0
+    },
+    {
+      "id": "history_discoveries",
+      "width": 720,
+      "height": 360,
+      "topGap": 0
+    },
+    {
+      "id": "entertainment",
+      "width": 720,
+      "height": 360,
+      "topGap": 0
+    },
+    {
+      "id": "language_culture",
+      "width": 720,
+      "height": 360,
+      "topGap": 0
+    }
+  ],
+  "fontScale": "1.5",
+  "ok": true
+}

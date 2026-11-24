@@ -6,6 +6,10 @@ Bei 360 Pixeln Breite hatten zwei Bilder in der bisherigen Einzeldatei einen zus
 
 In der offline geöffneten Einzeldatei erschienen die neuen Porträts während einer Fünferrunde. Beide Android-Testpakete enthielten dieselben Bilddateien wie das Projekt. [Quiztisch in der laufenden App](release/qa/0.4.1/quiztisch.png) · [Offline-Runde](release/qa/0.4.1/einzeldatei-einladung.json) · [APK-Prüfung](release/android/artifacts.json)
 
+Auf dem Android-16-Emulator mit 150 Prozent Systemschrift zeigte jedes der sechs Bilder null Pixel Abstand zur oberen Innenkante. Die sechs Store-Bilder stammen aus einer durchgespielten Runde der installierten 0.4.1-Vorschau. Die RGB-Pixel jeder Aufnahme wurden mit der exportierten PNG-Datei verglichen. [Messwerte der WebView](release/qa/0.4.1/android/android-ui.json) · [Aufnahmen und Prüfsummen](release/qa/0.4.1/android/galerie.json)
+
+Der öffentliche Spiel-Link lieferte in Chromium und WebKit alle 18 neuen Bilddateien mit den erwarteten Prüfsummen. In 16 Layoutprüfungen blieb die größte gemessene Abweichung an der Bildoberkante unter 0,001 CSS-Pixel. Ein bereits begonnener Spielstand aus 0.4.0 ließ sich in beiden Browser-Ausgaben nach dem Update offline fortsetzen. [Live-Messung mit Bildschirmbreiten](release/qa/0.4.1/github-pages-live/themenlayout.json) · [Update der installierten Web-App](release/qa/0.4.1/pages-update.json) · [Austausch der Einzeldatei](release/qa/0.4.1/html-update.json)
+
 ## Deutsche Ausgabe 0.4.0
 
 Für die Kalender- und Freundestests wurden die lokalen Daten der Prüfprofile gezielt eingestellt. Die Trefferzahlen entstanden durch Antworten in der sichtbaren App. Android-Gerätetests wurden auf Emulatoren ausgeführt.

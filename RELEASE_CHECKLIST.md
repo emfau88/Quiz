@@ -4,6 +4,8 @@
 
 - [x] Einzeldatei offline mit allen sechs Themenbildern und zwölf Gastporträts geprüft. [Bildabgleich und Layoutmessungen](release/qa/0.4.1/einzeldatei/themenlayout.json)
 - [x] Beide lokalen Android-Ausgaben mit Versionscode 5 gebaut, signiert und gegen den Webinhalt geprüft. [APK-Prüfung](release/android/artifacts.json)
+- [x] Themenkacheln mit 150 Prozent Android-Systemschrift gemessen und die sechs Store-Screenshots aktualisiert. [Android-Messung](release/qa/0.4.1/android/android-ui.json) · [Store-Galerie](release/qa/0.4.1/android/galerie.json)
+- [x] Öffentlichen Spiel-Link aus der GitHub-README geprüft, alle 18 Bilddateien abgeglichen und das Update mit offenem Spielstand bestätigt. [GitHub Actions](https://github.com/emfau88/Quiz/actions/runs/45494718335) · [Live-Messung](release/qa/0.4.1/github-pages-live/themenlayout.json) · [Updateprüfung](release/qa/0.4.1/pages-update.json)
 
 ## Deutsche Ausgabe 0.4.0
 

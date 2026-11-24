@@ -1,0 +1,91 @@
+{
+  "executed": "2026-11-24T21:51:40.468Z",
+  "edition": "0.4.1",
+  "origin": "https://emfau88.github.io",
+  "readmeLink": "https://emfau88.github.io/Quiz/spielen.html?v=0.4.1",
+  "assetsSHA256": {
+    "js/app.js": "f7d672566f39eac74a95cfa5a50767a2a6ae127362e2173cb62239838a5fac5e",
+    "js/engine.js": "6da691919524063c190c93ad90a4447a5ff7b6104cf8ba7a1bd1dd74f56abbf5",
+    "js/friends.js": "3f9bfe177308ee6cd953bb3ee9d9b5a33ea2a8d1933a84cacfcd5d939f1d6ff0",
+    "styles.css": "bcdeb46942693aea909647acd0145dd803afb2ac61ead3045bc10289b9f28fae",
+    "data/catalog.json": "b4412320586ede132b499e4c05e76200996b86b51e8d53d81750e89768d1dbc8"
+  },
+  "commit": "1948ae82e854ccda39da97ecfcffc82f97ea2c10",
+  "actionsRun": "https://github.com/emfau88/Quiz/actions/runs/45494718335",
+  "browser": "149.0.7827.55",
+  "isolatedProfiles": 2,
+  "sender": {
+    "day": "2026-11-24",
+    "score": 4
+  },
+  "recipient": {
+    "day": "2026-11-26",
+    "completedDay": "2026-11-27",
+    "score": 3
+  },
+  "identicalCardsAndDisplayedOptions": [
+    {
+      "id": "qs-ton-schluff-sand",
+      "content": 2,
+      "semantics": 1,
+      "order": [
+        "a",
+        "c",
+        "d",
+        "b"
+      ]
+    },
+    {
+      "id": "qs03-t-karteneinsortieren",
+      "content": 1,
+      "semantics": 1,
+      "order": [
+        "c",
+        "d",
+        "a",
+        "b"
+      ]
+    },
+    {
+      "id": "qs3-panama-istmus-route",
+      "content": 1,
+      "semantics": 1,
+      "order": [
+        "c",
+        "b",
+        "a",
+        "d"
+      ]
+    },
+    {
+      "id": "q3-e-mp3-name",
+      "content": 1,
+      "semantics": 1,
+      "order": [
+        "c",
+        "b",
+        "d",
+        "a"
+      ]
+    },
+    {
+      "id": "k-space-tereshkova",
+      "content": 2,
+      "semantics": 1,
+      "order": [
+        "d",
+        "a",
+        "b",
+        "c"
+      ]
+    }
+  ],
+  "checks": [
+    "A erspielt vier Treffer und kopiert den öffentlichen Link über die Oberfläche.",
+    "Vor dem ersten Tagesstart: beschädigter Link, gültige Vorschau und identischer Lern- und Zugangsstand.",
+    "B spielt dieselben fünf Karten und Antwortreihenfolgen, beendet offline am Folgetag mit 3/5 und kopiert den Antworttext.",
+    "Wiederöffnen zeigt den Vergleich. Fünf eigene Lernbuchungen, keine Tages-XP und keine verbrauchte Probe."
+  ],
+  "pageErrors": [],
+  "outgoingNonGet": []
+}

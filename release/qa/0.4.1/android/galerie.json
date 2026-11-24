@@ -1,0 +1,56 @@
+{
+  "device": "sdk_gphone16k_x86_64",
+  "api": "36",
+  "run": "2026-11-24T21:46:09.251Z",
+  "checks": [
+    "480 × 853, Erststart im Flugmodus ohne horizontales Überlaufen (480 CSS-Pixel)",
+    "Frage und Antwortschaltflächen im Accessibility-Baum der laufenden WebView",
+    "Prozess vor erster Antwort beendet und identisch wiederaufgenommen",
+    "Prozess nach Antwort beendet, Antwort, Reihenfolge und Erklärung identisch",
+    "System-Zurück während einer Runde öffnet die bewusste Pausenentscheidung",
+    "Prozess vor Ergebnis beendet, letzte Erklärung und Weiteraktion verfügbar",
+    "Sieben richtige Antworten ergeben 90 XP und einen einzigen Ledger-Eintrag",
+    "Virtueller Vergleich enthält drei ausdrücklich bezeichnete Computergegner",
+    "Erinnerung anfangs aus, unkonfigurierte Play-Vorschau bietet keinen Preis und keinen Kauf an"
+  ],
+  "edition": "0.4.1",
+  "apkSHA256": "2c7c7e1b9d8b86e3dda1e95003bea1e6c9b444be4eed5ed78dd76cd1a96d9384",
+  "screens": [
+    {
+      "file": "release/store/Telefon-01-frage.png",
+      "captureSHA256": "73f782f0c544ae1f243e0fddb99ebd6f9e4e4a0eb6c04f00b262e550726c6ad9",
+      "publishedSHA256": "8cc7082a28d9015172c2dae09913f8d7f695303635c9adf3d1608eeab3700c28",
+      "identicalRGB": true
+    },
+    {
+      "file": "release/store/Telefon-02-erklaerung.png",
+      "captureSHA256": "c193e0e3d4477505f4444f22ce7946af32b2ff24d1e5a9f629cd2a16f8b4f8f1",
+      "publishedSHA256": "d1c4c7a5875362f3085477c081e0d5df01bc5870e90fc04e89d3ebd5b97624df",
+      "identicalRGB": true
+    },
+    {
+      "file": "release/store/Telefon-03-ergebnis.png",
+      "captureSHA256": "f1eeed7de87dab541f767ca56dbb63d7bc347544cc772f67dc68c4fcefb6ca0c",
+      "publishedSHA256": "f62d1e9eaf21546068a1807bf9b4c9eeeb2b8e0ec1930edc02bd7824195abc6a",
+      "identicalRGB": true
+    },
+    {
+      "file": "release/store/Telefon-04-heute.png",
+      "captureSHA256": "e8a59b8aef4842793964b9c7dfb217bf99da042afe09eb97de848d87d9100926",
+      "publishedSHA256": "51d266b41ed3746cbb3bae1b189130252364db6e65e5eeaf4acff0442b1a14be",
+      "identicalRGB": true
+    },
+    {
+      "file": "release/store/Telefon-05-themen.png",
+      "captureSHA256": "fe7b48806c6ef85478f827247f581c27d71e3b8131261c19003b249401684cc8",
+      "publishedSHA256": "6a42aafcd3d8c901dbb2a366bc207817af8867d37c1fb1278729e9fe3276c5ee",
+      "identicalRGB": true
+    },
+    {
+      "file": "release/store/Telefon-06-wissen.png",
+      "captureSHA256": "70601a069d832e30f3eed78cd6b5613a716e26e79fdc7b03ccf9058786eca8b5",
+      "publishedSHA256": "7231f97858dfe6e67aaf755078fcd71a4e53f44c65d0644f9420423932d25fd0",
+      "identicalRGB": true
+    }
+  ]
+}
