@@ -1,6 +1,6 @@
 import {build} from 'esbuild';
-import {readFile,writeFile,mkdir,readdir,cp,copyFile} from 'node:fs/promises';
-import {createHash} from 'node:crypto';
+import {readFile,writeFile,mkdir,readdir,cp,copyFile,rename,rm} from 'node:fs/promises';
+import {createHash,randomUUID} from 'node:crypto';
 import {parseArgs} from 'node:util';
 import path from 'node:path';
 
@@ -83,10 +83,13 @@ if (!options.pages && !options['sw-only']) {
       api.onResolve({filter:/^\.\/catalog\.js$/},() => ({path:'embedded',namespace:'catalog'}));
       api.onLoad({filter:/.*/,namespace:'catalog'},() => ({contents:'export async function loadCatalog(){return ' + catalog + ';}'}));
     }}]});
-  const {simulation} = JSON.parse(await readFile('specs/product_rules.json', 'utf8'));
+  const {simulation,categories} = JSON.parse(await readFile('specs/product_rules.json', 'utf8'));
   const portraits = Object.fromEntries(await Promise.all(simulation.opponents.map(async ({id}) =>
     [id, await data('web/assets/guests/' + id + '.png', 'image/png')])));
+  const topics = Object.fromEntries(await Promise.all(Object.keys(categories).map(async id =>
+    [id, await data('web/assets/topics/' + id + '.webp', 'image/webp')])));
   const script = 'globalThis.QUIZSALON_GUEST_PORTRAITS=' + JSON.stringify(portraits) + ';\n' +
+    'globalThis.QUIZSALON_TOPIC_IMAGES=' + JSON.stringify(topics) + ';\n' +
     bundle.outputFiles[0].text.replaceAll('./assets/salon.webp',await data('web/assets/salon.webp','image/webp')).replace(/<\/script/gi,'<\\/script');
   let css = await readFile('web/styles.css','utf8');
   for (const file of ['DM-Sans.ttf','Spectral-Medium.ttf']) css = css.replace('./assets/fonts/' + file,await data('web/assets/fonts/' + file,'font/ttf'));
@@ -97,7 +100,11 @@ if (!options.pages && !options['sw-only']) {
     .replace(/\s*<script type="module"[^>]*><\/script>/,'')
     .replace('</body>',() => '<script>' + script + '</script>\n</body>');
   await mkdir('release',{recursive:true});
-  await writeFile(standalone,html);
+  const pending = standalone + '.' + randomUUID() + '.tmp';
+  try {
+    await writeFile(pending,html,{flag:'wx'});
+    await rename(pending,standalone);
+  } finally {await rm(pending,{force:true});}
   console.log(standalone + ' · ' + Buffer.byteLength(html) + ' Bytes');
 }
 console.log('Offline cache ' + version + ' · ' + urls.length + ' files');

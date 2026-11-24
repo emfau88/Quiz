@@ -15,7 +15,7 @@ Im Projektstamm auf Windows ausführen. Auf Linux und macOS lautet der Wrapper `
 adb install -r android/app/build/outputs/apk/debug/app-debug.apk
 ```
 
-Die Vorschau trägt die Paketkennung `de.quizsalon.vorschau`, den versionCode 4 und die Version 0.4.0. Mindestversion ist Android 7.0 (API 24), Ziel ist Android 16 (API 36). Das Debug-Zertifikat dient lokalen Installationen.
+Die Vorschau trägt die Paketkennung `de.quizsalon.vorschau`, den versionCode 5 und die Version 0.4.1. Mindestversion ist Android 7.0 (API 24), Ziel ist Android 16 (API 36). Das Debug-Zertifikat dient lokalen Installationen.
 
 Für die lokale Erprobung aller Themen und beider Schwierigkeitsstufen gibt es den zusätzlichen Build `:app:assembleLocalTest`. Er installiert sich als **Quizsalon Lokaltest** (`de.quizsalon.lokaltest`), verwendet einen eigenen Spielstand und initialisiert keinen Play-Billing-Client. Gradle überlagert nur in dieser Variante `js/access.js` mit dem lokalen Zugangsmodul aus `tests/local-theme-access.js`. Dieses Modul kennzeichnet Themenrunden als Lokaltest. Die normale Vorschau und der Release verwenden das Produktionsmodul aus `web/js/access.js`.
 

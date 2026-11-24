@@ -7,7 +7,7 @@ import {chromium} from 'playwright-core';
 import {parseFriendLink} from '../web/js/friends.js';
 
 const file=resolve('release/Quizsalon-Lokaltest.html');
-const out=process.argv[2]||'release/qa/weiterspielen-0.4.0';
+const out=process.argv[2]||'release/qa/' + JSON.parse(await readFile('package.json','utf8')).version;
 const url=pathToFileURL(file).href;
 const catalog=JSON.parse(await readFile('web/data/catalog.json','utf8'));
 const browser=await chromium.launch();
@@ -27,6 +27,8 @@ try {
     await img.decode();return {embedded:img.src.startsWith('data:image/png;base64,'),width:img.naturalWidth};
   })));
   assert.equal(pictures.length,3);assert.ok(pictures.every(p=>p.embedded&&p.width===192));
+  await mkdir(out,{recursive:true});
+  await page.locator('.guest-intro').screenshot({path:join(out,'quiztisch.png')});
   const asked=[];
   for(let i=0;i<5;i++){
     await page.locator('.answer[data-pos="'+i+'"]:enabled').first().waitFor();
@@ -45,7 +47,6 @@ try {
   await page.waitForFunction(()=>document.querySelector('#copy-status')?.textContent.includes('kopiert'));
   assert.equal(await page.evaluate(()=>navigator.clipboard.readText()),link);
   assert.deepEqual([...requested],[url]);assert.deepEqual(errors,[]);
-  await mkdir(out,{recursive:true});
   await writeFile(join(out,'einzeldatei-einladung.json'),JSON.stringify({executed:new Date().toISOString(),
     fileSHA256:createHash('sha256').update(await readFile(file)).digest('hex'),browser:browser.version(),offlineFromLaunch:true,
     filesRead:requested.size,additionalFiles:0,correct:4,cards:asked,embeddedPortraits:pictures,clipboardEqualsPublicLink:true},null,2)+'\n');

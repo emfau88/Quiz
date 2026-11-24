@@ -1,0 +1,32 @@
+{
+  "generator": "ImageGen",
+  "assets": "web/assets/guests/{id}.png",
+  "inkDrawing": "Make a print-ready character portrait sheet, landscape 3:2, a mathematically even grid of THREE COLUMNS and TWO ROWS, six different individual portrait busts. Each square cell occupies exactly one third of the width, one half of the height, and is centered on its own square; ample space between neighboring busts for clean cropping into six separate 192px square app assets. All six backgrounds are the same flat pale ivory unprinted paper, no framing lines, no borders, no separators, no vignette rings, no labels, letters, text or symbols. Style: sophisticated friendly midcentury German literary salon bookplates, elegant, gently humorous pen portraits of fictional adult quiz guests. Entire piece in one dark pine-green spot ink on ivory paper. Faces are drawn in economical bold contours, with mostly open paper inside them, subtle expression from a few expressive brush lines, distinct noses and smiles. No skin-color fills, gray gradients, photographic shading, or large hatch fields. Hair, spectacles and collars use clear shapes so each person is recognizable at 32 pixels. Everybody bareheaded, with visible hair or scalp. Every head entirely within its own cell, including ears and hair, centered vertically and horizontally with only the upper shoulders, consistent scale, frontal or gentle three-quarter view. Ink all the way to bottom only if the shoulders need it. Light editorial wit, everyday adults and no celebrities. Follow placement exactly. ",
+  "color": "Colorize the supplied sheet of six fictional illustrated quiz guests for Quizsalon, keeping the identity, expression, hair shapes, unadorned uncovered heads and precise three-by-two positions from the drawing. Output full-bleed landscape 3:2: three strictly equal square cells per row, two rows, each containing exactly one centered person, generous safe margin around the head to crop the cells for circular avatars. Develop the artwork into a charming, sophisticated vintage German magazine gouache / color lithograph, keeping the confident fine dark pine-green line work from the drawing and adding rich but restrained flat color with a faint matte paper grain. Give every face its own naturally fair complexion in warm light ivory, pale peach or soft rosy beige with gentle blush; shade with warm rose and ochre. Eye colour, hair color and the easy smiles vary from portrait to portrait. Color the clothes in pine, teal, ochre, russet and burgundy. Use a unified subtle warm parchment background. Uniform light direction, friendly intelligent expressions, crisp silhouettes readable at tiny scale, no lettering or labels, no border or grid lines. Keep shoulders below the face, no overlap between cells. ",
+  "sheets": [
+    {
+      "number": 1,
+      "ids": [
+        "ada",
+        "oskar",
+        "mira",
+        "leila",
+        "bruno",
+        "jule"
+      ],
+      "detail": "Top row left: Ada, friendly older woman, short swept silver crop with a pronounced forelock and dark round glasses. Top center: Oskar, older gentleman, wavy hair, neat curled moustache, bright laughing eyes. Top right: Mira, woman in her forties, chin-length blunt bob and a playful side glance. Bottom left: Leila, woman in her thirties, flowing wavy hair parted on one side, open warm smile. Bottom center: Bruno, burly older man, full short beard, bald crown and broad friendly grin. Bottom right: Jule, curious younger woman, lively short pixie hair, raised eyebrow, small round stud earrings."
+    },
+    {
+      "number": 2,
+      "ids": [
+        "yara",
+        "cem",
+        "alma",
+        "felix",
+        "nils",
+        "ruth"
+      ],
+      "detail": "Top row left: Yara, smiling woman around forty, curving hair gathered in a high loose ponytail, lively brows. Top center: Cem, gentle man around fifty, short textured hair, dark square glasses, a little pointed goatee. Top right: Alma, older woman, soft pageboy cut with a fringe, cat-eye spectacles, delighted smile. Bottom left: Felix, young adult man with tousled curls, clean shaven, open friendly expression. Bottom center: Nils, middle-aged man with swept back hair, relaxed smile, long jaw and light stubble. Bottom right: Ruth, poised older woman with softly waved hair gathered in a neat visible bun, high collar and thoughtful half smile."
+    }
+  ]
+}

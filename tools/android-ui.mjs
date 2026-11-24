@@ -155,6 +155,16 @@ async function topicsScreen() {
   await exists('.topic-grid');
   await click('.nav-mobile [data-nav="topics"]');
   await exists('.topic-grid');
+  report.topicArtwork = await js(`Promise.all([...document.querySelectorAll('.topic-card')].map(async card => {
+    const img = card.querySelector('img');
+    await img.decode();
+    return {id:card.dataset.id,width:img.naturalWidth,height:img.naturalHeight,
+      topGap:img.getBoundingClientRect().top-card.getBoundingClientRect().top-parseFloat(getComputedStyle(card).borderTopWidth)};
+  }))`);
+  assert.equal(report.topicArtwork.length,6);
+  assert.ok(report.topicArtwork.every(p => p.width === 720 && p.height === 360 && Math.abs(p.topGap) < 1));
+  report.fontScale = shell('settings','get','system','font_scale');
+  passed('Alle sechs Themenbilder sind geladen und liegen oben am inneren Kartenrand.');
   await screenshot('05-themen');
 }
 async function upgradeFlow(after) {

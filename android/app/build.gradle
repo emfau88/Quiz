@@ -18,8 +18,8 @@ android {
         applicationId finalId ?: 'de.quizsalon.vorschau'
         minSdk 24
         targetSdk 36
-        versionCode 4
-        versionName '0.4.0'
+        versionCode 5
+        versionName '0.4.1'
         resValue 'string', 'app_name', 'Quizsalon'
         buildConfigField 'boolean', 'USE_PLAY_STORE', 'true'
         buildConfigField 'String', 'PLAY_PUBLIC_KEY', '"' + playKey + '"'

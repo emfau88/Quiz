@@ -1,5 +1,9 @@
 # Änderungen
 
+## 0.4.1 · Illustrationen im Quizsalon
+
+Alle sechs Themen haben eigene Panorama-Illustrationen. Die Bilder schließen oben und seitlich mit den Kacheln ab, auch wenn benachbarte Beschreibungen unterschiedlich lang sind. Die zwölf Gäste am Quiztisch haben neue, farbig illustrierte Porträts.
+
 ## 0.4.0 · Weiterspielen
 
 - „Noch 5 Fragen“ startet vom Ergebnis oder von „Heute“ eine kostenlose gemischte Runde. Zusatzrunden erweitern das Wissensalbum. Tagesrunde und Wochenziel behalten ihre eigene Wertung.

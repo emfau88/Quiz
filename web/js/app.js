@@ -16,7 +16,7 @@ const pages = {today:todayPage,quiz:quizPage,result:resultPage,topics:topicsPage
 let catalog, installation, state, route = 'today', sessionId = '', tab = 'album', filter = 'all';
 let modal = '', trigger, busy = false, lastDay = clock().day;
 let invitationHash = '', invitation = null, pendingInvitation = '', shareContent = null;
-const APP_VERSION = '0.4.0';
+const APP_VERSION = '0.4.1';
 const currentSession = () => state.sessions[sessionId];
 const fragment = (page, id = '') => '#' + routes[page] + (id ? '/' + encodeURIComponent(id) : '');
 function decodeRoute(hash) {

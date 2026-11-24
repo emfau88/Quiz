@@ -1,14 +1,16 @@
 # Quizsalon
 
-**[▶ Quizsalon 0.4.0 auf dem Handy oder im Browser spielen](https://emfau88.github.io/Quiz/spielen.html?v=0.4.0)**
+**[▶ Quizsalon 0.4.1 auf dem Handy oder im Browser spielen](https://emfau88.github.io/Quiz/spielen.html?v=0.4.1)**
 
 Du startest mit der ersten von zehn Tagesfragen. Danach kannst du mit **„Noch 5 Fragen“** beliebig oft kostenlos weiterspielen. Am Quiztisch sitzen drei von zwölf illustrierten Computergegnern. Für eine Revanche kannst du dieselben drei Gäste wieder einladen. Oder du schickst einem Freund deinen Spiel-Link. Er bekommt dieselben fünf Fragen und kann dir sein Ergebnis zurückschicken. Dein Fortschritt bleibt in diesem Browser. Nach dem ersten vollständigen Laden kannst du offline weiterspielen.
 
 Ein deutschsprachiges, lokal spielbares Tagesquiz für Browser und Android. Oberfläche und Spielregeln sind in HTML, CSS und JavaScript umgesetzt. Der Android-Host verwendet Java und die System-WebView.
 
-Die deutsche Ausgabe **0.4.0** enthält 2.400 Fragen. In jeder neuen Tagesrunde schätzt du einmal eine Größenordnung und löst zwei eigens formulierte Hinweisfragen. Höchstens zwei der zehn Fragen verlangen reines Wiedererkennen. Dienstags, donnerstags und sonntags stammt eine Frage aus der Forschung, solange für den Spieltag eine Veröffentlichung der letzten drei Jahre vorliegt. Die Auflösung zeigt das Erscheinungsdatum und verlinkt die Quelle. Angefangene Runden lassen sich auch nach einem Update in ihrer ursprünglichen Reihenfolge beenden. [Inhaltsbericht und Vergleich zur Vorversion](CONTENT_REPORT.md) · [Auswahl für die zwei Hinweisfragen](specs/daily_clues.json)
+Die deutsche Ausgabe **0.4.1** enthält 2.400 Fragen. In jeder neuen Tagesrunde schätzt du einmal eine Größenordnung und löst zwei eigens formulierte Hinweisfragen. Höchstens zwei der zehn Fragen verlangen reines Wiedererkennen. Dienstags, donnerstags und sonntags stammt eine Frage aus der Forschung, solange für den Spieltag eine Veröffentlichung der letzten drei Jahre vorliegt. Die Auflösung zeigt das Erscheinungsdatum und verlinkt die Quelle. Angefangene Runden lassen sich auch nach einem Update in ihrer ursprünglichen Reihenfolge beenden. [Inhaltsbericht und Vergleich zur Vorversion](CONTENT_REPORT.md) · [Auswahl für die zwei Hinweisfragen](specs/daily_clues.json)
 
 ## Ausgaben zum Herunterladen
+
+Die sechs Themen haben eigene Panorama-Illustrationen. Am Quiztisch erscheinen zwölf individuell gezeichnete Gäste. [Themen direkt öffnen](https://emfau88.github.io/Quiz/spielen.html?v=0.4.1#themen) · [Alle zwölf Porträts ansehen](release/qa/0.4.1/gaeste.webp)
 
 - Öffne die HTML-Datei per Doppelklick in Chrome oder Edge. Sie enthält Fragen, Bilder und Schriften. [Lokale HTML-Version](release/Quizsalon-Lokaltest.html)
 - Die Android-Testausgabe bietet alle Themen und beide Schwierigkeitsstufen. [APK für den lokalen Test](release/android/Quizsalon-Lokaltest.apk)

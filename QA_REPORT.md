@@ -1,5 +1,11 @@
 # Quizsalon · Prüfbericht
 
+## Deutsche Ausgabe 0.4.1
+
+Bei 360 Pixeln Breite hatten zwei Bilder in der bisherigen Einzeldatei einen zusätzlichen Abstand von 18 beziehungsweise 19,4 Pixeln zur Kartenoberkante. In der neuen Einzeldatei beträgt der Abstand bei allen sechs Bildern in allen acht geprüften Ansichten null Pixel. Die Prüfung umfasst 320 bis 1.140 Pixel Breite, zwei Ansichten mit doppelter Schrift und die per Antippen geöffnete Themenwahl. [Messung der Vorversion](release/qa/0.4.1/themen-vorher.json) · [Messwerte und Prüfsummen der 18 Bilder](release/qa/0.4.1/einzeldatei/themenlayout.json)
+
+In der offline geöffneten Einzeldatei erschienen die neuen Porträts während einer Fünferrunde. Beide Android-Testpakete enthielten dieselben Bilddateien wie das Projekt. [Quiztisch in der laufenden App](release/qa/0.4.1/quiztisch.png) · [Offline-Runde](release/qa/0.4.1/einzeldatei-einladung.json) · [APK-Prüfung](release/android/artifacts.json)
+
 ## Deutsche Ausgabe 0.4.0
 
 Für die Kalender- und Freundestests wurden die lokalen Daten der Prüfprofile gezielt eingestellt. Die Trefferzahlen entstanden durch Antworten in der sichtbaren App. Android-Gerätetests wurden auf Emulatoren ausgeführt.

@@ -153,6 +153,11 @@ for (const name of process.argv.slice(3).length ? process.argv.slice(3) : Object
     await page.locator('.nav-mobile [data-nav="topics"]').tap();
     await page.locator('.topic-card').first().waitFor();
     assert.equal(await page.locator('.topic-card').count(), 6);
+    const images = await page.locator('.topic-card img').evaluateAll(imgs => Promise.all(imgs.map(async img => {
+      await img.decode();
+      return img.naturalWidth;
+    })));
+    assert.deepEqual(images, Array(6).fill(720));
     await page.locator('.topic-card').first().tap();
     await page.locator('[data-mode="challenge"]').tap();
     await answer.waitFor();

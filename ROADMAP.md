@@ -1,5 +1,10 @@
 # Quizsalon · Roadmap und Nachweise
 
+## 0.4.1 · Themenbilder und Gastporträts
+
+- [x] Sechs bildfüllende Illustrationen für die Themenauswahl und zwölf neue Gastporträts in der Offline-HTML eingebunden. [Themen auf dem Handy](release/qa/0.4.1/einzeldatei/themen-handy.png) · [Quiztisch der HTML-App](release/qa/0.4.1/quiztisch.png)
+- [x] Beide Android-Testpakete mit den neuen Bildern gebaut und die verpackten Dateien mit dem Webprojekt abgeglichen. [APK-Prüfung](release/android/artifacts.json)
+
 ## 0.4.0 · Weiterspielen, Quiztisch und Freundesrunden
 
 Die HTML-App bietet unbegrenzte kostenlose Fünferrunden, drei wählbare Unterthemen, wechselnde Computergegner mit Revanche und Freundeslinks. Der Upgrade-Test wurde mit einem begonnenen 0.3.0-Spielstand in Einzel-HTML, installierter Browserfassung und Android-App durchgeführt. Den Stand je Arbeitspaket zeigen die verknüpften Abnahmen. [Plan und Belege](UMSETZUNGSPLAN_WEITERSPIELEN.md) · [Prüfbericht](QA_REPORT.md)

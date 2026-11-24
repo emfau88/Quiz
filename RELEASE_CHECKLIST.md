@@ -1,5 +1,10 @@
 # Quizsalon · Release-Checkliste
 
+## Deutsche Ausgabe 0.4.1
+
+- [x] Einzeldatei offline mit allen sechs Themenbildern und zwölf Gastporträts geprüft. [Bildabgleich und Layoutmessungen](release/qa/0.4.1/einzeldatei/themenlayout.json)
+- [x] Beide lokalen Android-Ausgaben mit Versionscode 5 gebaut, signiert und gegen den Webinhalt geprüft. [APK-Prüfung](release/android/artifacts.json)
+
 ## Deutsche Ausgabe 0.4.0
 
 - [x] Kostenlose Fünferrunde, Revanche, optionaler Quiztisch, drei Unterthemen und Freundesrunden bis zum Ergebnis geprüft. [Arbeitspakete und Einzelnachweise](UMSETZUNGSPLAN_WEITERSPIELEN.md)

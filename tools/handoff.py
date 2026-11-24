@@ -38,7 +38,9 @@ def main():
     html = OUT / "Quizsalon-Lokaltest.html"
     html_text = html.read_text(encoding="utf-8")
     assert manifest["version"] in html_text and "Lokaler Thementest" in html_text
-    standalone_proof = json.loads((OUT / "qa/weiterspielen-0.4.0/einzeldatei-einladung.json").read_text(encoding="utf-8"))
+    app_version = json.loads((ROOT / "package.json").read_text(encoding="utf-8"))["version"]
+    qa = OUT / "qa" / app_version
+    standalone_proof = json.loads((qa / "einzeldatei-einladung.json").read_text(encoding="utf-8"))
     assert standalone_proof["fileSHA256"] == sha(html.read_bytes()) and standalone_proof["clipboardEqualsPublicLink"]
     store = OUT / "store"
     screens = sorted(store.glob("Telefon-*.png"))
@@ -67,9 +69,8 @@ def main():
     for apk in apks:
         snapshot = next(a for a in inspected if a["name"] == apk.name)
         assert snapshot["sha256"] == sha(apk.read_bytes()) and snapshot["apkSignatureV2"] and snapshot["zipalign16KB"]
-    app_version = json.loads((ROOT / "package.json").read_text(encoding="utf-8"))["version"]
     assert app_version == inspected[0]["versionName"]
-    live = json.loads((OUT / "qa/weiterspielen-0.4.0/github-pages-live/freundesrunde.json").read_text(encoding="utf-8"))
+    live = json.loads((qa / "github-pages-live/freundesrunde.json").read_text(encoding="utf-8"))
     assert live["edition"] == app_version and live["assetsSHA256"]["data/catalog.json"] == sha(catalog)
     result = {("base_commit" if args.working_tree else "source_commit"): commit, "assembled_at_utc": datetime.now(timezone.utc).isoformat(),
               "source": "working_tree" if args.working_tree else "commit", "app_version": app_version, "version_code": inspected[0]["versionCode"],

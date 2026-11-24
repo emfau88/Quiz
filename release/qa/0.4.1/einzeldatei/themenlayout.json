@@ -1,0 +1,99 @@
+{
+  "edition": "0.4.1",
+  "source": "HTML-Einzeldatei offline",
+  "checkedAt": "2026-11-24T21:43:48.080Z",
+  "artworkHashes": {
+    "topics/nature_animals.webp": "d0af0bfd9fc93ce63c331ca6a853ad73fd61225ef48d6592e70bb74bf2631416",
+    "topics/geography_travel.webp": "d4cae1c4b81e25c95a92f5622a2705f13e8ebf70737ef0a94d45f90906825168",
+    "topics/everyday_technology.webp": "0f9f4b261f6e39fc872e20976a49faedf633c81bf1803ec019d7fd1f4dd8c960",
+    "topics/history_discoveries.webp": "e7cf5a9aa77e1a44e583f0d7cae2b5415dd0cd342ae11e2841c14892dea7797d",
+    "topics/entertainment.webp": "ebcd3e63eaa583a9cbb40c897b987c1d57f09c38564bcf07305e1e79ad862a22",
+    "topics/language_culture.webp": "384f8e6db1ff01e83488ee3303174844ac950b61093476801ae1d1fdd582f099",
+    "guests/ada.png": "9d566d88d3c15aa675df26c270a3805d5a6e319d57bb5495354047e42e15affb",
+    "guests/oskar.png": "654f9b881f03de20f2a07072b05e98ec5e16473e476849e3bf5508fcbee1ac89",
+    "guests/mira.png": "7a979f78a44192db8d31b3a372e944a98d85c6ad39e9d16b769d45785ea3cbc4",
+    "guests/leila.png": "dc5560cb8823aeb931a2b1549f467fded80299fbd89667ed6f6e1f2ab7cd2828",
+    "guests/bruno.png": "3c626a672133a40ec17a4e53d8628ce36dce49ffd77e973dac6c15404a541767",
+    "guests/jule.png": "04ec15b9055e1e6775546ba615c970c5f8e929499bbdbb3f3fc912266be8c3e9",
+    "guests/yara.png": "7e5e502d7843e547f9fd47154a75a4369d77faa4716db006712be3d3a82a2e6f",
+    "guests/cem.png": "7f27f2de415bb595ebbf7f660a59bcaf6c87c786b441c0f4dd629de937354c4b",
+    "guests/alma.png": "0e020ff0da9f1a880db9c75e54756e7b47f4873e329ca249fbf838c58fa03db5",
+    "guests/felix.png": "55bed42f35fd4c72d1027f43734f6e728fa1a36133e42a2abba65e6cb8fb48d0",
+    "guests/nils.png": "eab2fc25bb2a2421c4e82d92d24535f20663c7ef9a7eb0abd3f474f2c4accdea",
+    "guests/ruth.png": "c71c2955983a33fcaf07a0d65a84ca3eb15161c00dc6cdd30a08a54167bf2817"
+  },
+  "checks": [
+    {
+      "engine": "chromium",
+      "browser": "149.0.7827.55",
+      "width": 320,
+      "fontPercent": 100,
+      "rows": 3,
+      "decodedPictures": 6,
+      "maxTopGapPx": 0
+    },
+    {
+      "engine": "chromium",
+      "browser": "149.0.7827.55",
+      "width": 360,
+      "fontPercent": 100,
+      "rows": 3,
+      "decodedPictures": 6,
+      "maxTopGapPx": 0
+    },
+    {
+      "engine": "chromium",
+      "browser": "149.0.7827.55",
+      "width": 390,
+      "fontPercent": 100,
+      "rows": 3,
+      "decodedPictures": 6,
+      "maxTopGapPx": 0
+    },
+    {
+      "engine": "chromium",
+      "browser": "149.0.7827.55",
+      "width": 430,
+      "fontPercent": 100,
+      "rows": 3,
+      "decodedPictures": 6,
+      "maxTopGapPx": 0
+    },
+    {
+      "engine": "chromium",
+      "browser": "149.0.7827.55",
+      "width": 320,
+      "fontPercent": 200,
+      "rows": 6,
+      "decodedPictures": 6,
+      "maxTopGapPx": 0
+    },
+    {
+      "engine": "chromium",
+      "browser": "149.0.7827.55",
+      "width": 390,
+      "fontPercent": 200,
+      "rows": 6,
+      "decodedPictures": 6,
+      "maxTopGapPx": 0
+    },
+    {
+      "engine": "chromium",
+      "browser": "149.0.7827.55",
+      "width": 768,
+      "fontPercent": 100,
+      "rows": 2,
+      "decodedPictures": 6,
+      "maxTopGapPx": 0
+    },
+    {
+      "engine": "chromium",
+      "browser": "149.0.7827.55",
+      "width": 1140,
+      "fontPercent": 100,
+      "rows": 2,
+      "decodedPictures": 6,
+      "maxTopGapPx": 0
+    }
+  ]
+}

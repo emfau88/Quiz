@@ -216,7 +216,6 @@ export function resultPage({state, session:s, day,catalog,pendingInvitation}) {
     (pendingInvitation ? action('return-invite','Zur Freundeseinladung','text-btn') : '') +
     action('home','Zur Übersicht','text-btn result-home') + '</section>' + comparator + '</div>' + sidePanel(state,day) + '</div>';
 }
-const colorNames = {'nature_animals':'nature','geography_travel':'travel','everyday_technology':'tech','history_discoveries':'history','entertainment':'music','language_culture':'culture'};
 export function topicsPage({state, billing,catalog,day}) {
   const open = Object.values(state.sessions).find(s => s.status === 'active' && s.mode !== 'daily');
   const cards = Object.entries(RULES.categories).map(([id,title]) => {
@@ -224,8 +223,10 @@ export function topicsPage({state, billing,catalog,day}) {
     const subtopics = subtopicOptions(state,catalog,day,id);
     const status = active ? 'Angefangene Runde fortsetzen' : billing.allowed ? billing.topicLabel :
       state.trials[id] ? 'Kennenlernrunde bereits genutzt' : 'Kostenlos kennenlernen · 5 Fragen';
-    return '<button class="topic-card ' + colorNames[id] + '" data-action="topic" data-id="' + id + '"><span class="topic-art">' +
-      icon(id) + '</span><span class="topic-label"><strong>' + esc(title) + '</strong><small>' + esc(status) + '</small>' +
+    const picture = globalThis.QUIZSALON_TOPIC_IMAGES?.[id] ?? ('./assets/topics/' + id + '.webp');
+    return '<button type="button" class="topic-card" data-action="topic" data-id="' + id + '">' +
+      '<img class="topic-art" src="' + picture + '" alt="" width="720" height="360" decoding="async">' +
+      '<span class="topic-label"><strong>' + esc(title) + '</strong><small>' + esc(status) + '</small>' +
       (subtopics.length ? '<small class="topic-includes">Mit ' + subtopics.map(item=>esc(item.label)).join(' und ') + '</small>' : '') + '</span></button>';
   }).join('');
   return heading('Themenrunden','Deine Themen',action('plus',icon('spark') + esc(billing.label),'quiet-btn'),'topics') +

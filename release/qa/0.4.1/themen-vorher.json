@@ -1,0 +1,32 @@
+{
+  "edition": "0.4.0",
+  "variant": "HTML-Einzeldatei",
+  "width": 360,
+  "browser": "149.0.7827.55",
+  "cards": [
+    {
+      "id": "nature_animals",
+      "topGap": 0
+    },
+    {
+      "id": "geography_travel",
+      "topGap": 18
+    },
+    {
+      "id": "everyday_technology",
+      "topGap": 0
+    },
+    {
+      "id": "history_discoveries",
+      "topGap": 0
+    },
+    {
+      "id": "entertainment",
+      "topGap": 0
+    },
+    {
+      "id": "language_culture",
+      "topGap": 19.4375
+    }
+  ]
+}
