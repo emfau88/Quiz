@@ -1,0 +1,581 @@
+{
+  "at": "2026-11-24T20:31:45.701Z",
+  "catalog": "de-d5a1d0585ed1",
+  "browser": "149.0.7827.55",
+  "viewport": [
+    390,
+    780
+  ],
+  "variants": {
+    "tested": [
+      {
+        "category": "entertainment",
+        "subtopic": "filmgeschichte",
+        "mode": "topic",
+        "grades": [
+          6,
+          3,
+          1
+        ],
+        "score": 8,
+        "xp": 0,
+        "questions": [
+          {
+            "id": "q3-e-lola-frist",
+            "fact": "q3.e.lola.frist",
+            "difficulty": "easy",
+            "theme": "thema_filmgeschichten"
+          },
+          {
+            "id": "k-media-zeitmaschine-auto",
+            "fact": "media.zeitmaschine_auto",
+            "difficulty": "easy",
+            "theme": "thema_filmgeschichten"
+          },
+          {
+            "id": "q3-e-et-klang",
+            "fact": "q3.e.et.klang",
+            "difficulty": "easy",
+            "theme": "thema_filmgeschichte"
+          },
+          {
+            "id": "q3-e-toddao-format",
+            "fact": "q3.e.toddao.format",
+            "difficulty": "hard",
+            "theme": "thema_filmgeschichte"
+          },
+          {
+            "id": "k-cinema-schwarzwaldmaedel-duo",
+            "fact": "cinema.schwarzwaldmaedel.duo",
+            "difficulty": "easy",
+            "theme": "thema_filmgeschichte"
+          },
+          {
+            "id": "q3-e-seitenformat",
+            "fact": "q3.e.seitenformat",
+            "difficulty": "easy",
+            "theme": "thema_filmgeschichte"
+          },
+          {
+            "id": "k-media-lola-varianten",
+            "fact": "media.lola_varianten",
+            "difficulty": "medium",
+            "theme": "thema_filmgeschichten"
+          },
+          {
+            "id": "q3-e-spielzeug-college",
+            "fact": "q3.e.spielzeug.college",
+            "difficulty": "easy",
+            "theme": "thema_filmgeschichten"
+          },
+          {
+            "id": "q3-e-paulpaula-mut",
+            "fact": "q3.e.paulpaula.mut",
+            "difficulty": "medium",
+            "theme": "thema_filmgeschichten"
+          },
+          {
+            "id": "q3-e-jazz-singer-platte",
+            "fact": "q3.e.jazz.singer.platte",
+            "difficulty": "medium",
+            "theme": "thema_filmgeschichte"
+          }
+        ]
+      },
+      {
+        "category": "entertainment",
+        "subtopic": "filmgeschichte",
+        "mode": "challenge",
+        "grades": [
+          2,
+          5,
+          3
+        ],
+        "score": 8,
+        "xp": 0,
+        "questions": [
+          {
+            "id": "q3-e-spielfilm-zeitsprung",
+            "fact": "q3.e.spielfilm.zeitsprung",
+            "difficulty": "hard",
+            "theme": "thema_filmgeschichte"
+          },
+          {
+            "id": "q3-e-kinopalast-plaetze",
+            "fact": "q3.e.kinopalast.plaetze",
+            "difficulty": "easy",
+            "theme": "thema_filmgeschichte"
+          },
+          {
+            "id": "k-cinema-gewand-widescreen",
+            "fact": "cinema.gewand.widescreen",
+            "difficulty": "medium",
+            "theme": "thema_filmgeschichte"
+          },
+          {
+            "id": "q3-e-filmfrueh-sport",
+            "fact": "q3.e.filmfrueh.sport",
+            "difficulty": "medium",
+            "theme": "thema_filmgeschichte"
+          },
+          {
+            "id": "q3-e-emil-zwei-summen",
+            "fact": "q3.e.emil.zwei.summen",
+            "difficulty": "hard",
+            "theme": "thema_filmgeschichten"
+          },
+          {
+            "id": "q3-e-woody-museum",
+            "fact": "q3.e.woody.museum",
+            "difficulty": "easy",
+            "theme": "thema_filmgeschichten"
+          },
+          {
+            "id": "k-cinema-katzelmacher-fassbinder",
+            "fact": "cinema.katzelmacher.fassbinder",
+            "difficulty": "medium",
+            "theme": "thema_filmgeschichte"
+          },
+          {
+            "id": "q3-e-riley-zweifel",
+            "fact": "q3.e.riley.zweifel",
+            "difficulty": "medium",
+            "theme": "thema_filmgeschichten"
+          },
+          {
+            "id": "q3-e-kopenick-passstelle",
+            "fact": "q3.e.kopenick.passstelle",
+            "difficulty": "hard",
+            "theme": "thema_filmgeschichten"
+          },
+          {
+            "id": "k-media-riley-zentrale",
+            "fact": "media.riley_zentrale",
+            "difficulty": "medium",
+            "theme": "thema_filmgeschichten"
+          }
+        ]
+      },
+      {
+        "category": "nature_animals",
+        "subtopic": "tierverhalten",
+        "mode": "topic",
+        "grades": [
+          6,
+          3,
+          1
+        ],
+        "score": 8,
+        "xp": 0,
+        "questions": [
+          {
+            "id": "qs-eichhoernchen-verteilte-vorraete",
+            "fact": "eichhoernchen-verteilte-vorraete",
+            "difficulty": "easy",
+            "theme": "thema_tierverhalten"
+          },
+          {
+            "id": "qs3-seeotter-schlaf-tang-anker",
+            "fact": "seeotter-schlaf-tang-anker",
+            "difficulty": "easy",
+            "theme": "thema_tierverhalten"
+          },
+          {
+            "id": "qs-gepard-sprint",
+            "fact": "gepard-sprint",
+            "difficulty": "easy",
+            "theme": "thema_tierverhalten"
+          },
+          {
+            "id": "qs3-buckelwal-pazifik-tagesstrecke",
+            "fact": "buckelwal-pazifik-tagesstrecke",
+            "difficulty": "hard",
+            "theme": "thema_tierverhalten"
+          },
+          {
+            "id": "qs3-maulwurf-trockenheit-tiefere-gaenge",
+            "fact": "maulwurf-trockenheit-tiefere-gaenge",
+            "difficulty": "easy",
+            "theme": "thema_tierverhalten"
+          },
+          {
+            "id": "qs3-mauersegler-schlaf-fliegender",
+            "fact": "mauersegler-schlaf-fliegender",
+            "difficulty": "medium",
+            "theme": "thema_tierverhalten"
+          },
+          {
+            "id": "qs3-wildschwein-rotte-leitung",
+            "fact": "wildschwein-rotte-leitung",
+            "difficulty": "medium",
+            "theme": "thema_tierverhalten"
+          },
+          {
+            "id": "qs3-baumschlaefer-nesttiefe-mass",
+            "fact": "baumschlaefer-nesttiefe-mass",
+            "difficulty": "easy",
+            "theme": "thema_tierverhalten"
+          },
+          {
+            "id": "qs3-ameisenloewe-trichter-sandauswurf",
+            "fact": "ameisenloewe-trichter-sandauswurf",
+            "difficulty": "easy",
+            "theme": "thema_tierverhalten"
+          },
+          {
+            "id": "qs-star-gesang-imitation",
+            "fact": "star-gesang-imitation",
+            "difficulty": "medium",
+            "theme": "thema_tierverhalten"
+          }
+        ]
+      },
+      {
+        "category": "nature_animals",
+        "subtopic": "wetter",
+        "mode": "topic",
+        "grades": [
+          6,
+          3,
+          1
+        ],
+        "score": 8,
+        "xp": 0,
+        "questions": [
+          {
+            "id": "qs3-klima-rueckkopplung-eis-zaehlt",
+            "fact": "klima-rueckkopplung-eis-zaehlt",
+            "difficulty": "hard",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs3-hagelschneise-nach-gewitter",
+            "fact": "hagelschneise-nach-gewitter",
+            "difficulty": "easy",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs3-windrichtung-herkunft-pfeil",
+            "fact": "windrichtung-herkunft-pfeil",
+            "difficulty": "medium",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs3-nebel-aviation-sichtgrenze",
+            "fact": "nebel-aviation-sichtgrenze",
+            "difficulty": "easy",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs3-nebel-dunst-trockenpartikel",
+            "fact": "nebel-dunst-trockenpartikel",
+            "difficulty": "easy",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs-donner-ursache",
+            "fact": "donner-ursache",
+            "difficulty": "easy",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs3-schneeflocke-sinkzeit",
+            "fact": "schneeflocke-sinkzeit",
+            "difficulty": "medium",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs3-warmluft-dichte-auftrieb",
+            "fact": "warmluft-dichte-auftrieb",
+            "difficulty": "easy",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs3-gebirge-lee-trockene-luft",
+            "fact": "gebirge-lee-trockene-luft",
+            "difficulty": "easy",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs3-sonnenhang-suedhalbkugel",
+            "fact": "sonnenhang-suedhalbkugel",
+            "difficulty": "medium",
+            "theme": "thema_wetter"
+          }
+        ]
+      },
+      {
+        "category": "nature_animals",
+        "subtopic": "wetter",
+        "mode": "challenge",
+        "grades": [
+          2,
+          5,
+          3
+        ],
+        "score": 8,
+        "xp": 0,
+        "questions": [
+          {
+            "id": "qs-kaltluftsenke-spaetfrost",
+            "fact": "kaltluftsenke-spaetfrost",
+            "difficulty": "medium",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs-doppelregenbogen-farbreihenfolge",
+            "fact": "doppelregenbogen-farbreihenfolge",
+            "difficulty": "medium",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs3-taumenge-regenmesser",
+            "fact": "taumenge-regenmesser",
+            "difficulty": "medium",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs3-klima-rueckkopplung-eis-zaehlt",
+            "fact": "klima-rueckkopplung-eis-zaehlt",
+            "difficulty": "hard",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs3-hagelschichten-luftblasen",
+            "fact": "hagelschichten-luftblasen",
+            "difficulty": "hard",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs-strahlungsnebel-klare-nacht",
+            "fact": "strahlungsnebel-klare-nacht",
+            "difficulty": "hard",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs-foehn-lee-warm-trocken",
+            "fact": "foehn-lee-warm-trocken",
+            "difficulty": "medium",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs-erde-jahreszeiten",
+            "fact": "erde-jahreszeiten",
+            "difficulty": "easy",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs3-autodach-tautropfen",
+            "fact": "autodach-tautropfen",
+            "difficulty": "easy",
+            "theme": "thema_wetter"
+          },
+          {
+            "id": "qs3-stadtwaerme-rural-vergleichen",
+            "fact": "stadtwaerme-rural-vergleichen",
+            "difficulty": "medium",
+            "theme": "thema_wetter"
+          }
+        ]
+      }
+    ],
+    "fallback": {
+      "category": "nature_animals",
+      "subtopic": null,
+      "mode": "challenge",
+      "grades": [
+        2,
+        5,
+        3
+      ],
+      "score": 8,
+      "xp": 0,
+      "questions": [
+        {
+          "id": "qs3-robben-saeugeunterbruch",
+          "fact": "robben-saeugeunterbruch",
+          "difficulty": "medium",
+          "theme": "thema_brut_und_aufzucht"
+        },
+        {
+          "id": "qs3-mondkorona-tropfengroesse",
+          "fact": "mondkorona-tropfengroesse",
+          "difficulty": "hard",
+          "theme": "thema_himmelsoptik"
+        },
+        {
+          "id": "qs3-kleinlibelle-schwanzkiemen",
+          "fact": "kleinlibelle-schwanzkiemen",
+          "difficulty": "medium",
+          "theme": "thema_insekten"
+        },
+        {
+          "id": "qs3-periodischer-komet-wiederkehr",
+          "fact": "periodischer-komet-wiederkehr",
+          "difficulty": "medium",
+          "theme": "thema_licht_und_himmel"
+        },
+        {
+          "id": "qs3-totholzpilz-kaeferlarve-reihenfolge",
+          "fact": "totholzpilz-kaeferlarve-reihenfolge",
+          "difficulty": "hard",
+          "theme": "thema_waldoekologie"
+        },
+        {
+          "id": "qs3-fossilholz-zellraeume",
+          "fact": "fossilholz-zellraeume",
+          "difficulty": "hard",
+          "theme": "thema_fossilien"
+        },
+        {
+          "id": "qs-studie-schildkroete-magnetkarte",
+          "fact": "forschung.schildkroete_magnetkarte",
+          "difficulty": "easy",
+          "theme": "thema_tierwanderungen"
+        },
+        {
+          "id": "qs3-siebenschlaefer-gewichtsverlust",
+          "fact": "siebenschlaefer-gewichtsverlust",
+          "difficulty": "medium",
+          "theme": "thema_jahreszeiten"
+        },
+        {
+          "id": "qs-koralle-bleiche-algen",
+          "fact": "koralle-bleiche-algen",
+          "difficulty": "medium",
+          "theme": "thema_tieroekologie"
+        },
+        {
+          "id": "qs3-korallenstock-alte-skelette",
+          "fact": "korallenstock-alte-skelette",
+          "difficulty": "easy",
+          "theme": "thema_meeresoekologie"
+        }
+      ]
+    },
+    "learnedAnswers": 60,
+    "dailyAwards": 0,
+    "trialsUsed": 0,
+    "access": "local"
+  },
+  "weather": {
+    "day": "2026-11-24",
+    "installationSeed": "abnahme-wetter-236",
+    "daily": "daily-2026-11-24",
+    "reservedHard": [
+      "qs-strahlungsnebel-klare-nacht"
+    ],
+    "whileReserved": [
+      "topic"
+    ],
+    "afterRealDailyCompletion": [
+      "topic",
+      "challenge"
+    ]
+  },
+  "regularAccess": {
+    "state": "unavailable",
+    "subtopicStartedWithoutEntitlement": false,
+    "parentTrial": {
+      "category": "nature_animals",
+      "subtopic": null,
+      "mode": "trial",
+      "grades": [
+        3,
+        2,
+        0
+      ],
+      "score": 4,
+      "xp": 0,
+      "questions": [
+        {
+          "id": "qs3-versiegelung-schulhof-regen",
+          "fact": "versiegelung-schulhof-regen",
+          "difficulty": "easy",
+          "theme": "thema_stadtgruen"
+        },
+        {
+          "id": "qs-papageifisch-weisser-sand",
+          "fact": "papageifisch-weisser-sand",
+          "difficulty": "medium",
+          "theme": "thema_tieroekologie"
+        },
+        {
+          "id": "qs3-weltwasser-meer-anteil",
+          "fact": "weltwasser-meer-anteil",
+          "difficulty": "easy",
+          "theme": "thema_wasserkreislauf"
+        },
+        {
+          "id": "qs3-horizont-milchig-lichtweg",
+          "fact": "horizont-milchig-lichtweg",
+          "difficulty": "medium",
+          "theme": "thema_licht_und_himmel"
+        },
+        {
+          "id": "qs3-laubstreu-frisch-alter-schichtung",
+          "fact": "laubstreu-frisch-alter-schichtung",
+          "difficulty": "easy",
+          "theme": "thema_boeden"
+        }
+      ]
+    },
+    "savedTrialId": "trial-1",
+    "freeTrialRemainedConsumedAfterReload": true
+  },
+  "entitlement": {
+    "scope": "Unveränderte Produktionsmodule access.js und engine.js in isoliertem Browserdokument. Die Testbrücke liefert Statuswerte. Hier wurde keine Google-Play-Transaktion ausgeführt.",
+    "results": [
+      {
+        "supplied": "unavailable",
+        "interpreted": "unavailable",
+        "allowed": false,
+        "start": "PLUS"
+      },
+      {
+        "supplied": "unknown",
+        "interpreted": "unknown",
+        "allowed": false,
+        "start": "PLUS"
+      },
+      {
+        "supplied": "pending",
+        "interpreted": "pending",
+        "allowed": false,
+        "start": "PLUS"
+      },
+      {
+        "supplied": "not_entitled",
+        "interpreted": "not_entitled",
+        "allowed": false,
+        "start": "PLUS"
+      },
+      {
+        "supplied": "entitled",
+        "interpreted": "entitled",
+        "allowed": true,
+        "start": 10
+      },
+      {
+        "supplied": "revoked",
+        "interpreted": "revoked",
+        "allowed": false,
+        "start": "PLUS"
+      },
+      {
+        "supplied": "error",
+        "interpreted": "error",
+        "allowed": false,
+        "start": "PLUS"
+      },
+      {
+        "supplied": "malformed",
+        "interpreted": "unavailable",
+        "allowed": false,
+        "start": "PLUS"
+      }
+    ]
+  },
+  "errors": [],
+  "external": []
+}

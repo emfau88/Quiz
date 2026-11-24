@@ -7,7 +7,7 @@ Quizsalon ist der Arbeitstitel. Die Namenssichtung fand im deutschsprachigen Rau
 | Eingabe | Vorbereitet | Offen |
 | --- | --- | --- |
 | Produkt | Deutsch, kostenlos installierbares Quizspiel, einmaliges dauerhaftes In-App-Produkt quizsalon_plus | Endgültige Paket-ID, Marken-/Namenprüfung, Betreiberkonto, Länder, tatsächlicher lokalisierter Preis |
-| App-Zugang | Kernspiel startet direkt ohne Konto. Themen lassen sich jeweils in einer kostenlosen Probe testen. Freier Plus-Umfang benötigt einen bestätigten Play-Kauf. | Internen Track einrichten, Lizenztester zulassen und tatsächliche Prüferzugänge bzw. Play-Testanweisungen hinterlegen |
+| App-Zugang | Tagesrunde, beliebige gemischte Fünferrunden, Revanche und Freundesrunden sind kostenlos. Je Hauptkategorie gibt es eine Kennenlernrunde. Die freie Themenwahl erfordert einen bestätigten Einmalkauf. | Internen Track einrichten, Lizenztester zulassen und tatsächliche Prüferzugänge bzw. Play-Testanweisungen hinterlegen |
 | Zielgruppe | Entwicklungsschwerpunkt Erwachsene von ungefähr 50 bis 70 Jahren | Der Betreiber bestätigt die tatsächlich adressierten Store-Altersgruppen |
 | Inhaltsbewertung | Wissensquiz, Textfragen, keine Nutzerbeiträge, kein Chat, fiktive lokale Computergegner | IARC-Fragebogen für den tatsächlichen Inhalt ausfüllen und zugewiesene Bewertung festhalten |
 | Anzeigen | Der ausgelieferte Quizcode enthält kein Werbe-SDK und zeigt keine Anzeigen an | Im endgültigen Build gegenprüfen und Console-Erklärung abgeben |

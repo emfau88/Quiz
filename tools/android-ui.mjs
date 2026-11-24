@@ -14,7 +14,7 @@ if (!/^emulator-\d+$/.test(serial || '') || !output) {
 }
 const folder = resolve(output);
 mkdirSync(folder, {recursive:true});
-const pkg = ['local','continue-local'].includes(mode) ? 'de.quizsalon.lokaltest' : 'de.quizsalon.vorschau';
+const pkg = ['local','continue-local','continue-final-local'].includes(mode) ? 'de.quizsalon.lokaltest' : 'de.quizsalon.vorschau';
 const activity = pkg + '/de.quizsalon.app.MainActivity';
 const adb = (...args) => execFileSync('adb', ['-s', serial, ...args], {encoding:'utf8', timeout:45000}).trim();
 const shell = (...args) => adb('shell', ...args);
@@ -123,8 +123,8 @@ async function click(selector) {
   shell('input','tap',String(Math.round(webBounds[0]+point[0]*scale)),String(Math.round(webBounds[1]+point[1]*scale)));
   await delay(350);
 }
-async function screenshot(name, selector) {
-  if (selector) await js(query(selector) + "?.scrollIntoView({block:'start'})");
+async function screenshot(name, selector, position='start') {
+  if (selector) await js(query(selector) + "?.scrollIntoView({block:"+JSON.stringify(position)+"})");
   else await js('window.scrollTo(0,0)');
   await js('document.fonts.ready.then(() => new Promise(ok => requestAnimationFrame(() => requestAnimationFrame(ok))))');
   // Force a full SurfaceFlinger redraw on headless emulators before reading Android's real screen.
@@ -132,6 +132,13 @@ async function screenshot(name, selector) {
   await delay(500);
   shell('cmd','statusbar','collapse');
   await delay(1600);
+  await eventually(()=>{
+    const focus=shell('dumpsys','window','displays').split(/\r?\n/).find(line=>line.includes('mCurrentFocus='));
+    if(focus?.includes(pkg+'/de.quizsalon.app.MainActivity')) return true;
+    if(focus?.includes('NotificationShade')) shell('cmd','statusbar','collapse');
+    return false;
+  },'Android-Statusleiste verdeckt die Spieloberfläche',12);
+  await delay(250);
   screenCapture(name);
 }
 function screenCapture(name) {
@@ -239,7 +246,7 @@ async function dailyFlow(gallery = false) {
     await exists('#feedback');
     assert.equal(await js("document.querySelectorAll('button.answer:disabled').length"),4);
     if (pos === 0) {
-      await screenshot('02-erklaerung','#feedback');
+      await screenshot('02-erklaerung','#feedback','center');
       const saved = await daily();
       await restart();
       assert.deepEqual(await daily(),saved);

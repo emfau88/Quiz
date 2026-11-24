@@ -6,7 +6,7 @@ Quizsalon
 
 ## Kurzbeschreibung
 
-Zehn Fragen am Tag, sechs Themen und dein persönliches Wissensalbum
+Tagesquiz und kostenlose Kurzrunden. Fordere Freunde mit fünf Fragen heraus.
 
 ## Beschreibung
 
@@ -16,9 +16,9 @@ Natur und Tiere, Länder und Reisen, Alltag und Technik, Geschichte und Entdecku
 
 Fragen können später wiederkehren. Erinnerst du dich nach einem früheren Fehler richtig, zeigt dir Quizsalon dein „Wiedergewusst“. Im persönlichen Wissensalbum kannst du deine Erklärungen jederzeit nachlesen. Für abgeschlossene Tagesrunden sammelst du Erfahrungspunkte. Dein Wochenziel erreichst du mit vier abgeschlossenen Tagesrunden an verschiedenen Tagen derselben Woche.
 
-Auf Wunsch vergleichst du dein Tagesergebnis mit drei ausdrücklich gekennzeichneten Computergegnern. Den Vergleich kannst du jederzeit ausblenden.
+Lust auf eine weitere Runde? „Noch 5 Fragen“ bringt dir jederzeit eine kostenlose Mischung. Auf Wunsch sitzen drei von zwölf Computergegnern mit eigenen Stärken an deinem Quiztisch. Fordere dieselben drei Gäste zur Revanche oder schicke einem Freund deine erspielte Fünferrunde. Sein Link öffnet dieselben Fragen im Browser. Anschließend kann er dir sein Ergebnis zurückschicken.
 
-Die Tagesrunde, das Wissensalbum und je eine Kennenlernrunde pro Thema sind kostenlos. Der einmalige Kauf von Quizsalon Plus eröffnet freie Themenrunden und eine zusätzliche Schwierigkeitswahl. Fragen können sich beim häufigen Spielen wiederholen. Den aktuellen Preis zeigt Google Play vor dem Kauf.
+Tagesrunde, gemischte Kurzrunden, Freundesrunden, Wissensalbum und eine Kennenlernrunde je Hauptkategorie sind kostenlos. Der einmalige Kauf von Quizsalon Plus eröffnet die freie Themen- und Schwierigkeitswahl. Wähle auch Filmgeschichte, Tierverhalten oder Wetter. Fragen können sich beim häufigen Spielen wiederholen. Den aktuellen Preis zeigt Google Play vor dem Kauf.
 
 Quizsalon kommt ohne eigenes Konto und ohne Werbung aus. Nach der Installation kannst du offline spielen. Für neue Käufe und die Wiederherstellung eines bestehenden Kaufs benötigst du Google Play und eine Verbindung.
 

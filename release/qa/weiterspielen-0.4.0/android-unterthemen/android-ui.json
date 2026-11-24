@@ -1,0 +1,162 @@
+{
+  "device": "sdk_gphone16k_x86_64",
+  "api": "36",
+  "pageSize": "16384",
+  "run": "2026-11-24T20:36:20.782Z",
+  "checks": [
+    "Filmgeschichte · topic bis zum Ergebnis. Alle zehn Sachverhalte mit passendem redaktionellen Thema und exakter Schwierigkeitsmischung.",
+    "Filmgeschichte · challenge bis zum Ergebnis. Alle zehn Sachverhalte mit passendem redaktionellen Thema und exakter Schwierigkeitsmischung.",
+    "Tierverhalten · topic bis zum Ergebnis. Alle zehn Sachverhalte mit passendem redaktionellen Thema und exakter Schwierigkeitsmischung.",
+    "Wetter · topic bis zum Ergebnis. Alle zehn Sachverhalte mit passendem redaktionellen Thema und exakter Schwierigkeitsmischung.",
+    "Wetter · challenge bis zum Ergebnis. Alle zehn Sachverhalte mit passendem redaktionellen Thema und exakter Schwierigkeitsmischung.",
+    "50 eigene Antworten in fünf angebotenen Unterthemenvarianten. Tierverhalten verweist für anspruchsvoll auf die Hauptrubrik. Die lokale Ausgabe meldet weiterhin keinen Play-Besitz."
+  ],
+  "screenshots": [
+    "unterthema-filmgeschichte.png",
+    "unterthema-tierverhalten.png",
+    "unterthema-wetter.png"
+  ],
+  "variants": [
+    {
+      "scope": "filmgeschichte",
+      "mode": "topic",
+      "mix": [
+        6,
+        3,
+        1
+      ],
+      "cards": [
+        "k-media-lola-varianten",
+        "q3-e-lola-frist",
+        "k-media-lenin-wohnung",
+        "q3-e-et-klang",
+        "q3-e-spielzeug-college",
+        "q3-e-kinetoskop-loch",
+        "q3-e-lenin-nachrichten",
+        "q3-e-muenchhausen-rahmen",
+        "q3-e-film-illusion",
+        "q3-e-britisches-kino-1946"
+      ],
+      "result": {
+        "correct": 7,
+        "valid": 10,
+        "xp": 0,
+        "medal": "Silber",
+        "recalled": 0
+      }
+    },
+    {
+      "scope": "filmgeschichte",
+      "mode": "challenge",
+      "mix": [
+        2,
+        5,
+        3
+      ],
+      "cards": [
+        "k-cinema-katzelmacher-fassbinder",
+        "q3-e-pandora-vorlage",
+        "q3-e-boxfilm-newyork",
+        "k-easy-rider-vehicles",
+        "q3-e-nichtraucher-ort",
+        "q3-e-ratte-ghostcook",
+        "q3-e-toddao-format",
+        "q3-e-seitenformat",
+        "q3-e-mertens-gericht",
+        "q3-e-filmfrueh-sport"
+      ],
+      "result": {
+        "correct": 7,
+        "valid": 10,
+        "xp": 0,
+        "medal": "Silber",
+        "recalled": 0
+      }
+    },
+    {
+      "scope": "tierverhalten",
+      "mode": "topic",
+      "mix": [
+        6,
+        3,
+        1
+      ],
+      "cards": [
+        "qs3-seeotter-schlaf-tang-anker",
+        "qs-eisvogel-fischfang",
+        "qs3-buckelwal-pazifik-tagesstrecke",
+        "qs3-mauersegler-schlaf-fliegender",
+        "qs-igel-herbst-fettreserven",
+        "qs3-wildschwein-rotte-leitung",
+        "qs-erdmaennchen-wache",
+        "qs3-baumschlaefer-quartierwechsel",
+        "qs3-dachs-bett-bau-reinigen",
+        "qs3-baumschlaefer-nesttiefe-mass"
+      ],
+      "result": {
+        "correct": 7,
+        "valid": 10,
+        "xp": 0,
+        "medal": "Silber",
+        "recalled": 0
+      }
+    },
+    {
+      "scope": "wetter",
+      "mode": "topic",
+      "mix": [
+        6,
+        3,
+        1
+      ],
+      "cards": [
+        "qs3-coriolis-hemisphaeren",
+        "qs3-schneeflocke-sinkzeit",
+        "qs-foehn-lee-warm-trocken",
+        "qs3-klima-rueckkopplung-eis-zaehlt",
+        "qs-erde-jahreszeiten",
+        "qs-seewind-tagsueber-land",
+        "qs3-schneeball-feucht-pulver",
+        "qs3-hagelschneise-nach-gewitter",
+        "qs3-nebel-aviation-sichtgrenze",
+        "qs3-wetterhuette-luftstrom"
+      ],
+      "result": {
+        "correct": 7,
+        "valid": 10,
+        "xp": 0,
+        "medal": "Silber",
+        "recalled": 0
+      }
+    },
+    {
+      "scope": "wetter",
+      "mode": "challenge",
+      "mix": [
+        2,
+        5,
+        3
+      ],
+      "cards": [
+        "qs3-sonnenhang-suedhalbkugel",
+        "qs3-schnee-plusgrad-boden",
+        "qs-donner-ursache",
+        "qs-strahlungsnebel-klare-nacht",
+        "qs3-klima-rueckkopplung-eis-zaehlt",
+        "qs3-windrichtung-herkunft-pfeil",
+        "qs3-stadtwaerme-rural-vergleichen",
+        "qs3-hagelschichten-luftblasen",
+        "qs-doppelregenbogen-farbreihenfolge",
+        "qs3-taumenge-regenmesser"
+      ],
+      "result": {
+        "correct": 7,
+        "valid": 10,
+        "xp": 0,
+        "medal": "Silber",
+        "recalled": 0
+      }
+    }
+  ],
+  "ok": true
+}

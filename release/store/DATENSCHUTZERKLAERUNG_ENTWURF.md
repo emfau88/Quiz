@@ -22,6 +22,8 @@ Quizsalon erhält keine von dir bei Google Play hinterlegten Kreditkartendaten. 
 
 ## Fragen melden und Quellen öffnen
 
+Wenn du einen Freund herausforderst, teilst du über die ausgewählte App oder die Zwischenablage einen Link. Er enthält fünf Fragekennungen mit ihren Fassungen und Antwortreihenfolgen sowie deine Trefferzahl. Beim Öffnen lädt der Browser die öffentliche Spielseite von GitHub Pages. Die Spieldaten stehen hinter dem Rautezeichen und werden vom Browser vor Ort ausgewertet. Deine Antwort auf eine Einladung kannst du als Text mit beiden Trefferzahlen weitergeben.
+
 Unter **Frage melden** kannst du Text mit Fragekennung, Revisionen und App-Version ergänzen und kopieren. Bei eingerichtetem Supportkontakt kannst du ihn in deiner Mail-App vorbereiten. Erst wenn du die E-Mail selbst sendest, erhält der Empfänger deine Nachricht und Absenderadresse. Die Vorlage enthält keine Kauf-Token.
 
 Wenn du auf einen Quellenlink tippst, öffnet sich die gewählte externe Website im Browser. Es gelten die Datenschutzinformationen des jeweiligen Anbieters.

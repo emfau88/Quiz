@@ -1,0 +1,79 @@
+{
+  "run": "2026-11-24T20:43:08.683Z",
+  "version": "0.3.0",
+  "catalog": "de-d5a1d0585ed1",
+  "originalZone": "GMT",
+  "observations": {
+    "dailyId": "daily-2026-11-25",
+    "trialId": "trial-3",
+    "totalSessions": 3,
+    "dailyItemsSHA256": "2bc7b27b5eff2a80c38d3e7b5a1cbaaa6fa70009a8d0d1ef6e70d6bd3e3325f7",
+    "trialItemsSHA256": "721828443dd912c28ef23299328b829944a87d6f49fe268e799076c2f46ff48a",
+    "table": [
+      {
+        "name": "Ada",
+        "hits": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "correct": 10
+      },
+      {
+        "name": "Oskar",
+        "hits": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true,
+          true
+        ],
+        "correct": 9
+      },
+      {
+        "name": "Mira",
+        "hits": [
+          true,
+          true,
+          false,
+          false,
+          true,
+          true,
+          true,
+          false,
+          true,
+          true
+        ],
+        "correct": 7
+      }
+    ],
+    "trials": {
+      "history_discoveries": "trial-3"
+    },
+    "ledger": {
+      "daily-complete:daily-2026-11-24": {
+        "xp": 60,
+        "day": "2026-11-24",
+        "at": "2026-11-24T20:42:55.147Z"
+      }
+    },
+    "progressSHA256": "524300a86497dd7433c44f7929cfea85219e99491e881130991debe85f338a09",
+    "awardsSHA256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+    "installationSHA256": "28e1ef8b24c437d23df65aba9163a68c10a77fb159cfb1eca3febff3eea1db9c",
+    "lastView": "#runde/trial-3",
+    "dailyCursor": 0,
+    "trialCursor": 0
+  }
+}

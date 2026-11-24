@@ -1,0 +1,22 @@
+{
+  "engine": "webkit",
+  "browser": "26.5",
+  "old": "quizsalon-assets-9ae5476a74eae7d0",
+  "future": "quizsalon-assets-0ef679712510e4c6",
+  "workerOnlyChange": true,
+  "before": {
+    "quizsalon-assets-9ae5476a74eae7d0": 36
+  },
+  "failedWorker": "redundant",
+  "missingResponseStatus": 404,
+  "afterFailure": {
+    "quizsalon-assets-9ae5476a74eae7d0": 36
+  },
+  "previousOfflineRecovered": true,
+  "finalWorker": "activated",
+  "complete": {
+    "quizsalon-assets-0ef679712510e4c6": 36
+  },
+  "newOfflineRecovered": true,
+  "at": "2026-11-24T20:58:09.648Z"
+}

@@ -1,0 +1,100 @@
+{
+  "executed": "2026-11-24T20:31:53.090Z",
+  "browser": "149.0.7827.55",
+  "edition": "reguläre Webfassung ohne Plus",
+  "sameSessionAcrossTwoTabs": true,
+  "offlineReloadWithTwoAnswered": true,
+  "rounds": [
+    {
+      "id": "quick-3",
+      "startDay": "2026-11-24",
+      "endDay": "2026-11-25",
+      "correct": 0,
+      "facts": [
+        "edition03.language_culture.getrennt.gehen",
+        "research.127.1986",
+        "academy.1983.hl",
+        "edition03.everyday_technology.akkuinhalt",
+        "baikal-tiefster-see"
+      ],
+      "guests": [
+        "felix",
+        "oskar",
+        "yara"
+      ]
+    },
+    {
+      "id": "quick-4",
+      "startDay": "2026-11-25",
+      "endDay": "2026-11-25",
+      "correct": 1,
+      "facts": [
+        "media.hosen_tage",
+        "schweiz-grenze-boehmisch",
+        "edition03.everyday_technology.durchschnitt",
+        "forschung.barnham_funkenschlagen",
+        "edition03.language_culture.go.diagonal"
+      ],
+      "guests": [
+        "nils",
+        "bruno",
+        "alma"
+      ]
+    },
+    {
+      "id": "quick-5",
+      "startDay": "2026-11-25",
+      "endDay": "2026-11-25",
+      "correct": 0,
+      "facts": [
+        "q3.h.pohnpei.inseln",
+        "bulk4.wasserwaage.umschlag",
+        "edition03.language_culture.verlaengern",
+        "kanal-luecke-nuernberg",
+        "q3.e.zeppelin.live"
+      ],
+      "guests": [
+        "leila",
+        "ruth",
+        "nils"
+      ]
+    }
+  ],
+  "before": {
+    "ledger": {
+      "daily-complete:daily-2026-11-24": {
+        "xp": 40,
+        "day": "2026-11-24",
+        "at": "2026-11-24T11:00:00.000Z"
+      }
+    },
+    "week": [
+      "2026-11-24"
+    ],
+    "xp": 40,
+    "trials": {
+      "nature_animals": "trial-2"
+    },
+    "access": "unavailable"
+  },
+  "after": {
+    "ledger": {
+      "daily-complete:daily-2026-11-24": {
+        "xp": 40,
+        "day": "2026-11-24",
+        "at": "2026-11-24T11:00:00.000Z"
+      }
+    },
+    "week": [
+      "2026-11-24"
+    ],
+    "xp": 40,
+    "trials": {
+      "nature_animals": "trial-2"
+    },
+    "access": "unavailable"
+  },
+  "albumBefore": 15,
+  "albumAfter": 30,
+  "pageErrors": []
+}

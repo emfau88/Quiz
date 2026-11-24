@@ -134,25 +134,27 @@ final class TalkBackTraversal {
                     "Lernbuchung für die eigene Antwort fehlt.");
         }
         find("Dein Rundenergebnis", false);
-        exploreText("Euer Vergleich");
+        exploreText("Geteiltes Ergebnis");
         find(result.getInt("correct")+" von 5", false);
         find(Integer.parseInt(parts[2])+" von 5", false);
         gesture("result", 540, 900);
         SystemClock.sleep(1200);
         focusButton("Ergebnis zurückschicken");
         focusButton("Noch 5 Fragen");
-        focusButton("Thema wählen");
-        activateFocused();
+        activateUntil("Thema wählen","Deine Themen");
         find("Deine Themen", false);
         // Compound tile labels include the number of questions and available scopes.
         AccessibilityNodeInfo category = find("Natur und Tiere", false);
         while (category!=null && !"android.widget.Button".contentEquals(category.getClassName())) category=category.getParent();
         require(category!=null,"Naturkategorie ist nicht als Schaltfläche erreichbar.");
         String name = nodeText(category);
-        focusButton(name);
-        activateFocused();
-        focusButton("Wetter");
-        activateFocused();
+        activateUntil(name,"Gesamte Kategorie");
+        String scopeSelected="document.querySelector('[data-action=topic-scope][data-subtopic=wetter]')?.getAttribute('aria-pressed')==='true'";
+        for (int attempt=0;attempt<3 && !observed(activity,scopeSelected);attempt++) {
+            activateUntil("Wetter","Mit Quizsalon Plus");
+            SystemClock.sleep(350);
+        }
+        require(observed(activity,scopeSelected),"Wetter ist nach der TalkBack-Aktivierung nicht ausgewählt.");
         find("Quizsalon Plus ansehen", false);
         gesture("scope", 540, 900);
         SystemClock.sleep(1200);
@@ -176,22 +178,56 @@ final class TalkBackTraversal {
     }
 
     private String nodeText(AccessibilityNodeInfo node) {
-        return node.getText()!=null ? node.getText().toString() : String.valueOf(node.getContentDescription());
+        String text=node.getText()==null ? "" : normalized(node.getText().toString());
+        return text.isEmpty() ? normalized(String.valueOf(node.getContentDescription())) : text;
     }
 
     private void exploreText(String label) {
-        AccessibilityNodeInfo target = find(label,false);
+        find(label,false);
+        AccessibilityNodeInfo target = textTarget(label);
         target.performAction(AccessibilityNodeInfo.AccessibilityAction.ACTION_SHOW_ON_SCREEN.getId());
         SystemClock.sleep(600);
-        target=find(label,true);
+        target=textTarget(label);
         Rect bounds = new Rect();
         target.getBoundsInScreen(bounds);
-        gesture("explore",bounds.centerX(),bounds.centerY());
+        int x=bounds.left+Math.min(bounds.width()/3,110);
+        int y=bounds.top+Math.min(bounds.height()/2,46);
+        gesture("explore",x,y);
         SystemClock.sleep(1150);
         int centerX=runner.getTargetContext().getResources().getDisplayMetrics().widthPixels/2;
         int centerY=runner.getTargetContext().getResources().getDisplayMetrics().heightPixels/2;
-        for (int i=0; i<24 && !focus().contains(label); i++) nextFocus(centerX,centerY);
+        note("Textposition "+label+" "+bounds+"; TalkBack-Fokus nach Berührung: "+focus());
+        for (int i=0; i<11 && !focus().contains(label); i++) {
+            stepFocus("swipeLeft",centerX,centerY);
+            note("Rückwärtsfokus: "+focus());
+        }
+        for (int i=0; i<28 && !focus().contains(label); i++) {
+            nextFocus(centerX,centerY);
+            note("Vorwärtsfokus: "+focus());
+        }
         require(focus().contains(label),"TalkBack konnte den Text nicht fokussieren: "+label+" ("+focus()+")");
+    }
+
+    private AccessibilityNodeInfo textTarget(String label) {
+        AccessibilityNodeInfo best=exactText(ui.getRootInActiveWindow(),label);
+        return best!=null ? best : find(label,false);
+    }
+
+    private AccessibilityNodeInfo exactText(AccessibilityNodeInfo node,String label) {
+        if (node==null) return null;
+        // A labelled WebView section can contain a separate, smaller, speakable heading.
+        // Search its children first so touch exploration lands on the text itself.
+        for (int i=0;i<node.getChildCount();i++) {
+            AccessibilityNodeInfo candidate=exactText(node.getChild(i),label);
+            if (candidate!=null) return candidate;
+        }
+        return normalized(String.valueOf(node.getText())).equals(label) ? node : null;
+    }
+
+    private void note(String text) {
+        Bundle status=new Bundle();
+        status.putString("quizFocus",text);
+        runner.sendStatus(1,status);
     }
 
     private void focusButton(String label) {
@@ -214,6 +250,35 @@ final class TalkBackTraversal {
         android.util.DisplayMetrics display=runner.getTargetContext().getResources().getDisplayMetrics();
         gesture("activate",display.widthPixels/2,display.heightPixels/2);
         SystemClock.sleep(850);
+    }
+
+    private void activateUntil(String button,String nextText) {
+        android.util.DisplayMetrics display=runner.getTargetContext().getResources().getDisplayMetrics();
+        for (int attempt=0;attempt<3;attempt++) {
+            focusButton(button);
+            SystemClock.sleep(450);
+            Rect bounds=new Rect();
+            findButton(button).getBoundsInScreen(bounds);
+            require(bounds.intersect(0,0,display.widthPixels,display.heightPixels),"Schaltfläche außerhalb des Bildschirms.");
+            note("Aktivierung "+button+" im Fokus "+focus()+" bei "+bounds);
+            gesture("activate",bounds.centerX(),bounds.centerY());
+            for (int i=0;i<15;i++) {
+                SystemClock.sleep(220);
+                if(search(ui.getRootInActiveWindow(),nextText,false,false,new StringBuilder(),0)!=null) return;
+            }
+        }
+        throw new AssertionError("Nach dem Doppeltipp auf "+button+" fehlt "+nextText+". Fokus: "+focus());
+    }
+
+    private boolean observed(Activity activity,String expression) throws Exception {
+        // Inspect the selected scope only after the real gesture. The test never changes it through JavaScript.
+        java.util.concurrent.CountDownLatch latch=new java.util.concurrent.CountDownLatch(1);
+        java.util.concurrent.atomic.AtomicBoolean result=new java.util.concurrent.atomic.AtomicBoolean();
+        runner.runOnMainSync(()->findWeb(activity.findViewById(android.R.id.content)).evaluateJavascript(expression,value->{
+            result.set("true".equals(value));
+            latch.countDown();
+        }));
+        return latch.await(4,java.util.concurrent.TimeUnit.SECONDS) && result.get();
     }
 
     private void playQuestion(int pos) throws Exception {
@@ -297,8 +362,12 @@ final class TalkBackTraversal {
     }
 
     private String nextFocus(int x,int y) {
+        return stepFocus("swipeRight",x,y);
+    }
+
+    private String stepFocus(String direction,int x,int y) {
         String old=focus(), current=old;
-        gesture("swipeRight",x,y);
+        gesture(direction,x,y);
         for(int i=0;i<12 && current.equals(old);i++) {SystemClock.sleep(150);current=focus();}
         return current;
     }
@@ -341,7 +410,7 @@ final class TalkBackTraversal {
 
     private AccessibilityNodeInfo search(AccessibilityNodeInfo node,String text,boolean visibleOnly,boolean button,StringBuilder observed,int depth) {
         if(node==null || depth>45) return null;
-        String label=String.valueOf(node.getText())+" "+node.getContentDescription();
+        String label=normalized(String.valueOf(node.getText())+" "+node.getContentDescription());
         if(observed.length()<1800) observed.append(node.getClassName()).append('(').append(label).append(") ");
         if((!visibleOnly || node.isVisibleToUser()) && (button ? matchesButton(node,text) : label.contains(text))) return node;
         for(int i=0; i<node.getChildCount(); i++) {
@@ -363,12 +432,19 @@ final class TalkBackTraversal {
 
     private String focus() {
         AccessibilityNodeInfo focused=ui.findFocus(AccessibilityNodeInfo.FOCUS_ACCESSIBILITY);
-        return focused==null ? "Kein Fokus" : focused.getText()+" "+focused.getContentDescription()+" "+focused.getClassName();
+        return focused==null ? "Kein Fokus" : normalized(focused.getText()+" "+focused.getContentDescription()+" "+focused.getClassName());
+    }
+
+    private static String normalized(String text) {
+        return text.replace('\u00a0',' ').replaceAll("\\s+"," ").trim();
     }
 
     private static boolean matchesButton(AccessibilityNodeInfo node,String text) {
-        return node!=null && "android.widget.Button".contentEquals(node.getClassName())
-                && (text.equals(String.valueOf(node.getText())) || text.equals(String.valueOf(node.getContentDescription())));
+        if (node==null) return false;
+        CharSequence role=node.getClassName();
+        return ("android.widget.Button".contentEquals(role) || "android.widget.ToggleButton".contentEquals(role))
+                && (normalized(text).equals(normalized(String.valueOf(node.getText())))
+                    || normalized(text).equals(normalized(String.valueOf(node.getContentDescription()))));
     }
     private boolean isFocusedButton(String text) {
         return matchesButton(ui.findFocus(AccessibilityNodeInfo.FOCUS_ACCESSIBILITY),text);

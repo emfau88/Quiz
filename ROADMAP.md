@@ -1,8 +1,8 @@
 # Quizsalon · Roadmap und Nachweise
 
-## Geplant · Weiterspielen, Quiztisch und Freundesrunden
+## 0.4.0 · Weiterspielen, Quiztisch und Freundesrunden
 
-Der nächste Ausbau beginnt mit kostenlosen gemischten Fünferrunden direkt vom Ergebnis. Danach folgen wählbare Unterthemen, wechselnde Computergegner mit Revanche und eine teilbare Fünferrunde für echte Freunde. Die sechs Arbeitspakete enthalten Zugang, Wertung, Reihenfolge und Abnahme. [Umsetzungsplan mit Checklisten](UMSETZUNGSPLAN_WEITERSPIELEN.md)
+Die HTML-App bietet unbegrenzte kostenlose Fünferrunden, drei wählbare Unterthemen, wechselnde Computergegner mit Revanche und Freundeslinks. Der Upgrade-Test wurde mit einem begonnenen 0.3.0-Spielstand in Einzel-HTML, installierter Browserfassung und Android-App durchgeführt. Den Stand je Arbeitspaket zeigen die verknüpften Abnahmen. [Plan und Belege](UMSETZUNGSPLAN_WEITERSPIELEN.md) · [Prüfbericht](QA_REPORT.md)
 
 ## Fragenpool 0.3.0
 
@@ -14,7 +14,7 @@ Die sechs deutschen Kategorien enthalten zusammen 152 neue Sachverhalte. Alle 15
 
 ## Aufbau der Grundversion
 
-Die deutsche Browser-Testausgabe ist über GitHub Pages erreichbar. Die Phasen 10 und 11 unten betreffen die Veröffentlichung der Android-App bei Google Play. [Browser-Testausgabe](https://emfau88.github.io/Quiz/spielen.html?v=0.3.0) · [Prüfnachweis](QA_REPORT.md)
+Die deutsche Browser-Testausgabe ist über GitHub Pages erreichbar. Die Phasen 10 und 11 unten betreffen die Veröffentlichung der Android-App bei Google Play. [Browser-Testausgabe](https://emfau88.github.io/Quiz/spielen.html?v=0.4.0) · [Prüfnachweis](QA_REPORT.md)
 
 | Phase | Aufgabe | Status | Nachweis oder externe Abhängigkeit |
 | --- | --- | --- | --- |

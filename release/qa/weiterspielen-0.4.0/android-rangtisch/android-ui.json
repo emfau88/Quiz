@@ -1,0 +1,35 @@
+{
+  "device": "sdk_gphone16k_x86_64",
+  "api": "36",
+  "pageSize": "16384",
+  "run": "2026-11-24T20:40:27.532Z",
+  "checks": [
+    "Bei 360 dp bleiben alle drei Spaltenüberschriften einzeilig, Namen und Fachgebiete stehen in getrennten Zeilen. Geteilte Plätze sind in der gespeicherten Runde sichtbar."
+  ],
+  "screenshots": [
+    "rangtisch.png"
+  ],
+  "session": "quick-3",
+  "layout": {
+    "counts": [
+      1,
+      1,
+      1
+    ],
+    "info": [
+      {
+        "label": "Natur · Reisen",
+        "display": "block"
+      },
+      {
+        "label": "Geschichte · Film & Musik",
+        "display": "block"
+      },
+      {
+        "label": "Film & Musik · Sprache",
+        "display": "block"
+      }
+    ]
+  },
+  "ok": true
+}

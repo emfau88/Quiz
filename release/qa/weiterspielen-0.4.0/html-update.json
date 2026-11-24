@@ -1,0 +1,73 @@
+{
+  "at": "2026-11-24T20:38:35.100Z",
+  "browser": "149.0.7827.55",
+  "oldHtmlSHA256": "6593bcec209e56220aebbbc9f779ab85729e8d027c2c53e6fefd95dacd48bacc",
+  "newHtmlSHA256": "1ceb5f0dbdc16ea9b3e3cf0760b1dfdff7afaaa5d66d32f804b1604f9464eb9e",
+  "oldCatalog": "de-d5a1d0585ed1",
+  "newCatalog": "de-d5a1d0585ed1",
+  "savedStateAndInstallationEqual": true,
+  "answerAndProgressRestored": true,
+  "retainedOrder": true,
+  "example": {
+    "openDay": "2026-11-24",
+    "savedQuestion": "qs03-l-schachuhr",
+    "consumedTrial": "nature_animals",
+    "previousXP": 20,
+    "guests": [
+      {
+        "name": "Ada",
+        "correct": 7,
+        "hits": [
+          true,
+          true,
+          false,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          false
+        ]
+      },
+      {
+        "name": "Oskar",
+        "correct": 6,
+        "hits": [
+          false,
+          false,
+          false,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true
+        ]
+      },
+      {
+        "name": "Mira",
+        "correct": 7,
+        "hits": [
+          true,
+          false,
+          true,
+          true,
+          false,
+          false,
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    ]
+  },
+  "oldSelectionVersion": 3,
+  "completedValid": 10,
+  "ledgerEntries": 2,
+  "xp": 50,
+  "externalRequests": [],
+  "pageErrors": []
+}

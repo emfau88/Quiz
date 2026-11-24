@@ -1,5 +1,12 @@
 # Änderungen
 
+## 0.4.0 · Weiterspielen
+
+- „Noch 5 Fragen“ startet vom Ergebnis oder von „Heute“ eine kostenlose gemischte Runde. Zusatzrunden erweitern das Wissensalbum. Tagesrunde und Wochenziel behalten ihre eigene Wertung.
+- Zwölf illustrierte Computergegner wechseln sich am Quiztisch ab. Eine Revanche bringt fünf neue Fragen für dieselbe Besetzung.
+- Ein Freundeslink teilt fünf Fragen in gespeicherter Antwortreihenfolge und die erreichte Trefferzahl. Der Empfänger spielt auf seinem eigenen Gerät und kann sein Ergebnis zurückschicken.
+- Filmgeschichte, Tierverhalten und Wetter sind als Unterthemen wählbar. Jede angebotene Mischung berücksichtigt freie Karten und deren Schwierigkeit. Die Ausgabe nutzt die 2.400 deutschen Fragen aus 0.3.0. [Inhaltsbericht](CONTENT_REPORT.md) · [Abnahme](UMSETZUNGSPLAN_WEITERSPIELEN.md)
+
 ## 0.3.0
 
 - Der deutsche Katalog wächst von 1.200 auf 2.400 Fragen. 1.800 Sachverhalte sind neu, 600 frühere bleiben aktiv und 600 frühere wurden archiviert. Jede Kategorie enthält 400 Fragen. Reines Wiedererkennen sinkt von 1.007 auf 405 Karten und von 83,9 auf 16,9 Prozent. [Vorher-nachher-Vergleich](release/qa/modern-0.3.0/bestand.json)

@@ -1,0 +1,63 @@
+{
+  "link": "https://emfau88.github.io/Quiz/spielen.html#freunde/1/4/q3-h-www-forschung~1~1~0231/qs3-blitz-donner-distanz~1~1~1230/q3-e-justone-doppelt~1~1~3102/qs03-l-carc-bauer~1~1~0231/qs-mikrowelle-magnetron~2~1~0132",
+  "day": "2026-11-24",
+  "senderScore": 4,
+  "deck": [
+    {
+      "id": "q3-h-www-forschung",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "a",
+        "c",
+        "d",
+        "b"
+      ]
+    },
+    {
+      "id": "qs3-blitz-donner-distanz",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "b",
+        "c",
+        "d",
+        "a"
+      ]
+    },
+    {
+      "id": "q3-e-justone-doppelt",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "d",
+        "b",
+        "a",
+        "c"
+      ]
+    },
+    {
+      "id": "qs03-l-carc-bauer",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "a",
+        "c",
+        "d",
+        "b"
+      ]
+    },
+    {
+      "id": "qs-mikrowelle-magnetron",
+      "content": 2,
+      "semantic": 1,
+      "order": [
+        "a",
+        "b",
+        "d",
+        "c"
+      ]
+    }
+  ],
+  "installationSHA256": "24a0df5ad805bf859be5c61a1e03477c500ec9b6e127ae13809a7f146e302955"
+}

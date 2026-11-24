@@ -1,0 +1,134 @@
+{
+  "device": "sdk_gphone16k_x86_64",
+  "api": "36",
+  "pageSize": "16384",
+  "run": "2026-11-24T20:54:53.589Z",
+  "checks": [
+    "Endgültiges Lokaltest-APK: zehn Wetterfragen über die sichtbare Themenwahl bis 8/10 gespielt. Zehn Lernbuchungen, keine Tages-XP, kein Play-Besitz. Die zur Laufzeit ausgelieferten Stylesheet- und Worker-Bytes entsprechen dem Abgabestand."
+  ],
+  "screenshots": [],
+  "assets": {
+    "sw.js": "79849fa75043c84c750d1303253704eafe294d3b1de06c44e90037c5e03f334f",
+    "styles.css": "9b0689f481ef4c714ed64b266ef5d1c46a8b02616d58ec995790823d7edb000f"
+  },
+  "questions": [
+    {
+      "id": "qs3-frostmulde-garten-kaltluft",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "b",
+        "c",
+        "a",
+        "d"
+      ]
+    },
+    {
+      "id": "qs3-nebel-dunst-trockenpartikel",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "d",
+        "b",
+        "c",
+        "a"
+      ]
+    },
+    {
+      "id": "qs3-seenebel-kaltes-wasser",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "b",
+        "d",
+        "c",
+        "a"
+      ]
+    },
+    {
+      "id": "qs3-hagel-aufwind-kraft-grenze",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "c",
+        "a",
+        "b",
+        "d"
+      ]
+    },
+    {
+      "id": "qs3-regenwahrscheinlichkeit-nicht-stundendauer",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ]
+    },
+    {
+      "id": "qs-kaltluftsenke-spaetfrost",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "d",
+        "c",
+        "a",
+        "b"
+      ]
+    },
+    {
+      "id": "qs3-taumenge-regenmesser",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "a",
+        "c",
+        "d",
+        "b"
+      ]
+    },
+    {
+      "id": "qs3-asphalt-boden-luft-vergleich",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "c",
+        "d",
+        "a",
+        "b"
+      ]
+    },
+    {
+      "id": "qs3-schneeflocke-sinkzeit",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "c",
+        "a",
+        "d",
+        "b"
+      ]
+    },
+    {
+      "id": "qs-strahlungsnebel-klare-nacht",
+      "content": 2,
+      "semantic": 1,
+      "order": [
+        "b",
+        "a",
+        "d",
+        "c"
+      ]
+    }
+  ],
+  "result": {
+    "correct": 8,
+    "valid": 10,
+    "xp": 0,
+    "medal": "Silber",
+    "recalled": 0
+  },
+  "ok": true
+}

@@ -38,6 +38,8 @@ def main():
     html = OUT / "Quizsalon-Lokaltest.html"
     html_text = html.read_text(encoding="utf-8")
     assert manifest["version"] in html_text and "Lokaler Thementest" in html_text
+    standalone_proof = json.loads((OUT / "qa/weiterspielen-0.4.0/einzeldatei-einladung.json").read_text(encoding="utf-8"))
+    assert standalone_proof["fileSHA256"] == sha(html.read_bytes()) and standalone_proof["clipboardEqualsPublicLink"]
     store = OUT / "store"
     screens = sorted(store.glob("Telefon-*.png"))
     assert len(screens) >= 4, "Vier geprüfte Telefon-Screenshots fehlen"
@@ -62,12 +64,19 @@ def main():
                                     "last_write_utc": datetime.fromtimestamp(built.stat().st_mtime, timezone.utc).isoformat()}
     inspected = json.loads((OUT / "android/artifacts.json").read_text(encoding="utf-8"))
     assert len(inspected) == 2 and len({(a["versionCode"], a["versionName"]) for a in inspected}) == 1
+    for apk in apks:
+        snapshot = next(a for a in inspected if a["name"] == apk.name)
+        assert snapshot["sha256"] == sha(apk.read_bytes()) and snapshot["apkSignatureV2"] and snapshot["zipalign16KB"]
     app_version = json.loads((ROOT / "package.json").read_text(encoding="utf-8"))["version"]
     assert app_version == inspected[0]["versionName"]
+    live = json.loads((OUT / "qa/weiterspielen-0.4.0/github-pages-live/freundesrunde.json").read_text(encoding="utf-8"))
+    assert live["edition"] == app_version and live["assetsSHA256"]["data/catalog.json"] == sha(catalog)
     result = {("base_commit" if args.working_tree else "source_commit"): commit, "assembled_at_utc": datetime.now(timezone.utc).isoformat(),
               "source": "working_tree" if args.working_tree else "commit", "app_version": app_version, "version_code": inspected[0]["versionCode"],
               "catalog": manifest, "public_release": False, "public_release_platform": "Google Play",
-              "browser_test_url": f"https://emfau88.github.io/Quiz/spielen.html?v={app_version}", "verified_local_builds": apk_builds,
+              "browser_test_url": live["readmeLink"], "browser_test_status": "public",
+              "verified_browser_deployment": {"commit": live["commit"], "workflow": live["actionsRun"], "tested_at": live["executed"]},
+              "android_status": "local_test", "google_play_status": "not_submitted", "verified_local_builds": apk_builds,
               "artifacts": [{"path": p.relative_to(OUT).as_posix(), "bytes": p.stat().st_size, "sha256": sha(p.read_bytes())} for p in artifacts]}
     (OUT / "BUILDINFO.json").write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
     checksum = "\n".join(item["sha256"] + "  " + item["path"] for item in result["artifacts"])
@@ -109,7 +118,13 @@ def main():
                          "release/qa/fragenpool/auswahlvergleich.json", "specs/daily_clues.json",
                          "content/research/nachweise/quellenabrufe.json", "release/qa/modern-0.3.0/bestand.json",
                          "release/qa/modern-0.3.0/tagesrunden.json", "release/qa/modern-0.3.0/mobile-runde.json",
-                         "release/qa/modern-0.3.0/dublettenentscheidungen.json"):
+                         "release/qa/modern-0.3.0/dublettenentscheidungen.json",
+                         "UMSETZUNGSPLAN_WEITERSPIELEN.md", "release/qa/weiterspielen-0.4.0/regeltests.json",
+                         "release/qa/weiterspielen-0.4.0/kostenlose-kurzrunden.json", "release/qa/weiterspielen-0.4.0/themen.json",
+                         "release/qa/weiterspielen-0.4.0/pages-update.json", "release/qa/weiterspielen-0.4.0/html-update.json",
+                         "release/qa/weiterspielen-0.4.0/ui/weiter-ui.json", "release/qa/weiterspielen-0.4.0/github-pages-live/freundesrunde.json",
+                         "release/qa/weiterspielen-0.4.0/android-talkback/talkback.txt", "release/qa/weiterspielen-0.4.0/android-update-endstand/android-ui.json",
+                         "release/qa/weiterspielen-0.4.0/offline-windows/kaltstart.json", "release/qa/weiterspielen-0.4.0/offline-windows/atomar-webkit.json"):
                 archive.getinfo(name)
     temporary.replace(target)
     print(f"{target.name} · {target.stat().st_size} Bytes · SHA-256 {sha(target.read_bytes())}")

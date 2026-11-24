@@ -1,0 +1,47 @@
+{
+  "engine": "Windows Playwright WebKit 26.5",
+  "privateContext04": {
+    "verifiedAt": "2026-11-24T20:37:01.262Z",
+    "worker": "quizsalon-assets-e992d7e674b42f5d",
+    "before": {
+      "assetCount": 36,
+      "indexHttp": 200,
+      "catalogHttp": 200
+    },
+    "afterLeavingLastDocument": {
+      "assetCount": 0,
+      "indexHttp": null,
+      "catalogHttp": null
+    },
+    "httpServerStopped": true,
+    "controlPayloadInIndexedDbBefore": 961,
+    "controlPayloadInIndexedDbAfter": 961,
+    "reportedQuota": null
+  },
+  "persistentContext": [
+    {
+      "edition": "0.3.0",
+      "worker": "quizsalon-assets-d1ddd07b8a9dfa48",
+      "verifiedAt": "2026-11-24T20:37:36.792Z",
+      "shortPersistentProfilePathLength": 44,
+      "bothOfflineNavigationsFailed": true,
+      "offlineError": "FetchEvent.respondWith received an error: TypeError: Load failed",
+      "coldCacheKeyCount": 0,
+      "offlineIndexStatus": null,
+      "offlineCatalogStatus": null,
+      "persistedAnswersAfter": 1
+    },
+    {
+      "edition": "0.4.0",
+      "worker": "quizsalon-assets-e992d7e674b42f5d",
+      "verifiedAt": "2026-11-24T20:37:35.923Z",
+      "shortPersistentProfilePathLength": 44,
+      "bothOfflineNavigationsFailed": true,
+      "offlineError": "FetchEvent.respondWith received an error: TypeError: Load failed",
+      "coldCacheKeyCount": 0,
+      "offlineIndexStatus": null,
+      "offlineCatalogStatus": null,
+      "persistedAnswersAfter": 1
+    }
+  ]
+}

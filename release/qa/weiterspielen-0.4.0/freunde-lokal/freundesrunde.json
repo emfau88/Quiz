@@ -1,0 +1,89 @@
+{
+  "executed": "2026-11-24T20:52:23.802Z",
+  "edition": "0.4.0",
+  "origin": "lokal bereitgestellte Pages-Ausgabe",
+  "readmeLink": "https://emfau88.github.io/Quiz/spielen.html?v=0.4.0",
+  "assetsSHA256": {
+    "js/app.js": "34ec9b01710e0e68db98684ba270c513f862002faf98436bfbf012cf7b743949",
+    "js/engine.js": "6da691919524063c190c93ad90a4447a5ff7b6104cf8ba7a1bd1dd74f56abbf5",
+    "js/friends.js": "3f9bfe177308ee6cd953bb3ee9d9b5a33ea2a8d1933a84cacfcd5d939f1d6ff0",
+    "styles.css": "9b0689f481ef4c714ed64b266ef5d1c46a8b02616d58ec995790823d7edb000f",
+    "data/catalog.json": "b4412320586ede132b499e4c05e76200996b86b51e8d53d81750e89768d1dbc8"
+  },
+  "browser": "149.0.7827.55",
+  "isolatedProfiles": 2,
+  "sender": {
+    "day": "2026-11-24",
+    "score": 4
+  },
+  "recipient": {
+    "day": "2026-11-26",
+    "completedDay": "2026-11-27",
+    "score": 3
+  },
+  "identicalCardsAndDisplayedOptions": [
+    {
+      "id": "q3-e-pauken-fusspedal",
+      "content": 1,
+      "semantics": 1,
+      "order": [
+        "c",
+        "b",
+        "a",
+        "d"
+      ]
+    },
+    {
+      "id": "qs3-themse-sperrwerk-vor-flutscheitel",
+      "content": 1,
+      "semantics": 1,
+      "order": [
+        "a",
+        "c",
+        "b",
+        "d"
+      ]
+    },
+    {
+      "id": "q3-h-haiti-eigene-zeichen",
+      "content": 1,
+      "semantics": 1,
+      "order": [
+        "c",
+        "b",
+        "d",
+        "a"
+      ]
+    },
+    {
+      "id": "qs03-l-schach-fuenffach",
+      "content": 1,
+      "semantics": 1,
+      "order": [
+        "b",
+        "c",
+        "d",
+        "a"
+      ]
+    },
+    {
+      "id": "qs-krokodil-zahnwechsel",
+      "content": 3,
+      "semantics": 1,
+      "order": [
+        "c",
+        "d",
+        "a",
+        "b"
+      ]
+    }
+  ],
+  "checks": [
+    "A erspielt vier Treffer und kopiert den öffentlichen Link über die Oberfläche.",
+    "Vor dem ersten Tagesstart: beschädigter Link, gültige Vorschau und identischer Lern- und Zugangsstand.",
+    "B spielt dieselben fünf Karten und Antwortreihenfolgen, beendet offline am Folgetag mit 3/5 und kopiert den Antworttext.",
+    "Wiederöffnen zeigt den Vergleich. Fünf eigene Lernbuchungen, keine Tages-XP und keine verbrauchte Probe."
+  ],
+  "pageErrors": [],
+  "outgoingNonGet": []
+}

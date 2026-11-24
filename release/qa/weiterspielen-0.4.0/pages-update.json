@@ -1,0 +1,67 @@
+{
+  "at": "2026-11-24T20:52:23.521Z",
+  "browser": "149.0.7827.55",
+  "previous": "de-d5a1d0585ed1",
+  "current": "de-d5a1d0585ed1",
+  "previousWorker": "quizsalon-assets-d1ddd07b8a9dfa48",
+  "currentWorker": "quizsalon-assets-9ae5476a74eae7d0",
+  "example": {
+    "openDay": "2026-11-24",
+    "savedQuestion": "q3-e-aida-zwei-ebenen",
+    "consumedTrial": "nature_animals",
+    "previousXP": 30,
+    "guests": [
+      {
+        "name": "Ada",
+        "correct": 8,
+        "hits": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          false,
+          true,
+          false
+        ]
+      },
+      {
+        "name": "Oskar",
+        "correct": 7,
+        "hits": [
+          true,
+          false,
+          true,
+          true,
+          false,
+          true,
+          true,
+          false,
+          true,
+          true
+        ]
+      },
+      {
+        "name": "Mira",
+        "correct": 6,
+        "hits": [
+          false,
+          false,
+          false,
+          true,
+          false,
+          true,
+          true,
+          true,
+          true,
+          true
+        ]
+      }
+    ]
+  },
+  "updatedViaReadmeLink": true,
+  "savedRoundUnchanged": true,
+  "reopenedReadmeLinkOffline": true
+}

@@ -1,0 +1,66 @@
+{
+  "system": "Windows",
+  "build": "Quizsalon 0.4.0 · öffentliche Browser-Testausgabe",
+  "worker": "quizsalon-assets-9ae5476a74eae7d0",
+  "webkit": {
+    "browser": "26.5",
+    "testAt": "2026-11-24T20:49:49.457Z",
+    "screenWidth": 390,
+    "profile": "dauerhaft, derselbe Profilordner nach vollständigem Prozessende",
+    "httpServerStopped": true,
+    "unvisitedUrl": "./?wiederaufnahme",
+    "httpStatus": 200,
+    "documentReadyState": "complete",
+    "documentFonts": "loaded",
+    "lastSavedAnswerRestored": true,
+    "disabledChoicesAfterRestart": 4,
+    "dayRoundFinished": 10,
+    "estimationQuestions": 1,
+    "hintQuestions": 2,
+    "topicChoices": 6,
+    "challengeRoundStarted": true,
+    "unhandledPageErrors": 0,
+    "storeProbeAt": "2026-11-24T20:52:13.834Z",
+    "storageManagerAvailable": false,
+    "reportedQuota": null,
+    "savedAnswersBefore": 1,
+    "savedAnswersAfter": 1,
+    "indexedAssetCountBefore": 36,
+    "indexedAssetCountAfter": 36,
+    "cacheStorageNamespacesAfter": []
+  },
+  "chromium": {
+    "browser": "149.0.7827.55",
+    "testAt": "2026-11-24T20:52:06.513Z",
+    "screenWidth": 360,
+    "httpServerStopped": true,
+    "privateContext": {
+      "unvisitedUrl": "./?wiederaufnahme",
+      "httpStatus": 200,
+      "dayRoundFinished": 10,
+      "estimationQuestions": 1,
+      "hintQuestions": 2,
+      "savedAnswerRestored": true,
+      "topicChoices": 6,
+      "challengeRoundStarted": true,
+      "unhandledPageErrors": 0
+    },
+    "separatePersistentProfile": {
+      "unvisitedUrl": "./?installationsneustart",
+      "processClosedAndRelaunched": true,
+      "httpStatus": 200,
+      "questionAndFeedbackEqual": true,
+      "disabledChoices": 4,
+      "nextQuestionOpened": true
+    }
+  },
+  "extraPrivateWebKit": {
+    "diagnosticRunAt": "2026-11-24T20:59:20.286Z",
+    "delayAfterLeavingOriginMs": 3100,
+    "httpServerStopped": true,
+    "httpStatus": 200,
+    "dayRoundFinished": 10,
+    "savedAnswerRestored": true,
+    "challengeRoundStarted": true
+  }
+}

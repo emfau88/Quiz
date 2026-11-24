@@ -11,6 +11,7 @@ Arbeitsstand für die künftige Play-Ausgabe. Eine öffentliche Betreibererklär
 | Android-Spielstandbackup | Wiederherstellung der zugelassenen Spielstanddaten über das Betriebssystem | Abhängig von Android-Version, Gerätehersteller und den Sicherungseinstellungen des Nutzers. |
 | Frage melden | Formulierung einer freiwilligen Rückmeldung mit Frage-ID, Revisionen und App-Version | Inhalt kann kopiert oder bei vorhandener Supportadresse im gewählten Mailprogramm vorbereitet werden. Der Nutzer versendet selbst. |
 | Externe Belegseiten | Nachlesen einer Quellenangabe | Beim bewussten Öffnen kontaktiert der Browser die gewählte Website. |
+| Freiwilliger Freundeslink und Ergebnisantwort | Fünf Kartenkennungen mit Revisionen und Antwortreihenfolgen sowie die Trefferzahl im URL-Fragment. Der Empfänger kann beide Trefferzahlen als Text zurücksenden. | Beim Teilen wählt der Spieler die empfangende App. Beim Kopieren landet der Inhalt in der Systemzwischenablage. Der Browser ruft die öffentliche GitHub-Pages-Spielseite auf. Das Fragment bleibt beim HTTP-Abruf im Browser. |
 
 Die lokale HTML-Testdatei enthält Fragen, Bild und Schriften. Sie benötigt nach dem Öffnen keine Internetverbindung. Ihr lokaler Themenzugang ist eine Eigenschaft dieser Testausgabe. Es entsteht kein Kaufdatensatz.
 

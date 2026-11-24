@@ -1,0 +1,178 @@
+{
+  "device": "sdk_gphone16k_x86_64",
+  "api": "36",
+  "pageSize": "16384",
+  "run": "2026-11-24T20:34:07.785Z",
+  "checks": [
+    "Tagesergebnis mit 360 dp ohne horizontales Überlaufen (360 CSS-Pixel)",
+    "Abbruch nach Antwort 2, Flugmodus, Prozessneustart zur gespeicherten Erklärung. Karten, Reihenfolge, Antwort und Quiztisch stimmen überein.",
+    "Erst die Teilen-Schaltfläche öffnete das echte Android Sharesheet. Systemvorschau enthielt den freigegebenen Text. Android-Zurück führte zum unveränderten Dialog und Spielstand.",
+    "Über die Kopieraktion in die native Android-Zwischenablage geschrieben und per Android-Einfügetaste vollständig wieder gelesen.",
+    "Drei gewöhnliche Fünferrunden direkt vom Ergebnis, anschließend eine Revanche mit denselben drei Computergegnern und fünf neuen Sachverhalten. Jede neue normale Besetzung änderte sich. Gleiche Treffer teilten denselben Platz.",
+    "20 eigene Zusatzantworten im Lernstand, identische Tagesbuchungen, Themenproben und Kaufstatus der regulären Vorschau.",
+    "Ergebnis → Thema wählen → Wetter führt zum echten Plus-Angebot. Nach Ausschalten des Vergleichs bleiben Quiztisch und Revanche bei der nächsten vollständig gespielten Kurzrunde ausgeblendet."
+  ],
+  "screenshots": [
+    "01-tagesergebnis.png",
+    "02-kurzrunde-und-quiztisch.png",
+    "03-kurzergebnis.png",
+    "04-einladung.png",
+    "systemmenue.png",
+    "05-quiztisch-und-revanche.png",
+    "06-themenwahl.png",
+    "07-wetter-plus.png"
+  ],
+  "sharesheet": "topResumedActivity=ActivityRecord{98872157 u0 com.android.intentresolver/.ChooserActivityLauncher t27}",
+  "rounds": [
+    {
+      "id": "quick-2",
+      "questions": [
+        "q3-h-www-forschung",
+        "qs3-blitz-donner-distanz",
+        "q3-e-justone-doppelt",
+        "qs03-l-carc-bauer",
+        "qs-mikrowelle-magnetron"
+      ],
+      "table": [
+        "Nils",
+        "Ada",
+        "Cem"
+      ],
+      "rows": [
+        {
+          "rank": 1,
+          "score": 5
+        },
+        {
+          "rank": 2,
+          "score": 4
+        },
+        {
+          "rank": 3,
+          "score": 3
+        },
+        {
+          "rank": 4,
+          "score": 2
+        }
+      ],
+      "score": 4,
+      "rematchOf": null
+    },
+    {
+      "id": "quick-3",
+      "questions": [
+        "qs-studie-klavier-rueckmeldung",
+        "qs3-alahsa-grundwasser-siedlung",
+        "qs3-robbe-tauchgang-typisch-extrem",
+        "qs03-t-nachtanteil",
+        "q3-h-tuerkei-republik"
+      ],
+      "table": [
+        "Nils",
+        "Cem",
+        "Mira"
+      ],
+      "rows": [
+        {
+          "rank": 1,
+          "score": 5
+        },
+        {
+          "rank": 1,
+          "score": 5
+        },
+        {
+          "rank": 3,
+          "score": 4
+        },
+        {
+          "rank": 3,
+          "score": 4
+        }
+      ],
+      "score": 5,
+      "rematchOf": null
+    },
+    {
+      "id": "quick-4",
+      "questions": [
+        "q3-e-naadam-spielzahl",
+        "qs03-t-luftmasse-zimmer",
+        "qs03-l-sprachadjektiv",
+        "qs3-apostel-streifen-sedimentschichten",
+        "k-catalhoyuk-era"
+      ],
+      "table": [
+        "Felix",
+        "Alma",
+        "Jule"
+      ],
+      "rows": [
+        {
+          "rank": 1,
+          "score": 4
+        },
+        {
+          "rank": 2,
+          "score": 3
+        },
+        {
+          "rank": 2,
+          "score": 3
+        },
+        {
+          "rank": 4,
+          "score": 1
+        }
+      ],
+      "score": 3,
+      "rematchOf": null
+    },
+    {
+      "id": "quick-5",
+      "questions": [
+        "qs3-hoehenprofil-aus-modell",
+        "q3-e-cembalo-orchester",
+        "k-berlin-airlift-destination",
+        "qs3-seepocke-muschel-befestigung",
+        "qs03-l-schuhewandel"
+      ],
+      "table": [
+        "Felix",
+        "Alma",
+        "Jule"
+      ],
+      "rows": [
+        {
+          "rank": 1,
+          "score": 3
+        },
+        {
+          "rank": 1,
+          "score": 3
+        },
+        {
+          "rank": 1,
+          "score": 3
+        },
+        {
+          "rank": 4,
+          "score": 2
+        }
+      ],
+      "score": 3,
+      "rematchOf": "quick-4"
+    }
+  ],
+  "dayBookings": {
+    "daily-complete:daily-2026-11-24": {
+      "xp": 90,
+      "day": "2026-11-24",
+      "at": "2026-11-24T20:33:34.280Z"
+    }
+  },
+  "trials": {},
+  "billing": "unavailable",
+  "ok": true
+}

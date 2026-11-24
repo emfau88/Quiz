@@ -1,4 +1,18 @@
-# Deutscher Fragenbestand · 0.3.0
+# Deutscher Fragenbestand
+
+## Ausgabe 0.4.0
+
+Die Ausgabe verwendet den Katalog aus 0.3.0 mit **2.400 Fragen und 2.400 unterschiedlichen Sachverhalten**. Jede der sechs Hauptkategorien stellt 400 Fragen. Davon sind insgesamt 405 reine Wiedererkennungsfragen (16,9 Prozent). Die Version erschließt bestehende Fragen über ihre redaktionellen Schlagwörter. Die folgenden Zahlen sind Teilmengen des Bestands. [Katalogmanifest](web/data/manifest.json)
+
+| Unterthema | Leicht | Mittel | Anspruchsvoll | Insgesamt | Spielbare Mischung bei freiem Bestand |
+| --- | ---: | ---: | ---: | ---: | --- |
+| Filmgeschichte | 54 | 31 | 11 | 96 | Gemischt und anspruchsvoll |
+| Tierverhalten | 26 | 10 | 2 | 38 | Gemischt. Die anspruchsvolle Runde ist über Natur und Tiere erreichbar. |
+| Wetter | 18 | 9 | 3 | 30 | Gemischt und anspruchsvoll |
+
+Eine offene Tagesrunde kann Karten reservieren. Wenn dadurch die verlangte Mischung unmöglich wird, zeigt die Themenwahl die verfügbaren Alternativen. [Gespielte Varianten und Reservierungsprüfung](release/qa/weiterspielen-0.4.0/themen.json)
+
+## Aufbau des Katalogs in 0.3.0
 
 Der Katalog `de-d5a1d0585ed1` enthält **2.400 aktive Fragen**, doppelt so viele wie sein Vorgänger. 1.800 Sachverhaltskennungen sind neu. 600 Sachverhalte wurden übernommen, darunter alle 150 Referenzfragen. 600 frühere Abfragekarten sind aus der aktiven Auswahl entfernt. Wer sie bereits gespielt hat, behält Verlauf und Lernfortschritt. [Einzelvergleich mit der ausgelieferten 0.2.0](release/qa/modern-0.3.0/bestand.json) · [Austauschpaare](content/rotation/2026-11-v03/)
 

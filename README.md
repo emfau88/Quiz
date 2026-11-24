@@ -81,6 +81,13 @@ Für die Entwicklung startet `npm.cmd start` einen rein lokalen statischen Serve
 
 Die Android-Anleitung nennt die getrennten Buildziele und die echten Eingaben eines künftigen Store-Releases. [Android-Build](android/README.md)
 
+Die kostenlose Kurzrunde und die Eigenständigkeit der Einzeldatei lassen sich mit `node tests/quick-browser.mjs` und `node tests/standalone-invite.mjs` prüfen. Für den Zwei-Profile-Test baut der erste Befehl eine Pages-Ausgabe in einem neuen Verzeichnis. Der zweite spielt einen Freundeslink auf beiden Seiten bis zum Ergebnis durch.
+
+```powershell
+node tools/package-web.mjs --pages .cache/probelauf/Quiz
+node tests/followup-browser.mjs --pages .cache/probelauf/Quiz
+```
+
 ## Übergabestand
 
 GitHub Actions prüft bei jedem Push auf `main` die Spielregeln, den Fragenkatalog und die Browser-Testausgabe mit zwei mobilen Browserprofilen. Nach bestandenen Prüfungen aktualisiert der Workflow den Spiel-Link. [Pages-Workflow](.github/workflows/pages.yml)

@@ -1,0 +1,45 @@
+{
+  "device": "sdk_gphone16k_x86_64",
+  "api": "36",
+  "pageSize": "16384",
+  "run": "2026-11-24T20:56:34.531Z",
+  "checks": [
+    "480 × 853, Erststart im Flugmodus ohne horizontales Überlaufen (480 CSS-Pixel)",
+    "Frage und Antwortschaltflächen im Accessibility-Baum der laufenden WebView",
+    "Prozess vor erster Antwort beendet und identisch wiederaufgenommen",
+    "Prozess nach Antwort beendet, Antwort, Reihenfolge und Erklärung identisch",
+    "System-Zurück während einer Runde öffnet die bewusste Pausenentscheidung",
+    "Prozess vor Ergebnis beendet, letzte Erklärung und Weiteraktion verfügbar",
+    "Sieben richtige Antworten ergeben 90 XP und einen einzigen Ledger-Eintrag",
+    "Virtueller Vergleich enthält drei ausdrücklich bezeichnete Computergegner",
+    "Erinnerung anfangs aus, unkonfigurierte Play-Vorschau bietet keinen Preis und keinen Kauf an"
+  ],
+  "screenshots": [
+    "01-frage.png",
+    "02-erklaerung.png",
+    "08-hinweisfrage.png",
+    "07-schaetzfrage.png",
+    "03-ergebnis.png",
+    "04-heute.png",
+    "05-themen.png",
+    "06-wissen.png"
+  ],
+  "formats": [
+    {
+      "position": 2,
+      "format": "Zum Herleiten",
+      "question": "q3-h-paris-ballontuch"
+    },
+    {
+      "position": 9,
+      "format": "Schätzfrage",
+      "question": "qs3-mueritz-radtour-fahrzeit"
+    },
+    {
+      "position": 10,
+      "format": "Zum Herleiten",
+      "question": "qs-kelp-lichttiefe"
+    }
+  ],
+  "ok": true
+}

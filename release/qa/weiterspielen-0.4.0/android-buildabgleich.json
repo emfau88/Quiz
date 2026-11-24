@@ -1,0 +1,27 @@
+{
+  "geprueft_utc": "2026-11-24T20:55:15.175531+00:00",
+  "pakete": [
+    {
+      "paket": "Quizsalon-Play-Vorschau.apk",
+      "erstes_pruefpaket_sha256": "86c35877067740d9b6715ed7fed580556f2b661c3de35c93254f82a84884b51e",
+      "endpaket_sha256": "bddba55b0330d087b2322509bb2e470906d575a471c5d47a6deda8da63a0ded1",
+      "abweichende_zipdateien": [
+        "assets/styles.css",
+        "assets/sw.js"
+      ],
+      "web_worker_im_endpaket_sha256": "79849fa75043c84c750d1303253704eafe294d3b1de06c44e90037c5e03f334f",
+      "css_im_endpaket_sha256": "9b0689f481ef4c714ed64b266ef5d1c46a8b02616d58ec995790823d7edb000f"
+    },
+    {
+      "paket": "Quizsalon-Lokaltest.apk",
+      "erstes_pruefpaket_sha256": "719ec13a674ab012148288c9c82b2f7ed9874896f1dc28cd5dd0ee48ff569db1",
+      "endpaket_sha256": "707dc3a4f707dd6fa10078ee3368042cf99db505e285d819ad9f89d40f761a45",
+      "abweichende_zipdateien": [
+        "assets/styles.css",
+        "assets/sw.js"
+      ],
+      "web_worker_im_endpaket_sha256": "79849fa75043c84c750d1303253704eafe294d3b1de06c44e90037c5e03f334f",
+      "css_im_endpaket_sha256": "9b0689f481ef4c714ed64b266ef5d1c46a8b02616d58ec995790823d7edb000f"
+    }
+  ]
+}

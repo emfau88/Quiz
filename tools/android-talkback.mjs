@@ -44,8 +44,8 @@ async function tap(x,y) {await touch(x,y,80);await wait(60);await touch(x,y,0);}
 async function perform(kind,x,y) {
   if(kind==='explore') {
     await touch(x-12,y,80);await wait(350);await touch(x+8,y,80);await wait(400);await touch(x+8,y,0);
-  } else if(['swipeRight','answerLeft','answerRight'].includes(kind)) {
-    const direction=kind==='answerLeft'?-1:1;
+  } else if(['swipeLeft','swipeRight','answerLeft','answerRight'].includes(kind)) {
+    const direction=kind==='answerLeft'||kind==='swipeLeft'?-1:1;
     const start=x-direction*230;
     await touch(start,y,80);
     for(let i=1;i<=12;i++) {await wait(12);await touch(start+direction*i*40,y,80);}
@@ -71,16 +71,18 @@ const screens=new Set();
 try {
   for await(const line of createInterface({input:child.stdout})) {
     lines.push(line);
-    const action=line.match(/^INSTRUMENTATION_STATUS: quizGesture=(explore|swipeRight|answerLeft|answerRight|doubleTap|activate|invite|result|scope) (\d+) (\d+)/);
+    const action=line.match(/^INSTRUMENTATION_STATUS: quizGesture=(explore|swipeLeft|swipeRight|answerLeft|answerRight|doubleTap|activate|invite|result|scope) (\d+) (\d+)/);
     if(action) {
       const picture={invite:'00-einladung',answerLeft:'01-erste-antwort',answerRight:'01-erste-antwort',
         doubleTap:'02-zweite-antwort',result:'03-rundenergebnis',scope:'04-unterthema'}[action[1]];
       if(picture) {
         const png=picture+'.png';
         if(!screens.has(png)) {
+          const frame=execFileSync('adb',['-s',serial,'exec-out','screencap','-p'],{timeout:30000,maxBuffer:16000000});
+          assert.ok(frame.length>1000 && frame.subarray(0,8).equals(Buffer.from('89504e470d0a1a0a','hex')) &&
+            frame.subarray(-8,-4).toString('ascii')==='IEND','Unvollständige Android-Bildschirmaufnahme');
+          writeFileSync(join(folder,png),frame);
           screens.add(png);
-          adb('shell','screencap','-p','/data/local/tmp/quizsalon-talkback.png');
-          adb('pull','/data/local/tmp/quizsalon-talkback.png',join(folder,png));
         }
       }
       if(!['invite','result','scope'].includes(action[1])) await perform(action[1],Number(action[2]),Number(action[3]));

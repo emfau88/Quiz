@@ -1,0 +1,88 @@
+{
+  "device": "sdk_gphone16k_x86_64",
+  "api": "36",
+  "pageSize": "16384",
+  "run": "2026-11-24T20:43:50.280Z",
+  "checks": [
+    "Abbruch nach Antwort 2, Flugmodus, Prozessneustart zur gespeicherten Erklärung. Karten, Reihenfolge, Antwort und Quiztisch stimmen überein.",
+    "Erst die Teilen-Schaltfläche öffnete das echte Android Sharesheet. Systemvorschau enthielt den freigegebenen Text. Android-Zurück führte zum unveränderten Dialog und Spielstand.",
+    "Über die Kopieraktion in die native Android-Zwischenablage geschrieben und per Android-Einfügetaste vollständig wieder gelesen.",
+    "Zweiter nativer Testspielstand an anderem Systemkalendertag: unverändertes Profil nach dem Ansehen, dieselben fünf Karten mit allen Antwortreihenfolgen, eigenes Ergebnis 3/5 gegen übermittelte 4/5. Wiederöffnen erzeugt keine weitere Buchung. Beschädigter Link bietet die normale Kurzrunde."
+  ],
+  "screenshots": [
+    "01-einladung.png",
+    "02-euer-vergleich.png",
+    "systemmenue.png"
+  ],
+  "sharesheet": "topResumedActivity=ActivityRecord{225966517 u0 com.android.intentresolver/.ChooserActivityLauncher t12}",
+  "senderDay": "2026-11-24",
+  "receiverDay": "2026-11-25",
+  "receiverInstallationSHA256": "c82edcaaad18702a4b2a3f296f0bfb77f4b5a9f1a3a7d95c9a394d43adcd85fd",
+  "deck": [
+    {
+      "id": "q3-h-www-forschung",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "a",
+        "c",
+        "d",
+        "b"
+      ]
+    },
+    {
+      "id": "qs3-blitz-donner-distanz",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "b",
+        "c",
+        "d",
+        "a"
+      ]
+    },
+    {
+      "id": "q3-e-justone-doppelt",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "d",
+        "b",
+        "a",
+        "c"
+      ]
+    },
+    {
+      "id": "qs03-l-carc-bauer",
+      "content": 1,
+      "semantic": 1,
+      "order": [
+        "a",
+        "c",
+        "d",
+        "b"
+      ]
+    },
+    {
+      "id": "qs-mikrowelle-magnetron",
+      "content": 2,
+      "semantic": 1,
+      "order": [
+        "a",
+        "b",
+        "d",
+        "c"
+      ]
+    }
+  ],
+  "sentScore": 4,
+  "ownResult": {
+    "correct": 3,
+    "valid": 5,
+    "xp": 0,
+    "medal": null,
+    "recalled": 0
+  },
+  "browserResolution": "priority=0 preferredOrder=0 match=0x208000 specificIndex=-1 isDefault=true\r\ncom.android.chrome/com.google.android.apps.chrome.IntentDispatcher",
+  "ok": true
+}

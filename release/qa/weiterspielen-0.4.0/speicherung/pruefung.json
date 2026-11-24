@@ -1,0 +1,13 @@
+{
+  "at": "2026-11-24T20:33:52.836Z",
+  "catalog": "de-d5a1d0585ed1",
+  "browser": "149.0.7827.55",
+  "fixture": "Vorbereiteter Spielstand mit drei Tage altem falschem Versuch; Rückzug ausschließlich im Testbrowser.",
+  "checks": [
+    "Physisch gespeicherte IndexedDB v1 mit alter Tagesrunde, Ledger und offenen Snapshots zu v2 migriert.",
+    "Erzwungener Transaktionsabbruch nach Antwort und Lernbuchung lässt beide unverändert.",
+    "Wiedergewusst nach vorherigem Fehler und drei Kalendertagen an der Oberfläche belegt.",
+    "Zurückgezogene beantwortete Position offen neutralisiert, Abschlussnenner 9, kein Vergleich, sichere Albumanzeige und unveränderte Alt-XP.",
+    "Lokales Zurücksetzen erst nach ausdrücklicher Bestätigung. Abbrechen erhält den Spielstand."
+  ]
+}

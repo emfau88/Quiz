@@ -24,7 +24,18 @@ async function update(before, ui) {
   await restart();
   const version = shell('dumpsys','package',pkg).match(/versionName=([^\s]+)/)[1];
   assert.equal(version,before?'0.3.0':'0.4.0');
+  let originalZone;
   if (before) {
+    if (process.argv.includes('--seed-history')) {
+      const first=await active(ui,'daily');
+      await play(ui,first,4);
+      originalZone=shell('getprop','persist.sys.timezone')||'GMT';
+      const other=['Pacific/Kiritimati','Pacific/Pago_Pago'].find(zone=>
+        new Intl.DateTimeFormat('sv-SE',{timeZone:zone}).format(new Date())!==first.day);
+      assert.ok(other);
+      shell('cmd','alarm','set-timezone',other);
+      await restart();
+    }
     await click('.brand');
     await click('[data-action="daily"]');
     await exists('button.answer:not(:disabled)');
@@ -58,7 +69,9 @@ async function update(before, ui) {
   assert.ok(observations.table.every(person=>person.hits.length===10));
   const manifest = await js("fetch('./data/manifest.json').then(r=>r.json())");
   if (before) {
-    save(checkpoint,{run:new Date().toISOString(),version,catalog:manifest.version,observations});
+    save(checkpoint,{run:new Date().toISOString(),version,catalog:manifest.version,originalZone,observations});
+    const backup=process.argv.find(arg=>arg.startsWith('--save-profile='));
+    if (backup) save(backup.slice(15),await js('JSON.parse(QuizAndroid.readGame())'));
     passed('0.3.0 mit offener Tagesrunde und Kennenlernrunde. Beide ersten Antworten über die Oberfläche gespeichert. Figuren und alle 30 simulierten Treffer, verbrauchte Probe, bisherige Tagesbuchungen und Fortschritt gesichert.');
     return;
   }
@@ -73,8 +86,37 @@ async function update(before, ui) {
   report.catalogBefore=old.catalog;
   report.catalogAfter=manifest.version;
   report.observations=observations;
+  const registrations=await js("('serviceWorker' in navigator) ? navigator.serviceWorker.getRegistrations().then(all=>all.map(reg=>reg.scope)) : []");
+  assert.deepEqual(registrations,[]);
+  report.nativeServiceWorkers=registrations;
   passed('Das installierte Update erhält die beiden offenen Runden samt Karten und Antworten, alle 30 Treffer der drei alten Computergegner, lokale Kennung, bisherige Tagesbuchungen und verbrauchte Probe.');
   passed('Android zeigt die gespeicherte Erklärung. Weiter öffnet Frage zwei der identischen Kennenlernrunde.');
+  if(old.originalZone) shell('cmd','alarm','set-timezone',old.originalZone);
+}
+
+async function rankedScreen(ui) {
+  const {restart,profile,click,js,exists,screenshot,passed}=ui;
+  await restart();
+  if (!(await profile()).settings.comparison) {
+    await click('[data-nav="settings"]');
+    await click('[data-setting="comparison"]');
+  }
+  const rounds=Object.values((await profile()).sessions);
+  const tied=rounds.find(round=>round.mode==='quick' && round.status==='completed' &&
+    round.opponents.some(guest=>guest.correct===round.result.correct));
+  assert.ok(tied);
+  await click('.nav-mobile [data-nav="knowledge"]');
+  await click('[data-action="tab"][data-id="history"]');
+  await click('[data-action="open-session"][data-id="'+tied.id+'"]');
+  await exists('.result-card');
+  await checkTable(ui);
+  const layout=await js("(()=>{const table=document.querySelector('details.virtual table');const counts=[...table.querySelectorAll('thead th')].map(e=>{const r=document.createRange();r.selectNodeContents(e);return r.getClientRects().length});const info=[...table.querySelectorAll('.ranking-person small')].map(e=>({label:e.textContent,display:getComputedStyle(e).display}));return {counts,info}})()");
+  assert.deepEqual(layout.counts,[1,1,1]);
+  assert.ok(layout.info.every(row=>row.display==='block' && row.label));
+  await screenshot('rangtisch','details.virtual');
+  ui.report.session=tied.id;
+  ui.report.layout=layout;
+  passed('Bei 360 dp bleiben alle drei Spaltenüberschriften einzeilig, Namen und Fachgebiete stehen in getrennten Zeilen. Geteilte Plätze sind in der gespeicherten Runde sichtbar.');
 }
 
 async function play(ui, round, score, interruptAfter = 0) {
@@ -274,6 +316,32 @@ async function localTopics(ui) {
   passed('50 eigene Antworten in fünf angebotenen Unterthemenvarianten. Tierverhalten verweist für anspruchsvoll auf die Hauptrubrik. Die lokale Ausgabe meldet weiterhin keinen Play-Besitz.');
 }
 
+async function localFinish(ui) {
+  const {restart,click,js,exists,report,passed}=ui;
+  await restart();
+  await click('.nav-mobile [data-nav="topics"]');
+  await click('[data-action="topic"][data-id="nature_animals"]');
+  await click('[data-action="topic-scope"][data-subtopic="wetter"]');
+  await click('[data-action="begin-topic"][data-mode="topic"][data-subtopic="wetter"]');
+  await exists('button.answer:not(:disabled)');
+  const first=await active(ui,'topic');
+  assert.ok(first.items.every(i=>i.q.tags.includes('thema_wetter')));
+  const state=await ui.profile();
+  const result=await play(ui,first,8);
+  assert.equal(learning(await ui.profile())-learning(state),10);
+  assert.equal(result.result.xp,0);
+  assert.equal(await billing(ui),'unavailable');
+  report.assets={};
+  for (const asset of ['sw.js','styles.css']) {
+    const installed=await js("fetch("+JSON.stringify('./'+asset)+").then(r=>r.arrayBuffer()).then(b=>crypto.subtle.digest('SHA-256',b)).then(b=>Array.from(new Uint8Array(b),n=>n.toString(16).padStart(2,'0')).join(''))");
+    const expected=createHash('sha256').update(readFileSync('web/'+asset)).digest('hex');
+    assert.equal(installed,expected);
+    report.assets[asset]=installed;
+  }
+  report.questions=orderedDeck(first);report.result=result.result;
+  passed('Endgültiges Lokaltest-APK: zehn Wetterfragen über die sichtbare Themenwahl bis 8/10 gespielt. Zehn Lernbuchungen, keine Tages-XP, kein Play-Besitz. Die zur Laufzeit ausgelieferten Stylesheet- und Worker-Bytes entsprechen dem Abgabestand.');
+}
+
 async function recipient(ui) {
   const {js,exists,click,restart,profile,report,shell,screenshot,passed}=ui;
   const option=process.argv.find(arg=>arg.startsWith('--invite='));
@@ -311,8 +379,9 @@ async function recipient(ui) {
     assert.equal(round.friendScore,source.senderScore);
     const complete=await play(ui,round,3,2);
     await exists('.friend-result');
-    assert.deepEqual(await js("Array.from(document.querySelectorAll('.friend-scores dd'),v=>v.textContent)"),['3 von 5','4 von 5']);
-    await screenshot('02-euer-vergleich','.friend-result');
+    assert.equal(await js("document.querySelector('.result-card .score').textContent.trim()"),'3 von 5');
+    assert.equal(await js("document.querySelector('.friend-result strong').textContent"),'4 von 5');
+    await screenshot('02-euer-vergleich','.result-card .score');
     await click(button('reply-friend'));
     await exists('dialog textarea#share-value');
     const text=await js("document.querySelector('#share-value').value");
@@ -347,7 +416,9 @@ async function recipient(ui) {
 export async function runContinue(mode, ui) {
   if (mode === 'continue-before' || mode === 'continue-after') return update(mode === 'continue-before',ui);
   if (mode === 'continue-regular') return regular(ui);
+  if (mode === 'continue-table') return rankedScreen(ui);
   if (mode === 'continue-local') return localTopics(ui);
+  if (mode === 'continue-final-local') return localFinish(ui);
   if (mode === 'continue-friend') return recipient(ui);
   throw new Error('Unbekannter Android-Fall '+mode);
 }

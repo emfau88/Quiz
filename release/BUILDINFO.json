@@ -1,9 +1,9 @@
 {
-  "base_commit": "35f0fffda051d3966e360bf94cdeb9ee52ded9ee",
-  "assembled_at_utc": "2026-11-22T23:03:30.460119+00:00",
+  "base_commit": "fb625214ae475bb75d286b1a6c2fcc0f387bc0c1",
+  "assembled_at_utc": "2026-11-24T20:59:57.297836+00:00",
   "source": "working_tree",
-  "app_version": "0.3.0",
-  "version_code": 3,
+  "app_version": "0.4.0",
+  "version_code": 4,
   "catalog": {
     "version": "de-d5a1d0585ed1",
     "sha256": "d5a1d0585ed1ef7953a0ab54b25e36ffb847495755264486395cdd3ce2668021",
@@ -87,6 +87,46 @@
       "form_wiedererkennen": 405,
       "form_zeitlich_einordnen": 144
     },
+    "subtopics": {
+      "filmgeschichte": {
+        "category": "entertainment",
+        "facts": 96,
+        "grades": [
+          54,
+          31,
+          11
+        ],
+        "variants": [
+          "topic",
+          "challenge"
+        ]
+      },
+      "tierverhalten": {
+        "category": "nature_animals",
+        "facts": 38,
+        "grades": [
+          26,
+          10,
+          2
+        ],
+        "variants": [
+          "topic"
+        ]
+      },
+      "wetter": {
+        "category": "nature_animals",
+        "facts": 30,
+        "grades": [
+          18,
+          9,
+          3
+        ],
+        "variants": [
+          "topic",
+          "challenge"
+        ]
+      }
+    },
     "research": 36,
     "daily_formats": true,
     "daily_clues": 241,
@@ -94,32 +134,40 @@
   },
   "public_release": false,
   "public_release_platform": "Google Play",
-  "browser_test_url": "https://emfau88.github.io/Quiz/spielen.html?v=0.3.0",
+  "browser_test_url": "https://emfau88.github.io/Quiz/spielen.html?v=0.4.0",
+  "browser_test_status": "public",
+  "verified_browser_deployment": {
+    "commit": "fb625214ae475bb75d286b1a6c2fcc0f387bc0c1",
+    "workflow": "https://github.com/emfau88/Quiz/actions/runs/45485316109",
+    "tested_at": "2026-11-24T20:56:16.307Z"
+  },
+  "android_status": "local_test",
+  "google_play_status": "not_submitted",
   "verified_local_builds": {
     "Quizsalon-Lokaltest.apk": {
       "gradle_output": "android/app/build/outputs/apk/localTest/app-localTest.apk",
-      "last_write_utc": "2026-11-22T22:46:59.141818+00:00"
+      "last_write_utc": "2026-11-24T20:52:27.691296+00:00"
     },
     "Quizsalon-Play-Vorschau.apk": {
       "gradle_output": "android/app/build/outputs/apk/debug/app-debug.apk",
-      "last_write_utc": "2026-11-22T22:46:27.622758+00:00"
+      "last_write_utc": "2026-11-24T20:52:27.850038+00:00"
     }
   },
   "artifacts": [
     {
       "path": "Quizsalon-Lokaltest.html",
-      "bytes": 4585420,
-      "sha256": "6593bcec209e56220aebbbc9f779ab85729e8d027c2c53e6fefd95dacd48bacc"
+      "bytes": 5874562,
+      "sha256": "1ceb5f0dbdc16ea9b3e3cf0760b1dfdff7afaaa5d66d32f804b1604f9464eb9e"
     },
     {
       "path": "android/Quizsalon-Lokaltest.apk",
-      "bytes": 2847826,
-      "sha256": "0e3eb2480830b40f4e06d9f2a22ef0db738a9573e885f75ebe91d0817d2cc13c"
+      "bytes": 3805727,
+      "sha256": "707dc3a4f707dd6fa10078ee3368042cf99db505e285d819ad9f89d40f761a45"
     },
     {
       "path": "android/Quizsalon-Play-Vorschau.apk",
-      "bytes": 2848514,
-      "sha256": "c59195c60bb4510ecae86067d10e854512e21323a6aa3a90252046c375229d9d"
+      "bytes": 3806451,
+      "sha256": "bddba55b0330d087b2322509bb2e470906d575a471c5d47a6deda8da63a0ded1"
     },
     {
       "path": "store/Feature-Graphic-1024x500.png",
@@ -133,33 +181,33 @@
     },
     {
       "path": "store/Telefon-01-frage.png",
-      "bytes": 308529,
-      "sha256": "e485bf1850426a46a1551eb8a7be763c8706fc82cd2b47df9887ecca76f17488"
+      "bytes": 248069,
+      "sha256": "ca19d4ffeae4e1224f6ddc05887a634743de573f55a76f31a977c32ef6c613be"
     },
     {
       "path": "store/Telefon-02-erklaerung.png",
-      "bytes": 915776,
-      "sha256": "3a51429573e4e4bde857d7ccf7a5aad84f2c02ba2a67f76feddb1ef309304e9d"
+      "bytes": 570645,
+      "sha256": "b2e670de51a728ea8f0921809e07e4a50c8b98b530f183b1be37ed18b697a9c4"
     },
     {
       "path": "store/Telefon-03-ergebnis.png",
-      "bytes": 495159,
-      "sha256": "76ea0caf813d58d166128c9cdd2ead5e960ffaf36ad50e369537ce29f6352a73"
+      "bytes": 360478,
+      "sha256": "81f8e1d8e735c64a54cd57e0ef14ddcfdaf8bc3909bf709efa2eb3887f218e26"
     },
     {
       "path": "store/Telefon-04-heute.png",
-      "bytes": 878340,
-      "sha256": "8296d14f761035ddc34b50aa91ee70e708fc1d351fdfe44df66a2126fd010286"
+      "bytes": 1008727,
+      "sha256": "1354fbce724e884ad808dc2f36d3ddffb3c19368e366e69897ef55dde61f339e"
     },
     {
       "path": "store/Telefon-05-themen.png",
-      "bytes": 464739,
-      "sha256": "37228595bfd803f06e4125736439aefddaa1ae8bc2afcdc2c838374b8026a383"
+      "bytes": 303187,
+      "sha256": "cfb1a0d09c50b3c8475d3aff6749a01ac2054bbcd2f79ee4c1abdd86aea201dd"
     },
     {
       "path": "store/Telefon-06-wissen.png",
-      "bytes": 317792,
-      "sha256": "4be218902c336cb5ea55719c0d50e8c8606693d8dc0b8d08c7126108d165dd67"
+      "bytes": 326272,
+      "sha256": "759f719922fe094c458a8a90158e4a758a6ccd84f7ad96a7815beaeac6f22e74"
     }
   ]
 }

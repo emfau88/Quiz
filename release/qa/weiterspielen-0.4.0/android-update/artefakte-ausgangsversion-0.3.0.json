@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Quizsalon-Lokaltest.apk",
+    "bytes": 2847826,
+    "sha256": "0e3eb2480830b40f4e06d9f2a22ef0db738a9573e885f75ebe91d0817d2cc13c",
+    "package": "de.quizsalon.lokaltest",
+    "label": "Quizsalon Lokaltest",
+    "minSdk": 24,
+    "targetSdk": 36,
+    "versionCode": 3,
+    "versionName": "0.3.0",
+    "catalog": "de-d5a1d0585ed1",
+    "questions": 2400,
+    "assetsVerified": 22,
+    "nativeLibraries": [],
+    "zipalign16KB": true,
+    "apkSignatureV2": true,
+    "signingCertificateSHA256": "ac59fe5d1a95340f1223e1e22ff17bf0871c9f9d986e9d30b5df9c6257acc932",
+    "permissions": [
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.POST_NOTIFICATIONS"
+    ]
+  },
+  {
+    "name": "Quizsalon-Play-Vorschau.apk",
+    "bytes": 2848514,
+    "sha256": "c59195c60bb4510ecae86067d10e854512e21323a6aa3a90252046c375229d9d",
+    "package": "de.quizsalon.vorschau",
+    "label": "Quizsalon",
+    "minSdk": 24,
+    "targetSdk": 36,
+    "versionCode": 3,
+    "versionName": "0.3.0",
+    "catalog": "de-d5a1d0585ed1",
+    "questions": 2400,
+    "assetsVerified": 22,
+    "nativeLibraries": [],
+    "zipalign16KB": true,
+    "apkSignatureV2": true,
+    "signingCertificateSHA256": "ac59fe5d1a95340f1223e1e22ff17bf0871c9f9d986e9d30b5df9c6257acc932",
+    "permissions": [
+      "com.android.vending.BILLING",
+      "android.permission.ACCESS_NETWORK_STATE",
+      "android.permission.VIBRATE",
+      "android.permission.RECEIVE_BOOT_COMPLETED",
+      "android.permission.POST_NOTIFICATIONS",
+      "android.permission.INTERNET"
+    ]
+  }
+]

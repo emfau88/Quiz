@@ -1,5 +1,12 @@
 # Entscheidungen
 
+## Weiterspielen in 0.4.0
+
+- Die Tagesrunde zählt für XP und Wochenziel. Eine kostenlose Fünferrunde, Revanche oder eingeladene Freundesrunde zählt für den eigenen Lernfortschritt. Neben den Tagesrunden kann genau eine Zusatzrunde aktiv sein. Die bestehende Transaktion speichert Antwort und Fortschritt gemeinsam. [Spielregeln](web/js/engine.js)
+- Der Quiztisch kennzeichnet Computergegner gemeinsam am Tisch und nennt bei jeder Figur ihre Stärken. Er zeigt lokale, beim Start festgelegte Ergebnisse. Ein echter Freundesvergleich braucht eine bewusst geteilte Einladung.
+- Die Einladung verwendet die öffentliche Pages-Adresse und übergibt die Daten hinter dem Rautezeichen. Sie enthält fünf Karten mit beiden Revisionen und Antwortreihenfolgen sowie Formatversion und freiwillige Trefferzahl. Die App prüft die Karten einzeln. Eine kompatible Katalogaktualisierung und derselbe Link können einen begonnenen Vergleich fortsetzen. [Einladungsformat](web/js/friends.js)
+- Die Kurzauswahl verteilt fünf verschiedene Sachverhalte auf möglichst viele Kategorien, bevorzugt ungesehene Karten und überspringt möglichst die vorige Fünferrunde. Die bezahlte Themenwahl richtet sich nach tatsächlich verfügbaren Fragen. Die HTML-Testausgabe hat ihren eigenen lokalen Zugang. [Unterthemen und Zugang](web/js/subtopics.js)
+
 ## Tagesrunde und Redaktion in 0.3.0
 
 - Eine neue Tagesrunde hat zehn Plätze. Genau einer ist für eine Schätzung und zwei sind für redaktionell geprüfte Hinweisfragen vorgesehen. Höchstens zwei Plätze können reines Wiedererkennen verlangen. Die Formbegrenzungen gelten ebenfalls bei fälligen Lernwiederholungen. [Produktregeln](specs/product_rules.json) · [Grenzfälle der Auswahl](tests/daily-formats.test.mjs)

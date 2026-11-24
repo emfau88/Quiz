@@ -1,5 +1,17 @@
 # Quizsalon · Release-Checkliste
 
+## Deutsche Ausgabe 0.4.0
+
+- [x] Kostenlose Fünferrunde, Revanche, optionaler Quiztisch, drei Unterthemen und Freundesrunden bis zum Ergebnis geprüft. [Arbeitspakete und Einzelnachweise](UMSETZUNGSPLAN_WEITERSPIELEN.md)
+- [x] 2.400 eindeutige Fragen und unveränderte Lernregeln im Katalogbau, in 39 JavaScript-Regeltests und elf Compilerprüfungen bestätigt. [Testprotokoll](release/qa/weiterspielen-0.4.0/regeltests.json) · [Katalog](web/data/manifest.json)
+- [x] Einzel-HTML, installierte Browserfassung und Android-App mit einem tatsächlich begonnenen Stand aus 0.3.0 aktualisiert. [Datei](release/qa/weiterspielen-0.4.0/html-update.json) · [Browser](release/qa/weiterspielen-0.4.0/pages-update.json) · [Android](release/qa/weiterspielen-0.4.0/android-update/android-ui.json)
+- [x] Test-APK und Play-Vorschau mit demselben Katalog und je 36 geprüften Dateien gebaut. Die Einzel-HTML funktioniert offline mit eingebetteten Porträts und kopierbarem Freundeslink. [APKs und Signaturen](release/android/artifacts.json) · [Geprüfte Einzeldatei](release/qa/weiterspielen-0.4.0/einzeldatei-einladung.json)
+- [x] Neue Spielwege auf kleinem Display mit 200 Prozent Browserschrift und auf dem Android-Emulator mit aktivem Google TalkBack und 150 Prozent Systemschrift bis zur Auswertung und Themenwahl geprüft. [Mobiler Browser](release/qa/weiterspielen-0.4.0/ui/weiter-ui.json) · [TalkBack](release/qa/weiterspielen-0.4.0/android-talkback/talkback.txt)
+- [x] Store-Beschreibung und Datenschutzentwürfe um freiwillige Freundeslinks, Freirunden und Themenwahl ergänzt. [Store-Entwurf](release/store/STORE_DE.md) · [Datenflüsse](release/store/DATENFLUESSE.md)
+- [x] Öffentliche Browser-Testausgabe über GitHub Actions ausgeliefert. Im Spiel-Link aus der GitHub-README haben zwei getrennte Profile denselben Fragen- und Antwortsatz vollständig gespielt. [Live-Vergleich samt Quellabgleich](release/qa/weiterspielen-0.4.0/github-pages-live/freundesrunde.json) · [Bereitstellung](https://github.com/emfau88/Quiz/actions/runs/45485316109)
+- [ ] Echten Play-Kauf, Wiederherstellung und Offline-Berechtigung mit einem Lizenztester im internen Track abnehmen.
+- [ ] Physisches Gerät und Zielgruppe erproben, Betreiberangaben und Signierung bereitstellen und über die Store-Einreichung entscheiden. [Offene Voraussetzungen](BLOCKERS.md)
+
 ## Deutsche Ausgabe 0.3.0
 
 - [x] 36 datierte Forschungsveröffentlichungen fachlich geprüft und als Quellen in den Karten hinterlegt. Die jüngste Originalarbeit erschien am 18. November 2026. [Quellen und Belege](content/research/README.md)
